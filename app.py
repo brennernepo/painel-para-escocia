@@ -1,0 +1,475 @@
+from datetime import date, timedelta
+from html import escape
+
+import pydeck as pdk
+import streamlit as st
+
+import dados as D
+from estilo import CSS, celular, html, libras, tags_html, url_maps
+from tempo import descrever, hoje, previsao, sol, veredito
+
+st.set_page_config(page_title="Painel para a Escócia", page_icon="🏴", layout="wide")
+st.html(CSS)
+
+SEMANA = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
+BASES = {b["id"]: b for b in D.BASES}
+
+
+def base_do_dia(dia: date) -> dict:
+    """Onde vocês dormem na noite deste dia (no último dia, a última base)."""
+    for b in D.BASES:
+        if b["chegada"] <= dia < b["saida"]:
+            return b
+    return D.BASES[-1] if dia >= D.BASES[-1]["saida"] else D.BASES[0]
+
+
+def fmt_data(dia: date) -> str:
+    return f"{dia.day:02d}/{dia.month:02d}"
+
+
+PREV = previsao(tuple((b["id"], b["lat"], b["lon"]) for b in D.BASES))
+
+
+def dia_previsto(id_base: str, dia: date) -> dict | None:
+    if not PREV or id_base not in PREV:
+        return None
+    return PREV[id_base]["dias"].get(dia)
+
+
+def resumo_tempo(id_base: str, dia: date) -> tuple[str, str]:
+    """Texto curto do tempo de um dia: previsão quando já existe, senão a média histórica."""
+    p = dia_previsto(id_base, dia)
+    if p and p["max"] is not None:
+        nome, emoji = descrever(p["codigo"])
+        chuva = f" · 💧{p['chuva_prob']}%" if p["chuva_prob"] is not None else ""
+        return f"{emoji} {p['max']:.0f}° / {p['min']:.0f}°{chuva}", nome
+    n = D.NORMAIS[id_base]
+    return f"≈ {n['max_media']:.0f}° / {n['min_media']:.0f}°", "média histórica"
+
+
+# ---------------------------------------------------------------------------
+# Cabeçalho e faixa "agora"
+# ---------------------------------------------------------------------------
+html(
+    '<div class="topo"><div class="marca-icone">🗺</div><div class="marca-nome">Brenner</div></div>'
+    '<div class="titulo">Painel para a <span>Escócia</span></div>'
+    f'<div class="descricao">{escape(D.SUBTITULO)}</div>'
+)
+
+agora = hoje()
+if agora < D.INICIO:
+    faltam = (D.INICIO - agora).days
+    primeira = D.BASES[0]
+    p_atual = (PREV or {}).get(primeira["id"], {}).get("atual", {})
+    tempo_agora = ""
+    if p_atual:
+        nome, emoji = descrever(p_atual.get("weather_code"))
+        tempo_agora = f" Agora em {primeira['cidade']}: {emoji} {p_atual.get('temperature_2m', 0):.0f}°, {nome.lower()}."
+    html(
+        f'<div class="agora"><div class="agora-emoji">🧳</div><div><div class="agora-titulo">'
+        f'Faltam {faltam} dias para a viagem</div><div class="agora-sub">Primeira parada: {primeira["cidade"]}, '
+        f'check-in {escape(primeira["checkin"])} de {fmt_data(primeira["chegada"])}.{escape(tempo_agora)}</div></div></div>'
+    )
+elif agora <= D.FIM:
+    b = base_do_dia(agora)
+    nascer, por = sol(b["lat"], b["lon"], agora)
+    texto, nome = resumo_tempo(b["id"], agora)
+    html(
+        f'<div class="agora"><div class="agora-emoji">{b["emoji"]}</div><div><div class="agora-titulo">'
+        f'Hoje: {escape(b["cidade"])}</div><div class="agora-sub">{escape(texto)} ({escape(nome.lower())}) · '
+        f'sol das {nascer:%H:%M} às {por:%H:%M}</div></div></div>'
+    )
+
+abas = st.tabs(
+    ["Roteiro", "Tempo", "Edimburgo", "Highlands", "Glencoe e Skye", "Fife", "York", "Trechos", "Dicas e gastos"],
+    key="aba", on_change="rerun",
+)
+
+
+# ---------------------------------------------------------------------------
+# Aba: roteiro
+# ---------------------------------------------------------------------------
+def mapa_roteiro() -> pdk.Deck:
+    # Edimburgo e Dalgety Bay ficam a 13 km: rótulos para lados opostos
+    deslocamentos = {"edimburgo": [62, 12], "dalgety": [-66, -12], "inverness": [0, -18], "york": [0, -18]}
+    pontos = [
+        {"nome": f"{i}. {b['cidade']}", "lat": b["lat_mapa"], "lon": b["lon_mapa"],
+         "deslocamento": deslocamentos.get(b["id"], [0, -18])}
+        for i, b in enumerate(D.BASES, start=1)
+    ]
+    caminho = [{"path": [[lon, lat] for lat, lon in D.ROTA_MAPA]}]
+    passeios = [{"nome": p["nome"], "lat": p["lat"], "lon": p["lon"]} for p in D.PONTOS_MAPA]
+    return pdk.Deck(
+        layers=[
+            pdk.Layer("PathLayer", caminho, get_path="path", get_color=[232, 119, 46, 170], width_min_pixels=3,
+                      get_width=4, joint_rounded=True, cap_rounded=True),
+            pdk.Layer("ScatterplotLayer", passeios, get_position=["lon", "lat"], get_radius=1500,
+                      radius_min_pixels=4, get_fill_color=[43, 30, 26, 150], stroked=True,
+                      get_line_color=[255, 255, 255], line_width_min_pixels=1, pickable=True),
+            pdk.Layer("ScatterplotLayer", pontos, get_position=["lon", "lat"], get_radius=4000, radius_min_pixels=8,
+                      get_fill_color=[200, 49, 43, 230], stroked=True, get_line_color=[255, 255, 255],
+                      line_width_min_pixels=2, pickable=True),
+            pdk.Layer("TextLayer", pontos, get_position=["lon", "lat"], get_text="nome", get_size=13,
+                      get_color=[43, 30, 26], font_family="'DM Sans, sans-serif'", font_weight=700,
+                      get_pixel_offset="deslocamento", background=True, get_background_color=[255, 255, 255, 230],
+                      background_padding=[6, 3]),
+        ],
+        initial_view_state=pdk.ViewState(latitude=55.82, longitude=-3.0, zoom=5.25 if celular() else 5.55),
+        views=[pdk.View(type="MapView", controller={"scrollZoom": False, "dragRotate": False, "touchRotate": False})],
+        map_provider="carto", map_style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
+        tooltip={"html": "<b>{nome}</b>", "style": {"backgroundColor": "#fff", "color": "#2B1E1A",
+                                                    "fontFamily": "DM Sans, sans-serif", "fontSize": "12px"}},
+    )
+
+
+def hospedagens_privadas() -> dict:
+    """Endereços e anfitriões vêm de st.secrets, nunca do repositório público."""
+    try:
+        return {k: dict(v) for k, v in st.secrets.get("hospedagens", {}).items()}
+    except Exception:  # sem secrets.toml
+        return {}
+
+
+PRIVADO = hospedagens_privadas()
+
+with abas[0]:
+    html('<div class="rotulo">Onde vocês vão dormir</div>')
+    casas = ""
+    for i, b in enumerate(D.BASES, start=1):
+        noites = (b["saida"] - b["chegada"]).days
+        p = PRIVADO.get(b["id"], {})
+        if p:
+            onde = f'{escape(p.get("endereco", ""))}<br>Anfitrião: {escape(p.get("anfitriao", ""))}<br>'
+            link = url_maps(p.get("busca", b["busca_bairro"]))
+        else:
+            onde = f"{escape(b['bairro'])}<br>"
+            link = url_maps(b["busca_bairro"])
+        casas += (
+            f'<div class="casa"><div class="casa-cidade"><span class="casa-num">{i}</span>{escape(b["cidade"])}</div>'
+            f'<div class="casa-datas">{fmt_data(b["chegada"])} → {fmt_data(b["saida"])} · {noites} noites</div>'
+            f'<div class="casa-info">{onde}Check-in {escape(b["checkin"])} · check-out {escape(b["checkout"])}</div>'
+            f'<div class="casa-info" style="color:var(--text3)">{escape(b["nota"])}</div>'
+            f'<a class="maps" href="{link}" target="_blank">📍 Abrir no Google Maps</a></div>'
+        )
+    html(f'<div class="casas">{casas}</div>')
+    if not PRIVADO:
+        html('<div class="aviso">Endereços e anfitriões ficam fora do código público; veja secrets.exemplo.toml.</div>')
+
+    html('<div class="rotulo">Dia a dia</div>')
+    linhas = ""
+    dia = D.INICIO
+    while dia <= D.FIM:
+        b = base_do_dia(dia)
+        nascer, por = sol(b["lat"], b["lon"], dia)
+        texto, nome = resumo_tempo(b["id"], dia)
+        evento = D.EVENTOS_DIA.get(dia, "")
+        classe = "dia hoje" if dia == agora else "dia"
+        linhas += (
+            f'<div class="{classe}"><div class="dia-data">{fmt_data(dia)}<small>{SEMANA[dia.weekday()]}</small></div>'
+            f'<div><div class="dia-base">{b["emoji"]} {escape(b["cidade"])}</div>'
+            f'<div class="dia-evento">{escape(evento)}</div>'
+            f'<div class="dia-sol">☀ {nascer:%H:%M} – {por:%H:%M} ({(por - nascer).seconds / 3600:.1f} h de luz)</div></div>'
+            f'<div class="dia-tempo">{escape(texto)}<small>{escape(nome)}</small></div></div>'
+        )
+        dia += timedelta(days=1)
+    html(f'<div class="bloco">{linhas}</div>')
+    html('<div class="aviso">A previsão substitui a média histórica sozinha quando o dia entra nos 16 dias da Open-Meteo.</div>')
+
+    html('<div class="rotulo">O percurso</div>')
+    with st.container(key="mapa_box"):
+        st.pydeck_chart(mapa_roteiro(), height=420 if celular() else 480)
+    html('<div class="aviso">Pontos vermelhos: hospedagens. Pontos escuros: passeios citados nas outras abas '
+         '(passe o mouse ou toque para ver o nome). A linha segue a A9 e a ferrovia da costa leste.</div>')
+
+
+# ---------------------------------------------------------------------------
+# Aba: tempo
+# ---------------------------------------------------------------------------
+with abas[1]:
+    atual = base_do_dia(agora) if D.INICIO <= agora <= D.FIM else D.BASES[0]
+    escolha = st.segmented_control(
+        "Cidade", [b["id"] for b in D.BASES], default=atual["id"], required=True, key="cidade_tempo",
+        format_func=lambda i: f"{BASES[i]['emoji']} {BASES[i]['cidade']}", label_visibility="collapsed",
+    )
+    b = BASES[escolha]
+    estadia = {b["chegada"] + timedelta(days=k) for k in range((b["saida"] - b["chegada"]).days + 1)}
+
+    if PREV and escolha in PREV:
+        a = PREV[escolha]["atual"]
+        nome, emoji = descrever(a.get("weather_code"))
+        html(
+            f'<div class="rotulo">Agora em {escape(b["cidade"])} · atualizado {PREV["_hora"]}</div><div class="tiles">'
+            f'<div class="tile forte"><div class="tile-valor">{emoji} {a.get("temperature_2m", 0):.0f}°</div>'
+            f'<div class="tile-rot">{escape(nome)}</div></div>'
+            f'<div class="tile"><div class="tile-valor">{a.get("apparent_temperature", 0):.0f}°</div><div class="tile-rot">sensação</div></div>'
+            f'<div class="tile"><div class="tile-valor">{a.get("wind_speed_10m", 0):.0f}</div><div class="tile-rot">vento, km/h</div></div>'
+            f'<div class="tile"><div class="tile-valor">{a.get("wind_gusts_10m", 0):.0f}</div><div class="tile-rot">rajadas, km/h</div></div></div>'
+        )
+        cartoes = ""
+        for dia, p in PREV[escolha]["dias"].items():
+            if p["max"] is None:
+                continue
+            nome, emoji = descrever(p["codigo"])
+            classe = "cartao-dia estadia" if dia in estadia else "cartao-dia"
+            cartoes += (
+                f'<div class="{classe}" title="{escape(nome)}"><div class="cd-data">{SEMANA[dia.weekday()]} {fmt_data(dia)}</div>'
+                f'<div class="cd-emoji">{emoji}</div><div class="cd-temp">{p["max"]:.0f}° <span>{p["min"]:.0f}°</span></div>'
+                f'<div class="cd-extra">💧 {p["chuva_prob"] or 0}% · {p["chuva_mm"] or 0:.0f} mm<br>💨 {p["rajada"] or 0:.0f} km/h</div></div>'
+            )
+        cobre = any(d in estadia for d in PREV[escolha]["dias"])
+        html(f'<div class="rotulo">Próximos 16 dias</div><div class="faixa-dias">{cartoes}</div>')
+        if cobre:
+            html('<div class="aviso">Bordas laranja: dias em que vocês estarão na cidade.</div>')
+        else:
+            primeiro = min(estadia)
+            html(
+                f'<div class="aviso">A previsão ainda não chega às datas de vocês em {escape(b["cidade"])}; '
+                f'ela começa a aparecer por volta de {fmt_data(primeiro - timedelta(days=15))}.</div>'
+            )
+    else:
+        html('<div class="alerta laranja">Não consegui buscar a previsão agora. Tente recarregar a página em alguns minutos.</div>')
+
+    n = D.NORMAIS[escolha]
+    html(
+        f'<div class="rotulo">Como costuma ser de {fmt_data(b["chegada"])} a {fmt_data(b["saida"])} (2015–2025)</div>'
+        '<div class="tiles">'
+        f'<div class="tile"><div class="tile-valor">{n["max_media"]:.0f}° / {n["min_media"]:.0f}°</div><div class="tile-rot">máxima / mínima média</div></div>'
+        f'<div class="tile"><div class="tile-valor">{n["dias_chuva_pct"]}%</div><div class="tile-rot">dos dias com chuva (≥1 mm)</div></div>'
+        f'<div class="tile"><div class="tile-valor">{n["rajada_media_kmh"]}</div><div class="tile-rot">rajada típica, km/h</div></div>'
+        f'<div class="tile"><div class="tile-valor">{n["min_recorde"]:.0f}° a {n["max_recorde"]:.0f}°</div><div class="tile-rot">extremos registrados</div></div>'
+        "</div>"
+        '<div class="aviso">Dados diários da reanálise ERA5 via Open-Meteo, mesmas datas de 2015 a 2025.</div>'
+    )
+    roupa = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
+                    for r, v in D.O_QUE_LEVAR)
+    links = " · ".join(f'<a class="link" href="{u}" target="_blank">{escape(t)}</a>' for t, u in D.LINKS_TEMPO)
+    html(f'<div class="rotulo">O que levar</div><div class="bloco">{roupa}</div>'
+         f'<div class="aviso" style="font-style:normal">Fontes oficiais: {links}</div>')
+
+
+# ---------------------------------------------------------------------------
+# Abas das cidades
+# ---------------------------------------------------------------------------
+def cartao_ponto(p: dict) -> str:
+    meta = f'<div class="ponto-meta">{p["meta"]}</div>' if p.get("meta") else ""
+    busca = p.get("busca") or p["nome"]
+    return (
+        f'<div class="ponto"><div class="ponto-topo"><span class="ponto-emoji">{p["emoji"]}</span>'
+        f'<span class="ponto-nome">{escape(p["nome"])}</span></div>'
+        f'<div class="ponto-texto">{escape(p["texto"])}</div>{meta}{tags_html(p.get("tags", []))}'
+        f'<a class="maps" href="{url_maps(busca)}" target="_blank">📍 Abrir no Google Maps</a></div>'
+    )
+
+
+def mostrar_cidade(chave: str) -> None:
+    cidade = D.CIDADES[chave]
+    html(f'<div class="descricao" style="margin-top:4px">{escape(cidade["intro"])}</div>')
+    if cidade.get("alerta"):
+        html(f'<div class="alerta azul">{escape(cidade["alerta"])}</div>')
+    secoes = cidade["secoes"]
+    nomes = [s["nome"] for s in secoes]
+    escolha = st.pills("Seção", nomes, default=nomes[0], key=f"secao_{chave}", label_visibility="collapsed")
+    s = next((x for x in secoes if x["nome"] == escolha), secoes[0])
+    html(
+        f'<div class="regiao" style="margin-top:6px"><div class="faixa"></div><div class="regiao-corpo">'
+        f'<div class="regiao-nome">{escape(s["nome"])}</div><div class="regiao-desc" style="margin-bottom:0">'
+        f'{escape(s["descricao"])}</div></div></div>'
+    )
+    if s.get("pontos"):
+        html('<div class="pontos" style="margin-top:12px">' + "".join(cartao_ponto(p) for p in s["pontos"]) + "</div>")
+    if s.get("dicas"):
+        dicas = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
+                        for r, v in s["dicas"])
+        html(f'<div class="rotulo">Dicas</div><div class="bloco">{dicas}</div>')
+
+
+for indice, chave in [(2, "edimburgo"), (3, "highlands"), (5, "fife"), (6, "york")]:
+    with abas[indice]:
+        mostrar_cidade(chave)
+
+
+# ---------------------------------------------------------------------------
+# Aba: Glencoe e Skye
+# ---------------------------------------------------------------------------
+PREV_EXTRA = previsao(tuple((d["id"], d["lat"], d["lon"]) for d in D.DESTINOS_EXTRA))
+NOMES_EXTRA = {d["id"]: d["nome"] for d in D.DESTINOS_EXTRA}
+COORD_EXTRA = {d["id"]: (d["lat"], d["lon"]) for d in D.DESTINOS_EXTRA}
+ROTULO_NIVEL = {"verde": "Bom para ir", "atencao": "Dá, com ressalvas", "evitar": "Melhor não", "info": "Sem previsão ainda"}
+ORDEM_NIVEL = {"verde": 0, "info": 1, "atencao": 2, "evitar": 3}
+COR_NIVEL = {"verde": "#157A55", "info": "#2C5C8A", "atencao": "#D97706", "evitar": "#B42318"}
+
+
+def tempo_destino(local: str, dia: date) -> dict:
+    p = (PREV_EXTRA or {}).get(local, {}).get("dias", {}).get(dia)
+    if p and p["max"] is not None:
+        nivel, motivo = veredito(p)
+        nome, emoji = descrever(p["codigo"])
+        texto = f"{emoji} {p['max']:.0f}° / {p['min']:.0f}° · 💧 {p['chuva_prob'] or 0}% · 💨 {p['rajada'] or 0:.0f} km/h"
+        return {"nivel": nivel, "motivo": motivo, "texto": texto, "emoji": emoji, "p": p}
+    n = D.NORMAIS_EXTRA[local]
+    return {
+        "nivel": "info", "emoji": "📅",
+        "motivo": f"a previsão começa por volta de {fmt_data(dia - timedelta(days=15))}; "
+                  f"nos últimos 11 anos, {n['dias_bons_pct']}% desses dias foram bons para o passeio",
+        "texto": f"≈ {n['max_media']:.0f}° / {n['min_media']:.0f}° · chove em {n['dias_chuva_pct']}% dos dias",
+        "p": None,
+    }
+
+
+with abas[4]:
+    html(f'<div class="descricao" style="margin-top:4px">{escape(D.GLENCOE_SKYE_INTRO)}</div>')
+
+    # Tempo nos dias possíveis
+    dias_possiveis = [date(2026, 11, 5), date(2026, 11, 6), date(2026, 11, 7)]
+    for local in ("glencoe", "skye"):
+        cartoes = ""
+        for dia in dias_possiveis:
+            t = tempo_destino(local, dia)
+            nascer, por = sol(*COORD_EXTRA[local], dia)
+            p = t["p"]
+            if p:
+                linha = (f'<div class="cd-temp">{p["max"]:.0f}° <span>{p["min"]:.0f}°</span></div>'
+                         f'<div class="cd-extra">💧 {p["chuva_prob"] or 0}% · 💨 {p["rajada"] or 0:.0f}</div>')
+            else:
+                n = D.NORMAIS_EXTRA[local]
+                linha = (f'<div class="cd-temp">≈{n["max_media"]:.0f}° <span>{n["min_media"]:.0f}°</span></div>'
+                         '<div class="cd-extra">média histórica</div>')
+            cartoes += (
+                f'<div class="cartao-dia" style="flex-basis:150px;border-top:4px solid {COR_NIVEL[t["nivel"]]}">'
+                f'<div class="cd-data">{SEMANA[dia.weekday()]} {fmt_data(dia)}</div><div class="cd-emoji">{t["emoji"]}</div>'
+                f'{linha}<div class="cd-extra" style="color:{COR_NIVEL[t["nivel"]]};font-weight:600">{ROTULO_NIVEL[t["nivel"]]}</div>'
+                f'<div class="cd-extra">☀ {nascer:%H:%M}–{por:%H:%M}</div></div>'
+            )
+        html(f'<div class="rotulo">{escape(NOMES_EXTRA[local])}</div><div class="faixa-dias">{cartoes}</div>')
+    html('<div class="aviso">Verde: sem chuva forte nem vento perigoso. Laranja: rajadas acima de 55 km/h, chuva provável '
+         'ou céu fechado. Vermelho: neve, trovoada, rajadas acima de 75 km/h ou mais de 15 mm de chuva.</div>')
+
+    # Perguntas
+    html('<div class="rotulo">Como vocês estão</div>')
+    with st.container(border=True):
+        c1, c2 = st.columns(2)
+        with c1:
+            carro = st.segmented_control("Vão ter carro?", ["Sim", "Não", "Ainda não sei"], default="Ainda não sei",
+                                         required=True, key="gs_carro")
+        with c2:
+            limite = st.slider("Até quantas horas ao volante num dia?", 2.0, 8.0, 6.0, 0.5, key="gs_horas", format="%.1f h")
+
+    # Cenários
+    avaliados = []
+    for c in D.CENARIOS:
+        horas = c["minutos"] * 1.2 / 60
+        tempos = [(l, d, tempo_destino(l, d)) for l, d in c.get("tempo", [(l, c["dia"]) for l in c["locais"]])]
+        bloqueio = ""
+        if c["carro"] and carro == "Não":
+            bloqueio = "Precisa de carro"
+        elif c["carro"] and horas > limite:
+            bloqueio = f"~{horas:.1f} h ao volante passa do limite de {limite:g} h".replace(".", ",")
+        if bloqueio:
+            nivel = "evitar"
+        elif tempos:
+            nivel = max((t["nivel"] for _, _, t in tempos), key=lambda n: ORDEM_NIVEL[n])
+        else:
+            nivel = "verde"
+        avaliados.append(((c.get("reserva", False), ORDEM_NIVEL[nivel]), c, horas, tempos, bloqueio, nivel))
+    avaliados.sort(key=lambda x: x[0])  # o plano B fica sempre por último
+
+    html('<div class="rotulo">Opções, das mais viáveis às menos</div>')
+    for _, c, horas, tempos, bloqueio, nivel in avaliados:
+        dia_txt = f'{SEMANA[c["dia"].weekday()]} {fmt_data(c["dia"])}'
+        volante = f" · ~{horas:.1f} h ao volante com paradas curtas".replace(".", ",") if c["carro"] else ""
+        motivo = f'<div class="opcao-resumo" style="color:{COR_NIVEL[nivel]}">{escape(bloqueio)}</div>' if bloqueio else ""
+        linhas_tempo = "".join(
+            f'<div class="linha"><span class="linha-r">{escape(NOMES_EXTRA[l])}, {fmt_data(d)}</span>'
+            f'<span class="linha-v">{escape(t["texto"])}<br><span style="font-weight:400;color:var(--text3)">'
+            f'{escape(t["motivo"])}</span></span></div>'
+            for l, d, t in tempos
+        )
+        plano = "".join(
+            f'<div class="linha"><span class="linha-r" style="flex:0 0 72px;font-weight:600">{escape(h)}</span>'
+            f'<span class="linha-v" style="text-align:left;font-weight:400">{escape(o)}</span></div>'
+            for h, o in c["plano"]
+        )
+        html(
+            f'<div class="rota" style="margin-top:12px"><div class="faixa" style="background:{COR_NIVEL[nivel]}"></div>'
+            f'<div class="regiao-corpo"><div class="regiao-nome" style="font-size:24px">{escape(c["titulo"])}</div>'
+            f'<span class="chip">{dia_txt}</span> <span class="selo {nivel}">{ROTULO_NIVEL[nivel]}</span>{motivo}'
+            f'<div class="regiao-desc" style="margin:10px 0 4px">{escape(c["comparacao"])}{volante}</div>'
+            f'<div class="ponto-meta">{escape(c["rota"])}</div>'
+            + (f'<div class="bloco" style="margin-top:10px">{linhas_tempo}</div>' if linhas_tempo else "")
+            + (f'<div class="bloco" style="margin-top:10px">{plano}</div>' if plano else "")
+            + f'<div class="alerta azul">{escape(c["observacao"])}</div></div></div>'
+        )
+
+    # O que ver
+    html('<div class="rotulo">O que ver</div>')
+    lugar = st.pills("Lugar", ["Glencoe", "Skye"], default="Glencoe", key="gs_lugar", label_visibility="collapsed")
+    pontos = D.SKYE if lugar == "Skye" else D.GLENCOE
+    html('<div class="pontos">' + "".join(cartao_ponto(p) for p in pontos) + "</div>")
+
+    # Checklist
+    itens = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
+                    for r, v in D.CHECKLIST)
+    links = " · ".join(f'<a class="link" href="{u}" target="_blank">{escape(t)}</a>' for t, u in D.LINKS_GLENCOE_SKYE)
+    html(f'<div class="rotulo">Na véspera, antes de decidir</div><div class="bloco">{itens}</div>'
+         f'<div class="aviso" style="font-style:normal">{links}</div>')
+
+
+# ---------------------------------------------------------------------------
+# Aba: trechos
+# ---------------------------------------------------------------------------
+with abas[7]:
+    html(f'<div class="alerta azul" style="margin-top:4px">{escape(D.TRECHOS_INTRO)}</div>')
+    for t in D.TRECHOS:
+        opcoes = "".join(
+            f'<div class="opcao"><div class="opcao-emoji">{o["emoji"]}</div><div><div class="opcao-nome">{escape(o["nome"])}</div>'
+            f'<div class="opcao-resumo">{escape(o["resumo"])}</div><div class="opcao-texto">{escape(o["texto"])}</div></div></div>'
+            for o in t["opcoes"]
+        )
+        data = f'<span class="chip">{escape(t["quando"])}</span>' if t.get("quando") else ""
+        html(
+            f'<div class="rota" style="margin-top:14px"><div class="faixa"></div><div class="regiao-corpo" style="padding-bottom:8px">'
+            f'<div class="regiao-nome" style="font-size:26px">{escape(t["titulo"])}</div>{data}'
+            f'<div class="regiao-desc" style="margin:8px 0 4px">{escape(t["descricao"])}</div>{opcoes}</div></div>'
+        )
+        if t.get("paradas"):
+            html('<div class="rotulo">Paradas no caminho</div><div class="pontos">'
+                 + "".join(cartao_ponto(p) for p in t["paradas"]) + "</div>")
+
+
+# ---------------------------------------------------------------------------
+# Aba: dicas e gastos
+# ---------------------------------------------------------------------------
+with abas[8]:
+    for grupo in D.DICAS:
+        linhas = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
+                         for r, v in grupo["itens"])
+        html(f'<div class="rotulo">{escape(grupo["titulo"])}</div><div class="bloco">{linhas}</div>')
+
+    html('<div class="rotulo">Estimativa de gastos</div>')
+    with st.container(border=True):
+        c1, c2 = st.columns(2)
+        perfil = c1.selectbox("Perfil de gasto", list(D.PERFIS), index=1)
+        pessoas = c2.selectbox("Pessoas", [1, 2, 3, 4], index=1, format_func=lambda p: "1 pessoa" if p == 1 else f"{p} pessoas")
+    dias = (D.FIM - D.INICIO).days
+    gastos = D.PERFIS[perfil]
+    dia_pessoa = sum(gastos.values())
+    total = (dia_pessoa * dias + D.TRECHOS_POR_PESSOA) * pessoas
+    html(
+        '<div class="tiles" style="grid-template-columns:repeat(3,1fr)">'
+        f'<div class="tile forte"><div class="tile-valor">{libras(total)}</div><div class="tile-rot">total estimado, {dias} dias</div></div>'
+        f'<div class="tile"><div class="tile-valor">{libras(dia_pessoa)}</div><div class="tile-rot">por dia, por pessoa</div></div>'
+        f'<div class="tile"><div class="tile-valor">{libras(D.TRECHOS_POR_PESSOA * pessoas)}</div><div class="tile-rot">trens entre as cidades</div></div>'
+        "</div>"
+        f'<div class="aviso">{escape(D.GASTOS_NOTA)}</div>'
+    )
+    maior = max(gastos.values())
+    cats = "".join(
+        f'<div class="cat"><div class="cat-topo"><div><div class="cat-nome">{escape(c)}</div>'
+        f'<div class="cat-sub">{escape(D.CATEGORIAS[c])}</div></div><div class="cat-valor">{libras(v)}</div></div>'
+        f'<div class="barra"><i style="width:{v / maior * 100:.0f}%"></i></div></div>'
+        for c, v in gastos.items()
+    )
+    ref = "".join(f'<div class="linha"><span class="linha-r">{escape(i)}</span><span class="linha-v">{escape(p)}</span></div>'
+                  for i, p in D.PRECOS)
+    html(f'<div class="rotulo">Por categoria, por pessoa, por dia</div><div class="bloco">{cats}</div>'
+         f'<div class="rotulo">Preços de referência</div><div class="bloco">{ref}</div>')
