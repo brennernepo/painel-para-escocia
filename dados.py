@@ -63,9 +63,9 @@ EVENTOS_DIA = {
     date(2026, 11, 3): "Edimburgo.",
     date(2026, 11, 4): "Edimburgo.",
     date(2026, 11, 5): "Check-out até 10h, trecho para Inverness (pela A9 ou por Glencoe), check-in a partir das 15h. "
-                       "À noite, fogos da Bonfire Night.",
+                       "À noite, Bonfire Night em Inverness: fogueira às 18h e fogos às 19h no Bught Park, grátis.",
     date(2026, 11, 6): "Inverness, um bate-volta nas Highlands ou Skye.",
-    date(2026, 11, 7): "Check-out até 10h e trecho para Dalgety Bay (pela A9 ou por Glencoe).",
+    date(2026, 11, 7): "Check-out até 10h e trecho para Dalgety Bay (pela A9 ou por Glencoe). Sem trem entre Inverness e Perth neste dia: obras, com ônibus substituto.",
     date(2026, 11, 8): "Fife ou Edimburgo. Remembrance Sunday: dois minutos de silêncio às 11h em todo o país.",
     date(2026, 11, 9): "Trecho para York, check-in a partir das 15h.",
     date(2026, 11, 10): "York.",
@@ -82,8 +82,8 @@ O_QUE_LEVAR = [
 ]
 
 LINKS_TEMPO = [
-    ("Alertas do Met Office", "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings"),
-    ("Traffic Scotland (estradas)", "https://trafficscotland.org/"),
+    ("Alertas do Met Office", "https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings"),
+    ("Traffic Scotland (estradas)", "https://www.traffic.gov.scot/"),
 ]
 
 CIDADES = {}
@@ -117,7 +117,7 @@ CIDADES["highlands"] = {
                 P("🏰", "Loch Ness e Urquhart Castle",
                   "Ruínas na beira do lago, o cartão-postal do Loch Ness. Comprem online: quando o online esgota, "
                   "não vendem na porta, e o estacionamento só é garantido com reserva.",
-                  "🚗 30 min · 🚌 Citylink 919 para na porta · <b>9h30–16h30</b> · <b>£14</b> online · meio dia",
+                  "🚗 30 min · 🚌 Citylink 919 para na porta · <b>9h30–16h30</b> (última entrada 15h30) · <b>£14</b> online · meio dia",
                   ["Pago", "Reserva"], "Urquhart Castle"),
                 P("⛴", "Cruzeiro no Loch Ness",
                   "A Jacobite opera quase o ano todo. O mais completo leva ônibus, barco e entrada no Urquhart, "
@@ -135,7 +135,7 @@ CIDADES["highlands"] = {
                   "Sempre aberto", ["Grátis"], "Clava Cairns"),
                 P("🛡", "Fort George",
                   "Fortaleza militar do século 18 ainda em uso pelo exército, sobre o estuário.",
-                  "🚗 25 min · <b>10h–16h</b> · <b>£10</b> online · 25% de desconto para quem chega sem carro",
+                  "🚗 25 min · <b>10h–16h</b> (última entrada 15h) · <b>£10</b> online · 25% de desconto para quem chega sem carro",
                   ["Pago"], "Fort George"),
                 P("🐬", "Black Isle e Chanonry Point",
                   "Ponta de areia onde golfinhos caçam no canal. Ficam ali o ano todo, mas em novembro aparecem menos. "
@@ -185,7 +185,7 @@ CIDADES["highlands"] = {
                   "Pode fechar em cheias", ["Grátis"], "Ness Islands, Inverness"),
                 P("📚", "Leakey's Bookshop",
                   "Sebo enorme dentro de uma igreja antiga, com lareira acesa no inverno.",
-                  "Seg–sáb 10h–17h30 · fechado no domingo", ["Grátis"], "Leakey's Bookshop, Inverness"),
+                  "Ter–sáb 10h–17h30 · fechado dom e seg", ["Grátis"], "Leakey's Bookshop, Inverness"),
                 P("🏛", "Inverness Museum and Art Gallery",
                   "História das Highlands, dos pictos aos jacobitas. Pequeno, bom para uma hora de chuva.",
                   "Ter–qui 12h–16h, sex–sáb 11h–16h · fechado dom–seg", ["Grátis"],
@@ -234,12 +234,12 @@ CIDADES["highlands"] = {
             "descricao": "Para quem não alugar carro. As agências abaixo têm saídas em novembro de 2026.",
             "pontos": [
                 P("🚐", "Rabbie's",
-                  "Saídas da rodoviária de Inverness: Skye (~12 h), Loch Ness completo (9h30–17h30) e Glen Affric "
-                  "com Culloden e Clava (~8 h).",
-                  "~£70–100 por pessoa", ["Reserva"], "Inverness Bus Station"),
+                  "Saídas ao lado da Catedral, na Ardross Street: Skye (8h–20h), Loch Ness completo (9h30–17h15) e "
+                  "Glen Affric com Culloden e Clava (9h–18h).",
+                  "a partir de £40–58 por pessoa", ["Reserva"], "Inverness Cathedral, Ardross Street, Inverness"),
                 P("🚐", "Highland Explorer Tours",
-                  "Skye com Eilean Donan em 12 horas. A entrada do castelo é paga à parte.",
-                  "~£85 por pessoa · só no dia 06", ["Reserva"], "Inverness Bus Station"),
+                  "Skye com Eilean Donan em 12 horas, saindo às 7h45 da Union Street. A entrada do castelo é paga à parte.",
+                  "~£75–80 por pessoa · só no dia 06 · código WINTER dá 10% até 13/11", ["Reserva"], "15 Union Street, Inverness"),
                 P("🚐", "Go Highlands",
                   "Grupo de até sete pessoas: Clava, Culloden e Loch Ness em 7 horas.",
                   "~£160 por pessoa", ["Reserva"], "Inverness"),
@@ -275,8 +275,8 @@ CIDADES["highlands"] = {
                 ("Neve e gelo", "Trechos altos da A9 (Slochd e Drumochter) e a A87 para Skye"),
                 ("Obras na A9", "Tomatin–Moy com limite de 40 mph; Tay Crossing–Ballinluig também em obras"),
                 ("Combustível", "Abasteça em Inverness, Aviemore ou Fort William; postos rurais fecham cedo e no domingo"),
-                ("Antes de sair", "Câmeras e alertas em trafficscotland.org e no Met Office"),
-                ("Aluguel", "Enterprise perto da estação, Arnold Clark na Harbour Road, e as grandes no aeroporto (15 km)"),
+                ("Antes de sair", "Câmeras e alertas em traffic.gov.scot e no Met Office"),
+                ("Aluguel", "Enterprise na Seafield Road, Arnold Clark na Harbour Road, e as grandes no aeroporto (15 km)"),
                 ("Devolver em Fife", "Cobram taxa por devolução em outra cidade"),
             ],
         },
@@ -293,7 +293,7 @@ CIDADES["york"] = {
     ),
     "alerta": (
         "O mercado de Natal abre em 12/11, um dia depois da saída de vocês. Em novembro as muralhas começam a "
-        "fechar às 15h30, e o Yorkshire Museum fecha às segundas."
+        "fechar às 15h30, e o Yorkshire Museum só abre de quarta a domingo."
     ),
     "secoes": [
         {
@@ -319,7 +319,7 @@ CIDADES["york"] = {
                 P("🏚", "The Shambles",
                   "A rua medieval de casas tortas que quase se tocam no alto. Cedo, antes das 9h, dá para fotografar "
                   "sem multidão. O mercado coberto ao lado tem praça de alimentação.",
-                  "Mercado das 9h às 17h",
+                  "Mercado das 9h às 16h no inverno",
                   ["Grátis", "Vá cedo"], "The Shambles, York"),
                 P("🏰", "Clifford's Tower",
                   "Torre do castelo sobre um morro artificial, com terraço no telhado e vista da cidade.",
@@ -327,7 +327,7 @@ CIDADES["york"] = {
                   ["Pago"]),
                 P("🏛", "Barley Hall",
                   "Casa medieval restaurada no beco Coffee Yard. Também funciona como guarda-volumes da Stasher.",
-                  "<b>£9,50</b> · horário de inverno a confirmar",
+                  "<b>£9,50</b> · inverno 10h–16h (última entrada 15h30)",
                   ["Pago", "Guarda-volumes"], "Barley Hall, Coffee Yard, York"),
                 P("⚖", "Merchant Adventurers' Hall",
                   "Salão de comerciantes do século 14, com vigas de madeira enormes. Só aceita cartão.",
@@ -337,7 +337,7 @@ CIDADES["york"] = {
             "dicas": [
                 ("Ordem boa para o dia 10", "Muralhas de manhã, museus à tarde, Evensong às 17h30"),
                 ("Ruas sem carro", "No centro, carro e táxi só entram antes das 10h30 ou depois das 17h"),
-                ("Treasurer's House", "Provavelmente fechada de 9 a 11/11: a temporada termina em outubro"),
+                ("Treasurer's House", "Fechada de 9 a 11/11: as visitas guiadas vão até outubro e o Natal começa só em 14/11"),
             ],
         },
         {
@@ -358,7 +358,7 @@ CIDADES["york"] = {
                   ["Pago", "Reserva"]),
                 P("🌳", "Museum Gardens e St Mary's Abbey",
                   "Jardim com as ruínas de uma abadia beneditina. O Yorkshire Museum fica dentro dele.",
-                  "Jardins grátis · Yorkshire Museum <b>£10</b>, ter–dom 10h–17h, <b>fechado às segundas</b>",
+                  "Jardins grátis · Yorkshire Museum <b>£10</b>, qua–dom 10h–17h, <b>fechado seg e ter</b> (só dá na quarta, 11)",
                   ["Grátis"], "York Museum Gardens"),
                 P("🖼", "York Art Gallery",
                   "Exposição atual: Turner, Wedgwood e outros. Só abre de quarta a domingo.",
@@ -376,7 +376,7 @@ CIDADES["york"] = {
             "pontos": [
                 P("👻", "The Original Ghost Walk",
                   "O passeio de fantasmas mais antigo da cidade, com chuva ou sem chuva.",
-                  "<b>Toda noite às 20h</b>, saindo do pub King's Arms, na Ouse Bridge · £10",
+                  "<b>Toda noite às 20h</b>, saindo do pub King's Arms, na Ouse Bridge · £10 (na hora, só dinheiro)",
                   ["Pago"], "King's Arms, Ouse Bridge, York"),
                 P("🕯", "Outros passeios de fantasmas",
                   "Ghost Hunt of York sai das Shambles às 19h30. Mad Alice só roda de quinta a sábado e não "
@@ -395,13 +395,13 @@ CIDADES["york"] = {
                 P("🫖", "Bettys",
                   "A casa de chá mais famosa do norte da Inglaterra. Não aceita reserva no salão: vá antes das "
                   "10h30 ou depois das 14h30. A Little Bettys fechou em 2021.",
-                  "St Helen's Square · chá da tarde no Belmont Room, com reserva, £44,95",
+                  "St Helen's Square · chá da tarde no Belmont Room, com reserva, ~£49,95",
                   ["Fila"], "Bettys, St Helen's Square, York"),
                 P("🍲", "Shambles Food Court",
                   "Barracas com noodles, bagels e cozinha marroquina por uns £9.",
-                  "9h–17h", ["Barato"], "Shambles Market, York"),
+                  "9h–16h no inverno", ["Barato"], "Shambles Market, York"),
                 P("🌶", "Na Grape Lane",
-                  "Los Moros (norte-africano), Fish & Forest (no guia Michelin, reserve), Nineteen e Pig & Potato.",
+                  "Los Moros (norte-africano), Fish & Forest (no guia Michelin, só abre de quarta a sábado), Nineteen e Pig & Potato.",
                   "", [], "Grape Lane, York"),
                 P("🥩", "The Whippet Inn",
                   "Carnes e pub food em North Street, do outro lado do rio.", "", [], "The Whippet Inn, York"),
@@ -454,7 +454,8 @@ CIDADES["edimburgo"] = {
     ),
     "alerta": (
         "O Palácio de Holyroodhouse só abre de quinta a segunda em novembro: fechado em 03 e 04/11. A St Giles' "
-        "cobra £12 de turistas desde 05/10/2026. O Natal de Edimburgo, com o mercado, começa só em 14/11."
+        "cobra £12 de turistas desde 05/10/2026. O Natal de Edimburgo, com o mercado, começa só em 14/11. "
+        "Dom 08/11, Remembrance Sunday: cerimônia às 11h na Royal Mile, que fica cheia de manhã."
     ),
     "secoes": [
         {
@@ -470,7 +471,7 @@ CIDADES["edimburgo"] = {
                 P("⛪", "St Giles' Cathedral",
                   "A catedral da Royal Mile, com a capela dos Cavaleiros do Cardo. Desde outubro de 2026 cobra "
                   "ingresso de quem não mora na Escócia.",
-                  "Seg–sex 10h–18h, sáb 9h–17h, dom 13h–17h · <b>£12</b>",
+                  "Seg–qua e sex 10h–18h, qui 10h–17h, sáb 9h–17h, dom 13h–17h; última entrada 1 h antes · <b>£12</b>",
                   ["Pago"]),
                 P("🕯", "The Real Mary King's Close",
                   "Visita guiada a ruas do século 17 que ficaram soterradas embaixo da prefeitura. Esgota.",
@@ -484,7 +485,7 @@ CIDADES["edimburgo"] = {
                   "10h–20h · <b>£25</b> (50 min) ou £39,75 (75 min)", ["Pago"]),
                 P("📜", "Writers' Museum",
                   "Casa do século 17 dedicada a Burns, Scott e Stevenson, escondida no Lady Stair's Close.",
-                  "Todos os dias 10h–17h", ["Grátis"]),
+                  "Todos os dias 10h–17h, última entrada 16h30 · <b>ter 03/11 fecha às 12h</b>", ["Grátis"]),
             ],
             "dicas": [
                 ("Castelo", "Primeiro horário da manhã, antes dos grupos"),
@@ -528,13 +529,13 @@ CIDADES["edimburgo"] = {
                   "Morro de 15 minutos de subida a partir da Princes Street, com o monumento grego inacabado e vista "
                   "do castelo, do Arthur's Seat e do mar. O melhor lugar para o pôr do sol, perto das 16h20. "
                   "As trilhas não têm iluminação.",
-                  "Sempre aberto · Nelson Monument 10h–15h30, £7,50", ["Grátis"], "Calton Hill"),
+                  "Sempre aberto · Nelson Monument 10h–15h30 (ter 03/11 só até 12h), £7,50", ["Grátis"], "Calton Hill"),
                 P("🖼", "Scottish National Gallery",
                   "Rafael, Rembrandt, Monet e pintores escoceses, no meio dos jardins da Princes Street.",
                   "Todos os dias 10h–17h", ["Grátis"]),
                 P("🗼", "Scott Monument",
                   "Torre gótica de 287 degraus estreitos. Fecha com vento forte, o que em novembro é comum.",
-                  "Até ~15h30 no inverno · <b>£8</b>", ["Pago"]),
+                  "Até ~15h30 no inverno · <b>£8</b> · ter 03/11 fecha às 12h", ["Pago"]),
                 P("🥃", "Johnnie Walker Princes Street",
                   "Loja e experiência de oito andares com bar no terraço.",
                   "Tour de 90 min ~£30 (confira)", ["Pago"], "Johnnie Walker Princes Street"),
@@ -560,7 +561,7 @@ CIDADES["edimburgo"] = {
                   "Scottish Parliament"),
                 P("🌍", "Dynamic Earth",
                   "Museu interativo sobre a formação da Terra. Bom para chuva.",
-                  "~10h–17h30 · <b>£23</b> online · confira dias de novembro", ["Pago"]),
+                  "~10h–17h30 · <b>£23</b> online (vale um ano) · pode fechar seg e ter no inverno: confira", ["Pago"]),
                 P("🥃", "Holyrood Distillery",
                   "Destilaria nova de uísque e gin num galpão ferroviário.",
                   "Tour rápido <b>£15</b>", ["Pago"], "Holyrood Distillery"),
@@ -589,7 +590,7 @@ CIDADES["edimburgo"] = {
             "pontos": [
                 P("🛳", "Royal Yacht Britannia",
                   "O iate da rainha Elizabeth II, aberto do convés à sala de jantar de Estado. Só aceita cartão.",
-                  "Primeira entrada 10h, última 15h · <b>£20</b>", ["Pago"], "Royal Yacht Britannia"),
+                  "Primeira entrada 10h, última 15h · <b>£23</b> online, £25 na porta", ["Pago"], "Royal Yacht Britannia"),
                 P("🥃", "Port of Leith Distillery",
                   "Destilaria vertical, em um prédio de nove andares, com bar no alto.",
                   "Tour com degustação <b>£30</b>", ["Pago", "Reserva"]),
@@ -644,7 +645,7 @@ CIDADES["edimburgo"] = {
                 ("Cobertos e pagos", "Camera Obscura, Mary King's Close, Scotch Whisky Experience, Dynamic Earth, Palm Houses"),
                 ("Abertos à noite", "Camera Obscura (até 19h30 ou mais) e Scotch Whisky Experience (até 20h)"),
                 ("Pôr do sol", "Calton Hill, esplanada do castelo, escada Vennel na Grassmarket, Blackford Hill"),
-                ("Ventania", "Scott Monument e às vezes o castelo fecham com vento forte"),
+                ("Ventania", "Scott Monument e às vezes o castelo fecham com vento forte; ter 03/11 Scott, Nelson e Writers' Museum fecham às 12h"),
                 ("Domingo", "St Giles' só abre às 13h; o Parlamento não abre"),
             ],
         },
@@ -657,8 +658,8 @@ CIDADES["edimburgo"] = {
 CIDADES["fife"] = {
     "intro": (
         "Duas noites em Dalgety Bay, na margem norte do Forth, com o domingo 08/11 inteiro livre. De carro, "
-        "Fife rende muito. Sem carro, o trem chega a Edimburgo em meia hora, mas no domingo passa só a cada "
-        "70 a 100 minutos no meio do dia."
+        "Fife rende muito. Sem carro, o trem chega a Edimburgo em meia hora; no domingo passa mais ou menos "
+        "de hora em hora, sem trem entre 10h30 e 12h07."
     ),
     "alerta": (
         "Fechados em novembro: Culross Palace, Falkland Palace e Hopetoun House. A abadia de Dunfermline só abre "
@@ -705,7 +706,7 @@ CIDADES["fife"] = {
                 P("🐟", "East Neuk",
                   "Vilas de pescadores: Anstruther, com o Anstruther Fish Bar, Pittenweem e Crail. Combina com "
                   "St Andrews num dia só, de carro.",
-                  "🚗 1 h · Fish Bar 11h30–20h30 (confira horário de inverno)", [], "Anstruther Fish Bar"),
+                  "🚗 1 h · Fish Bar dom a qui 11h30–21h (para viagem até 21h30)", [], "Anstruther Fish Bar"),
                 P("🎬", "Culross",
                   "Vila do século 17 quase intacta, a Cranesmuir de Outlander. O palácio está fechado, mas a vila "
                   "e o café Bessie's (qui–seg) funcionam.",
@@ -743,9 +744,9 @@ CIDADES["fife"] = {
             "descricao": "O trem atravessa a Forth Bridge e chega a Haymarket e Waverley.",
             "dicas": [
                 ("Tempo", "~31 minutos até Waverley, passando por Haymarket"),
-                ("Preço", "Ida e volta a partir de ~£7,30"),
-                ("Dias úteis", "~46 trens por dia"),
-                ("Domingo", "~16 trens: o primeiro às 8h51, com intervalos de 70 a 100 minutos no meio do dia"),
+                ("Preço", "Ida ~£7,40; ida e volta ~£12,80 (tarifa cheia; confira no app da ScotRail)"),
+                ("Dias úteis", "~36 trens por dia em cada sentido"),
+                ("Domingo", "~16 trens: o primeiro às 8h51, mais ou menos de hora em hora (sem trem entre 10h30 e 12h07)"),
                 ("Bom para domingo", "Holyroodhouse abre no domingo; o Parlamento e a St Giles' de manhã, não"),
             ],
         },
@@ -808,7 +809,7 @@ TRECHOS = [
             {"emoji": "🚆", "nome": "Trem ScotRail direto", "resumo": "~3h20–3h40 · a partir de ~£16–22 antecipado",
              "texto": "Uns 12 trens por dia saindo de Waverley. A tarifa antecipada é por trem e as baratas acabam primeiro: comprem já."},
             {"emoji": "🚗", "nome": "Carro pela A9", "resumo": "253 km · ~3h30 sem paradas, ~4h na prática",
-             "texto": "Queensferry Crossing, M90, Perth e A9. Há um trecho em obras ao norte de Dunkeld com limite de 40 mph o dia inteiro."},
+             "texto": "Queensferry Crossing, M90, Perth e A9. Há um trecho em obras ao norte de Dunkeld com limite de 40 mph o dia inteiro e outro perto de Tomatin."},
             {"emoji": "🚌", "nome": "Ônibus Citylink/Megabus", "resumo": "~4 h · o mais barato",
              "texto": "Linha M90. Mais lento e sem as paradas no caminho."},
         ],
@@ -828,11 +829,11 @@ TRECHOS = [
     {
         "titulo": "Inverness → Dalgety Bay",
         "quando": "sáb 07/11 · check-out 10h",
-        "descricao": "Mesmo caminho de volta para o sul. É o dia do jogo em Murrayfield: evitem chegar perto de Haymarket entre 13h e 18h.",
+        "descricao": "Mesmo caminho de volta para o sul. Neste sábado a linha Inverness–Perth está em obras (ônibus no lugar do trem); de carro não muda nada. Dia de jogo em Murrayfield: evitem Haymarket entre 13h e 18h.",
         "opcoes": [
-            {"emoji": "🚆", "nome": "Trem", "resumo": "~3h20–4h · a partir de ~£22",
-             "texto": "Sem trem direto: troca em Perth, ou vai direto a Edimburgo e volta 30 minutos até Dalgety Bay. "
-                      "Diretos para Edimburgo no sábado às 9h42, 10h50 e 12h48."},
+            {"emoji": "🚆", "nome": "Trem", "resumo": "~4h30 ou mais · ônibus substituto até Perth",
+             "texto": "Obras em Dalwhinnie: no sábado 07/11 não há trem entre Inverness e Perth. Ônibus da ScotRail fazem "
+                      "esse trecho; em Perth, trem até Inverkeithing ou Edimburgo. Confiram os horários na véspera."},
             {"emoji": "🚗", "nome": "Carro", "resumo": "234 km · ~3 h sem paradas",
              "texto": "Culloden e Clava cedo, depois A9 com parada em Aviemore (Loch an Eilein) ou Dalwhinnie. Chegar antes de escurecer, perto das 16h20."},
         ],
@@ -892,7 +893,7 @@ DICAS = [
         ("CNH brasileira", "Confirmem com a locadora se pedem a Permissão Internacional para Dirigir"),
     ]},
     {"titulo": "Datas da viagem", "itens": [
-        ("05/11, quinta", "Bonfire Night: fogos espalhados pelos bairros, sem grande show oficial em Edimburgo"),
+        ("05/11, quinta", "Bonfire Night: em Inverness, fogueira (18h) e fogos (19h) oficiais e grátis no Bught Park; a Infirmary Bridge fecha"),
         ("07/11, sábado", "Escócia × Nova Zelândia em Murrayfield às 14h10"),
         ("08/11, domingo", "Remembrance Sunday: em 2025 o desfile saiu do castelo às 10h, com cerimônia às 11h na Royal Mile"),
         ("11/11, quarta", "Armistício: dois minutos de silêncio às 11h"),
@@ -979,7 +980,7 @@ CENARIOS = [
             ("10h45", "Mirante das Three Sisters e Glencoe Visitor Centre; almoço"),
             ("12h45", "Fort William e o Commando Memorial, em Spean Bridge"),
             ("14h15", "Fort Augustus, nas eclusas do Loch Ness"),
-            ("15h30", "Check-in em Inverness, antes do pôr do sol (16h24)"),
+            ("15h30", "Check-in em Inverness, antes do pôr do sol (16h23)"),
         ],
         "observacao": "A opção que mais rende: troca a A9 pela estrada mais bonita da Escócia sem gastar um dia a mais.",
     },
@@ -994,7 +995,7 @@ CENARIOS = [
             ("meio do dia", "Skye, com paradas escolhidas pelo guia conforme o tempo"),
             ("20h00", "Chegada em Inverness"),
         ],
-        "observacao": "Rabbie's, a partir de ~£68 por pessoa, em van de 16 lugares. Cancelamento grátis até 24 h antes: "
+        "observacao": "Rabbie's, a partir de ~£58 por pessoa, em van de 16 lugares. Cancelamento grátis até 24 h antes: "
                       "dá para reservar já e decidir na véspera.",
     },
     {
@@ -1003,7 +1004,7 @@ CENARIOS = [
         "comparacao": "O dia mais puxado ao volante. A volta termina no escuro.",
         "rota": "Inverness → Eilean Donan → Skye Bridge → Sligachan → Portree → Old Man of Storr → volta pela mesma estrada",
         "plano": [
-            ("7h30", "Saída, ainda escuro (o sol nasce às 7h38)"),
+            ("7h30", "Saída, ainda escuro (o sol nasce às 7h40)"),
             ("9h10", "Eilean Donan por fora; a bilheteria abre às 10h"),
             ("10h15", "Ponte velha de Sligachan, com as montanhas Cuillin"),
             ("10h40", "Portree: porto colorido e almoço"),
@@ -1023,7 +1024,7 @@ CENARIOS = [
             ("9h00", "Fort Augustus"),
             ("10h15", "Glencoe: Visitor Centre, Three Sisters e Glencoe Lochan"),
             ("12h15", "Rannoch Moor e saída para o sul"),
-            ("15h00", "Dalgety Bay, com folga antes do pôr do sol (16h22)"),
+            ("15h00", "Dalgety Bay, com folga antes do pôr do sol (16h21)"),
         ],
         "observacao": "Se no dia 05 o tempo não deixar, esta é a segunda chance de ver Glencoe.",
     },
@@ -1057,7 +1058,7 @@ GLENCOE = [
       "Parada de 15 minutos", ["Grátis"], "Three Sisters viewpoint, Glencoe"),
     P("🏛", "Glencoe Visitor Centre",
       "Centro do National Trust sobre o massacre de 1692 e a geologia do vale, com café.",
-      "No inverno passado: todos os dias 9h30–16h (confira 2026) · entrada grátis, estacionamento pago",
+      "Inverno 2026: todos os dias 9h30–16h · entrada grátis, estacionamento pago",
       ["Grátis"], "Glencoe Visitor Centre"),
     P("🌲", "Glencoe Lochan",
       "Trilha plana em volta de um lago com bosque, acima da vila. Boa até com chuva fraca.",
@@ -1087,8 +1088,8 @@ SKYE = [
       "Piscinas de água azul no rio, ao pé das Cuillin. Estrada de pista única e trilha de 2,4 km: não cabem num "
       "bate-volta de novembro.", "", [], "Fairy Pools"),
     P("🥃", "Talisker",
-      "A destilaria da ilha, em Carbost. Em 2025 fechou de 9 a 24/11 para manutenção; confira se repete em 2026.",
-      "Inverno ~10h–16h30", ["Pago"], "Talisker Distillery"),
+      "A destilaria da ilha, em Carbost. A manutenção de 2026 foi de 11/10 a 1/11: está aberta no dia 06.",
+      "Nov–fev: todos os dias 10h–16h30 · pode fechar com mau tempo", ["Pago"], "Talisker Distillery"),
     P("🏰", "Dunvegan Castle", "Fechado: a temporada vai de 1/4 a 15/10.", "", ["Fechado"], "Dunvegan Castle"),
 ]
 
@@ -1103,7 +1104,7 @@ CHECKLIST = [
 ]
 
 LINKS_GLENCOE_SKYE = [
-    ("Alertas do Met Office", "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings"),
+    ("Alertas do Met Office", "https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings"),
     ("MWIS West Highlands", "https://www.mwis.org.uk/forecasts/scottish/west-highlands"),
-    ("Traffic Scotland", "https://trafficscotland.org/"),
+    ("Traffic Scotland", "https://www.traffic.gov.scot/"),
 ]

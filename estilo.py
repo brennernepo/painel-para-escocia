@@ -80,6 +80,10 @@ a.link:hover { text-decoration: underline; }
 .tag.reserva { background: var(--info-bg); color: var(--info); }
 a.maps { margin-top: auto; padding-top: 4px; font-size: 12px; font-weight: 600; color: var(--red) !important; text-decoration: none; }
 a.maps:hover { text-decoration: underline; }
+.ponto-casa { font-size: 12px; font-weight: 600; color: var(--text2); background: var(--bg3); border-radius: 8px;
+  padding: 5px 9px; align-self: flex-start; }
+.ponto-links { margin-top: auto; display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.ponto-links a.maps { margin-top: 0; }
 
 .duas-col { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .bloco { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 6px 16px; }
@@ -146,7 +150,7 @@ a.maps:hover { text-decoration: underline; }
 .barra { height: 4px; border-radius: 4px; background: var(--bg3); margin-top: 7px; }
 .barra i { display: block; height: 100%; border-radius: 4px; background: var(--orange); }
 
-.st-key-mapa_box { border: 1px solid var(--border); border-radius: 16px; overflow: hidden; background: var(--card); }
+[class*="st-key-mapa_"] { border: 1px solid var(--border); border-radius: 16px; overflow: hidden; background: var(--card); }
 .alerta { border-radius: 12px; padding: 10px 14px; font-size: 13px; margin-top: 10px; line-height: 1.5; }
 .alerta.laranja { background: var(--warn-bg); color: var(--warn); }
 .alerta.vermelho { background: var(--bad-bg); color: var(--bad); }

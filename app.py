@@ -1,10 +1,14 @@
+import hmac
+import math
 from datetime import date, timedelta
 from html import escape
+from urllib.parse import quote
 
 import pydeck as pdk
 import streamlit as st
 
 import dados as D
+from coordenadas import COORD
 from estilo import CSS, celular, html, libras, tags_html, url_maps
 from tempo import descrever, hoje, previsao, sol, veredito
 
@@ -13,6 +17,18 @@ st.html(CSS)
 
 SEMANA = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
 BASES = {b["id"]: b for b in D.BASES}
+
+
+def ler_segredos() -> dict:
+    """Senha, endereços e anfitriões vêm de st.secrets, nunca do repositório público."""
+    try:
+        return st.secrets.to_dict()
+    except Exception:  # sem secrets.toml
+        return {}
+
+
+SEGREDOS = ler_segredos()
+PRIVADO = {k: dict(v) for k, v in SEGREDOS.get("hospedagens", {}).items()}
 
 
 def base_do_dia(dia: date) -> dict:
@@ -56,6 +72,28 @@ html(
     f'<div class="descricao">{escape(D.SUBTITULO)}</div>'
 )
 
+
+def pedir_senha() -> None:
+    """Sem a senha certa, nada abaixo do título aparece. Sem senha configurada, o painel fica fechado."""
+    senha = str(SEGREDOS.get("senha", ""))
+    if not senha:
+        html('<div class="alerta laranja">Falta definir a senha nos Secrets do app (veja secrets.exemplo.toml).</div>')
+        st.stop()
+    if st.session_state.get("liberado"):
+        return
+    with st.form("senha", border=True):
+        tentativa = st.text_input("Senha", type="password")
+        entrar = st.form_submit_button("Entrar", type="primary")
+    if entrar and hmac.compare_digest(tentativa.encode(), senha.encode()):
+        st.session_state.liberado = True
+        st.rerun()
+    if entrar:
+        st.error("Senha errada.")
+    st.stop()
+
+
+pedir_senha()
+
 agora = hoje()
 if agora < D.INICIO:
     faltam = (D.INICIO - agora).days
@@ -89,11 +127,55 @@ abas = st.tabs(
 # ---------------------------------------------------------------------------
 # Aba: roteiro
 # ---------------------------------------------------------------------------
+def casa(b: dict) -> tuple[float, float]:
+    """Coordenadas da hospedagem (dos Secrets); sem elas, o bairro arredondado."""
+    p = PRIVADO.get(b["id"], {})
+    if "lat" in p and "lon" in p:
+        return float(p["lat"]), float(p["lon"])
+    return b["lat_mapa"], b["lon_mapa"]
+
+
+def origem(b: dict) -> str:
+    return PRIVADO.get(b["id"], {}).get("busca", b["busca_bairro"])
+
+
+def km_entre(a: tuple[float, float], b: tuple[float, float]) -> float:
+    (la1, lo1), (la2, lo2) = map(lambda p: (math.radians(p[0]), math.radians(p[1])), (a, b))
+    h = math.sin((la2 - la1) / 2) ** 2 + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2
+    return 6371 * 2 * math.asin(math.sqrt(h))
+
+
+def fmt_km(km: float) -> str:
+    return f"{km:.1f} km".replace(".", ",") if km < 10 else f"{km:.0f} km"
+
+
+SEM_CARRO = {"edimburgo", "york"}  # nessas cidades o plano é a pé, de ônibus ou de trem
+
+
+def deslocamento(b: dict, destino: tuple[float, float]) -> tuple[str, str]:
+    """Distância em linha reta e tempo estimado (ruas ≈ 1,3 × a reta), mais o modo da rota no Google Maps."""
+    km = km_entre(casa(b), destino)
+    real = km * 1.3
+    longe = "walking" if real <= 3 else ("transit" if b["id"] in SEM_CARRO else "driving")
+    if real <= 5:
+        return f"{fmt_km(km)} da casa · ~{max(1, round(real / 4.8 * 60))} min a pé", longe
+    if b["id"] in SEM_CARRO:
+        return f"{fmt_km(km)} da casa · de ônibus ou trem (tempo na rota)", longe
+    tempo = real / (30 if real < 15 else 65) * 60
+    tempo_txt = f"~{round(tempo)} min" if tempo < 90 else f"~{tempo / 60:.1f} h".replace(".", ",")
+    return f"{fmt_km(km)} da casa · {tempo_txt} de carro", longe
+
+
+def url_rota(b: dict, busca: str, modo: str) -> str:
+    return (f"https://www.google.com/maps/dir/?api=1&origin={quote(origem(b))}"
+            f"&destination={quote(busca)}&travelmode={modo}")
+
+
 def mapa_roteiro() -> pdk.Deck:
     # Edimburgo e Dalgety Bay ficam a 13 km: rótulos para lados opostos
     deslocamentos = {"edimburgo": [62, 12], "dalgety": [-66, -12], "inverness": [0, -18], "york": [0, -18]}
     pontos = [
-        {"nome": f"{i}. {b['cidade']}", "lat": b["lat_mapa"], "lon": b["lon_mapa"],
+        {"nome": f"{i}. {b['cidade']}", "lat": casa(b)[0], "lon": casa(b)[1],
          "deslocamento": deslocamentos.get(b["id"], [0, -18])}
         for i, b in enumerate(D.BASES, start=1)
     ]
@@ -121,16 +203,6 @@ def mapa_roteiro() -> pdk.Deck:
                                                     "fontFamily": "DM Sans, sans-serif", "fontSize": "12px"}},
     )
 
-
-def hospedagens_privadas() -> dict:
-    """Endereços e anfitriões vêm de st.secrets, nunca do repositório público."""
-    try:
-        return {k: dict(v) for k, v in st.secrets.get("hospedagens", {}).items()}
-    except Exception:  # sem secrets.toml
-        return {}
-
-
-PRIVADO = hospedagens_privadas()
 
 with abas[0]:
     html('<div class="rotulo">Onde vocês vão dormir</div>')
@@ -250,19 +322,59 @@ with abas[1]:
 # ---------------------------------------------------------------------------
 # Abas das cidades
 # ---------------------------------------------------------------------------
-def cartao_ponto(p: dict) -> str:
+def cartao_ponto(p: dict, base: dict | None = None) -> str:
+    """Cartão de um lugar. Com `base`, mostra a distância da hospedagem e a rota saindo dela."""
     meta = f'<div class="ponto-meta">{p["meta"]}</div>' if p.get("meta") else ""
     busca = p.get("busca") or p["nome"]
+    perto, rota = "", ""
+    if base and p["nome"] in COORD:
+        texto, modo = deslocamento(base, COORD[p["nome"]])
+        perto = f'<div class="ponto-casa">🏠 {escape(texto)}</div>'
+        rota = f'<a class="maps" href="{url_rota(base, busca, modo)}" target="_blank">🧭 Rota a partir da casa</a>'
     return (
         f'<div class="ponto"><div class="ponto-topo"><span class="ponto-emoji">{p["emoji"]}</span>'
         f'<span class="ponto-nome">{escape(p["nome"])}</span></div>'
-        f'<div class="ponto-texto">{escape(p["texto"])}</div>{meta}{tags_html(p.get("tags", []))}'
-        f'<a class="maps" href="{url_maps(busca)}" target="_blank">📍 Abrir no Google Maps</a></div>'
+        f'<div class="ponto-texto">{escape(p["texto"])}</div>{meta}{perto}{tags_html(p.get("tags", []))}'
+        f'<div class="ponto-links"><a class="maps" href="{url_maps(busca)}" target="_blank">📍 Abrir no Google Maps</a>{rota}</div></div>'
     )
+
+
+def mapa_cidade(base: dict, pontos: list[dict]) -> pdk.Deck | None:
+    """A hospedagem (vermelho) e os lugares da seção escolhida (escuro)."""
+    lugares = [{"nome": p["nome"], "lat": COORD[p["nome"]][0], "lon": COORD[p["nome"]][1]}
+               for p in pontos if p["nome"] in COORD]
+    if not lugares:
+        return None
+    lat_c, lon_c = casa(base)
+    lar = [{"nome": f"Casa em {base['cidade']}", "lat": lat_c, "lon": lon_c}]
+    lats = [x["lat"] for x in lugares + lar]
+    lons = [x["lon"] for x in lugares + lar]
+    longe = max(km_entre((lat_c, lon_c), (x["lat"], x["lon"])) for x in lugares)
+    zoom = min(15.0, max(6.0, 12.7 - math.log2(max(longe, 0.6)))) - (0.5 if celular() else 0)
+    return pdk.Deck(
+        layers=[
+            pdk.Layer("ScatterplotLayer", lugares, get_position=["lon", "lat"], get_radius=60, radius_min_pixels=5,
+                      radius_max_pixels=9, get_fill_color=[43, 30, 26, 190], stroked=True,
+                      get_line_color=[255, 255, 255], line_width_min_pixels=1, pickable=True),
+            pdk.Layer("ScatterplotLayer", lar, get_position=["lon", "lat"], get_radius=90, radius_min_pixels=9,
+                      radius_max_pixels=12, get_fill_color=[200, 49, 43, 240], stroked=True,
+                      get_line_color=[255, 255, 255], line_width_min_pixels=2, pickable=True),
+        ],
+        initial_view_state=pdk.ViewState(latitude=(min(lats) + max(lats)) / 2,
+                                         longitude=(min(lons) + max(lons)) / 2, zoom=zoom),
+        views=[pdk.View(type="MapView", controller={"scrollZoom": False, "dragRotate": False, "touchRotate": False})],
+        map_provider="carto", map_style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
+        tooltip={"html": "<b>{nome}</b>", "style": {"backgroundColor": "#fff", "color": "#2B1E1A",
+                                                    "fontFamily": "DM Sans, sans-serif", "fontSize": "12px"}},
+    )
+
+
+BASE_DA_ABA = {"edimburgo": "edimburgo", "highlands": "inverness", "fife": "dalgety", "york": "york"}
 
 
 def mostrar_cidade(chave: str) -> None:
     cidade = D.CIDADES[chave]
+    base = BASES[BASE_DA_ABA[chave]]
     html(f'<div class="descricao" style="margin-top:4px">{escape(cidade["intro"])}</div>')
     if cidade.get("alerta"):
         html(f'<div class="alerta azul">{escape(cidade["alerta"])}</div>')
@@ -276,7 +388,13 @@ def mostrar_cidade(chave: str) -> None:
         f'{escape(s["descricao"])}</div></div></div>'
     )
     if s.get("pontos"):
-        html('<div class="pontos" style="margin-top:12px">' + "".join(cartao_ponto(p) for p in s["pontos"]) + "</div>")
+        mapa = mapa_cidade(base, s["pontos"])
+        if mapa:
+            with st.container(key=f"mapa_{chave}"):
+                st.pydeck_chart(mapa, height=300 if celular() else 360)
+            html(f'<div class="aviso">Ponto vermelho: a casa em {escape(base["cidade"])}. Pontos escuros: os lugares desta '
+                 'seção. Distâncias em linha reta; o tempo é estimado e a rota no Google Maps dá o valor real.</div>')
+        html('<div class="pontos" style="margin-top:12px">' + "".join(cartao_ponto(p, base) for p in s["pontos"]) + "</div>")
     if s.get("dicas"):
         dicas = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
                         for r, v in s["dicas"])
@@ -404,7 +522,7 @@ with abas[4]:
     html('<div class="rotulo">O que ver</div>')
     lugar = st.pills("Lugar", ["Glencoe", "Skye"], default="Glencoe", key="gs_lugar", label_visibility="collapsed")
     pontos = D.SKYE if lugar == "Skye" else D.GLENCOE
-    html('<div class="pontos">' + "".join(cartao_ponto(p) for p in pontos) + "</div>")
+    html('<div class="pontos">' + "".join(cartao_ponto(p, BASES["inverness"]) for p in pontos) + "</div>")
 
     # Checklist
     itens = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
