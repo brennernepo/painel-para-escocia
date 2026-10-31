@@ -10,6 +10,7 @@ import streamlit as st
 import dados as D
 import para_voce as PV
 from coordenadas import COORD
+from diario import alertas_met, atualizacao, avisos_vigentes, quando_revisado
 from estilo import CSS, celular, html, libras, tags_html, url_maps
 from tempo import descrever, hoje, previsao, sol, veredito
 
@@ -119,6 +120,46 @@ elif agora <= D.FIM:
         f'Hoje: {escape(b["cidade"])}</div><div class="agora-sub">{escape(texto)} ({escape(nome.lower())}) · '
         f'sol das {nascer:%H:%M} às {por:%H:%M}</div></div></div>'
     )
+
+DIARIO = atualizacao()
+MET = alertas_met()
+NOME_BASE = {b["id"]: b["cidade"] for b in D.BASES} | {"geral": "Viagem"}
+
+
+def link_seguro(url: str) -> str:
+    return url if isinstance(url, str) and url.startswith("https://") else ""
+
+
+def html_avisos(cidade: str | None = None) -> str:
+    """Alertas do Met Office em vigor e avisos da revisão diária; com `cidade`, só os dela."""
+    blocos = []
+    for base, itens in (MET or {}).items():
+        if cidade and base != cidade:
+            continue
+        for i in itens:
+            nivel = "vermelho" if i["titulo"].lower().startswith("red") else "laranja"
+            link = link_seguro(i["link"])
+            mais = f' · <a class="link" href="{escape(link)}" target="_blank">detalhes</a>' if link else ""
+            blocos.append(f'<div class="alerta {nivel}">🌧 <b>Met Office, {escape(NOME_BASE[base])}:</b> '
+                          f'{escape(i["titulo"])}{mais}</div>')
+    for a in avisos_vigentes(DIARIO, agora, cidade):
+        dias = ", ".join(fmt_data(date.fromisoformat(d)) for d in a.get("dias", []))
+        onde = "" if cidade else f'{escape(NOME_BASE.get(a.get("cidade"), "Viagem"))}'
+        rotulo = " · ".join(x for x in (onde, dias) if x)
+        link = link_seguro(a.get("fonte", ""))
+        fonte = f' · <a class="link" href="{escape(link)}" target="_blank">fonte</a>' if link else ""
+        nivel = a.get("nivel") if a.get("nivel") in ("vermelho", "laranja", "azul") else "azul"
+        blocos.append(f'<div class="alerta {nivel}">{f"<b>{rotulo}:</b> " if rotulo else ""}'
+                      f'{escape(a.get("texto", ""))}{fonte}</div>')
+    return "".join(blocos)
+
+
+revisado = quando_revisado(DIARIO)
+avisos_topo = html_avisos()
+if avisos_topo or revisado:
+    rodape = (f"Revisado {revisado} (obras e greves, estradas, fechamentos, shows e jogos)" if revisado
+              else "A revisão diária ainda não rodou")
+    html(f'{avisos_topo}<div class="aviso">{escape(rodape)}. Alertas do Met Office ao vivo.</div>')
 
 NOMES_ABAS = ["Roteiro", "Para você", "Tempo", "Edimburgo", "Highlands", "Glencoe e Skye", "Fife", "York", "Trechos",
               "Dicas e gastos"]
@@ -328,6 +369,10 @@ def cartao_ponto(p: dict, base: dict | None = None) -> str:
     meta = f'<div class="ponto-meta">{p["meta"]}</div>' if p.get("meta") else ""
     busca = p.get("busca") or p["nome"]
     perto, rota = "", ""
+    revisao = DIARIO["lugares"].get(p["nome"])
+    if revisao and revisao.get("nota"):
+        classe = "vermelho" if revisao.get("nivel") == "fechado" else "laranja" if revisao.get("nivel") == "atencao" else "azul"
+        meta += f'<div class="ponto-aviso {classe}">📅 {escape(revisao["nota"])}</div>'
     if base and p["nome"] in COORD:
         texto, modo = deslocamento(base, COORD[p["nome"]])
         perto = f'<div class="ponto-casa">🏠 {escape(texto)}</div>'
@@ -374,7 +419,9 @@ BASE_DA_ABA = {"edimburgo": "edimburgo", "highlands": "inverness", "fife": "dalg
 
 
 def mostrar_cidade(cidade: dict, base: dict, chave: str) -> None:
-    """Intro, alerta, seções em pílulas, mapa da seção a partir da casa e cartões com distância."""
+    """Intro, avisos do dia, alerta, seções em pílulas, mapa da seção a partir da casa e cartões com distância."""
+    if avisos := html_avisos(base["id"]):
+        html(avisos)
     html(f'<div class="descricao" style="margin-top:4px">{escape(cidade["intro"])}</div>')
     if cidade.get("alerta"):
         html(f'<div class="alerta azul">{escape(cidade["alerta"])}</div>')

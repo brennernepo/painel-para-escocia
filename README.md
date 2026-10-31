@@ -21,6 +21,11 @@ streamlit run app.py
 
 O conteúdo está em `dados.py` (a aba Para você, em `para_voce.py`, com as próprias coordenadas), e as coordenadas de cada lugar, pelo nome do cartão, em `coordenadas.py`. A previsão do tempo e o cálculo do sol ficam em `tempo.py`; o visual, em `estilo.py`. A pesquisa de horários e preços foi feita em 10/10/2026 e revisada em 31/10/2026; os itens sem confirmação oficial estão marcados com "confira" no próprio texto.
 
+## Atualização diária
+
+- **Ao vivo**: a previsão do tempo (Open-Meteo) e os alertas do Met Office para a região de cada hospedagem, com cache de 30 minutos.
+- **Revisão diária**: uma rotina do Claude Code na nuvem roda toda manhã às 6h (horário do Reino Unido) até 11/11. Ela pesquisa obras e greves nos trens, estradas, fechamentos, shows e jogos, grava `atualizacao.json` no ramo `claude/atualizacao-diaria` e confere o arquivo com `verificar_atualizacao.py`. O app lê esse ramo direto do GitHub (`diario.py`), sem precisar ser reimplantado, e mostra os avisos no topo, na aba de cada cidade e como nota nos cartões.
+
 ## Senha e endereços das hospedagens
 
 A senha do painel, os endereços, os anfitriões e as coordenadas das hospedagens não ficam no código, que é público. O app lê esses dados de `st.secrets`:

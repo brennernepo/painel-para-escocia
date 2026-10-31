@@ -84,6 +84,10 @@ a.maps { margin-top: auto; padding-top: 4px; font-size: 12px; font-weight: 600; 
 a.maps:hover { text-decoration: underline; }
 .ponto-casa { font-size: 12px; font-weight: 600; color: var(--text2); background: var(--bg3); border-radius: 8px;
   padding: 5px 9px; align-self: flex-start; }
+.ponto-aviso { font-size: 12px; font-weight: 600; border-radius: 8px; padding: 5px 9px; line-height: 1.4; margin-top: 4px; }
+.ponto-aviso.vermelho { background: var(--bad-bg); color: var(--bad); }
+.ponto-aviso.laranja { background: var(--warn-bg); color: var(--warn); }
+.ponto-aviso.azul { background: var(--info-bg); color: var(--info); }
 .ponto-links { margin-top: auto; display: flex; flex-wrap: wrap; gap: 4px 14px; }
 .ponto-links a.maps { margin-top: 0; }
 
