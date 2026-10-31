@@ -1,5 +1,13 @@
 {
-  "atualizado_em": null,
-  "avisos": [],
+  "atualizado_em": "2026-10-31T20:47:29Z",
+  "avisos": [
+    {
+      "cidade": "inverness",
+      "dias": ["2026-11-07", "2026-11-08"],
+      "nivel": "vermelho",
+      "texto": "Sem trem entre Inverness e Perth (via Aviemore) no sáb 07 e dom 08/11, por obras em Dalwhinnie: ônibus da ScotRail no lugar. Em Perth, trem até Inverkeithing ou Edimburgo.",
+      "fonte": "https://www.scotrail.co.uk/plan-your-journey/service-alterations/buses-replace-trains-between-perth-and-inverness-aviemore-0"
+    }
+  ],
   "lugares": {}
 }
