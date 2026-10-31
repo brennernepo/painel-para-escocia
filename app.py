@@ -8,6 +8,7 @@ import pydeck as pdk
 import streamlit as st
 
 import dados as D
+import para_voce as PV
 from coordenadas import COORD
 from estilo import CSS, celular, html, libras, tags_html, url_maps
 from tempo import descrever, hoje, previsao, sol, veredito
@@ -16,6 +17,7 @@ st.set_page_config(page_title="Painel para a Escócia", page_icon="🏴", layout
 st.html(CSS)
 
 SEMANA = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
+COORD = {**COORD, **PV.COORD}
 BASES = {b["id"]: b for b in D.BASES}
 
 
@@ -118,10 +120,9 @@ elif agora <= D.FIM:
         f'sol das {nascer:%H:%M} às {por:%H:%M}</div></div></div>'
     )
 
-abas = st.tabs(
-    ["Roteiro", "Tempo", "Edimburgo", "Highlands", "Glencoe e Skye", "Fife", "York", "Trechos", "Dicas e gastos"],
-    key="aba", on_change="rerun",
-)
+NOMES_ABAS = ["Roteiro", "Para você", "Tempo", "Edimburgo", "Highlands", "Glencoe e Skye", "Fife", "York", "Trechos",
+              "Dicas e gastos"]
+abas = dict(zip(NOMES_ABAS, st.tabs(NOMES_ABAS, key="aba", on_change="rerun")))
 
 
 # ---------------------------------------------------------------------------
@@ -204,7 +205,7 @@ def mapa_roteiro() -> pdk.Deck:
     )
 
 
-with abas[0]:
+with abas["Roteiro"]:
     html('<div class="rotulo">Onde vocês vão dormir</div>')
     casas = ""
     for i, b in enumerate(D.BASES, start=1):
@@ -257,7 +258,7 @@ with abas[0]:
 # ---------------------------------------------------------------------------
 # Aba: tempo
 # ---------------------------------------------------------------------------
-with abas[1]:
+with abas["Tempo"]:
     atual = base_do_dia(agora) if D.INICIO <= agora <= D.FIM else D.BASES[0]
     escolha = st.segmented_control(
         "Cidade", [b["id"] for b in D.BASES], default=atual["id"], required=True, key="cidade_tempo",
@@ -372,9 +373,8 @@ def mapa_cidade(base: dict, pontos: list[dict]) -> pdk.Deck | None:
 BASE_DA_ABA = {"edimburgo": "edimburgo", "highlands": "inverness", "fife": "dalgety", "york": "york"}
 
 
-def mostrar_cidade(chave: str) -> None:
-    cidade = D.CIDADES[chave]
-    base = BASES[BASE_DA_ABA[chave]]
+def mostrar_cidade(cidade: dict, base: dict, chave: str) -> None:
+    """Intro, alerta, seções em pílulas, mapa da seção a partir da casa e cartões com distância."""
     html(f'<div class="descricao" style="margin-top:4px">{escape(cidade["intro"])}</div>')
     if cidade.get("alerta"):
         html(f'<div class="alerta azul">{escape(cidade["alerta"])}</div>')
@@ -401,9 +401,22 @@ def mostrar_cidade(chave: str) -> None:
         html(f'<div class="rotulo">Dicas</div><div class="bloco">{dicas}</div>')
 
 
-for indice, chave in [(2, "edimburgo"), (3, "highlands"), (5, "fife"), (6, "york")]:
-    with abas[indice]:
-        mostrar_cidade(chave)
+for aba, chave in [("Edimburgo", "edimburgo"), ("Highlands", "highlands"), ("Fife", "fife"), ("York", "york")]:
+    with abas[aba]:
+        mostrar_cidade(D.CIDADES[chave], BASES[BASE_DA_ABA[chave]], chave)
+
+
+# ---------------------------------------------------------------------------
+# Aba: para você (sugestões pessoais por cidade: trabalho, história, música, bebida, comida)
+# ---------------------------------------------------------------------------
+with abas["Para você"]:
+    html(f'<div class="descricao" style="margin-top:4px">{escape(PV.INTRO)}</div>')
+    atual = base_do_dia(agora) if D.INICIO <= agora <= D.FIM else D.BASES[0]
+    escolha = st.segmented_control(
+        "Cidade", [b["id"] for b in D.BASES], default=atual["id"], required=True, key="cidade_voce",
+        format_func=lambda i: f"{BASES[i]['emoji']} {BASES[i]['cidade']}", label_visibility="collapsed",
+    )
+    mostrar_cidade(PV.PARA_VOCE[escolha], BASES[escolha], f"voce_{escolha}")
 
 
 # ---------------------------------------------------------------------------
@@ -434,7 +447,7 @@ def tempo_destino(local: str, dia: date) -> dict:
     }
 
 
-with abas[4]:
+with abas["Glencoe e Skye"]:
     html(f'<div class="descricao" style="margin-top:4px">{escape(D.GLENCOE_SKYE_INTRO)}</div>')
 
     # Tempo nos dias possíveis
@@ -535,7 +548,7 @@ with abas[4]:
 # ---------------------------------------------------------------------------
 # Aba: trechos
 # ---------------------------------------------------------------------------
-with abas[7]:
+with abas["Trechos"]:
     html(f'<div class="alerta azul" style="margin-top:4px">{escape(D.TRECHOS_INTRO)}</div>')
     for t in D.TRECHOS:
         opcoes = "".join(
@@ -557,7 +570,7 @@ with abas[7]:
 # ---------------------------------------------------------------------------
 # Aba: dicas e gastos
 # ---------------------------------------------------------------------------
-with abas[8]:
+with abas["Dicas e gastos"]:
     for grupo in D.DICAS:
         linhas = "".join(f'<div class="linha"><span class="linha-r">{escape(r)}</span><span class="linha-v">{escape(v)}</span></div>'
                          for r, v in grupo["itens"])

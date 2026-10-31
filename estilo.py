@@ -78,6 +78,8 @@ a.link:hover { text-decoration: underline; }
 .tag.pago { background: #FDE9DA; color: #A84616; }
 .tag.fechado { background: var(--bad-bg); color: var(--bad); }
 .tag.reserva { background: var(--info-bg); color: var(--info); }
+.tag.trabalho { background: #EEE8F7; color: #5B3F8C; }
+.tag.show { background: #FBE3E1; color: var(--red); font-weight: 600; }
 a.maps { margin-top: auto; padding-top: 4px; font-size: 12px; font-weight: 600; color: var(--red) !important; text-decoration: none; }
 a.maps:hover { text-decoration: underline; }
 .ponto-casa { font-size: 12px; font-weight: 600; color: var(--text2); background: var(--bg3); border-radius: 8px;
@@ -187,12 +189,16 @@ def libras(valor: float) -> str:
 
 def classe_tag(tag: str) -> str:
     t = normalizar(tag)
-    if "fechad" in t:
+    if "fechad" in t or "esgotad" in t:
         return "tag fechado"
     if "gratis" in t:
         return "tag gratis"
     if "reserv" in t or "hora marcada" in t:
         return "tag reserva"
+    if "wi-fi" in t or "tomada" in t or "chamada" in t:
+        return "tag trabalho"
+    if t == "show":
+        return "tag show"
     if "pag" in t or "£" in tag:
         return "tag pago"
     return "tag"

@@ -3,6 +3,7 @@
 Painel em Streamlit para a viagem de 2 a 11 de novembro de 2026: Edimburgo, Inverness, Dalgety Bay (Fife) e York.
 
 - **Roteiro**: as quatro hospedagens, o dia a dia com nascer e pôr do sol e o tempo de cada dia, e o mapa do percurso.
+- **Para você**: sugestões pessoais por cidade, em sete seções: onde trabalhar com o notebook (wi-fi, tomadas e onde dá para fazer chamada), economia e história (Adam Smith, Hume, Carnegie, George Hudson, os Rowntree), música (shows nas datas, vinil e trad), beber, comer bem, hidratar e recarregar, e futebol. Cada lugar mostra a distância da casa daquela cidade.
 - **Tempo**: condição atual e previsão de 16 dias por cidade (Open-Meteo, atualizada a cada 30 minutos), com a média das mesmas datas de 2015 a 2025 enquanto a previsão não alcança a viagem.
 - **Edimburgo, Highlands, Fife e York**: o que ver por região, com horário e preço de novembro, o que estará fechado, onde comer e dicas. Cada lugar mostra a distância e o tempo a partir da hospedagem daquela cidade e um link de rota saindo de lá; um mapa por seção marca a casa e os lugares.
 - **Glencoe e Skye**: as formas de encaixar cada um (no caminho, de excursão ou de carro), com o tempo previsto para o dia em cada lugar, um semáforo de "dá para ir" e um filtro por carro e horas ao volante.
@@ -18,7 +19,7 @@ streamlit run app.py
 
 ## Onde mexer
 
-O conteúdo está em `dados.py`, e as coordenadas de cada lugar, pelo nome do cartão, em `coordenadas.py`. A previsão do tempo e o cálculo do sol ficam em `tempo.py`; o visual, em `estilo.py`. A pesquisa de horários e preços foi feita em 10/10/2026 e revisada em 31/10/2026; os itens sem confirmação oficial estão marcados com "confira" no próprio texto.
+O conteúdo está em `dados.py` (a aba Para você, em `para_voce.py`, com as próprias coordenadas), e as coordenadas de cada lugar, pelo nome do cartão, em `coordenadas.py`. A previsão do tempo e o cálculo do sol ficam em `tempo.py`; o visual, em `estilo.py`. A pesquisa de horários e preços foi feita em 10/10/2026 e revisada em 31/10/2026; os itens sem confirmação oficial estão marcados com "confira" no próprio texto.
 
 ## Senha e endereços das hospedagens
 
