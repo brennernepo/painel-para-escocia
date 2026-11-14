@@ -1,0 +1,663 @@
+{
+ "id": "staind",
+ "nome": "Staind",
+ "cena": "Pós-grunge",
+ "mbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649",
+ "wikidata": "Q266496",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1995",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "alternative rock",
+  "nu metal",
+  "post-grunge",
+  "grunge"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Staindlaredo_%28cropped%29.JPG/500px-Staindlaredo_%28cropped%29.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Staind",
+ "resumo_pt": "Staind é uma banda de metal alternativo fundada em 1995 em Massachusetts, Estados Unidos. A música So Far Away, do álbum 14 Shades of Grey, é frequentemente usada pelo lutador Rony Jason em suas entradas no octógono do UFC. Um dos grandes sucessos da banda também é a música ''It's Been Awhile'', tendo mais de 200 milhões de visualizações no Youtube.",
+ "resumo_en": "Staind ( STAYND)  is an American rock band from Springfield, Massachusetts, formed in 1995. The original lineup consisted of lead vocalist and rhythm guitarist Aaron Lewis, lead guitarist Mike Mushok, bassist and backing vocalist Johnny April, and drummer Jon Wysocki. The lineup has been stable outside of the 2011 departure of Wysocki, who was replaced by Sal Giancarelli. Staind has recorded and released eight studio albums: Tormented (1996), Dysfunction (1999), Break the Cycle (2001), 14 Shades of Grey (2003), Chapter V (2005), The Illusion of Progress (2008), Staind (2011) and Confessions of the Fallen (2023). \nThe band was most successful in the early 2000s, with Break the Cycle going five times platinum in the United States and producing a top-five Billboard Hot 100 hit with its lead single \"It's Been Awhile\". Break the Cycle, along with the band's following two full-length albums, also topped the Billboard 200, and the two after peaked within the top five. Several of their other singles also became rock and crossover hits, including \"Fade\", \"For You\", \"Price to Play\", \"So Far Away\", \"Right Here\", and \"Believe\". The band's activity became more sporadic into the 2010s, with Lewis pursuing a solo country music career and Mushok subsequently joining the band Saint Asonia.\nAnne Erickson of WMMR called Staind \"one of the defining bands of the post-grunge movement.\"",
+ "albuns": [
+  {
+   "id": "07733f75-4e3c-3bec-9976-24ea5d201048",
+   "titulo": "Tormented",
+   "data": "1996-11-29",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/009358b8-1d7f-439b-a765-f303c84136c0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tolerate",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Come Again",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Break",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Painful",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Nameless",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Mudshuvel",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "See Thru",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Question?",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "No One’s Kind",
+     "duracao": "4:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Self Destruct",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "4 Walls / Funeral",
+     "duracao": "33:08"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": 5.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tormented_%28Staind_album%29",
+   "resumo_en": "Tormented is the debut studio album by the American rock band Staind, self-released in 1996. In 1993, Staind vocalist Aaron Lewis and Staind guitarist Mike Mushok met each other at a Christmas party in the New England area. Mushok brought drummer Jon Wysocki into the fold and Lewis had a connection with bass guitarist Pete McEwan who later left, starting the early lineup. Shortly after bassist Johnny April joined, Staind officially formed in Springfield, Massachusetts on November 24, 1995. Touring in the Northeast United States helped Staind achieve a cult following.\nTormented was self-released on November 29, 1996. Promoting Tormented, Staind played gigs throughout New England with bands such as God Lives Underwater, Gwar, and Kilgore. The album helped get Staind a record deal with Limp Bizkit vocalist Fred Durst and the record label Flip Records. Durst was initially appalled by the album artwork, but changed his mind and signed Staind after being impressed with the band's performance.\nTormented received minor attention after its release, selling at least a few thousand copies. Critical reception was positive towards the heaviness and aggression of Tormented, but was negative towa"
+  },
+  {
+   "id": "4f65513a-0fd3-3b06-9d97-96c28cd35d3d",
+   "titulo": "Dysfunction",
+   "data": "1999-04-13",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/49025cb8-6454-4814-a6aa-128388c12c83/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Suffocate",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Go",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Me",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Raw",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Mudshovel",
+     "duracao": "4:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Home",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "A Flat",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Crawl",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Spleen",
+     "duracao": "4:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Excess Baggage",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.4,
+    "fontes": 5
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dysfunction_%28album%29",
+   "resumo_en": "Dysfunction is the second studio album by American rock band Staind, released on April 13, 1999, by Flip Records and Elektra Records. It is the band's first studio album released on a record label.\nStaind self-released their debut album Tormented in 1996. On October 23, 1997, the band met Limp Bizkit vocalist Fred Durst. Durst was initially appalled by Tormented's graphic artwork, and refused to sign Staind, but changed his mind after being impressed with the band's performance. Durst signed the band to Flip/Elektra and helped the band record Dysfunction. Staind promoted Dysfunction through touring and sampler cassettes.\nContinuing, but expanding on, the dark alternative metal and nu metal sound displayed on Tormented, Dysfunction features a varied increase of singing and screaming, emotionally vulnerable lyrics inspired by singer Aaron Lewis' life, with a noticeable increase of melodic sections. Although still similar to Tormented in tone, Dysfunction is more melodic, has an absence of lo-fi production, and, despite prominent \nmoments of screaming, features more clean singing than Tormented. Critics compared Dysfunction to various bands, including Korn, Coal Chamber, Spineshank, N"
+  },
+  {
+   "id": "048f973a-df44-3260-af48-459a0608f948",
+   "titulo": "Break the Cycle",
+   "data": "2001-05-16",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/5d7bd9cb-abb0-4c08-a276-fc42df32709b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Open Your Eyes",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Pressure",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Fade",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "It's Been Awhile",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Change",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Can't Believe",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Epiphany",
+     "duracao": "4:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Suffer",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Warm Safe Place",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "For You",
+     "duracao": "3:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Outside",
+     "duracao": "4:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Waste",
+     "duracao": "3:57"
+    },
+    {
+     "n": 13,
+     "titulo": "Take It",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 55,
+    "media": 5.0,
+    "fontes": 8
+   },
+   "publico": 8.3,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Break_the_Cycle",
+   "resumo_en": "Break the Cycle is the third studio album by American rock band Staind, released through Flip Records and Elektra Records on May 8, 2001. It is Staind's most successful album to date and was the album that broke them into the mainstream. It was a huge international success for the band, as it spent three weeks at number-one position in the U.S. album charts and many weeks in the top-10 album charts of the Billboard 200, the UK and New Zealand. It sold at least 4 million copies in 2001. The album was certified 7× platinum by the RIAA for sales of over seven million units in the U.S on September 3, 2026."
+  },
+  {
+   "id": "4a3b8966-b69f-3ab4-a794-f9578e9d70da",
+   "titulo": "14 Shades of Grey",
+   "data": "2003-05-19",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Price to Play",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "How About You",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "So Far Away",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Yesterday",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Fray",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Zoe Jane",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Fill Me Up",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Layne",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Falling Down",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Reality",
+     "duracao": "4:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Tonight",
+     "duracao": "4:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Could It Be",
+     "duracao": "4:44"
+    },
+    {
+     "n": 13,
+     "titulo": "Blow Away",
+     "duracao": "6:15"
+    },
+    {
+     "n": 14,
+     "titulo": "Intro",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 41,
+    "media": 3.6,
+    "fontes": 8
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/14_Shades_of_Grey",
+   "resumo_en": "14 Shades of Grey is the fourth studio album by American rock band Staind, released on May 20, 2003. The album continues the post-grunge sound as seen on the band's previous album Break the Cycle, but the songs on 14 Shades of Grey have fewer pop hooks, focusing more on frontman Aaron Lewis's emotions. It is the band's last album to be released from Elektra Records.\nThe album featured four singles and debuted at No. 1 on the Billboard 200, with first week sales of 220,000 copies. By July 2003, 14 Shades of Grey had been certified Gold then later Platinum."
+  },
+  {
+   "id": "c292b7ee-6c03-3d2a-b07f-b763529e0702",
+   "titulo": "Chapter V",
+   "data": "2005-08-08",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/17487bf4-a8d8-4608-bfbb-1b02f7d66a3d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Run Away",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Right Here",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Paper Jesus",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Schizophrenic Conversations",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Falling",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Cross to Bear",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Devil",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Please",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Everything Changes",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Take This",
+     "duracao": "4:42"
+    },
+    {
+     "n": 11,
+     "titulo": "King of All Excuses",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Reply",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 48,
+    "media": 4.2,
+    "fontes": 7
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chapter_V_%28Staind_album%29",
+   "resumo_en": "Chapter V is the fifth studio album by American rock band Staind. It was released on August 9, 2005, and debuted at number one on the US Billboard 200 with first week sales of 185,000 copies, and spawned a hit single along with three moderately successful singles on rock radio. Its first single \"Right Here\" was the most successful at both rock and pop stations and it was used in a video package by World Wrestling Entertainment commemorating the professional wrestler known as Edge after he won his first WWE Championship. \"Falling\" and \"Everything Changes\" have also been released with accompanying videos.\nLead singer Aaron Lewis has stated that he thinks \"Chapter V is the best record the band has released to date\", and the album continues the evolution from the messages on 14 Shades of Grey to messages of hope and uncertainty.  It also showcases a heavier side to the band on selected tracks (reminiscent of some content on Dysfunction), and emphasizes a balance between both styles of the band's sound.  The album includes a track called \"Paper Jesus\" targeted at record company executives who idolize money instead of music and \"Reply\", an open letter replying to fan mail that Aaron Lewi"
+  },
+  {
+   "id": "436cf735-300d-3f13-b5b8-2594c996221a",
+   "titulo": "The Illusion of Progress",
+   "data": "2008-08-19",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/1eade643-ab26-4631-868a-c00bf1812c87/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Is It",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "The Way I Am",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Believe",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Save Me",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "All I Want",
+     "duracao": "3:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Pardon Me",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Lost Along the Way",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Break Away",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Tangled Up in You",
+     "duracao": "4:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Raining Again",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Rainy Day Parade",
+     "duracao": "4:17"
+    },
+    {
+     "n": 12,
+     "titulo": "The Corner",
+     "duracao": "5:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Nothing Left to Say",
+     "duracao": "4:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Something Like Me (acoustic at the Hiro Ballroom)",
+     "duracao": "4:52"
+    },
+    {
+     "n": 15,
+     "titulo": "The Truth (acoustic at the Hiro Ballroom)",
+     "duracao": "4:43"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 53,
+    "media": 5.0,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Illusion_of_Progress",
+   "resumo_en": "The Illusion of Progress is the sixth studio album by American rock band Staind. It was released on August 19, 2008. The Illusion of Progress was produced by Johnny K and recorded in lead singer Aaron Lewis's home studio. It debuted at No. 3 in the Billboard 200 with 91,800 units sold.\nThe lead single \"Believe\" topped the Alternative Songs chart on September 13, 2008. It accumulated three weeks at number one. The second single was \"All I Want\", and was released on November 24. The video continued the story of the first single video and was available on Staind's Myspace on December 12. In Europe the second single was \"The Way I Am\", and its video was available on the official Staind website as of December 24. \"This Is It\" was later released as the last single off the album. The album has sold over 318,000 units in the United States alone.\nLewis recorded a country version of the album’s ninth track \"Tangled Up in You\" on his 2011 solo EP Town Line."
+  },
+  {
+   "id": "8df0a906-6c04-477f-9774-eb3d03fc04e8",
+   "titulo": "Staind",
+   "data": "2011-09-13",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/11b48ad6-7fce-46a6-8fe0-d93b055c20b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eyes Wide Open",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Not Again",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Failing",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Wannabe",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Throw It All Away",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Take a Breath",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bottom",
+     "duracao": "4:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Now",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Paper Wings",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Something to Remind You",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 55,
+    "media": 6.2,
+    "fontes": 9
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Staind_%28album%29",
+   "resumo_en": "Staind is the seventh studio album by American rock band Staind, released on September 13, 2011. It was released as a download, a standard CD and a limited deluxe digipak edition, which contains a DVD documenting the recording process of the album, plus two live bonus tracks (live in Houston) for the European digipak release.\nThe album marks a return to the band's heavier, more aggressive sound that was predominant on their first two albums. The album also brings back the guitar solos of Staind's first album Tormented. Rapper Snoop Dogg appears on the remix of the song \"Wannabe\", which appears as a Japanese bonus track. It is the band's last studio album to feature the full original lineup, as drummer Jon Wysocki left the band three days before the album was announced. It was also the band's last album for 12 years until the release of Confessions of the Fallen in 2023."
+  },
+  {
+   "id": "16ce9469-9efa-42c6-819e-0d73d6405076",
+   "titulo": "Confessions of the Fallen",
+   "data": "2023-09-15",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/355715fe-f430-4601-94f3-76fda42bb496/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lowest in Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Was Any of It Real?",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "In This Condition",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Here and Now",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Out of Time",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Cycle of Hurting",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "The Fray",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Better Days",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Hate Me Too",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Confessions of the Fallen",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Full of Emptiness",
+     "duracao": "2:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Take",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Confessions_of_the_Fallen",
+   "resumo_en": "Confessions of the Fallen is the eighth studio album by American rock band Staind. This is the band's first album in twelve years, marking the longest gap between studio albums to date. It was released on September 22, 2023. It is also the first album to feature new drummer Sal Giancarelli, who replaced original drummer Jon Wysocki following the latter's departure in 2011. It is the band's first album to be released from BMG."
+  }
+ ]
+}

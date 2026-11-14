@@ -1,0 +1,398 @@
+{
+ "id": "love-battery",
+ "nome": "Love Battery",
+ "cena": "Grunge",
+ "mbid": "20fa3e73-7ac4-4550-b9f5-6ac8c523bda5",
+ "wikidata": "Q749621",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1989",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "grunge",
+  "psychedelic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Love_Battery_2012_-_02.jpg/500px-Love_Battery_2012_-_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Love_Battery",
+ "resumo_pt": "Love Battery é uma banda dos Estados Unidos de rock psicodélico sessentista e grunge, de Seattle. Foi formado em 1989 pelo líder Ron Nine, o guitarrista Kevin Whitworth (ex - Crisis Party), o baixista Tommy \"Bonehead\" Simpson (também ex-Crisis Party) e o baterista do Mudhoney, Dan Peters. O nome veio de uma música, de mesmo nome, da banda britânica de punk rock Buzzcocks, famosa ao lado de Joy Division nos anos 80.\nPara muitos Love Battery foi um grupo incomum na cena musical de Seattle dos anos 90. Fazendo intensos e rebuscados riffs psicodélicos, ritmos pulsantes e vocais roucos derivados do rock de garagem e psicodélico dos anos 60, o punk rock dos anos 70, o pós punk dos anos 80 e o grunge dos anos 90. A música do grupo era bastante complexa em comparação aos outros daquela era.\nEles nunca tiveram um sucesso comercial nem dentro ou fora de sua area, porém foram elevados ao título de cult, com seus seguidores até os dias de hoje. As músicas mais conhecidas da banda são \"Between The Eyes\", \"Half Past You\", \"Far Gone\", \"Head Of Ringo\", \"Out Of Focus\", \"Fuzz Factory\" e \"Harold's Pink Room\".",
+ "resumo_en": "Love Battery is an American rock band from Seattle, Washington. They were commonly associated with the grunge genre, although their music also contained elements of psychedelic rock and indie rock. They released five albums during the 1990s, followed by a sixth album in 2026. Frontman Ron Nine and guitarist Kevin Whitworth have been the only consistent members of the band throughout their existence.\nThe band released their debut single in 1989, \"Between the Eyes\", via Sub Pop Records. It became one of the band's most recognizable songs. Their debut album, Between the Eyes, was initially released in 1990 as a mini-album, but was then reissued as a full-length album in 1991. The band found further success in 1992 with their second album Dayglo, which featured their first music video \"Out of Focus\". After the release of 1993's Far Gone, Love Battery signed to the major label Atlas Records. Their only album for the label, Straight Freak Ticket, was released in 1995. The band then released their fifth album in 1998, Confusion Au Go Go, through C/Z Records. Love Battery disbanded in 2002, followed by a few sporadic reunions throughout the 2000s and 2010s. In 2018, the band reconvened for a longer term, which led to their sixth album in 2026, Through a Crack in the Matrix.",
+ "albuns": [
+  {
+   "id": "31268d97-6e9d-3640-be8b-5e2b8c614976",
+   "titulo": "Between the Eyes",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/a4528140-9aad-4778-9320-8e089b7bcbb0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Between the Eyes",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Easter",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Highway of Souls",
+     "duracao": "5:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Orange",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "2 and 2",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Before I Crawl",
+     "duracao": "2:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Ibiza Bar",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Between_the_Eyes",
+   "resumo_en": "Between the Eyes is the debut album by Seattle-based rock band Love Battery. Sub Pop Records had initially released a single titled \"Between the Eyes\" in 1989. Tupelo Recordings then released Between the Eyes as an EP/mini-album in 1990 (with \"Licensed by Sub Pop\" printed on the artwork). Sub Pop then solely released the final version in 1991, which expanded the album with three additional tracks. Between the Eyes is the only Love Battery album to feature original bassist Tommy Simpson. His replacement, Jim Tillman, played on the aforementioned three additional tracks when the album was widely issued."
+  },
+  {
+   "id": "90edf161-3af5-3a08-8076-8bedc1cd47e7",
+   "titulo": "Dayglo",
+   "data": "1992-01-01",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/ee3dc88a-6d16-4626-a792-60de6e827e5d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Out of Focus",
+     "duracao": "5:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Foot",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Damaged",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "See Your Mind",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Side (With You)",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Cool School (Trane of Thought)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Sometimes",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Blonde",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Dayglo",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "23 Modern Stories",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dayglo_%28album%29",
+   "resumo_en": "Dayglo is the second studio album by the American band Love Battery. It was released in 1992 by Sub Pop.\nThe band supported the album with a North American tour that included shows with L7."
+  },
+  {
+   "id": "06d2b11e-308a-3ae8-aaea-601d85440138",
+   "titulo": "Far Gone",
+   "data": "1993-06",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/9570f93b-e349-4575-b8c0-2acae95a4a01/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Searching for Roses",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Haf Past You",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Head of Ringo",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "In Through the Outside",
+     "duracao": "5:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Split in Two",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Feet",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Far Gone",
+     "duracao": "3:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Float",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Nebraska",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "I Can't Stand Nobody",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Instrumental",
+     "duracao": "2:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Rust Belt",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Far_Gone",
+   "resumo_en": "Far Gone is the third studio album by Seattle grunge band Love Battery, released in 1993 through Sub Pop."
+  },
+  {
+   "id": "a932318f-d3b6-36d8-907f-50bf0e4f3ebc",
+   "titulo": "Straight Freak Ticket",
+   "data": "1995-02-28",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/e3b093eb-6afe-4c4a-a160-5879f0a59b04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fuzz Factory",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "If It Wasn't Me",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Harold's Pink Room",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Brazil",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Nehru Jacket",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Perfect Light",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Red Onion",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Sunny Jim",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Straight Freak Show",
+     "duracao": "4:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Angelhead",
+     "duracao": "3:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Waylaid",
+     "duracao": "3:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Drowning Sun",
+     "duracao": "3:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Silent Treatment",
+     "duracao": "4:54"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Straight_Freak_Ticket",
+   "resumo_en": "Straight Freak Ticket is an album by the American alternative rock band Love Battery. The band's first album for a major label, it was released in 1995 on Atlas Records. The first single was \"Fuzz Factory\".\nThe band supported the album with a North American tour that included shows with Bettie Serveert. Straight Freak Ticket was a commercial disappointment."
+  },
+  {
+   "id": "a6caa59e-d93f-3de6-8ec4-de309fdaa553",
+   "titulo": "Confusion Au Go Go",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/c6b65e44-2f44-4be1-af0b-f7f13f6fde99/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Confusion Au Go Go",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "One Small Step",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Snipe Hunt",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Corporate Memo",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Colorblind",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Get on Da Big Foot",
+     "duracao": "0:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Dead Boys",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Hollow Body",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Cute One",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Punks Want Rights",
+     "duracao": "4:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Transendental Fornication",
+     "duracao": "4:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Guilty of Every Thing",
+     "duracao": "5:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Monkey Brain",
+     "duracao": "4:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Faithfull",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Confusion_Au_Go_Go",
+   "resumo_en": "Confusion Au Go Go is the final studio album by the rock band Love Battery. It was released in 1999 on C/Z Records."
+  }
+ ]
+}

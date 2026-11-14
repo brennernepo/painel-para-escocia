@@ -1,0 +1,903 @@
+{
+ "id": "mudhoney",
+ "nome": "Mudhoney",
+ "cena": "Grunge",
+ "mbid": "e675295a-1efe-4247-aa3b-53b78d0cdffc",
+ "wikidata": "Q898820",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1988",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "grunge",
+  "rock",
+  "garage rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mudhoney.jpg/500px-Mudhoney.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Mudhoney",
+ "resumo_pt": "Mudhoney é uma banda grunge americana formada em Seattle em 1988. É \"co-irmã\" do Pearl Jam, já que dois de seus integrantes, Mark Arm e Steve Turner, foram companheiros de Jeff Ament e Stone Gossard no Green River, considerada por muitos como a primeira banda de grunge, criada em 1984.\nApesar de ser reconhecida como uma das fundadoras do primeiro grande movimento do rock nos anos 1990, a banda é muito menos bem sucedida comercialmente do que o Pearl Jam e o Nirvana, já que a escolha dos integrantes do Mudhoney sempre foi se afastar dos holofotes e das tendências dominantes.",
+ "resumo_en": "Mudhoney is an American rock band formed in Seattle, Washington, on January 1, 1988, following the demise of Green River. Its members are singer and rhythm guitarist Mark Arm, lead guitarist Steve Turner, bassist Guy Maddison and drummer Dan Peters. Original bassist Matt Lukin left the band in 1999, but rejoined the band in December 2000 for a tour that lasted through January 2001.\nMudhoney's early releases on the Sub Pop label, particularly their debut single \"Touch Me I'm Sick\" and the Superfuzz Bigmuff EP, were instrumental in the creation of the grunge genre. Although the band found little commercial success and remained somewhat 'underground' and non-mainstream, Mudhoney has released eleven studio albums and inspired countless grunge and alternative rock musicians during their long career.",
+ "albuns": [
+  {
+   "id": "f65a4a2b-6fb2-36f5-9b1c-ecdba09453b2",
+   "titulo": "Mudhoney",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/447793d9-08d5-4dfc-9b08-bdb03466d7f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Gift",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Flat Out Fucked",
+     "duracao": "2:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Get Into Yours",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "You Got It",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Magnolia Caboose Babyshit",
+     "duracao": "1:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Come to Mind",
+     "duracao": "4:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Here Comes Sickness",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Running Loaded",
+     "duracao": "2:49"
+    },
+    {
+     "n": 9,
+     "titulo": "The Farther I Go",
+     "duracao": "2:07"
+    },
+    {
+     "n": 10,
+     "titulo": "By Her Own Hand",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "When Tomorrow Hits",
+     "duracao": "2:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Dead Love",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 8
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mudhoney_%28album%29",
+   "resumo_en": "Mudhoney is the debut studio album by American rock band Mudhoney, released in 1989. It was their first LP after several singles and two EPs (Superfuzz Bigmuff and Boiled Beef & Rotting Teeth).\nThe instrumental song \"Magnolia Caboose Babyshit\" is a cover of \"Magnolia Caboose Babyfinger\" by Blue Cheer, but the song is still credited to Mudhoney. The album, when bought as a new vinyl record, is also packaged with a poster of the band (Photo by Michael Lavine). The poster features the band in a blue filter and says \"Mudhoney. The album is out.\" as well as the SubPop and Au Go Go logos."
+  },
+  {
+   "id": "a06ea2e4-c2ff-3169-8af5-5625f0a6ed9a",
+   "titulo": "Every Good Boy Deserves Fudge",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/17722c03-7e35-492f-9b30-40fb4abf31bd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Generation Genocide",
+     "duracao": "1:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Let It Slide",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Good Enough",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Something So Clear",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Thorn",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Into the Drink",
+     "duracao": "2:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Broken Hands",
+     "duracao": "6:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Who You Drivin’ Now?",
+     "duracao": "2:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Move Out",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Shoot the Moon",
+     "duracao": "2:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Fuzzgun ’91",
+     "duracao": "1:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Pokin’ Around",
+     "duracao": "3:30"
+    },
+    {
+     "n": 13,
+     "titulo": "Don’t Fade IV",
+     "duracao": "3:58"
+    },
+    {
+     "n": 14,
+     "titulo": "Check‐Out Time",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.6,
+    "fontes": 9
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Every_Good_Boy_Deserves_Fudge",
+   "resumo_en": "Every Good Boy Deserves Fudge is the second studio album by American rock band Mudhoney. It was recorded at a time when the band was thinking of signing to a major record label, but decided to release the album on Sub Pop in 1991. The album shipped 50,000 copies on its original release. It was credited with helping to keep Sub Pop in business. \nGuitarist Steve Turner has said that the album is his \"favorite Mudhoney album as a whole.\"\nThere is an alternate version of \"Check-Out Time\" on the Let It Slide EP.\nTwo singles were lifted from the album: Let It Slide was issued as an EP in Europe and the United States, featuring bonus tracks and songs that did not make the album, while Into The Drink was released as a promotional effort."
+  },
+  {
+   "id": "37e64f41-de12-30a9-a38a-af30e1958180",
+   "titulo": "Piece of Cake",
+   "data": "1992-10-30",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/fac1e048-2546-4249-b0e5-0fbf0a6d6710/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "[untitled]",
+     "duracao": "0:38"
+    },
+    {
+     "n": 2,
+     "titulo": "No End in Sight",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Make It Now",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "When in Rome",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "[untitled]",
+     "duracao": "0:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Suck You Dry",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Blinding Sun",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Thirteenth Floor Opening",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Youth Body Expression Explosion",
+     "duracao": "1:59"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m Spun",
+     "duracao": "4:05"
+    },
+    {
+     "n": 11,
+     "titulo": "[untitled]",
+     "duracao": "0:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Take Me There",
+     "duracao": "3:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Living Wreck",
+     "duracao": "3:30"
+    },
+    {
+     "n": 14,
+     "titulo": "Let Me Let You Down",
+     "duracao": "3:58"
+    },
+    {
+     "n": 15,
+     "titulo": "[untitled]",
+     "duracao": "0:28"
+    },
+    {
+     "n": 16,
+     "titulo": "Ritzville",
+     "duracao": "2:40"
+    },
+    {
+     "n": 17,
+     "titulo": "Acetone",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.8,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Piece_of_Cake_%28album%29",
+   "resumo_en": "Piece of Cake is the third studio album by American rock band Mudhoney. Released in 1992, it was the band's first album for Reprise Records. The album was released at the height of grunge, a genre Mudhoney had helped create.\nThe album peaked at No. 189 on the Billboard 200. The band supported it with a North American tour that included shows with Eugenius. \"Suck You Dry\" and \"Blinding Sun\" were released as singles.\nReprise reissued the album in 2003, bundled with the E.P. Five Dollar Bob's Mock Cooter Stew and the b-sides from the singles. In 2020, Piece of Cake was included in the 4CD box set Real Low Vibe: Reprise Recordings 1992-1998."
+  },
+  {
+   "id": "8284970b-0aed-30c7-a1d7-e3e5fc6734dc",
+   "titulo": "My Brother the Cow",
+   "data": "1995-03-14",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/d82339d8-e22b-4c87-a523-ebb426cb420d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Judgment, Rage, Retribution and Thyme",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Generation Spokesmodel",
+     "duracao": "2:32"
+    },
+    {
+     "n": 3,
+     "titulo": "What Moves the Heart?",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Today Is a Good Day",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Into Yer Shtik",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "In My Finest Suit",
+     "duracao": "4:56"
+    },
+    {
+     "n": 7,
+     "titulo": "F.D.K. (Fearless Doctor Killers)",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Orange Ball-Peen Hammer",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Crankcase Blues",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Execution Style",
+     "duracao": "2:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Dissolve",
+     "duracao": "3:16"
+    },
+    {
+     "n": 12,
+     "titulo": "1995",
+     "duracao": "5:44"
+    },
+    {
+     "n": 13,
+     "titulo": "woC eht rehtorB yM",
+     "duracao": "33:42"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_Brother_the_Cow",
+   "resumo_en": "My Brother the Cow is the fourth studio album by American rock band Mudhoney. It was released on March 28, 1995, through Reprise Records.  \nNearly all of the album's songs (excluding the songs from the bonus 7\") have been performed in concert. Judgement, Rage, Retribution and Thyme, as well as F.D.K. display constants in Mudhoney's live setlist. The only song that has yet to be performed live is Crankcase Blues.\nIn 2020, My Brother the Cow was included in the 4CD box set Real Low Vibe: Reprise Recordings 1992-1998."
+  },
+  {
+   "id": "df6be3a1-a739-33a1-9f6a-36c172e5c611",
+   "titulo": "Tomorrow Hit Today",
+   "data": "1998-09-11",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/f3a3f98f-656c-4311-b1f7-55b8dc717a50/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Thousand Forms of Mind",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "I Have to Laugh",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Oblivion",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Try to Be Kind",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Poisoned Water",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Real Low Vibe",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "This Is the Life",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Night of the Hunted",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Move With the Wind",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Ghost",
+     "duracao": "4:34"
+    },
+    {
+     "n": 11,
+     "titulo": "I Will Fight No More Forever",
+     "duracao": "2:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Beneath the Valley of the Underdog / Talkin’ Randy Tate’s Specter Blues",
+     "duracao": "8:39"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tomorrow_Hit_Today",
+   "resumo_en": "Tomorrow Hit Today is the fifth studio album by American rock band Mudhoney. It was released by Reprise Records on September 22, 1998. Barely selling 11,000 copies on its release this would be the last album the band would release with Reprise as well as a major label. Although the band retains their grunge sound on the album, a noticeable garage and blues influence can be heard. The album title is a reference to a song, \"When Tomorrow Hits\", off of their eponymous debut. This is also the last album to feature bass player Matt Lukin. The album was released on CD through Reprise and on Vinyl through Superelectro Sound Recordings. The album also gained a cassette release on the Philippines. In 2018, the album was re-released on blue vinyl to celebrate its 20th anniversary.\nIn 2020, Tomorrow Hit Today was included in the 4CD box set Real Low Vibe: Reprise Recordings 1992-1998.\nThree singles were released from the album, a limited 7\" of Night Of The Hunted via Super Electro Recordings, a promotional CD for Ghost and a radio-only CD-R for This Is The Life."
+  },
+  {
+   "id": "a11fe3f2-ac26-3de7-b2e9-96cd73da3272",
+   "titulo": "Since We've Become Translucent",
+   "data": "2002-08-20",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/9e6ba06f-d54d-4b7c-b8f1-58719d41e264/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baby, Can You Dig the Light",
+     "duracao": "8:26"
+    },
+    {
+     "n": 2,
+     "titulo": "The Straight Life",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Where the Flavor Is",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "In the Winner’s Circle",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Our Time Is Now",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Dyin’ for It",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Inside Job",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Take It Like a Man",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Crooked and Wide",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Sonic Infusion",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.4,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Since_We%27ve_Become_Translucent",
+   "resumo_en": "Since We've Become Translucent is the sixth studio album by American rock band Mudhoney, released in 2002. The album was the first to be recorded after the departure of their original bassist Matt Lukin, three years earlier. It was also the first to be released through Sub Pop after the band returned to the label.\nSince We've Become Translucent marked a prominent change in the band's sound. The album departed from their typical grunge sound and features a relatively accessible rock sound. However, on tracks such as \"Baby, Can You Dig the Light?\", psychedelica, synthpop, and jazz are explored.\nThe bulk of the album was recorded over three weekends with three different producers – Johnny Sangster, Martin Feveyear and Scott Colburn – between November 2001 and February 2002. The band focused on three songs at a time, which they rehearsed and recorded before moving on to the next songs. This approach would also be used on the band's next album Under a Billion Suns. One track, \"Inside Job\", was recorded with Jack Endino in a single day in April 2000 with former MC5 Wayne Kramer on bass, before new bassist Guy Maddison joined the band in 2001."
+  },
+  {
+   "id": "c5356281-2137-3928-ad45-d7e2a8e5253b",
+   "titulo": "Under a Billion Suns",
+   "data": "2006-03-07",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/9abe7afe-2a67-4f56-a22d-08f16d78ed73/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Where Is the Future?",
+     "duracao": "5:38"
+    },
+    {
+     "n": 2,
+     "titulo": "It Is Us",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "I Saw the Light",
+     "duracao": "2:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Endless Yesterday",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Empty Shells",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Hard-On for War",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "A Brief Celebration of Indifference",
+     "duracao": "2:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Let's Drop In",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "On the Move",
+     "duracao": "4:46"
+    },
+    {
+     "n": 10,
+     "titulo": "In Search Of...",
+     "duracao": "5:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Blindspots",
+     "duracao": "5:37"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Under_a_Billion_Suns",
+   "resumo_en": "Under a Billion Suns is the seventh studio album by American rock band Mudhoney, released in the United States on March 7, 2006. The album further departed from grunge and continued a more commercial direction that began with their previous album Since We've Become Translucent. Of note is the unusual amount of saxophones and trumpets featured on the album. A few of the songs also feature female backing vocals. It was recorded with three producers: Phil Ek, Johnny Sangster and Tucker Martine.\nThe first few hundred copies pre-ordered from Sub Pop were autographed by the band, and came with a bonus CD featuring demos and remixes. The song \"Empty Shells\" was featured on the \"NHL 2K7\" video game."
+  },
+  {
+   "id": "f5998cb8-c921-3b36-83e5-8dd93b5c503e",
+   "titulo": "The Lucky Ones",
+   "data": "2008-05-20",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/4a63b5c6-8cb0-4085-b5b3-43098c52ab10/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Now",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Inside Out Over You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "The Lucky Ones",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Next Time",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "And the Shimmering Light",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "The Open Mind",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "What’s This Thing?",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Running Out",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Tales of Terror",
+     "duracao": "3:17"
+    },
+    {
+     "n": 10,
+     "titulo": "We Are Rising",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "New Meaning",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Lucky_Ones_%28Mudhoney_album%29",
+   "resumo_en": "The Lucky Ones is the eighth studio album by American rock band Mudhoney, released on Sub Pop Records on May 20, 2008."
+  },
+  {
+   "id": "65dfecab-7488-4a6e-aae1-47f328d63dc8",
+   "titulo": "Vanishing Point",
+   "data": "2013-04-01",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/30faa2a7-5499-491a-8e5b-d7bec8f23d46/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slipping Away",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Like It Small",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "What to Do With the Neutral",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Chardonnay",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Final Course",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "In This Rubber Tomb",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Remember You",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Only Son of the Widow From Nain",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Sing This Song of Joy",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Douchebags on Parade",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 11
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vanishing_Point_%28Mudhoney_album%29",
+   "resumo_en": "Vanishing Point is the ninth studio album by American rock band Mudhoney. It was released on April 2, 2013, as their sixth studio album release on Sub Pop."
+  },
+  {
+   "id": "4bea5ba5-54a4-4f06-93c0-78883705173f",
+   "titulo": "Digital Garbage",
+   "data": "2018-09-28",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/31252c2c-9a1d-467b-a99f-5844a304536b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nerve Attack",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Paranoid Core",
+     "duracao": "2:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Please Mr. Gunman",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Kill Yourself Live",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Night and Fog",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "21st Century Pharisees",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Hey Neanderfuck",
+     "duracao": "2:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Prosperity Gospel",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Messiah’s Lament",
+     "duracao": "3:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Next Mass Extinction",
+     "duracao": "3:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Oh Yeah",
+     "duracao": "1:29"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Digital_Garbage",
+   "resumo_en": "Digital Garbage is the tenth studio album by American rock band Mudhoney. It was released on September 28, 2018. This is their seventh studio album release on Sub Pop."
+  },
+  {
+   "id": "3d24898f-dd27-47bc-87ba-c00ffe496422",
+   "titulo": "Plastic Eternity",
+   "data": "2023-04-07",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/4bcb0a8d-e479-4133-afc8-fbce9d69343a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Souvenir of My Trip",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Almost Everything",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Cascades of Crap",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Flush the Fascists",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Move Under",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Severed Dreams in the Sleeper Cell",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Here Comes the Flood",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Human Stock Capital",
+     "duracao": "2:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Tom Herman’s Hermits",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "One or Two",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Cry Me an Atmospheric River",
+     "duracao": "2:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Plasticity",
+     "duracao": "2:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Little Dogs",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Plastic_Eternity",
+   "resumo_en": "Plastic Eternity is the eleventh studio album by American grunge band Mudhoney, released on April 7, 2023, and their eighth released on Sub Pop. It has received positive reviews from critics."
+  }
+ ]
+}

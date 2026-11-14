@@ -1,0 +1,763 @@
+{
+ "id": "raimundos",
+ "nome": "Raimundos",
+ "cena": "Rock brasileiro",
+ "mbid": "1c80f885-e832-4b84-864b-5deeda6a1248",
+ "wikidata": "Q474218",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1987",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "punk rock",
+  "hardcore punk",
+  "alternative metal",
+  "alternative rock",
+  "reggae"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Raimundos.jpg/500px-Raimundos.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Raimundos",
+ "resumo_pt": "Raimundos é uma banda brasileira de punk rock formada em Brasília em 1987. É composta atualmente por Digão (vocal, guitarra), Marquim (guitarra e vocal de apoio), Caio Cunha (bateria e vocal de apoio) e Jean Moura (baixo e vocal de apoio). O nome é derivado de uma de suas maiores influências, a banda Ramones. Com nove discos autorais, trinta anos de existência e mais de cinco milhões de cópias vendidas, é uma das principais bandas dos anos 90 do rock brasileiro.",
+ "resumo_en": "Raimundos is a Brazilian hardcore punk band formed in 1987 by Digão (Rodrigo Aguiar) and Rodolfo Abrantes, in Brasília, Distrito Federal. They had major influences from 1980s punk bands, especially Ramones, which their name is a play on, while also mixing in elements of Brazilian traditional music such as forró. Raimundos went on to achieve major success and become one of the most influential rock bands of Brazil in the 1990s, with multiple gold records and a double platinum certification on their MTV live album. The band's prominence decreased significantly with the exit of vocalist Abrantes to focus on religious activities.\nTheir first album Raimundos (1994) has backing vocals by João Gordo of Ratos de Porão and the members of Titãs (whose label Banguela Records released the album), while vocalist Derrick Green of Sepultura participated on their album Kavookavala.",
+ "albuns": [
+  {
+   "id": "0c8442d7-2c0b-3e04-ac98-c6bb7feca060",
+   "titulo": "Raimundos",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/20d819ae-beab-48bd-be19-6b1f8f67afbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Puteiro Em João Pessoa",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Palhas Do Coqueiro",
+     "duracao": "1:59"
+    },
+    {
+     "n": 3,
+     "titulo": "MM's",
+     "duracao": "2:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Minha Cunhada",
+     "duracao": "1:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Rapante",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Carro Forte",
+     "duracao": "1:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Nega Jurema",
+     "duracao": "1:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Deixei de Fumar Cana Caiana",
+     "duracao": "1:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Cajueiro & Rio Das Pedras",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Bê a Bá",
+     "duracao": "2:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Bicharada",
+     "duracao": "1:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Marujo",
+     "duracao": "2:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Cintura Fina",
+     "duracao": "2:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Selim",
+     "duracao": "4:14"
+    },
+    {
+     "n": 15,
+     "titulo": "Puteiro Em João Pessoa II",
+     "duracao": "3:10"
+    },
+    {
+     "n": 16,
+     "titulo": "Selim Acústico",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Raimundos_%28album%29",
+   "resumo_en": "Raimundos is the first album by the Brazilian hardcore punk band Raimundos, released in 1994 through Banguela Records. Recorded over a few weeks in Estúdio Be Bop, in São Paulo, it has sold 120,000 copies."
+  },
+  {
+   "id": "ec149bac-3780-373f-9eee-96420e5311df",
+   "titulo": "Lavô tá novo",
+   "data": "1995-11-03",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/bb08a174-f686-4883-adda-6e5f18f6cc47/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tora tora",
+     "duracao": "4:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Eu quero ver o oco",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Opa! Peraí, caceta",
+     "duracao": "2:30"
+    },
+    {
+     "n": 4,
+     "titulo": "O pão da minha prima",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Pitando no kombão",
+     "duracao": "1:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Bestinha",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Esporrei na manivela",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Tá querendo desquitar (Ela tá dando)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Sereia da pedreira",
+     "duracao": "1:48"
+    },
+    {
+     "n": 10,
+     "titulo": "I Saw You Saying (That You Say That You Saw)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Cabeça de bode",
+     "duracao": "1:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Herbocinética",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lav%C3%B4_T%C3%A1_Novo",
+   "resumo_en": "Lavô Tá Novo (transl. Washed and It Is New) is the second album by the Brazilian hardcore punk band Raimundos. It was released in 1995 through Warner Music, and its producer was Mark Dearnley, who had already worked with AC/DC, Black Sabbath and Def Leppard previously. The album was certified platinum. This album sold around five hundred thousand copies."
+  },
+  {
+   "id": "467dd85b-8d30-3e76-9597-226747c08937",
+   "titulo": "Lapadas do povo",
+   "data": "1997",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/4c232b20-2240-4d86-b243-07c138c30380/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Andar na pedra",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Véio, manco e gordo",
+     "duracao": "1:03"
+    },
+    {
+     "n": 3,
+     "titulo": "O toco",
+     "duracao": "2:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Poquito más (Healthy Food)",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Wipe Out",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "CC de com força",
+     "duracao": "1:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Crumis Ódamis",
+     "duracao": "1:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Bonita",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Ui, ui, ui",
+     "duracao": "0:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Oliver's Army",
+     "duracao": "2:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Nariz de doze",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Pequena Raimunda (Ramona)",
+     "duracao": "2:26"
+    },
+    {
+     "n": 13,
+     "titulo": "Baile Funky",
+     "duracao": "4:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Bass Hell (Bônus Crap)",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lapadas_do_Povo",
+   "resumo_en": "Lapadas do Povo (transl. Slaps of the People) is the third album of the Brazilian band Raimundos. It was launched in 1997, and produced by Mark Dearnley, at Sound City Studio, in Los Angeles. Reviewers of the album found it to be pleasantly heavier than the band's previous offerings, but that came at the cost of the removal of some of their prior local Northeastern Brazilian flavor."
+  },
+  {
+   "id": "51c19025-c08c-3992-a138-0301473b37b0",
+   "titulo": "Só No Forevis",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/ef244c63-70ac-4097-8a83-65bc94d45aed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Só No Forevis (Selim)",
+     "duracao": "0:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Mato Véio",
+     "duracao": "2:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Carrão de Dois",
+     "duracao": "2:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Fome Do Cão",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Mulher de Fases",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Alegria",
+     "duracao": "1:50"
+    },
+    {
+     "n": 7,
+     "titulo": "A Mais Pedida",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Boca de Lata",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Me Lambe",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Pompem",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Deixa Eu Falar",
+     "duracao": "4:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Aquela",
+     "duracao": "3:25"
+    },
+    {
+     "n": 13,
+     "titulo": "Língua Presa",
+     "duracao": "1:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Mulher de Fases (A Linda)",
+     "duracao": "6:21"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B3_no_Forevis",
+   "resumo_en": "Só no Forevis (transl. Only in the Butt) is the fourth studio album by Brazilian hard rock band Raimundos, launched in 1999. Its title makes a reference to the word forevis, used as a euphemism to buttocks, by Brazilian humorist Mussum from the Os Trapalhões troupe of comedians.\nAt 850 thousand copies sold, it is Raimundos' best selling album.\nIt was also the last studio album with vocalist Rodolfo Abrantes."
+  },
+  {
+   "id": "db9f0af0-2dec-39ba-b502-8f1e7de7e59e",
+   "titulo": "Éramos 4",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/d5ef5b6b-f7cd-48e7-b1aa-084f717d3744/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sanidade",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Desculpe mas eu vou chorar",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Nana neném",
+     "duracao": "1:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Sheena is a Punk Rocker",
+     "duracao": "2:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Rockaway Beach",
+     "duracao": "1:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Teenage Lobotomy",
+     "duracao": "1:33"
+    },
+    {
+     "n": 7,
+     "titulo": "I Wanna Be Well",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "I Don't Care",
+     "duracao": "1:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock'n'Roll High School",
+     "duracao": "1:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Needles and Pins",
+     "duracao": "2:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Do You Wanna Dance",
+     "duracao": "1:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Pinhead",
+     "duracao": "1:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Blitzkrieg Bop",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/%C3%89ramos_Quatro",
+   "resumo_en": "Éramos 4 (transl. We Were 4, a pun on Éramos Seis) is the seventh album of the Brazilian band Raimundos. It was launched in 2001, after the exit of the founding singer Rodolfo Abrantes. The disc contains basically cover songs of Ramones, played live with Marky Ramone, ex-drummer of the Ramones."
+  },
+  {
+   "id": "d9595940-f71f-3dd8-8a7c-6378940e7817",
+   "titulo": "Kavookavala",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/0f086b1d-7e76-4cc4-81f1-71b132f6abfe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fique! Fique!",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Crocodilo Meio Kilo",
+     "duracao": "2:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Joey",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Vento Certo (Água da Mina)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Kavookavala",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "El Mariachi",
+     "duracao": "1:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Mas Vó",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Princesinha",
+     "duracao": "2:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Uabarrêba",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Atitude Severa",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Pegamutukalá",
+     "duracao": "3:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Baixo Calão",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "e0fb2fb2-a09a-4b9f-bda0-51aebee3deb4",
+   "titulo": "Cantigas de garagem",
+   "data": "2014",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/e9579b32-e1a7-4712-8cc5-313cf7ff3e35/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cachorrinha",
+     "duracao": "2:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Bop",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Baculejo",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "O gato da Rosinha",
+     "duracao": "2:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Cera quente",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Rafael",
+     "duracao": "2:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Descendo na banguela",
+     "duracao": "3:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Dubmundos",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Nó suíno",
+     "duracao": "2:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Importada do interior",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Gordelícia",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Politics",
+     "duracao": "5:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Mas vó...",
+     "duracao": "4:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Eu quero ver o oco",
+     "duracao": "3:51"
+    },
+    {
+     "n": 15,
+     "titulo": "Esporrei na manivela",
+     "duracao": "4:44"
+    },
+    {
+     "n": 16,
+     "titulo": "Be a ba",
+     "duracao": "3:22"
+    },
+    {
+     "n": 17,
+     "titulo": "Puteiro em joão pessoa",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "37ad7ff5-327b-4859-9a7c-03bd411f9fa5",
+   "titulo": "Cantigas de roda",
+   "data": "2014-02-20",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/65bb53e2-4329-4b0d-86bd-670b77b878e8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cachorrinha",
+     "duracao": "2:05"
+    },
+    {
+     "n": 2,
+     "titulo": "BOP",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Baculejo",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Gato da Rosinha",
+     "duracao": "2:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Cera quente",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Rafael",
+     "duracao": "2:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Descendo na banguela",
+     "duracao": "3:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Dubmundos",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Nó suíno",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Importada do interior",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Gordelícia",
+     "duracao": "3:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Politics",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "d3863b92-e44f-4bf6-9cc3-c5714cce8e02",
+   "titulo": "XXX",
+   "data": "2025-05-22",
+   "ano": "2025",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Os Calo",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Maria Bonita",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Dia Bonito",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Um Doce",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Nas Nuvens",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Cuidado Com Esses Cara Aí",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Pela-Saco",
+     "duracao": "5:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Teu Passo",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Que Sorte",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

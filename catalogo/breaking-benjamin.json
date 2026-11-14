@@ -1,0 +1,573 @@
+{
+ "id": "breaking-benjamin",
+ "nome": "Breaking Benjamin",
+ "cena": "Nu metal e correlatos",
+ "mbid": "854a1807-025b-42a8-ba8c-2a39717f1d25",
+ "wikidata": "Q271984",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1999",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "post-grunge",
+  "alternative rock",
+  "hard rock",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Breaking_Benjamin_2-14-15.jpg/500px-Breaking_Benjamin_2-14-15.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Breaking_Benjamin",
+ "resumo_pt": "Breaking Benjamin é uma banda norte-americana de rock formada em Wilkes-Barre, Pensilvânia, fundada por Benjamin Burnley. É umas das pricipais e mais influentes bandas de post-grunge/metal alternativo do início dos anos 2000.  \nAtualmente formada por Benjamin Burnley, Aaron Bruch, Keith Wallen, Jasen Rauch e Shaun Foist. A primeira formação da banda também incluiu o guitarrista Aaron Fink e o baixista Mark Klepaski. Esta formação lançou dois álbuns, Saturate (2002) e We Are Not Alone (2004), antes de Hummel ser substituído por Chad Szeliga em 2005.",
+ "resumo_en": "Breaking Benjamin is an American rock band from Wilkes-Barre, Pennsylvania, formed in 1999 by lead singer and guitarist Benjamin Burnley and drummer Jeremy Hummel. The first lineup of the band also included guitarist Aaron Fink and bassist Mark James Klepaski. This lineup released two albums, Saturate (2002) and We Are Not Alone (2004), before Hummel was replaced by Chad Szeliga in 2005. The band released two more studio albums, Phobia (2006) and Dear Agony (2009), before entering an extended hiatus in early 2010 due to Burnley's recurring illnesses.\nAmid the hiatus, the release of a compilation album, Shallow Bay: The Best of Breaking Benjamin (2011), unauthorized by Burnley, brought about legal trouble within the band resulting in the dismissal of Fink and Klepaski. Szeliga later announced his departure in 2013 citing creative differences. Burnley remained the sole member of the band until late 2014, when the new lineup was announced, including bassist and backing vocalist Aaron Bruch, guitarist and backing vocalist Keith Wallen, guitarist Jasen Rauch, and drummer Shaun Foist. The band afterward released Dark Before Dawn (2015) and Ember (2018), which debuted at number one and three on the Billboard 200, respectively. Following these albums, the band released another compilation, Aurora (2020), featuring reworked acoustic versions of past songs along with one original new song.\nDespite significant lineup changes, the band's musical style and lyrical content have remained co",
+ "albuns": [
+  {
+   "id": "5a4bfa4c-1baa-39fa-ac93-c0063cc60b7f",
+   "titulo": "Saturate",
+   "data": "2002-08-27",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/91d85c0e-319f-45c4-a863-026ef06774fd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wish I May",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Medicate",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Polyamorous",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Skin",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Natural Life",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Next to Nothing",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Water",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Home",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Phase",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "No Games",
+     "duracao": "3:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Sugarcoat",
+     "duracao": "3:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Shallow Bay",
+     "duracao": "4:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Forever",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Saturate_%28Breaking_Benjamin_album%29",
+   "resumo_en": "Saturate is the debut studio album by American rock band Breaking Benjamin. It was released on August 27, 2002. The album features three singles, including \"Polyamorous\", \"Skin\", and \"Medicate\". The album was certified gold by the RIAA on September 15, 2015."
+  },
+  {
+   "id": "9a03d313-0580-3f71-ae10-0e0996db3faa",
+   "titulo": "We Are Not Alone",
+   "data": "2004-06-29",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/b5ca965c-688a-409f-a6ab-588624260e11/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "So Cold",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Simple Design",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Follow",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Firefly",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Break My Fall",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Forget It",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Sooner or Later",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Breakdown",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Away",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Believe",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Rain",
+     "duracao": "3:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Ordinary Man",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.2,
+    "fontes": 2
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/We_Are_Not_Alone_%28Breaking_Benjamin_album%29",
+   "resumo_en": "We Are Not Alone is the second studio album by American rock band Breaking Benjamin. It was released on June 29, 2004. Three singles were released from the album, \"So Cold\", \"Sooner or Later\", and the full-band version of \"Rain\". The album's name is a reference to a James Hilton novel of the same name. We Are Not Alone sold 48,000 copies in its first week and was certified platinum by the RIAA on June 13, 2005. Despite not being the first Breaking Benjamin album with explicit music, it was the first to receive a Parental Advisory label.\nA Live EP was released with limited editions of the album, containing live recorded versions of \"Sugarcoat,\" \"Water,\" \"Medicate,\" and \"Next to Nothing\" from their first album Saturate.\nWe Are Not Alone is the last studio album to feature drummer Jeremy Hummel. The track \"Firefly\" was featured in the 2004 video games WWE SmackDown! vs. Raw and WWE Day of Reckoning.\nAccording to AllMusic critic Johnny Loftus, the album stylistically incorporates early Tool's sound through post-grunge's more accessible melodics."
+  },
+  {
+   "id": "79f338ee-d67c-3845-945c-1fd2e03e8f1b",
+   "titulo": "Phobia",
+   "data": "2006-08-08",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "1:13"
+    },
+    {
+     "n": 2,
+     "titulo": "The Diary of Jane",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Breath",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "You",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Evil Angel",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Until the End (clean version)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Dance With the Devil",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Topless (clean version)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Here We Are",
+     "duracao": "4:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Unknown Soldier",
+     "duracao": "3:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Had Enough",
+     "duracao": "3:49"
+    },
+    {
+     "n": 12,
+     "titulo": "You Fight Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Outro",
+     "duracao": "2:09"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Phobia_%28Breaking_Benjamin_album%29",
+   "resumo_en": "Phobia is the third studio album by American rock band Breaking Benjamin. It was recorded at The Barbershop Studios in Hopatcong, New Jersey, and released on August 8, 2006, through Hollywood Records."
+  },
+  {
+   "id": "984dc287-6af5-458f-80be-4ae6b47147d7",
+   "titulo": "Dear Agony",
+   "data": "2009-09-29",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/6ff8a328-8c23-4e39-a41b-eb9b62d46059/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fade Away",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "I Will Not Bow",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Crawl",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Give Me a Sign",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Hopeless",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "What Lies Beneath",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Anthem of the Angels",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Lights Out",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Dear Agony",
+     "duracao": "4:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Into the Nothing",
+     "duracao": "3:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Without You",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dear_Agony",
+   "resumo_en": "Dear Agony is the fourth studio album by American rock band Breaking Benjamin. It was released on September 29, 2009. A Best Buy edition, Japanese import version, and Zune exclusive version were also released, all of which feature bonus content. This is the first album to feature writing credits from members of the band other than Benjamin Burnley. It is also the final studio album to feature guitarist Aaron Fink and bassist Mark James Klepaski, who were both fired from the band in 2011, as well as drummer Chad Szeliga, who left the band due to creative differences in 2013."
+  },
+  {
+   "id": "a6fd8cb6-a2d5-4702-8f12-6bf95a67dcba",
+   "titulo": "Dark Before Dawn",
+   "data": "2015-06-23",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/ef687a5d-2a83-4e2f-857f-5504d81b7b87/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dark",
+     "duracao": "2:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Failure",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Angels Fall",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Breaking the Silence",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Hollow",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Close to Heaven",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Bury Me Alive",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Never Again",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "The Great Divide",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Ashes of Eden",
+     "duracao": "4:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Defeated",
+     "duracao": "3:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Dawn",
+     "duracao": "1:52"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 7
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dark_Before_Dawn",
+   "resumo_en": "Dark Before Dawn is the fifth studio album by American rock band Breaking Benjamin, released on June 23, 2015, by Hollywood Records. It is the group's first studio album following the band's hiatus lasting from early 2010 to late 2014, and the first album to feature an entirely different lineup alongside founder and frontman Benjamin Burnley. Produced and composed by Burnley, the album took shape towards the end of the hiatus and was mostly written before the new lineup \"even played a single note together.\" The recording process took place afterwards at both a personal studio of Burnley's and at the same studio Phobia (2006) was recorded, with all of the band members performing their respective instruments, including background vocals performed by guitarist Keith Wallen and bassist Aaron Bruch, making the record their first to feature vocals other than Burnley's.\nThe album was a critical and commercial success. It garnered mostly positive reception, with many critics praising the album for staying true to the group's established sound, although others criticized it for sounding derivative and formulaic. Burnley described that he did not want to \"reinvent the wheel\" with the album. "
+  },
+  {
+   "id": "a244bf4a-6f86-4edc-b441-8c5cd396ecf4",
+   "titulo": "Ember",
+   "data": "2018-04-13",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/2742accc-14c5-4bd9-8fba-fd1fd16b7c0a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lyra",
+     "duracao": "0:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Feed the Wolf",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Red Cold River",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Tourniquet",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Psycho",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "The Dark of You",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Down",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Torn in Two",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Blood",
+     "duracao": "3:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Save Yourself",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Close Your Eyes",
+     "duracao": "4:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Vega",
+     "duracao": "1:22"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": 5.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ember_%28album%29",
+   "resumo_en": "Ember is the sixth studio album by American rock band Breaking Benjamin, produced by lead singer and rhythm guitarist Benjamin Burnley. It was released by Hollywood Records on April 13, 2018. The first single, \"Red Cold River\", was released on January 5, 2018. A music video for \"Torn in Two\" was released on the same day as the album, and was released as the second single on May 29, 2018. On December 13, 2018, a music video for \"Tourniquet\" was released, and was released as the third single on December 18, 2018. This is the band's last studio album with Hollywood Records before signing with BMG."
+  },
+  {
+   "id": "1181d5d3-0a7c-477e-8020-089e7004ae16",
+   "titulo": "Aurora",
+   "data": "2020-01-04",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/10aeb090-9e64-440e-9dcf-c5928ef7b8e2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "So Cold",
+     "duracao": "4:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Failure",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Far Away",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Angels Fall",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Red Cold River",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Tourniquet",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Dance With the Devil",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Never Again",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Torn in Two",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Dear Agony",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.7,
+    "fontes": 2
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aurora_%28Breaking_Benjamin_album%29",
+   "resumo_en": "Aurora is a compilation album by the American rock band Breaking Benjamin, released on January 24, 2020. The album is a collection of reimagined versions of previously released songs, plus one new song. This is their final album with Hollywood Records."
+  }
+ ]
+}

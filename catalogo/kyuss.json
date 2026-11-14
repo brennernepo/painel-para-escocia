@@ -1,0 +1,330 @@
+{
+ "id": "kyuss",
+ "nome": "Kyuss",
+ "cena": "Groove, death e além",
+ "mbid": "ea0f2a37-7007-4217-a812-396227f5013a",
+ "wikidata": "Q4991503",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1987",
+ "fim": "1996",
+ "ativa": false,
+ "generos": [
+  "stoner rock",
+  "stoner metal",
+  "desert rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kyuss_lives1.JPG/500px-Kyuss_lives1.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Kyuss",
+ "resumo_pt": "Kyuss (pronuncia-se kaius) foi uma banda formada em 1988 em Palm Desert, Califórnia. Popularizou o até então desconhecido movimento musical stoner rock. A banda ganhou status de cult pois em pouco tempo lançou álbuns aclamados e realizou várias turnês. De suas cinzas nasceram os grupos Queens of the Stone Age, Hermano, Slo Burn, Brant Bjork, Che, e Mondo Generator.",
+ "resumo_en": "Kyuss ( KY-əs) was an American stoner rock band formed in Palm Desert, California, in 1987. They are considered one of the pioneers of the genre. After disbanding in 1995, a number of band members have gone on to form or play in several notable bands including Queens of the Stone Age, Screaming Trees, Fu Manchu, Dwarves, Eagles of Death Metal, Mondo Generator, Hermano, Unida, Slo Burn and Them Crooked Vultures.\nIn November 2010, three former members of the band (minus Homme, who declined to participate) reunited under the adapted moniker \"Kyuss Lives!\" for a world tour with plans to record a new album. A federal lawsuit subsequently filed by Homme resulted in Oliveri leaving the band in March 2012. Five months later, a court ruled that Garcia and Bjork were not allowed to release audio recordings under the Kyuss Lives! moniker. As a result, they changed their name to Vista Chino.",
+ "albuns": [
+  {
+   "id": "0d2b7589-b28a-3681-827f-a1a9a99a0482",
+   "titulo": "Wretch",
+   "data": "1991-09-23",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/d753401b-f77e-4f72-9bfd-9841fd7c96dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "[Beginning of What’s About to Happen] HWY 74",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Has Passed Me By",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Son of a Bitch",
+     "duracao": "6:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Widow",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Katzenjammer",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Deadly Kiss",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "The Law",
+     "duracao": "7:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Isolation",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Not",
+     "duracao": "4:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Big Bikes",
+     "duracao": "5:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Stage III",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wretch_%28album%29",
+   "resumo_en": "Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks \"Black Widow\" and \"Deadly Kiss\" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs \"Love Has Passed Me By\", \"Katzenjammer\", and \"Isolation Desolation\" were re-recorded for Wretch, the latter's title shortened to \"Isolation\"."
+  },
+  {
+   "id": "816f2753-e709-3b10-ad93-e4c1af7aea6c",
+   "titulo": "Blues for the Red Sun",
+   "data": "1992-06-30",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/42869337-4390-39af-899e-c585daef89a4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thumb",
+     "duracao": "4:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Green Machine",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Molten Universe",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "50 Million Year Trip (Downside Up)",
+     "duracao": "5:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Thong Song",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Apothecaries’ Weight",
+     "duracao": "5:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Caterpillar March",
+     "duracao": "1:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Freedom Run",
+     "duracao": "7:37"
+    },
+    {
+     "n": 9,
+     "titulo": "800",
+     "duracao": "1:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Writhe",
+     "duracao": "3:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Capsized",
+     "duracao": "0:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Allen’s Wrench",
+     "duracao": "2:44"
+    },
+    {
+     "n": 13,
+     "titulo": "Mondo Generator",
+     "duracao": "6:15"
+    },
+    {
+     "n": 14,
+     "titulo": "Yeah",
+     "duracao": "0:04"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.2,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_for_the_Red_Sun",
+   "resumo_en": "Blues for the Red Sun is the second studio album by American rock band Kyuss, released in 1992. While the album received mainly favorable reviews, it fared poorly commercially, selling only 39,000 units. It has since become a very influential album within the stoner rock genre. It was the last Kyuss album to feature bassist Nick Oliveri, who was replaced by Scott Reeder shortly after recording had been completed. The album is dedicated to Oliveri's father who died in a car accident in 1991."
+  },
+  {
+   "id": "eecc24d6-b4ba-39a9-818f-a6ec14a9a04f",
+   "titulo": "Welcome to Sky Valley",
+   "data": "1994-06-27",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/78117d44-1eba-4e50-864d-42caa550e7ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gardenia",
+     "duracao": "6:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Asteroid",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Supa Scoopa and Mighty Scoop",
+     "duracao": "6:03"
+    },
+    {
+     "n": 4,
+     "titulo": "100°",
+     "duracao": "2:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Space Cadet",
+     "duracao": "7:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Demon Cleaner",
+     "duracao": "5:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Odyssey",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Conan Troutman",
+     "duracao": "2:11"
+    },
+    {
+     "n": 9,
+     "titulo": "N.O.",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Whitewater / Lick Doo",
+     "duracao": "8:58"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 8.7,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Welcome_to_Sky_Valley",
+   "resumo_en": "Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio album by American stoner rock band Kyuss, released on June 28, 1994, through Elektra Records.\nWelcome to Sky Valley was the band's first album to feature bassist Scott Reeder, who replaced Nick Oliveri in 1992. The album was also the last to feature founding member Brant Bjork, who left the band shortly after recording concluded. The song \"N.O.\" was originally recorded by Across the River, a band fronted by Mario Lalli and featuring bassist Reeder. After Reeder left the Obsessed and joined Kyuss, Bjork suggested they record \"N.O.\" as a tribute to Across the River."
+  },
+  {
+   "id": "3fba4dd1-557a-3a71-9a67-930146939c3e",
+   "titulo": "…And the Circus Leaves Town",
+   "data": "1995-07-07",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/1946299c-8cdb-4ba1-95d1-f160e386cc03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hurricane",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "One Inch Man",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Thee Ol’ Boozeroony",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Gloria Lewis",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Phototropic",
+     "duracao": "5:13"
+    },
+    {
+     "n": 6,
+     "titulo": "El Rodeo",
+     "duracao": "5:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Jumbo Blimp Jumbo",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Tangy Zizzle",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Size Queen",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Catamaran",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Spaceship Landing / M’deea / Day One",
+     "duracao": "34:04"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/...And_the_Circus_Leaves_Town",
+   "resumo_en": "...And the Circus Leaves Town is the fourth and final studio album by American stoner rock band Kyuss, released on July 11, 1995, nearly a year before their breakup. Drummer Alfredo Hernández (Yawning Man) replaced Brant Bjork, who left Kyuss in 1993. The album features a tighter and more straightforward sound, both in songwriting and production, than the band's preceding efforts. The album was not as commercially or critically successful as the previous Blues for the Red Sun and Welcome to Sky Valley. Critic Dean Brown attributes this partly to a lack of promotion and the band's breakup, but also notes that the album \"deserves to be cherished as much as the two molten hot records that came right before it.\" A video was released for \"One Inch Man\", the album's only official single."
+  }
+ ]
+}

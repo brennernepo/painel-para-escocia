@@ -1,0 +1,1601 @@
+{
+ "id": "helloween",
+ "nome": "Helloween",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "765774a0-2060-469b-8b7d-612eea48579b",
+ "wikidata": "Q158895",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1984",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "power metal",
+  "heavy metal",
+  "speed metal",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Helloween_-_Pumpkins_United_-_Wacken_Open_Air_2018_58.jpg/500px-Helloween_-_Pumpkins_United_-_Wacken_Open_Air_2018_58.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Helloween",
+ "resumo_pt": "Helloween é uma banda de power metal alemã, fundada em 1984. É composta por Andi Deris (vocal), Dani Löble (bateria), Sascha Gerstner (guitarra), Michael Weikath (guitarra) e Markus Grosskopf (baixo), sendo esses dois últimos membros fundadores, junto com Kai Hansen e Ingo Schwichtenberg (falecido). Em 2016, Michael Kiske e Kai Hansen foram reincorporados à banda. É considerada por muitos como a criadora do power metal.  Influenciou bandas como Angra, Hammerfall, Edguy, Rhapsody of Fire, Shaman, Stratovarius, Sonata Arctica, Avantasia, entre outras.\nA banda possui mais de 40 anos de carreira e vendeu mais de 15 milhões de cópias em todo o mundo.",
+ "resumo_en": "Helloween is a German power metal band founded in 1984 in Hamburg by members of the bands Iron Fist, Gentry, Second Hell, and Powerfool. Helloween has at times been called one of the most influential European heavy metal bands of the 1980s.\nHelloween's original line-up consisted of singer and guitarist Kai Hansen, bassist Markus Grosskopf, guitarist Michael Weikath and drummer Ingo Schwichtenberg. Its first line-up change took place in 1986, when Michael Kiske took over as lead vocalist. Hansen left in 1989 to form Gamma Ray and was replaced by Roland Grapow, and Schwichtenberg and Kiske had both parted ways in 1993, leaving Grosskopf and Weikath as the only two remaining original members. For the next 23 years, Helloween had undergone several more personnel changes that included vocalist Andi Deris (who replaced Kiske in 1994), guitarist Sascha Gerstner (who replaced Grapow in 2002) and drummers Uli Kusch, Mark Cross, Stefan Schwarzmann and Daniel Löble. The band settled on its current line-up in 2016, which features all of the surviving members of the Keeper of the Seven Keys line-up (Schwichtenberg had died in 1995), in addition to the remaining members from the Keeper of the Seven Keys: The Legacy-era (Deris, Gerstner and Loble).\nSince its inception, Helloween has released 17 studio albums, five live albums, three EPs and 31 singles. The band was honored with 14 gold and six platinum awards and has sold more than 10 million records worldwide.",
+ "albuns": [
+  {
+   "id": "78492dde-c7f7-31cb-a1c6-5d00672748ad",
+   "titulo": "Walls of Jericho",
+   "data": "1985-10",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/927ff181-567c-4362-8494-72f683f19857/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walls of Jericho",
+     "duracao": "0:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Ride the Sky",
+     "duracao": "5:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Reptile",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Guardians",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Phantoms of Death",
+     "duracao": "6:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Metal Invaders",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Gorgar",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Heavy Metal (Is the Law)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 9,
+     "titulo": "How Many Tears",
+     "duracao": "7:17"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.6,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Walls_of_Jericho_%28album%29",
+   "resumo_en": "Walls of Jericho is the debut studio album by German power metal band Helloween, released in 1985 on LP by Noise Records. It is the band's only album featuring Kai Hansen as lead vocalist until 2021's Helloween, although he would continue to act as guitarist on the two following albums.\nIn 1988, Walls of Jericho was released on CD. Due to the enhanced capacity of the CD, the Helloween EP/mini-LP and the song \"Judas\" from the Judas EP were added to the Walls of Jericho track listing; they are now released as a compilation."
+  },
+  {
+   "id": "a5b25e78-2c46-3c59-ab07-e022d88699ed",
+   "titulo": "Keeper of the Seven Keys, Part I",
+   "data": "1987-04-21",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/4f01c05f-1eb7-47a7-85d1-8bacd759298d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Initiation",
+     "duracao": "1:19"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Alive",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "A Little Time",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Twilight of the Gods",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "A Tale That Wasn’t Right",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Future World",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Halloween",
+     "duracao": "13:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Follow the Sign",
+     "duracao": "1:47"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.1,
+    "fontes": 6
+   },
+   "publico": 9.3,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Keeper_of_the_Seven_Keys%3A_Part_I",
+   "resumo_en": "Keeper of the Seven Keys: Part I is the second studio album by German power metal band Helloween, released in 1987. It marks the first appearance of vocalist Michael Kiske, and is considered the album that created the genre of European-style power metal."
+  },
+  {
+   "id": "a2b9a7ac-066f-3fc7-a740-725c4fb5f070",
+   "titulo": "Keeper of the Seven Keys, Part II",
+   "data": "1988-08-29",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/4226a204-1ac8-4b73-b113-7e063e5a2320/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Invitation",
+     "duracao": "1:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Eagle Fly Free",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "You Always Walk Alone",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Rise and Fall",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Dr. Stein",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "We Got the Right",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Save Us",
+     "duracao": "5:13"
+    },
+    {
+     "n": 8,
+     "titulo": "March of Time",
+     "duracao": "5:14"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want Out",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Keeper of the Seven Keys",
+     "duracao": "13:38"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.6,
+    "fontes": 7
+   },
+   "publico": 8.9,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/Keeper_of_the_Seven_Keys%3A_Part_II",
+   "resumo_en": "Keeper of the Seven Keys: Part II is the third studio album by German power metal band Helloween, released on 5 September 1988. The album sold well, and success bloomed all over Europe, Asia, and even the United States. The album went gold in Germany and reached No. 108 in the US.\nTwo singles were released from the album, \"Dr. Stein\" and \"I Want Out\". \"Dr. Stein\" has a very long and moody solo, played with a blues tinge, very unlike other solos on the album, as well as an organ solo. \"I Want Out\" remains one of the band's best-known songs, and has been covered by several metal bands, such as Gamma Ray (which Kai Hansen formed after leaving Helloween itself), Unisonic (co-founded by Michael Kiske, after he left Helloween), HammerFall, LORD and Sonata Arctica. It is their last album to feature Hansen until 2021's self-titled album.\nThe title track \"Keeper of the Seven Keys\" remained the band's longest song until being surpassed by \"King for a Thousand Years\", from Keeper of the Seven Keys: The Legacy (2005)."
+  },
+  {
+   "id": "15ab421a-eff6-3d64-a73e-24a816aac55a",
+   "titulo": "Pink Bubbles Go Ape",
+   "data": "1991-03-11",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/745382ba-3cb3-48c3-9f80-669a71a07997/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pink Bubbles Go Ape",
+     "duracao": "0:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Kids of the Century",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Back on the Streets",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Number One",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Heavy Metal Hamsters",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Goin’ Home",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Someone’s Crying",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Mankind",
+     "duracao": "6:20"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Doin’ Fine, Crazy Man",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "The Chance",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Your Turn",
+     "duracao": "5:41"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pink_Bubbles_Go_Ape",
+   "resumo_en": "Pink Bubbles Go Ape is the fourth studio album by German power metal band Helloween, released in 1991. It marked the departure of guitarist Kai Hansen, with Roland Grapow replacing him. It was also the band's first album released on EMI Records."
+  },
+  {
+   "id": "b0a22fe4-ddd2-368e-93e4-446416b29609",
+   "titulo": "Chameleon",
+   "data": "1993-05",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/a932e617-71c0-4ac0-8cec-eb2e411a27c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "First Time",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "When the Sinner",
+     "duracao": "6:54"
+    },
+    {
+     "n": 3,
+     "titulo": "I Don’t Wanna Cry No More",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Crazy Cat",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Giants",
+     "duracao": "6:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Windmill",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Revolution Now",
+     "duracao": "8:04"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Night",
+     "duracao": "5:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Music",
+     "duracao": "7:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Step Out of Hell",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "I Believe",
+     "duracao": "9:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Longing",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chameleon_%28Helloween_album%29",
+   "resumo_en": "Chameleon is the fifth studio album by German power metal band Helloween, released in 1993. It is their most musically adventurous release, but also their least commercially successful, and is their last studio album to feature singer Michael Kiske until 2021's self-titled album, as well as their last with original drummer Ingo Schwichtenberg.   Chameleon was also the band's last album on EMI Records."
+  },
+  {
+   "id": "bb111890-b3ff-3e91-8ad6-f61d82a8b7cc",
+   "titulo": "Master of the Rings",
+   "data": "1994-07-08",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/b3a94648-63f3-4fb1-94ff-6130977c7254/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Irritation",
+     "duracao": "1:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Sole Survivor",
+     "duracao": "4:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Where the Rain Grows",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Why?",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Mr Ego (take Me Down)",
+     "duracao": "7:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Perfect Gentleman",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "The Game Is On",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Secret Alibi",
+     "duracao": "5:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Take Me Home",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "In the Middle of a Heartbeat",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Still We Go",
+     "duracao": "5:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Helloween Interview 1",
+     "duracao": "0:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Helloween Interview 2",
+     "duracao": "0:18"
+    },
+    {
+     "n": 14,
+     "titulo": "Helloween Interview 3",
+     "duracao": "0:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Helloween Interview 4",
+     "duracao": "0:16"
+    },
+    {
+     "n": 16,
+     "titulo": "Helloween Interview 5",
+     "duracao": "0:52"
+    },
+    {
+     "n": 17,
+     "titulo": "Helloween Interview 6",
+     "duracao": "0:29"
+    },
+    {
+     "n": 18,
+     "titulo": "Helloween Interview 7",
+     "duracao": "0:59"
+    },
+    {
+     "n": 19,
+     "titulo": "Helloween Interview 8",
+     "duracao": "0:05"
+    },
+    {
+     "n": 20,
+     "titulo": "Helloween Interview 9",
+     "duracao": "1:05"
+    },
+    {
+     "n": 21,
+     "titulo": "Helloween Interview 10",
+     "duracao": "0:11"
+    },
+    {
+     "n": 22,
+     "titulo": "Helloween Interview 11",
+     "duracao": "1:07"
+    },
+    {
+     "n": 23,
+     "titulo": "Helloween Interview 12",
+     "duracao": "0:07"
+    },
+    {
+     "n": 24,
+     "titulo": "Helloween Interview 13",
+     "duracao": "0:07"
+    },
+    {
+     "n": 25,
+     "titulo": "Helloween Interview 14",
+     "duracao": "0:19"
+    },
+    {
+     "n": 26,
+     "titulo": "Helloween Interview 15",
+     "duracao": "2:12"
+    },
+    {
+     "n": 27,
+     "titulo": "Helloween Interview 16",
+     "duracao": "0:17"
+    },
+    {
+     "n": 28,
+     "titulo": "Helloween Interview 17",
+     "duracao": "0:55"
+    },
+    {
+     "n": 29,
+     "titulo": "Helloween Interview 18",
+     "duracao": "0:29"
+    },
+    {
+     "n": 30,
+     "titulo": "Helloween Interview 19",
+     "duracao": "0:31"
+    },
+    {
+     "n": 31,
+     "titulo": "Helloween Interview 20",
+     "duracao": "0:25"
+    },
+    {
+     "n": 32,
+     "titulo": "Helloween Interview 21",
+     "duracao": "1:19"
+    },
+    {
+     "n": 33,
+     "titulo": "Helloween Interview 22",
+     "duracao": "0:24"
+    },
+    {
+     "n": 34,
+     "titulo": "Cold Sweat",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Master_of_the_Rings",
+   "resumo_en": "Master of the Rings is the sixth studio album by German power metal band Helloween, released in 1994. It is the first to feature new members Andi Deris and Uli Kusch.\nThis album contains four singles, which are \"Where the Rain Grows\", \"Mr. Ego (Take Me Down)\", \"Perfect Gentleman\", and \"Sole Survivor\", with corresponding videos for the first three. \"Mr. Ego\" was dedicated to the band's former singer, Michael Kiske, and was released as an EP in Europe."
+  },
+  {
+   "id": "dbc58aba-e803-33ab-a350-93c737c249e9",
+   "titulo": "The Time of the Oath",
+   "data": "1996-02-29",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/6c956db3-22a3-4ae5-bae0-99cecce13cbb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We Burn",
+     "duracao": "3:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Steel Tormentor",
+     "duracao": "5:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Wake Up the Mountain",
+     "duracao": "5:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Power",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Forever and One (Neverland)",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Before the War",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "A Million to One",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Anything My Mama Don't Like",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Kings Will Be Kings",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Mission Motherland",
+     "duracao": "9:02"
+    },
+    {
+     "n": 11,
+     "titulo": "If I Knew",
+     "duracao": "5:31"
+    },
+    {
+     "n": 12,
+     "titulo": "The Time of the Oath",
+     "duracao": "6:59"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.9,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Time_of_the_Oath",
+   "resumo_en": "The Time of the Oath is the seventh studio album by German power metal band Helloween, released in 1996."
+  },
+  {
+   "id": "32faf671-3b3e-3271-b497-a0631605b0f6",
+   "titulo": "Better Than Raw",
+   "data": "1998-03-04",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/5cf37f72-8b68-40ce-8955-ec780003c061/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Deliberately Limited Preliminary Prelude Period in Z",
+     "duracao": "1:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Push",
+     "duracao": "5:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Falling Higher",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Hey Lord!",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Spit on My Mind",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Revelation",
+     "duracao": "8:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Time",
+     "duracao": "5:42"
+    },
+    {
+     "n": 8,
+     "titulo": "I Can",
+     "duracao": "4:39"
+    },
+    {
+     "n": 9,
+     "titulo": "A Handful of Pain",
+     "duracao": "4:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Laudate Dominum",
+     "duracao": "5:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Midnight Sun",
+     "duracao": "6:20"
+    },
+    {
+     "n": 12,
+     "titulo": "A Game We Shouldn’t Play",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Better_Than_Raw",
+   "resumo_en": "Better Than Raw is the eighth studio album by German power metal band Helloween, released in 1998. The album spawned the singles \"I Can\" and \"Hey Lord!\".\nThe album was recorded at Chateau du Pape and Crazy Cat Studios in Hamburg and at Mi Sueño Studio in Tenerife. It was produced and mixed by Tommy Hansen at Chateau du Pape and mastered by Ian Cooper at Metropolis, London."
+  },
+  {
+   "id": "36cdf604-7490-30c1-9b33-1b8c983635da",
+   "titulo": "Metal Jukebox",
+   "data": "1999-09-08",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/f8fc02c5-f4c9-4bf0-80e9-6afed39ae39b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "He’s a Woman - She’s a Man",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Locomotive Breath",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Lay All Your Love on Me",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Space Oddity",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "From Out of Nowhere",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "All My Loving",
+     "duracao": "1:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Hocus Pocus",
+     "duracao": "6:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Faith Healer",
+     "duracao": "7:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Juggernaut",
+     "duracao": "4:50"
+    },
+    {
+     "n": 10,
+     "titulo": "White Room",
+     "duracao": "5:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Mexican",
+     "duracao": "5:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Rat Bat Blue",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metal_Jukebox",
+   "resumo_en": "Metal Jukebox is a cover album by German power metal band Helloween. The song \"Lay All Your Love on Me\" was released as a single in Japan. Each member of the band recorded their instruments independently (and in different countries and studios) of each other and was later brought together at Andi Deris' Tenerife studio."
+  },
+  {
+   "id": "6aae95cb-a027-3f6a-8b57-251f8522e40c",
+   "titulo": "The Dark Ride",
+   "data": "2000-10-21",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/351e5578-2bdd-452e-b4ba-b2d13518eeb1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beyond the Portal",
+     "duracao": "0:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr. Torture",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "All Over the Nations",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Escalation 666",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Mirror, Mirror",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "If I Could Fly",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Salvation",
+     "duracao": "5:41"
+    },
+    {
+     "n": 8,
+     "titulo": "The Departed (Sun Is Going Down)",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "I Live for Your Pain",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "We Damn the Night",
+     "duracao": "4:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Immortal",
+     "duracao": "4:03"
+    },
+    {
+     "n": 12,
+     "titulo": "The Dark Ride",
+     "duracao": "8:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Deliver Us From Temptation",
+     "duracao": "4:51"
+    },
+    {
+     "n": 14,
+     "titulo": "If I Could Fly (extended version)",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Dark_Ride",
+   "resumo_en": "The Dark Ride is the ninth studio album by German power metal band Helloween, released in 2000. The album's style was quite different from Better Than Raw as it had a much darker sound, drop-tuned guitars, and gruffer vocals. The album was produced by Roy Z and Charlie Bauerfeind. It is the last studio album to feature Master of the Rings-era lineup with the dismissal of guitarist Roland Grapow and drummer Uli Kusch after completion of the supporting tour for the album. They went on to form the band Masterplan.\nThe album contains two singles, which are \"If I Could Fly\" and \"Mr. Torture\".\nIn later interviews, bassist Markus Grosskopf commented on the album, saying: \"The Dark Ride was kind of constructed, all the people were telling us try this, let's do this, you know, it's a good album but it's a very difficult way to do records when there's somebody always going on your nerves all the time\", and that the album \"sounded like it did because certain people wanted us to work with other certain people. We let people come in and mess with the arrangements, and re-work the lyrics, and generally do just what they wanted. They wanted us to work like that, and we agreed. If they wanted us t"
+  },
+  {
+   "id": "8e86e2d3-7ead-30e3-a34a-f97e78b189d7",
+   "titulo": "Rabbit Don’t Come Easy",
+   "data": "2003-05-12",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/d3b8c3ee-4a7b-4c83-ad60-13c2633e6e1c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just a Little Sign",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Open Your Life",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "The Tune",
+     "duracao": "5:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Never Be a Star",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Liar",
+     "duracao": "4:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Sun 4 the World",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Stop Being Crazy",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Do You Feel Good",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Hell Was Made in Heaven",
+     "duracao": "5:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Back Against the Wall",
+     "duracao": "5:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Listen to the Flies",
+     "duracao": "4:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Nothing to Say",
+     "duracao": "8:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Sheer Heart Attack",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rabbit_Don%27t_Come_Easy",
+   "resumo_en": "Rabbit Don't Come Easy is the tenth studio album by German power metal band Helloween, released in 2003. It is the first Helloween album to feature Sascha Gerstner on guitars, who replaced Roland Grapow. No drummer is listed in the band line-up for this album. Mark Cross was hired for the position before recording, but only managed to complete two tracks (\"Don't Stop Being Crazy\" and \"Listen to the Flies\") before being forced to leave due to illness. Mikkey Dee of Motörhead played on the rest of the songs on a session basis. The Japanese version contains a cover of Accept's \"Fast as a Shark\", with the band's new drummer, Stefan Schwarzmann.\nCommenting on Dee's performance, bassist Markus Grosskopf said:\n\n\"We really challenged him. Last time he played stuff something like that was when he played in King Diamond in the 80's and this type of double bass playing with that kind of stuff we're doing is not just like very easy to play and he had to recall all this stuff.  But then he was, once he tried a little then he was back on the track really fast.\"\nAbout the album title, bassist Markus Grosskopf explained in 2003 that \"It's based on that English saying, pulling a rabbit out of the h"
+  },
+  {
+   "id": "eb2cf0d3-becb-3da7-b32c-fdff2e62b6e3",
+   "titulo": "Keeper of the Seven Keys: The Legacy",
+   "data": "2005-10-28",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/3ac6669a-d12f-306d-9be2-67f2ac9c544c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The King for a 1000 Years",
+     "duracao": "13:54"
+    },
+    {
+     "n": 2,
+     "titulo": "The Invisible Man",
+     "duracao": "7:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Born on Judgment Day",
+     "duracao": "6:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Pleasure Drone",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Mrs. God",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Silent Rain",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Occasion Avenue",
+     "duracao": "11:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Light the Universe",
+     "duracao": "5:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Do You Know What You’re Fighting For?",
+     "duracao": "4:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Come Alive",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Shade in the Shadow",
+     "duracao": "3:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Get It Up",
+     "duracao": "4:14"
+    },
+    {
+     "n": 13,
+     "titulo": "My Life for One More Day",
+     "duracao": "6:51"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Keeper_of_the_Seven_Keys%3A_The_Legacy",
+   "resumo_en": "Keeper of the Seven Keys: The Legacy is the eleventh studio album by German power metal band Helloween, released in 2005. It is the first album with new and current drummer Dani Löble and a continuation of their 1987 and 1988 albums Keeper of the Seven Keys, Parts I and II. The album is a double CD with nearly 80 minutes playing time and comes in a digipack with 6 flaps. It was produced by Charlie Bauerfeind (Blind Guardian, Halford, Rage) and features Blackmore's Night singer Candice Night on the track \"Light The Universe\".  The album's opening track, “The King for a 1000 Years” is, to date, the longest song released by the band.\nWhen asked about what inspired them to make a third Keeper album, bassist Markus Grosskopf said:\n\nActually there was somebody from the Japanese record company who told Weiki [Michael Weikath, guitarist] how happy he is with the new line up. He said something like 'That line up is really strong, with that line up you can make A KEEPER album' just to say how strong that line up is, that's the explanation. And the record company started thinking 'Why don't you do so?'. [...] then we thought 'Well, why don't we try it with that line up?' But then we decided t"
+  },
+  {
+   "id": "82be1082-b172-3390-9cb5-0ad823509512",
+   "titulo": "Gambling With the Devil",
+   "data": "2007-10-23",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/af28cebc-3798-36e0-bf8a-028ac0dbdc8f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crack the Riddle",
+     "duracao": "0:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Kill It",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "The Saints",
+     "duracao": "7:06"
+    },
+    {
+     "n": 4,
+     "titulo": "As Long as I Fall",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Paint a New World",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Final Fortune",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bells of the 7 Hells",
+     "duracao": "5:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Fallen to Pieces",
+     "duracao": "5:52"
+    },
+    {
+     "n": 9,
+     "titulo": "I.M.E.",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Can Do It",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Dreambound",
+     "duracao": "5:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Heaven Tells No Lies",
+     "duracao": "6:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Find My Freedom",
+     "duracao": "6:28"
+    },
+    {
+     "n": 14,
+     "titulo": "See the Night",
+     "duracao": "6:06"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gambling_with_the_Devil",
+   "resumo_en": "Gambling with the Devil is the twelfth studio album by German power metal band Helloween, released in Japan on 24 October 2007, and in Europe on 26 October. The single \"As Long as I Fall\" is download-only and was released in late September. Biff Byford made an appearance, with spoken vocals on \"Crack the Riddle\".\nWhen asked about the album, bassist Markus Grosskopf commented:\n\nIt was an album without any concept, but still we had that concept with that little game on it, that little \"Crack the Riddle\". [...] And then, that was nice, it was a great piece of work and when you do such an output like Keeper III it's like you've got to open your head and empty it at first, close it and then start thinking new for Keeper thing you know, but then it's very, very hard work. You've got to think very different from what you do when you just write the songs so to say, just like writing a normal metal song or rock song, it's very different. But that's what we did with the Gambling with the Devil and I feel very good just doing proper decent songs. You cannot do always like this concept thing. [...] It's never easy, but once you got an idea you don't have to think about \"Oh, that's five minutes"
+  },
+  {
+   "id": "99e96836-edc9-41fc-b858-fed0e766c402",
+   "titulo": "7 Sinners",
+   "data": "2010-10-27",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/4b9d7e8d-f023-4d05-b92d-c7b287fb7009/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Where the Sinners Go",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Are You Metal?",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Is Mr. Madman?",
+     "duracao": "5:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Raise the Noise",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "World of Fantasy",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Long Live the King",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "The Smile of the Sun",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "You Stupid Mankind",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "If a Mountain Could Talk",
+     "duracao": "6:44"
+    },
+    {
+     "n": 10,
+     "titulo": "The Sage, the Fool, the Sinner",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "My Sacrifice",
+     "duracao": "4:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Not Yet Today",
+     "duracao": "1:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Far in the Future",
+     "duracao": "7:42"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/7_Sinners",
+   "resumo_en": "7 Sinners is the thirteenth studio album by German power metal band Helloween, released in 2010. A video clip for \"Are You Metal?\" was released 31 October 2010. The whole album could be heard on Myspace a week before the physical release. For the first time since 2000's The Dark Ride, each song on the album is a solo composition, i.e. each member has written both the music and lyrics to his song with no additional input from any other member.  7 Sinners sold 1,900 copies in its first week of release in the U.S.\nCommenting on the album, bassist Markus Grosskopf said:\n\nAfter Unarmed we were ready for some real stuff, you know without having discussed what we are going to do everybody had this will to do some very heavy stuff you know. And that's what came out of it [...] I call it my natural born album. The first two tracks we had were \"Are You Metal?\" and \"Where the Sinners Go\" and that was kind of the direction we loved so we kind of left it untouched just gave it a heavy sound and put the other songs around it..."
+  },
+  {
+   "id": "981aee84-fbaa-43f1-985f-7e30f837a153",
+   "titulo": "Straight Out of Hell",
+   "data": "2013-01-16",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/37a03fe8-2c95-4d2c-bbe0-f86158caee6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nabataea",
+     "duracao": "7:02"
+    },
+    {
+     "n": 2,
+     "titulo": "World of War",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Live Now!",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Far From the Stars",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Burning Sun",
+     "duracao": "5:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Waiting for the Thunder",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Hold Me in Your Arms",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Wanna Be God",
+     "duracao": "2:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Straight Out of Hell",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Asshole",
+     "duracao": "4:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Years",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Make Fire Catch the Fly",
+     "duracao": "4:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Church Breaks Down",
+     "duracao": "6:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Another Shot of Life",
+     "duracao": "5:13"
+    },
+    {
+     "n": 15,
+     "titulo": "Burning Sun (Hammond version)",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Straight_Out_of_Hell",
+   "resumo_en": "Straight Out of Hell is the fourteenth studio album by German power metal band Helloween. It was released in 2013 and produced by Charlie Bauerfeind."
+  },
+  {
+   "id": "eb585213-71ce-43b7-af0b-d9a43fb0ed07",
+   "titulo": "My God‐Given Right",
+   "data": "2015-05-27",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/08c4c48d-4a6c-4c54-b3f7-a60c32ef2a1c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heroes",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Battle’s Won",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "My God‐Given Right",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Stay Crazy",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Lost in America",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Russian Roulé",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "The Swing of a Fallen World",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Like Everybody Else",
+     "duracao": "4:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Creatures in Heaven",
+     "duracao": "6:37"
+    },
+    {
+     "n": 10,
+     "titulo": "If God Loves Rock ’n’ Roll",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Living on the Edge",
+     "duracao": "5:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Claws",
+     "duracao": "5:53"
+    },
+    {
+     "n": 13,
+     "titulo": "You, Still of War",
+     "duracao": "7:22"
+    },
+    {
+     "n": 14,
+     "titulo": "I Wish I Were There",
+     "duracao": "4:12"
+    },
+    {
+     "n": 15,
+     "titulo": "Wicked Game",
+     "duracao": "3:58"
+    },
+    {
+     "n": 16,
+     "titulo": "Free World",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_God-Given_Right",
+   "resumo_en": "My God-Given Right is the fifteenth studio album by German power metal band Helloween. It was released on 29 May 2015.\nIt is their seventh consecutive album produced by Charlie Bauerfeind, and their first album released under the label Nuclear Blast since 2003's Rabbit Don't Come Easy."
+  },
+  {
+   "id": "d0bcd889-f250-41e9-b8ae-4659177dd4f7",
+   "titulo": "Helloween",
+   "data": "2021-06-16",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/e1b66ef6-8719-485a-abc8-20505315da1a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Out for the Glory",
+     "duracao": "7:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Fear of the Fallen",
+     "duracao": "5:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Best Time",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Mass Pollution",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Angels",
+     "duracao": "4:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Rise Without Chains",
+     "duracao": "4:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Indestructible",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Robot King",
+     "duracao": "7:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Cyanide",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Down in the Dumps",
+     "duracao": "6:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Orbit",
+     "duracao": "1:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Skyfall",
+     "duracao": "12:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Golden Times",
+     "duracao": "4:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Save My Hide",
+     "duracao": "3:11"
+    },
+    {
+     "n": 15,
+     "titulo": "Pumpkins United",
+     "duracao": "6:19"
+    },
+    {
+     "n": 16,
+     "titulo": "We Are Real",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 84,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 4
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Helloween_%28album%29",
+   "resumo_en": "Helloween is the sixteenth studio album by German power metal band Helloween, released on 18 June 2021. The album is the first released with the \"Pumpkins United\" line-up, which marked the return of original member Kai Hansen on guitars and vocals and Michael Kiske on vocals in 2016, in addition to the five-member line-up active since 2005.\nHelloween is the first album to feature Hansen since 1988's Keeper of the Seven Keys: Part II and the first one with Kiske since 1993's Chameleon. Released six years after its predecessor My God-Given Right (the longest gap between two albums from the band), the album is also the first to feature more than one singer, as Hansen, Kiske and Andi Deris, all of whom had performed as sole lead vocalist on previous albums, share lead vocal duties. The album reached top ten positions in several international music charts."
+  },
+  {
+   "id": "3a56b2df-08dd-44f3-875e-a1da3c31cd08",
+   "titulo": "Giants & Monsters",
+   "data": "2025-08-25",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/a6191618-c917-43ef-940f-a45ecd759219/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Giants on the Run",
+     "duracao": "6:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Savior of the World",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "A Little Is A Little Too Much",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "We Can Be Gods",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Into the Sun",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "This Is Tokyo",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Universe (Gravity For Hearts)",
+     "duracao": "8:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Hand of God",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Under the Moonlight",
+     "duracao": "3:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Majestic",
+     "duracao": "8:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Out of Control",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Into the Sun (Andi Solo version)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 13,
+     "titulo": "Into the Sun (Michi Solo version)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 14,
+     "titulo": "Into the Sun (Acoustic Version Duet)",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

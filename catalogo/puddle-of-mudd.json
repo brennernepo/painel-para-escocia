@@ -1,0 +1,626 @@
+{
+ "id": "puddle-of-mudd",
+ "nome": "Puddle of Mudd",
+ "cena": "Pós-grunge",
+ "mbid": "ff460a70-fdf4-4aa2-b021-8a04da76d88e",
+ "wikidata": "Q907540",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1993",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "alternative metal",
+  "grunge",
+  "hard rock",
+  "post-grunge"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Wes_Scantlin.jpg/500px-Wes_Scantlin.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Puddle_of_Mudd",
+ "resumo_pt": "Puddle of Mudd é uma banda norte-americana de rock alternativo/post-grunge formada em 1993. Entre suas influências musicais incluem-se Alice in Chains e Nirvana.",
+ "resumo_en": "Puddle of Mudd is an American rock band formed in Kansas City, Missouri in 1992. Their second album, Come Clean (2001), spawned the single \"Blurry\", which peaked at number 5 on the Billboard Hot 100, and remains their signature song. The album sold over five million copies by 2003, and was followed by seven additional albums, the latest of which is Kiss the Machine (2025). Vocalist and guitarist Wes Scantlin has served as the only consistent member throughout the band's history.",
+ "albuns": [
+  {
+   "id": "967b5e80-3700-3934-8182-028820926df2",
+   "titulo": "Abrasive",
+   "data": "1997-09-03",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/3cb3bdb4-412c-463c-a66b-0f21b84bce52/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Abrasive",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Nobody Told Me",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Stressed Out",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Hour Glass Man",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Migraine",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Said",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "All I Ask For",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Purple Heart",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Locket",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Time",
+     "duracao": "2:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Piss It All Away",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "3c3e7340-8e64-36a2-900a-0cdfdec83776",
+   "titulo": "Come Clean",
+   "data": "2001-08-28",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/003a1206-2aa8-4736-ac5b-a7a6f97078d3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Control",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Drift & Die",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Out of My Head",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Nobody Told Me",
+     "duracao": "5:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Blurry",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "She Hates Me",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Bring Me Down",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Never Change",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Basement",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Said",
+     "duracao": "4:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Piss It All Away",
+     "duracao": "5:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Control (acoustic)",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.2,
+    "fontes": 4
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Come_Clean_%28Puddle_of_Mudd_album%29",
+   "resumo_en": "Come Clean is the second studio album and major label debut by the American rock band Puddle of Mudd. It was released on August 28, 2001, through Flawless Records. The album broke Puddle of Mudd into the mainstream, featuring the singles \"Control\", \"Blurry\", \"Drift & Die\" and \"She Hates Me\". Various tracks were re-recorded from the band's previous releases, Stuck and Abrasive.\nCome Clean was the band's biggest hit on the US Billboard 200, peaking at number nine. The album has sold over 5,000,000 copies and was certified 3× Platinum by the RIAA."
+  },
+  {
+   "id": "1d4093a5-e686-3bae-9b48-224a502ab955",
+   "titulo": "Life on Display",
+   "data": "2003-11-24",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/745d6d51-a2bf-4a4a-a5e8-ad24ee22e449/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Away From Me",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Heel Over Head",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Nothing Left to Lose",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Change My Mind",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Spin You Around",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Already Gone",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Think",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Cloud 9",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Bottom",
+     "duracao": "5:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Freak of the World",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Sydney",
+     "duracao": "4:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Time Flies",
+     "duracao": "7:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Life Ain't Fair",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 4.0,
+    "metacritic": 37,
+    "media": 3.7,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Life_on_Display",
+   "resumo_en": "Life on Display is the second studio album by post-grunge rock band Puddle of Mudd. It was produced by John Kurzweg whose previous work includes Creed, Socialburn, and No Address, and whom produced the band's previous album, and Michael \"Elvis\" Baskette. Life on Display was certified gold in the U.S by the RIAA on February 6, 2004. To date, Life on Display has sold 706,191 units in the United States.\nThe album received generally negative reviews, and peaked at #20 on the Billboard 200 album chart, spending 23 weeks on the chart. It was less successful internationally on the charts.\nThe album spawned one hit single, \"Away from Me\", which reached #1 on the Mainstream Rock Tracks. Two additional minor hits, \"Spin You Around\" and \"Heel Over Head,\" charted on the U.S. Mainstream Rock and Alternative charts. All three singles had corresponding music videos."
+  },
+  {
+   "id": "1247b4e0-309b-37e8-83e8-b866cc552f11",
+   "titulo": "Famous",
+   "data": "2007-10-09",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/231affee-6068-497d-a537-5a1555c1ab36/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Famous",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Livin' on Borrowed Time",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "It Was Faith",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Psycho",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "We Don't Have to Look Back Now",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Moonshine",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Thinking About You",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Merry-Go-Round",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "I'm So Sure",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Radiate",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "If I Could Love You",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Famous_%28Puddle_of_Mudd_album%29",
+   "resumo_en": "Famous is the third studio album by American rock band Puddle of Mudd, released on October 9, 2007 on Flawless Records. It was originally set to be released in May, but was pushed back to add more songs to the album.\nThe title track provided the album's lead single in May 2007. \"Psycho\", \"We Don't Have to Look Back Now\" and \"\" would follow in November, then May and August 2008. The album spawned four singles — \"Famous\", \"Psycho\", \"We Don't Have to Look Back Now\", and \"Livin' on Borrowed Time\". \nLivin' on Borrowed Time \nFamous debuted at number 27 on the U.S. Billboard 200, selling about 31,000 copies in its first week. The, album had sold around 363,000 copies in the United States."
+  },
+  {
+   "id": "e3406a57-c74f-4ba7-98e8-11233cb4dbd3",
+   "titulo": "Volume 4: Songs in the Key of Love & Hate",
+   "data": "2009-12-08",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/65a370d8-8b59-4ded-965d-7ad11a9e8151/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stoned",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Spaceship",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Keep It Together",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Out of My Way",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Blood on the Table",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "The Only Reason",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Pitchin’ a Fit",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Uno Mas",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Better Place",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Hooky",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Spaceship (acoustic version)",
+     "duracao": "3:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Better Place (acoustic version)",
+     "duracao": "3:54"
+    },
+    {
+     "n": 13,
+     "titulo": "Stoned (acoustic version)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Crowsfeet",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.2,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Volume_4%3A_Songs_in_the_Key_of_Love_%26_Hate",
+   "resumo_en": "Volume 4: Songs in the Key of Love & Hate is the fourth studio album by American rock band Puddle of Mudd. It was released on December 8, 2009, on Flawless Records."
+  },
+  {
+   "id": "dbbcd137-7f99-4c7a-84ba-0b8757c75675",
+   "titulo": "Welcome to Galvania",
+   "data": "2019-09-13",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/2f30d3aa-ae5c-44a2-8d3a-e7899b22b3cf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Don’t Know",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Uh Oh",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Go to Hell",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Diseased Almost",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "My Kind of Crazy",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Time of Our Lives",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Sunshine",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Tell Me",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Kiss It All Goodbye",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Slideaway",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Uh Oh (come clean version)",
+     "duracao": "3:30"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Welcome_to_Galvania",
+   "resumo_en": "Welcome to Galvania is the seventh studio album by the American rock band Puddle of Mudd. Released on September 13, 2019 via Pavement Entertainment, it marked the band's first new studio album of original songs in ten years, the last being 2009's Volume 4: Songs in the Key of Love & Hate and is their first full-length release since 2011's cover album Re:(disc)overed, marking the longest gap between albums releases in the band's existence.\nLoudwire named it one of the 50 best rock albums of 2019."
+  },
+  {
+   "id": "b3dea0c0-d1ce-4ddc-98b6-f8129bd91849",
+   "titulo": "Ubiquitous",
+   "data": "2023-09-08",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/6bac2d5d-d158-460d-8950-ced52f44573c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Baby",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Dance With Me",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Cash & Cobain",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Butterface",
+     "duracao": "3:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Candy",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Running Out of Time",
+     "duracao": "4:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Man in the Mirror",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "U Wrekd Me",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Complication",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "California",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Poke Out My Eyes",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "b00b02ef-7e8b-4d70-a79b-a81894b41b72",
+   "titulo": "Kiss the Machine",
+   "data": "2025-05-02",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/724ab9e1-1220-453a-8b4e-60ebd3b9e621/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beautimous",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Free",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "In Love With a Dancer",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Back Against the Wall",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Firefly",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Maniac",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby You da Best",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Everything",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Win Win Win",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

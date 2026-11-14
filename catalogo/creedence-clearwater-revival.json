@@ -1,0 +1,483 @@
+{
+ "id": "creedence-clearwater-revival",
+ "nome": "Creedence Clearwater Revival",
+ "cena": "Clássicos do rock",
+ "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+ "wikidata": "Q192463",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1959",
+ "fim": "1972",
+ "ativa": false,
+ "generos": [
+  "swamp rock",
+  "rock",
+  "country rock",
+  "roots rock",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Creedence_Clearwater_Revival_1968.jpg/500px-Creedence_Clearwater_Revival_1968.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Creedence_Clearwater_Revival",
+ "resumo_pt": "Creedence Clearwater Revival foi uma banda de rock californiana formada por John Fogerty (guitarra e vocais principais), Tom Fogerty (guitarra), Stu Cook (baixo) e Doug Clifford (bateria), que, sob outras denominações, tocavam juntos desde 1959.\nOs amigos de escola John Fogerty, Doug Clifford e Stu Cook trabalharam juntos em 1959 sob o nome de The Blue Velvets, com Tom Fogerty como vocalista. Eles lançaram três singles. \nMax Weiss, um dos co-proprietários da Fantasy inicialmente denominou o grupo como The Visions, mas quando foram lançados os compactos, em novembro de 1964, Weiss renomeou-os então como The Golliwogs, em referência a uma boneca de nome similar.  \nAdotaram o nome Creedence Clearwater Revival em 1967, com o qual lançaram as primeiras gravações em 1968. O nome surgiu pela junção do nome de um amigo de Tom Fogerty, \"Credence Newball\", com 'Clearwater' tirado de um comercial de TV da Olympia Beer e Revival, simbolizando a reunião entre os membros após o retorno de John Fogerty e Doug Clifford que então cumpriam convocação para o serviço militar. Ao nome de Credence, adicionaram um outro \"e\" para lembrar creed (crença, credo). Eles quase se estabeleceram com o nome \"Creedence Nuball\" e \"The Ruby\" em um estágio. Em 1968 obtiveram o primeiro disco de ouro, com o álbum de estreia, Creedence Clearwater Revival. \nAo longo da carreira, entre singles e álbuns, conquistaram nove discos de ouro e sete discos de platina, rendendo mais de 26 milhões de discos vendidos apenas n",
+ "resumo_en": "Creedence Clearwater Revival (CCR), or simply Creedence, was an American rock band formed in El Cerrito, California, in 1968. The band consisted of lead vocalist, lead guitarist, and primary songwriter John Fogerty; his brother, rhythm guitarist Tom Fogerty; bassist Stu Cook; and drummer Doug Clifford. These members had played together since 1959, first as the Blue Velvets and later as the Golliwogs, before settling on Creedence Clearwater Revival in 1968. The band's most prolific and successful period, between 1969 and 1971, produced 14 consecutive top-10 singles (many of which were double A-sides) and five consecutive top-10 albums in the United States, two of which—Green River (1969) and Cosmo's Factory (1970)—topped the Billboard 200 chart. The band performed at the 1969 Woodstock festival in upstate New York and was the first major act signed to appear there.\nCCR disbanded acrimoniously in 1972 after four years of chart-topping success. Tom had quit the band at the end of 1970 and John was at odds with the remaining members over matters of business and artistic control, all of which resulted in lawsuits among the former bandmates after the group's breakup. John's disagreements with Fantasy Records owner Saul Zaentz led to more court cases, and he refused to perform with the two other surviving members of the band—Tom had died in 1990—at Creedence's induction into the Rock and Roll Hall of Fame in 1993. Though the band has never publicly reunited, John continues to perfor",
+ "albuns": [
+  {
+   "id": "871da799-a7f7-39df-8332-e246584458dd",
+   "titulo": "Creedence Clearwater Revival",
+   "data": "1968-07-05",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/6da15b06-b848-487c-a74a-af8fe26f1069/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Put a Spell on You",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "The Working Man",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Suzie Q",
+     "duracao": "8:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Ninety‐Nine and a Half (Won’t Do)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Get Down Woman",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Porterville",
+     "duracao": "2:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Gloomy",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Walk on the Water",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.5,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival_%28album%29",
+   "resumo_en": "Creedence Clearwater Revival is the debut studio album by the American rock band Creedence Clearwater Revival, released in May 1968 by Fantasy Records in the US. Featuring the band's first hit single, \"Suzie Q,\" which reached number 11 in the US charts, it was recorded shortly after the band changed its name from the Golliwogs and began developing a signature swamp rock sound."
+  },
+  {
+   "id": "ef55850c-7b38-30fc-8f8d-d10f28784094",
+   "titulo": "Bayou Country",
+   "data": "1969-01-05",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/b79f935c-cf73-46d9-b389-71c90710b636/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Born on the Bayou",
+     "duracao": "5:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Bootleg",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Graveyard Train",
+     "duracao": "8:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Good Golly Miss Molly",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Penthouse Pauper",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Proud Mary",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Keep On Chooglin’",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 8.3,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bayou_Country_%28album%29",
+   "resumo_en": "Bayou Country is the second studio album by the American rock band Creedence Clearwater Revival (CCR), released by Fantasy Records on January 15, 1969, and was the first of three albums CCR released in that year. Bayou Country reached No. 7 on the Billboard 200 chart and produced the band's first No. 2 hit single, \"Proud Mary\"."
+  },
+  {
+   "id": "6c08878c-d6a1-37b6-84c3-9566748545c1",
+   "titulo": "Green River",
+   "data": "1969-08-03",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/d10154a4-dbee-4c55-bb1c-9afc18831ec1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Green River",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Commotion",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Tombstone",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Wrote a Song for Everyone",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Moon Rising",
+     "duracao": "2:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Lodi",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Cross-Tie Walker",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Sinister Purpose",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "The Night Time Is the Right Time",
+     "duracao": "3:07"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 3
+   },
+   "publico": 8.6,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Green_River_%28album%29",
+   "resumo_en": "Green River is the third studio album by the American rock band Creedence Clearwater Revival, released on August 7, 1969, by Fantasy Records. It was the second of three albums they released in that year, preceded by Bayou Country in January and followed by Willy and the Poor Boys in October."
+  },
+  {
+   "id": "5fdea541-32fc-3b17-b7c4-50b40f65203d",
+   "titulo": "Willy and the Poor Boys",
+   "data": "1969-11-02",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/83b1ae4f-e66d-4a3a-a13a-bf99397c3284/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down on the Corner",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "It Came out of the Sky",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Cotton Fields",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Poorboy Shuffle",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Feelin’ Blue",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Fortunate Son",
+     "duracao": "2:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Look Now",
+     "duracao": "2:11"
+    },
+    {
+     "n": 8,
+     "titulo": "The Midnight Special",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Side o’ the Road",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Effigy",
+     "duracao": "6:33"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 4
+   },
+   "publico": 8.7,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Willy_and_the_Poor_Boys",
+   "resumo_en": "Willy and the Poor Boys is the fourth studio album by the American rock band Creedence Clearwater Revival, released on November 2, 1969, by Fantasy Records.  It was the last of three studio albums the band released that year, arriving just three months after Green River. In 2020, Rolling Stone ranked the album number 193 on its list of the \"500 Greatest Albums of All Time\"."
+  },
+  {
+   "id": "3a31800f-1916-3f4c-a7ae-26b783d00670",
+   "titulo": "Cosmo’s Factory",
+   "data": "1970-07-25",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/40645934-b4d3-474c-a90d-d537ed107424/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ramble Tamble",
+     "duracao": "7:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Before You Accuse Me",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Travelin’ Band",
+     "duracao": "2:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Ooby Dooby",
+     "duracao": "2:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Lookin’ out My Back Door",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Run Through the Jungle",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Up Around the Bend",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "My Baby Left Me",
+     "duracao": "2:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Who’ll Stop the Rain",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "I Heard It Through the Grapevine",
+     "duracao": "11:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Long as I Can See the Light",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 4
+   },
+   "publico": 8.8,
+   "publico_votos": 20,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cosmo%27s_Factory",
+   "resumo_en": "Cosmo's Factory is the fifth studio album by the American rock band Creedence Clearwater Revival, released by Fantasy Records on July 8, 1970. Six of the album's eleven tracks were released as singles in 1970, and all of them charted in the top 5 of the Billboard Hot 100. The album spent nine consecutive weeks in the number one position on the Billboard 200 chart and was certified 4× platinum by the Recording Industry Association of America (RIAA) in 1990. Rolling Stone ranked it number 413 on its 2020 list of the \"500 Greatest Albums of All Time\"."
+  },
+  {
+   "id": "da556835-e464-3389-881f-362ef8f984b3",
+   "titulo": "Pendulum",
+   "data": "1970-12-01",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/71792d4a-5e49-4c59-a07d-ebf6af5fd652/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pagan Baby",
+     "duracao": "6:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Sailor’s Lament",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Chameleon",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Have You Ever Seen the Rain",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "(Wish I Could) Hideaway",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Born to Move",
+     "duracao": "5:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Hey Tonight",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s Just a Thought",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Molina",
+     "duracao": "2:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Rude Awakening Number Two",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pendulum_%28Creedence_Clearwater_Revival_album%29",
+   "resumo_en": "Pendulum is the sixth studio album by the American rock band Creedence Clearwater Revival, released by Fantasy Records on December 9, 1970. It was the second studio album the band released that year, arriving five months after Cosmo's Factory. It is also the final album with guitarist Tom Fogerty, who left the band shortly after the recording sessions concluded to start a solo career, though this wouldn't be officially announced until February 1, 1971."
+  },
+  {
+   "id": "b0732b50-1b4e-34a3-bd82-d23c8437d6ba",
+   "titulo": "Mardi Gras",
+   "data": "1972-04-11",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/dbd597c9-d0b8-4ab2-a40e-b1e995259bbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lookin’ for a Reason",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Take It Like a Friend",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Need Someone to Hold",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Tearin’ Up the Country",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Someday Never Comes",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "What Are You Gonna Do",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Sail Away",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Hello Mary Lou",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Door to Door",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Hitch‐Hiker",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mardi_Gras_%28album%29",
+   "resumo_en": "Mardi Gras is the seventh and final studio album by the American rock band Creedence Clearwater Revival, released on April 11, 1972, by Fantasy Records. Recorded after the departure of guitarist Tom Fogerty, it was the band's only studio album as a trio. Unlike previous albums, Stu Cook and Doug Clifford also shared songwriting and production duties with John Fogerty on this project. They also provided their own lead vocal contributions for the first time. However, the recording sessions were marred by personal and creative tensions, and the group disbanded after a short U.S. tour to support the album."
+  }
+ ]
+}

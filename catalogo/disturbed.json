@@ -1,0 +1,714 @@
+{
+ "id": "disturbed",
+ "nome": "Disturbed",
+ "cena": "Nu metal e correlatos",
+ "mbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+ "wikidata": "Q131366",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1996",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "nu metal",
+  "heavy metal",
+  "metal",
+  "hard rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Disturbed_Sweden_Rock_2008.jpg/500px-Disturbed_Sweden_Rock_2008.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Disturbed",
+ "resumo_pt": "Disturbed é uma banda de metal de Chicago, Illinois, formada em 1994, quando os músicos Dan Donegan, Steve \"Fuzz\" Kmak e Mike Wengren contrataram David Draiman como vocalista. A banda já lançou oito álbuns de estúdio, tendo cinco deles estreado consecutivamente no primeiro lugar na Billboard 200. A banda entrou em hiato em Outubro de 2011 e retornou com o lançamento do álbum Immortalized em 2015.",
+ "resumo_en": "Disturbed is an American heavy metal band from Chicago, Illinois and formed in 1994. The band includes guitarist Dan Donegan, drummer Mike Wengren, lead vocalist David Draiman, and bassist John Moyer. Donegan and Wengren have been involved in the band since its inception, with Draiman replacing original lead vocalist Erich Awalt in 1996 and Moyer replacing original bassist Steve \"Fuzz\" Kmak in 2004.\nDisturbed's debut album, The Sickness, was released in 2000 as a commercial success, mainly due to the singles \"Down With the Sickness\" and \"Stupify\". The band then released the albums Believe (2002), Ten Thousand Fists (2005), Indestructible (2008), and Asylum (2010), all of which debuted at No. 1 on the Billboard 200 chart. Disturbed went into hiatus in October 2011, during which the band's members focused on various side projects, and released The Lost Children, a compilation album containing previously unreleased songs. They returned in June 2015 and released their sixth album Immortalized that same year. They followed it up with the albums Evolution (2018) and Divisive (2022).\nThe band has over 17 million records sold worldwide, six RIAA certifications for their albums (including 5× platinum for The Sickness), singles from all eight albums reaching the top ten of the Mainstream Rock chart, and two Grammy Award nominations.",
+ "albuns": [
+  {
+   "id": "92852c11-b67d-32b9-84d8-b52bba0cec9e",
+   "titulo": "The Sickness",
+   "data": "2000-03-07",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/81ea1cab-61e5-350a-b9fa-9030c8ac3fd8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Voices",
+     "duracao": "3:11"
+    },
+    {
+     "n": 2,
+     "titulo": "The Game",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Stupify",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Down With the Sickness",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Violence Fetish",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Fear",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Numb",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Want",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Conflict",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Shout 2000",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Dropping Plates",
+     "duracao": "3:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Meaning of Life",
+     "duracao": "4:02"
+    },
+    {
+     "n": 13,
+     "titulo": "God of the Mind",
+     "duracao": "3:04"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 8.3,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Sickness",
+   "resumo_en": "The Sickness is the debut studio album by American heavy metal band Disturbed. It was released on March 7, 2000, by Giant and Reprise Records. The album peaked at number 29 on the US Billboard 200, and spent a total of 106 weeks on the chart. It was Disturbed's only album not to hit number one on the US Billboard 200 until their seventh album Evolution debuted at number 4 in 2018. In 2018, The Sickness was certified five times platinum by the RIAA for shipments of over five million copies in the US, making it the band's most successful album."
+  },
+  {
+   "id": "93cf80e6-65c8-397a-8fad-ebbc66317150",
+   "titulo": "Believe",
+   "data": "2002-09-16",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/293f6ccf-ce17-4675-bf33-2f459819c3ad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prayer",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Liberate",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Awaken",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Believe",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Remember",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Intoxication",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Rise",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Mistress",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Breathe",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Bound",
+     "duracao": "3:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Devour",
+     "duracao": "3:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Darkness",
+     "duracao": "3:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Remember (live)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Bound (live)",
+     "duracao": "3:51"
+    },
+    {
+     "n": 15,
+     "titulo": "Fear (live)",
+     "duracao": "3:50"
+    },
+    {
+     "n": 16,
+     "titulo": "Conflict (live)",
+     "duracao": "4:40"
+    },
+    {
+     "n": 17,
+     "titulo": "Droppin’ Plates (live)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 18,
+     "titulo": "Shout 2000 (live)",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {},
+   "publico": 7.5,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Believe_%28Disturbed_album%29",
+   "resumo_en": "Believe is the second studio album by American heavy metal band Disturbed, released on September 17, 2002 via Reprise Records. Produced by the band and Johnny K, it focuses heavily on religious and spiritual themes inspired by recent tragedies. With greater emphasis on melodic dynamics, it also demonstrates a broadening in the band's musical range compared to their 2000 debut The Sickness. Believe was the last studio album to feature original bassist Steve \"Fuzz\" Kmak before he was fired from the band in 2003.\nBelieve debuted at number one on the US Billboard 200, making it Disturbed's first number one debut, selling over 284,000 copies in its first week of sales. It was certified double platinum by the RIAA in the United States on September 23, 2008. Three singles were released from the album: \"Prayer\", \"Remember\", and \"Liberate\"."
+  },
+  {
+   "id": "79893cb5-c656-355e-b7eb-f79727b0e499",
+   "titulo": "Ten Thousand Fists",
+   "data": "2005-08-20",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/aa05d3a5-a894-4109-857f-5fac62fcaa81/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ten Thousand Fists",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Stop",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Guarded",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Deify",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Stricken",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Alive",
+     "duracao": "4:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Sons of Plunder",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Overburdened",
+     "duracao": "5:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Decadence",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Forgiven",
+     "duracao": "4:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Land of Confusion",
+     "duracao": "4:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Sacred Lie",
+     "duracao": "3:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Pain Redefined",
+     "duracao": "4:09"
+    },
+    {
+     "n": 14,
+     "titulo": "Avarice",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 59,
+    "media": 5.4,
+    "fontes": 6
+   },
+   "publico": 7.5,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ten_Thousand_Fists",
+   "resumo_en": "Ten Thousand Fists is the third studio album by American heavy metal band Disturbed. Released on September 19, 2005, by Reprise Records, it became the band's second consecutive number 1 debut on the Billboard 200 in the United States, shipping around 239,000 copies in its opening week. It has been certified 3× platinum by the RIAA and 2× platinum by Music Canada, and was the band's second number 1 in New Zealand, where it was certified gold. It is also the first Disturbed album not to have a Parental Advisory label.\nTen Thousand Fists marks the first album with bassist John Moyer, who replaced Steve Kmak following his dismissal in 2003. However, Moyer was considered a session musician during the recording, and only became a full-time member during the ensuing tour. The band's third and final collaboration with producer Johnny K, Ten Thousand Fists is also the first album to feature their mascot The Guy on the cover. He would later appear full-bodied in the video for the band's \"Land of Confusion\" cover.\nTen Thousand Fists is, as of 2010, Disturbed's second highest selling album in the United States, with sales of around 2 million copies. The Sickness, the band's debut, has shifted "
+  },
+  {
+   "id": "6a05f8c6-4d1b-36b4-865e-e0993cbf76aa",
+   "titulo": "Indestructible",
+   "data": "2008-06-03",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/b2b5cfc0-a2bf-4ba8-989f-990aa2783ad0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Indestructible",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Inside the Fire",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Deceiver",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "The Night",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Perfect Insanity",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Haunted",
+     "duracao": "4:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Enough",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "The Curse",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Torn",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Criminal",
+     "duracao": "4:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Divide",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Façade",
+     "duracao": "3:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Live at Rock am Ring",
+     "duracao": "30:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Indestructible Music Video",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 84,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 57,
+    "media": 6.3,
+    "fontes": 9
+   },
+   "publico": 7.6,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Indestructible_%28Disturbed_album%29",
+   "resumo_en": "Indestructible is the fourth studio album by  American heavy metal band Disturbed. A  self-produced effort, Indestructible is the first Disturbed album that did not feature Johnny K, the producer of Disturbed's previous three albums, The Sickness, Believe, and Ten Thousand Fists. Indestructible was recorded at Groovemaster Studios in Chicago, Illinois. The album features two songs, \"Perfect Insanity\" and \"Divide\", that were written by Disturbed prior to their first album, The Sickness, but were never previously released.\nThe album shows Disturbed abandoning the nu metal sound prominent on their previous three albums and features significantly darker themes than any of their previous work, according to the band. Some of the lyrical themes involve actual experiences that vocalist David Draiman had endured over the course of the past few years prior to making the album, including \"bad relationships\", a motorcycle accident that he was involved with, and an incident of suicide. To match the aggressive attitude and nature of said themes, Draiman told the other band members to create darker, more textural music than they have before. Despite these themes, the title track, \"Indestructible\""
+  },
+  {
+   "id": "9f752bea-1c89-4841-8be4-685d6f2b1cfe",
+   "titulo": "Asylum",
+   "data": "2010-08-27",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/97ef5bb0-2e18-4fa7-a497-9a28496e3522/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Remnants",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Asylum",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "The Infection",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Warrior",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Another Way to Die",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Never Again",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "The Animal",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Crucified",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Serpentine",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "My Child",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Sacrifice",
+     "duracao": "4:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Innocence",
+     "duracao": "4:31"
+    },
+    {
+     "n": 13,
+     "titulo": "I Still Haven’t Found What I’m Looking For",
+     "duracao": "5:28"
+    },
+    {
+     "n": 14,
+     "titulo": "Down With the Sickness (live)",
+     "duracao": "5:55"
+    },
+    {
+     "n": 15,
+     "titulo": "Stricken (live)",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 70,
+    "media": 6.7,
+    "fontes": 9
+   },
+   "publico": 7.5,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Asylum_%28Disturbed_album%29",
+   "resumo_en": "Asylum is the fifth studio album by American heavy metal band Disturbed. It was released on August 31, 2010, in the United States through Reprise Records. The album is meant to take a fresh direction in the band's music career, while remaining consistent with the band's previous albums. Most of the lyrical content was inspired by aspects of frontman David Draiman's life prior to making the album. Asylum is also the third consecutive Disturbed album to not feature the Parental Advisory label (although the deluxe version on iTunes is marked explicit for live versions of their earlier material from The Sickness). A tour in support of the album, titled the Asylum Tour, started in late August 2010.\nAsylum debuted at number one on the Billboard 200 chart with sales of approximately 179,000 according to Nielsen Soundscan. This is the fourth consecutive number one album in the U.S. for Disturbed. The other two bands ever to accomplish this feat in the Soundscan era are metal band Metallica and folk rock/jam band Dave Matthews Band. On March 31, 2011, Asylum was certified Gold by the Recording Industry Association of America (RIAA)."
+  },
+  {
+   "id": "4f70d382-edef-40e5-afe7-09ae2c5d10d1",
+   "titulo": "Immortalized",
+   "data": "2015-08-21",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/143057fc-4832-4d48-8445-8d8326a5d0b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Eye of the Storm",
+     "duracao": "1:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Immortalized",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "The Vengeful One",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Open Your Eyes",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "The Light",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "What Are You Waiting For",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "You’re Mine",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Who",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Save Our Last Goodbye",
+     "duracao": "4:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Fire It Up",
+     "duracao": "4:05"
+    },
+    {
+     "n": 11,
+     "titulo": "The Sound of Silence",
+     "duracao": "4:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Never Wrong",
+     "duracao": "3:33"
+    },
+    {
+     "n": 13,
+     "titulo": "Who Taught You How to Hate",
+     "duracao": "4:56"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 55,
+    "media": 6.1,
+    "fontes": 9
+   },
+   "publico": 5.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Immortalized_%28Disturbed_album%29",
+   "resumo_en": "Immortalized is the sixth studio album by American heavy metal band Disturbed. The album was released on August 21, 2015, by Reprise Records, and is Disturbed's first studio album since Asylum (2010), marking the longest gap between two studio albums in their career.\nWith 98,000 album-equivalent units in its first week, Immortalized is Disturbed's fifth consecutive number one debut on the United States Billboard 200 chart. They are the third band in history to achieve this feat, after Metallica and Dave Matthews Band. The band also found crossover success in the album's third single, a cover of the 1964 song \"The Sound of Silence\" by Simon & Garfunkel, which marked Disturbed's highest ranked single on the Billboard Hot 100 at number 42 and has since become Disturbed's biggest song since \"Down with the Sickness\".\nThis is the band's only studio album to be recorded as a trio, as bass player John Moyer did not participate on the recording sessions due to working on other projects. Guitarist Dan Donegan performed all the bass tracks."
+  },
+  {
+   "id": "5460006e-3f91-4b86-a598-7f2fcbc54912",
+   "titulo": "Evolution",
+   "data": "2018-10-18",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/28bf04e8-c729-4a4f-a628-fc951139b697/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Are You Ready",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "No More",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "A Reason to Fight",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "In Another Time",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Stronger on Your Own",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Hold on to Memories",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Saviour of Nothing",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Watch You Burn",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "The Best Ones Lie",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Already Gone",
+     "duracao": "4:29"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 58,
+    "media": 5.9,
+    "fontes": 9
+   },
+   "publico": 5.9,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Evolution_%28Disturbed_album%29",
+   "resumo_en": "Evolution is the seventh studio album by American heavy metal band Disturbed. It was released on October 19, 2018, by Reprise Records. The album's first single, \"Are You Ready\", was released before the album in August 2018, while the second single, \"A Reason to Fight\", was released a month later. The third single, \"No More\", was released on June 2, 2019.\nEvolution features more ballads and acoustic tracks compared to previous albums by the band. It debuted at number four on the Billboard 200, making it Disturbed's sixth straight top 5 album. It is the band's first album since The Sickness not to reach number one, thus ending the band's streak of number one albums at five. It received mixed reviews from critics."
+  },
+  {
+   "id": "ad6cb8a1-db27-4788-aaa9-390f59f67226",
+   "titulo": "Divisive",
+   "data": "2022-11-18",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/34d6fa52-8bf1-42d4-9b3e-6e6a4edb133d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hey You",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Man",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Divisive",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Unstoppable",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Love to Hate",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Feeding the Fire",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Tell Me",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Take Back Your Life",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Part of Me",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Won’t Back Down",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 59,
+    "media": 6.9,
+    "fontes": 8
+   },
+   "publico": 6.4,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Divisive_%28album%29",
+   "resumo_en": "Divisive is the eighth studio album by American heavy metal band Disturbed. Produced by Drew Fulk, it was released on November 18, 2022, via Reprise Records.\nThe first single from the album was \"Hey You\", which was released on July 14, 2022. In regards to the sound of the single, it is said to be similar to the band's earlier albums such as The Sickness and Ten Thousand Fists. A promotional single called \"Unstoppable\" was released on September 23, 2022, along with the details for their upcoming album. With a run time of 37 minutes and 55 seconds, It is the shortest Disturbed album to date. It is the final Disturbed album to be released through Reprise Records."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+name: Catálogo semanal (álbuns novos)
+
+on:
+  schedule:
+    - cron: "41 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  catalogo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: respostas-${{ github.run_id }}
+          restore-keys: respostas-
+      - run: python scripts/montar_catalogo.py --renovar
+      - name: Grava se mudou
+        run: |
+          git config user.name "discoteca-bot"
+          git config user.email "discoteca-bot@users.noreply.github.com"
+          git pull --rebase
+          git add catalogo
+          git diff --cached --quiet || (git commit -m "Catálogo: álbuns novos" && git push)

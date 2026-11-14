@@ -1,0 +1,886 @@
+{
+ "id": "dorsal-atlantica",
+ "nome": "Dorsal Atlântica",
+ "cena": "Rock brasileiro",
+ "mbid": "e0e20fc7-d254-4630-99be-47938f566150",
+ "wikidata": "Q1250478",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1981",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "thrash metal"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/Dorsal_Atl%C3%A2ntica_%28banda%29",
+ "resumo_pt": "Dorsal Atlântica é uma banda brasileira de thrash metal, fundada no Rio de Janeiro, em 1981.\nA banda é uma das pioneiras da cena do Thrash Metal no Brasil, sendo reconhecida como influência para muitas outras bandas, incluindo Sepultura e Korzus. Depois do split Ultimatum com a banda Metalmorphose, a banda lançou uma série de álbuns de estúdio entre 1986-1997, antes de se separarem em 2001.\nEm 2012, Carlos Lopes retornou com o Dorsal Atlântica para o lançamento do álbum 2012, através do financiamento coletivo. Na sequência vieram outros dois álbuns, Imperium (2014) e Canudos (2017).",
+ "resumo_en": "Dorsal Atlântica is a Brazilian thrash metal band founded in Rio de Janeiro in 1981. They were pioneers of Brazilian thrash metal, and influenced many other bands, including Sepultura and Korzus.\nThe band recorded the split Ultimatum with another Rio de Janeiro-based band, Metalmorphose, in 1984. Dorsal Atlântica released a string of studio albums from 1984 to 1998, before breaking up in 2001.\nMost their lyrics were written in Portuguese. Some of their work contains two versions (English/Portuguese), and four albums are fully in English.\nDorsal Atlântica was always led by guitarist/vocalist Carlos 'Vândalo' Lopes. From 2001 until 2008 he recorded several albums with the psychedelic/high energy rock band called Mustang and with the Brazilian groove/rock band Usina Le Blond.",
+ "albuns": [
+  {
+   "id": "3d917469-3a00-4f59-ba0a-48155940f798",
+   "titulo": "Ultimatum",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/b1108209-7e75-4d36-8210-cce5ebdc2637/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cavaleiro Negro",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Nosso Futuro",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Hárpya",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Complexo Urbano",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Desejo Mortal",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Império de Satã",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Catástrofe",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Armagedon",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Princesa do Prazer",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Heavy Metal",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "0bf04d4c-214e-4fc2-9260-4dbb9d74053a",
+   "titulo": "Antes do fim",
+   "data": "1986",
+   "ano": "1986",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caçador da noite",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "HTLV-3",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Álcool",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Depressão suicida",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Vorkuta",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Joseph Mengele",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Guerrilha",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Inveja",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Morte aos falsos",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "c2b045ac-e9af-4ac8-a093-01a6f585af08",
+   "titulo": "Dividir & Conquistar",
+   "data": "1988",
+   "ano": "1988",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tortura",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Vitória",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Violência é real",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Metal desundio",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Lucrécia Bórgia",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Morador das ruas",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Velhice",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Preso ao passado",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "4a7bb537-7c9f-4bbe-8cde-71f90a695155",
+   "titulo": "Searching for the Light",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/96a16c84-56e0-4919-b988-e09bd76a8550/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hierarchic Democracy",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Fighting in Gangs",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Misery Spreads",
+     "duracao": "5:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Not to Leave the Power",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Only One of Them (Must Be Left)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Gathered Prisoners",
+     "duracao": "0:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Childish Boots and Steps",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "The Ones Left Scream",
+     "duracao": "5:09"
+    },
+    {
+     "n": 9,
+     "titulo": "History Starts (To Take a Route)",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "9010248d-3bfc-3985-ba8e-a82647c10879",
+   "titulo": "Musical Guide From Stellium",
+   "data": "1992-08-31",
+   "ano": "1992",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Razor’s Edge",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Recycle Yourself",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "The Hidden and Unexpected",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Kali Yuga (From Vishnu Purana)",
+     "duracao": "5:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Seven Races",
+     "duracao": "2:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock Is Dead",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Warrior",
+     "duracao": "7:04"
+    },
+    {
+     "n": 8,
+     "titulo": "My Generation",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "c138de03-c1f0-4278-a1d2-fa54beaad796",
+   "titulo": "Alea Jacta Est",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/8204bb9a-17aa-4ac8-af97-8a26658084e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thy Kingdom Come",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Give People a Chance",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "RIP (Racism, Ignorance, Prejudice)",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Straitgate",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Raise the Dead",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Human Rights",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Virtual Reality",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Last Act",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Black Messiah",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Loyal Legion of the Admirers",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Life Goes On (Vidcom Experience)",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Take Time",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "48497245-7323-448d-8de6-69b999ce9305",
+   "titulo": "Straight",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/7fd7094c-f22f-4f81-88c8-1d76f7c9d1a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "6:45 PM",
+     "duracao": "0:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Sign of the Times",
+     "duracao": "1:41"
+    },
+    {
+     "n": 3,
+     "titulo": "God Complex",
+     "duracao": "0:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Rapist",
+     "duracao": "0:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Straight",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Who the Fuck Do You Think You Are",
+     "duracao": "1:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Dor",
+     "duracao": "1:13"
+    },
+    {
+     "n": 8,
+     "titulo": "All the Women (I’ve Loved)",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Mud",
+     "duracao": "2:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Carniceria",
+     "duracao": "1:38"
+    },
+    {
+     "n": 11,
+     "titulo": "H.I.V.",
+     "duracao": "2:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Extreme Conditions",
+     "duracao": "2:06"
+    },
+    {
+     "n": 13,
+     "titulo": "Corporate Discrimination",
+     "duracao": "1:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Madness",
+     "duracao": "2:47"
+    },
+    {
+     "n": 15,
+     "titulo": "Seasons of Decay",
+     "duracao": "1:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Walls",
+     "duracao": "2:27"
+    },
+    {
+     "n": 17,
+     "titulo": "Bollocks",
+     "duracao": "1:05"
+    },
+    {
+     "n": 18,
+     "titulo": "Blood Pact",
+     "duracao": "2:08"
+    },
+    {
+     "n": 19,
+     "titulo": "In Line",
+     "duracao": "2:04"
+    },
+    {
+     "n": 20,
+     "titulo": "Heretic (Jacques de Molay)",
+     "duracao": "1:33"
+    },
+    {
+     "n": 21,
+     "titulo": "Mothers of Tomorrow",
+     "duracao": "2:55"
+    },
+    {
+     "n": 22,
+     "titulo": "Racial Patterns",
+     "duracao": "1:08"
+    },
+    {
+     "n": 23,
+     "titulo": "Success and Fall",
+     "duracao": "1:25"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "dfcac008-3c8d-3bcd-bbbc-6a5f85a2b828",
+   "titulo": "Antes do Fim Depois do Fim",
+   "data": "2005",
+   "ano": "2005",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caçador da Noite",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "HTLV-3",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Álcool",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Depressão Suicida",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Vorkura",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "HTLV-3 reprise",
+     "duracao": "0:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Joseph Mengele",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Guerrilha",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Inveja",
+     "duracao": "5:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Morte Aos Falsos",
+     "duracao": "6:53"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "2c696c9a-9714-4c0f-a86b-8682f934eacd",
+   "titulo": "2012",
+   "data": "2012",
+   "ano": "2012",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Meu Filho me Vingará",
+     "duracao": "5:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Stalingrado",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "A Invasão do Brasil",
+     "duracao": "4:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Eu Minto, Todo Mundo Mente",
+     "duracao": "1:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Colonizado Entregueguista",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Corrupto Corruptor",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "168 BPM",
+     "duracao": "0:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Contenda",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Comissão da Verdade",
+     "duracao": "4:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Operação Brother Sam",
+     "duracao": "5:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Jango Goulart",
+     "duracao": "3:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Imortais",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "3bbdccd4-294d-495e-a3a1-41dccc7b4458",
+   "titulo": "Imperium",
+   "data": "2014",
+   "ano": "2014",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ave Imperium - Intro",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Imperium",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Amaldiçoados",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Mestres Ficam Cegos, Surdos São Os Servos",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Crise Anunciada Antes Da Verdade Revelada",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Grotesca Essa Terra É",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Centro, Direita, Esquerda",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Deus Que Dança",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Perfídia",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Exilium",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Vos Perdoo Me Perdoem",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Ave Imperium (Grand Finale)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "deb850fd-a387-4317-8928-c7a57638423f",
+   "titulo": "Canudos",
+   "data": "2017-11-20",
+   "ano": "2017",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Canudos",
+     "duracao": "1:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Belo Monte",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Não Temos Nada a Temer",
+     "duracao": "2:16"
+    },
+    {
+     "n": 4,
+     "titulo": "O Minuto Antes da Batalha",
+     "duracao": "5:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Carpideiras",
+     "duracao": "0:42"
+    },
+    {
+     "n": 6,
+     "titulo": "A conselheira",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Sonho Acabado",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Cocorobó",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Araçá Do Peito Azul de Lear",
+     "duracao": "2:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Gravata Vermelha",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Liberdade",
+     "duracao": "3:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Favela",
+     "duracao": "3:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Ordem e Progresso",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "3676f3c3-7a18-4a8d-a5e9-d41d6a447e5d",
+   "titulo": "Pandemia",
+   "data": "2021-04-21",
+   "ano": "2021",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pandemia",
+     "duracao": "5:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Burro",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Cães",
+     "duracao": "5:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Pobre De Direita",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Combaterei",
+     "duracao": "5:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Gorilas (No Pasarán)",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Infectados (Teocracia e Narco-Estado)",
+     "duracao": "5:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Povo (Inocente Ou Culpado?)",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Resistência (Não Resiste)",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Terra Arrasada (Treva Que Nunca Acaba)",
+     "duracao": "7:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Número 28",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

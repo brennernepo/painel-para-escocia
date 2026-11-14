@@ -1,0 +1,887 @@
+{
+ "id": "candlemass",
+ "nome": "Candlemass",
+ "cena": "Groove, death e além",
+ "mbid": "7dba6614-d0bd-4950-8b7b-841b31c413c2",
+ "wikidata": "Q840197",
+ "tipo": "Group",
+ "pais": "SE",
+ "inicio": "1984",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "doom metal",
+  "epic doom metal",
+  "heavy metal",
+  "traditional doom metal",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Candlemass_-_whole_band.jpg/500px-Candlemass_-_whole_band.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Candlemass",
+ "resumo_pt": "Candlemass é uma banda sueca de doom metal originária de Estocolmo, formada na década de 1980 pelo baixista e compositor  Leif Edling. É considerada uma das pioneiras no gênero doom metal. Após lançar cinco discos de estúdio e excursar extensivamente durante os anos 1980 e início dos 1990, o Candlemass separou-se em 1994, mas reuniu-se três anos depois. Após pararem de novo em 2002, retomaram as atividades em 2004 e continuaram a gravar e tocar desde então. O Candlemass também é a sétima banda mais bem sucedida da Suécia, tendo vendido até 2010 mais de 15 milhões de álbuns mundialmente.",
+ "resumo_en": "Candlemass is a Swedish epic doom metal band formed in Upplands Väsby, a suburb of Stockholm, in 1984 by bassist, songwriter, and bandleader Leif Edling, alongside drummer Matz Ekström. The band has had a defining influence on doom metal, with the epic doom genre itself taking its name from their 1986 debut album Epicus Doomicus Metallicus. Along with Pentagram, Saint Vitus, and Trouble, Candlemass has been recognised as one of the \"big four\" of doom metal.\nAfter releasing five full-length albums and extensively touring throughout the 1980s and early 1990s, Candlemass disbanded in 1993 but reunited four years later. Following another breakup in 2002, the band reformed in 2004 and has continued to record and perform ever since.",
+ "albuns": [
+  {
+   "id": "7d42c10a-5cc7-3af4-89c6-5234e452e6d0",
+   "titulo": "Epicus Doomicus Metallicus",
+   "data": "1986-06-10",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/4cea52f4-71b4-448c-8c0a-ca347d6df526/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Solitude",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Demons Gate",
+     "duracao": "9:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Crystal Ball",
+     "duracao": "5:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Stone Wielder",
+     "duracao": "7:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Under the Oak",
+     "duracao": "6:52"
+    },
+    {
+     "n": 6,
+     "titulo": "A Sorcerer’s Pledge",
+     "duracao": "8:20"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.1,
+    "fontes": 3
+   },
+   "publico": 8.6,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Epicus_Doomicus_Metallicus",
+   "resumo_en": "Epicus Doomicus Metallicus is the debut studio album by Swedish doom metal band Candlemass, released on 10 June 1986 by Black Dragon Records. \nOn its release, the album had a significantly different sound than other European heavy metal bands of the time, because of their use of operatic vocals mixed over slow and heavy guitar riffs.  The album did not sell well on its initial release, which led to the group being dropped from the label during the same year.  Since then, the album has been re-issued in several different formats.  The album title Epicus Doomicus Metallicus is a dog latin translation rendering of Epic Doom Metal — the genre which the band helped pioneer and with which it is most commonly identified. Although he was actually a guest musician at the time of its recording, this was the only Candlemass album to feature vocalist Johan Längqvist until he joined the band, officially, in 2018."
+  },
+  {
+   "id": "00c46fc1-c5a8-377c-867c-d4b6b223d150",
+   "titulo": "Nightfall",
+   "data": "1987-11-09",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/54ed6ff7-397f-35df-a029-953c9a914ebc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gothic Stone",
+     "duracao": "0:48"
+    },
+    {
+     "n": 2,
+     "titulo": "The Well of Souls",
+     "duracao": "7:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Codex Gigas",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "At the Gallows End",
+     "duracao": "5:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Samarithan",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Marche Funebre",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Dark Are the Veils of Death",
+     "duracao": "7:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Mourners Lament",
+     "duracao": "6:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Bewitched",
+     "duracao": "6:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Black Candles",
+     "duracao": "2:18"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 5
+   },
+   "publico": 7.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nightfall_%28Candlemass_album%29",
+   "resumo_en": "Nightfall is the second studio album by Swedish doom metal band Candlemass, released on 9 November 1987 through Axis Records. After being dropped from the label Black Dragon Records, Candlemass were the first band signed to Axis. The group had a new line-up from their previous album including vocalist Messiah Marcolin, whose decisions became instrumental during the production and release stages of the album.\nTwo singles were released from Nightfall: \"Samarithan\" and \"At the Gallows End\". A music video was directed for the song \"Bewitched\" by Jonas Åkerlund. The album has been re-released in various formats and was followed up by Ancient Dreams in 1988."
+  },
+  {
+   "id": "728012c1-8159-3e1a-a43f-2c66aaaa5eb6",
+   "titulo": "Ancient Dreams",
+   "data": "1988-11-23",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/36cfe2cd-c4cd-4dea-82c4-1a7955f19449/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mirror Mirror",
+     "duracao": "6:16"
+    },
+    {
+     "n": 2,
+     "titulo": "A Cry From the Crypt",
+     "duracao": "7:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Darkness in Paradise",
+     "duracao": "6:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Incarnation of Evil",
+     "duracao": "7:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Bearer of Pain",
+     "duracao": "7:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Ancient Dreams",
+     "duracao": "7:04"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bells of Acheron",
+     "duracao": "5:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Epistle No. 81",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Sabbath Medley",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Dreams",
+   "resumo_en": "Ancient Dreams is the third studio album by Swedish doom metal band Candlemass, released in 1988 and reissued in 2001 by Powerline Records with a bonus CD. The cover art of the album is a painting made by Thomas Cole, second in his series, \"The Voyage of Life\", entitled \"Youth\". Ancient Dreams was the first Candlemass album to chart in the US, debuting at No. 174 on the Billboard 200 album chart.\n\"Epistle 81\" (Märk hur vår skugga), was written by Swedish poet/musician Carl Michael Bellman (1740 – 1795). \"Incarnation of Evil\" is actually a reworked version of the old Nemesis track \"Black Messiah.\"\nThe band were not happy with the album's sound mix for which they blamed their then record label. The band felt that the album production had been rushed in order to have the LP released in time for their US tour."
+  },
+  {
+   "id": "3eae8b9c-41e5-3ff4-bc7c-e75624940c10",
+   "titulo": "Tales of Creation",
+   "data": "1989-09-25",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/0a8de1d1-c71d-3b4e-80e5-345bd9d83f6d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Prophecy",
+     "duracao": "1:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Dark Reflections",
+     "duracao": "5:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Voices in the Wind",
+     "duracao": "0:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Under the Oak",
+     "duracao": "6:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Tears",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Into the Unfathomed Tower: I. Dance of the Fay / II. Magic / Entering the Tower / III. Dance of the Fay (reprise) / IV. Souls Flight / V. Towards the Unknown / VI. Choir of Angels / VII. Outside the Gates of Heaven",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "The Edge of Heaven",
+     "duracao": "6:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Somewhere in Nowhere",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Through the Infinitive Halls of Death",
+     "duracao": "5:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Dawn",
+     "duracao": "0:26"
+    },
+    {
+     "n": 11,
+     "titulo": "A Tale of Creation",
+     "duracao": "6:52"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tales_of_Creation",
+   "resumo_en": "Tales of Creation is the fourth studio album by Swedish doom metal band Candlemass released on 25 September 1989. It was reissued in 2001 with a bonus CD.\nSome of the material from this album (\"Dark Reflections\", \"Under the Oak\", \"Into the Unfathomed Tower\", \"Somewhere in Nowhere\" and \"A Tale of Creation\") was originally recorded in 1985 by one of the earliest incarnations of Candlemass. \"Under the Oak\" is actually a remake of a song from their 1986 debut Epicus Doomicus Metallicus. The cover art is a modified version of Gustave Doré's \"The Creation of Light.\"\nTales of Creation was also the last Candlemass album to feature vocalist Messiah Marcolin until he returned for the self-titled album in 2005."
+  },
+  {
+   "id": "8a0fd9c2-15b6-398a-b873-fc11ab5ab6f1",
+   "titulo": "Chapter VI",
+   "data": "1992-05-25",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/8d83d6b2-f2fd-4da7-b570-1d8837bcae02/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Dying Illusion",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Julie Laughs No More",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Where the Runes Still Speak",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Ebony Throne",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Temple of the Dead",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Aftermath",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Black Eyes",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The End of Pain",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chapter_VI_%28album%29",
+   "resumo_en": "Chapter VI is the fifth studio album by Swedish doom metal band Candlemass, released on 25 May 1992 by Music For Nations. \nIt was the first Candlemass album not to feature Messiah Marcolin on vocals since 1986's Epicus Doomicus Metallicus. On this one, Thomas Vikström took his place. After poor sales of the album, Candlemass subsequently disbanded in early 1994, only to reform three years later."
+  },
+  {
+   "id": "67ed1a88-d0da-3f48-ab72-c4d0da64ea56",
+   "titulo": "Dactylis Glomerata",
+   "data": "1998-04-13",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/aea99463-169d-4e2a-bf33-a99b193f14d3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wiz",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "I Still See the Black",
+     "duracao": "6:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Dustflow",
+     "duracao": "9:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Cylinder",
+     "duracao": "1:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Karthago",
+     "duracao": "6:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Abstrakt Sun",
+     "duracao": "6:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Apathy",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Lidocain God",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Molotov",
+     "duracao": "1:31"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dactylis_Glomerata",
+   "resumo_en": "Dactylis Glomerata is the sixth studio album by Swedish doom metal band Candlemass, released on 13 April 1998 through Music For Nations. This was their first album released since their split in 1994.\nThe album was originally destined to be the second release by Candlemass main songwriter Leif Edling's side-project Abstrakt Algebra but, under request from the record label Music for Nations, it was converted into a Candlemass album. There were many musicians involved in the long process of recording, including members of the Abstrakt Algebra's line-up, guitarist Michael Amott of Arch Enemy and Carcass fame and new singer Björn Flodkvist.\nThe music on the album lacks much of the epic doom sound of previous works and embraces a more experimental and progressive approach, with elements of stoner rock and space rock.\nIn 2006, it was reissued by GMR Music as a 2 CD edition. The second disc contains the previously unreleased album Abstrakt Algebra II, from which this album's tracks derived."
+  },
+  {
+   "id": "1a82ee59-2c60-3315-b818-c69a728076aa",
+   "titulo": "From the 13th Sun",
+   "data": "1999-09-06",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/7e85f6f4-2db9-4bd9-9153-b78241b91a37/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Droid",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Tot",
+     "duracao": "6:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Elephant Star",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Blumma Apt",
+     "duracao": "5:23"
+    },
+    {
+     "n": 5,
+     "titulo": "ARX/NG 891",
+     "duracao": "5:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Zog",
+     "duracao": "5:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Galatea",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Cyclo-F",
+     "duracao": "9:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Mythos",
+     "duracao": "1:12"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/From_the_13th_Sun",
+   "resumo_en": "From the 13th Sun is the seventh studio album by Swedish doom metal band Candlemass, released on 6 September 1999 through Music For Nations. \nThe CD liner notes say the album is \"dedicated to the greatest band of all time: Black Sabbath\"."
+  },
+  {
+   "id": "1f87d564-ebf2-36f2-93ae-d86c5e69ad7f",
+   "titulo": "Candlemass",
+   "data": "2005-05-02",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/364701fd-e994-419f-b070-3b4b3167e35c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Dwarf",
+     "duracao": "5:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Seven Silver Keys",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Assassin of the Light",
+     "duracao": "6:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Copernicus",
+     "duracao": "7:17"
+    },
+    {
+     "n": 5,
+     "titulo": "The Man Who Fell From the Sky",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Witches",
+     "duracao": "6:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Born in a Tank",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Spellbreaker",
+     "duracao": "7:02"
+    },
+    {
+     "n": 9,
+     "titulo": "The Day and the Night",
+     "duracao": "8:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Mars and Volcanos",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.3,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Candlemass_%28album%29",
+   "resumo_en": "Candlemass is the eighth studio album by Swedish doom metal band Candlemass, released on 3 May 2005 through Nuclear Blast Records. It is the band's last album to feature vocalist Messiah Marcolin.\nA video for the album's opening track \"Black Dwarf\" was made. The song \"Witches\" was also included in the soundtrack for the 2009 video game Brütal Legend."
+  },
+  {
+   "id": "c46a068d-bbd6-3846-b0c5-3c870d982550",
+   "titulo": "King of the Grey Islands",
+   "data": "2007-06-22",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/12874792-0aac-4989-b400-c7781e99fc78/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prologue",
+     "duracao": "0:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Emperor of the Void",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Devil Seed",
+     "duracao": "5:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Of Stars and Smoke",
+     "duracao": "5:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Demonia 6",
+     "duracao": "6:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Destroyer",
+     "duracao": "7:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Man of Shadows",
+     "duracao": "6:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Clearsight",
+     "duracao": "6:51"
+    },
+    {
+     "n": 9,
+     "titulo": "The Opal City",
+     "duracao": "1:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Embracing the Styx",
+     "duracao": "8:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Solitude",
+     "duracao": "5:57"
+    },
+    {
+     "n": 12,
+     "titulo": "At the Gallows End",
+     "duracao": "5:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Black Dwarf",
+     "duracao": "5:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Demonia 6 (early version)",
+     "duracao": "6:11"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.9,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/King_of_the_Grey_Islands",
+   "resumo_en": "King of the Grey Islands is the ninth studio album by Swedish doom metal band Candlemass, released on 22 June 2007 through Nuclear Blast Records. It is the first album recorded following the departure of vocalist Messiah Marcolin, who left the band during the pre-production phase of the album. He was replaced by Robert Lowe, who would stay with the band until his departure in June 2012.\nA digipak version contains two bonus studio session tracks with Robert Lowe. The album was also released as a double vinyl LP with the bonus track \"Edgar Grey\". A tin box set edition (limited to 500 copies) was also released, which included a bonus 3\" CD with two bonus tracks: \"Black Dwarf\" and \"Demonia 6 (early version)\". \"Black Dwarf\" is a re-recording with Lowe on vocals. These songs also appear on the \"Black Dwarf\" 7\".\nUpon its release, the album was met with widespread acclaim from both critics and fans."
+  },
+  {
+   "id": "ce0ac164-1208-38ce-94d0-14d5b92cf2ea",
+   "titulo": "Death Magic Doom",
+   "data": "2009-04-01",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/a2e9efaa-eb10-4926-9249-a5acf15b4f4f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If I Ever Die",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Hammer of Doom",
+     "duracao": "6:16"
+    },
+    {
+     "n": 3,
+     "titulo": "The Bleeding Baroness",
+     "duracao": "7:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Demon of the Deep",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "House of 1000 Voices",
+     "duracao": "7:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Dead Angel",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Clouds of Dementia",
+     "duracao": "5:38"
+    },
+    {
+     "n": 8,
+     "titulo": "My Funeral Dreams",
+     "duracao": "6:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Lucifer Rising",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.9,
+    "fontes": 8
+   },
+   "publico": 7.8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_Magic_Doom",
+   "resumo_en": "Death Magic Doom is the tenth studio album by Swedish doom metal band Candlemass."
+  },
+  {
+   "id": "eecc7f46-dd3d-4c01-b758-14c9d8d6877a",
+   "titulo": "Psalms for the Dead",
+   "data": "2012-06-06",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/673d39ee-656c-4944-8c4b-96d91f0d8efe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prophet",
+     "duracao": "6:03"
+    },
+    {
+     "n": 2,
+     "titulo": "The Sound of Dying Demons",
+     "duracao": "5:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Dancing in the Temple (Of the Mad Queen Bee)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Waterwitch",
+     "duracao": "7:01"
+    },
+    {
+     "n": 5,
+     "titulo": "The Lights of Thebe",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Psalms for the Dead",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "The Killing of the Sun",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Siren Song",
+     "duracao": "5:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Black as Time",
+     "duracao": "6:46"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.1,
+    "fontes": 7
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Psalms_for_the_Dead",
+   "resumo_en": "Psalms for the Dead is the eleventh studio album by Swedish doom metal band Candlemass, released on 8 June 2012. At the time of its release, the band stated that this would be their final album, though bassist and founding member Leif Edling has since retracted this claim. Psalms for the Dead is, however, the last Candlemass album recorded with singer Robert Lowe, who left the band just six days before its release.\nThe album would become Candlemass' last full-length release in over half a decade, until the 2019 release of their twelfth studio album The Door to Doom; during those seven years, however, the band released two EPs featuring new material: Death Thy Lover (2016) and House of Doom (2018)."
+  },
+  {
+   "id": "3e90c0c7-cde6-45c2-9f74-bfc419507326",
+   "titulo": "The Door to Doom",
+   "data": "2019-02-20",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/bafcad53-281c-4ffa-8d31-5852b5c144b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Splendor Demon Majesty",
+     "duracao": "5:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Under the Ocean",
+     "duracao": "6:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Astorolus - The Great Octopus",
+     "duracao": "6:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Bridge of the Blind",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Death’s Wheel",
+     "duracao": "6:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Black Trinity",
+     "duracao": "6:05"
+    },
+    {
+     "n": 7,
+     "titulo": "House of Doom",
+     "duracao": "6:26"
+    },
+    {
+     "n": 8,
+     "titulo": "The Omega Circle",
+     "duracao": "7:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Flowers of Deception",
+     "duracao": "6:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Fortuneteller",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Dolls on a Wall",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {},
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Door_to_Doom",
+   "resumo_en": "The Door to Doom is the twelfth studio album by Swedish doom metal band Candlemass, released on 22 February 2019 via Napalm. It is the band's first full-length studio album since 2012's Psalms for the Dead, marking their longest gap between studio albums, and the first one to feature vocalist Johan Längqvist since 1986's Epicus Doomicus Metallicus. Loudwire named it one of the 50 best metal albums of 2019."
+  },
+  {
+   "id": "da6b86ee-cb57-4e1b-b67c-27b8150a758a",
+   "titulo": "Sweet Evil Sun",
+   "data": "2022-11-18",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/7ac34a67-14a2-41af-9e3c-9d240249c028/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wizard of the Vortex",
+     "duracao": "6:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Sweet Evil Sun",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Angel Battle",
+     "duracao": "6:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Butterfly",
+     "duracao": "5:47"
+    },
+    {
+     "n": 5,
+     "titulo": "When Death Sighs",
+     "duracao": "5:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Scandinavian Gods",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Devil Voodoo",
+     "duracao": "7:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Crucified",
+     "duracao": "6:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Goddess",
+     "duracao": "6:07"
+    },
+    {
+     "n": 10,
+     "titulo": "A Cup of Coffin (outro)",
+     "duracao": "1:13"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "media": 7.6,
+    "fontes": 5
+   },
+   "publico": 3.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sweet_Evil_Sun",
+   "resumo_en": "Sweet Evil Sun is the thirteenth studio album by Swedish doom metal band Candlemass. It was released on 18 November 2022 through Napalm Records. Recording sessions took place at Nox Studios in Jakobsberg. Production was handled by Marcus Jidell.\nThe album debuted at number 52 in Sweden, number 37 in Switzerland and number 42 in Germany. It also made it to number 19 on the UK Rock & Metal Albums and number 44 on the UK Independent Albums."
+  }
+ ]
+}

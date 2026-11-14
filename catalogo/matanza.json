@@ -1,0 +1,628 @@
+{
+ "id": "matanza",
+ "nome": "Matanza",
+ "cena": "Rock brasileiro",
+ "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+ "wikidata": "Q3623038",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1996",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "cowpunk",
+  "heavy metal",
+  "hardcore punk",
+  "psychobilly",
+  "punk rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Matanza_2010.jpg/500px-Matanza_2010.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Matanza_%28banda%29",
+ "resumo_pt": "Matanza foi uma banda brasileira de rock, formada no Rio de Janeiro em 1996, que permaneceu ativa até 2018. Sua música era uma mistura de hardcore punk, country e heavy metal, formando assim o gênero que a mídia intitulou de \"countrycore\".",
+ "resumo_en": "Matanza was a Brazilian hardcore punk band from Rio de Janeiro, formed in 1996. Their music is a blend of hardcore punk, country and heavy metal, thus falling into a subgenre known as countrycore.",
+ "albuns": [
+  {
+   "id": "1c5e7292-be46-434c-9189-281832ed0e01",
+   "titulo": "Terror em Dashville (Demo)",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/5e05bb8c-c393-46dc-8504-3fabda52001a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gore Doom Jamboree",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Imbecil",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "As Melhores Putas do Alabama",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Já Bebi Demais",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Terror em Dashville",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Alabama",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Matanza em Idaho",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Terror_em_Dashville",
+   "resumo_en": "Matanza Inc is a Brazilian rock band formed by former members of Matanza."
+  },
+  {
+   "id": "b4044dd8-9d3a-313c-8ebe-d1c534909a7b",
+   "titulo": "Santa Madre Cassino",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/ddebd368-41ab-4ae9-b020-0f25fd1c9d6a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ela Roubou Meu Caminhão",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Mesa De Saloon",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Eu Não Bebo Mais",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "E Tudo Vai Ficar Pior",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Tombstone City",
+     "duracao": "1:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Rio De Whisky",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Quanto Mais Feio",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Ye Ole Bluegrass Assassinate",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Santanico (Parte 1)",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Santanico (Parte 2)",
+     "duracao": "1:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Mais Um Dia Por Aqui",
+     "duracao": "3:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Imbecil",
+     "duracao": "1:35"
+    },
+    {
+     "n": 13,
+     "titulo": "As Melhores Putas Do Alabama",
+     "duracao": "1:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Santa Madre Cassino",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Santa_Madre_Cassino",
+   "resumo_en": "Santa Madre Cassino is the debut studio album by the Brazilian band Matanza released in 2001."
+  },
+  {
+   "id": "b39eff9c-9745-3063-9126-6bb502f8822c",
+   "titulo": "Música Para Beber e Brigar",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/5710371a-9d03-4a7f-bd5d-37ce44f43522/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pé na porta, soco na cara",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "O último bar",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Todo ódio da vingança de Jack Buffalo Head",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Maldito hippie sujo",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Bota com buraco de bala",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Taberneira, traga o gim",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Interceptor V-6",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Busted",
+     "duracao": "1:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Bom é quando faz mal",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Pandemonium",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Quando bebe desse jeito",
+     "duracao": "3:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Matarei",
+     "duracao": "3:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Bebe, arrota e peida",
+     "duracao": "2:04"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "b4b5a9a8-ffdb-395d-8c9b-fe3f4c367ab0",
+   "titulo": "To Hell With Johnny Cash",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/ade61e6f-efb6-40f3-a7ae-ef8a8201775f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Five Feet High and Rising",
+     "duracao": "1:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Straight A's in Love",
+     "duracao": "1:51"
+    },
+    {
+     "n": 3,
+     "titulo": "My Treasure",
+     "duracao": "1:47"
+    },
+    {
+     "n": 4,
+     "titulo": "San Quentin",
+     "duracao": "2:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Tell Him I'm Gone",
+     "duracao": "2:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Leave That Junk Alone",
+     "duracao": "1:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Big River",
+     "duracao": "1:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Belshazzar",
+     "duracao": "1:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Wide Open Road",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Cry Cry Cry",
+     "duracao": "1:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Don't Take Your Guns to Town",
+     "duracao": "2:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Home of the Blues",
+     "duracao": "1:19"
+    },
+    {
+     "n": 13,
+     "titulo": "I Got Stripes",
+     "duracao": "1:06"
+    }
+   ],
+   "duracao_min": 24,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "93d12240-b088-3563-bc83-35afbb47007b",
+   "titulo": "A arte do insulto",
+   "data": "2006",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/91f981c2-ba20-4a1a-97d2-0763d889dec9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Arte Do Insulto",
+     "duracao": "1:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Clube Dos Canalhas",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "O Chamado Do Bar",
+     "duracao": "2:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Sabendo Que Posso Morrer",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Quem Perde Sai",
+     "duracao": "2:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Meio Psicopata",
+     "duracao": "2:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Eu Não Gosto De Ninguém",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "O Caminho Da Escada E Da Corda",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Ressaca Sem Fim",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Tempo Ruim",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Quem Leva a Sério o Quê",
+     "duracao": "2:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Whisky Para Um Condenado",
+     "duracao": "2:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Estamos Todos Bêbados",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "7d91a907-f9de-417d-9911-074bebc62926",
+   "titulo": "Odiosa Natureza Humana",
+   "data": "2011-03-05",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/cd12bb75-9648-4634-b91e-68c1884ec662/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Remédios Demais",
+     "duracao": "2:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Em Respeito Ao Vício",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Ela Não Me Perdoou",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Escárnio",
+     "duracao": "2:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Tudo Errado",
+     "duracao": "2:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Saco Cheio E Mau-Humor",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Odiosa Natureza Humana",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Carvão, Enxofre E Salitre",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Amigo Nenhum",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Conforme Disseram as Vozes",
+     "duracao": "2:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Melhor Sem Você",
+     "duracao": "2:33"
+    },
+    {
+     "n": 12,
+     "titulo": "A Menor Paciência",
+     "duracao": "4:15"
+    },
+    {
+     "n": 13,
+     "titulo": "O Bebum Acabado",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "a75569a4-a4ef-4ece-9395-d99fc2ca2372",
+   "titulo": "Thunder Dope",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/1ad683ea-b2a0-4478-becc-b130a1585ebb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Goredoom Jamboree",
+     "duracao": "1:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Matanza Em Idaho",
+     "duracao": "1:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Mulher Diabo",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Estrada De Ferro Thunder Dope",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Devil Horse",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Dashville Chainsaw Massacre",
+     "duracao": "1:51"
+    },
+    {
+     "n": 7,
+     "titulo": "My Old Friend Liver",
+     "duracao": "1:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Country Core Funeral",
+     "duracao": "1:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Die Hillbilly",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Alabama Death Tenebris",
+     "duracao": "1:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Sunday Morning After",
+     "duracao": "2:03"
+    },
+    {
+     "n": 12,
+     "titulo": "She Is Evil But She Is Mine",
+     "duracao": "1:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Pane Nos Quatro Motores",
+     "duracao": "1:05"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "e52674cc-4cbe-4cff-94a4-6c06cdc7f03c",
+   "titulo": "Pior Cenário Possível",
+   "data": "2015-04-14",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/165bef76-2f0e-4f41-aea0-a89b9e976217/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Sua Assinatura",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "O Que Está Feito, Está Feito",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Matadouro 18",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "A Casa em Frente ao Cemitério",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Sob a Mira",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Pior Cenário Possível",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "O Pessimista",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Chance pro Azar",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Orgulho e Cinismo",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Conversa de Assassino Serial",
+     "duracao": "5:27"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pior_Cen%C3%A1rio_Poss%C3%ADvel",
+   "resumo_en": "Pior Cenário Possível (Portuguese for \"Worst Possible Scenario\") is the seventh and final studio album by Brazilian cowpunk band Matanza. It is the first album by the band to have two guitarists (Marcelo Donida and Maurício Nogueira) and it is also the last to feature bassist China. It was recorded at Tambor Studios, in Rio de Janeiro, and it was produced by Rafael Ramos, who also produced Nheengatu by Titãs and Setevidas by Pitty. It was released on 14 April 2015. All instruments were recorded simultaneously.\nOn 18 March the band announced the second video from the album, \"O que Está Feito, Está Feito\", recorded in Rio de Janeiro. On 24 March, they released the track \"Matadouro 18\" at Tenho Mais Discos Que Amigos!. Then, on 1 April, they released \"Orgulho e Cinismo\" at Rolling Stone Brasil and \"Chance pro Azar\" at Rádio Cidade on 6 April.\nAbout the darker themes of the album, in comparison with their typical lyrics about drinking and women, vocalist Jimmy London said: \"We create the concept of each Matanza album even before we write the first song. Now, however, it would be required to live in Mars to talk about a good mess, celebratory gunfire and fun. Who knows if we won't be in"
+  }
+ ]
+}

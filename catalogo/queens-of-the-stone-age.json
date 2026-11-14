@@ -1,0 +1,758 @@
+{
+ "id": "queens-of-the-stone-age",
+ "nome": "Queens of the Stone Age",
+ "cena": "Groove, death e além",
+ "mbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+ "wikidata": "Q1243718",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1996",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "stoner rock",
+  "hard rock",
+  "alternative rock",
+  "rock",
+  "desert rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/QOTSA_2007_2.jpg/500px-QOTSA_2007_2.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Queens_of_the_Stone_Age",
+ "resumo_pt": "Queens of the Stone Age (também conhecidos pelo acrônimo QotSA) é uma banda norte-americana de rock formada em Palm Desert, Califórnia em 1996.\nÉ muito conhecida por popularizar o gênero stoner rock que até os anos 2000 não era muito conhecido. Sempre em constante mudança de integrantes a banda possui apenas o vocalista, guitarrista e compositor, Josh Homme, como integrante original.",
+ "resumo_en": "Queens of the Stone Age (commonly abbreviated as QOTSA or QotSA) is an American rock band formed in Palm Desert, California, in 1996. The band was founded by vocalist and guitarist Josh Homme shortly before he returned to his native Palm Desert. Homme has been the only constant member throughout multiple line-up changes; since 2013, the line-up has consisted of Homme, Troy Van Leeuwen (guitar, lap steel, keyboards, percussion, backing vocals), Michael Shuman (bass, keyboards, backing vocals), Dean Fertita (keyboards, guitar, percussion, backing vocals), and Jon Theodore (drums, percussion).\nFormed after the dissolution of Homme's previous band Kyuss, the band originated from the spread of the Palm Desert music scene. Its self-titled debut album (1998) was recorded with Homme singing and playing all instruments except drums, which were provided by former Kyuss member Alfredo Hernández. Bassist Nick Oliveri joined the band for its accompanying tour and soon became co-lead vocalist, as well as Dave Catching on keyboards, guitar and lap steel alongside Homme. The band's second studio album, Rated R (2000), featured Mark Lanegan as a guest vocalist and was the band's major label debut with Interscope Records. It was critically and commercially successful, and featured the breakout single \"The Lost Art of Keeping a Secret\". The band's third studio album, Songs for the Deaf (2002), featured Dave Grohl on drums alongside contributions from Alain Johannes and Natasha Shneider.\nAfter O",
+ "albuns": [
+  {
+   "id": "17ee0d7f-4a9d-317f-a0b0-8ca528a34b19",
+   "titulo": "Queens of the Stone Age",
+   "data": "1998-10-06",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/33977e2f-c4db-3359-bcf7-fdd7a4606b00/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Regular John",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Avon",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "If Only",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Walkin on the Sidewalks",
+     "duracao": "5:03"
+    },
+    {
+     "n": 5,
+     "titulo": "You Would Know",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "How to Handle a Rope",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Mexicola",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Hispanic Impressions",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "You Can’t Quit Me Baby",
+     "duracao": "6:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Give the Mule What He Wants",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "I Was a Teenage Hand Model",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 6
+   },
+   "publico": 7.2,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Queens_of_the_Stone_Age_%28album%29",
+   "resumo_en": "Queens of the Stone Age is the debut studio album by American rock band Queens of the Stone Age, released on September 22, 1998, through Loosegroove Records in the United States, Roadrunner Records internationally, and Man's Ruin Records on vinyl. It was primarily written and recorded in April 1998 by founding member Josh Homme and his former Kyuss bandmate Alfredo Hernández, with Hernández playing drums and Homme singing and playing the rest of the instruments. Homme also produced the album alongside Joe Barresi. Bassist Nick Oliveri, also a former member of Kyuss, would join the band by the time of the album's release. Queens of the Stone Age received generally positive reviews from critics, who placed it in the stoner rock genre and drew comparisons to krautrock bands such as Neu! and Can, as well as to Kyuss and other metal bands.\nIn 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords label, having it remastered and adding three additional tracks–two from the album's recording sessions and one from two years earlier. The reissue received a positive critical response and was accompanied by a supporting concert tour. Working on the reissue and subsequent tour"
+  },
+  {
+   "id": "7818bb84-ed80-3488-9f50-f9bf4347e372",
+   "titulo": "Rated R",
+   "data": "2000-06-05",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/46252b86-fdb2-4c11-9d66-74a8c789a225/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feel Good Hit of the Summer",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "The Lost Art of Keeping a Secret",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Leg of Lamb",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Auto Pilot",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Better Living Through Chemistry",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Monsters in the Parasol",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Quick and to the Pointless",
+     "duracao": "1:42"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Fade",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Feel Good Hit of the Summer (reprise)",
+     "duracao": "0:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Tension Head",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Lightning Song",
+     "duracao": "2:07"
+    },
+    {
+     "n": 12,
+     "titulo": "I Think I Lost My Headache",
+     "duracao": "8:40"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.5,
+    "fontes": 9
+   },
+   "publico": 7.8,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rated_R_%28Queens_of_the_Stone_Age_album%29",
+   "resumo_en": "Rated R (also known on vinyl as Rated X and Rated RX on the 2010 deluxe edition) is the second studio album by American rock band Queens of the Stone Age. It was released on June 6, 2000, by Interscope Records. Rated R was the band's first album for the label, as well as their first to feature bassist Nick Oliveri and vocalist Mark Lanegan.\nThe album was a critical and commercial success and became the band's breakthrough album, peaking at number 54 in the UK and eventually being certified gold by the BPI. Two singles were released from Rated R: \"The Lost Art of Keeping a Secret\" and \"Feel Good Hit of the Summer\", with the former helping the band reach mainstream popularity."
+  },
+  {
+   "id": "cbffb669-c390-3a4d-b46f-1be8ea934b03",
+   "titulo": "Songs for the Deaf",
+   "data": "2002-08-17",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/ca1cbca3-e7a5-44ac-953f-9a84b22ab333/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Think I Ain’t Worth a Dollar, but I Feel Like a Millionaire",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "No One Knows",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "First It Giveth",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "A Song for the Dead",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Sky Is Fallin’",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Six Shooter",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Hangin’ Tree",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Go With the Flow",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Gonna Leave You (Spanish version)",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Do It Again",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "God Is in the Radio",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Another Love Song",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "A Song for the Deaf",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Mosquito Song",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "The Lost Art of Keeping a Secret (live at The Troubadour)",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Everybody’s Gonna Be Happy",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 10.0,
+    "metacritic": 89,
+    "media": 8.3,
+    "fontes": 9
+   },
+   "publico": 8.4,
+   "publico_votos": 24,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_for_the_Deaf",
+   "resumo_en": "Songs for the Deaf is the third studio album by the American rock band Queens of the Stone Age, released on August 27, 2002, by Interscope Records. It features many guest musicians, and was the last Queens of the Stone Age album to feature Nick Oliveri on bass. It was also the first Queens of the Stone Age album to feature Dave Grohl on drums, with the second being …Like Clockwork in 2013, where he would feature on half of the track list. Songs for the Deaf is a loose concept album, taking the listener on a drive through the California desert from Los Angeles to Joshua Tree, tuning into radio stations from towns along the way such as Banning and Chino Hills.\nSongs for the Deaf received critical acclaim and earned Queens of the Stone Age their first gold certification in the United States. One million copies were sold in Europe, earning a platinum certification from the International Federation of the Phonographic Industry in 2008. \"No One Knows\", \"Go with the Flow\" and \"First It Giveth\" were released as singles."
+  },
+  {
+   "id": "5967a9ad-a0d5-34f7-bd53-f5d4bad80a67",
+   "titulo": "Lullabies to Paralyze",
+   "data": "2005-03-18",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/297323fd-0193-420b-935d-0e1a122d917a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Lullaby",
+     "duracao": "1:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Medication",
+     "duracao": "1:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Everybody Knows That You Are Insane",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Tangled Up in Plaid",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Burn the Witch",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "In My Head",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Little Sister",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "I Never Came",
+     "duracao": "4:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Someone’s in the Wolf",
+     "duracao": "7:16"
+    },
+    {
+     "n": 10,
+     "titulo": "The Blood Is Love",
+     "duracao": "6:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Skin on Skin",
+     "duracao": "3:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Broken Box",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "“You Got a Killer Scene There, Man…”",
+     "duracao": "4:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Long Slow Goodbye / Hidden Finale",
+     "duracao": "6:50"
+    },
+    {
+     "n": 15,
+     "titulo": "Like a Drug",
+     "duracao": "3:16"
+    },
+    {
+     "n": 16,
+     "titulo": "The Lost Art of Keeping a Secret",
+     "duracao": "3:54"
+    },
+    {
+     "n": 17,
+     "titulo": "Little Sister",
+     "duracao": "2:56"
+    },
+    {
+     "n": 18,
+     "titulo": "In My Head",
+     "duracao": "3:56"
+    },
+    {
+     "n": 19,
+     "titulo": "No One Knows",
+     "duracao": "6:48"
+    },
+    {
+     "n": 20,
+     "titulo": "Song for the Dead",
+     "duracao": "6:24"
+    },
+    {
+     "n": 21,
+     "titulo": "Regular John",
+     "duracao": "9:48"
+    }
+   ],
+   "duracao_min": 97,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 78,
+    "media": 8.1,
+    "fontes": 8
+   },
+   "publico": 7.9,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lullabies_to_Paralyze",
+   "resumo_en": "Lullabies to Paralyze is the fourth studio album by American rock band Queens of the Stone Age, released on March 22, 2005. The album debuted at number five on the Billboard 200, and sold 97,000 copies in America during its first week of release, eventually topping over 342,000 copies as of March, 2007 according to Nielsen Soundscan. The album has been certified gold in the UK, where it has sold over 100,000 units. It is also the band's first album to be released after bassist Nick Oliveri was fired from the band. Singer/guitarist Josh Homme and singer Mark Lanegan are the only members from the previous album, Songs for the Deaf, to play on this album, with Lullabies to Paralyze being the last Queens of the Stone Age album with Lanegan as an official member. It is the first album to feature drummer Joey Castillo and guitarist Troy Van Leeuwen."
+  },
+  {
+   "id": "c349f4fb-19f3-3fc4-ad3d-3bea900e7cf2",
+   "titulo": "Era Vulgaris",
+   "data": "2007-06-08",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/58e270c7-59a5-4d6c-b0d3-9413d71c3a5a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turnin’ On the Screw",
+     "duracao": "5:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Sick, Sick, Sick",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m Designer",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Into the Hollow",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Misfit Love",
+     "duracao": "5:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Running Joke",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Battery Acid",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Make It Wit Chu",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "3’s & 7’s",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Suture Up Your Future",
+     "duracao": "4:37"
+    },
+    {
+     "n": 11,
+     "titulo": "River in the Road",
+     "duracao": "3:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Run, Pig, Run",
+     "duracao": "4:40"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 75,
+    "media": 7.3,
+    "fontes": 8
+   },
+   "publico": 7.9,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Era_Vulgaris_%28album%29",
+   "resumo_en": "Era Vulgaris is the fifth studio album by American rock band Queens of the Stone Age. It was released on June 12, 2007, through Interscope Records, as their last album on the label. Recorded from July 2006 to April 2007, it was preceded by the singles \"Sick, Sick, Sick\" in May, followed by \"3's & 7's\" in early June. \"Make It wit Chu\" was released as the third single in October. The album debuted at No. 14 on the U.S. Billboard 200 charts, selling 52,000 copies in its first week. It reached top ten positions in other countries, such as No. 7 in the UK, No. 5 in Canada, and No. 4 in Australia."
+  },
+  {
+   "id": "c92f73ee-527f-42ed-a556-fd615941e214",
+   "titulo": "…Like Clockwork",
+   "data": "2013-05-31",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/8786a039-235b-4070-8528-6d22b340e62e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Keep Your Eyes Peeled",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "I Sat by the Ocean",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "The Vampyre of Time and Memory",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "If I Had a Tail",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "My God Is the Sun",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Kalopsia",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Fairweather Friends",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Smooth Sailing",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "I Appear Missing",
+     "duracao": "6:00"
+    },
+    {
+     "n": 10,
+     "titulo": "…Like Clockwork",
+     "duracao": "5:24"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 10.0,
+    "metacritic": 82,
+    "media": 8.2,
+    "fontes": 8
+   },
+   "publico": 8.8,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/...Like_Clockwork",
+   "resumo_en": "...Like Clockwork is the sixth studio album by American rock band Queens of the Stone Age. It was released on June 3, 2013 in the United Kingdom and a day later in the United States by Matador Records, marking the first entry in the first trilogy with the record label which continued with Villains and concluded with In Times New Roman.... Self-produced by the band, it is the first Queens of the Stone Age album to feature full contributions from bassist Michael Shuman and keyboardist and guitarist Dean Fertita, who both joined the band in 2007 to tour in support of the band's fifth studio album, Era Vulgaris, and record its bonus tracks.\nAfter several false starts and stops, the band began recording ...Like Clockwork in August 2012, initially hoping that collaborator Trent Reznor would produce the album. Following a stormy recording period, which included the departure of long-time drummer Joey Castillo, founding member Josh Homme described the album as \"documenting the journey of moving forward, you know. It was a tough time and I thought, 'I can run away from this, or I can run into it.'\"\nUpon release, ...Like Clockwork received critical acclaim and was a commercial success, debut"
+  },
+  {
+   "id": "7e7270ae-a73a-48e2-a8a6-20e1112e21f8",
+   "titulo": "Villains",
+   "data": "2017-08-25",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/50774ad5-b19b-444d-b9cf-0c737da878e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feet Don’t Fail Me",
+     "duracao": "5:41"
+    },
+    {
+     "n": 2,
+     "titulo": "The Way You Used to Do",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Domesticated Animals",
+     "duracao": "5:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Fortress",
+     "duracao": "5:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Head Like a Haunted House",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Un‐Reborn Again",
+     "duracao": "6:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Hideaway",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "The Evil Has Landed",
+     "duracao": "6:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Villains of Circumstance",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 81,
+    "media": 7.9,
+    "fontes": 9
+   },
+   "publico": 8.2,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Villains_%28Queens_of_the_Stone_Age_album%29",
+   "resumo_en": "Villains is the seventh studio album by American rock band Queens of the Stone Age. Produced by Mark Ronson, it was released on August 25, 2017, through Matador Records. The album was announced on June 14, 2017, with a teaser trailer taking the form of a comedy skit featuring the band performing a polygraph test with Liam Lynch. The first single, \"The Way You Used to Do\", was released the following day along with the announcement of a world tour. Villains is the first Queens of the Stone Age album to not feature any special guest musicians, the second to not feature Mark Lanegan, and the first to feature drummer Jon Theodore as a full-time member of the band. Villains is the second installment in the band's first trilogy of albums released through Matador that began with ...Like Clockwork (2013) and concluded with In Times New Roman... (2023).\nThe album received widely positive reviews and performed well commercially, debuting at number one on the UK Albums Chart, earning the band their first UK number-one album, and number three on the US Billboard 200. It also topped Billboard's Top Alternative Albums and Top Rock Albums charts. At the 2018 Grammy Awards, it was nominated for Bes"
+  },
+  {
+   "id": "1411b1fe-f4d4-4583-ac28-1f6fa906ddf2",
+   "titulo": "In Times New Roman…",
+   "data": "2023-06-16",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/07b64fcd-5eae-430e-86d8-95225d1848cb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Obscenery",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Paper Machete",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Negative Space",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Time & Place",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Made to Parade",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Carnavoyeur",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "What the Peephole Say",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Sicily",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Emotion Sickness",
+     "duracao": "4:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Straight Jacket Fitting",
+     "duracao": "9:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Untitled",
+     "duracao": "0:22"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 80,
+    "media": 7.3,
+    "fontes": 10
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_Times_New_Roman...",
+   "resumo_en": "In Times New Roman... is the eighth studio album by American rock band Queens of the Stone Age, released on June 16, 2023, through Matador Records. It was announced in a video teaser on May 9, 2023, and is the band's first album since Villains (2017). The announcement occurred alongside the release of the lead single, \"Emotion Sickness\". In Times New Roman... marks the conclusion of the band's first trilogy of albums released through Matador that began with ...Like Clockwork (2013) and continued with Villains."
+  },
+  {
+   "id": "b835704b-05f4-4572-ae8f-d0bb9d8a8f95",
+   "titulo": "Perfecth",
+   "data": "2026-10-30",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/7995c76c-6471-4055-be66-3d384a0ba276/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It’s Only Love",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Insignificant Other",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Where the Goth Girls At?",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Mono",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "From the Cliff",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Sunday",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Easy Street",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Phantom Limb",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Run Away From the Mob",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 80,
+    "media": 8.0,
+    "fontes": 8
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Perfecth",
+   "resumo_en": "Perfecth is the ninth studio album by the American rock band Queens of the Stone Age, released on October 30, 2026 on Matador Records. Produced by frontman Josh Homme and bass guitarist Michael Shuman, the album was preceded by the singles \"Easy Street\", \"Insignificant Other\", \"Where the Goth Girls At?\", and \"Run Away from the Mob\".\nInspired by kintsugi, the Japanese art of repairing pottery by letting cracks show, the album's material and recording sessions span several years across the band's recent lifetime, with the majority of the album being recorded between 2024 and 2026. \nThe album features a softer musical aesthetic, directly influenced by the band's recent extended play and concert film, Alive in the Catacombs (2025), and its accompanying Catacombs Tour, where the band explored stripped-back and theatrical song arrangements. Homme stated upon Perfecth's release: \"I think the Catacombs have changed us forever, and so there is no going back – there's only forward.\""
+  }
+ ]
+}

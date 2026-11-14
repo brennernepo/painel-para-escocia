@@ -1,0 +1,680 @@
+{
+ "id": "alter-bridge",
+ "nome": "Alter Bridge",
+ "cena": "Pós-grunge",
+ "mbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
+ "wikidata": "Q335036",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "2004",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "alternative metal",
+  "post-grunge",
+  "alternative rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Alter_Bridge_-_2017155184426_2017-06-04_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_1315_-_AK8I0610.jpg/500px-Alter_Bridge_-_2017155184426_2017-06-04_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_1315_-_AK8I0610.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Alter_Bridge",
+ "resumo_pt": "Alter Bridge é uma banda americana de hard rock e metal alternativo formada em 2004, em Orlando, Flórida.\nA banda surgiu como um novo projeto do guitarrista e compositor Mark Tremonti, do baterista Scott Phillips e seu antigo companheiro, o baixista Brian Marshall, com a pausa nas atividades de sua antiga banda Creed, quando esses três músicos contrataram Myles Kennedy, ex-vocalista do The Mayfield Four, e atual vocalista da banda de Slash, como vocalista principal e, mais tarde, também guitarrista.\nA sonoridade do Alter Bridge tem sido descrita como hard rock, post-grunge, metal alternativo e às vezes metal progressivo, tendo a banda desde canções pesadas, mais ligadas ao heavy metal, até as mais leves e que são executadas em formato acústico nas apresentações ao vivo.",
+ "resumo_en": "Alter Bridge is an American rock band from Orlando, Florida. The band was formed in 2004 by lead vocalist and rhythm guitarist Myles Kennedy, lead guitarist Mark Tremonti, bassist Brian Marshall and drummer Scott Phillips. After their former band Creed became inactive in 2003, Tremonti and Phillips formed a new band with former bandmate Marshall and new member Kennedy; Alter Bridge was formally unveiled in January 2004, months before Creed's official breakup in June.\nAfter signing with Wind-up Records, Alter Bridge released their debut album One Day Remains in August 2004, much of which was written by Tremonti the previous year. The album received mixed reviews but reached No. 5 on the U.S. Billboard 200 and was certified gold by the Recording Industry Association of America in November 2004. The band's second album followed in 2007 with the more positively-reviewed Blackbird, which marked the beginning of a long partnership between the band and producer Michael Baskette. The album reached No. 13 in the U.S. and was certified silver by the British Phonographic Industry.\nFollowing continued activities with the members' other bands and side projects, Alter Bridge released AB III in 2010. It received critical acclaim and commercial success on Roadrunner Records, with its lead single \"Isolation\" topping the Billboard Mainstream Rock chart. Alter Bridge released Fortress to further acclaim in 2013, as the band's members continued splitting their time between various projects. The ",
+ "albuns": [
+  {
+   "id": "23885e42-01ca-348b-81f9-b3077b3c8a5e",
+   "titulo": "One Day Remains",
+   "data": "2004-08-10",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/6a0cc9da-cb07-4eef-b427-9da35164b385/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Find the Real",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "One Day Remains",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Open Your Eyes",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Burn It Down",
+     "duracao": "6:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Metalingus",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Broken Wings",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "In Loving Memory",
+     "duracao": "5:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Down to My Last",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Watch Your Words",
+     "duracao": "5:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Shed My Skin",
+     "duracao": "5:08"
+    },
+    {
+     "n": 11,
+     "titulo": "The End Is Here",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/One_Day_Remains",
+   "resumo_en": "One Day Remains is the debut album by American rock band Alter Bridge, released on August 10, 2004, on Wind-up Records. The album was produced by Ben Grosse, making it the band's only album to not be produced by Michael \"Elvis\" Baskette. It has been certified Gold in the United States as of November 2004, with worldwide sales reaching 750,000."
+  },
+  {
+   "id": "ae403b22-323c-36b7-9352-2bd597083545",
+   "titulo": "Blackbird",
+   "data": "2007-10-05",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/50b137ee-ee8a-4d5b-9b82-4f1aca15cbdb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ties That Bind",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Come to Life",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Brand New Start",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Buried Alive",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Coming Home",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Before Tomorrow Comes",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Rise Today",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Blackbird",
+     "duracao": "7:58"
+    },
+    {
+     "n": 9,
+     "titulo": "One by One",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Watch Over You",
+     "duracao": "4:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Break Me Down",
+     "duracao": "3:56"
+    },
+    {
+     "n": 12,
+     "titulo": "White Knuckles",
+     "duracao": "4:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Wayward One",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.8,
+    "fontes": 6
+   },
+   "publico": 9.1,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blackbird_%28Alter_Bridge_album%29",
+   "resumo_en": "Blackbird is the second studio album by American rock band Alter Bridge, released on October 5, 2007. The first single, \"Rise Today\", was released on July 30, 2007. The album peaked at number 13 on the Billboard 200, selling 47,000 copies in its first week on the charts. As of December 2008, Blackbird has sold 227,000 copies. Despite receiving poor marketing and generally low mainstream success, initial critical reception towards the album was mostly positive, with music critics praising the songwriting and musicianship. The album was certified Gold by the British Phonographic Industry."
+  },
+  {
+   "id": "86bdae66-86c6-44cc-8651-27fe3f924160",
+   "titulo": "AB III",
+   "data": "2010-10-08",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/7fad3fc1-ff57-4df8-8a33-c32fae9a580f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slip to the Void",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Isolation",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Ghost of Days Gone By",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "All Hope Is Gone",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Still Remains",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Make It Right",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Wonderful Life",
+     "duracao": "5:19"
+    },
+    {
+     "n": 8,
+     "titulo": "I Know It Hurts",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Show Me a Sign",
+     "duracao": "5:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Fallout",
+     "duracao": "4:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Breathe Again",
+     "duracao": "4:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Coeur D'Alene",
+     "duracao": "4:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Life Must Go On",
+     "duracao": "4:32"
+    },
+    {
+     "n": 14,
+     "titulo": "Words Darker Than Their Wings",
+     "duracao": "5:21"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.9,
+    "fontes": 9
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/AB_III",
+   "resumo_en": "AB III is the third studio album by American rock band Alter Bridge, released on October 8, 2010. Produced by Michael Baskette, the album is a departure from the band's first two albums; lyrically, it is a loose concept album dealing with darker lyrical themes of struggling with faith, while musically, the album's sound is more dynamic and progressive than previous recordings. AB III is also the first Alter Bridge album to be released on Roadrunner Records, making it the band's third consecutive album to be released on a different label. The album was released on Roadrunner Records worldwide except North America, where it was self-released on Alter Bridge Recordings via Capitol Records.\nThe first single off the album, \"Isolation\", is the band's most successful single to date and was released on September 26, 2010, in the United Kingdom and November 9, 2010, in the United States. AB III received acclaim from music critics; for example, Artistdirect called it a \"masterpiece\". The album was certified Silver by the British Phonographic Industry, the same certification as Alter Bridge's 2007 album Blackbird."
+  },
+  {
+   "id": "d49ad853-5ca1-4cbb-a6b9-90f358239829",
+   "titulo": "Fortress",
+   "data": "2013-09-25",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/75f44d76-a304-46c2-8dab-9d5912ab7dc4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cry of Achilles",
+     "duracao": "6:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Addicted to Pain",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Bleed It Dry",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Lover",
+     "duracao": "5:17"
+    },
+    {
+     "n": 5,
+     "titulo": "The Uninvited",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Peace Is Broken",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Calm the Fire",
+     "duracao": "6:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Waters Rising",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Farther Than the Sun",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Cry a River",
+     "duracao": "4:01"
+    },
+    {
+     "n": 11,
+     "titulo": "All Ends Well",
+     "duracao": "5:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Fortress",
+     "duracao": "7:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Zero",
+     "duracao": "4:39"
+    },
+    {
+     "n": 14,
+     "titulo": "Home",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 81,
+    "media": 8.3,
+    "fontes": 10
+   },
+   "publico": 9.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fortress_%28Alter_Bridge_album%29",
+   "resumo_en": "Fortress is the fourth studio album by American rock band Alter Bridge, released by Roadrunner Records on September 25, 2013. Michael Baskette, who produced Alter Bridge's previous two albums, Blackbird (2007) and AB III (2010), returned as the producer. It was their only album since their debut, One Day Remains, not to be released in October, until their self-titled eighth album came out in January 2026. The lead single, \"Addicted to Pain\", was released on August 12, 2013. The album was widely acclaimed, with several critics calling it the band's best album to date and giving praise to each of the band members' musical skills displayed on the record."
+  },
+  {
+   "id": "03b56aa5-cbae-4b93-ae79-082d1110ebe3",
+   "titulo": "The Last Hero",
+   "data": "2016-10-07",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/625a3c7e-3a5a-4d07-a8e6-04007c33eb61/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Show Me a Leader",
+     "duracao": "5:05"
+    },
+    {
+     "n": 2,
+     "titulo": "The Writing on the Wall",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "The Other Side",
+     "duracao": "5:54"
+    },
+    {
+     "n": 4,
+     "titulo": "My Champion",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Poison in Your Veins",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Cradle to the Grave",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Losing Patience",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "This Side of Fate",
+     "duracao": "6:47"
+    },
+    {
+     "n": 9,
+     "titulo": "You Will Be Remembered",
+     "duracao": "4:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Crows on a Wire",
+     "duracao": "4:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Twilight",
+     "duracao": "4:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Island of Fools",
+     "duracao": "5:00"
+    },
+    {
+     "n": 13,
+     "titulo": "The Last Hero",
+     "duracao": "6:42"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 74,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Hero_%28album%29",
+   "resumo_en": "The Last Hero is the fifth studio album by American rock band Alter Bridge, released on October 7, 2016, by Napalm Records worldwide except in North America, where it was released on the band's own vanity label. It was produced by longtime collaborator Michael \"Elvis\" Baskette. The album's first single, \"Show Me a Leader\", was released digitally and to rock radio on July 26, 2016. On September 8, 2016, \"My Champion\" was released as the album's second single. Two more songs, \"Poison In Your Veins\" and \"The Other Side\", were released on September 23 and September 30, 2016, respectively. Additionally, a music video for \"Cradle to the Grave\" was released on June 23, 2017. “The Other Side” was used as the entrance music for WWE stable The Judgment Day until the company's deal with the band expired in December 2024.\nAt a length of 66 minutes and 12 seconds, The Last Hero is Alter Bridge's longest studio album to date."
+  },
+  {
+   "id": "2d0bf0b1-b1c9-4163-ae4e-830d2395aaf9",
+   "titulo": "Walk the Sky",
+   "data": "2019-10-18",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/f4384c3b-87e3-40ab-9852-e8c9042b16ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Life",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Wouldn't You Rather",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "In the Deep",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Godspeed",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Native Son",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Take the Crown",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Indoctrination",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Bitter End",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Pay No Mind",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Forever Falling",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Clear Horizon",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Walking on the Sky",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Tear Us Apart",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Dying Light",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Walk_the_Sky",
+   "resumo_en": ""
+  },
+  {
+   "id": "2771aac5-f732-4e3f-9c7b-58ca00281895",
+   "titulo": "Pawns & Kings",
+   "data": "2022-10-14",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/12bb6a2c-9b78-4a14-9381-5e840b5902d9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Is War",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Dead Among the Living",
+     "duracao": "4:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Silver Tongue",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Sin After Sin",
+     "duracao": "6:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Stay",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Holiday",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Fable of the Silent Son",
+     "duracao": "8:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Season of Promise",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Last Man Standing",
+     "duracao": "5:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Pawns & Kings",
+     "duracao": "6:18"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 82,
+    "media": 8.4,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pawns_%26_Kings",
+   "resumo_en": "Pawns & Kings is the seventh studio album by American rock band Alter Bridge. It is the follow-up to 2019's Walk the Sky. It was released on October 14, 2022, via Napalm Records. It was ranked as the second best guitar album of 2022 by Guitar World readers, who also ranked the solo of the title track as the 5th best guitar solo of 2022."
+  },
+  {
+   "id": "78cd8235-38b0-497e-afbc-f49fcd2383d1",
+   "titulo": "Alter Bridge",
+   "data": "2026-01-09",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/a5f4ed60-623f-4070-add3-d68c016fbcf2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silent Divide",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Rue the Day",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Power Down",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Trust in Me",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Disregarded",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Tested and Able",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "What Lies Within",
+     "duracao": "5:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Hang by a Thread",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Scales Are Falling",
+     "duracao": "5:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Playing Aces",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "What Are You Waiting For",
+     "duracao": "4:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Slave to Master",
+     "duracao": "9:03"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "media": 8.6,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alter_Bridge_%28album%29",
+   "resumo_en": "Alter Bridge is the eighth studio album by American rock band Alter Bridge. It is the follow-up to 2022's Pawns & Kings. It was released on January 9, 2026, via Napalm Records."
+  }
+ ]
+}

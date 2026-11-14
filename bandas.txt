@@ -1,0 +1,452 @@
+# Bandas do catálogo. Uma por linha: Nome | dica opcional para desambiguar (país ou estilo).
+# As seções viram o campo "cena" de cada banda. Para incluir uma banda, acrescente uma linha e rode
+# python scripts/montar_catalogo.py
+
+[Grunge]
+Nirvana
+Pearl Jam
+Soundgarden
+Alice in Chains
+Stone Temple Pilots
+Mudhoney
+Screaming Trees
+Mother Love Bone
+Temple of the Dog
+Melvins
+Green River
+Hole | US alternative rock band Courtney Love
+L7
+Mad Season
+Tad | Seattle
+Silverchair
+Bush | British rock band Gavin Rossdale
+Candlebox
+Babes in Toyland
+Love Battery
+
+[Pós-grunge]
+Foo Fighters
+Audioslave
+Velvet Revolver
+Creed
+Live | US rock band York Pennsylvania
+Collective Soul
+Seether
+Puddle of Mudd
+3 Doors Down
+Nickelback
+Days of the New
+Our Lady Peace
+Matchbox Twenty
+Fuel | US rock band
+Staind
+Alter Bridge
+
+[Heavy metal clássico e NWOBHM]
+Black Sabbath
+Judas Priest
+Iron Maiden
+Motörhead
+Dio
+Ozzy Osbourne
+Saxon
+Diamond Head
+Angel Witch
+Venom
+Def Leppard
+Accept
+Scorpions
+Rainbow
+Manowar
+Mercyful Fate
+King Diamond
+W.A.S.P.
+Twisted Sister
+Queensrÿche
+Savatage
+Helloween
+Blind Guardian
+Iced Earth
+
+[Thrash metal]
+Metallica
+Megadeth
+Slayer
+Anthrax
+Testament
+Exodus
+Overkill
+Kreator
+Sodom
+Destruction
+Annihilator
+Death Angel
+Sepultura
+Korzus
+
+[Groove, death e além]
+Pantera
+Machine Head
+Lamb of God
+Down | US metal band Phil Anselmo
+Corrosion of Conformity
+Death | US death metal band Chuck Schuldiner
+Morbid Angel
+Cannibal Corpse
+Obituary
+Krisiun
+Opeth
+Gojira
+Mastodon
+Tool
+Type O Negative
+Candlemass
+Trouble | US doom metal
+Saint Vitus
+Kyuss
+Queens of the Stone Age
+Clutch
+Fear Factory
+Ministry
+White Zombie
+Rob Zombie
+Dream Theater
+Angra
+Shaman | Brazilian power metal
+Viper | Brazilian heavy metal
+
+[Hard rock]
+Led Zeppelin
+Deep Purple
+AC/DC
+Aerosmith
+Van Halen
+Guns N' Roses
+Kiss | US hard rock band
+Thin Lizzy
+UFO | British rock band
+Whitesnake
+Uriah Heep
+Free | British rock band Paul Rodgers
+Bad Company
+Alice Cooper
+Blue Öyster Cult
+Grand Funk Railroad
+Montrose
+Rush
+Mötley Crüe
+Ratt
+Skid Row | US hard rock band
+Cinderella | US hard rock band
+Tesla | US hard rock band
+Extreme | US rock band
+Mr. Big | US rock band
+Bon Jovi
+Poison | US glam metal band
+The Cult
+The Darkness
+Airbourne
+Rival Sons
+Greta Van Fleet
+Wolfmother
+Buckcherry
+
+[Nu metal e correlatos]
+Korn
+Limp Bizkit
+Linkin Park
+System of a Down
+Deftones
+Slipknot
+Disturbed
+Papa Roach
+P.O.D.
+Godsmack
+Mudvayne
+Incubus | US rock band
+Rage Against the Machine
+Static-X
+Sevendust
+Coal Chamber
+Drowning Pool
+Chevelle
+Breaking Benjamin
+Three Days Grace
+Evanescence
+Ill Niño
+Soulfly
+Taproot
+Stone Sour
+Faith No More
+Primus
+Five Finger Death Punch
+Avenged Sevenfold
+Bullet for My Valentine
+Trivium
+Killswitch Engage
+Spineshank
+Mushroomhead
+
+[Clássicos do rock]
+The Beatles
+The Rolling Stones
+The Who
+Pink Floyd
+The Doors
+Queen
+The Jimi Hendrix Experience
+Cream
+Creedence Clearwater Revival
+Lynyrd Skynyrd
+ZZ Top
+Eagles
+Dire Straits
+The Clash
+Ramones
+Sex Pistols
+The Stooges
+Red Hot Chili Peppers
+Pixies
+Sonic Youth
+The Smashing Pumpkins
+Jane's Addiction
+Radiohead
+R.E.M.
+U2
+
+[Rock brasileiro]
+Os Mutantes
+Raul Seixas
+Titãs
+Legião Urbana
+Barão Vermelho
+Ira!
+Ultraje a Rigor
+Raimundos
+Charlie Brown Jr.
+Ratos de Porão
+Dorsal Atlântica
+Matanza
+Nação Zumbi
+Planet Hemp
+O Rappa
+Pitty
+CPM 22
+Golpe de Estado
+Made in Brazil
+Casa das Máquinas
+
+[Descobertas do acervo]
+# Garimpadas num acervo de blog de rock e filtradas pela Wikidata (gênero da família do rock e do metal).
+Bob Dylan | rock music
+David Bowie | rock music
+Frank Zappa | rock music
+Janis Joplin | psychedelic rock
+Eric Clapton | rock music
+Alanis Morissette | alternative rock
+Roger Waters | progressive rock
+Neil Young | grunge
+Lou Reed | rock music
+Patti Smith | rock music
+David Gilmour | rock music
+The Velvet Underground | art rock
+Robert Plant | hard rock
+Peter Gabriel | rock music
+The Cure | alternative rock
+Iggy Pop | rock music
+Joy Division | post-punk
+Genesis | progressive rock
+Fleetwood Mac | rock music
+Slash | hard rock
+Yes | progressive rock
+The Kinks | rock music
+Stevie Ray Vaughan | blues rock
+Blondie | rock music
+Jeff Beck | rock music
+The Smiths | post-punk
+Jefferson Airplane | rock music
+Joan Jett | rock music
+Mike Oldfield | progressive rock
+Jethro Tull | progressive rock
+King Crimson | progressive rock
+Grateful Dead | rock music
+The Animals | blues rock
+New Order | post-punk
+Siouxsie & The Banshees | post-punk
+INXS | alternative rock
+Status Quo | rock music
+The Monkees | rock music
+The Allman Brothers Band | hard rock
+Emerson Lake & Palmer | progressive rock
+Dead Kennedys | hardcore punk
+Santana | Latin rock
+The Byrds | folk rock
+Napalm Death | death metal
+The Verve | alternative rock
+The Stone Roses | alternative rock
+Roxy Music | art rock
+Bauhaus | gothic rock
+Slade | hard rock
+Porcupine Tree | progressive rock
+The Band | rock music
+Rita Lee | rock music
+Echo & The Bunnymen | post-punk
+Nazareth | hard rock
+Cocteau Twins | gothic rock
+Steppenwolf | blues rock
+Buffalo Springfield | folk rock
+The Alan Parsons Project | progressive rock
+Johnny Winter | blues rock
+Heart | rock music
+Canned Heat | blues rock
+The Hollies | rock music
+Traffic | progressive rock
+The Jesus And Mary Chain | alternative rock
+The Jam | new wave
+Ted Nugent | hard rock
+New York Dolls | hard rock
+Crass | hardcore punk
+America | folk rock
+Derek and The Dominos | blues rock
+Camel | progressive rock
+The Damned | gothic rock
+Sweet | glam rock
+Iron Butterfly | psychedelic rock
+Van Der Graaf Generator | progressive rock
+The Zombies | psychedelic rock
+Sly & The Family Stone | rock music
+Mott The Hoople | glam rock
+Midnight Oil | alternative rock
+Gentle Giant | progressive rock
+The Doobie Brothers | rock music
+Television | art rock
+The Exploited | hardcore punk
+Hawkwind | progressive rock
+Blind Faith | blues rock
+Wishbone Ash | hard rock
+Mountain | hard rock
+Wire | art punk
+Voivod | progressive metal
+The Stranglers | new wave
+The Runaways | hard rock
+Public Image Ltd | alternative rock
+The Guess Who | blues rock
+The Black Crowes | hard rock
+ELF | blues rock
+Caravan | progressive rock
+Ten Years After | blues rock
+Krokus | hard rock
+Girlschool | heavy metal music
+Blue Cheer | hard rock
+The Undertones | rock music
+The Nice | rock music
+Running Wild | heavy metal music
+Manfred Mann | rock and roll
+Stray Cats | rockabilly
+Premiata Forneria Marconi | progressive rock
+Eloy | progressive rock
+Discharge | hardcore punk
+Cabaret Voltaire | experimental rock
+Big Brother And The Holding Company | hard rock
+Ash Ra Tempel | Krautrock
+The Spencer Davis Group | rock music
+Renaissance | progressive rock
+Quicksilver Messenger Service | psychedelic rock
+Humble Pie | hard rock
+Budgie | hard rock
+Vanilla Fudge | hard rock
+Atomic Rooster | progressive rock
+X Ray Spex | new wave
+Foghat | hard rock
+The Modern Lovers | proto-punk
+Raven | speed metal
+Moby Grape | psychedelic rock
+Cactus | hard rock
+Brujeria | death metal
+Witchfinder General | heavy metal music
+Tygers Of Pan Tang | heavy metal music
+Dr. Feelgood | pub rock
+The Mission | gothic rock
+The Adicts | hardcore punk
+Nektar | progressive rock
+Great White | hard rock
+Gov't Mule | Southern rock
+Exciter | speed metal
+Captain Beyond | progressive rock
+Riot | speed metal
+Nashville Pussy | hard rock
+Lucifer's Friend | progressive rock
+It's A Beautiful Day | psychedelic rock
+Alien Sex Fiend | gothic rock
+Cowboy Junkies | alternative rock
+The Youngbloods | folk rock
+The Only Ones | new wave
+The Fabulous Thunderbirds | blues rock
+The Amboy Dukes | psychedelic rock
+Savoy Brown | psychedelic rock
+Triumvirat | progressive rock
+The Tubes | hard rock
+The Blasters | rockabilly
+The 101ers | pub rock
+Los Saicos | garage rock
+Greenslade | progressive rock
+Black Oak Arkansas | Southern rock
+Barricada | hard rock
+Baron Rojo | hard rock
+The Lords Of The New Church | new wave
+The Fugs | rock music
+Concrete Blonde | alternative rock
+Sir Lord Baltimore | hard rock
+Rockpile | rock music
+The Varukers | hardcore punk
+The Shadows Of Knight | garage rock
+Pato Fu | alternative rock
+Novos Baianos | psychedelic rock
+The Rods | traditional heavy metal
+Pacific Gas & Electric | blues rock
+Green On Red | alternative rock
+Flower Travellin' Band | progressive rock
+Engenheiros do Hawaii | alternative rock
+Unseen Terror | extreme metal
+Lone Justice | country rock
+Kid Abelha | new wave
+Eddie and The Hot Rods | new wave
+Anti Pasti | hardcore punk
+Angeles Del Infierno | heavy metal music
+Widowmaker | hard rock
+V8 | heavy metal music
+Pescado Rabioso | folk rock
+Capital Inicial | alternative rock
+Vox Dei | doom metal
+The Godfathers | alternative rock
+Stress | speed metal
+La Maquina de Hacer Pajaros | progressive rock
+El Mato A Un Policia Motorizado | indie rock
+Bacamarte | progressive rock
+Ave Sangria | rock music
+Violeta de Outono | space rock
+Vardis | hard rock
+The Undead | hardcore punk
+The New Yardbirds | blues rock
+Renato e Seus Blue Caps | rock and roll
+Plebe Rude | alternative rock
+Crucis | progressive rock
+Billy Bond | blues rock
+Tutti Frutti | rock and roll
+The Red Devils | blues rock
+The Inmates | garage rock
+Os Vips | rock and roll
+Olho Seco | hardcore punk
+Joelho de Porco | comedy rock
+Aeroblus | rock music
+A Bolha | rock music
+Volkana | thrash metal
+Mukeka di Rato | hardcore punk
+Josefus | psychedelic rock
+JPT Scare Band | hard rock
+Blonde On Blonde | psychedelic rock
+Anthares | speed metal
+A Chave do Sol | hard rock
+A Barca do Sol | progressive rock
+Ave de Veludo | blues rock
+Analfabitles | garage rock

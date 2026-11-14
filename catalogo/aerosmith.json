@@ -1,0 +1,1163 @@
+{
+ "id": "aerosmith",
+ "nome": "Aerosmith",
+ "cena": "Hard rock",
+ "mbid": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+ "wikidata": "Q126826",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1970",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "blues rock",
+  "rock",
+  "classic rock",
+  "glam metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Aerosmith_member.png/500px-Aerosmith_member.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Aerosmith",
+ "resumo_pt": "Aerosmith é uma banda norte-americana de rock, formada em Boston em 1970. O grupo é composto por Steven Tyler (vocal), Joe Perry (guitarra), Tom Hamilton (baixo), Joey Kramer (bateria) e Brad Whitford (guitarra). Seu estilo, que tem raízes no hard rock baseado no blues, também incorporou elementos como pop rock heavy metal, glam metal, e rhythm and blues, e inspirou muitos artistas de rock subsequentes. O Aerosmith é às vezes chamado de \"The Bad Boys from Boston\" e \"America's Greatest Rock and Roll Band\" A principal equipe de compositores de Tyler e Perry é às vezes chamada de \"Toxic Twins\".\nPerry e Hamilton estavam originalmente em uma banda juntos, a Jam Band, onde se encontraram com Tyler, Kramer, o guitarrista Ray Tabano e formaram o Aerosmith; em 1971, Tabano foi substituído por Whitford. Eles lançaram uma série de álbuns multi-platna começando com sua estreia homônima em 1973, seguido um ano depois por Get Your Wings. A banda entrou no mainstream com seus dois álbuns seguintes, Toys in the Attic (1975) e Rocks (1976). Draw the Line e Night in the Ruts seguiram em 1977 e 1979, respectivamente. Ao longo da década de 1970, a banda fez uma extensa turnê e alcançou uma dúzia de singles na Hot 100, incluindo seu primeiro hit no Top 40, \"Sweet Emotion\" e os hits no Top 10 \"Dream On\" e \"Walk This Way\". No final da década, eles estavam entre as bandas de hard rock mais populares do mundo e desenvolveram uma legião de fãs, muitas vezes chamados de \"Blue Army\". O vício em drogas e",
+ "resumo_en": "Aerosmith is an American rock band formed in Boston in 1970. The group consists of lead vocalist Steven Tyler, bassist Tom Hamilton, drummer Joey Kramer, and guitarists Joe Perry and Brad Whitford. Their style, which is rooted in blues-based hard rock, has also incorporated elements of pop rock, heavy metal, glam metal, and rhythm and blues, and has inspired many subsequent rock artists. Aerosmith is sometimes referred to as \"the Bad Boys from Boston\" and \"America's Greatest Rock and Roll Band\". The primary songwriting team of Tyler and Perry is sometimes referred to as the \"Toxic Twins\".\nPerry and Hamilton were originally in a band together, the Jam Band, where they met up with Tyler, Kramer, guitarist Ray Tabano, and formed Aerosmith; in 1971, Tabano was replaced by Whitford. They released a string of multi-platinum albums starting with their eponymous debut in 1973, followed a year later by Get Your Wings. The band broke into the mainstream with their next two albums, Toys in the Attic (1975) and Rocks (1976). Draw the Line and Night in the Ruts followed in 1977 and 1979, respectively. Throughout the 1970s, the band toured extensively and charted a dozen Hot 100 singles, including their first Top 40 hit \"Sweet Emotion\" and the Top 10 hits \"Dream On\" and \"Walk This Way\". By the end of the decade, they were among the most popular hard rock bands in the world and developed a following of fans, often referred to as the \"Blue Army\". Drug addiction and internal conflict led to t",
+ "albuns": [
+  {
+   "id": "8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da",
+   "titulo": "Aerosmith",
+   "data": "1973-01-05",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/3df8bcad-e016-4786-b071-2c638fd208f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Make It",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Somebody",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Dream On",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "One Way Street",
+     "duracao": "7:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Mama Kin",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Write Me",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Movin' Out",
+     "duracao": "5:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Walkin' the Dog",
+     "duracao": "3:13"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.4,
+    "fontes": 5
+   },
+   "publico": 8.1,
+   "publico_votos": 19,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aerosmith_%28album%29",
+   "resumo_en": "Aerosmith (sometimes erroneously referred to as Make It after the album's first track) is the debut studio album by the American rock band Aerosmith, released on January 5, 1973, by Columbia Records. \"Dream On\", originally released as a single in 1973, became an American top ten hit when re-released on December 27, 1975. The album peaked at number 21 on the US Billboard 200 album chart in 1976."
+  },
+  {
+   "id": "29346fb6-69c8-3f12-90c3-9d6cbce18259",
+   "titulo": "Get Your Wings",
+   "data": "1974-03-01",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/3e3e882f-387a-4da2-8f73-e76ea31bef7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Same Old Song and Dance",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Lord of the Thighs",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Spaced",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Woman of the World",
+     "duracao": "5:51"
+    },
+    {
+     "n": 5,
+     "titulo": "S.O.S. (Too Bad)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Train Kept A Rollin’",
+     "duracao": "6:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Seasons of Wither",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Pandora’s Box",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 6
+   },
+   "publico": 7.1,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Get_Your_Wings",
+   "resumo_en": "Get Your Wings is the second studio album by American rock band Aerosmith, released on March 15, 1974. The album was their first to be produced by Jack Douglas, who also was responsible for the band's next three albums. Three singles were released from the album, but none reached the singles charts.\nThe album has been released in stereo and quadraphonic, and certified triple platinum by the RIAA."
+  },
+  {
+   "id": "d03bb6b1-d7b4-38ea-974e-847cbb31dca4",
+   "titulo": "Toys in the Attic",
+   "data": "1975-04-08",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/25a7c583-e82c-4306-a7f0-ee53cd66b837/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Toys in the Attic",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Uncle Salty",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Adam’s Apple",
+     "duracao": "4:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Walk This Way",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Ten Inch Record",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Sweet Emotion",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "No More No More",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Round and Round",
+     "duracao": "5:02"
+    },
+    {
+     "n": 9,
+     "titulo": "You See Me Crying",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 6
+   },
+   "publico": 8.2,
+   "publico_votos": 23,
+   "wikipedia": "https://en.wikipedia.org/wiki/Toys_in_the_Attic_%28album%29",
+   "resumo_en": "Toys in the Attic is the third studio album by American rock band Aerosmith, released on April 8, 1975, by Columbia Records. Its first single, \"Sweet Emotion\", was released on May 19 and the original version of \"Walk This Way\" followed on August 28 in the same year. The album is the band's most commercially successful studio LP in the United States, with nine million copies sold, according to the RIAA. In 2003, the album was ranked No. 228 on Rolling Stone's list of The 500 Greatest Albums of All Time. The album's title track and their 1986 collaboration with Run-DMC on a cover version of \"Walk This Way\" are included on the Rock and Roll Hall of Fame list of the \"500 Songs that Shaped Rock and Roll\"."
+  },
+  {
+   "id": "775d9a2d-effc-35c8-b80a-f9a4e4206d27",
+   "titulo": "Rocks",
+   "data": "1976-05-03",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/1e6f001d-bc26-48cb-b091-2f311799d135/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Back in the Saddle",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Last Child",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Rats in the Cellar",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Combination",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Sick as a Dog",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Nobody’s Fault",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Get the Lead Out",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Lick and Promise",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Home Tonight",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.5,
+    "fontes": 6
+   },
+   "publico": 7.4,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rocks_%28Aerosmith_album%29",
+   "resumo_en": "Rocks is the fourth studio album by American rock band Aerosmith, released on May 13, 1976, through Columbia.\nAllMusic described Rocks as having \"captured Aerosmith at their most raw and rocking.\" Rocks was ranked number 366 on the updated Rolling Stone's list of the 500 Greatest Albums of All Time in 2020. It has influenced many hard rock and heavy metal artists, including Guns N' Roses, Metallica, and Nirvana.\nThe album was a commercial success, charting three singles on the Billboard Hot 100, two of which reached the Top 40 (\"Back in the Saddle\" and \"Last Child\").\nThe album was one of the first to ship platinum when it was released, and has since gone quadruple platinum."
+  },
+  {
+   "id": "8c064b13-6668-3d6c-a508-1e5d671a207d",
+   "titulo": "Draw the Line",
+   "data": "1977-12-01",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/58cfaa7f-37e4-4e27-9a61-4a2cccfd1417/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Draw the Line",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "I Wanna Know Why",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Critical Mass",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Get It Up",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Bright Light Fright",
+     "duracao": "2:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Kings and Queens",
+     "duracao": "4:55"
+    },
+    {
+     "n": 7,
+     "titulo": "The Hand That Feeds",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Sight for Sore Eyes",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Milk Cow Blues",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.2,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Draw_the_Line_%28Aerosmith_album%29",
+   "resumo_en": "Draw the Line is the fifth studio album by American hard rock band Aerosmith, released on December 9, 1977. It was recorded between June–October in an abandoned convent near New York City. The portrait of the band on the album cover was drawn by the celebrity caricaturist Al Hirschfeld."
+  },
+  {
+   "id": "5aad45b5-1b5c-3764-9386-dd3efcc6a16d",
+   "titulo": "Night in the Ruts",
+   "data": "1979-11-16",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/a88263a6-21e3-4552-b409-0ab405613f72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Surprize",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Chiquita",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Remember (Walking in the Sand)",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Cheese Cake",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Three Mile Smile",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Reefer Head Woman",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Bone to Bone (Coney Island White Fish Boy)",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Think About It",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Mia",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 6
+   },
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Night_in_the_Ruts",
+   "resumo_en": "Night in the Ruts is the sixth studio album by American rock band Aerosmith, released on November 16, 1979, by Columbia Records. Guitarist Joe Perry left the band midway through the album's recording.\nThe album was initially produced at the band's Wherehouse rehearsal space by Jack Douglas, who'd produced Aerosmith's previous four albums, but later Columbia Records brought in Gary Lyons to replace Douglas as producer."
+  },
+  {
+   "id": "1b1fddf5-4faa-3da6-a36b-b512f3e92046",
+   "titulo": "Rock in a Hard Place",
+   "data": "1982-08-27",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/55ee55b4-a220-4ed4-acfa-b650f7bd461e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jailbait",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Lightning Strikes",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Bitch’s Brew",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Bolivian Ragamuffin",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Cry Me a River",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Prelude to Joanie",
+     "duracao": "1:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Joanie’s Butterfly",
+     "duracao": "5:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Rock in a Hard Place (Cheshire Cat)",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Jig Is Up",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Push Comes to Shove",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 5.0,
+    "fontes": 8
+   },
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_in_a_Hard_Place",
+   "resumo_en": "Rock in a Hard Place is the seventh studio album by American hard rock band Aerosmith, released on August 27, 1982, by Columbia Records. It was certified gold on November 10, 1989. It is the only Aerosmith album not to feature guitarist Joe Perry, following his departure from the band in 1979. Fellow guitarist Brad Whitford also left during the recording in 1981. The band spent $1.5 million on the recording of this album, which saw them reunited with producer Jack Douglas."
+  },
+  {
+   "id": "c4e9623e-19c6-34ab-8fce-4e8a4f4d3f76",
+   "titulo": "Done With Mirrors",
+   "data": "1985-11-09",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/15e51538-8911-4f22-9646-c719bbf3ec51/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let the Music Do the Talking",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "My Fist Your Face",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Shame on You",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "The Reason a Dog",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Shela",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Gypsy Boots",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "She’s on Fire",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "The Hop",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.8,
+    "fontes": 6
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Done_with_Mirrors",
+   "resumo_en": "Done with Mirrors is the eighth studio album by American rock band Aerosmith, released on November 4, 1985. It marked the return to the band of guitarists Joe Perry, who left in 1979 and Brad Whitford, who departed in 1981. The band's first album on Geffen Records, it was intended as their ‘comeback’. However, the record failed to live up to commercial expectations despite positive reviews."
+  },
+  {
+   "id": "c522e905-3986-3f09-89f3-5d8bb09cc93e",
+   "titulo": "Permanent Vacation",
+   "data": "1987-03-25",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/7c8dcb57-53c9-4510-b6f1-e219eac56951/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heart’s Done Time",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Magic Touch",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Rag Doll",
+     "duracao": "4:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Simoriah",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Dude (Looks Like a Lady)",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "St. John",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Hangman Jury",
+     "duracao": "5:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Girl Keeps Coming Apart",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Angel",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Permanent Vacation",
+     "duracao": "4:48"
+    },
+    {
+     "n": 11,
+     "titulo": "I’m Down",
+     "duracao": "2:19"
+    },
+    {
+     "n": 12,
+     "titulo": "The Movie",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 5
+   },
+   "publico": 8.5,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/Permanent_Vacation_%28Aerosmith_album%29",
+   "resumo_en": "Permanent Vacation is the ninth studio album by American rock band Aerosmith, released by Geffen Records on August 25, 1987. The album marks the band's shift to a pop-metal sound that they would maintain up to 1993's Get a Grip.\nProduction recruited songwriters outside the band, who had written commercial hits for Bon Jovi, Heart and Starship. This came at the suggestion of executive John Kalodner. He also pushed the band to work with producer Bruce Fairbairn, who remained with them for another two albums. It was also the first Aerosmith album to be promoted by heavy music video airplay on MTV. Though Done with Mirrors was intended to mark Aerosmith's comeback, Permanent Vacation is often considered their true comeback, as it was the band's first truly popular album since their reunion. \"Rag Doll\", \"Dude (Looks Like a Lady)\", and \"Angel\" became major hits (all three charted in the Top 20) and helped Permanent Vacation become the band's biggest success in a decade.\nPermanent Vacation has sold over five million copies in the U.S. In the UK, it was the first Aerosmith album to attain both Silver (60,000 units sold) and Gold (100,000 units sold) certification by the British Phonographi"
+  },
+  {
+   "id": "8f174877-ffc4-39b9-b247-a39fff4097a1",
+   "titulo": "Pump",
+   "data": "1989-09-12",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/1d288a41-0b02-4d59-943e-1870c6308ea1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Young Lust",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "F.I.N.E.",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Going Down / Love in an Elevator",
+     "duracao": "5:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Monkey on My Back",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Water Song / Janie’s Got a Gun",
+     "duracao": "5:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Dulcimer Stomp / The Other Side",
+     "duracao": "4:56"
+    },
+    {
+     "n": 7,
+     "titulo": "My Girl",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Get Mad, Get Even",
+     "duracao": "4:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Hoodoo / Voodoo Medicine Man",
+     "duracao": "4:39"
+    },
+    {
+     "n": 10,
+     "titulo": "What It Takes",
+     "duracao": "6:31"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 8.1,
+   "publico_votos": 21,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pump_%28album%29",
+   "resumo_en": "Pump is the tenth album by the American rock band Aerosmith. It was released on September 12, 1989, by Geffen Records. The album peaked at No. 5 on the US charts, and was certified 7x Platinum by the RIAA in 1995.\nThe album contains the hit singles \"Love in an Elevator\", \"The Other Side\", \"What It Takes\", \"Janie's Got a Gun\", which all entered the Top 40 of the Hot 100. It also has certified sales of seven million copies in the U.S. to date, and is tied with its successor Get a Grip as Aerosmith's second best-selling studio album in the U.S. (Toys in the Attic leads with nine million). It produced a variety of successes and \"firsts\" for the band including their first Grammy Award (\"Janie's Got a Gun\"). \"Love in an Elevator\" became the first Aerosmith song to hit number one on the Mainstream Rock Tracks chart. The album was the fourth best-selling album of the year 1990.\nIn the UK, it was the second Aerosmith album to be certified Silver (60,000 units sold) by the British Phonographic Industry, achieving this in September 1989.\nPump was the second of three sequentially recorded Aerosmith albums to feature producer Bruce Fairbairn and engineers Mike Fraser and Ken Lomas at Little Mou"
+  },
+  {
+   "id": "73c6a7b0-1dc2-3ddc-a720-c29505271711",
+   "titulo": "Get a Grip",
+   "data": "1993-04-20",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/e2fe61d0-5963-4de3-bd82-f397cc00cbf8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "0:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Eat the Rich",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Get a Grip",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Fever",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Livin’ on the Edge",
+     "duracao": "6:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Flesh",
+     "duracao": "5:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Walk on Down",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Shut Up and Dance",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Cryin’",
+     "duracao": "5:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Gotta Love It",
+     "duracao": "5:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Crazy",
+     "duracao": "5:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Line Up",
+     "duracao": "4:02"
+    },
+    {
+     "n": 13,
+     "titulo": "Can’t Stop Messin’",
+     "duracao": "3:32"
+    },
+    {
+     "n": 14,
+     "titulo": "Amazing",
+     "duracao": "5:56"
+    },
+    {
+     "n": 15,
+     "titulo": "Boogie Man",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.4,
+    "fontes": 7
+   },
+   "publico": 7.6,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Get_a_Grip",
+   "resumo_en": "Get a Grip is the eleventh studio album by American rock band Aerosmith, released in April 1993 by Geffen Records. Get a Grip was the band's last studio album to be released by Geffen before they returned to Columbia Records.\nGet a Grip featured guests including Don Henley, who sang backup on \"Amazing\", and Lenny Kravitz, who offered backup vocals and collaboration to \"Line Up\". As on Permanent Vacation and Pump, this album featured numerous song collaborators from outside the band including: Desmond Child, Jim Vallance, Mark Hudson, Richie Supa, Taylor Rhodes, Jack Blades, and Tommy Shaw.\nGet a Grip became Aerosmith's best-selling studio album worldwide, achieving sales of over 20 million copies. The album became the band's first album to reach number one in the United States and tied with Pump for their second best-selling album in the US, selling over 7 million copies as of 1995 (Toys in the Attic leads with nine million). This also made it their third consecutive album with U.S. sales of at least five million. Two songs from the album won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal, in 1993 and 1994. The album was voted Album of the Year by Metal Edge r"
+  },
+  {
+   "id": "7b30dd01-ee8f-392c-862d-4598e46b83f8",
+   "titulo": "Nine Lives",
+   "data": "1997-03-12",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/08a2bf65-5277-3123-bc5e-035adcdf7920/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nine Lives",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Falling in Love (Is Hard on the Knees)",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Hole in My Soul",
+     "duracao": "6:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Taste of India",
+     "duracao": "5:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Full Circle",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Something’s Gotta Give",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain’t That a Bitch",
+     "duracao": "5:25"
+    },
+    {
+     "n": 8,
+     "titulo": "The Farm",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Crash",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Kiss Your Past Good‐Bye",
+     "duracao": "4:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Pink",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Falling Off",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "Attitude Adjustment",
+     "duracao": "3:44"
+    },
+    {
+     "n": 14,
+     "titulo": "Fallen Angels",
+     "duracao": "8:16"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 8
+   },
+   "publico": 7.1,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nine_Lives_%28Aerosmith_album%29",
+   "resumo_en": "Nine Lives is the twelfth studio album by American rock band Aerosmith, released on March 18, 1997. The album was produced by Aerosmith and Kevin Shirley, and was the band's first studio album released by Columbia Records since 1982's Rock in a Hard Place. In the United States, it peaked at number one on the Billboard 200 and sold over two million copies. One of the album's singles, \"Pink\", won a Grammy Award for Best Rock Performance by a Duo or Group with Vocal."
+  },
+  {
+   "id": "2fb275a3-1cd9-33b6-95e4-70fe3f092649",
+   "titulo": "Just Push Play",
+   "data": "2001-03-06",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/1c1181a5-9297-4d91-817e-f855f3db1bfd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beyond Beautiful",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Push Play",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Jaded",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Fly Away From Here",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Trip Hoppin’",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Sunshine",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Under My Skin",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Luv Lies",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Outta Your Head",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Drop Dead Gorgeous",
+     "duracao": "3:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Light Inside",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Avant Garden",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 65,
+    "media": 5.6,
+    "fontes": 8
+   },
+   "publico": 7.6,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Just_Push_Play",
+   "resumo_en": "Just Push Play is the thirteenth studio album by American rock band Aerosmith, co-produced by song collaborators Marti Frederiksen and Mark Hudson and was released on March 5, 2001. Just Push Play debuted at No. 2 within the Billboard 200, selling over 240,000 copies in its first week, and was certified Platinum by the Recording Industry Association of America within a month of its release.\nThe album's first single, \"Jaded\", became a Top 10 hit in the US and around the world. Subsequent singles \"Fly Away from Here\", \"Sunshine\", and \"Just Push Play\", though garnering some airplay, failed to impact the Hot 100, although the latter two reached the US Mainstream Rock chart and the former appeared within the Adult Top 40."
+  },
+  {
+   "id": "65ad56ff-dcef-378c-b172-4a92aedb6958",
+   "titulo": "Honkin’ on Bobo",
+   "data": "2003-03-25",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/bcdc4e8d-943c-4ac8-b1e7-ececfa89857e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Road Runner",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Shame, Shame, Shame",
+     "duracao": "2:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Eyesight to the Blind",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Baby, Please Don’t Go",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Never Loved a Girl",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Back Back Train",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "You Gotta Move",
+     "duracao": "5:30"
+    },
+    {
+     "n": 8,
+     "titulo": "The Grind",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Ready",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Temperature",
+     "duracao": "2:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Stop Messin’ Around",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Jesus Is on the Main Line",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 69,
+    "media": 6.8,
+    "fontes": 7
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Honkin%27_on_Bobo",
+   "resumo_en": "Honkin' on Bobo is the fourteenth studio album by American rock band Aerosmith, released on March 30, 2004, by Columbia Records. The album includes 11 covers of blues and blues rock songs from the 1940s, 1950s and 1960s, with one new song, \"The Grind\". The album pays tribute to Aerosmith's earliest influences and showcases a rawer sound when compared to their more recent commercial efforts. Honkin' on Bobo was produced by Jack Douglas, who was Aerosmith's producer on a vast majority of their 1970s output.\nThe album sold over 160,000 copies in its first week, reaching number five on the Billboard 200. Honkin' on Bobo was certified gold by the Recording Industry Association of America on May 11, 2004."
+  },
+  {
+   "id": "1ffa5a81-67c9-4e39-af6e-fcb4b101ddef",
+   "titulo": "Music From Another Dimension!",
+   "data": "2012-11-01",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/08a36aae-f60a-41b6-bcf1-887cf2b5c444/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "LUV XXX",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Oh Yeah",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Beautiful",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Tell Me",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Out Go the Lights",
+     "duracao": "6:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Legendary Child",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "What Could Have Been Love",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Street Jesus",
+     "duracao": "6:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t Stop Lovin’ You",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Lover Alot",
+     "duracao": "3:35"
+    },
+    {
+     "n": 11,
+     "titulo": "We All Fall Down",
+     "duracao": "5:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Freedom Fighter",
+     "duracao": "3:19"
+    },
+    {
+     "n": 13,
+     "titulo": "Closer",
+     "duracao": "4:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Something",
+     "duracao": "4:37"
+    },
+    {
+     "n": 15,
+     "titulo": "Another Last Goodbye",
+     "duracao": "5:47"
+    },
+    {
+     "n": 16,
+     "titulo": "Up on the Mountain",
+     "duracao": "5:06"
+    },
+    {
+     "n": 17,
+     "titulo": "Oasis in the Night",
+     "duracao": "4:07"
+    },
+    {
+     "n": 18,
+     "titulo": "Sunny Side of Love",
+     "duracao": "3:28"
+    },
+    {
+     "n": 19,
+     "titulo": "Same Old Song and Dance (live)",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Oh Yeah (live)",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Rats in the Cellar (live)",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Train Kept Rollin’ (live)",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "A Conversation With Steven Tyler and Joe Perry",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "Extended Band Interviews",
+     "duracao": null
+    },
+    {
+     "n": 25,
+     "titulo": "Brad’s Studio Photographs",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 81,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 54,
+    "media": 5.9,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Music_from_Another_Dimension%21",
+   "resumo_en": "Music from Another Dimension! is the fifteenth studio album by the American rock band Aerosmith, released on November 6, 2012, by Columbia Records. The album marked their first release since 2004's Honkin' on Bobo, as well as the first to feature all-new material since 2001's Just Push Play. The release marked the longest release gap between the band's previous studio album releases. It additionally also marked the last album in their recording contract with Columbia Records. The record was produced by Jack Douglas, Steven Tyler, Joe Perry, and Marti Frederiksen (three tracks). \nThe album includes the singles \"Legendary Child\", \"Lover Alot\", \"What Could Have Been Love\", and \"Can't Stop Lovin' You\".\nMusic from Another Dimension! debuted at number five on the Billboard 200 selling 63,000 copies its first week, a lower amount than their previous album of original material."
+  }
+ ]
+}

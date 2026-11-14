@@ -1,0 +1,997 @@
+{
+ "id": "collective-soul",
+ "nome": "Collective Soul",
+ "cena": "Pós-grunge",
+ "mbid": "aa266ac7-d919-4132-982e-76cbd95591a7",
+ "wikidata": "Q593366",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1992",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "post-grunge",
+  "hard rock",
+  "alternative pop",
+  "grunge"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Collective_soul.jpg/500px-Collective_soul.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Collective_Soul",
+ "resumo_pt": "Collective Soul é uma banda norte-americana de rock alternativo formada em 1992 em Stockbridge, no estado da Geórgia. Eles alcançaram grande popularidade com seu hit single \"Shine\" do seu álbum Hints Allegations and Things Left Unsaid, lançado em 1993.",
+ "resumo_en": "Collective Soul is an American rock band originally from Stockbridge, Georgia. Now based in Atlanta, the group consists of the brothers Ed (lead vocalist) and Dean Roland (rhythm guitarist), Will Turpin (bassist), Johnny Rabb (drummer), and Jesse Triplett (lead guitarist). Formed in 1992, the original lineup consisted of the Roland brothers, bassist David Neal, guitarist Ross Childress, and drummer Shane Evans. Collective Soul released their Hints Allegations and Things Left Unsaid album on the independent label Rising Storm Records in 1993. The band went from obscurity to popularity that year after the album's lead single \"Shine\" received regional radio play. Around the same time, Turpin replaced Neal on bass. The album was then re-released in 1994 by the major label Atlantic Records; thus, \"Shine\" became a national hit as it peaked at No. 1 on the Mainstream Rock and No. 4 on the Mainstream Top 40 charts.\nCollective Soul released a self-titled album in March 1995. Considered by Ed Roland to be the band's \"true debut album\", Collective Soul spent 76 weeks on the Billboard 200 chart and went triple-platinum, becoming the band's highest-selling album. The singles \"Where the River Flows\", \"December\", and \"The World I Know\" each reached No. 1 on the Mainstream Rock chart, while the latter two singles also reached the top ten of the Hot 100 chart. About two years later, Collective Soul released Disciplined Breakdown. Although not as successful in sales as their previous two album",
+ "albuns": [
+  {
+   "id": "63023d26-86cb-35ae-8a4a-1c69f60cb726",
+   "titulo": "Hints Allegations and Things Left Unsaid",
+   "data": "1993-06-22",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/45ba9a43-ac8e-47cf-bfee-28f6823809c0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shine",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Goodnight, Good Guy",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Wasting Time",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Sister Don't Cry",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Lifted Me",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "In a Moment",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Heaven's Already Here",
+     "duracao": "2:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Pretty Donna",
+     "duracao": "1:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Reach",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Breathe",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Scream",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Burning Bridges",
+     "duracao": "3:38"
+    },
+    {
+     "n": 13,
+     "titulo": "All",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hints_Allegations_and_Things_Left_Unsaid",
+   "resumo_en": "Hints Allegations and Things Left Unsaid is the debut studio album by American rock band Collective Soul. It was originally released on the band's self-owned label called Rising Storm Records in 1993. Collective Soul later signed on with Atlantic Records, and the album was re-released in 1994 under the Atlantic label. The track \"Shine\" gained the band attention thanks to college radio.\nThe cover art is a modified version of an advertising image from the 19th century, with the text on the sign changed."
+  },
+  {
+   "id": "6bf5b68b-525d-3f76-8397-c6db6bf6a072",
+   "titulo": "Collective Soul",
+   "data": "1995-03-14",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/0ea7591c-046f-49fa-96a0-399b485839e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Simple",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Untitled",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "The World I Know",
+     "duracao": "4:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Smashing Young Man",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "December",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Where the River Flows",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Gel",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "She Gathers Rain",
+     "duracao": "4:31"
+    },
+    {
+     "n": 9,
+     "titulo": "When the Water Falls",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Collection of Goods",
+     "duracao": "4:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Bleed",
+     "duracao": "4:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Reunion",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Collective_Soul_%281995_album%29",
+   "resumo_en": "Collective Soul (sometimes referred to as the Blue Album to differentiate it from the second self-titled album) is the second studio album by Collective Soul. It became the band's highest selling album to date, going Triple-Platinum, and spent 76 weeks on the Billboard 200 charts. The singles \"December,\" \"The World I Know\" and \"Where the River Flows\" all reached No. 1 on the Mainstream Rock Tracks chart, while the first two singles also became major pop hits.\nFrontman Ed Roland has considered Collective Soul the band's true debut album; Hints Allegations and Things Left Unsaid was intended more as a promotional demo and a means of acquiring a publishing contract for Roland who in 1995 noted, \"It's so funny for people to compare the two. It's like comparing one band to another band. This record is our first record, flat out.\""
+  },
+  {
+   "id": "5324e486-5590-34ea-bbab-9574f8dd22cf",
+   "titulo": "Disciplined Breakdown",
+   "data": "1997-03-11",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/61f6d252-ac17-4169-a445-c4e1704d736e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Precious Declaration",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Listen",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Maybe",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Full Circle",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Blame",
+     "duracao": "4:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Disciplined Breakdown",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Forgiveness",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Link",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Giving",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "In Between",
+     "duracao": "4:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Crowded Head",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Everything",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.3,
+    "fontes": 4
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Disciplined_Breakdown",
+   "resumo_en": "Disciplined Breakdown is the third studio album by American post-grunge band Collective Soul. It was first released on March 11, 1997. The album was recorded during a difficult time in the band's career, when they were going through a long lawsuit with their former management, and they also recorded the album in a cabin-like studio due to lack of money.\nAlthough not as successful as their first two albums, Disciplined Breakdown did earn Collective Soul a million-selling album (platinum status) in the US, and charted at No. 16 on the top 200 Album Chart. Two songs also charted on the US Billboard Hot 100: \"Precious Declaration\" (US No. 65), also No. 1 on the Mainstream Rock Tracks for four weeks; and \"Listen\" (US No. 72), also No. 1 on the Mainstream Rock Tracks for five weeks.\nIn 1996, Atlantic Records manufactured and released a limited quantity of vinyl versions of the album before the album's full release several months later in 1997. This was done to promote the album's release. It was the first Collective Soul album to have a vinyl release.\nTo coincide the 25th anniversary, a two disc expanded edition from Craft Recordings was released in 2022 which featured bonus tracks plus "
+  },
+  {
+   "id": "76a98803-a3aa-3ccf-8e02-d04948de4714",
+   "titulo": "Dosage",
+   "data": "1999-02-09",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/77de719c-bebb-41ef-a3a5-c8a8374ea5a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tremble for My Beloved",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Heavy",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "No More, No Less",
+     "duracao": "5:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Needs",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Slow",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Dandy Life",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Run",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Generate",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Compliment",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Not the One",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Crown / She Said",
+     "duracao": "10:18"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dosage_%28album%29",
+   "resumo_en": "Dosage is the fourth studio album by the American alternative rock rock band Collective Soul. The album was released on Atlantic Records in February 1999 and peaked at number 21 on the Billboard albums chart. The album's title was derived from a catchphrase they used to describe burnout after their previous tour.\nThe first single from the album, \"Heavy\", gave the band another number-one hit on the Mainstream Rock Tracks chart and spent a then record-breaking 15 weeks on the top spot. \"Heavy\" was also featured in the opening of the video game NHL 2001 and in the 2014 Golden Corral ad. The second single released, \"Run\", also gained broad mainstream radioplay and was featured on the soundtrack for the 1999 film Varsity Blues.\nOver nine years after the album's release, the single \"Tremble for My Beloved\" was featured in the 2008 film Twilight and its accompanying soundtrack.\nIn 2012, the band performed the album in its entirety (save \"Dandy Life\") during their Dosage Tour."
+  },
+  {
+   "id": "9ada8c6a-948e-3d7b-afda-1956c5417383",
+   "titulo": "Blender",
+   "data": "2000-10-10",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/73384cca-1d5c-4376-86b0-723a1926ba79/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Skin",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Vent",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Why, Pt. 2",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "10 Years Later",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Boast",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Turn Around",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "You Speak My Language",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Perfect Day",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "After All",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Over Tokyo",
+     "duracao": "3:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Happiness",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.7,
+    "fontes": 4
+   },
+   "publico": 6.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blender_%28Collective_Soul_album%29",
+   "resumo_en": "Blender is the fifth studio album by the American rock band Collective Soul, released in October 2000. This was their final and least successful album with Atlantic Records, though it did achieve Gold certification. None of its three included singles entered the Billboard charts."
+  },
+  {
+   "id": "b7d2f023-5b6e-342c-a281-d1b610c2674b",
+   "titulo": "Youth",
+   "data": "2004-11-16",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/8c5b3d18-f645-4762-97ad-9ed043e2fac6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Better Now",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "There’s a Way",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Home",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "How Do You Love",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Him",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Feels Like (It Feels Alright)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Perfect to Stay",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Counting the Days",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Under Heaven’s Skies",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "General Attitude",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Satellite",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Youth_%28Collective_Soul_album%29",
+   "resumo_en": "Youth is the sixth studio album by Collective Soul, released in November 2004. The album was the band's first on their own label, EL Music Group, after leaving Atlantic Records following the release of their greatest hits album, Seven Year Itch.  The album contains a more balanced pop-rock sound than their previous albums Dosage and Blender."
+  },
+  {
+   "id": "f2b22bf3-65c2-4822-9645-ee3fc5a8ecaa",
+   "titulo": "Afterwords",
+   "data": "2007-08-27",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/8bbb2a14-13bb-4827-8381-7183c738e787/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "New Vibration",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "What I Can Give You",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Never Here Alone",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Bearing Witness",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "All That I Know",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "I Don’t Need Anymore Friends",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Good Morning After All",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Hollywood",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Persuasion of You",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Georgia Girl",
+     "duracao": "3:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Adored",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Afterwords_%28Collective_Soul_album%29",
+   "resumo_en": "Afterwords is the seventh studio album by Atlanta-based rock band Collective Soul, released on August 28, 2007. The album was released digitally in the iTunes Store and physical copies of the album were available only at Target Stores following an exclusive deal the band made with the chain.  The album was later re-released at all retail locations on December 9, 2008 with three new tracks written by Ed Roland."
+  },
+  {
+   "id": "17480f0d-f2ed-45d4-86df-afac506a702c",
+   "titulo": "See What You Started by Continuing",
+   "data": "2015-10-02",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/6e72d5d8-56eb-40af-a99e-369a98333808/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Hurricane",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Exposed",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Confession",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "AYTA",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Contagious",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Life",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Am I Getting Through",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Memoirs of 2005",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Tradition",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Without Me",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Shine",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Better Now",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "December",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Counting The Days",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "The World I Know",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Hollywood",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Heavy",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "How Do You Love",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "All That I Know",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Run",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.3,
+    "fontes": 7
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/See_What_You_Started_by_Continuing",
+   "resumo_en": "See What You Started by Continuing is the ninth studio album by American rock band Collective Soul. It was released on October 2, 2015, by Vanguard Records.\nThe album represents a return to the classic guitar-driven rock sound that the band were known for during the 1990s. Recording began in 2014, with newcomers Johnny Rabb and Jesse Triplett joining longtime members Ed Roland, Dean Roland and Will Turpin in the studio to create the band's first album since 2009. It became the number-one alternative album for the week of October 24, 2015.\nFour singles have been released from the album: \"This,\" \"AYTA,\" \"Hurricane\", and \"Contagious.\" The band promoted the album through the See What You Started Tour."
+  },
+  {
+   "id": "79fbf9a9-4f13-444d-88d8-966dcced53a0",
+   "titulo": "Blood",
+   "data": "2019-06-21",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/2f7bd9f8-38b6-43de-b0e9-0c43c1f95ef4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Now’s the Time",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Over Me",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Crushed",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Right as Rain",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Them Blues",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Good Place to Start",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Observation of Thoughts",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Changed",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Big Sky",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Porch Swing",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blood_%28Collective_Soul_album%29",
+   "resumo_en": "Blood is the tenth studio album from American rock band Collective Soul.  Released on 21 June 2019, the work was published via Fuzze-Flex Records."
+  },
+  {
+   "id": "f369f6db-dbc8-4df0-aea0-5af8d6d9b8a4",
+   "titulo": "Vibrating",
+   "data": "2022-08-12",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/6edefcb4-b857-4f96-b92a-13f23cb8a6ab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cut the Cord",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Reason",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "All Our Pieces",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Take",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Undone",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Rule No. 1",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "A Conversation With",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Looking Around",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Back Again",
+     "duracao": "5:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Where Do I Go",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vibrating_%28album%29",
+   "resumo_en": "Vibrating is the eleventh studio album by American alternative rock band Collective Soul released in 2022. The album was originally intended to be the second half of a double album with 2019's Blood, but those plans were interrupted by the COVID-19 pandemic."
+  },
+  {
+   "id": "c28ad88d-5a92-4b59-9891-a5f699daa055",
+   "titulo": "Here to Eternity",
+   "data": "2024-05-17",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/429573c8-0d88-4748-907d-2d0119284255/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mother’s Love",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Bluer Than So Blue",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Let It Flow",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Not the Same",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Bob Dylan (Where Are You Today)",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Hey Man",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Kick It",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Matter of Fact",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Sister and Mary",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Be the One",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Keep It on Track",
+     "duracao": "4:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Who Loves",
+     "duracao": "3:53"
+    },
+    {
+     "n": 13,
+     "titulo": "La Dee Da",
+     "duracao": "3:05"
+    },
+    {
+     "n": 14,
+     "titulo": "Bring on the Day",
+     "duracao": "3:04"
+    },
+    {
+     "n": 15,
+     "titulo": "Words Away",
+     "duracao": "3:59"
+    },
+    {
+     "n": 16,
+     "titulo": "No Man’s Land",
+     "duracao": "3:48"
+    },
+    {
+     "n": 17,
+     "titulo": "Letter From E",
+     "duracao": "2:50"
+    },
+    {
+     "n": 18,
+     "titulo": "I Know You, You Know Me",
+     "duracao": "3:43"
+    },
+    {
+     "n": 19,
+     "titulo": "Therapy",
+     "duracao": "3:34"
+    },
+    {
+     "n": 20,
+     "titulo": "Over and Out",
+     "duracao": "3:07"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "58ee32fa-08e3-4807-af00-f728e919d111",
+   "titulo": "Touch and Go",
+   "data": "2026-07-31",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/81509beb-7c8f-4d59-8ea6-1b669f944f9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rainbow",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Eye on You",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Uh Oh",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "All My Days on Thru",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Heavy Load",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Fun",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Again",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Feel",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Shooting for You",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Your Way",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

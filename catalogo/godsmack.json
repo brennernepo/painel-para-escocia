@@ -1,0 +1,703 @@
+{
+ "id": "godsmack",
+ "nome": "Godsmack",
+ "cena": "Nu metal e correlatos",
+ "mbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+ "wikidata": "Q207306",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1995",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "nu metal",
+  "hard rock",
+  "post-grunge",
+  "acoustic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Godsmack.jpg/500px-Godsmack.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Godsmack",
+ "resumo_pt": "Godsmack é uma banda norte-americana de heavy metal que foi formada em 1995 em Lawrence, Massachusetts. A banda é formada pelo vocalista e compositor Sully Erna e pelo baixista Robbie Merrill. Desde a sua formação, Godsmack já lançou oito álbuns de estúdio, um EP, quatro DVDs e uma compilação.\nA banda tem três álbuns consecutivos #1 (Faceless, IV, e The Oracle) na Billboard 200. Ela também possui 18 singles classificados no Top 10 da parada Mainstream Rock. Godsmack é um dos mais populares grupos de heavy metal da década passada nos Estados Unidos, tendo vendido mais de 19 milhões de álbuns em todo o mundo.\nDesde sua criação, Godsmack já fez turnês no Ozzfest em mais de uma ocasião realizando também turnês junto a vários festivais e outros dedicados aos seus álbuns. Também fizeram parte da turnê do Mötley Crüe, Crüe Fest 2.",
+ "resumo_en": "Godsmack is an American rock band from Lawrence, Massachusetts, formed in 1995. The band is currently composed of lead singer and rhythm guitarist Sully Erna, bassist Robbie Merrill, and lead guitarist Sam Koltun. Since its formation, Godsmack has released nine studio albums, one EP (The Other Side), four DVDs, one compilation album (Good Times, Bad Times... Ten Years of Godsmack), and two live albums. Their most recent album, Lighting Up the Sky, was released in 2023.\nSince its inception, Godsmack has toured with Ozzfest on more than one occasion and has toured with many other large tours and festivals, including supporting its albums with its own arena tours. They released three consecutive number-one albums (Faceless, IV and The Oracle) on the Billboard 200, and have had 25 top-ten rock radio hits and 12 at number one. In honor of the band's success and the release of their sixth studio album, 1000hp, Mayor Marty Walsh declared August 6 as \"Godsmack Day\" in the city of Boston.",
+ "albuns": [
+  {
+   "id": "50c3bf95-d9c8-3e20-b9c9-887018808949",
+   "titulo": "All Wound Up…",
+   "data": "1997-02",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/297049d1-49ff-454c-81b2-4c72adfbd710/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moon Baby",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Immune",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Bomb",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Keep Away",
+     "duracao": "5:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Situation",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Stress",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Bad Religion",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Get Up, Get Out!",
+     "duracao": "5:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Now or Never",
+     "duracao": "5:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Going Down",
+     "duracao": "3:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Voodoo / Witch Hunt",
+     "duracao": "8:02"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_Wound_Up...",
+   "resumo_en": "All Wound Up... is the debut studio album by American rock band Godsmack. It was released independently through the band's own record label, E. K. Records Company, in February 1997. The album was pressed four different times before being picked up by Republic Records/Universal Records in June 1998. It was slightly edited and remixed (with some unlicensed samples removed), fully remastered and given a new artwork and layout, and re-released by the major record labels as Godsmack in August 1998. The band never considered this to be a demo release; they considered it the same release as Godsmack."
+  },
+  {
+   "id": "7cf9b76e-5295-3402-9417-60aa24e8640f",
+   "titulo": "Godsmack",
+   "data": "1998-08-25",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moon Baby",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Whatever",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Keep Away",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Time Bomb",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Religion",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Immune",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Someone in London",
+     "duracao": "2:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Get Up, Get Out!",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Now or Never",
+     "duracao": "5:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Stress",
+     "duracao": "5:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Situation",
+     "duracao": "5:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Voodoo / Witch Hunt",
+     "duracao": "9:03"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Godsmack_%28album%29",
+   "resumo_en": "Godsmack is the second studio album and major label debut by American rock band Godsmack. It was released by Republic Records and Universal Records on August 25, 1998. The album's recording was initially paid for by the band, at a cost of $2,600, at New Alliance Studios in Boston, and released through the band's own record label E. K. Records Company under the title All Wound Up... in February 1997. When the band was signed to Republic/Universal in June 1998, All Wound Up... was partly edited and remixed, fully remastered at Sterling Sound in New York, and given a new artwork and layout before being re-released.\nThe album was certified Gold on April 13, 1999, and Platinum on June 15, 1999, the latter only nine days after it was controversially banned from several leading chain stores due to questionable lyrics and imagery. A Parental Advisory sticker was quickly added before the album resumed distribution, ultimately reaching 5× Platinum on November 20, 2024."
+  },
+  {
+   "id": "f92cbe0c-4b4a-3a6b-9c07-c04f26526814",
+   "titulo": "Awake",
+   "data": "2000-10-31",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/dc92d271-c5f4-451b-94ef-5bf61bcefbe3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sick of Life",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Awake",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Greed",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Magick",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Goin’ Down",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Mistakes",
+     "duracao": "5:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Trippin’",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Forgive Me",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Vampires",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "The Journey",
+     "duracao": "0:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Spiral",
+     "duracao": "5:35"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Awake_%28Godsmack_album%29",
+   "resumo_en": "Awake is the third studio album by American rock band Godsmack, released on October 31, 2000. It features the song \"Goin' Down\", which first appeared on the band's first studio recording, All Wound Up. It is the final Godsmack album to fully include drummer Tommy Stewart, who would be replaced by former drummer Shannon Larkin afterwards. \nDuring the 2000s, the songs \"Sick of Life\" and \"Awake\" were used for the United States Navy's \"Accelerate Your Life\" recruiting advertisements."
+  },
+  {
+   "id": "48748c31-f36d-3b91-8760-fe6f7a48b884",
+   "titulo": "Faceless",
+   "data": "2003-03-15",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/6667298f-2c2f-414e-9064-52e321d3e7d3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Straight Out of Line",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Faceless",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Changes",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Make Me Believe",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "I Stand Alone",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Re-Align",
+     "duracao": "4:20"
+    },
+    {
+     "n": 7,
+     "titulo": "I Fucking Hate You",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Releasing the Demons",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Dead and Broken",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "I Am",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "The Awakening",
+     "duracao": "1:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Serenity",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 50,
+    "media": 4.6,
+    "fontes": 5
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Faceless_%28Godsmack_album%29",
+   "resumo_en": "Faceless is the fourth studio album by American rock band Godsmack. It is the first album to feature drummer Shannon Larkin. The album was released on April 8, 2003.\nThe songs \"I Stand Alone\" and \"Straight Out of Line\" had Grammy nominations for 'Best Rock Song' and 'Best Hard Rock Performance' respectively."
+  },
+  {
+   "id": "d9367755-1ba4-36e5-b89d-1718b321c13a",
+   "titulo": "IV",
+   "data": "2006-04-25",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/c741b784-0c53-46ae-a0a5-1067f745fe08/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Livin in Sin",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Speak",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "The Enemy",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Shine Down",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Hollow",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "No Rest for the Wicked",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Bleeding Me",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Voodoo Too",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Temptation",
+     "duracao": "4:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Mama",
+     "duracao": "5:14"
+    },
+    {
+     "n": 11,
+     "titulo": "One Rainy Day",
+     "duracao": "7:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Safe and Sound",
+     "duracao": "4:19"
+    },
+    {
+     "n": 13,
+     "titulo": "I Thought",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/IV_%28Godsmack_album%29",
+   "resumo_en": "IV is the fifth studio album by American rock band Godsmack, released on April 25, 2006. This is Godsmack's only studio album produced by Andy Johns."
+  },
+  {
+   "id": "10d2747f-5348-469f-b7ac-a64d5e601dba",
+   "titulo": "The Oracle",
+   "data": "2010-05-04",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/7d9462f2-107e-43ef-9fdd-30c869135ea9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cryin’ Like a Bitch",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Saints and Sinners",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "War and Peace",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Love-Hate-Sex-Pain",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "What If?",
+     "duracao": "6:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Devil’s Swing",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Good Day to Die",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Forever Shamed",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Shadow of a Soul",
+     "duracao": "4:44"
+    },
+    {
+     "n": 10,
+     "titulo": "The Oracle",
+     "duracao": "6:21"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 60,
+    "media": 6.8,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Oracle_%28Godsmack_album%29",
+   "resumo_en": "The Oracle is the sixth studio album by American rock band Godsmack, released in the United States on May 4, 2010. It is the first Godsmack album to be produced by Dave Fortman. The Oracle marks the first Godsmack studio album to be released since 2006's IV. It received generally favorable critical reviews and became the band's third consecutive album to reach number one on the Billboard 200."
+  },
+  {
+   "id": "140a11e9-33d6-4da6-bd88-d18e1488a9e5",
+   "titulo": "1000HP",
+   "data": "2014-08-05",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/16aa59ea-1f40-431c-ac11-a6c8c2d6b878/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "1000hp",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "FML",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Something Different",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "What’s Next?",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Generation Day",
+     "duracao": "6:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Locked & Loaded",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Living in the Gray",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "I Don’t Belong",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Nothing Comes Easy",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Turning to Stone",
+     "duracao": "5:16"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.5,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/1000hp_%28album%29",
+   "resumo_en": "1000 hp, stylized as 1000HP, is the seventh studio album by American rock band Godsmack. It is a follow-up to the band's 2010 gold-selling album The Oracle and was released on August 5, 2014."
+  },
+  {
+   "id": "5746ee16-8852-4aeb-85ee-26ec6157cd5e",
+   "titulo": "When Legends Rise",
+   "data": "2018-04-27",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/423d1add-bad4-430c-83e3-0b7f085e6d08/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When Legends Rise",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Bulletproof",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Unforgettable",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Every Part Of Me",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Take It To The Edge",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Under Your Scars",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Someday",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Just One Time",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Say My Name",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Let it Out",
+     "duracao": "3:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Eye Of The Storm",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/When_Legends_Rise",
+   "resumo_en": "When Legends Rise is the eighth studio album by American rock band Godsmack. It was released on April 27, 2018. It marks the band's first album away from heavy metal into a more hard rock sound. The album's first single, \"Bulletproof\", was released ahead of the album in February 2018. All four singles from the album reached number one on the US Billboard Mainstream Rock Songs chart. The album became certified Gold by the RIAA in September 2021 for selling over 500,000 copies."
+  },
+  {
+   "id": "464c6eee-0a35-4e23-a517-341434b008cf",
+   "titulo": "Lighting Up the Sky",
+   "data": "2023-02-24",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/5f6aee94-e26c-46bc-96ca-3e17a42e131a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You and I",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Red White & Blue",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Surrender",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "What About Me",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Truth",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Hell’s Not Dead",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Soul on Fire",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Let’s Go",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Best of Times",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Growing Old",
+     "duracao": "5:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Lighting Up the Sky",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lighting_Up_the_Sky",
+   "resumo_en": "Lighting Up the Sky is the ninth studio album by American rock band Godsmack. It was released on February 24, 2023, five years after their last studio album When Legends Rise, making it the longest gap between two studio albums by Godsmack. This album is also the last to feature guitarist Tony Rombola and drummer Shannon Larkin before they left the band in 2025."
+  }
+ ]
+}

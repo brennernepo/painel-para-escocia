@@ -1,0 +1,599 @@
+{
+ "id": "faith-no-more",
+ "nome": "Faith No More",
+ "cena": "Nu metal e correlatos",
+ "mbid": "b15ebd71-a252-417d-9e1c-3e6863da68f8",
+ "wikidata": "Q320499",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1983",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "alternative rock",
+  "funk metal",
+  "experimental",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Faith_No_More_2009.jpg/500px-Faith_No_More_2009.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Faith_No_More",
+ "resumo_pt": "Faith No More é uma banda de metal alternativo norte-americana formada em São Francisco, Califórnia em 1982 e que retornou às atividades em 2009 após uma pausa de 11 anos. Antes de escolherem o nome atual em 1982, a banda se apresentou com os nomes Sharp Young Men e depois Faith No Man. É considerado um dos maiores grupos de rock dos anos 1990, e entre as canções suas de maior sucesso estão \"Epic\" e \"Falling to Pieces\" do disco The Real Thing (1989), \"Midlife Crisis\" e \"Easy\", cover do grupo americano The Commodores, as duas do álbum Angel Dust (1992), além de outro sucesso, a canção \"Ashes To Ashes\" do álbum Album of the Year de 1997. A banda ganhou notoriedade no Brasil com a passagem constante do vídeo musical de \"Epic\" na MTV local, com uma apresentação no Rock in Rio II e com o encerramento, no dia 14 de novembro de 2011, do Festival SWU, na cidade paulista de Paulínia.\nO estilo musical é de difícil categorização, muitos críticos musicais e músicos dos anos 1990 dizem que foram eles que influenciaram no surgimento do nu metal visto que a banda possui uma série de vertentes e gêneros distintos, como punk, jazz, funk, heavy metal, rap, easy listening e pop. Alguns chegaram a chamar seu estilo de metal alternativo. O single \"Epic\" é considerado por alguns como a primeira encarnação do nu metal, como afirma Jonathan Davis \"Epic foi protótipo do modelo do rótulo que olheiros da música buscavam para recrutar. E eles o fizeram. Isso é uma defesa da ideia que o Faith No More foi",
+ "resumo_en": "Faith No More is an American rock band from San Francisco, California, formed in 1979. The band rose to prominence with the lineup of bassist Billy Gould, drummer Mike Bordin, keyboardist/rhythm guitarist Roddy Bottum, guitarist Jim Martin – who all played on the debut album – and vocalist Mike Patton, who joined in 1988. \nBefore September 1983, the band performed under the names Sharp Young Men and later Faith. No Man. The band's first two albums, We Care a Lot (1985) and Introduce Yourself (1987), featured singer Chuck Mosley. With Patton's addition, Faith No More broke through with the platinum-selling The Real Thing (1989) and gold-selling Angel Dust (1992). The band recorded hit singles such as \"Epic\", which reached No. 9 in the U.S., and a cover of the Commodores' \"Easy\", which was a worldwide hit in Australia and Europe. Martin left the band in 1993. After two temporary replacements, Trey Spruance and Dean Menta, Jon Hudson joined as Faith No More's guitarist in 1996.\nThe band broke up in 1998 after six albums, but reunited in 2009 to begin The Second Coming Tour before releasing Sol Invictus, their first record in 18 years, in 2015. Faith No More attempted to tour in 2020, which was first derailed by the COVID-19 pandemic and later canceled because of Patton's mental health, resulting in the band's second hiatus. Faith No More announced a second reunion in 2026, and plans to tour in 2027, with Spruance rejoining as Hudson's replacement.",
+ "albuns": [
+  {
+   "id": "d1445e5e-1150-38bb-8767-f1c86b278976",
+   "titulo": "We Care a Lot",
+   "data": "1985-11-30",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/5c6cfbeb-ef1a-4414-9444-516c1b85f530/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We Care a Lot",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The Jungle",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Mark Bowen",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Jim",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Why Do You Bother",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Greed",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Pills for Breakfast",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "As the Worm Turns",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Arabian Disco",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "New Beginnings",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/We_Care_a_Lot",
+   "resumo_en": "We Care a Lot is the debut studio album by American rock band Faith No More, originally released on November 30, 1985, and distributed through Mordam Records.\nOn the original vinyl release, the band is credited as \"Faith. No More.\" on the album's liner notes, back cover, and on the record itself."
+  },
+  {
+   "id": "0103c698-c972-3de3-897f-0907814affca",
+   "titulo": "Introduce Yourself",
+   "data": "1987-04-23",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/b12ba44b-4f1f-3dba-a1b1-4010c87f09cf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Faster Disco",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Anne’s Song",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Introduce Yourself",
+     "duracao": "1:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Chinese Arithmetic",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Death March",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "We Care a Lot",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "R n’ R",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "The Crab Song",
+     "duracao": "5:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Blood",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Spirit",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 5.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Introduce_Yourself",
+   "resumo_en": "Introduce Yourself is the second studio album and major label debut by American rock band Faith No More, released in 1987. Due to the limited availability of the first album, We Care a Lot (until it was re-released on CD years later), many, including the band, once considered this Faith No More's true debut album. Being the group's major label debut, this album features better production than its predecessor, which is most evident on this album's version of the song \"We Care a Lot,\" which is a re-recorded version of the title track from We Care a Lot. It is the final album to feature vocalist Chuck Mosley before he was fired from Faith No More in 1988. \n\"We Care a Lot\" and \"Chinese Arithmetic\" were released as radio singles in the fall of 1987, in promotion of a tour with the Red Hot Chili Peppers. Music videos were later made for the songs \"We Care a Lot\" (released in January 1988) and \"Anne's Song\" released (released in May 1988)."
+  },
+  {
+   "id": "1ba7c980-4882-31fb-9918-12791f59d303",
+   "titulo": "The Real Thing",
+   "data": "1989-06-20",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/8125d9cc-8e1a-45a7-9b69-eef33ca41061/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "From Out of Nowhere",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Epic",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Falling to Pieces",
+     "duracao": "5:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Surprise! You’re Dead!",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Zombie Eaters",
+     "duracao": "5:58"
+    },
+    {
+     "n": 6,
+     "titulo": "The Real Thing",
+     "duracao": "8:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Underwater Love",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "The Morning After",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Woodpecker From Mars",
+     "duracao": "5:40"
+    },
+    {
+     "n": 10,
+     "titulo": "War Pigs",
+     "duracao": "7:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Edge of the World",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 7.2,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Real_Thing_%28Faith_No_More_album%29",
+   "resumo_en": "The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989, by Slash and Reprise Records. It is the first album to feature singer Mike Patton, following the dismissal of previous vocalist Chuck Mosley. On this album, Faith No More continued to advance their sound range, combining alternative metal, funk metal, and rap metal."
+  },
+  {
+   "id": "503e5b85-df2a-365a-82e4-32ca30538d8d",
+   "titulo": "Angel Dust",
+   "data": "1992-06-08",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/1fa30bfc-c9fd-4a47-a2cc-79944afd352f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Land of Sunshine",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Caffeine",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Midlife Crisis",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "RV",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Everything's Ruined",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Malpractice",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Kindergarten",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Be Aggressive",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "a Small Victory",
+     "duracao": "4:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Jizzlobber",
+     "duracao": "6:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Smaller and Smaller",
+     "duracao": "5:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Midlife Crisis (Scream mix)",
+     "duracao": "3:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Crack Hitler",
+     "duracao": "4:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Midnight Cowboy",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.1,
+    "fontes": 9
+   },
+   "publico": 7.8,
+   "publico_votos": 23,
+   "wikipedia": "https://en.wikipedia.org/wiki/Angel_Dust_%28Faith_No_More_album%29",
+   "resumo_en": "Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more \"theatrical\" sound.\nIn the United States, Angel Dust failed to match the commercial heights of The Real Thing. Upon release, it sold roughly 500,000 copies in the United States, while The Real Thing had been certified platinum in the United States for sales of over a million copies. However, in many other countries, it managed to outsell The Real Thing. Due to the international sales, it is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. Despite selling less than The Real Thing in the United States, it still managed to debut at number"
+  },
+  {
+   "id": "1428e1d2-119e-3739-bee7-42bb6835a7f9",
+   "titulo": "King for a Day… Fool for a Lifetime",
+   "data": "1995-03-13",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/0bcc3da9-a6a3-4128-8359-f57f32234833/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get Out",
+     "duracao": "2:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Ricochet",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Evidence",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "The Gentle Art of Making Enemies",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Star A.D.",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Cuckoo for Caca",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Caralho voador",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Ugly in the Morning",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Digging the Grave",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Take This Bottle",
+     "duracao": "4:58"
+    },
+    {
+     "n": 11,
+     "titulo": "King for a Day",
+     "duracao": "6:35"
+    },
+    {
+     "n": 12,
+     "titulo": "What a Day",
+     "duracao": "2:38"
+    },
+    {
+     "n": 13,
+     "titulo": "The Last to Know",
+     "duracao": "4:27"
+    },
+    {
+     "n": 14,
+     "titulo": "Just a Man",
+     "duracao": "5:37"
+    },
+    {
+     "n": 15,
+     "titulo": "The Morning After",
+     "duracao": "3:42"
+    },
+    {
+     "n": 16,
+     "titulo": "Das schutzenfest",
+     "duracao": "2:59"
+    },
+    {
+     "n": 17,
+     "titulo": "Malpractice",
+     "duracao": "4:01"
+    },
+    {
+     "n": 18,
+     "titulo": "RV (live)",
+     "duracao": "3:51"
+    },
+    {
+     "n": 19,
+     "titulo": "A Small Victory (Youth remix)",
+     "duracao": "7:21"
+    },
+    {
+     "n": 20,
+     "titulo": "Absolute Zero",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 83,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.6,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/King_for_a_Day..._Fool_for_a_Lifetime",
+   "resumo_en": "King for a Day... Fool for a Lifetime is the fifth studio album by American rock band Faith No More, released on March 13, 1995, by Slash and Reprise Records. It was their first album recorded without longtime guitarist Jim Martin. The album showcased a variety of musical genres, with Rolling Stone calling the result a \"genre shuffle\". King for a Day... Fool for a Lifetime spawned three singles: \"Digging the Grave\", \"Ricochet\" and \"Evidence\".\nFollowing Martin's departure, Trey Spruance was brought on to perform on the album; he had also been in Mr. Bungle with singer Mike Patton. Production of the album was further marred by the band suffering a car accident, and the absence of keyboard player Roddy Bottum, who was affected by the deaths of both his father and Kurt Cobain; Courtney Love, Cobain's wife and a former Faith No More vocalist, remains his close friend. Spruance was replaced on the supporting tour by the band's former roadie Dean Menta; however, Spruance played live with Faith No More for the first time in November 2011, playing the entire album during a show in Chile, and officially rejoined the band in 2026.\nCritical reception to the album has been mixed, with its varie"
+  },
+  {
+   "id": "1fe2c990-8b5f-38fc-ad00-d288da963969",
+   "titulo": "Album of the Year",
+   "data": "1997-06-03",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/00548932-8c25-34cd-b61d-7f753b8b228e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Collision",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Stripsearch",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Last Cup of Sorrow",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Naked in Front of the Computer",
+     "duracao": "2:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Helpless",
+     "duracao": "5:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Mouth to Mouth",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Ashes to Ashes",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "She Loves Me Not",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Got That Feeling",
+     "duracao": "2:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Paths of Glory",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Home Sick Home",
+     "duracao": "1:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Pristina",
+     "duracao": "3:51"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 4.6,
+    "fontes": 7
+   },
+   "publico": 7.3,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Album_of_the_Year_%28Faith_No_More_album%29",
+   "resumo_en": "Album of the Year is the sixth studio album by American rock band Faith No More, released on June 3, 1997, by Slash and Reprise Records. It is the first album to feature guitarist Jon Hudson, and was their last studio album before their eleven-year hiatus from 1998 to 2009. Album of the Year has been described by AllMusic as being \"more straightforward musically than past releases.\" Three singles were released from the album: \"Ashes to Ashes\", \"Last Cup of Sorrow\", and \"Stripsearch\", all of which had accompanying music videos.\nThe album experienced success in some foreign countries, including Australia, New Zealand and Germany. It managed to top the charts in Australia and New Zealand, in addition to going Platinum in Australia. In the United States, however, it largely continued the band's declining critical and commercial response. \"Last Cup of Sorrow\" was the only single from the album to chart in the United States, after their previous album King for a Day... Fool for a Lifetime failed to have any singles chart in the United States. \nDuring 1997, different versions of the album were released in Australia, Europe and Japan, with these editions containing bonus B-sides and electr"
+  },
+  {
+   "id": "4c66e1db-6315-405b-b655-24f228c53a8c",
+   "titulo": "Sol Invictus",
+   "data": "2015-05-13",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/de58111a-2ff1-4abd-8588-49f89eccadfe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sol Invictus",
+     "duracao": "2:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Superhero",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Sunny Side Up",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Separation Anxiety",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Cone of Shame",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Rise of the Fall",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Friday",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Motherfucker",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Matador",
+     "duracao": "6:08"
+    },
+    {
+     "n": 10,
+     "titulo": "From the Dead",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Superhero Battaglia",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sol_Invictus_%28album%29",
+   "resumo_en": "Sol Invictus (Latin for 'Unconquered Sun') is the seventh studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album since Album of the Year in 1997, marking the longest gap between two studio albums in their career, and their first release on Reclamation! Records. Sol Invictus was also the band's first album since Angel Dust (1992) to feature the same lineup as its predecessor, although it turned out to be their last album with guitarist Jon Hudson.\nThe album marked the group's fifth collaboration with longtime producer Matt Wallace. This time, Wallace helped with the final mix rather than a more substantial producing role."
+  }
+ ]
+}

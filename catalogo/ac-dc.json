@@ -1,0 +1,1273 @@
+{
+ "id": "ac-dc",
+ "nome": "AC/DC",
+ "cena": "Hard rock",
+ "mbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+ "wikidata": "Q27593",
+ "tipo": "Group",
+ "pais": "AU",
+ "inicio": "1973",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "rock",
+  "blues rock",
+  "classic rock",
+  "rock and roll"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/ACDC_In_Tacoma_2009.jpg/500px-ACDC_In_Tacoma_2009.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/AC/DC",
+ "resumo_pt": "AC/DC (estilizado como ACϟDC) é uma banda australiana de rock formada em Sydney, Austrália em 1973, pelos irmãos escoceses Malcolm e Angus Young. O estilo musical da banda é normalmente classificado como hard rock e até mesmo blues rock. Mas seus membros sempre classificaram a sua música simplesmente como \"rock and roll\".\nO AC/DC passou por várias mudanças de alinhamento antes de lançar o seu primeiro álbum, High Voltage, em 1975. A formação manteve-se estável até o baixista Cliff Williams substituir Mark Evans em 1977. Em 1979, a banda gravou o seu bem sucedido álbum Highway to Hell. O vocalista e co-compositor Bon Scott morreu em 19 de fevereiro de 1980, após misturar na noite anterior álcool e heroína. O corpo foi encontrado no banco de trás do carro de Alistair Kinnear. A banda considerou por algum tempo a separação, mas rapidamente o ex-vocalista dos Geordie, Brian Johnson, foi selecionado para o lugar de Scott. Mais tarde nesse ano, o grupo lançou o seu álbum mais vendido, Back in Black.\nO álbum seguinte da banda, For Those About to Rock We Salute You, foi também bem sucedido e tornou-se o primeiro álbum da banda a atingir o primeiro lugar nos Estados Unidos. O AC/DC caiu em popularidade pouco após a saída do baterista Phil Rudd, em 1983, depois que o mesmo estava com vício em drogas e álcool.\nAs fracas vendas continuaram até ao lançamento de The Razors Edge em 1990. Phil Rudd regressou em 1994 e contribuiu para o álbum de 1995 da banda, Ballbreaker. Stiff Upper Lip foi",
+ "resumo_en": "AC/DC are an Australian rock band formed in Sydney in 1973. Their music has been variously described as hard rock, blues rock and heavy metal, although the band calls it simply \"rock and roll\". They are cited as a formative influence on the new wave of British heavy metal bands, such as Def Leppard and Saxon, and were among \"the second generation of rising stars ready to step into the breach as the old guard waned\", according to critics.\nAC/DC were founded by brothers Angus (lead guitar) and Malcolm Young (rhythm guitar), with Colin Burgess (drums), Larry Van Kriedt (bass guitar) and Dave Evans (lead vocals). They underwent several line-up changes before releasing their Australasian-only debut album, High Voltage (1975). Membership stabilised after the release of Let There Be Rock (1977), with the Young brothers, Phil Rudd on drums, Cliff Williams on bass guitar and Bon Scott on lead vocals. Seven months after the release of Highway to Hell (1979), Scott died of alcohol poisoning and English singer Brian Johnson was then recruited as their new frontman. With Johnson in the line-up, the band recorded one of the best-selling albums of all time, Back in Black (1980). Rudd was fired midway through the Flick of the Switch recording sessions in 1983. He was replaced by Simon Wright, who was also replaced by Chris Slade six years later.\nAC/DC experienced a commercial resurgence in the early 1990s with the release of The Razors Edge (1990); it was their only record featuring Slade, a",
+ "albuns": [
+  {
+   "id": "2b81e645-4586-4456-843a-9bc19a217470",
+   "titulo": "High Voltage",
+   "data": "1975-02-17",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/ddee5911-8a13-41e6-88db-6534a5f4fc46/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baby, Please Don’t Go",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "She’s Got Balls",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Lover",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Stick Around",
+     "duracao": "4:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Soul Stripper",
+     "duracao": "6:31"
+    },
+    {
+     "n": 6,
+     "titulo": "You Ain’t Got a Hold on Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Song",
+     "duracao": "5:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Show Business",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8.8,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/High_Voltage_%281975_album%29",
+   "resumo_en": "High Voltage is the debut studio album by Australian hard rock band AC/DC, released only in Australia and New Zealand, on 17 February 1975. Their first international release in 1976 would also be named High Voltage, though with a radically different track list."
+  },
+  {
+   "id": "e01e5b5c-5ca6-3876-b6ff-b9ad88dd71ee",
+   "titulo": "T.N.T.",
+   "data": "1975-12-01",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/4967f7a3-4b5c-44b1-9b25-358ae10b7706/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It’s a Long Way to the Top (If You Wanna Rock ’n’ Roll)",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock ’n’ Roll Singer",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "The Jack",
+     "duracao": "5:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Live Wire",
+     "duracao": "5:50"
+    },
+    {
+     "n": 5,
+     "titulo": "T.N.T.",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Rocker",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Can I Sit Next to You Girl",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "High Voltage",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "School Days",
+     "duracao": "5:22"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 8.5,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/T.N.T._%28album%29",
+   "resumo_en": "T.N.T. is the second studio album by Australian hard rock band AC/DC, released only in Australia and New Zealand on 1 December 1975. This was the band's first release with bassist Mark Evans and drummer Phil Rudd, although the last two tracks feature George Young and Tony Currenti, both of whom previously appeared on High Voltage."
+  },
+  {
+   "id": "f30734f4-333c-344c-98e9-71174cc5ebde",
+   "titulo": "Dirty Deeds Done Dirt Cheap",
+   "data": "1976-09-20",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/946b9205-460e-4e33-b8a1-3146dcbaf518/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dirty Deeds Done Dirt Cheap",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Love at First Feel",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Balls",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Rocker",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Problem Child",
+     "duracao": "5:44"
+    },
+    {
+     "n": 6,
+     "titulo": "There's Gonna Be Some Rockin'",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain't No Fun Waiting Round to Be a Millionaire",
+     "duracao": "7:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Ride On",
+     "duracao": "5:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Squealer",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 7.3,
+    "fontes": 7
+   },
+   "publico": 7.8,
+   "publico_votos": 27,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dirty_Deeds_Done_Dirt_Cheap",
+   "resumo_en": "Dirty Deeds Done Dirt Cheap is the third studio album by Australian hard rock band AC/DC, originally released only in Europe, Australia and New Zealand in 1976. The album was not released in the United States until 1981, more than one year after lead singer Bon Scott's death. This was also AC/DC's first album in its entirety to be recorded with the same lineup, rather than including at least one track recorded with a different bassist or drummer."
+  },
+  {
+   "id": "c9673ff0-15b5-394d-a5ec-3d2a27dfce83",
+   "titulo": "Let There Be Rock",
+   "data": "1977-03-21",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/1bad53f1-5f90-46d7-b799-f34f876b94fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Go Down",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Dog Eat Dog",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Let There Be Rock",
+     "duracao": "6:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Boy Boogie",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Overdose",
+     "duracao": "6:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Crabsody in Blue",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Hell Ain't a Bad Place to Be",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Whole Lotta Rosie",
+     "duracao": "5:24"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.7,
+    "fontes": 7
+   },
+   "publico": 8.2,
+   "publico_votos": 22,
+   "wikipedia": "https://en.wikipedia.org/wiki/Let_There_Be_Rock",
+   "resumo_en": "Let There Be Rock is the fourth studio album by Australian rock band AC/DC. It was originally released on 21 March 1977 in Australasia, through Albert Productions label. A modified international edition was released on 25 July 1977, through Atlantic Records. It was the last AC/DC album to feature Mark Evans on bass."
+  },
+  {
+   "id": "d1b829ec-6112-3562-b38f-26949564e106",
+   "titulo": "Powerage",
+   "data": "1978-05-05",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/1fc699dd-9b14-4625-9d13-e59487e58649/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock and Roll Damnation",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Gimme a Bullet",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Down Payment Blues",
+     "duracao": "6:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Gone Shootin",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Riff Raff",
+     "duracao": "5:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Sin City",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Up to My Neck in You",
+     "duracao": "4:15"
+    },
+    {
+     "n": 8,
+     "titulo": "What's Next to the Moon",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Cold Hearted Man",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Kicked in the Teeth",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.1,
+    "fontes": 8
+   },
+   "publico": 7.9,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Powerage",
+   "resumo_en": "Powerage is the fifth studio album by Australian hard rock band AC/DC, released on 5 May 1978 in the United Kingdom and 25 May 1978 in the United States, by Albert Productions and Atlantic Records. This was the band's first album to feature Cliff Williams on bass guitar, and it was also the first AC/DC album not to have a title track (aside from the Australia-only High Voltage album) and the first worldwide not to be released with a different album cover. Powerage was re-released in 2003 as part of the AC/DC Remasters series."
+  },
+  {
+   "id": "f85647ec-a69b-3b0a-ad04-bb6076c4dcf1",
+   "titulo": "Highway to Hell",
+   "data": "1979-07-27",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/9f861c40-cd08-47a0-90e6-90a69224d6c2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Highway to Hell",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Girls Got Rhythm",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Walk All Over You",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Touch Too Much",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Beating Around the Bush",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Shot Down in Flames",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Get It Hot",
+     "duracao": "2:34"
+    },
+    {
+     "n": 8,
+     "titulo": "If You Want Blood (You've Got It)",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Hungry Man",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Night Prowler",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.1,
+    "fontes": 10
+   },
+   "publico": 8.8,
+   "publico_votos": 33,
+   "wikipedia": "https://en.wikipedia.org/wiki/Highway_to_Hell",
+   "resumo_en": "Highway to Hell is the sixth studio album by Australian hard rock band AC/DC, released on 27 July 1979, by Albert Productions and Atlantic Records. It is the first of three albums produced by Robert John \"Mutt\" Lange, and is the last album featuring lead singer Bon Scott, who died on 19 February 1980."
+  },
+  {
+   "id": "d3bc1a64-7561-3787-b680-0003aa50f8f1",
+   "titulo": "Back in Black",
+   "data": "1980-07-25",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/9ec3fe51-4bf1-49ac-bf28-78076a74ed84/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hells Bells",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Shoot to Thrill",
+     "duracao": "5:14"
+    },
+    {
+     "n": 3,
+     "titulo": "What Do You Do for Money Honey",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Given the Dog a Bone",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Let Me Put My Love Into You",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Back in Black",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "You Shook Me All Night Long",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Have a Drink on Me",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Shake a Leg",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock and Roll Ain't Noise Pollution",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 9
+   },
+   "publico": 8.8,
+   "publico_votos": 51,
+   "wikipedia": "https://en.wikipedia.org/wiki/Back_in_Black",
+   "resumo_en": "Back in Black is the seventh studio album by Australian rock band AC/DC, released on 25 July 1980, by Albert Productions and Atlantic Records. It was the band's first album to feature Brian Johnson as lead singer, following the death of their previous vocalist Bon Scott. After the commercial breakthrough of their 1979 album Highway to Hell, AC/DC was planning to record a follow-up, but in February 1980, Scott died from alcohol poisoning after a night out in London. The remaining members of the group considered disbanding, but ultimately chose to continue on and recruited Johnson, who had previously been the vocalist for Geordie.\nThe album was composed by Johnson and brothers Angus and Malcolm Young, and recorded over seven weeks in the Bahamas from April to May 1980 with producer Robert John \"Mutt\" Lange, who had also produced Highway to Hell. Following its completion, the group mixed Back in Black at Electric Lady Studios in New York City. The album's all-black cover was designed as a \"sign of mourning\" for Scott.\nBack in Black was an unprecedented commercial and critical success. It has sold an estimated 50 million copies worldwide, making it the second-best-selling album in musi"
+  },
+  {
+   "id": "331084ff-497b-3e3a-958e-0fefdae80cb6",
+   "titulo": "For Those About to Rock (We Salute You)",
+   "data": "1981-11-23",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/8b55fcbb-de10-4b1a-9f2f-6cb6ad70ed31/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "For Those About to Rock (We Salute You)",
+     "duracao": "5:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Put the Finger on You",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Let's Get It Up",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Inject the Venom",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Snowballed",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Evil Walks",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "C.O.D.",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Breaking the Rules",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Night of the Long Knives",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Spellbound",
+     "duracao": "4:29"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/For_Those_About_to_Rock_We_Salute_You",
+   "resumo_en": "For Those About to Rock (We Salute You) (shortened to For Those About to Rock on its cover) is the eighth studio album by Australian hard rock band AC/DC. It was released on 20 November 1981 in the US and on 27 November 1981 in the UK.\nThe album is a follow-up to their album Back in Black. It has sold over four million copies in the US. It was AC/DC's first and only number one album in the US until the release of Black Ice in October 2008. In their original 1981 review, Rolling Stone magazine declared it to be their best album. In Australia, the album peaked at number three on the Kent Music Report Albums Chart.\nThe album, recorded in Paris, was the third and final AC/DC collaboration with producer Robert John \"Mutt\" Lange. It was re-released in 2003 as part of the AC/DC Remasters series."
+  },
+  {
+   "id": "91a288b8-8404-3d1e-991c-cdc837cf915d",
+   "titulo": "Flick of the Switch",
+   "data": "1983-08-15",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/6868ab1c-04b1-4942-8d44-291d7d6288a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rising Power",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "This House Is on Fire",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Flick of the Switch",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Nervous Shakedown",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Landslide",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Guns for Hire",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Deep in the Hole",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Bedlam in Belgium",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Badlands",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Brain Shake",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 7.3,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Flick_of_the_Switch",
+   "resumo_en": "Flick of the Switch is the ninth studio album by Australian hard rock band AC/DC. The album was deemed a commercial disappointment after it failed to match the sales figures of the band's two previous releases, 1980's Back in Black and 1981's For Those About to Rock, and its release represented the beginning of the band's commercial decline. The third AC/DC album to feature lead vocalist Brian Johnson, the album is also the last to feature drummer Phil Rudd before his return on Ballbreaker (1995). The album was re-released in 2003 as part of the AC/DC Remasters series."
+  },
+  {
+   "id": "af8a0f91-5326-3acb-b6e1-03a9b22d30e6",
+   "titulo": "Fly on the Wall",
+   "data": "1985-06-28",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/40bad1ba-c298-4818-901c-733c69e928d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fly on the Wall",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Shake Your Foundations",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "First Blood",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Danger",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Sink the Pink",
+     "duracao": "4:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Playing With Girls",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Stand Up",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Hell or High Water",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Back in Business",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Send for the Man",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6.7,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fly_on_the_Wall_%28AC/DC_album%29",
+   "resumo_en": ""
+  },
+  {
+   "id": "baab9433-37a8-32ee-a1d3-34c7d6cf6e69",
+   "titulo": "Blow Up Your Video",
+   "data": "1988-01-18",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/2815056e-7a38-4411-9e34-0e66e59b5c7b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heatseeker",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "That's the Way I Wanna Rock 'n' Roll",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Meanstreak",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Go Zone",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Kissin' Dynamite",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Nick of Time",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Some Sin for Nuthin'",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Ruff Stuff",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Two's Up",
+     "duracao": "5:21"
+    },
+    {
+     "n": 10,
+     "titulo": "This Means War",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": 7.4,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blow_Up_Your_Video",
+   "resumo_en": "Blow Up Your Video is the eleventh studio album by Australian hard rock band AC/DC, released on 1 February 1988. The album was re-released in 2003 as part of the AC/DC Remasters series."
+  },
+  {
+   "id": "03759365-2f74-3f12-b884-280d3aa17f0e",
+   "titulo": "The Razors Edge",
+   "data": "1990-09-21",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/1bbb0aeb-af1d-3dfd-a948-dbb203d2938f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thunderstruck",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Fire Your Guns",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Moneytalks",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "The Razors Edge",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Mistress for Christmas",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock Your Heart Out",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Are You Ready",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Got You by the Balls",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Shot of Love",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Let's Make It",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Goodbye & Good Riddance to Bad Luck",
+     "duracao": "3:13"
+    },
+    {
+     "n": 12,
+     "titulo": "If You Dare",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 8
+   },
+   "publico": 8.1,
+   "publico_votos": 22,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Razors_Edge_%28AC/DC_album%29",
+   "resumo_en": "The Razors Edge is the twelfth studio album by Australian rock band AC/DC. Released on 24 September 1990, through Albert Productions/CBS Records International in Australasia, Atlantic Records in Europe, and ATCO Records in North America, it was recorded in 1990 in Little Mountain Sound Studios in Vancouver, Canada, and was mixed and engineered by Mike Fraser and produced by Bruce Fairbairn. It was a major comeback for the band, featuring the hits \"Thunderstruck\", \"Are You Ready\" and \"Moneytalks\". This is the only studio album to feature Welsh drummer Chris Slade, who was the drummer for AC/DC from 1989 to his dismissal in 1994.\nCritical commentary for the album was generally mixed, with Alex Henderson of AllMusic complimenting Brian Johnson and Angus Young, while John Mendelsohn from Rolling Stone criticises its similarity to the band's past works. The album reached number 2 on the US Billboard 200 and number 4 on the UK Albums Chart, a smash commercial success that returned the band to a peak equivalent to that of their late 1970s and early 1980s popularity. The album earned multi-platinum certifications in Australia, Canada, Germany, Switzerland and the US. To support The Razors "
+  },
+  {
+   "id": "46fd6f83-e94a-3060-8457-13b8ea8e1262",
+   "titulo": "Ballbreaker",
+   "data": "1995-09-22",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/1e989875-09a0-4826-aa47-e298da34723e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard as a Rock",
+     "duracao": "4:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Cover You in Oil",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "The Furor",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Boogie Man",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "The Honey Roll",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Burnin’ Alive",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Hail Caesar",
+     "duracao": "5:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Bomb",
+     "duracao": "3:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Caught With Your Pants Down",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Whiskey on the Rocks",
+     "duracao": "4:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Ballbreaker",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": 6.8,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ballbreaker",
+   "resumo_en": "Ballbreaker is the thirteenth studio album by Australian hard rock band AC/DC. It was released on 25 September 1995 and was re-released in 2005 as part of the AC/DC Remasters series."
+  },
+  {
+   "id": "c8dcd7b4-d104-3559-bc18-a62f559e912e",
+   "titulo": "Stiff Upper Lip",
+   "data": "2000-02-25",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/1af70553-7c30-4fac-9694-7d4b28a69821/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stiff Upper Lip",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Meltdown",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "House of Jazz",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold Me Back",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Safe in New York City",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Can't Stand Still",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Can't Stop Rock 'n' Roll",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Satellite Blues",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Damned",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Come and Get It",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "All Screwed Up",
+     "duracao": "4:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Give It Up",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 7.7,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stiff_Upper_Lip_%28album%29",
+   "resumo_en": ""
+  },
+  {
+   "id": "afca53c1-c5b3-3f91-8590-281b0aa12722",
+   "titulo": "Black Ice",
+   "data": "2008-10-17",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/7cebddf2-fe66-4382-858e-4b7d201cf1b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock ’n’ Roll Train",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Skies on Fire",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Jack",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Anything Goes",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "War Machine",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Smash ’n’ Grab",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Spoilin’ for a Fight",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Wheels",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Decibel",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Stormy May Day",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "She Likes Rock ’n’ Roll",
+     "duracao": "3:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Money Made",
+     "duracao": "4:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Rock ’n’ Roll Dream",
+     "duracao": "4:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Rocking All the Way",
+     "duracao": "3:22"
+    },
+    {
+     "n": 15,
+     "titulo": "Black Ice",
+     "duracao": "3:25"
+    },
+    {
+     "n": 16,
+     "titulo": "The Making of \"Rock N Roll Train\"",
+     "duracao": "4:21"
+    },
+    {
+     "n": 17,
+     "titulo": "Rock ’n’ Roll Train (video)",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 69,
+    "media": 7.2,
+    "fontes": 8
+   },
+   "publico": 7.7,
+   "publico_votos": 23,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Ice_%28album%29",
+   "resumo_en": "Black Ice is the fifteenth studio album by the Australian rock band AC/DC. First released in Europe on 17 October 2008 and released internationally on 20 October 2008, it was produced by Brendan O'Brien. It marked the band's first original recordings since Stiff Upper Lip (2000), with the eight-year gap being the longest between AC/DC's successive studio albums. The album was the band's final studio release to feature founding rhythm guitarist Malcolm Young, who left the band in September 2014 after being diagnosed with dementia, and died three years later.\nThe album's development was delayed because bass guitarist Cliff Williams sustained an injury and the band changed labels from Elektra Records to Sony Music. The first composing sessions between guitarists/brothers Angus and Malcolm Young were in London in 2003. Recording happened during March and April 2008 at The Warehouse Studio in Vancouver, British Columbia, Canada. O'Brien tried to recapture the rock sound of the band's early work, as opposed to the blues orientation of Stiff Upper Lip, with suggestions such as adding \"soul crooning\" to Brian Johnson's singing. The songs were mostly recorded live in the studio; engineer Mi"
+  },
+  {
+   "id": "8bc8ca25-77ae-43a6-a242-038093dbcb08",
+   "titulo": "Rock or Bust",
+   "data": "2014-11-28",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/14cd550b-93d0-40fc-ab26-f81728f89b2c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock or Bust",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Play Ball",
+     "duracao": "2:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock the Blues Away",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Miss Adventure",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Dogs of War",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Got Some Rock & Roll Thunder",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Hard Times",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Baptism by Fire",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock the House",
+     "duracao": "2:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Candy",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Emission Control",
+     "duracao": "3:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Rock or Bust",
+     "duracao": "3:03"
+    },
+    {
+     "n": 13,
+     "titulo": "Play Ball",
+     "duracao": "2:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Rock the Blues Away",
+     "duracao": "3:24"
+    },
+    {
+     "n": 15,
+     "titulo": "Miss Adventure",
+     "duracao": "2:57"
+    },
+    {
+     "n": 16,
+     "titulo": "Dogs of War",
+     "duracao": "3:35"
+    },
+    {
+     "n": 17,
+     "titulo": "Got Some Rock & Roll Thunder",
+     "duracao": "3:22"
+    },
+    {
+     "n": 18,
+     "titulo": "Hard Times",
+     "duracao": "2:44"
+    },
+    {
+     "n": 19,
+     "titulo": "Baptism by Fire",
+     "duracao": "3:30"
+    },
+    {
+     "n": 20,
+     "titulo": "Rock the House",
+     "duracao": "2:42"
+    },
+    {
+     "n": 21,
+     "titulo": "Sweet Candy",
+     "duracao": "3:09"
+    },
+    {
+     "n": 22,
+     "titulo": "Emission Control",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 75,
+    "media": 7.1,
+    "fontes": 10
+   },
+   "publico": 6.9,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_or_Bust",
+   "resumo_en": "Rock or Bust is the sixteenth studio album by the Australian rock band AC/DC, released on 28 November 2014. Rock or Bust is the group's first album to feature rhythm guitarist Stevie Young, replacing founding member Malcolm Young, who had retired from the band earlier in the year due to health concerns and would pass away three years later. At approximately 35 minutes, it surpassed 1983's Flick of the Switch as the band's shortest album to date. It sold 2.8 million copies worldwide.\nThe group released the debut single from the album, titled \"Play Ball\", on 7 October 2014. The song has been a commercial success, reaching the top 40 charts in various countries such as Spain (at number 28), France (at number 39) or Switzerland (at number 19). Rock or Bust peaked at number 1 in 12 countries, including Australia, Canada, Germany and Sweden. It reached the top 5 in a further 12 countries, including New Zealand, the United Kingdom, the United States and Italy. The album earned AC/DC a 2015 ECHO Award for Rock/Alternative (International).\nDrummer Phil Rudd was unable to participate in the supporting tour following legal problems and was replaced by Chris Slade. Lead vocalist Brian Johnson "
+  },
+  {
+   "id": "17841c18-e49d-45d6-b11b-db867ab6d452",
+   "titulo": "Power Up",
+   "data": "2020-11-13",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/4515d349-789e-42e2-bb99-8df22e29a69a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Realize",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Rejection",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Shot in the Dark",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Through the Mists of Time",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Kick You When You’re Down",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Witch’s Spell",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Demon Fire",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Wild Reputation",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "No Man’s Land",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Systems Down",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Money Shot",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Code Red",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 7.4,
+    "fontes": 9
+   },
+   "publico": 7.7,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Power_Up_%28album%29",
+   "resumo_en": "Power Up (stylised PWR/UP) is the seventeenth studio album by the Australian rock band AC/DC, released on 13 November 2020 through Columbia Records. Power Up marks the band's first album since the death of co-founder and rhythm guitarist Malcolm Young in 2017. Malcolm received posthumous songwriting credit (alongside his brother, Angus) for all of the album's songs, as they were co-written by him prior to his death. The album is dedicated and serves as tribute to Malcolm according to his brother.\nPower Up was generally well received by music critics and reached number one in 21 countries. The album was nominated for the Best Rock Album on the 64th Annual Grammy Awards, but lost to Foo Fighters' Medicine at Midnight (2021). To support Power Up, the band undertook the Power Up Tour from May to August 2024, with drummer Matt Laug and bass guitarist Chris Chaney as touring members, replacing Rudd and Williams respectively."
+  }
+ ]
+}

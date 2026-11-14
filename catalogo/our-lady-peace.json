@@ -1,0 +1,828 @@
+{
+ "id": "our-lady-peace",
+ "nome": "Our Lady Peace",
+ "cena": "Pós-grunge",
+ "mbid": "78661da3-894c-4947-a34b-fb7edf585d9b",
+ "wikidata": "Q1047508",
+ "tipo": "Group",
+ "pais": "CA",
+ "inicio": "1992",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "pop rock",
+  "post-grunge",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/OLP_members_2010.jpg/500px-OLP_members_2010.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Our_Lady_Peace",
+ "resumo_pt": "Our Lady Peace é uma banda canadense de post-grunge formada em Toronto em 1992.",
+ "resumo_en": "Our Lady Peace (sometimes shortened to OLP) is a Canadian alternative rock band formed in Toronto, Ontario in 1992. Led by lead vocalist Raine Maida since its formation, the band currently also features Duncan Coutts on bass, Steve Mazur on guitars, and Jason Pierce on drums. The band has sold several million albums worldwide, won four Juno Awards, and won ten MuchMusic Video Awards—the most MMVAs ever awarded to a band (tied with Billy Talent). Nineteen of their singles have reached the Top Ten on one of Canada's singles charts (those being the overall Singles Chart, the Rock Chart and the Alternative Rock Chart).  Between 1996 and 2016, Our Lady Peace was the third best-selling Canadian band and the ninth best-selling Canadian artist overall in Canada.\nOur Lady Peace has released ten studio albums, one live album, and two compilation albums, with their debut album, 1994's Naveed, having reached quadruple platinum in Canada. Naveed contains their breakthrough single, \"Starseed\", which peaked in the Top Ten on both the US Mainstream and Alternative Rock Tracks charts, and the title track, which reached No. 4 on Canada's Alternative Rock Chart. Their 1997 album, Clumsy, which reached No. 1 in Canada, is considered their signature and most widely recognized work. Clumsy was certified as Diamond in sales in Canada with its title track reaching No. 1 on Canada's Singles Chart and its lead single, \"Superman's Dead\", reaching No. 2 on Canada's Alternative Rock Chart. The album was ",
+ "albuns": [
+  {
+   "id": "ee1acf97-a553-3a64-8eec-aa83c4c0bdfc",
+   "titulo": "Naveed",
+   "data": "1994-03-22",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/c2c74585-9c78-4b30-9f74-1e9d82ff6300/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Birdman",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Supersatellite",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Starseed",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Hope",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Naveed",
+     "duracao": "5:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Dirty Walls",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Denied",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Is It Safe?",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Julia",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Under Zenith",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Neon Crossing",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Naveed_%28album%29",
+   "resumo_en": "Naveed is the debut studio album by Canadian rock band Our Lady Peace.  It was produced by Arnold Lanni, and was released on March 22, 1994, by Sony Music Canada. Naveed became a success in Canada, being certified 4× Platinum in the country. There were five singles released for the album, including \"The Birdman\",  \"Starseed\" and \"Naveed\".   This is the only album to feature bass player Chris Eacrett, who was replaced by Duncan Coutts in 1995."
+  },
+  {
+   "id": "289e4a2b-29ba-3557-953d-8e7dd6b14127",
+   "titulo": "Clumsy",
+   "data": "1997-01-23",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/444382c9-f090-4771-975e-61fc213a2f96/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Superman’s Dead",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Automatic Flowers",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Carnival",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Big Dumb Rocket",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "4am",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Shaking",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Clumsy",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Hello Oskar",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Let You Down",
+     "duracao": "3:55"
+    },
+    {
+     "n": 10,
+     "titulo": "The Story of 100 Aisles",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Car Crash",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 5
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clumsy_%28Our_Lady_Peace_album%29",
+   "resumo_en": "Clumsy is the second studio album by the Canadian rock band Our Lady Peace, released on January 23, 1997, by Columbia Records. The album is the band's most successful to date, achieving diamond status in Canada (1 million units sold) and strong sales in other countries, including platinum status in the U.S. for another 1 million sales. In 2007, it ranked No. 76 on \"The Top 100 Canadian Albums\" by Bob Mersereau and No. 33 on The Top 102 New Rock Albums of All Time by 102.1 The Edge (in 2009). The album features four hit singles: \"Superman's Dead\", \"Automatic Flowers\", \"Clumsy\", and \"4am\"."
+  },
+  {
+   "id": "8b706eff-0311-3c5c-b8a0-2a0d3ed7345c",
+   "titulo": "Happiness… Is Not a Fish That You Can Catch",
+   "data": "1999-09-21",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/af7a568b-6ba4-44a3-8411-dcf1b8268375/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Man Army",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Happiness & the Fish",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Potato Girl",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Blister",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Is Anybody Home?",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Waited",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Thief",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Lying Awake",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Annie",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Consequence of Laughing",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Stealing Babies",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Happiness..._Is_Not_a_Fish_That_You_Can_Catch",
+   "resumo_en": "Happiness... Is Not a Fish That You Can Catch (written as simply Happiness... on the cover) is the third studio album by Canadian alternative rock band Our Lady Peace. It was released on September 21, 1999, by Columbia Records. The album was very successful in Canada, debuting at #1 on the Canadian Albums Chart. The album was certified 3× Platinum in July 2001. Hit singles from the album include \"One Man Army\", \"Is Anybody Home?\", and \"Thief\". The final track on the CD, \"Stealing Babies\", features Elvin Jones, a prominent post-bop jazz drummer. The photo shoot for this album took place around Staten Island in New York State."
+  },
+  {
+   "id": "b94b633c-2e21-3f50-8a7f-251b583ef87c",
+   "titulo": "Spiritual Machines",
+   "data": "2000-12-12",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/8b721f5d-8854-456a-be16-ce38182d1c32/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "R.K. Intro",
+     "duracao": "0:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Right Behind You (Mafia)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "R.K. 2029",
+     "duracao": "0:14"
+    },
+    {
+     "n": 4,
+     "titulo": "In Repair",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Life",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Middle of Yesterday",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Are You Sad?",
+     "duracao": "5:08"
+    },
+    {
+     "n": 8,
+     "titulo": "R.K. 2029 (pt. 2)",
+     "duracao": "0:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Made to Heal",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "R.K. 1949–97",
+     "duracao": "0:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Everyone’s a Junkie",
+     "duracao": "3:38"
+    },
+    {
+     "n": 12,
+     "titulo": "R.K. on Death",
+     "duracao": "0:39"
+    },
+    {
+     "n": 13,
+     "titulo": "All My Friends",
+     "duracao": "3:37"
+    },
+    {
+     "n": 14,
+     "titulo": "If You Believe",
+     "duracao": "3:35"
+    },
+    {
+     "n": 15,
+     "titulo": "The Wonderful Future / [dialogue]",
+     "duracao": "20:00"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Spiritual_Machines",
+   "resumo_en": "Spiritual Machines is the fourth studio album by the Canadian alternative rock band Our Lady Peace, released by Columbia Records in December 2000. Although not initially intended, the project evolved into a conceptual interpretation of futurist and inventor Raymond Kurzweil's 1999 book The Age of Spiritual Machines. Short tracks of spoken dialog from Kurzweil himself are interspersed among the actual songs on the album. The Kurzweil K250 keyboard, one of his inventions, was utilized throughout the recording of the album.\nThe album was written and recorded in two months while the band was still on tour in support of their previous record, Happiness... Is Not a Fish That You Can Catch, which had only been released 14 months prior. A combination of lead singer-songwriter Raine Maida's prolific songwriting at the time and lead-guitarist Mike Turner's discovery of The Age of Spiritual Machines in a bookstore hurried the completion of the album. The band only took a break from recording to organize and perform at Summersault in 2000. Unlike their previous releases, this one features a more organic, acoustic sound, and less obvious layering and electronic texturing.\nSpiritual Machines has"
+  },
+  {
+   "id": "5bb572cc-28ab-360d-b5d8-23f766045b34",
+   "titulo": "Gravity",
+   "data": "2002-05-17",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/0dbe5561-dd43-4be5-885c-56796e765436/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All for You",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Do You Like It",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Somewhere Out There",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Innocent",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Made of Steel",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Not Enough",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Sell My Soul",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Sorry",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Bring Back the Sun",
+     "duracao": "5:11"
+    },
+    {
+     "n": 10,
+     "titulo": "A Story About a Girl",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.9,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gravity_%28Our_Lady_Peace_album%29",
+   "resumo_en": "Gravity is the fifth studio album by the Canadian rock band Our Lady Peace. It was released on June 18, 2002 by Columbia Records in North America. The album became a worldwide success, charting highly both in Canada and the United States with the hit singles \"Somewhere Out There\" and \"Innocent\".\nGravity was the first album to feature new guitarist Steve Mazur, who replaced founding member Mike Turner in 2002 after the latter's departure a month into recording. Despite this, Turner still appears on half the tracks on the album, having recorded parts for several songs prior to parting ways with the group. This was also their last album with supporting musician Jamie Edwards, who had performed on two prior albums and was briefly an official member, but left the band soon after the album's completion.\nIt was the band's first album made without the involvement of producer Arnold Lanni, who not only produced the band's previous four studio albums but helped co-write many of their songs. The band originally wanted Lanni to produce their fifth album but he was busy working with Simple Plan and the band instead chose notable hard rock producer Bob Rock, who would have a major influence on t"
+  },
+  {
+   "id": "0e2a9158-1d50-34fd-b760-539874aab577",
+   "titulo": "Healthy in Paranoid Times",
+   "data": "2005-08-30",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/967cf524-53dd-4dfb-920b-79a6d82fbac0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Angels/Losing/Sleep",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Will the Future Blame Us?",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Picture",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Where Are You",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Wipe That Smile Off Your Face",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Love and Trust",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Boy",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Apology",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "The World on a String",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Stop",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Walking in Circles",
+     "duracao": "3:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Al Genina (Leave the Light On)",
+     "duracao": "2:14"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.6,
+    "fontes": 8
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Healthy_in_Paranoid_Times",
+   "resumo_en": "Healthy in Paranoid Times is the sixth studio album by Canadian rock band Our Lady Peace, released on August 30, 2005 by Columbia Records, as the band's final album for the label. The disc was released on a standard CD as well as a DualDisc, with the reverse side containing a documentary on the making of the album. The album fared well in both Canada and the U.S., but didn't match up to the success of its 2002 predecessor, Gravity. The first single was \"Where Are You\", released in Canada during June 2005 and released in the United States a month later. The second and third singles were \"Angels/Losing/Sleep\" and \"Will the Future Blame Us\", respectively.\nAccording to the album's liner notes, Healthy was recorded in 1165 days at ten different studios. 2000 hours were spent both discussing and playing music and 43 songs were written and recorded. Over 6000 GB of hard drive space was used for the recording. The band's inability to choose which songs (and which versions of songs) they were satisfied with caused them to prolong recording and push back the release date several times, causing much tension within the group. Every one involved with the project unofficially quit at least once "
+  },
+  {
+   "id": "f4e5cd14-5f22-4484-8457-21951addb5e1",
+   "titulo": "Burn Burn",
+   "data": "2009-07-21",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/7d59e6b5-e378-4b8f-996a-11d667855d7b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All You Did Was Save My Life",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Dreamland",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Monkey Brains",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "The End Is Where We Begin",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Escape Artist",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Refuge",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Never Get Over You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "White Flags",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Signs of Life",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Paper Moon",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Time Bomb",
+     "duracao": "3:31"
+    },
+    {
+     "n": 12,
+     "titulo": "The Right Stuff",
+     "duracao": "3:23"
+    },
+    {
+     "n": 13,
+     "titulo": "All You Did Was Save My Life",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Dreamland",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Monkey Brains",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Never Get Over You",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Refuge",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "The Right Stuff",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "All You Did Was Save My Life",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "The Right Stuff",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 65,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Burn_Burn_%28album%29",
+   "resumo_en": "Burn Burn is the seventh studio album by Canadian alternative rock band Our Lady Peace, released in North America on July 21, 2009. The album's title is based on a quote by Jack Kerouac from his 1957 novel On the Road.\nThe album, recorded at vocalist Raine Maida's home studio in Los Angeles between 2007 and 2009, was released independent of any major label under the band's longtime management company Coalition Entertainment. Sony Music (the band's previous label) distributed the album in Canada, and WMG's Independent Label Group did so in the United States.\nBurn Burn is Our Lady Peace's first album not to have involved collaboration with an outside producer, having instead been produced by band vocalist Raine Maida."
+  },
+  {
+   "id": "8737882e-8fb8-463e-9150-94a23372c367",
+   "titulo": "Curve",
+   "data": "2012-04-03",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/2314ce85-ccc1-413d-80d2-fb234e95ed71/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Allowance",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Fire in the Hen House",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Heavyweight",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Window Seat",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "As Fast as You Can",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "If This Is It",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Will Someday Change",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Find Our Way",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Rabbits",
+     "duracao": "5:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Mettle",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 49,
+    "media": 6.4,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Curve_%28album%29",
+   "resumo_en": "Curve is the eighth studio album by Canadian alternative rock band Our Lady Peace (OLP), released on April 3, 2012. The album was recorded from 2010 through 2012 at vocalist Raine Maida's home recording studio. Curve's first and only single, \"Heavyweight\", was released on December 20, 2011. The music from Curve has been touted by lead singer Maida as being \"more experimental and ambitious\" than the band's 2000 concept album Spiritual Machines. The album's cover features Canadian heavyweight boxer George Chuvalo, whose vocal excerpts are featured in the album's tenth and final track \"Mettle\".\nThe album debuted at No. 9 on the Canadian Albums Chart. This is the last album to feature the Gravity-era lineup, with drummer Jeremy Taggart leaving the band in June 2014. The time between Curve's release and the band's 2018 album Somethingness marked the longest gap between Our Lady Peace studio albums to date, at nearly 6 years."
+  },
+  {
+   "id": "ef65963c-8e88-4fc8-b8b5-62cd39bba992",
+   "titulo": "Somethingness",
+   "data": "2018-02-23",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/a159398a-e8d4-4577-8ae8-2f3f53b94b14/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Head Down",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Nice to Meet You",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Ballad of a Poet",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Hiding Place for Hearts",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Drop Me in the Water",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Missing Pieces",
+     "duracao": "4:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Falling Into Place",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Let Me Live Again",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Last Train",
+     "duracao": "3:30"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Somethingness",
+   "resumo_en": "Somethingness is the ninth studio album by Canadian alternative rock band Our Lady Peace (OLP). Produced under the Warner Music Records label by Jason Lader, who also produced their preceding album Curve, this is the band's first studio album in nearly six years and it was promoted using the PledgeMusic platform, a website which facilitates musicians reaching out to their fans to market and distribute music.\nIt is the first OLP album to have been released in two separate volumes; Vol. 1 was released as an EP in August 2017, and the album as a whole was released on February 23, 2018, and contained all of the songs from Vol. 1. The album is the first not to feature original drummer Jeremy Taggart, who departed from the band in 2014, and is the first to feature Jason Pierce, who replaced Taggart in 2016."
+  },
+  {
+   "id": "d0670de5-c722-44fc-886d-1d8c9a371cbd",
+   "titulo": "Spiritual Machines II",
+   "data": "2022-01-28",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/a3abd07d-1288-4922-849f-7626921c3014/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "RK1.Age of Spiritual Machines",
+     "duracao": "0:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Stop Making Stupid People Famous",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Holes",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "RK2.Consciousness",
+     "duracao": "0:28"
+    },
+    {
+     "n": 5,
+     "titulo": "The Message",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Wish You Well",
+     "duracao": "4:44"
+    },
+    {
+     "n": 7,
+     "titulo": "RK3.UBI",
+     "duracao": "0:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Future Disease",
+     "duracao": "5:18"
+    },
+    {
+     "n": 9,
+     "titulo": "19 Days",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Run",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "RK4.Escape Velocity",
+     "duracao": "1:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Simulation",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Good Die Young",
+     "duracao": "3:26"
+    },
+    {
+     "n": 14,
+     "titulo": "RK5.Turing Test",
+     "duracao": "0:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Temporary Healing",
+     "duracao": "4:53"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Spiritual_Machines_2",
+   "resumo_en": "Spiritual Machines 2 is the tenth studio album from Canadian alternative rock band Our Lady Peace, a sequel to their 2000 art rock concept album Spiritual Machines. The album was produced by Dave Sitek, and released through BMG's Shelter Music Group in the form of a non-fungible token (NFT) on October 29, 2021. All 500 NFTs were reported sold out in January 2022. A traditional release of the album happened on January 28 and a multi-media tour was scheduled to begin in June 2022.\nThe album, along with its thematic predecessor, is influenced by the 1999 Ray Kurzweil book The Age of Spiritual Machines. Spiritual Machines 2 was inspired by Kurzweil following up in the 2020s on his predictions made in the 1990s. Spoken excerpts voiced by Kurzweil feature in the album, as they did in the original Spiritual Machines album. It is the first Our Lady Peace album to involve the participation of founding member and original guitarist Mike Turner since Gravity in 2002, and the first studio release to feature Saul Fox on its cover since the original Spiritual Machines album. During the band's mid-2022 tour, Kurzweil and Turner were \"projected\" into the performance space in real time in the form "
+  }
+ ]
+}

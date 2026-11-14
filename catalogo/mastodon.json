@@ -1,0 +1,728 @@
+{
+ "id": "mastodon",
+ "nome": "Mastodon",
+ "cena": "Groove, death e além",
+ "mbid": "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+ "wikidata": "Q548844",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "2000",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive metal",
+  "sludge metal",
+  "heavy metal",
+  "metal",
+  "alternative metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ursynalia_2012%2C_Mastodon_12.jpg/500px-Ursynalia_2012%2C_Mastodon_12.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Mastodon",
+ "resumo_pt": "O Mastodon é uma banda de heavy metal de Atlanta, Geórgia. A banda é uma das mais notáveis bandas na New Wave of American Heavy Metal, tendo influências de groove metal, rock progressivo, hardcore punk, stoner metal e outras. A música do grupo contém riffs pesados, técnicos e complexos, passagens intrincadas e interludios longos e melódicos, inspirados pelo amor que a banda tem ao rock progressivo dos anos 70. O grupo lançou oito álbuns de estúdio, bem como diversas gravações ao vivo, EPs e faixas originais para trilhas sonoras.",
+ "resumo_en": "Mastodon is an American heavy metal band from Atlanta, Georgia. Formed in 2000, the band's lineup of Troy Sanders (bass/vocals), Brent Hinds (lead guitar/vocals), Bill Kelliher (rhythm guitar/backing vocals), and Brann Dailor (drums/vocals) remained unchanged for 24 years. Hinds departed Mastodon in March 2025, and died five months later in a motorcycle accident in Atlanta, Georgia.\nThe band's 2002 debut album, Remission, garnered significant critical acclaim for its unique sound. Mastodon's second full-length release, Leviathan, is a concept album based on the novel Moby-Dick by Herman Melville. Three magazines awarded the record \"Album of the Year\" in 2004: Revolver, Kerrang! and Terrorizer. The song \"Colony of Birchmen\" from the band's third album (released in 2006), Blood Mountain, was nominated for a Grammy Award for Best Metal Performance in 2007. Blood Mountain was followed in 2009 by Crack the Skye, and in 2011 by The Hunter, which debuted at No. 10 on the Billboard 200 chart and achieved major commercial success in the United States. The Hunter features the song \"Curl of the Burl\", which was nominated for a Grammy Award for Best Hard Rock/Metal Performance in 2012.\nMastodon's 2014 album Once More 'Round the Sun peaked at No. 6 on the Billboard 200 chart and features the band's third Grammy-nominated song, \"High Road\". The band's seventh album, Emperor of Sand, was released in 2017 and features the band's most commercially successful song to date, \"Show Yourself\", whi",
+ "albuns": [
+  {
+   "id": "a87adcfd-8c65-3455-869b-25066046ebec",
+   "titulo": "Remission",
+   "data": "2002-05-28",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/35ecfce3-cae6-337c-9d86-eda5c2e3d99b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crusher Destroyer",
+     "duracao": "2:01"
+    },
+    {
+     "n": 2,
+     "titulo": "March of the Fire Ants",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Where Strides the Behemoth",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Workhorse",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Ol'e Nessie",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Burning Man",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Trainwreck",
+     "duracao": "7:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Trampled Under Hoof",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Trilobite",
+     "duracao": "6:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Mother Puncher",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Elephant Man",
+     "duracao": "8:01"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.7,
+    "fontes": 6
+   },
+   "publico": 7.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Remission_%28Mastodon_album%29",
+   "resumo_en": "Remission is the debut album by American heavy metal band Mastodon. It was released on May 28, 2002, through Relapse Records. A deluxe edition was released on October 21, 2003. In 2014, the reissue was released in digital and CD format with higher quality than the original and with a booklet inside with new images."
+  },
+  {
+   "id": "7902c486-f670-3336-9850-b4112079d9e6",
+   "titulo": "Leviathan",
+   "data": "2004-08-31",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/5d79bae4-c9cd-4b2f-a14c-2a28364706b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blood and Thunder",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "I Am Ahab",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Seabeast",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Ísland",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Iron Tusk",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Megalodon",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Naked Burn",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Aqua Dementia",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Hearts Alive",
+     "duracao": "13:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Joseph Merrick",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 9
+   },
+   "publico": 8.1,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leviathan_%28Mastodon_album%29",
+   "resumo_en": "Leviathan is the second album by American heavy metal band Mastodon, released in 2004 on Relapse Records. It is Mastodon's first concept album, with lyrics based on the 1851 novel Moby-Dick by Herman Melville. The songs \"Iron Tusk\", \"Naked Burn\", and \"Blood and Thunder\" were released as promotional singles, and music videos were created for \"Iron Tusk\", \"Blood and Thunder\", and \"Seabeast\". Three magazines awarded the album Album of the Year in 2004: Revolver, Kerrang! and Terrorizer. In 2009 and 2015, MetalSucks named Leviathan the best metal album of the 21st century.\nLeviathan was also released with an audio DVD in a limited edition set with a black and gold slipcase. The album brought Mastodon widespread critical acclaim and, together with the ensuing tour, greatly extended their fan base. It sold 106,000 copies by September 2006. Guitarist Bill Kelliher considers this album a representation of the water element, in keeping with the elemental tetralogy of the band's first four albums.\nIn 2021, Eli Enis of Revolver included the song \"Blood and Thunder\" in his list of the \"15 Greatest Album-Opening Songs in Metal\"."
+  },
+  {
+   "id": "8f2bde3a-8af2-3049-833b-b490ce78ae1c",
+   "titulo": "Blood Mountain",
+   "data": "2006-09-08",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/54e71f10-4897-41ca-992b-96f6737a03b6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Wolf Is Loose",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Crystal Skull",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Sleeping Giant",
+     "duracao": "5:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Capillarian Crest",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Circle of Cysquatch",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Bladecatcher",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Colony of Birchmen",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Hunters of the Sky",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Hand of Stone",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "This Mortal Soil",
+     "duracao": "5:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Siberian Divide",
+     "duracao": "5:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Pendulous Skin",
+     "duracao": "22:15"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 82,
+    "media": 7.8,
+    "fontes": 8
+   },
+   "publico": 8.5,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blood_Mountain_%28album%29",
+   "resumo_en": "Blood Mountain is the third full-length studio album and major label debut by American heavy metal band Mastodon. The recording of the album finished in April 2006 and it was released on September 12, 2006, in the UK and North America through Reprise Records. The album in full could be streamed at the band's MySpace page a few days prior to the release.\nLike Mastodon's previous studio work Leviathan, Blood Mountain is a concept album. According to bassist Troy Sanders, \"It's about climbing up a mountain and the different things that can happen to you when you're stranded on a mountain, in the woods, and you're lost. You're starving, hallucinating, running into strange creatures. You're being hunted. It's about that whole struggle.\" Guitarist Bill Kelliher considers this album to represent the earth element. At the time, bassist Troy Sanders called it \"sonically the best album we have done.\" The band continued to shift the emphasis to clean, melodic vocals from the harsher vocals used on their early work.\nThe album includes guest appearances by Scott Kelly of Neurosis on \"Crystal Skull\", Josh Homme of Queens of the Stone Age on \"Colony of Birchmen\", as well as keyboard player Isaiah"
+  },
+  {
+   "id": "defcc444-7255-320d-bf21-888eb4d53ff9",
+   "titulo": "Crack the Skye",
+   "data": "2009-02-23",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/d8482d42-f58b-4986-b835-1318dbb60a58/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Oblivion",
+     "duracao": "5:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Divinations",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Quintessence",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "The Czar: I. Usurper - II. Escape - III. Martyr - IV. Spiral",
+     "duracao": "10:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Ghost of Karelia",
+     "duracao": "5:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Crack the Skye",
+     "duracao": "5:54"
+    },
+    {
+     "n": 7,
+     "titulo": "The Last Baron",
+     "duracao": "13:00"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 82,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 9.0,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Crack_the_Skye",
+   "resumo_en": "Crack the Skye is the fourth studio album by American heavy metal band Mastodon, released on March 24, 2009, through Reprise, Sire and Relapse Records.\nIt is the band's first studio album to feature drummer Brann Dailor as Mastodon's third lead vocalist. Dailor wrote most of the lyrics for the album, while guitarist Brent Hinds wrote most of the music. It is a concept album with a narrative that mixes science fiction with Tsarist Russian history, rooted in band members' personal struggles. These include the death of Dailor's sister Skye, who the album is named after, as well as Hinds' recovery from a brain hemorrhage he sustained from a fight after the 2007 MTV VMAs.\nThe album debuted at number 11 on the Billboard 200, selling 41,000 copies in its first week. In Australia, the album debuted at number 19. It had sold 200,000 copies in the US as of September 2010, making it one of their highest-selling albums to date."
+  },
+  {
+   "id": "3c73bc27-4567-4957-8cfb-929d79b3a6ce",
+   "titulo": "The Hunter",
+   "data": "2011-09-26",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/0493c90f-b0ff-4fc2-8a30-aa92e36ac6b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Tongue",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Curl of the Burl",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Blasteroid",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Stargasm",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Octopus Has No Friends",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "All the Heavy Lifting",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "The Hunter",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Dry Bone Valley",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Thickening",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Creature Lives",
+     "duracao": "4:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Spectrelight",
+     "duracao": "3:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Bedazzled Fingernails",
+     "duracao": "3:08"
+    },
+    {
+     "n": 13,
+     "titulo": "The Sparrow",
+     "duracao": "5:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Credits",
+     "duracao": "0:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Making of The Hunter",
+     "duracao": "6:10"
+    },
+    {
+     "n": 16,
+     "titulo": "Track by Track Commentary",
+     "duracao": "18:14"
+    },
+    {
+     "n": 17,
+     "titulo": "Track by Track Commentary",
+     "duracao": "18:14"
+    },
+    {
+     "n": 18,
+     "titulo": "Videos (Stargasm Visualizer, Black Tongue video, Deathbound video)",
+     "duracao": "11:31"
+    }
+   ],
+   "duracao_min": 108,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 83,
+    "media": 8.7,
+    "fontes": 9
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Hunter_%28Mastodon_album%29",
+   "resumo_en": "The Hunter is the fifth studio album by American heavy metal band Mastodon. Released through Roadrunner Records on September 26, 2011, in the UK and one day later in the US via Reprise Records, The Hunter is their first release with producer Mike Elizondo. In its first week of release in the UK, the album reached number 19 on the UK Albums Chart and position number 10 on the Billboard 200 chart selling over 39,000 copies in the first week. As of December 2011, The Hunter has sold over 75,133 copies in the United States."
+  },
+  {
+   "id": "be9c455b-d2cd-4738-8105-e42712f38e74",
+   "titulo": "Once More ’Round the Sun",
+   "data": "2014-06-20",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/2883def1-db79-4b58-9280-bc8330f94c74/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tread Lightly",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "The Motherload",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "High Road",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Once More ’Round the Sun",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Chimes at Midnight",
+     "duracao": "5:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Asleep in the Deep",
+     "duracao": "6:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Feast Your Eyes",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Aunt Lisa",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Ember City",
+     "duracao": "4:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Halloween",
+     "duracao": "4:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Diamond in the Witch House",
+     "duracao": "7:49"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": 8.3,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Once_More_%27Round_the_Sun",
+   "resumo_en": "Once More 'Round the Sun is the sixth studio album by American heavy metal band Mastodon. It was released on June 24, 2014, via Reprise Records. On April 17, 2014, Mastodon released the album's first single, \"High Road\". On June 16, 2014, the album was made available for streaming on iTunes. Once More 'Round the Sun sold around 34,000 copies in the United States in its first week of release to land at position No. 6 on the Billboard 200 chart, making it the band's highest-peaking album on the chart and their second consecutive Top 10 debut after their previous album, The Hunter, peaked at No. 10."
+  },
+  {
+   "id": "31cedc9c-9227-4e46-9b07-13589c525b77",
+   "titulo": "Emperor of Sand",
+   "data": "2017-03-31",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/f575db7a-c5de-4e45-8dd3-d2ff13b93b62/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sultan’s Curse",
+     "duracao": "4:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Show Yourself",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Precious Stones",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Steambreather",
+     "duracao": "5:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Roots Remain",
+     "duracao": "6:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Word to the Wise",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Ancient Kingdom",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Clandestiny",
+     "duracao": "4:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Andromeda",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Scorpion Breath",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Jaguar God",
+     "duracao": "7:56"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 78,
+    "media": 7.6,
+    "fontes": 9
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Emperor_of_Sand",
+   "resumo_en": "Emperor of Sand is the seventh studio album by American heavy metal band Mastodon. It was released on March 31, 2017 through record label Reprise Records. The album's first single, \"Show Yourself\", peaked at number 4 on the US Billboard Mainstream Rock Songs chart in 2017. The second single, \"Steambreather\", peaked at number 18 on the same chart. It was ranked on several year-end lists, including at number three on The Independent's \"Top 20 Rock & Metal Albums of 2017\"."
+  },
+  {
+   "id": "aa4960fb-3b27-4d68-b68a-0143fa5f84f0",
+   "titulo": "Hushed and Grim",
+   "data": "2021-10-29",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/2ed34752-7348-4135-a93d-10ad5d074496/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pain With an Anchor",
+     "duracao": "5:01"
+    },
+    {
+     "n": 2,
+     "titulo": "The Crux",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Sickle and Peace",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "More Than I Could Chew",
+     "duracao": "6:51"
+    },
+    {
+     "n": 5,
+     "titulo": "The Beast",
+     "duracao": "6:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Skeleton of Splendor",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Teardrinker",
+     "duracao": "5:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Pushing the Tides",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Peace and Tranquility",
+     "duracao": "5:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Dagger",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Had It All",
+     "duracao": "5:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Savage Lands",
+     "duracao": "4:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Gobblers of Dregs",
+     "duracao": "8:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Eyes of Serpents",
+     "duracao": "6:49"
+    },
+    {
+     "n": 15,
+     "titulo": "Gigantium",
+     "duracao": "6:54"
+    }
+   ],
+   "duracao_min": 86,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 82,
+    "media": 8.7,
+    "fontes": 9
+   },
+   "publico": 6.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hushed_and_Grim",
+   "resumo_en": "Hushed and Grim is the eighth studio album by American heavy metal band Mastodon, released on October 29, 2021 through Reprise Records, their final release on the label. A double album, it is the band's last album with founding guitarist Brent Hinds before his departure from the band in March 2025 and his death five months later.\nCritical reception was positive, and the album sold well globally. The album also serves as a tribute to Mastodon's former manager Nick John, who died from cancer in 2018. Guest appearances include former Soundgarden guitarist Kim Thayil and bassist Troy Sanders' mother Jody on French horn. It is the band's first album since their 2002 debut Remission to not feature guest vocals from Neurosis's Scott Kelly."
+  },
+  {
+   "id": "2c35c7fd-6447-4225-938c-051b4fbb728d",
+   "titulo": "Marrow Deep",
+   "data": "2026-08-28",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/3de33441-bcff-4909-9230-3cf05ba3a06b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Barbarians Blood",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Poisonous Weapons",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Your Ghost Again",
+     "duracao": "4:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Snakes for Dinner",
+     "duracao": "4:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Out Like a Lamb",
+     "duracao": "5:38"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Ruins",
+     "duracao": "5:37"
+    },
+    {
+     "n": 7,
+     "titulo": "They’re Coming for You",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Golden Spires",
+     "duracao": "5:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Moth and Bone",
+     "duracao": "4:46"
+    },
+    {
+     "n": 10,
+     "titulo": "A Vampire’s Demeanor",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "The Vanishing",
+     "duracao": "6:43"
+    },
+    {
+     "n": 12,
+     "titulo": "The Three Fates",
+     "duracao": "7:47"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

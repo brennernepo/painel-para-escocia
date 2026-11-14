@@ -1,0 +1,838 @@
+{
+ "id": "barao-vermelho",
+ "nome": "Barão Vermelho",
+ "cena": "Rock brasileiro",
+ "mbid": "84ac395b-482b-48cb-b381-b9bc420b2dd3",
+ "wikidata": "Q38361",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1981",
+ "fim": null,
+ "ativa": true,
+ "generos": [],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bar%C3%A3o_Vermelho_2017_%28retouched%29.jpg/500px-Bar%C3%A3o_Vermelho_2017_%28retouched%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bar%C3%A3o_Vermelho",
+ "resumo_pt": "Barão Vermelho é uma banda de rock brasileira formada em 1981 no Rio de Janeiro, originalmente composta por Cazuza (vocalista e principal letrista), Frejat (guitarrista), Dé Palmeira (baixista), Maurício Barros (tecladista) e Guto Goffi (baterista). Com diversos sucessos, como \"Pro Dia Nascer Feliz\", \"Bete Balanço\", \"Por Você\", \"Puro Êxtase\", entre outros, a banda faz parte do Quarteto Sagrado do rock brasileiro da década de 1980, ao lado das bandas Legião Urbana, Os Paralamas do Sucesso e Titãs, considerada uma das mais importantes e influentes do rock brasileiro, além de ser responsável por popularizar o gênero na mesma década.\nDesde a saída de Cazuza, em 1985, a banda passou por várias mudanças em sua formação, sendo o baterista Guto Goffi o único a se fazer presente em todas elas. Atualmente, a banda é composta por: Rodrigo Suricato, Maurício Barros, Guto Goffi e Fernando Magalhães.",
+ "resumo_en": "Barão Vermelho (transl. Red Baron) is a Brazilian rock band. Formed in 1981 in Rio de Janeiro, it was originally led by songwriting duo Cazuza (singer) and Roberto Frejat (guitarist), who assumed the vocals after Cazuza's departure in 1985. Frejat left the band in 2017 and was replaced by Rodrigo Suricato. They are considered one of the most influential bands in Brazilian rock.",
+ "albuns": [
+  {
+   "id": "3b15cfca-db64-33c2-a5c0-d428d4be4408",
+   "titulo": "Barão Vermelho",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/6f64d13c-f8be-49ed-be30-e445640cb9ea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Posando de star",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Down em mim",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Conto de fadas",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Billy negão",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Certo dia na cidade",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock'n geral",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Ponto fraco",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Por aí",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Todo amor que houver nessa vida",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Bilhetinho azul",
+     "duracao": "2:18"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bar%C3%A3o_Vermelho_%28album%29",
+   "resumo_en": "Barão Vermelho is the first album by Brazilian rock band Barão Vermelho, released in 1982.  The album includes the song \"Todo Amor Que Houver Nessa Vida\" (All The Love There Is In This Life), which became one of the band's classics."
+  },
+  {
+   "id": "ff91c884-f86b-343b-a62d-b41fafbab8cf",
+   "titulo": "Barão Vermelho 2",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/8b036414-4339-4fcc-ba72-098a5338a8f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro/Menina Mimada",
+     "duracao": "0:38"
+    },
+    {
+     "n": 2,
+     "titulo": "O que a gente quiser",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Vem comigo",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Bicho humano",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Carente profissional",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Largado no mundo",
+     "duracao": "2:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Carne de pescoço",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Pro dia nascer feliz",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Manhã sem sonho",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Blues do iniciante",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bar%C3%A3o_Vermelho_2",
+   "resumo_en": "Barão Vermelho 2 is the second album by Brazilian rock band Barão Vermelho, released in 1983.  It includes their first hit \"Pro Dia Nascer Feliz\", which became one of the band's classics."
+  },
+  {
+   "id": "ff66f540-7f4d-358a-ab30-3c63b1491860",
+   "titulo": "Maior abandonado",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/a5fa6f9c-db14-4aa5-a3e7-afc9d6b466bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Maior abandonado",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Baby suporte",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Sem vergonha",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Você se parece com todo mundo",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Milagres",
+     "duracao": "2:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Não amo ninguém",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Por que a gente é assim?",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Narciso",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Nós",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Dolorosa",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Bete Balanço",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Maior_Abandonado",
+   "resumo_en": "Maior Abandonado (transl. Abandoned Adult) is the third album by Brazilian rock band Barão Vermelho, released in 1984. It is their most critically acclaimed and generally considered their best album. It contains their biggest hit \"Bete Balanço\". This was the last album  with singer and main lyricist Cazuza, who left the band in 1985."
+  },
+  {
+   "id": "46f5765f-ce51-3083-9060-d63ba6cddcdd",
+   "titulo": "Declare guerra",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/dd6d4a64-93eb-46c2-87c4-162d6b7e780d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Um dia na vida",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Desabrigado",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Torre de Babel",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Bagatelas",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Não quero seu perdão",
+     "duracao": "2:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Bumerangue blues",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Declare guerra",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Linda e burra",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Maioridade",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Que o Deus venha",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Eu tô feliz",
+     "duracao": "3:58"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Declare_Guerra",
+   "resumo_en": "Declare Guerra (transl. Declare War) is an album by Brazilian rock band Barão Vermelho, released in 1986. It's the first album released by the band after their main lyricist and vocalist, Cazuza, left the band. It's the first album with singer/guitarist Roberto Frejat. The album was a commercial failure."
+  },
+  {
+   "id": "24f21bf5-a568-3f5d-bca7-db13f9d41151",
+   "titulo": "Rock'n geral",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/90a9b564-ab09-4e00-b9ff-6983e63b87ab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Amor de irmão",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonhos que dinheiro nenhum compra",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Ta difícil de aturar",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Completamente nova",
+     "duracao": "1:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Blues do abandono",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Me acalmo, me desespero",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Copacabana",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Dignidade",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Agora tudo acabou",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Quem me olha só",
+     "duracao": "3:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Contravenção",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock%27n_Geral",
+   "resumo_en": "Rock'n Geral is the fifth album by brazilian rock band Barão Vermelho, released in 1987. It's the second album with Roberto Frejat as vocalist. Like the previous one, this album didn't sell well."
+  },
+  {
+   "id": "a6135522-319d-3e7e-b094-958dcf2f840b",
+   "titulo": "Carnaval",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/1f685dd7-de17-4759-a0ec-161ff5a05073/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lente",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Pense e dance",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Não me acabo",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "O que você faz à noite",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Nunca existiu pecado",
+     "duracao": "5:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Como um furacão",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Quem me escuta",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Selvagem",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Carnaval",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock da descerebração",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Carnaval_%28Bar%C3%A3o_Vermelho_album%29",
+   "resumo_en": "Carnaval is the sixth album by Brazilian rock band Barão Vermelho, released in 1988. It's the third album with Roberto Frejat as vocalist and the final album with bassist Dé Palmeira. The album sold better than the previous two albums and it generated the hit \"Pense e Dance\" (Think and Dance)."
+  },
+  {
+   "id": "3a682a3c-3d68-3e15-87c8-5d894969f0fb",
+   "titulo": "Na calada da noite",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/a53143ef-0418-4e2a-a92a-554a546edafc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Política voz",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "O invisível",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Na calada da noite",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Beijos de arame farpado",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Sonhos pra voar",
+     "duracao": "1:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Seco",
+     "duracao": "0:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Tão longe de tudo",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "A voz da chuva",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Tua canção",
+     "duracao": "2:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Invejo os bichos",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "O poeta está vivo",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "ba9ba85a-fdb8-3617-9b1a-305bb633128e",
+   "titulo": "Supermercados da vida",
+   "data": "1992-01",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/97bc4187-1e99-4601-b6fd-b28d7ce00dcd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fúria e folia",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Odeio-te meu amor",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Pedra flor e espinho",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Flores do mal",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Azul, azulão",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Fogo de palha",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Fios elétricos",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Supermercados da vida",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Sombras no escuro",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Cidade fria",
+     "duracao": "3:52"
+    },
+    {
+     "n": 11,
+     "titulo": "A noite não acabou",
+     "duracao": "3:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Comendo vidro",
+     "duracao": "3:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Portos livres",
+     "duracao": "3:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Marcas no pescoço",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "4519ef8a-ed88-3aa1-8f24-b9eb74ef3fb1",
+   "titulo": "Carne crua",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/16962435-78af-464a-8d6f-d69262767d33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Carne crua",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Meus bons amigos",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Daqui por diante",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Sem dó",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Pergunte ao tio José",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Guarda essa canção",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Seremos macacos outra vez",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Não me fuja pelas mãos",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Vida frágil",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock do vapor",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "O inferno é aqui",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "0ea87379-9703-3185-b867-1f0869eaf050",
+   "titulo": "Puro êxtase",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/97b7e8b9-6426-4cdb-ab37-9d199d24c1b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Iceberg",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Puro êxtase",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Por você",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Presente ordinário",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Cena de cinema",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Quando você não está por perto",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Vou correndo até você",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "O sono vem",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "No topo do mundo",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Estranho exemplo",
+     "duracao": "18:58"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "984ee26d-9041-4f64-a124-49618ba6b148",
+   "titulo": "Barão pra sempre",
+   "data": "2018-04-20",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/1543d22e-edc7-4ff1-86d6-eef17d0a2c03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pense e dance",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Puro êxtase",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Meus bons amigos",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Eu queria ter uma bomba",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Tão longe de tudo",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Pro dia nascer feliz",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Billy Negão",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Por você (acústico)",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Brasil (acústico)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "7e7b7e51-59b4-4836-b066-d62fc6f04a76",
+   "titulo": "VIVA",
+   "data": "2019-08-16",
+   "ano": "2019",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eu Nunca Estou Só",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Por Onde Eu For",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Jeito",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Tudo por Nós 2",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Um Dia Igual ao Outro",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Vai Ser Melhor Assim",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Castelos",
+     "duracao": "4:16"
+    },
+    {
+     "n": 8,
+     "titulo": "A Solidão Te Engole Vivo",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Pra Não Te Perder",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

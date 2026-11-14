@@ -1,0 +1,568 @@
+{
+ "id": "limp-bizkit",
+ "nome": "Limp Bizkit",
+ "cena": "Nu metal e correlatos",
+ "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+ "wikidata": "Q240767",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1994",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "nu metal",
+  "rap metal",
+  "rapcore",
+  "rap rock",
+  "alternative metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Limp_Bizkit_050709_Le_Z%C3%A9nith_%28Paris%29_II.jpg/500px-Limp_Bizkit_050709_Le_Z%C3%A9nith_%28Paris%29_II.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Limp_Bizkit",
+ "resumo_pt": "Limp Bizkit é uma banda norte-americana de rock formada em Jacksonville, Flórida. A banda é formada por Fred Durst (vocal), Wes Borland (guitarra), DJ Lethal (DJ) e John Otto (bateria). Limp Bizkit foi nomeado para três Grammy Awards e já ganhou vários outros prêmios. A banda vendeu mais de 40 milhões de álbuns pelo mundo.",
+ "resumo_en": "Limp Bizkit is an American nu metal band from Jacksonville, Florida. Its lineup consists of lead vocalist Fred Durst, drummer John Otto, guitarist Wes Borland, and turntablist DJ Lethal. The band's musical style is marked by Durst's angry vocal delivery and Borland's sonic experimentation. The band is one of the most successful nu metal bands of all time. It has been nominated for three Grammy Awards, sold 40 million records worldwide, and won several other awards.\nFormed in 1994 by Durst and Sam Rivers, the band was soon joined by John Otto and later Wes Borland. Limp Bizkit became popular playing in the Jacksonville underground music scene in the late 1990s, and signed with Flip Records (with distribution from Interscope), who released the band's debut album, Three Dollar Bill, Y'all (1997). The band achieved mainstream success with its second and third studio albums, Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000). However, this success was marred by a series of controversies surrounding its performances at Woodstock '99 and the 2001 Big Day Out festival.\nBorland left the group in 2001; however, Durst, Rivers, Otto, and Lethal continued to record and tour with guitarist Mike Smith. Following the release of their fourth album Results May Vary (2003), Borland rejoined the band and recorded the EP The Unquestionable Truth (Part 1) (2005) with Durst, Rivers, Lethal, and drummer Sammy Siegler before entering a hiatus. In 2009, the band once",
+ "albuns": [
+  {
+   "id": "37e85bb0-e792-3a19-a3ca-593e2c4c026a",
+   "titulo": "Three Dollar Bill, Yall$",
+   "data": "1997-06-24",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/6461fdbd-97c9-4f97-afda-131c5dd3e050/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "0:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Pollution",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Counterfeit",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Stuck",
+     "duracao": "5:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Nobody Loves Me",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Sour",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Stalemate",
+     "duracao": "6:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Clunk",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Faith",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Stinkfinger",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Indigo Flow",
+     "duracao": "2:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Leech",
+     "duracao": "2:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Everything",
+     "duracao": "16:27"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.7,
+    "fontes": 6
+   },
+   "publico": 6.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Three_Dollar_Bill%2C_Y%27all",
+   "resumo_en": "Three Dollar Bill, Y'all (stylized as Three Dollar Bill, Yall$) is the debut studio album by American nu metal band Limp Bizkit. It was released on July 1, 1997, through Flip and Interscope Records. The album established the band's trademark sound with the singles \"Counterfeit\", which was influenced by hip hop and heavy metal, and \"Faith\", a cover of the 1987 song of the same name by George Michael.\nThree Dollar Bill, Y'all was produced by Ross Robinson, who was introduced to the band through Korn bassist Reginald \"Fieldy\" Arvizu, who persuaded Robinson to listen to Limp Bizkit's demo. Robinson was impressed by the band's motivation and sound, and agreed to work with them. The album showcased an intentionally abrasive, angry sound which the band felt would attract a fanbase."
+  },
+  {
+   "id": "2234d0c4-5ee5-3388-8baa-49bcb23ebbbd",
+   "titulo": "Significant Other",
+   "data": "1999-06-18",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/cf3e8681-b4e1-4487-a2eb-80953c007df8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Just Like This",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Nookie",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Break Stuff",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Re‐Arranged",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Broke",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Nobody Like You",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Go Off Wandering",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "9 Teen 90 Nine",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "N 2 Gether Now",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Trust?",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "No Sex",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Show Me What You Got",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "A Lesson Learned",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Outro",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 8
+   },
+   "publico": 7.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Significant_Other_%28album%29",
+   "resumo_en": "Significant Other is the second studio album by American nu metal band Limp Bizkit. It was released on June 22, 1999, through  Flip and Interscope Records. The album saw the band expand their sound from that of their debut, Three Dollar Bill, Y'all (1997), incorporating further metal and hip-hop influences but with a more melodic and less hardcore punk-influenced sound.\nSignificant Other was commercially successful, peaking at number one on the US Billboard 200. At least 16 million copies of the album have been sold worldwide. It received generally positive reviews from critics, who noted the band's distinctive sound and performance that was considered an improvement over its predecessor.\nThe album was nominated for Best Rock Album at the 42nd Annual Grammy Awards, and the lead single \"Nookie\" was nominated for Best Hard Rock Performance."
+  },
+  {
+   "id": "55203b2f-314b-39c2-9e48-56a95e41a337",
+   "titulo": "Chocolate Starfish and the Hot Dog Flavored Water",
+   "data": "2000-10-14",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/65c48106-0c8f-4121-a6c9-d29d97ae283a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "1:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Hot Dog",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "My Generation",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Full Nelson",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "My Way",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Rollin’ (Air Raid Vehicle)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Livin’ It Up",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "The One",
+     "duracao": "5:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Getcha Groove On",
+     "duracao": "4:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Take a Look Around",
+     "duracao": "5:21"
+    },
+    {
+     "n": 11,
+     "titulo": "It’ll Be OK",
+     "duracao": "5:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Boiler",
+     "duracao": "7:00"
+    },
+    {
+     "n": 13,
+     "titulo": "Hold On",
+     "duracao": "5:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Rollin’ (Urban Assault Vehicle)",
+     "duracao": "6:22"
+    },
+    {
+     "n": 15,
+     "titulo": "Outro",
+     "duracao": "9:49"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 49,
+    "media": 7.0,
+    "fontes": 9
+   },
+   "publico": 6.8,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chocolate_Starfish_and_the_Hot_Dog_Flavored_Water",
+   "resumo_en": "Chocolate Starfish and the Hot Dog Flavored Water is the third studio album by American nu metal band Limp Bizkit. It was released on October 17, 2000, through Flip and Interscope Records. The album saw the band capitalize on newfound mainstream attention following the success of their previous album, Significant Other (1999).\nThe album debuted at No. 1 on the Billboard 200 chart in the United States, selling 1,054,511 copies in its first week and setting a record for the fastest-selling rock album in the country. It ultimately sold over 6.7 million copies in the U.S. alone and earned platinum certifications in 13 countries, selling a further 10 million copies worldwide.\nIt was the band's last release to feature guitarist Wes Borland until the EP The Unquestionable Truth (Part 1) (2005), and the last album to featured the band's classic lineup until Gold Cobra (2011)."
+  },
+  {
+   "id": "1a7f7f9f-36b8-3a22-b75c-431de63e068e",
+   "titulo": "Results May Vary",
+   "data": "2003-05-28",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/33be313c-fbd9-431b-b01f-a3a228786c63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Re-Entry",
+     "duracao": "2:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Eat You Alive",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Gimme the Mic",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Underneath the Gun",
+     "duracao": "5:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Down Another Day",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Almost Over",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Build a Bridge",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Red Light - Green Light",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "The Only One",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Let Me Down",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Lonely World",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Phenomenon",
+     "duracao": "3:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Creamer (Radio Is Dead)",
+     "duracao": "4:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Head for the Barricade",
+     "duracao": "3:32"
+    },
+    {
+     "n": 15,
+     "titulo": "Behind Blue Eyes",
+     "duracao": "4:30"
+    },
+    {
+     "n": 16,
+     "titulo": "Drown",
+     "duracao": "3:51"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 3.0,
+    "metacritic": 33,
+    "media": 4.1,
+    "fontes": 9
+   },
+   "publico": 5.9,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Results_May_Vary",
+   "resumo_en": "Results May Vary is the fourth studio album by American nu metal band Limp Bizkit. It was released on September 23, 2003, through Flip and Interscope Records. It is the band's only release under the sole-leadership of vocalist Fred Durst after the temporary departure of guitarist Wes Borland, who left in 2001. Guitarist Mike Smith of Snot was brought in to replace Borland, although his time with the band was brief, and Durst along with a number of guests ended up handling the majority of the album's guitar work.\nResults May Vary differed from Limp Bizkit's established sound up until that point; although the album still featured elements of hip-hop and nu metal, it also branched out into other musical styles, including alternative rock, acoustic, funk and jazz. It also featured less rapping and more introspective lyrics related to heartbreak, bullying, and self-pity. An alleged affair with Britney Spears by Durst (denied by Spears) during collaborating sessions for her 2003 album In the Zone and resulting rejection by Spears was also cited as an inspiration for some of the album's material. To promote the album, music videos featuring high-profile actors were created for \"Eat You Al"
+  },
+  {
+   "id": "bf5318e4-4842-4010-8113-7981cc5f87fe",
+   "titulo": "Gold Cobra",
+   "data": "2011-06-24",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/2e30a283-185d-459d-b2ab-c9642ba1dc13/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Introbra",
+     "duracao": "1:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Bring It Back",
+     "duracao": "2:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Gold Cobra",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Shark Attack",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Get a Life",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Shotgun",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Douche Bag",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Walking Away",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Loser",
+     "duracao": "4:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Autotunage",
+     "duracao": "5:00"
+    },
+    {
+     "n": 11,
+     "titulo": "90.2.10",
+     "duracao": "4:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Why Try",
+     "duracao": "2:51"
+    },
+    {
+     "n": 13,
+     "titulo": "Killer in You",
+     "duracao": "3:46"
+    },
+    {
+     "n": 14,
+     "titulo": "Los Angeles",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 53,
+    "media": 6.4,
+    "fontes": 9
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gold_Cobra",
+   "resumo_en": "Gold Cobra is the fifth studio album by American nu metal band Limp Bizkit. It was released on June 28, 2011, through Flip and Interscope Records. The album was the band's first studio album since 2003's Results May Vary and the first with the classic lineup since 2000's Chocolate Starfish and the Hot Dog Flavored Water. Gold Cobra features an eclectic and diverse sound, but is also similar in style to the band's earlier albums. The album, which featured the single \"Shotgun\" and received mixed reviews, sold 27,000 copies during its first week in the United States and peaked at No. 16 on the Billboard 200. This was their last album for a decade, until the band released Still Sucks in 2021."
+  },
+  {
+   "id": "39bcad85-bc28-4b8c-beec-04573bdf4dc9",
+   "titulo": "Still Sucks",
+   "data": "2021-10-31",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/7dfe0e1f-be0e-45fc-9cd5-c39cab5a34b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Out of Style",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Dirty Rotten Bizkit",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Dad Vibes",
+     "duracao": "2:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Turn It Up, Bitch",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Change",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "You Bring Out the Worst in Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Love the Hate",
+     "duracao": "1:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Barnacle",
+     "duracao": "1:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Empty Hole",
+     "duracao": "1:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Pill Popper",
+     "duracao": "2:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Snacky Poo",
+     "duracao": "4:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Goodbye",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 73,
+    "media": 6.8,
+    "fontes": 8
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Still_Sucks",
+   "resumo_en": "Still Sucks (stylized in ALL CAPS) is the sixth studio album by American nu metal band Limp Bizkit. It was released on October 31, 2021, through Suretone Records. Work on the album began in 2012 but was marred by numerous delays for the next nine years. The album's lead single \"Dad Vibes\" was premiered at the end of a performance at Lollapalooza on August 2, 2021, and officially released on September 30, 2021, marking their first brand-new material to be released in seven years. This is the band's final album to feature longtime bassist Sam Rivers, before his death in October 2025, and also being the final album to feature the classic line-up."
+  }
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "id": "down",
+ "nome": "Down",
+ "cena": "Groove, death e além",
+ "mbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d",
+ "wikidata": "Q832141",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1991",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "southern metal",
+  "stoner metal",
+  "stoner rock",
+  "metal",
+  "sludge metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Down_au_Hellfest_2022.jpg/500px-Down_au_Hellfest_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Down_%28banda%29",
+ "resumo_pt": "Down é um supergrupo de heavy metal formado em 1991. É composto por Phil Anselmo (ex-vocalista do Pantera e do Superjoint Ritual), Pepper Keenan (guitarrista e vocalista do Corrosion of Conformity), Bobby Landgraf, Pat Bruders (baixista do Crowbar), e Jimmy Bower (baterista do Crowbar e guitarrista do Superjoint Ritual e do Eyehategod). Todd Strange (Crowbar) tocou apenas no álbum NOLA (iniciais de New Orleans Louisiana, mas também um conhecido termo para a cena do metal de Louisiana).\nDesde o seu início, Down entrou em hiato duas vezes e lançou cinco álbuns de estúdio. Os três primeiros foram LPs intitulados NOLA (1995), Down II: A Bustle in Your Hedgerow (2002) e Down III: Over the Under (2007). Em 2008, a banda começou a trabalhar em material adicional, o que resultou em dois EPs intitulados Down IV – Part I, lançado em setembro de 2012 e Down IV – Part II, lançado em maio de 2014.\nO supergrupo já fez várias turnês pelo mundo, chegando inclusive a tocar no Ozzfest.",
+ "resumo_en": "Down is an American heavy metal supergroup that formed in New Orleans, Louisiana, in 1991. The current lineup consists of vocalist Phil Anselmo (Pantera, Superjoint Ritual), drummer Jimmy Bower (Eyehategod, Crowbar, Superjoint Ritual), guitarists Pepper Keenan (Corrosion of Conformity) and Kirk Windstein (Crowbar, Sun Don't Shine), and bassist Pat Bruders (Goatwhore, Crowbar, Saint Vitus).\nSince their formation, Down has gone on hiatus twice and has released five studio albums. The first three were LPs entitled NOLA (1995), Down II: A Bustle in Your Hedgerow (2002), and Over the Under (2007). In 2008, the band began working on additional material, which resulted in two EPs entitled Down IV – Part I, released in September 2012, and Down IV – Part II, released in May 2014. On August 19, 2026, they announced that their next album, titled Volume V, would be released on November 20.",
+ "albuns": [
+  {
+   "id": "e08d1d50-f2f3-3b30-8ddc-d1ac4946f82c",
+   "titulo": "NOLA",
+   "data": "1995-09-15",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/810c8647-a6ec-4165-96d4-51d4724bcf4d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Temptation’s Wings",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Lifer",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Pillars of Eternity",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Rehab",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Hail the Leaf",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Underneath Everything",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Eyes of the South",
+     "duracao": "5:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Jail",
+     "duracao": "5:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Losing All",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Stone the Crow",
+     "duracao": "4:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Pray for the Locust",
+     "duracao": "1:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Swan Song",
+     "duracao": "3:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Bury Me in Smoke",
+     "duracao": "7:04"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.4,
+    "fontes": 8
+   },
+   "publico": 8.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/NOLA_%28album%29",
+   "resumo_en": "NOLA is the debut studio album by American heavy metal band Down, released on September 19, 1995, by EastWest Records. The title is the abbreviation for New Orleans (NO), Louisiana (LA)."
+  },
+  {
+   "id": "cafc1dc7-7a92-3efd-a99d-58d49a90b095",
+   "titulo": "Down II: A Bustle in Your Hedgerow…",
+   "data": "2002-03-26",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/743a3554-5605-4814-9c60-9f9aa80c73e2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lysergik Funeral Procession",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "There’s Something on My Side",
+     "duracao": "5:21"
+    },
+    {
+     "n": 3,
+     "titulo": "The Man That Follows Hell",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Stained Glass Cross",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Ghosts Along the Mississippi",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Learn From This Mistake",
+     "duracao": "7:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Beautifully Depressed",
+     "duracao": "4:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Where I’m Going",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Doobinterlude",
+     "duracao": "1:50"
+    },
+    {
+     "n": 10,
+     "titulo": "New Orleans Is a Dying Whore",
+     "duracao": "4:15"
+    },
+    {
+     "n": 11,
+     "titulo": "The Seed",
+     "duracao": "4:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Lies, I Don’t Know What They Say But…",
+     "duracao": "6:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Flambeaux’s Jamming With St. Aug",
+     "duracao": "0:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Dog Tired",
+     "duracao": "3:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Landing on the Mountains of Meggido",
+     "duracao": "7:48"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Down_II%3A_A_Bustle_in_Your_Hedgerow",
+   "resumo_en": "Down II: A Bustle in Your Hedgerow... is the second studio album by American stoner metal band Down, released on March 26, 2002. The subtitle \"A Bustle in Your Hedgerow...\" is borrowed from the lyrics of \"Stairway to Heaven\" by Led Zeppelin."
+  },
+  {
+   "id": "02d9193d-d3e1-38dc-bb58-58ac277accbf",
+   "titulo": "Down III: Over the Under",
+   "data": "2007-08-16",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/c5e98191-38db-4adc-a443-6543946c4b9e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Three Suns and One Star",
+     "duracao": "5:41"
+    },
+    {
+     "n": 2,
+     "titulo": "The Path",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "N.O.D.",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "I Scream",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "On March the Saints",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Never Try",
+     "duracao": "4:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Mourn",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Beneath the Tides",
+     "duracao": "5:31"
+    },
+    {
+     "n": 9,
+     "titulo": "His Majesty the Desert",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Pillamyd",
+     "duracao": "5:14"
+    },
+    {
+     "n": 11,
+     "titulo": "In the Thrall of It All",
+     "duracao": "6:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Nothing in Return (Walk Away)",
+     "duracao": "8:54"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 4.5,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Over_the_Under",
+   "resumo_en": "Over the Under, also referred to as Down III: Over the Under, is the third studio album by American heavy metal band Down, released five years after their previous album, Down II: A Bustle in Your Hedgerow. It was released internationally on September 24, 2007, and in the United States on September 25, 2007."
+  },
+  {
+   "id": "604243d3-d6af-436a-9db7-d2ef5e0f5704",
+   "titulo": "Volume V",
+   "data": "2026-11-20",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/46503870-49cf-4433-8c92-3940b7d4cfc5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Myth",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Merciful Fate",
+     "duracao": "6:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn Out the Light",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "The Message",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Causeway Grief",
+     "duracao": "7:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Blood Oath",
+     "duracao": "5:23"
+    },
+    {
+     "n": 7,
+     "titulo": "They Walk the Night",
+     "duracao": "7:05"
+    },
+    {
+     "n": 8,
+     "titulo": "They Came From Dust",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Ozz",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Twice-Told Tales",
+     "duracao": "7:03"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "id": "jane-s-addiction",
+ "nome": "Jane’s Addiction",
+ "cena": "Clássicos do rock",
+ "mbid": "e3434cc7-d348-491a-9dc8-325af3d9086d",
+ "wikidata": "Q622947",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1986",
+ "fim": "2025",
+ "ativa": false,
+ "generos": [
+  "alternative rock",
+  "alternative metal",
+  "funk metal",
+  "hard rock",
+  "psychedelic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Jane%27s_Addiction_Classic_and_Final_Lineup_Collage.jpg/500px-Jane%27s_Addiction_Classic_and_Final_Lineup_Collage.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Jane%27s_Addiction",
+ "resumo_pt": "Jane's Addiction foi uma banda estadunidense de rock alternativo formada em Los Angeles em 1985.\nEm 2022, Avery voltou ao Jane's Addiction após uma ausência de 12 anos. Devido aos efeitos de uma COVID-19 persistente, Navarro foi substituído por Troy Van Leeuwen e Josh Klinghoffer nas turnês de 2022 e 2023, respectivamente. Em 2024, uma turnê de reunião com Navarro foi cancelada depois que Farrell o agrediu durante uma apresentação em 13 de setembro de 2024. O quarto término da banda foi anunciado oficialmente em dezembro de 2025.",
+ "resumo_en": "Jane's Addiction was an American rock band formed in Los Angeles in 1985. The band's best known line-up consisted of lead vocalist Perry Farrell, bassist Eric Avery, drummer Stephen Perkins and guitarist Dave Navarro. Jane's Addiction was one of the first bands from the early 1990s alternative rock movement to gain commercial success.\nFounded by Farrell and Avery following the disintegration of Farrell's previous band Psi Com, Jane's Addiction's first release was their self-titled live album in 1987, which caught the attention of Warner Bros. Records. Their first two studio albums, Nothing's Shocking (1988) and Ritual de lo Habitual (1990), received acclaim and grew a cult fanbase. As a result, Jane's Addiction became a significant part of what Farrell dubbed the \"alternative nation'\" The band's first farewell tour in 1991 launched the first Lollapalooza.\nIn 1997, Jane's Addiction reunited, with Flea of the Red Hot Chili Peppers replacing Avery for a one-off tour. In 2001, a second reunion took place, with Martyn LeNoble and later Chris Chaney on bass. In 2003, Jane's Addiction released their third studio album, Strays, before dissolving the following year. In 2008, the original lineup reunited and embarked on a world tour. Avery left acrimoniously in early 2010 as they began working on new material. In 2011, they released their fourth studio album, The Great Escape Artist, with Chaney returning for its recording and tour. For the next ten years, the band toured and performed",
+ "albuns": [
+  {
+   "id": "97b7e291-8714-3e54-ac24-480be535ee8d",
+   "titulo": "Nothing’s Shocking",
+   "data": "1988-08-23",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/229c1755-0685-4f2e-9cf5-d699490f7285/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Up the Beach",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Ocean Size",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Had a Dad",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Ted, Just Admit It",
+     "duracao": "7:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Standing in the Shower… Thinking",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Summertime Rolls",
+     "duracao": "6:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Mountain Song",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Idiots Rule",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Jane Says",
+     "duracao": "4:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Thank You Boys...",
+     "duracao": "1:00"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.9,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nothing%27s_Shocking",
+   "resumo_en": "Nothing's Shocking is the debut studio album by the American rock band Jane's Addiction, released on August 23, 1988 through Warner Bros. Records. The album was preceded by the band's eponymous live debut album.\nNothing's Shocking was well received by critics and peaked at number 103 on the Billboard 200, eventually being certified platinum by the RIAA. The single \"Jane Says\" reached number six on the Billboard Modern Rock Tracks in 1988. It received a nomination for the 31st Grammy Awards in the category for Best Hard Rock/Metal Performance Vocal or Instrumental, ultimately losing to Jethro Tull's Crest of a Knave.\nSince its release, the album has continued to receive widespread acclaim and is now regarded as one of the most important alternative rock albums of all time and one of the greatest albums of the 1980s. Rolling Stone ranked Nothing's Shocking at number 312 on its \"500 Greatest Albums of All Time\", and it frequently appeared on \"best album\" lists of the 1980s.\nThe album was subject to censorship due to its cover and the music video for the second single, \"Mountain Song\"."
+  },
+  {
+   "id": "baeba3f5-a5aa-3e6e-944f-cca5374192e4",
+   "titulo": "Ritual de lo habitual",
+   "data": "1990-08-28",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/0239d797-11ca-3d4d-b838-8a70a984f632/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stop!",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "No One’s Leaving",
+     "duracao": "3:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Ain’t No Right",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Obvious",
+     "duracao": "5:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Been Caught Stealing",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Three Days",
+     "duracao": "10:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Then She Did…",
+     "duracao": "8:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Of Course",
+     "duracao": "7:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Classic Girl",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.1,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ritual_de_lo_Habitual",
+   "resumo_en": "Ritual de lo Habitual (Spanish for \"Ritual of the Usual\") is the second studio album by the American rock band Jane's Addiction, released on August 21, 1990, by Warner Bros. Records. Co-produced by Dave Jerden, it was the band's last studio album before their initial break-up in 1991 and the last to feature bassist Eric Avery, though he returned to the band on many occasions. The album includes some of Jane's Addiction's most famous songs, such as the singles \"Been Caught Stealing\" and \"Stop!\". \nThe album proved to be a great commercial and critical success. The album broke into the top 20 on the Billboard 200, sold 500,000 units within a month of its release, and would go on to be certified 2× Platinum in the U.S. The album has received critical acclaim since its release, and is regarded as a classic of Alternative Rock, alongside its predecessor, Nothing's Shocking."
+  },
+  {
+   "id": "bccb3052-3941-349e-85db-0ef6a38b2ed7",
+   "titulo": "Strays",
+   "data": "2003-07-21",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/0de52256-e67e-4953-bcbb-93eed1a8dc35/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "True Nature",
+     "duracao": "3:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Strays",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Just Because",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Price I Pay",
+     "duracao": "5:27"
+    },
+    {
+     "n": 5,
+     "titulo": "The Riches",
+     "duracao": "5:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Superhero",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Wrong Girl",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Everybody’s Friend",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Suffer Some",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Hypersonic",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "To Match the Sun",
+     "duracao": "5:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Documentary",
+     "duracao": "21:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Strays",
+     "duracao": "4:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Price I Pay",
+     "duracao": "5:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Just Because",
+     "duracao": "2:37"
+    },
+    {
+     "n": 16,
+     "titulo": "The Riches",
+     "duracao": "4:07"
+    },
+    {
+     "n": 17,
+     "titulo": "The Making of the Strays Album",
+     "duracao": "2:54"
+    },
+    {
+     "n": 18,
+     "titulo": "On Set for Just Because Video",
+     "duracao": "1:55"
+    },
+    {
+     "n": 19,
+     "titulo": "Strays",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 94,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 75,
+    "media": 7.5,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Strays_%28Jane%27s_Addiction_album%29",
+   "resumo_en": "Strays is the third studio album by the American rock band Jane's Addiction, released on July 22, 2003, on Capitol Records. Released 13 years after Ritual de lo Habitual (1990), the album marks the band's longest gap between full studio albums, although the group had recorded and released two new songs six years prior on the compilation album Kettle Whistle (1997). Strays is the first album to feature bassist Chris Chaney. Regarding the decision to record a new studio album after such a long hiatus, drummer Stephen Perkins stated that the band had already completed two reunion tours performing old material, and that Jane's was ready for \"a new challenge.\"\nUpon its first week of release, the album sold 110,500 copies in the United States, debuting at number four on the Billboard 200, and was eventually certified Gold in both United States and Canada, and silver in the United Kingdom. The single, \"Just Because\", was nominated for a Grammy Award in 2004."
+  },
+  {
+   "id": "2211e45f-d0e9-418e-bd19-3dcf604ff9d7",
+   "titulo": "The Great Escape Artist",
+   "data": "2011-10-17",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/183e84de-0ba9-494b-a199-a0318e701bf7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Underground",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "End to the Lies",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Curiosity Kills",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Irresistible Force",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ll Hit You Back",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Twisted Tales",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Ultimate Reason",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Splash a Little Water on It",
+     "duracao": "5:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Broken People",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Words Right Out of My Mouth",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Whores (live from Vive Latino)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Ain’t No Right (live from Vive Latino)",
+     "duracao": "2:54"
+    },
+    {
+     "n": 13,
+     "titulo": "Ted, Just Admit It (live from Vive Latino)",
+     "duracao": "7:56"
+    },
+    {
+     "n": 14,
+     "titulo": "Superhero (live from Vive Latino)",
+     "duracao": "4:21"
+    },
+    {
+     "n": 15,
+     "titulo": "End to the Lies (live from Vive Latino)",
+     "duracao": "3:23"
+    },
+    {
+     "n": 16,
+     "titulo": "Three Days (live from Vive Latino)",
+     "duracao": "11:35"
+    },
+    {
+     "n": 17,
+     "titulo": "Mountain Song (live from Vive Latino)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 18,
+     "titulo": "Been Caught Stealing (live from Vive Latino)",
+     "duracao": "4:46"
+    },
+    {
+     "n": 19,
+     "titulo": "Ocean Size (live from Vive Latino)",
+     "duracao": "5:05"
+    },
+    {
+     "n": 20,
+     "titulo": "Jane Says (live from Vive Latino)",
+     "duracao": "6:24"
+    },
+    {
+     "n": 21,
+     "titulo": "Stop! (live from Vive Latino)",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 99,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 55,
+    "media": 5.7,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Escape_Artist",
+   "resumo_en": "The Great Escape Artist is the fourth and final studio album by the American alternative rock band Jane's Addiction, released October 18, 2011 on Capitol Records. The album was the band's first since its 2003 release Strays and features TV on the Radio's multi-instrumentalist Dave Sitek contributing bass guitar alongside Chris Chaney. The album's release was preceded by singles \"End to the Lies,\" released as a free download on April 7, 2011, and \"Irresistible Force (Met the Immovable Object),\" released August 3, 2011. Regarding the album's title, vocalist Perry Farrell said \"I love being able to escape my past, even though my past was great. I just love the future even more.\"\nDescribing the album's overall aesthetic, Farrell noted: \"It's a strange mixture of that post-punk goth darkness that Jane's had, with what's going on today with groups like Muse and Radiohead. As much as I want to appease fans and make old Jane's fans love me, I just can't help myself from moving forward.\" Following the album's completion, producer Rich Costey stated, \"This was a real Jane's Addiction record.\""
+  }
+ ]
+}

@@ -1,0 +1,1360 @@
+{
+ "id": "kreator",
+ "nome": "Kreator",
+ "cena": "Thrash metal",
+ "mbid": "39822e8d-f24e-4f07-b51b-28b22e59fbdb",
+ "wikidata": "Q151890",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1982",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "thrash metal",
+  "metal",
+  "death metal",
+  "hard rock",
+  "heavy metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kreator_%E2%80%93_Reload_Festival_2015_04.jpg/500px-Kreator_%E2%80%93_Reload_Festival_2015_04.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Kreator",
+ "resumo_pt": "Kreator é uma banda de thrash metal de Essen, Alemanha, que começou com o nome \"Tormentor\" no início da década de 1980. Formada por  Mille Petrozza (guitarra e voz), Jürgen Reil (bateria) e Rob Fioretti (baixo), a banda iniciou fazendo um som mais próximo ao black metal e death metal, e então assumiu um estilo thrash mais puro nos anos seguintes. Na década de 1990 o grupo partiu para uma abordagem diferente, adotando elementos de metal industrial e metal gótico em seus discos, o que causou reações distintas entre os fãs. Entretanto, a partir de 2001 o Kreator  retornou à sua sonoridade pesada e agressiva,  fazendo uma fusão do thrash  metal clássico com death metal melódico.\nO Kreator, influenciado pelo metal \"old school\" de bandas como Venom, influenciou inúmeras bandas de metal extremo desde sua formação. Grupos como Dimmu Borgir, Vader, Dark Tranquillity e Napalm Death já regravaram canções do grupo germânico. Desde sua formação, o Kreator já vendeu mais de 2 milhões de cópias de suas gravações  em todo o mundo.",
+ "resumo_en": "Kreator is a German thrash metal band from Essen, formed in 1982. Their current line-up consists of lead vocalist and rhythm guitarist Miland \"Mille\" Petrozza, drummer Jürgen \"Ventor\" Reil, lead guitarist Sami Yli-Sirniö, and bassist Frédéric Leclercq. The band's line-up has changed multiple times throughout its 44-year career, most noticeably their bassists and lead guitarists. Petrozza and Reil are the only two original members left in Kreator, although the latter left the band in 1994 but rejoined in 1996. Yli-Sirniö has been the lead guitarist of Kreator since 2001, while Leclercq joined in 2019 as the replacement of Christian \"Speesy\" Giesler, who had been in the band since 1994.\nTo date, Kreator has released sixteen studio albums, two EPs, two live albums and three compilation albums. They gained a large underground fanbase within the international thrash metal community, with their second studio album Pleasure to Kill (1986) regarded as an influential album of the genre. Many of their subsequent albums — including Terrible Certainty (1987), Extreme Aggression (1989), and Coma of Souls (1990) — were also highly acclaimed. Despite being an influential band, as well as one of the first European thrash metal bands to sign to a major label (signing to Epic Records in 1988), Kreator did not achieve mainstream popularity until later albums, including their thirteenth studio album Phantom Antichrist (2012) and its follow-up Gods of Violence (2017), both of which charted highly",
+ "albuns": [
+  {
+   "id": "423a7830-a80d-31b2-8e93-c8fa645898fe",
+   "titulo": "Endless Pain",
+   "data": "1985-10",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/c5ec808f-b534-464e-b421-04303747daf3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Endless Pain",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Total Death",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Storm of the Beast",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Tormentor",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Son of Evil",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Flag of Hate",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Cry War",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Bonebreaker",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Living in Fear",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Dying Victims",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.8,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Endless_Pain",
+   "resumo_en": "Endless Pain is the debut studio album by German thrash metal band Kreator, released in October 1985 by Noise Records. In Germany, the album sold at least 12,000 copies."
+  },
+  {
+   "id": "8dcae7a3-9e87-3089-90fc-56baffb245eb",
+   "titulo": "Pleasure to Kill",
+   "data": "1986-11-01",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/ce696baa-55f6-4e20-83cc-c78fa4ae9cae/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Choir of the Damned",
+     "duracao": "0:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Ripping Corpse",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Death Is Your Saviour",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Pleasure to Kill",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Riot of Violence",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "The Pestilence",
+     "duracao": "6:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Carrion",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Command of the Blade",
+     "duracao": "3:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Under the Guillotine",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pleasure_to_Kill",
+   "resumo_en": "Pleasure to Kill is the second studio album by German thrash metal band Kreator, released in November 1986 by Noise Records.\nIt is considered an essential release in the thrash metal genre. The album remains popular among collectors of physical media."
+  },
+  {
+   "id": "bc99b181-3be3-3bc4-b2b6-2a82d3952055",
+   "titulo": "Terrible Certainty",
+   "data": "1987-09-22",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/8124b782-46cb-4ee1-b077-8a280fe2704c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blind Faith",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Storming With Menace",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Terrible Certainty",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "As the World Burns",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Toxic Trace",
+     "duracao": "5:30"
+    },
+    {
+     "n": 6,
+     "titulo": "No Escape",
+     "duracao": "4:58"
+    },
+    {
+     "n": 7,
+     "titulo": "One of Us",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Behind the Mirror",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Terrible_Certainty",
+   "resumo_en": "Terrible Certainty is the third studio album by German thrash metal band Kreator, released in 1987 through Noise Records. It is the band's first album recorded as a four piece. It was released on CD, cassette, black vinyl, and as a limited edition red vinyl. The remastered version of 2000 contains the tracks of the 1988 Out of the Dark... Into the Light EP as bonus tracks. Another remastered version in 2 CDs was released on 9 June 2017, and included all the live tracks from the EP. The album has sold more than 100,000 copies."
+  },
+  {
+   "id": "6b51dbf6-ef23-394e-85e2-5d3beabd23c0",
+   "titulo": "Extreme Aggression",
+   "data": "1989-06-19",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/13dbf839-7b51-46c2-9a6e-f7db61082267/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Extreme Aggression",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "No Reason to Exist",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Us or Hate Us",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Stream of Consciousness",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Some Pain Will Last",
+     "duracao": "5:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Betrayer",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Trust",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Bringer of Torture",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Fatal Energy",
+     "duracao": "4:54"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 6
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Extreme_Aggression",
+   "resumo_en": "Extreme Aggression is the fourth studio album by German thrash metal band Kreator released in 1989. While the band had already gained a sizeable following in the US due to their 1988 tour with the crossover thrash band D.R.I., this album introduced many American fans to Kreator, primarily through heavy rotation of the \"Betrayer\" music video on MTV's Headbangers Ball, which was partly shot at the Acropolis in Athens, Greece. The beginning of the song \"Love Us or Hate Us\" was used in an early 1990s promo ad by the Los Angeles radio station KNAC. This was their first album issued in the US by Epic Records. The album was also available on picture disc vinyl.\nThe album's original artwork was that of a man standing in front of a bathroom mirror looking at the reflection of his face falling off, exposing Kreator's mascot demon underneath. However, it was quickly replaced with a new artwork, depicting an image of the band in front of an orange background."
+  },
+  {
+   "id": "60ded5ee-2661-302b-808a-fcc176e1d5b1",
+   "titulo": "Coma of Souls",
+   "data": "1990-11-06",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/c5f6d3d9-d85e-4869-b22f-7d3b9f0a942d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When the Sun Burns Red",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Coma of Souls",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "People of the Lie",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "World Beyond",
+     "duracao": "2:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Terror Zone",
+     "duracao": "5:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Agents of Brutality",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Material World Paranoia",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Twisted Urges",
+     "duracao": "2:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Hidden Dictator",
+     "duracao": "4:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Mental Slavery",
+     "duracao": "5:43"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8.2,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Coma_of_Souls",
+   "resumo_en": "Coma of Souls is the fifth studio album by German thrash metal band Kreator, released in 1990. It was reissued in 2002, with the lyrics for the last four songs missing from the booklet. Coma of Souls was Kreator's first release with lead guitarist Frank \"Blackfire\" Gosdzik (then-formerly of Sodom), and would be the last album before the band began experimenting with influences from other musical genres. It also would be the last record issued in the United States by Epic Records."
+  },
+  {
+   "id": "5a4f6384-df81-3a7e-89c6-f632c9deeb5f",
+   "titulo": "Renewal",
+   "data": "1992-10-26",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/01cfb8f7-9703-3d12-bbf8-623414f67467/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Winter Martyrium",
+     "duracao": "5:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Renewal",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Reflection",
+     "duracao": "6:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Brainseed",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Karmic Wheel",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Realitätskontrolle",
+     "duracao": "1:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Zero to None",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Europe After the Rain",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Depression Unrest",
+     "duracao": "5:05"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.5,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Renewal_%28Kreator_album%29",
+   "resumo_en": "Renewal is the sixth album by German thrash metal band Kreator, released in 1992. It's their first \"experimental\" album, as in this release Kreator incorporated industrial music influences in their songwriting. It is also the last album to feature original bassist Rob Fioretti. The song \"Karmic Wheel\" contains audio samples from the suicide of R. Budd Dwyer. \nA music video was made for the title track."
+  },
+  {
+   "id": "68ef2566-6198-3ac6-9b80-547803491952",
+   "titulo": "Cause for Conflict",
+   "data": "1995-07",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/32155dc0-9e40-427a-9c47-c38269470982/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prevail",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Catholic Despot",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Progressive Proletarians",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Crisis of Disorder",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Hate Inside Your Head",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Bomb Threat",
+     "duracao": "1:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Men Without God",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Lost",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Dogmatic",
+     "duracao": "1:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Sculpture of Regret",
+     "duracao": "2:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Celestial Deliverance",
+     "duracao": "3:14"
+    },
+    {
+     "n": 12,
+     "titulo": "State Oppression",
+     "duracao": "1:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Isolation",
+     "duracao": "11:56"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.5,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cause_for_Conflict",
+   "resumo_en": "Cause for Conflict is the seventh studio album by German thrash metal band Kreator released on 1 August, 1995. \nThe album continued the experimentation with industrial music that they started on previous album, Renewal, but brought back more of their thrash metal sound and also saw the band experiment with groove metal. This was the only Kreator album to feature Joe Cangelosi as the replacement of original drummer Jürgen \"Ventor\" Reil, who would return to the band in 1996. This was also the band's first album to feature bassist Christian Giesler and the last to feature guitarist Frank \"Blackfire\" Gosdzik."
+  },
+  {
+   "id": "9c86346f-5370-39b5-b6c4-deb0f1d9a694",
+   "titulo": "Outcast",
+   "data": "1997-07-22",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/4668df48-dfa4-47fd-b35c-a6510e74dae9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Leave This World Behind",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Phobia",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Forever",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Sunrise",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Nonconformist",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Enemy Unseen",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Outcast",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Stronger Than Before",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Ruin of Life",
+     "duracao": "3:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Whatever It May Take",
+     "duracao": "3:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Alive Again",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Against the Rest",
+     "duracao": "2:38"
+    },
+    {
+     "n": 13,
+     "titulo": "A Better Tomorrow",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Outcast_%28Kreator_album%29",
+   "resumo_en": "Outcast is the eighth studio album by German thrash metal band Kreator. It was released by G.U.N. Records in 1997. This album featured more gothic and industrial influences than earlier Kreator, retaining little of the thrash metal from previous years. Outcast is also Kreator's first album to feature drummer Jürgen \"Ventor\" Reil since 1992's Renewal, and the first to feature then-former Coroner guitarist Tommy Vetterli."
+  },
+  {
+   "id": "42797e5e-3573-3f91-ab40-44427ceff47d",
+   "titulo": "Endorama",
+   "data": "1999-03-29",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/c1100422-d77e-441d-a2fd-dc073165af5f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Golden Age",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Endorama",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Shadowland",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Chosen Few",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Everlasting Flame",
+     "duracao": "5:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Passage to Babylon",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Future King",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Entry",
+     "duracao": "1:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Soul Eraser",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Willing Spirit",
+     "duracao": "4:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Pandemonium",
+     "duracao": "4:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Tyranny",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.8,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Endorama",
+   "resumo_en": "Endorama is the ninth studio album by German thrash metal band Kreator, released on 20 April, 1999 by Drakkar Records. The gothic metal influences were the most prominent on this release, and Lacrimosa frontman Tilo Wolff provided guest vocals on the title song. \nThis is the final Kreator album to feature Tommy Vetterli, who was replaced by current guitarist Sami Yli-Sirniö shortly before the recording of their next album Violent Revolution."
+  },
+  {
+   "id": "06e742df-d033-3a0e-b9dd-e2c641e57f02",
+   "titulo": "Violent Revolution",
+   "data": "2001-09-21",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/acefdaf9-78db-47ac-9be0-0f2f8d7c5bb0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reconquering the Throne",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "The Patriarch",
+     "duracao": "0:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Violent Revolution",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "All of the Same Blood",
+     "duracao": "6:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Servant in Heaven – King in Hell",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Second Awakening",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Ghetto War",
+     "duracao": "5:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Replicas of Life",
+     "duracao": "7:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Slave Machinery",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Bitter Sweet Revenge",
+     "duracao": "5:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Mind on Fire",
+     "duracao": "3:57"
+    },
+    {
+     "n": 12,
+     "titulo": "System Decay",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Violent_Revolution",
+   "resumo_en": "Violent Revolution is the tenth studio album by German thrash metal band Kreator. It was released on 25 September 2001 and is the band's first album to feature lead guitarist Sami Yli-Sirniö. After almost a decade of musical experimentation with their metal sound (starting with Renewal), with this album the band returned to their 1980s thrash metal style.\nViolent Revolution is now considered to be the catalyst of the early 2000s thrash metal revival movement."
+  },
+  {
+   "id": "36c13350-7643-3373-8aa0-b025bf6e7e0e",
+   "titulo": "Enemy of God",
+   "data": "2005-01-10",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/48972996-c983-4704-abc4-ea4ec884d6aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Enemy of God",
+     "duracao": "5:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Impossible Brutality",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Suicide Terrorist",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "World Anarchy",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Dystopia",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Voices of the Dead",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Murder Fantasies",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "When Death Takes Its Dominion",
+     "duracao": "5:38"
+    },
+    {
+     "n": 9,
+     "titulo": "One Evil Comes – A Million Follow",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Dying Race Apocalypse",
+     "duracao": "4:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Under a Total Blackened Sky",
+     "duracao": "4:28"
+    },
+    {
+     "n": 12,
+     "titulo": "The Ancient Plague",
+     "duracao": "6:57"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Enemy_of_God_%28album%29",
+   "resumo_en": "Enemy of God is the eleventh studio album by German thrash metal band Kreator, released on 10 January 2005. It was released by SPV/Steamhammer on 10 January in Europe and South America and on 11 January 2005 in North America.\nOn 27 October 2006, the album was re-released in a digipak under the name Enemy of God: Revisited, with a 5.1 DTS 96/24 mix, featuring two bonus tracks from the Japanese edition and a bonus DVD."
+  },
+  {
+   "id": "c59506a5-e829-36ac-a926-fa215ccc8d5a",
+   "titulo": "Hordes of Chaos",
+   "data": "2009-01-13",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/6480f8e2-59db-4ec9-9ce5-8ebc42f0deec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hordes of Chaos",
+     "duracao": "5:06"
+    },
+    {
+     "n": 2,
+     "titulo": "War Curse",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Escalation",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Amok Run",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Destroy What Destroys You",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Radical Resistance",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Absolute Misanthropy",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "To the Afterborn",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Corpses of Liberty",
+     "duracao": "0:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Demon Prince",
+     "duracao": "5:16"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.8,
+    "fontes": 5
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hordes_of_Chaos",
+   "resumo_en": "Hordes of Chaos is the twelfth studio album by German thrash metal band Kreator, released in 2009.\nIt has been described as their most organic album to date because, barring vocals, guitar solos and some melodies, the album was recorded in a live setting on an analog tape recorder with few overdubs. Frontman Mille Petrozza noted that this was the first time they had recorded an album this way since Pleasure to Kill in 1986.\nHe described the album as \"it combines the best moments of our back catalogue with the intensity and experience of 2009\". Hordes of Chaos also marked the first time since its inception that Kreator had not changed their lineup after at least two albums.\nThe album was released in three different formats. The standard edition was issued in a jewel case and featured the 10 album tracks. A deluxe edition features a bonus DVD with a making-of-the-album documentary. The LP version of the album has different artwork from the other versions.\nThis was the first Kreator album to chart in the United States, debuting at number 165 on the Billboard 200 chart in the US, with first-week sales of approximately 2,800 copies."
+  },
+  {
+   "id": "bd5be3ae-4a70-4bb6-8704-614170761457",
+   "titulo": "Phantom Antichrist",
+   "data": "2012-05-30",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/fabeb948-ddcb-4781-b456-e715377a7136/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mars Mantra",
+     "duracao": "1:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Phantom Antichrist",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Death to the World",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "From Flood Into Fire",
+     "duracao": "5:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Civilization Collapse",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "United in Hate",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "The Few, the Proud, the Broken",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Your Heaven My Hell",
+     "duracao": "5:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Victory Will Come",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Until Our Paths Cross Again",
+     "duracao": "5:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Choir of the Damned",
+     "duracao": "0:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Hordes of Chaos",
+     "duracao": "5:20"
+    },
+    {
+     "n": 13,
+     "titulo": "War Curse",
+     "duracao": "5:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Coma of Souls / Endless Pain",
+     "duracao": "4:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Pleasure to Kill",
+     "duracao": "3:16"
+    },
+    {
+     "n": 16,
+     "titulo": "Destroy What Destroys You",
+     "duracao": "3:31"
+    },
+    {
+     "n": 17,
+     "titulo": "The Patriarch",
+     "duracao": "0:52"
+    },
+    {
+     "n": 18,
+     "titulo": "Violent Revolution",
+     "duracao": "5:17"
+    },
+    {
+     "n": 19,
+     "titulo": "People of the Lie",
+     "duracao": "4:48"
+    },
+    {
+     "n": 20,
+     "titulo": "Europe After the Pain",
+     "duracao": "3:49"
+    },
+    {
+     "n": 21,
+     "titulo": "Phobia",
+     "duracao": "3:32"
+    },
+    {
+     "n": 22,
+     "titulo": "Terrible Certainty / Reconquering the Throne",
+     "duracao": "5:57"
+    },
+    {
+     "n": 23,
+     "titulo": "Flag of Hate / Tormentor",
+     "duracao": "7:44"
+    }
+   ],
+   "duracao_min": 99,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.1,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Phantom_Antichrist",
+   "resumo_en": "Phantom Antichrist is the 13th studio album by German thrash metal band Kreator, released through Nuclear Blast on 1 June 2012.\nThe album entered the US Billboard 200 at No. 130, selling 3,900 copies in the first week."
+  },
+  {
+   "id": "074dcb38-9064-4e05-aead-c8487c12b5fe",
+   "titulo": "Gods of Violence",
+   "data": "2017-01-27",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/6aa862d1-ee31-4535-8ca6-2dc1893a5787/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Apocalypticon",
+     "duracao": "1:06"
+    },
+    {
+     "n": 2,
+     "titulo": "World War Now",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Satan Is Real",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Totalitarian Terror",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Gods of Violence",
+     "duracao": "5:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Army of Storms",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Hail to the Hordes",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Lion With Eagle Wings",
+     "duracao": "5:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Fallen Brother",
+     "duracao": "4:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Side by Side",
+     "duracao": "4:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Death Becomes My Light",
+     "duracao": "7:26"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 73,
+    "media": 8.4,
+    "fontes": 6
+   },
+   "publico": 7.0,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gods_of_Violence",
+   "resumo_en": "Gods of Violence is the fourteenth studio album by German thrash metal band Kreator, released on 27 January 2017. It is the band's final studio album with bassist Christian \"Speesy\" Giesler before his departure from the band in 2019."
+  },
+  {
+   "id": "4e54edd8-256e-4870-9bc7-4abda4695fce",
+   "titulo": "Hate über alles",
+   "data": "2022-06-10",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/b800e96a-4bb7-4676-95a2-a590e6c88663/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sergio Corbucci Is Dead",
+     "duracao": "0:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Hate über alles",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Killer of Jesus",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Crush the Tyrants",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Strongest of the Strong",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Become Immortal",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Conquer and Destroy",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Midnight Sun",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Demonic Future",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Pride Comes Before the Fall",
+     "duracao": "4:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Dying Planet",
+     "duracao": "6:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Terrible Certainty",
+     "duracao": "4:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Satan Is Real",
+     "duracao": "5:28"
+    },
+    {
+     "n": 14,
+     "titulo": "Hordes of Chaos (A Necrologue for the Elte)",
+     "duracao": "5:33"
+    },
+    {
+     "n": 15,
+     "titulo": "Hail to the Hordes",
+     "duracao": "5:00"
+    },
+    {
+     "n": 16,
+     "titulo": "666 - World Divided",
+     "duracao": "4:44"
+    },
+    {
+     "n": 17,
+     "titulo": "Enemy of God",
+     "duracao": "5:51"
+    },
+    {
+     "n": 18,
+     "titulo": "People of the Lie",
+     "duracao": "3:27"
+    },
+    {
+     "n": 19,
+     "titulo": "Endless Pain",
+     "duracao": "1:59"
+    },
+    {
+     "n": 20,
+     "titulo": "Mars Mantra",
+     "duracao": "1:13"
+    },
+    {
+     "n": 21,
+     "titulo": "Phantom Antichrist",
+     "duracao": "4:55"
+    },
+    {
+     "n": 22,
+     "titulo": "Fallen Brother",
+     "duracao": "5:50"
+    },
+    {
+     "n": 23,
+     "titulo": "Apocalypticon",
+     "duracao": "1:42"
+    }
+   ],
+   "duracao_min": 97,
+   "critica": {
+    "media": 7.8,
+    "fontes": 10
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hate_%C3%9Cber_Alles",
+   "resumo_en": "Hate Über Alles is the fifteenth studio album by German thrash metal band Kreator, which was released on 10 June 2022 through Nuclear Blast. Produced by Arthur Rizk, it is the band's first studio album since Gods of Violence (2017), the longest gap between studio albums in their career, and the first to feature bassist Frédéric Leclercq, who replaced Christian \"Speesy\" Giesler in 2019."
+  },
+  {
+   "id": "21250117-a80a-4468-96ea-3a9342906c51",
+   "titulo": "Krushers of the World",
+   "data": "2026-01-16",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/d1ff3865-2d98-4a20-98ca-dd95ef4236d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seven Serpents",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Satanic Anarchy",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Krushers of the World",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Tränenpalast",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Barbarian",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Blood of Our Blood",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Combatants",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Psychotic Imperator",
+     "duracao": "5:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Deathscream",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Loyal to the Grave",
+     "duracao": "4:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Extreme Aggression",
+     "duracao": "5:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Riot of Violence",
+     "duracao": "6:03"
+    },
+    {
+     "n": 13,
+     "titulo": "Terrible Certainty",
+     "duracao": "4:41"
+    },
+    {
+     "n": 14,
+     "titulo": "Toxic Trace/Endless Pain",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "Awakening of the Gods",
+     "duracao": "5:25"
+    },
+    {
+     "n": 16,
+     "titulo": "People of the Lie",
+     "duracao": "3:36"
+    },
+    {
+     "n": 17,
+     "titulo": "When the Sun Burns Red",
+     "duracao": "6:05"
+    },
+    {
+     "n": 18,
+     "titulo": "Some Pain Will Last",
+     "duracao": "6:28"
+    },
+    {
+     "n": 19,
+     "titulo": "The Pestilence",
+     "duracao": "8:33"
+    },
+    {
+     "n": 20,
+     "titulo": "Under the Guillotine",
+     "duracao": "5:11"
+    },
+    {
+     "n": 21,
+     "titulo": "Terror Zone",
+     "duracao": "5:59"
+    },
+    {
+     "n": 22,
+     "titulo": "Tormentor",
+     "duracao": "3:25"
+    },
+    {
+     "n": 23,
+     "titulo": "Apocalypticon",
+     "duracao": "1:08"
+    }
+   ],
+   "duracao_min": 110,
+   "critica": {},
+   "publico": 5.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Krushers_of_the_World",
+   "resumo_en": "Krushers of the World is the sixteenth studio album by German thrash metal band Kreator, released on 16 January 2026. Five singles were released to support this album: \"Seven Serpents\", \"Tränenpalast\", \"Satanic Anarchy\", \"Krushers of the World\" and \"Loyal to the Grave\"."
+  }
+ ]
+}

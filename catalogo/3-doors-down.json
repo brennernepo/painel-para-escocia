@@ -1,0 +1,547 @@
+{
+ "id": "3-doors-down",
+ "nome": "3 Doors Down",
+ "cena": "Pós-grunge",
+ "mbid": "2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+ "wikidata": "Q175097",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1996",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "post-grunge",
+  "hard rock",
+  "pop rock",
+  "acoustic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/3_Doors_Down_live_%40_Laredo_Energy_Arena_in_Laredo%2C_Texas.JPG/500px-3_Doors_Down_live_%40_Laredo_Energy_Arena_in_Laredo%2C_Texas.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/3_Doors_Down",
+ "resumo_pt": "3 Doors Down (Three Doors Down) é uma banda de rock alternativo dos Estados Unidos, originária da cidade de Escatawpa, Mississippi fundada por Brad Arnold (vocal e bateria), Matt Roberts (guitarra) e Todd Harrell (baixista). A banda assinou com a Universal Records depois do sucesso de sua música \"Kryptonite\". A banda vendeu mais de 15 milhões de cópias pelo mundo desde seu primeiro álbum, The Better Life, que foi lançado em 2000. A banda chegou a fazer cerca de 300 shows por ano.",
+ "resumo_en": "3 Doors Down is an American rock band formed in Escatawpa, Mississippi, in 1996. The band's founding members were Brad Arnold (lead vocals and drums), Matt Roberts (guitar and backing vocals), and Todd Harrell (bass). The band's music has been described as a mixture of post-grunge, hard rock and alternative rock.\n3 Doors Down achieved mainstream popularity with their 2000 debut single, \"Kryptonite\", which peaked at number three on the Billboard Hot 100. The song preceded their debut album, The Better Life (2000), which became the 11th-best-selling album of that year, received septuple platinum certification by the Recording Industry Association of America (RIAA), and spawned two additional Billboard Hot 100 entries: \"Loser\" and \"Be Like That\". Their second album, Away from the Sun (2002), continued the band's success, debuting at number eight on the Billboard 200 and spawning the Billboard Hot 100 top-five singles \"When I'm Gone\" and \"Here Without You\".\nThe band's third and fourth studio albums, Seventeen Days (2005) and their self-titled fourth album (2008), both debuted atop the Billboard 200 and received platinum certifications by the RIAA. The band's fifth album, Time of My Life (2011), peaked at number three, and their sixth album, Us and the Night (2016), peaked at number 14.\nThe band is without any of its three founding members, leaving rhythm guitarist Chris Henderson (who joined 3 Doors Down in 1998) as the only member from The Better Life lineup remaining. Bassist T",
+ "albuns": [
+  {
+   "id": "467a5697-30e7-34b8-9813-d07e6af9c653",
+   "titulo": "The Better Life",
+   "data": "2000-02-08",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/234bbb67-dc25-4114-90cc-b0a7fdc47fa0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kryptonite",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Loser",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Duck and Run",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Not Enough",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Be Like That",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Life of My Own",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Better Life",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Down Poison",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "By My Side",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Smack",
+     "duracao": "2:29"
+    },
+    {
+     "n": 11,
+     "titulo": "So I Need You",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.4,
+    "fontes": 6
+   },
+   "publico": 7.6,
+   "publico_votos": 19,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Better_Life",
+   "resumo_en": "The Better Life is the debut studio album by the American rock band 3 Doors Down, released by Universal Records on February 8, 2000. Three of its four singles—\"Kryptonite\", \"Loser\", and \"Be Like That\"—entered the Billboard Hot 100 chart, peaking at numbers 3, 55, and 24, respectively. The Better Life has sold over seven million copies worldwide and received septuple platinum certification by the RIAA (Recording Industry Association of America) on February 26, 2020. It is the band's only studio album on which lead singer Brad Arnold played drums. Richard Liles played drums as a touring member from 2000 to 2002. Music videos were made for the album's four singles: \"Kryptonite\", \"Loser\", \"Duck and Run\", and \"Be Like That\".\nIn 2025, Lauryn Schaffner of Loudwire named the album the best post-grunge release of 2000. To date, rhythm guitarist Chris Henderson is the only musician who played on The Better Life who remains in the band."
+  },
+  {
+   "id": "8f4d4f05-36ed-3c81-86a7-aae2a03b1520",
+   "titulo": "Away From the Sun",
+   "data": "2002-11-10",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/c5adc5e0-f8ae-427e-9b6c-22c87576dd83/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When I’m Gone",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Away From the Sun",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "The Road I’m On",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Ticket to Heaven",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Running Out of Days",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Here Without You",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "I Feel You",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Dangerous Game",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Changes",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Going Down in Flames",
+     "duracao": "3:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Sarah Yellin’",
+     "duracao": "3:17"
+    },
+    {
+     "n": 12,
+     "titulo": "This Time",
+     "duracao": "5:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Live",
+     "duracao": "4:55"
+    },
+    {
+     "n": 14,
+     "titulo": "Kryptonite",
+     "duracao": "4:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Loser",
+     "duracao": "4:32"
+    },
+    {
+     "n": 16,
+     "titulo": "Duck & Run",
+     "duracao": "4:06"
+    },
+    {
+     "n": 17,
+     "titulo": "Be Like That",
+     "duracao": "4:07"
+    },
+    {
+     "n": 18,
+     "titulo": "The Making of Away From the Sun",
+     "duracao": "12:09"
+    },
+    {
+     "n": 19,
+     "titulo": "Dangerous Game (5.1 audio)",
+     "duracao": "3:37"
+    },
+    {
+     "n": 20,
+     "titulo": "When I’m Gone (5.1 audio)",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 89,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.6,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Away_from_the_Sun",
+   "resumo_en": "Away from the Sun is the second studio album by the American rock band 3 Doors Down, released by Universal Records on November 12, 2002. Three of its four singles—\"When I'm Gone\", \"Here Without You\", and \"Away from the Sun\"—entered the Billboard Hot 100, peaking at numbers four, five, and 62, respectively. The album received quadruple platinum certification by the Recording Industry Association of America (RIAA) on August 4, 2006."
+  },
+  {
+   "id": "db349d06-fb52-3064-86bb-9c0b86802942",
+   "titulo": "Seventeen Days",
+   "data": "2005-02-08",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/6dc666d9-df9b-43b2-bdc7-bcc2e0219fd8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Right Where I Belong",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s Not Me",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Let Me Go (rock version)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Be Somebody",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Landing in London",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "The Real Life",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Behind Those Eyes",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Never Will I Break",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Father’s Son",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Live for Today",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "My World",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Here by Me",
+     "duracao": "3:46"
+    },
+    {
+     "n": 13,
+     "titulo": "Here Without You (acoustic version)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Away From the Sun (acoustic version)",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Seventeen_Days",
+   "resumo_en": "Seventeen Days is the third studio album by the American rock band 3 Doors Down. It was released on February 8, 2005, five years after the release of their first album, The Better Life. It is the band's first album to debut atop the Billboard 200, and received both gold and platinum certifications by the Recording Industry Association of America (RIAA) on March 14, 2005. Its lead single, \"Let Me Go\", became the album's only song to enter the Billboard Hot 100, peaking at number 14. The album features a duet with Bob Seger on the single \"Landing in London\", and is the only 3 Doors Down studio album with Daniel Adair on drums, who left the group to join the Canadian rock band Nickelback in 2005."
+  },
+  {
+   "id": "64348b38-dbfe-368f-9704-cb1318f7e99b",
+   "titulo": "3 Doors Down",
+   "data": "2008-01-01",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/0349254e-8e9f-4277-b4ff-5304cd6d0272/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Train",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Citizen/Soldier",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s Not My Time",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Let Me Be Myself",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Pages",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "It’s the Only One You’ve Got",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Give It to Me",
+     "duracao": "3:21"
+    },
+    {
+     "n": 8,
+     "titulo": "These Days",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Your Arms Feel Like Home",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Runaway",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "When It’s Over",
+     "duracao": "4:18"
+    },
+    {
+     "n": 12,
+     "titulo": "She Don’t Want the World",
+     "duracao": "4:03"
+    },
+    {
+     "n": 13,
+     "titulo": "Making of the Album",
+     "duracao": "20:45"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 55,
+    "media": 5.2,
+    "fontes": 6
+   },
+   "publico": 8.4,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/3_Doors_Down_%28album%29",
+   "resumo_en": "3 Doors Down is the fourth album by the American rock band 3 Doors Down, released on May 20, 2008. Its first two singles, \"Citizen/Soldier\" and \"It's Not My Time\", were released in November 2007 and February 2008. Both songs entered the Billboard Hot 100, at numbers 96 and 17. \"Citizen/Soldier\" served as a tribute to the National Guard.\nThe album became the band's second consecutive number-one album on the Billboard 200, with first week sales of 154,000 units. 3 Doors Down was certified Platinum by the RIAA on December 9, 2024, and as of November 2009, it has sold 820,000 copies in the US. It is their first album to feature former Puddle of Mudd member Greg Upchurch on drums, who joined 3 Doors Down in 2005."
+  },
+  {
+   "id": "7848f9a1-fb65-4ad4-b8cb-5fec73dd01c1",
+   "titulo": "Time of My Life",
+   "data": "2011-07-15",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/29af5024-ce67-4e53-bdd3-260bcd1f7e8d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Time of My Life",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "When You’re Young",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Round and Round",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Heaven",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Race for the Sun",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Back to Me",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Every Time You Go",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "What’s Left",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "On the Run",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "She Is Love",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "My Way",
+     "duracao": "3:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Believer",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 50,
+    "media": 5.4,
+    "fontes": 7
+   },
+   "publico": 7.3,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Time_of_My_Life_%283_Doors_Down_album%29",
+   "resumo_en": "Time of My Life is the fifth studio album by the American rock band 3 Doors Down. It was released on July 19, 2011. The album debuted at number three on the Billboard 200 and sold 59,800 copies in its first week of its release. The singles from the album included \"When You're Young\", \"Every Time You Go\", \"What's Left\", \"Back to Me\", and the title track. It is the last album to feature Matt Roberts before his departure from the band in 2012 and his death in 2016, as well as the last for Todd Harrell before he was arrested for vehicular homicide and fired from the band in 2013. The official cover artwork was revealed on June 25, 2011. The album's track listing was revealed on July 12, 2011."
+  },
+  {
+   "id": "73271d22-0e3d-4d32-8110-00682345aed4",
+   "titulo": "Us and the Night",
+   "data": "2016-03-11",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/22380e00-55b8-4157-abdf-de118a7eadd8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Broken",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Dark",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Still Alive",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Believe It",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Living in Your Hell",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Inside of Me",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don’t Wanna Know",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Pieces of Me",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Is a Lie",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Us and the Night",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Fell From the Moon",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 51,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Us_and_the_Night",
+   "resumo_en": "Us and the Night is the sixth studio album by the American rock band 3 Doors Down, released on March 11, 2016. It is 3 Doors Down's first studio album since Time of My Life (2011), marking the longest gap between two studio albums up to that point in their career. It is the band's first album with Chet Roberts on lead guitar and Justin Biltonen on bass. The album received mixed reviews from critics. Us and the Night debuted at number 14 on the Billboard 200 chart and spawned three singles: \"In the Dark\", \"Still Alive\", and \"The Broken\". To promote the record, the band headlined tours across Europe and North America.\nIt was the last album released by the band before the death of lead singer Brad Arnold in 2026."
+  }
+ ]
+}

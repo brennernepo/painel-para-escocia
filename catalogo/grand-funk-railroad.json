@@ -1,0 +1,853 @@
+{
+ "id": "grand-funk-railroad",
+ "nome": "Grand Funk Railroad",
+ "cena": "Hard rock",
+ "mbid": "103241b0-6adf-4b4f-9cff-5c87459f61a4",
+ "wikidata": "Q622815",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "hard rock",
+  "heavy psych",
+  "pop rock",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/MelBruceGFR2002.jpg/500px-MelBruceGFR2002.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Grand_Funk_Railroad",
+ "resumo_pt": "Grand Funk Railroad (ou simplesmente Grand Funk) é uma banda de rock da década de 1970, descoberta em 1969 no Atlanta Pop Festival, que chegou a ser uma grande sensação do rock para os jovens no final dos anos 60 e começo dos anos 70.",
+ "resumo_en": "Grand Funk Railroad (often shortened to Grand Funk) is an American rock band formed in Flint, Michigan, in 1969 by Mark Farner (vocals, guitar, keyboards, harmonica), Don Brewer (drums, vocals) and Mel Schacher (bass). Keyboard player Craig Frost joined them in 1972. The band achieved peak popularity and success during the 1970s with hit songs such as \"We're an American Band\", \"I'm Your Captain (Closer to Home)\", \"Some Kind of Wonderful\" (a cover of Soul Brothers Six), \"Walk Like a Man\", \"The Loco-Motion\" (a cover of Little Eva), \"Bad Time\" and \"Shinin' On\". Grand Funk released six Platinum and seven Gold-certified albums between their recording debut in 1969 and their first disbandment in 1976.\nKnown for a crowd-pleasing arena rock style, the band toured extensively and played to packed arenas worldwide, and was well-regarded by audiences despite a relative lack of critical praise. The original trio reunited at various times later into the band's career; after Farner's final departure in 1998, Brewer and Schacher have continued touring as Grand Funk Railroad.",
+ "albuns": [
+  {
+   "id": "8df10f49-e355-32fd-b36d-15c61c7eed7a",
+   "titulo": "On Time",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/ea5d6877-cb4c-41bc-b253-8808e77ff385/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Are You Ready",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Anybody’s Answer",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Machine",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "High on a Horse",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "T.N.U.C.",
+     "duracao": "8:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Into the Sun",
+     "duracao": "6:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Heartbreaker",
+     "duracao": "6:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Call Yourself a Man",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t Be Too Long",
+     "duracao": "6:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Ups and Downs",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_Time",
+   "resumo_en": "On Time is the debut studio album by American rock band Grand Funk Railroad, released on August 25, 1969, by Capitol Records. It was recorded at Cleveland Recording Company, the album was produced by Terry Knight. \"Time Machine\", the band's debut single release, made it into the top 50 in the singles charts, reaching #48.\nAfter the success of their second album Grand Funk (also known as The Red Album) in 1970, On Time went gold, one of four RIAA gold record awards for the band that year. The other two albums reaching gold status in 1970 for Grand Funk Railroad were Closer to Home and Live Album.\nIn 2002, On Time was remastered on CD with bonus tracks and also released in a limited edition box set Trunk of Funk that contained the band's first four albums. The \"trunk\" has slots for twelve CDs to house the future release of the remaining eight albums that were released by Capitol Records. Also included is a pair of \"Shinin' On\" 3D glasses, guitar pick and a sticker reproducing a concert ticket."
+  },
+  {
+   "id": "af1e5a33-4b25-30e1-af65-03ea42890090",
+   "titulo": "Grand Funk",
+   "data": "1969-12",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/9814afc8-30d5-47fa-9eb6-e312e61bde81/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Got This Thing on the Move",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Please Don't Worry",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "High Falootin' Woman",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Mr. Limousine Driver",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "In Need",
+     "duracao": "7:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Winter and My Soul",
+     "duracao": "6:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Paranoid",
+     "duracao": "7:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Inside Looking Out",
+     "duracao": "9:31"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Grand_Funk_%28album%29",
+   "resumo_en": "Grand Funk (commonly known as The Red Album) is the second studio album by American rock band Grand Funk Railroad. It was released on December 29, 1969, by Capitol Records, just four months after their debut album On Time. Recorded at Cleveland Recording Company, the album was produced by Terry Knight and engineered by Ken Hamann. The album was certified gold by the RIAA, the first for the group. It includes a cover of the Animals' 1966 song \"Inside Looking Out\", which is still a staple of the band's live concerts.\nGrand Funk was originally released by Capitol Records in LP, cassette, 8-track tape, and reel-to-reel configurations. The original reel-to-reel version (manufactured for Capitol/EMI by Ampex) contains edited versions of \"Got This Thing on the Move\", \"Please Don't Worry\", \"Mr. Limousine Driver\" and \"Inside Looking Out\", the harmonica solo has been deleted, not available elsewhere. The edits on these songs reduce the album's overall running time by approximately five minutes.\nIn 2002, Grand Funk was remastered on compact disc with bonus tracks and also released in a limited edition box set Trunk of Funk that contained the band's first four albums. The \"trunk\" has slots for"
+  },
+  {
+   "id": "f53df5ab-437f-31d5-bdd8-fc36adb9659e",
+   "titulo": "Closer to Home",
+   "data": "1970-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/101fd7f0-df7b-3ebb-a676-6b3afaee64c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sin’s a Good Man’s Brother",
+     "duracao": "4:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Aimless Lady",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Nothing Is the Same",
+     "duracao": "5:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Mean Mistreater",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Get It Together",
+     "duracao": "5:07"
+    },
+    {
+     "n": 6,
+     "titulo": "I Don’t Have to Sing the Blues",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Hooked on Love",
+     "duracao": "7:12"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m Your Captain (Closer to Home)",
+     "duracao": "9:54"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Closer_to_Home",
+   "resumo_en": "Closer to Home is the third studio album by American rock band Grand Funk Railroad. The album was released on June 15, 1970, by Capitol Records. Recorded at Cleveland Recording Company, the album was produced by Terry Knight. This album reached RIAA gold record status in 1970, making it the group's third gold record in one year. The album's inside artwork shows a live photo of the band performing at Madison Square Garden in February 1970.\nIn 2002 Closer to Home was remastered on compact disc with bonus tracks and also released in a limited-edition box set Trunk of Funk that contained the band's first four albums. The \"trunk\" has slots for twelve CDs to house the future release of the remaining eight albums that were released by Capitol. Also included is a pair of \"Shinin' On\" 3-D glasses, guitar pick and a sticker reproducing a concert ticket."
+  },
+  {
+   "id": "ccf60b32-82a7-37cc-b4cb-33d34fc5c7c9",
+   "titulo": "E Pluribus Funk",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/82f36f8a-cbc6-425b-8f45-2ecb4381cccc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Foot Stompin' Music",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "People Let's Stop The War",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Upsetter",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "I Come Tumblin'",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Save The Land",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "No Lies",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Loneliness",
+     "duracao": "8:38"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/E_Pluribus_Funk",
+   "resumo_en": "E Pluribus Funk is the fifth studio album by American rock band Grand Funk Railroad. The album was released on November 15, 1971, by Capitol Records. Like previous Grand Funk Railroad albums, it was recorded at Cleveland Recording Company and is the final album produced by Terry Knight. The title is a play on the Latin motto of the United States of America, E pluribus unum (\"Out of many, one\") and translates as \"Out of many, Funk\". The original release cover (designed by Ernie Cefalu) was completely round and covered with a silver-like film to resemble a large coin. The back  side of the cover of this album included a die cast picture of Shea Stadium to celebrate Grand Funk beating The Beatles' Shea Stadium attendance record by selling out in just 72 hours."
+  },
+  {
+   "id": "cf2e8f09-09e3-3677-a227-455218309059",
+   "titulo": "Survival",
+   "data": "1971-04",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/bb729ad2-38d3-4077-8c6b-f4b420fb623f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Country Road",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "All You've Got Is Money",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Comfort Me",
+     "duracao": "6:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Feelin' Alright",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "I Want Freedom",
+     "duracao": "6:19"
+    },
+    {
+     "n": 6,
+     "titulo": "I Can Feel Him in the Morning",
+     "duracao": "7:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Gimme Shelter",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Survival_%28Grand_Funk_Railroad_album%29",
+   "resumo_en": "Survival is the fourth studio album by American rock band Grand Funk Railroad, released in April 1971 by Capitol Records. Recorded at Cleveland Recording Company, the album was produced by Terry Knight. Drummer Don Brewer was not happy with the drum sound on the album, due to Knight's insistence of having Brewer cover his drum heads with tea-towels, after seeing Ringo Starr use the technique in the Beatles' film Let It Be (1970)."
+  },
+  {
+   "id": "9b396d47-695b-3ff6-98c5-d7843ad66c87",
+   "titulo": "Phoenix",
+   "data": "1972-09",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/30a83ec2-5dba-426b-8205-0865eb635667/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flight of the Phoenix",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Tryin’ to Get Away",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Someone",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "She Got to Move Me",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Rain Keeps Fallin’",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "I Just Gotta Know",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "So You Won’t Have to Die",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Freedom Is for Children",
+     "duracao": "6:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Gotta Find Me a Better Day",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock & Roll Soul",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_%28Grand_Funk_Railroad_album%29",
+   "resumo_en": "Phoenix is the sixth studio album by American rock band Grand Funk Railroad, released on September 15, 1972, by Capitol Records. The album was produced by the band and marks their first album without producer Terry Knight. \"Rock & Roll Soul\" was released as a single and peaked at #29 on the US Billboard Hot 100 in 1972."
+  },
+  {
+   "id": "9ba161d5-b554-30df-925a-1fef3ccfd1c4",
+   "titulo": "We’re an American Band",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/07d64ae1-8750-4f1f-b8da-9e0e99950d72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We’re an American Band",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Stop Lookin’ Back",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Creepin’",
+     "duracao": "7:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Licorice",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "The Railroad",
+     "duracao": "6:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain’t Got Nobody",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Walk Like a Man",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Loneliest Rider",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/We%27re_an_American_Band",
+   "resumo_en": "We're an American Band is the seventh studio album by American hard rock band Grand Funk Railroad, credited as Grand Funk. The album was released by Capitol Records in July 1973, and was certified gold by the RIAA a little over a month after its release. Two singles were released from the album. The title track was the first single from the album released on July 2, 1973 and the second, \"Walk Like a Man\", was released on October 29, 1973. Both were sung by drummer Don Brewer. There was also an addition to the band's membership with this release - Craig Frost - who played the organ, clavinet and Moog. Prior to We're an American Band being released, Grand Funk Railroad had been a power trio. Craig was credited as an additional musician on Phoenix, which was released the previous year.\nThe album cover was originally covered in gold-colored foil on the outside, and the initial run of pressings were pressed in clear, dark yellow vinyl to simulate or suggest a \"gold\" record. The album has been reissued many times and is currently available in the Compact Disc format. A Quadraphonic mix of the album was available in the Quadraphonic 8-Track cartridge format.\nThe album is #200 of the Natio"
+  },
+  {
+   "id": "594d46a6-464f-3ebf-9c91-1d58c607c371",
+   "titulo": "All the Girls in the World Beware!!!",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/bd4f1d51-e372-415d-924a-11c1c0385ff3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Responsibility",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Runnin'",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Life",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Look at Granny Run Run",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Memories",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "All the Girls in the World Beware",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Wild",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Good and Evil",
+     "duracao": "7:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Bad Time",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Some Kind of Wonderful",
+     "duracao": "3:16"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_the_Girls_in_the_World_Beware%21%21%21",
+   "resumo_en": "All the Girls in the World Beware!!! is the ninth studio album by American hard rock band Grand Funk Railroad. The album was released by Capitol Records in December 1974 and was the group's second album released that year. The first single from the album, \"Some Kind of Wonderful\", was released on December 16, 1974, and its follow-up, \"Bad Time\", was released on March 24, 1975. A Quadraphonic mix of the album was available on the Quadraphonic 8-Track cartridge format."
+  },
+  {
+   "id": "e47ad618-bfaf-3865-8c1b-9909c2011b91",
+   "titulo": "Shinin’ On",
+   "data": "1974-03",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/25608773-bd25-40d4-8750-de48df8fb0a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shinin’ On",
+     "duracao": "6:00"
+    },
+    {
+     "n": 2,
+     "titulo": "To Get Back In",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "The Loco-Motion",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Carry Me Through",
+     "duracao": "5:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Please Me",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Mr. Pretty Boy",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Gettin’ Over You",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Johnny Hooker",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shinin%27_On",
+   "resumo_en": "Shinin' On is the eighth studio album by American rock band Grand Funk Railroad. The album was released in March 1974, by Capitol Records. Although not as successful as its predecessor, We're an American Band (1973), it peaked at #5 in the US and was certified gold, and its first single, a cover of \"The Loco-Motion\" topped the U.S. charts. The original release included stereoscopic glasses for viewing the artwork in 3D. The cover art was provided by graphics artist Neal Adams, based on an idea by the band's photographer Lynn Goldsmith and manager Andrew Cavaliere. A quadraphonic version of the album was released in 8-track format."
+  },
+  {
+   "id": "0071962b-4dbd-39c2-a95f-a6ad763c446a",
+   "titulo": "Born to Die",
+   "data": "1976-01",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/6026a291-d4f1-4b55-ad8e-0595c6414a0f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Born to Die",
+     "duracao": "5:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Dues",
+     "duracao": "5:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Sally",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "I Fell for Your Love",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Talk to the People",
+     "duracao": "5:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Take Me",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Genevieve",
+     "duracao": "6:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is Dyin’",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Politician",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Good Things",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Born_to_Die_%28Grand_Funk_Railroad_album%29",
+   "resumo_en": "Born to Die is the tenth studio album by American hard rock band Grand Funk Railroad, released in January 1976.\nThe album's title is considered to be one of the group's more somber, straying away from the upbeat and cocky attitude that was so prevalent on previous albums, such as All the Girls in the World Beware!!! (1974), and focusing on darker musical and lyrical content concerning death, politics, and personal relationships. The title track was written by Farner in memory of his cousin who had died in a motorcycle accident. The more upbeat pop single, \"Sally\", released on 3 April, was written by Mark Farner for his then love interest, the actress/singer Sally Kellerman."
+  },
+  {
+   "id": "f2439e3d-f554-33b1-8da1-93d7c772cfd7",
+   "titulo": "Good Singin’, Good Playin’",
+   "data": "1976-08",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/009455bb-0751-4180-8259-4375106ff512/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just Couldn’t Wait",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Can You Do It",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Pass It Arround",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Let ’em Take Your Gun",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Miss My Baby",
+     "duracao": "7:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Big Buns",
+     "duracao": "0:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Out to Get You",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Crossfire",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "1976",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Release Your Love",
+     "duracao": "3:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Goin’ for the Pastor",
+     "duracao": "5:24"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Good_Singin%27%2C_Good_Playin%27",
+   "resumo_en": "Good Singin' Good Playin' is the eleventh studio album by American rock band Grand Funk Railroad. The album was released on August 2, 1976, by MCA Records.\nThe band had actually broken up, but after Frank Zappa expressed interest in producing an album for them, they reassembled for one more attempt at success. Recorded in 1976 for MCA Records, this album included a guest performance by Zappa, playing lead guitar on the song \"Out to Get You\". Although the pairing seemed bizarre, Grand Funk drummer Don Brewer said, \"His whole viewpoint on what rock and roll is all about is basically the same as ours.... Keep it as simple as possible and really bring the balls out of this thing.\"  Zappa said, \"All I did was, in a documentary way, make a record which tells you exactly what they really sound like. For the first time on record you can hear Grand Funk Railroad ... and they're fantastic, fan-tastic with an F three times taller than you!\"  Grand Funk decided on the first day of overdubs to split up again, although Zappa stayed until 4 a.m. trying to talk them out of it.\nThe album peaked at No. 52 on the Billboard Top 200. The album was the final release to feature both bassist Mel Schacher "
+  },
+  {
+   "id": "ea94ba90-411a-3067-a406-3deab2fe7f45",
+   "titulo": "Grand Funk Lives",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/60eec0cd-90ce-45bd-b592-d472a1e3392e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Times",
+     "duracao": "2:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Queen Bee",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Testify",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Can’t Be With You Tonight",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "No Reason Why",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "We Gotta Get Out of This Place",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Y.O.U.",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Stuck in the Middle",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Greed of Man",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Wait for Me",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Grand_Funk_Lives",
+   "resumo_en": "Grand Funk Lives is the twelfth studio album by Grand Funk Railroad. The album was released in 1981 by Full Moon Records. It was their first album since disbanding in 1976. Although known as a reunion album, it did not feature bassist Mel Schacher or keyboard player Craig Frost.  The album was the first to feature bassist Dennis Bellinger and the first and only to feature keyboardist Lance Duncan Ong.\nThe track \"Queen Bee\" was featured in the 1981 motion picture soundtrack for the animated film Heavy Metal."
+  },
+  {
+   "id": "9a01d07e-8c87-3a6c-bc3d-576947e0379b",
+   "titulo": "What’s Funk?",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/a12a196c-e711-4ab7-b1f8-5ba9f97541ad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock & Roll American Style",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Nowhere to Run",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Innocent",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Still Waitin’",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Borderline",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "El Salvador",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s a Man’s World",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m So True",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Lie to Me",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Life in Outer Space",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 3.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/What%27s_Funk%3F",
+   "resumo_en": "What's Funk? is the thirteenth studio album by Grand Funk Railroad, released in 1983. Though the band have continued to tour throughout the years, this stands as their most recent album to date."
+  }
+ ]
+}

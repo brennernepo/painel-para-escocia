@@ -1,0 +1,1647 @@
+{
+ "id": "annihilator",
+ "nome": "Annihilator",
+ "cena": "Thrash metal",
+ "mbid": "c30ebe30-514f-4e6d-823a-19adf0225a56",
+ "wikidata": "Q567086",
+ "tipo": "Group",
+ "pais": "CA",
+ "inicio": "1984",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "thrash metal",
+  "heavy metal",
+  "speed metal",
+  "metal",
+  "technical thrash metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Annihilator_Rockharz_2016_09.jpg/500px-Annihilator_Rockharz_2016_09.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Annihilator",
+ "resumo_pt": "Annihilator é uma banda canadense de thrash metal formada em 1984 em Ottawa, Ontário, pelo multi-instrumentista, produtor e compositor Jeff Waters e o vocalista John Bates. Eles são o grupo de metal mais bem sucedido comercialmente da história do Canadá, vendendo cerca de 3 milhões de álbuns em sua carreira.",
+ "resumo_en": "Annihilator is a Canadian thrash metal band, formed in Ottawa, Ontario in 1984 by Jeff Waters. Waters is the band's sole constant member and has acted as its guitarist, bandleader, writer, producer, engineer, and occasional bassist and vocalist. Annihilator has released seventeen studio albums and has undergone many line-up changes, with Waters regularly assembling touring or session musicians to perform with him. Along with Sacrifice, Voivod and Razor, Annihilator has been referred to as one of the \"Big Four\" of Canadian thrash metal. They are also considered to be part of the \"second wave\" of thrash metal bands from the late 1980s and early 1990s.\nAnnihilator is the highest-selling Canadian heavy metal group, although most sales have been generated outside of Canada. The band's first two studio albums, Alice in Hell (1989) and Never, Neverland (1990), are considered influential Canadian metal records. Many of their subsequent albums — including their third and only major-label album Set the World on Fire (1993) — also received praise from critics and enjoyed success in Europe and Japan. Their most recent studio album of original material, Ballistic, Sadistic, was released in 2020.",
+ "albuns": [
+  {
+   "id": "d89f908d-3800-358c-9545-7e5bc33d4530",
+   "titulo": "Alice in Hell",
+   "data": "1989-07-05",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/5055da47-e53b-3d3f-b7d5-baf5f87c0362/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crystal Ann",
+     "duracao": "1:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Alison Hell",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "W.T.Y.D.",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Wicked Mystic",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Burns Like a Buzzsaw Blade",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Word Salad",
+     "duracao": "5:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Schizos (Are Never Alone), Parts I & II",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Ligeia",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Human Insecticide",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alice_in_Hell",
+   "resumo_en": "Alice in Hell is the debut studio album by Canadian thrash metal band Annihilator, released on April 17, 1989 through Roadrunner Records. This was the only Annihilator album for ten years to feature Randy Rampage on vocals, until he returned for their seventh studio album Criteria for a Black Widow (1999)."
+  },
+  {
+   "id": "962c63de-e70a-3091-ac66-36217f55eac6",
+   "titulo": "Never, Neverland",
+   "data": "1990-09-12",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/0d63482f-0ad9-361d-acff-478fd9c609b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Fun Palace",
+     "duracao": "5:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Road to Ruin",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Sixes and Sevens",
+     "duracao": "5:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Stonewall",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Never, Neverland",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Imperiled Eyes",
+     "duracao": "5:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Kraf Dinner",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Phantasmagoria",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Reduced to Ash",
+     "duracao": "3:09"
+    },
+    {
+     "n": 10,
+     "titulo": "I Am in Command",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Never%2C_Neverland",
+   "resumo_en": "Never, Neverland is the second album by thrash/heavy metal band Annihilator, released on August 7, 1990, through Roadrunner.\nThe album was re-released twice: in 1998 with three demo tracks as bonus tracks and again on September 9, 2003, in a two-disc compilation set along with Alice in Hell, entitled Alice in Hell/Never Neverland (as part of Roadrunner Records Two from the Vault series)."
+  },
+  {
+   "id": "a9d6e5ce-6a3c-3b57-83ce-b15ee8a1827c",
+   "titulo": "Set the World on Fire",
+   "data": "1993-04-26",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/b6880b8c-5d84-4548-839a-a61499a0c030/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Set the World on Fire",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "No Zone",
+     "duracao": "2:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Bats in the Belfry",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Snake in the Grass",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Phoenix Rising",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Knight Jumps Queen",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Sounds Good to Me",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "The Edge",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Bother Me",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Brain Dance",
+     "duracao": "4:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Hell Bent for Leather",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Set_the_World_on_Fire_%28Annihilator_album%29",
+   "resumo_en": "Set the World on Fire is the third studio album by Canadian heavy metal band Annihilator, released on May 4, 1993 by Roadrunner and Epic Records. The album received mixed reviews, toning down the thrash elements of Alice in Hell and Never, Neverland in favor of a more radio friendly sound. The title track, \"Knight Jumps Queen\", and \"Brain Dance\" are still setlist regulars, becoming fan favourites years after the release of the album.\nThe album was successful in Europe (charting at No. 79 in the German charts) and Asia (charting at No. 47 in Japan)  but failed to break America – leading to the band (along with many others) being dropped from Roadrunner in 1993. Bassist Wayne Darley left the band shortly after, as he was not able to enter Japan on tour in support of the album. The album was reissued in 2009."
+  },
+  {
+   "id": "4631a6ed-7889-387e-bed0-8a8e74b1273c",
+   "titulo": "King of the Kill",
+   "data": "1994-10-10",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/1b02ce06-a16b-4b6c-8150-360435919082/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Box",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "King of the Kill",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Hell Is a War",
+     "duracao": "5:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Bliss",
+     "duracao": "0:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Second to None",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Annihilator",
+     "duracao": "4:28"
+    },
+    {
+     "n": 7,
+     "titulo": "21",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Blood",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Fiasco (The Slate)",
+     "duracao": "0:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Fiasco",
+     "duracao": "3:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Catch the Wind",
+     "duracao": "3:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Speed",
+     "duracao": "4:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Bad Child",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/King_of_the_Kill",
+   "resumo_en": "King of the Kill is the fourth album by Canadian heavy metal band Annihilator, released in 1994. This was the first Annihilator album not released on Roadrunner Records, and marked a return to the thrash metal sound of their earlier albums, Alice in Hell and Never, Neverland, after the commercial failure of its predecessor Set the World on Fire, while also retaining some of that album's radio-friendly sound. King of the Kill was also the first of three consecutive studio albums to feature guitarist and bandleader Jeff Waters on both lead vocals and bass."
+  },
+  {
+   "id": "aa21bdbb-31d5-3ae0-aa17-e23b3d04dc76",
+   "titulo": "Refresh the Demon",
+   "data": "1996-03-05",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/db5a1166-06d2-4396-89af-e625dd2c1c9e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Refresh the Demon",
+     "duracao": "5:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Syn. Kill 1",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Awaken",
+     "duracao": "0:53"
+    },
+    {
+     "n": 4,
+     "titulo": "The Pastor of Disaster",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "A Man Called Nothing",
+     "duracao": "5:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Ultraparanoia",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "City of Ice",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Anything for Money",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Hunger",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Voices and Victims",
+     "duracao": "4:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Innocent Eyes",
+     "duracao": "9:05"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Refresh_the_Demon",
+   "resumo_en": "Refresh the Demon is the fifth studio album by Canadian heavy metal band Annihilator, released on March 11, 1996, by Music for Nations."
+  },
+  {
+   "id": "4afcaa4b-b67d-31da-9ced-4fb6b35e0c2e",
+   "titulo": "Remains",
+   "data": "1997-07-18",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/e32cc230-5dd8-4dc9-ad66-3df64d10459e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Murder",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Sexecution",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "No Love",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Never",
+     "duracao": "5:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Human Remains",
+     "duracao": "2:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Dead Wrong",
+     "duracao": "5:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Wind",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Tricks and Traps",
+     "duracao": "4:59"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Reaction",
+     "duracao": "3:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Bastiage",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Remains_%28Annihilator_album%29",
+   "resumo_en": "Remains is the sixth studio album by Canadian heavy metal band Annihilator, released on July 21, 1997 by Music For Nations and CMC International. All instruments were performed by Jeff Waters following the dissolution of the previous line-up. However, John Bates and Dave Steele make an appearance on \"No Love\" on guitars and vocals respectively, with Steele also appearing on \"Wind\". The album features a more industrial-oriented sound and also features a drum machine. Remains was the last album for 18 years (until Suicide Society) to feature lead vocals by Waters on an Annihilator album."
+  },
+  {
+   "id": "5badaaff-a717-396c-8eaf-969c3237ad00",
+   "titulo": "Criteria for a Black Widow",
+   "data": "1999-06-01",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/d2e6e9a7-af76-4035-bd46-24d2f14f431d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bloodbath",
+     "duracao": "5:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Back to the Palace",
+     "duracao": "5:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Punctured",
+     "duracao": "5:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Criteria for a Black Widow",
+     "duracao": "5:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Schizos (Are Never Alone) Part III",
+     "duracao": "5:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Nothing Left",
+     "duracao": "4:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Loving the Sinner",
+     "duracao": "4:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Double Dare",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Sonic Homicide",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Mending",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Criteria_for_a_Black_Widow",
+   "resumo_en": "Criteria for a Black Widow is the seventh studio album by Canadian heavy metal band Annihilator, released on June 1, 1999, by Roadrunner Records. It is the only album to feature the reunited Alice in Hell-era line-up (with the exception of bassist Wayne Darley, who declined to rejoin the band, and was replaced by Russ Bergquist)."
+  },
+  {
+   "id": "4a2749f5-bdb5-3997-8334-4683f3e50958",
+   "titulo": "Carnival Diablos",
+   "data": "2001-01-23",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/e28cdd20-d69f-4fe0-b3a1-83693d9dc79f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Denied",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "The Perfect Virus",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Battered",
+     "duracao": "5:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Carnival Diablos",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Shallow Grave",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Time Bomb",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "The Rush",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Insomniac",
+     "duracao": "6:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Liquid Oval",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Epic of War",
+     "duracao": "5:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Hunter Killer / Chicken & Corn",
+     "duracao": "9:10"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Carnival_Diablos",
+   "resumo_en": "Carnival Diablos is the eighth studio album by Canadian heavy metal band Annihilator, released on January 23, 2001 by Metal-Is/Sanctuary and SPV/Steamhammer. It is the first album to feature Joe Comeau, formerly of Overkill, on vocals."
+  },
+  {
+   "id": "bf7b9add-d2be-3d0a-b867-d6a73fb9c1f3",
+   "titulo": "Waking the Fury",
+   "data": "2002-03-18",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/70d929c2-3ccd-3325-8c8f-88cedd4f4a67/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ultra-Motion",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Torn",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "My Precious Lunatic Asylum",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Striker",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Ritual",
+     "duracao": "5:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Prime-Time Killing",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "The Blackest Day",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Nothing to Me",
+     "duracao": "4:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Fire Power",
+     "duracao": "4:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Cold Blooded",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Shallow Grave (live)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Nothing to Me (radio edit)",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waking_the_Fury",
+   "resumo_en": "Waking the Fury is the ninth studio album by Canadian heavy metal band Annihilator, released on March 18, 2002 by SPV. It was the last album with Joe Comeau on vocals and Russ Bergquist as the touring bassist."
+  },
+  {
+   "id": "0b86f560-676c-378d-ba1d-747c43037518",
+   "titulo": "All for You",
+   "data": "2004-04-21",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/51b88e37-b6a3-48f4-a9c7-68e26a1878b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All for You",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Dr. Psycho",
+     "duracao": "7:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Demon Dance",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "The One",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Bled",
+     "duracao": "6:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Both of Me",
+     "duracao": "8:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Rage Absolute",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Holding On",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "The Nightmare Factory",
+     "duracao": "5:40"
+    },
+    {
+     "n": 10,
+     "titulo": "The Sound of Horror",
+     "duracao": "5:08"
+    },
+    {
+     "n": 11,
+     "titulo": "All for You (single edit)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Weapon X",
+     "duracao": "3:33"
+    },
+    {
+     "n": 13,
+     "titulo": "The One (single edit)",
+     "duracao": "3:43"
+    },
+    {
+     "n": 14,
+     "titulo": "All for You (album version)",
+     "duracao": "4:29"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 5.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_for_You_%28Annihilator_album%29",
+   "resumo_en": "All for You is the tenth studio album by Canadian heavy metal band Annihilator, released on May 24, 2004, by AFM Records. It was the first album to feature Dave Padden on vocals. It was also the second to feature Mike Mangini on drums."
+  },
+  {
+   "id": "e24e551a-f320-3841-8c5b-bf44cdcd3ee6",
+   "titulo": "Schizo Deluxe",
+   "data": "2005-10-21",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/b1363697-9e49-4692-b4a0-ea01de35a8fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Maximum Satan",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Drive",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Warbird",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Plasma Zombies",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Invite It",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Like Father, Like Gun",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Pride",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Too Far Gone",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Clare",
+     "duracao": "6:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Something Witchy",
+     "duracao": "5:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Weapon X",
+     "duracao": "3:32"
+    },
+    {
+     "n": 12,
+     "titulo": "I Am in Command",
+     "duracao": "3:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Annihilator",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.1,
+    "fontes": 4
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Schizo_Deluxe",
+   "resumo_en": "Schizo Deluxe is the eleventh studio album by Canadian heavy metal band Annihilator, released on November 8, 2005, by AFM Records."
+  },
+  {
+   "id": "cb611ad0-0386-336c-ae70-178425c58f01",
+   "titulo": "Metal",
+   "data": "2007-04-11",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/1e85a02f-4af4-4c1d-a009-0f19b09a20d3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Clown Parade",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Couple Suicide",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Army of One",
+     "duracao": "6:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Downright Dominate",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Smothered",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Operation Annihilation",
+     "duracao": "5:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Haunted",
+     "duracao": "8:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Kicked",
+     "duracao": "5:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Detonation",
+     "duracao": "3:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Chasing the High",
+     "duracao": "6:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Carnival Diablos",
+     "duracao": "5:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Time Bomb",
+     "duracao": "4:46"
+    },
+    {
+     "n": 13,
+     "titulo": "Blackest Day",
+     "duracao": "5:06"
+    },
+    {
+     "n": 14,
+     "titulo": "My Precious Lunatic Asylum",
+     "duracao": "5:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Shallow Grave (live)",
+     "duracao": "5:04"
+    },
+    {
+     "n": 16,
+     "titulo": "Murder",
+     "duracao": "4:26"
+    },
+    {
+     "n": 17,
+     "titulo": "Tricks and Traps",
+     "duracao": "4:57"
+    },
+    {
+     "n": 18,
+     "titulo": "Refresh the Demon",
+     "duracao": "5:26"
+    },
+    {
+     "n": 19,
+     "titulo": "Ultra Paranoia",
+     "duracao": "4:28"
+    },
+    {
+     "n": 20,
+     "titulo": "King of the Kill",
+     "duracao": "3:11"
+    },
+    {
+     "n": 21,
+     "titulo": "Second to None",
+     "duracao": "0:52"
+    }
+   ],
+   "duracao_min": 104,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metal_%28Annihilator_album%29",
+   "resumo_en": "Metal is the twelfth album by Canadian heavy metal band Annihilator, released on April 16, 2007, by SPV/Steamhammer. However, it was not released in the United States until January 15, 2008. The album includes several special guests who each contribute to separate tracks. This includes Danko Jones, Angela Gossow, Steve \"Lips\" Kudlow, Alexi Laiho, Anders Björler, Michael Amott, Jesper Strömblad, Corey Beaulieu, Jacob Lynam and William Adler.\nA re-recording of the album titled Metal II was released in 2022."
+  },
+  {
+   "id": "55a5a15f-a817-43ac-9bec-a258a95f806b",
+   "titulo": "Annihilator",
+   "data": "2010-05-17",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/bbc9fc06-8976-36f5-853c-b6d3481207a3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Trend",
+     "duracao": "7:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Coward",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Ambush",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Betrayed",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "25 Seconds",
+     "duracao": "4:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Nowhere to Go",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "The Other Side",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Death in Your Eyes",
+     "duracao": "5:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Payback",
+     "duracao": "4:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Romeo Delight",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Annihilator_%28album%29",
+   "resumo_en": "Annihilator is the thirteenth album by Canadian heavy metal band Annihilator, released on May 17, 2010 by Earache Records in Europe, Marquee Records in Japan, Riot Entertainment in Australia and by iTunes in the US and Canada."
+  },
+  {
+   "id": "a9629fa9-f663-4a1f-a64d-f8af6fd7051f",
+   "titulo": "Re-Kill",
+   "data": "2013-08-23",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/1f54fbdf-15a4-445a-8fc0-c1be794f4fff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fun Palace",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Alison Hell",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "King of the Kill",
+     "duracao": "3:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Never, Neverland",
+     "duracao": "5:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Set the World on Fire",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "W.T.Y.D.",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "No Zone",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Bloodbath",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "21",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Stonewall",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Ultra‐Motion",
+     "duracao": "5:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Timebomb",
+     "duracao": "4:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Refresh the Demon",
+     "duracao": "5:30"
+    },
+    {
+     "n": 14,
+     "titulo": "Word Salad",
+     "duracao": "5:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Brain Dance",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {},
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "ed91aead-90f4-4c71-ba53-0fbda898536c",
+   "titulo": "Feast",
+   "data": "2013-09-06",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/8d019472-8ed9-4f9e-b47d-b42e1f2653c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Deadlock",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "No Way Out",
+     "duracao": "5:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Smear Campaign",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "No Surrender",
+     "duracao": "5:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Wrapped",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Perfect Angel Eyes",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Demon Code",
+     "duracao": "6:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Fight the World",
+     "duracao": "6:54"
+    },
+    {
+     "n": 9,
+     "titulo": "One Falls, Two Rise",
+     "duracao": "8:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Fun Palace",
+     "duracao": "5:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Alison Hell",
+     "duracao": "5:09"
+    },
+    {
+     "n": 12,
+     "titulo": "King of the Kill",
+     "duracao": "3:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Never, Neverland",
+     "duracao": "5:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Set the World on Fire",
+     "duracao": "4:25"
+    },
+    {
+     "n": 15,
+     "titulo": "W.T.Y.D.",
+     "duracao": "4:10"
+    },
+    {
+     "n": 16,
+     "titulo": "Nozone",
+     "duracao": "2:49"
+    },
+    {
+     "n": 17,
+     "titulo": "Bloodbath",
+     "duracao": "5:25"
+    },
+    {
+     "n": 18,
+     "titulo": "21",
+     "duracao": "4:24"
+    },
+    {
+     "n": 19,
+     "titulo": "Stonewall",
+     "duracao": "4:50"
+    },
+    {
+     "n": 20,
+     "titulo": "Ultra‐Motion",
+     "duracao": "5:07"
+    },
+    {
+     "n": 21,
+     "titulo": "Timebomb",
+     "duracao": "4:32"
+    },
+    {
+     "n": 22,
+     "titulo": "Refresh the Demon",
+     "duracao": "5:29"
+    },
+    {
+     "n": 23,
+     "titulo": "Word Salad",
+     "duracao": "5:45"
+    },
+    {
+     "n": 24,
+     "titulo": "Brain Dance",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 121,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Feast_%28Annihilator_album%29",
+   "resumo_en": "Feast is the fourteenth album by the Canadian heavy metal band Annihilator, released on August 23, 2013, by UDR in Europe and August 27, 2013, in North America. The cover art of the album features Spanish model and presenter Pilar Rubio.\nThe album is the final to feature vocalist Dave Padden, who parted ways with the band at the end of 2014, ending his decade-plus long tenure. The decision came after Padden became fed up with Annihilator's rigorous touring schedule that followed the album's release, leaving him wanting to spend more time with his family."
+  },
+  {
+   "id": "f7582ab1-bf21-480d-b000-1800719a0b6e",
+   "titulo": "Suicide Society",
+   "data": "2015-09-16",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/f3f58925-f4aa-4c23-896e-e54c96e870da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Suicide Society",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "My Revenge",
+     "duracao": "5:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Snap",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Creepin’ Again",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Narcotic Avenue",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "The One You Serve",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Break, Enter",
+     "duracao": "5:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Death Scent",
+     "duracao": "5:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Every Minute",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Deadlock",
+     "duracao": "5:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Set the World on Fire",
+     "duracao": "4:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Knight Jumps Queen",
+     "duracao": "4:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Ambush",
+     "duracao": "3:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Never, Neverland",
+     "duracao": "6:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Time Bomb",
+     "duracao": "5:19"
+    },
+    {
+     "n": 16,
+     "titulo": "Smear Campaign",
+     "duracao": "4:55"
+    },
+    {
+     "n": 17,
+     "titulo": "Carnival Diablos",
+     "duracao": "5:18"
+    },
+    {
+     "n": 18,
+     "titulo": "Reduced to Ash",
+     "duracao": "3:17"
+    },
+    {
+     "n": 19,
+     "titulo": "I Am in Command",
+     "duracao": "4:26"
+    },
+    {
+     "n": 20,
+     "titulo": "No Zone",
+     "duracao": "3:16"
+    },
+    {
+     "n": 21,
+     "titulo": "Ultra Motion",
+     "duracao": "5:33"
+    },
+    {
+     "n": 22,
+     "titulo": "Jeff Talks Suicide Society",
+     "duracao": "1:19"
+    },
+    {
+     "n": 23,
+     "titulo": "Jeff Talks Creepin’ Again",
+     "duracao": "1:15"
+    },
+    {
+     "n": 24,
+     "titulo": "Jeff Talks Snap",
+     "duracao": "0:39"
+    },
+    {
+     "n": 25,
+     "titulo": "Jeff Talks Narcotic Avenue",
+     "duracao": "0:38"
+    },
+    {
+     "n": 26,
+     "titulo": "Jeff Talks My Revenge",
+     "duracao": "1:08"
+    },
+    {
+     "n": 27,
+     "titulo": "Jeff Talks The One You Serve",
+     "duracao": "0:58"
+    },
+    {
+     "n": 28,
+     "titulo": "Jeff Talks Break, Enter",
+     "duracao": "2:02"
+    },
+    {
+     "n": 29,
+     "titulo": "Jeff Talks Death Scent",
+     "duracao": "0:32"
+    },
+    {
+     "n": 30,
+     "titulo": "Jeff Talks Every Minute",
+     "duracao": "1:36"
+    }
+   ],
+   "duracao_min": 112,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Suicide_Society",
+   "resumo_en": "Suicide Society is the fifteenth album by the Canadian heavy metal band Annihilator. It was released on September 18, 2015, by UDR Music, and is the first album to feature guitarist and bandleader Jeff Waters performing lead vocals on all tracks since 1997's Remains due to the departure of Dave Padden in December 2014. It also marks the return of bassist Cam Dixon, who toured with the band from 1994 to 1995, as well as the addition of new guitarist Aaron Homma, both of whom are credited with providing backing vocals in the liner notes.\nOn this album, Jeff Waters handled all instrumental work in the studio apart from the drums, played by returning drummer Mike Harshaw. The album marks the final studio appearance of Harshaw, who announced via his Facebook page in May 2016 that he had parted ways with the band in order to spend more time with his family and pursue other musical interests.\nA music video for the title track was released on July 31, 2015. A lyric video for the song \"Creepin' Again\" was released on August 17. Another single was released, \"My Revenge\" on September 15, 2015. \"Snap\" released another music video on October 1, 2015.\nThe song \"Break, Enter\" was penned about a p"
+  },
+  {
+   "id": "ed85ce5e-e0b8-470d-8dde-3a85951e142c",
+   "titulo": "For the Demented",
+   "data": "2017-11-03",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/7f07ecd4-ecd5-4f71-9af4-c0eafc9b4339/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Twisted Lobotomy",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "One to Kill",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "For the Demented",
+     "duracao": "5:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Pieces of You",
+     "duracao": "6:10"
+    },
+    {
+     "n": 5,
+     "titulo": "The Demon You Know",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Phantom Asylum",
+     "duracao": "6:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Altering the Altar",
+     "duracao": "5:05"
+    },
+    {
+     "n": 8,
+     "titulo": "The Way",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Dark",
+     "duracao": "2:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Not All There",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/For_the_Demented",
+   "resumo_en": "For the Demented is the sixteenth studio album by Canadian thrash metal band Annihilator, released on November 3, 2017."
+  },
+  {
+   "id": "3c58fbd7-2b07-4d34-b83f-507f4cc9a7dd",
+   "titulo": "Ballistic, Sadistic",
+   "data": "2020-01-22",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/e5bb4b30-3b1d-4d91-96ac-480f23969d6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Armed to the Teeth",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "The Attitude",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Psycho Ward",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "I Am Warfare",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Out With the Garbage",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Dressed Up for Evil",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Riot",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "One Wrong Move",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Lip Service",
+     "duracao": "5:49"
+    },
+    {
+     "n": 10,
+     "titulo": "The End of the Lie",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "media": 7.5,
+    "fontes": 12
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ballistic%2C_Sadistic",
+   "resumo_en": "Ballistic, Sadistic is the seventeenth studio album by Canadian thrash metal band Annihilator. It was released via Silver Lining Music and Neverland Music on January 24, 2020, and was produced by group frontman Jeff Waters.\nThe album was preceded by singles \"I Am Warfare\" on October 10, 2019, \"Psycho Ward\" on November 27, \"Armed to the Teeth\" on December 13 and \"Dressed Up for Evil\" on January 17, 2020."
+  },
+  {
+   "id": "b16402ca-35e3-412a-b45d-f669bf296211",
+   "titulo": "Metal II",
+   "data": "2022-02-18",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/78b2893d-9188-41a4-bf1a-31d28aba989b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chasing the High",
+     "duracao": "6:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Downright Dominate",
+     "duracao": "5:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Army of One",
+     "duracao": "6:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Couple Suicide",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Heavy Metal Maniac",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Haunted",
+     "duracao": "8:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Romeo Delight",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Detonation",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Clown Parade",
+     "duracao": "5:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Smothered",
+     "duracao": "5:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Kicked",
+     "duracao": "5:54"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

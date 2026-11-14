@@ -1,0 +1,1425 @@
+{
+ "id": "venom",
+ "nome": "Venom",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "d2ad8774-9173-4970-8427-06b04df201c1",
+ "wikidata": "Q192861",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1979",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "black metal",
+  "speed metal",
+  "thrash metal",
+  "nwobhm",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Venom_live_at_hellfest.jpg/500px-Venom_live_at_hellfest.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Venom_%28banda%29",
+ "resumo_pt": "Venom é uma banda de heavy metal inglesa, formada em 1979. Proveniente do NWOBHM, a formação clássica da banda era composta por Cronos (voz e baixo), Mantas (guitarra) e Abaddon (bateria).\nO estilo inovador do Venom, com um som muito pesado para a sua época, o vocal ríspido de Cronos, o ritmo veloz e as letras satânicas, fizeram a banda se destacar no cenário mundial consagrando-os como um dos grupos mais conhecidos e importantes do metal dos anos 1980. Seus dois primeiros álbuns, Welcome to Hell (1981) e Black Metal (1982), tornaram-se referência no gênero e são considerados os primeiros discos de metal extremo lançados. Sua influência sobre o thrash metal e outros estilos foi tamanha, que seu segundo disco deu nome ao subgênero black metal.",
+ "resumo_en": "Venom were an English heavy metal band formed in Newcastle upon Tyne in 1978. Coming to prominence towards the end of the new wave of British heavy metal (NWOBHM), Venom's first two albums, Welcome to Hell (1981) and Black Metal (1982), are considered major influences on black metal, thrash metal and extreme metal in general. Their second album proved influential enough that its title was used as the name of the black metal genre; as a result, Venom were part of the first wave of the genre, along with Mercyful Fate and Bathory.\nVenom released sixteen studio albums and went through a series of hiatuses and line-up changes throughout its 48-year run. Original guitarist Jeffrey \"Mantas\" Dunn first left Venom in 1986, and vocalist/bassist Conrad \"Cronos\" Lant left two years later to start a solo career, leaving the band with no remaining original members. Drummer Anthony \"Abaddon\" Bray (who joined in 1979) continued the band with Tony \"Demolition Man\" Dolan as their vocalist and bassist until their hiatus in 1992. The \"classic\" line-up of Mantas, Cronos and Abaddon reunited in 1995, recording one album before the latter's dismissal in 1999. Abaddon was replaced by Anthony \"Antton\" Lant, and after the release of their tenth studio album Resurrection (2000), Venom entered a two-year hiatus. Cronos reformed the band without Mantas in 2004 and remained the only constant member until his death in 2026, resulting in the band's third breakup.  Former members of the band formed their own",
+ "albuns": [
+  {
+   "id": "3c943530-e44e-3f1a-a847-b3e6d8422c8f",
+   "titulo": "Welcome to Hell",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/c7cfa1e3-380f-4265-a858-f060a67df67e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sons of Satan",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Welcome to Hell",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Schizo",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Mayhem With Mercy",
+     "duracao": "0:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Poison",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Live Like an Angel (Die Like a Devil)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Witching Hour",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "One Thousand Days in Sodom",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Angel Dust",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "In League With Satan",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Red Light Fever",
+     "duracao": "5:10"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 7.4,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Welcome_to_Hell",
+   "resumo_en": "Welcome to Hell is the debut studio album by English heavy metal band Venom, released in December 1981 through Neat Records.  After various line-up changes and recording several demo tapes in Impulse Studios, Venom gained success and attention with the single \"In League with Satan\"; their dark, Satanic image; and their fast, raw sound. The band re-recorded all of the demos' songs, which Neat Records released as an album.\nReleased during the peak of new wave of British heavy metal movement, Welcome to Hell was initially panned by critics. It later became recognised as an album seminal to the development of the then-nascent extreme metal scene and one of the most influential metal albums of all time. The album was re-released by Sanctuary Records in 2002."
+  },
+  {
+   "id": "84df033e-49e6-30aa-8331-11e4c0e161b6",
+   "titulo": "Black Metal",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/2e2dc4d5-30a4-47d5-ac09-e41de3000c92/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Metal",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "To Hell and Back",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Buried Alive",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Raise the Dead",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Teacher's Pet",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Leave Me in Hell",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Sacrifice",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Heaven's on Fire",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Countess Bathory",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Don't Burn the Witch",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "At War With Satan (Introduction)",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 3
+   },
+   "publico": 8.1,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Metal_%28Venom_album%29",
+   "resumo_en": "Black Metal is the second studio album by English heavy metal band Venom, released on 1 November 1982 through Neat Records. Released during the new wave of British heavy metal, the album is considered to be a major influence on the speed metal, thrash metal, death metal and black metal scenes that emerged in the 1980s and early 1990s.\nThe album lent its name to the black metal subgenre, but its music was an early form of extreme metal which still had roots in traditional heavy metal. AllMusic described it as \"sowing the seeds of much that would be referred to as extreme metal\", and Moynihan & Søderlind in their book Lords of Chaos affirmed that the album \"carved in stone some of [black metal's] essential features\". Nevertheless, its lyrics and imagery were a major influence on the early Norwegian black metal scene."
+  },
+  {
+   "id": "264b0728-d699-3049-9433-33e7c3e1a101",
+   "titulo": "At War With Satan",
+   "data": "1984-04",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/af35acd9-c88c-4887-bad9-16802844ccf8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "At War With Satan",
+     "duracao": "20:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Manitou",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Rip Ride",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Genocide",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Cry Wolf",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Stand Up (And Be Counted)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Women, Leather and Hell",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Woman",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Aaaaargghh",
+     "duracao": "2:21"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 5.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/At_War_with_Satan",
+   "resumo_en": "At War with Satan is the third album by the British heavy metal band Venom, released on 16 April 1983. It is a concept album that tells the story of a war between Heaven and Hell which the latter side wins. It was touted as Venom's crossover into mainstream music, but failed to do so. Shortly after it went on sale, the HMV retailer withdrew the album from its shelves because of its anti-Christian content."
+  },
+  {
+   "id": "fbc82cd5-693a-3df5-82af-6f8c600f6eb8",
+   "titulo": "Possessed",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/2b068c77-b3f5-34c7-99de-be2f6b5fcbdf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Powerdrive",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Flytrap",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Satanachist",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Burn This Place (To the Ground)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Harmony Dies",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Possessed",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Hellchild",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Moonshine",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Wing and a Prayer",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Suffer Not the Children",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Voyeur",
+     "duracao": "3:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Mystique",
+     "duracao": "4:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Loud (For the Crowd)",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 5.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Possessed_%28Venom_album%29",
+   "resumo_en": "Possessed is the fourth studio album by English heavy metal band Venom, released in April 1985. It is the band's last studio album to feature guitarist Jeffrey Dunn before his first departure from the band in 1986. At the time of its release, it received mixed reviews, even from critics who had liked Venom's earlier albums; Possessed was thought to be in another league as compared to the band's earlier works, even though much of the material on Possessed was written before the release of its predecessor, At War with Satan. It was the first Venom album recorded outside of Impulse Studios. The song \"Possessed\" is ranked No. 14 on the Parents Music Resource Center's \"Filthy Fifteen\", a list of the 15 songs the group found to be most objectionable.\nThe boy on the cover is the son of the band's drummer, Abaddon. The girl is the niece of producer Keith Nichol."
+  },
+  {
+   "id": "add2d3ec-b466-3537-890f-66de851dd4df",
+   "titulo": "Calm Before the Storm",
+   "data": "1987-11-07",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/e18bec95-607d-49fc-b79b-33bae1d523c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Xmas",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "The Chanting of the Priests",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Metal Punk",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Under a Spell",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Calm Before the Storm",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Fire",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Krackin' Up",
+     "duracao": "2:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Beauty and the Beast",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Deadline",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Gypsy",
+     "duracao": "2:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Muscle",
+     "duracao": "2:41"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Calm_Before_the_Storm_%28Venom_album%29",
+   "resumo_en": "Calm Before the Storm is the fifth studio album by British heavy metal band Venom. The original title of the album would have been Deadline, but the title was changed when guitarist Jeffrey \"Mantas\" Dunn left the band and was replaced by Jimi Clare and Mike Hickey. Both were to follow bassist Conrad \"Cronos\" Lant in his later solo career and the latter would also return on the 2006 album Metal Black.\nThe album is characterised by a \"cleaner\", more synthetic sound when compared to Venom's other albums. Especially the drums, which sound almost like a drum machine, are contributing to this fact. Also, the guitar has a brighter sound and is easily distinguishable from the bass. The change in sound is perhaps mostly due to the addition of another guitarist and the producer Nick Tauber, who had previously worked with hard rock acts such as UFO and Thin Lizzy."
+  },
+  {
+   "id": "710276ea-cc38-3e61-bc89-1b3934a519cf",
+   "titulo": "Prime Evil",
+   "data": "1989-10-09",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/77d51c97-bf23-4af9-b76c-7a1ee6bb4107/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prime Evil",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Parasite",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Blackened Are The Priests",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Carnivorous",
+     "duracao": "2:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Skeletal Dance",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Megalomania",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Insane",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Harder Than Ever",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Into The Fire",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Skool Daze",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Prime_Evil_%28album%29",
+   "resumo_en": "Prime Evil is the sixth studio album by British heavy metal band Venom. It was released in 1989 and is the first in a series of three albums with Atomkraft bassist and vocalist Tony Dolan, replacing Conrad \"Cronos\" Lant, as a band member and composer."
+  },
+  {
+   "id": "97271304-f2ca-3721-9dbf-063b6ca035c6",
+   "titulo": "Temples of Ice",
+   "data": "1991-06",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/040b3158-950b-42de-a85c-7718e2e9c086/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tribes",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Even in Heaven",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Trinity MCMXLV",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "In Memory Of (Paul Miller 1964-1990)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Faerie Tale",
+     "duracao": "4:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Playtime",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Acid",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Arachnid",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Speed King",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Temples of Ice",
+     "duracao": "6:43"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Temples_of_Ice",
+   "resumo_en": "Temples of Ice is the seventh studio album by English heavy metal band Venom. The album was originally supposed to be produced by ex-Child's Play producer Howard Benson; however, he was unavailable. The band decided to stay with Kevin Ridley, who co-produced the band's previous album Prime Evil. It was released on Under One Flag records in 1991, and marketed and distributed by Music for Nations."
+  },
+  {
+   "id": "c31e6f52-3f4f-3996-853b-dbc423342a72",
+   "titulo": "The Waste Lands",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/1776988a-5bc7-4d56-b7ea-56a31f5615f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cursed",
+     "duracao": "7:38"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm Paralysed",
+     "duracao": "2:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Legions",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Riddle of Steel",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Need to Kill",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Kissing the Beast",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Crucified",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Shadow King",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Wolverine",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Clarisse",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Waste_Lands_%28album%29",
+   "resumo_en": "The Waste Lands is the eighth studio album by British heavy metal band Venom. It is the last with bassist/singer Tony \"Demolition Man\" Dolan and also the last before the reunion of the classic Venom line-up from their first four albums, Welcome to Hell, Black Metal, At War with Satan and Possessed. Like the previous album, Temples of Ice, the album was originally supposed to be produced by ex-Child's Play producer Howard Benson, however he was once again unavailable so the band decided to stay with Kevin Ridley. The working title for this album was Kissing the Beast, but the band changed it when they got the album cover from Tari József (Aurea Aetas)."
+  },
+  {
+   "id": "68723ddb-0994-3ea8-a436-33d387b6bdbf",
+   "titulo": "Cast in Stone",
+   "data": "1997-11-11",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/75e73772-47db-3135-a611-541995937694/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Evil One",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Raised in Hell",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "All Devils Eve",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Bleeding",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Destroyed & Damned",
+     "duracao": "6:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Domus Mundi",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Flight of the Hydra",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "God's Forsaken",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Mortals",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Infectious",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Kings of Evil",
+     "duracao": "4:18"
+    },
+    {
+     "n": 12,
+     "titulo": "You're All Gonna Die",
+     "duracao": "3:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Judgement Day",
+     "duracao": "4:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Swarm",
+     "duracao": "5:07"
+    },
+    {
+     "n": 15,
+     "titulo": "Intro",
+     "duracao": "1:59"
+    },
+    {
+     "n": 16,
+     "titulo": "Bloodlust",
+     "duracao": "2:59"
+    },
+    {
+     "n": 17,
+     "titulo": "Die Hard",
+     "duracao": "3:05"
+    },
+    {
+     "n": 18,
+     "titulo": "Acid Queen",
+     "duracao": "2:50"
+    },
+    {
+     "n": 19,
+     "titulo": "Bursting Out",
+     "duracao": "2:49"
+    },
+    {
+     "n": 20,
+     "titulo": "Warhead",
+     "duracao": "4:14"
+    },
+    {
+     "n": 21,
+     "titulo": "Ladylust",
+     "duracao": "2:51"
+    },
+    {
+     "n": 22,
+     "titulo": "Manitou",
+     "duracao": "3:45"
+    },
+    {
+     "n": 23,
+     "titulo": "Rip Ride",
+     "duracao": "3:07"
+    },
+    {
+     "n": 24,
+     "titulo": "Venom",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 87,
+   "critica": {
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cast_in_Stone",
+   "resumo_en": "Cast in Stone is the ninth album by British heavy metal band Venom, and their first album in 12 years to feature the original lineup. Recorded at Lartington Hall Studios near Barnard Castle, it was released on SPV/Steamhammer in 1997. It is the last Venom album to feature Abaddon on drums.\nLike the previous two albums, ex-Child's Play and then-current Motörhead producer Howard Benson was originally in talks to produce the album, with band frontman Cronos wanting the album to have a similar production to Motörhead's 1995 album Sacrifice. However, once again, Benson was unavailable."
+  },
+  {
+   "id": "866fb8e2-2a13-37c0-8a52-279c9227b4a0",
+   "titulo": "Resurrection",
+   "data": "2000-04-13",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/7431a6fe-ba0b-4ff0-9544-8327752d2593/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Resurrection",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Vengeance",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "War Against Christ",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "All There Is Fear",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Pain",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Pandemonium",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Loaded",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Firelight",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Flame (of Satan)",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Control Freak",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Disbeliever",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Man Myth & Magic",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Thirteen",
+     "duracao": "3:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Leviathan",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Resurrection_%28Venom_album%29",
+   "resumo_en": "Resurrection is the tenth album by heavy metal band Venom. It was released on SPV/Steamhammer in 2000. It is the last Venom album to feature original member Mantas on guitar."
+  },
+  {
+   "id": "8137c5f2-a22a-461b-8b5b-930f13f1973a",
+   "titulo": "Under a Spell",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/f11d9abb-372b-43dc-8588-8a8ff01af941/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Mass",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "The Chanting of the Priests",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Metal Punk",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Under a Spell",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Calm Before the Storm",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Fire",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Kraking Up",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Beauty and the Beast",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Deadline",
+     "duracao": "3:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Gypsy",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Muscle",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "905d61af-e09b-308e-8e67-f225776d0b12",
+   "titulo": "Metal Black",
+   "data": "2006-03-24",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/465297e6-1612-4cc7-9566-e39d876db3f9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Antechrist",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Burn in Hell",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "House of Pain",
+     "duracao": "5:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Death & Dying",
+     "duracao": "3:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Regé Satanas",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Darkest Realm",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "A Good Day to Die",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Assassin",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Lucifer Rising",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Blessed Dead",
+     "duracao": "4:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Hours of Darkness",
+     "duracao": "4:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Sleep When I'm Dead",
+     "duracao": "3:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Maleficarum",
+     "duracao": "6:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Metal Black",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metal_Black",
+   "resumo_en": "Metal Black is the eleventh studio album by heavy metal band Venom. It was released in 2006 through Castle/Sanctuary. It is the last to feature Mykvs on guitar. The name of the album is a play on their 1982 album Black Metal, one of the band's best known LPs."
+  },
+  {
+   "id": "25e74252-fa9c-319e-ba51-c87263903486",
+   "titulo": "Hell",
+   "data": "2008-06-09",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/6dfed338-d1c8-4ca3-942b-9424527a94c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Straight to Hell",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "The Power & The Glory",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Hand of God",
+     "duracao": "4:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Fall From Grace",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Hell",
+     "duracao": "5:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Evil Perfection",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Stab U in the Back",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Armageddon",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Kill the Music",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Evilution Devilution",
+     "duracao": "4:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Blood Sky",
+     "duracao": "5:11"
+    },
+    {
+     "n": 12,
+     "titulo": "USA for Satan",
+     "duracao": "4:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Dirge / Awakening",
+     "duracao": "3:29"
+    },
+    {
+     "n": 14,
+     "titulo": "In League With Satan",
+     "duracao": "5:32"
+    },
+    {
+     "n": 15,
+     "titulo": "Burn in Hell",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hell_%28Venom_album%29",
+   "resumo_en": "Hell is the twelfth studio album by heavy metal band Venom. It was released in 2008 through Universal. It is the first Venom album to feature La Rage on guitar and the last to feature Antton on drums, who left Venom in 2009 and was replaced by Danté."
+  },
+  {
+   "id": "bf5fc8ab-2058-44ea-8dc5-f72c496fb5e4",
+   "titulo": "Fallen Angels",
+   "data": "2011-11-28",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/01f70e8c-8f14-4b6b-bfda-50741f35642d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hammerhead",
+     "duracao": "5:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Nemesis",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Pedal to the Metal",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Lap of the Gods",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Damnation of Souls",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Beggarman",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Hail Satanas",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Sin",
+     "duracao": "5:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Punk's Not Dead",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Death Be Thy Name",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Lest We Forget",
+     "duracao": "2:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Valley of the Kings",
+     "duracao": "4:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Fallen Angels",
+     "duracao": "7:06"
+    },
+    {
+     "n": 14,
+     "titulo": "Annunaki Legacy",
+     "duracao": "4:24"
+    },
+    {
+     "n": 15,
+     "titulo": "Blackened Blues",
+     "duracao": "4:52"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 5.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fallen_Angels_%28Venom_album%29",
+   "resumo_en": "Fallen Angels is the thirteenth studio album by English heavy metal band Venom. It was released by Spinefarm/Universal on 28 November 2011."
+  },
+  {
+   "id": "e389de1b-6115-4ab4-a791-5bff921ee519",
+   "titulo": "From the Very Depths",
+   "data": "2015-01-26",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/4668c941-c730-4ebf-9fde-119fc75e1a50/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eruptus",
+     "duracao": "1:01"
+    },
+    {
+     "n": 2,
+     "titulo": "From the Very Depths",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "The Death of Rock 'n' Roll",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Smoke",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Temptation",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Long Haired Punks",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Stigmata Satanas",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Crucified",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Evil Law",
+     "duracao": "5:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Grinding Teeth",
+     "duracao": "4:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Ouverture",
+     "duracao": "1:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Mephistopheles",
+     "duracao": "4:06"
+    },
+    {
+     "n": 13,
+     "titulo": "Wings of Valkyrie",
+     "duracao": "4:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Rise",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.7,
+    "fontes": 6
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/From_the_Very_Depths",
+   "resumo_en": "From the Very Depths is the fourteenth studio album by English heavy metal band Venom. It was released by Spinefarm on 27 January 2015."
+  },
+  {
+   "id": "654b4648-7f6f-4451-8e57-8aaa3e78388e",
+   "titulo": "Storm the Gates",
+   "data": "2018-12-14",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/04dcf9c0-f8f5-4e22-b411-c203f906f9c0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bring Out Your Dead",
+     "duracao": "3:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Notorious",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "I Dark Lord",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "100 Miles to Hell",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Dark Night (of the Soul)",
+     "duracao": "4:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Beaten to a Pulp",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Destroyer",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "The Mighty Have Fallen",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Over My Dead Body",
+     "duracao": "5:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Suffering Dictates",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "We the Loud",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Immortal",
+     "duracao": "4:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Storm the Gates",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Storm_the_Gates",
+   "resumo_en": "Storm the Gates is the fifteenth studio album by the English heavy metal band Venom. It was released by Spinefarm on 14 December 2018."
+  },
+  {
+   "id": "4c5e3d13-7a1c-46e3-8439-5a04339cbd04",
+   "titulo": "Into Oblivion",
+   "data": "2026-05-01",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/4b1999f3-a314-46fb-9f5a-73467ec5f8f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Into Oblivion",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Lay Down Your Soul",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Nevermore",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Man & Beast",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Death the Leveller",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "As Above So Below",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Kicked Outta Hell",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Legend",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Live Loud",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Metal Bloody Metal",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Dogs of War",
+     "duracao": "2:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Deathwitch",
+     "duracao": "3:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Unholy Mother",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

@@ -1,0 +1,922 @@
+{
+ "id": "bush",
+ "nome": "Bush",
+ "cena": "Grunge",
+ "mbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
+ "wikidata": "Q247949",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1992",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "grunge",
+  "post-grunge",
+  "rock",
+  "hard rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Bush_grsATX.jpg/500px-Bush_grsATX.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bush_%28banda%29",
+ "resumo_pt": "Bush é uma banda grunge proveniente da Inglaterra e formada em 1992. O seu álbum de estreia foi Sixteen Stone, em 1994. Eles já venderam mais de 10 milhões de discos nos Estados Unidos e mais de 20 milhões em todo o mundo. A banda, ao mesmo tempo que foi bem-sucedida nos Estados Unidos, era bem menos conhecida em sua terra natal, Inglaterra, e teve sucesso marginal por lá. Após 10 anos juntos (abrangendo quatro álbuns e uma série de singles de sucesso, inicialmente), Bush terminou em 2002, mas retornou em 2010.",
+ "resumo_en": "Bush are  an English rock band formed in London in 1992. As of 2026, their lineup consists of lead vocalist and rhythm guitarist Gavin Rossdale, lead guitarist Chris Traynor, bassist Corey Britz, and drummer Nik Hughes.\nIn 1994, Bush found immediate success outside the UK with the release of their debut album, Sixteen Stone, which is certified six times multi-platinum by the RIAA. Bush have had numerous top ten singles on the Billboard rock charts and one No. 1 album with Razorblade Suitcase in 1996. The band broke up in 2002 but reformed in 2010, and have released six albums since then: The Sea of Memories (2011), Man on the Run (2014), Black and White Rainbows (2017), The Kingdom (2020), The Art of Survival (2022) and I Beat Loneliness (2025).",
+ "albuns": [
+  {
+   "id": "eef2b4a3-49dc-33d7-9fbb-fb2313cd57b0",
+   "titulo": "Sixteen Stone",
+   "data": "1994-12-06",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/05e52973-1b95-4dd4-8dc8-ef39e21b3a73/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Everything Zen",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Swim",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Bomb",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Things",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Comedown",
+     "duracao": "5:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Body",
+     "duracao": "5:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Machinehead",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Testosterone",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Monkey",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Glycerine",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Alien",
+     "duracao": "6:00"
+    },
+    {
+     "n": 12,
+     "titulo": "X‐Girlfriend",
+     "duracao": "0:43"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": 8.7,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sixteen_Stone",
+   "resumo_en": "Sixteen Stone is the debut studio album by English rock band Bush, released on 1 November 1994 in the United States and on 8 May 1995 in the United Kingdom through Trauma and Interscope Records. Featuring a rock sound characterised by guitar distortion and quiet interludes, the album quickly invited comparisons to Seattle grunge bands, particularly the recently disbanded Nirvana. The purported similarities between the band's sound and Nirvana's was the subject of significant media attention. Lyrical themes on the album included adversity and criticism of masculine stereotypes, as well as relationships and terrorism.\nSixteen Stone has been considered the band's most popular album, peaking at number 4 on the US Billboard 200 and boasting numerous successful singles. \"Comedown\" and \"Glycerine\" remain two of Bush's biggest hits to date, each reaching number 1 on the US Billboard Modern Rock Tracks chart. \"Comedown\", \"Machinehead\", and \"Glycerine\" were the three songs from the album to enter the US Billboard Hot 100, reaching number 30, number 43, and number 28, respectively. The album was certified 6× Platinum in the United States by the RIAA on 16 April 1997. Although notably less suc"
+  },
+  {
+   "id": "fa1bffd2-e990-3d24-adc8-cbcc8edf49bc",
+   "titulo": "Razorblade Suitcase",
+   "data": "1996-11-19",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/04700347-4b67-3093-8d0b-f01d58842017/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Personal Holloway",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Greedy Fly",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Swallowed",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Insect Kin",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Cold Contagious",
+     "duracao": "6:00"
+    },
+    {
+     "n": 6,
+     "titulo": "A Tendency to Start Fires",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Mouth",
+     "duracao": "5:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Straight No Chaser",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "History",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Synapse",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Communicator",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Bonedriven",
+     "duracao": "4:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Distant Voices / [unknown]",
+     "duracao": "6:39"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 4.6,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Razorblade_Suitcase",
+   "resumo_en": "Razorblade Suitcase is the second studio album by English rock band Bush. It was released on 19 November 1996 by Trauma and Interscope Records in the United States and Europe and on 20 January 1997 in the United Kingdom. The follow-up to their 1994 debut Sixteen Stone, it was recorded at Abbey Road Studios in London with engineer and producer Steve Albini. Its sound is more raw than that of its predecessor and has frequently been compared to Nirvana's In Utero (1993), which was also produced and engineered by Albini. \nRazorblade Suitcase debuted at number one on the US Billboard 200, selling 293,000 copies in its first week of sales in the United States. To date, it remains the only Bush album to top the Billboard 200. The twentieth anniversary of the album was marked with a reissue officially titled Razorblade Suitcase (In Addition) on 16 December 2016, including the remastered album and four rare bonus tracks: \"Broken TV\", \"Old\", \"Sleeper\" and \"Bubbles\".\nIn 2025, Lauryn Schaffner of Loudwire named the album the best post-grunge release of 1996."
+  },
+  {
+   "id": "8a8b85e9-bacc-3b30-91ca-da16885fdf38",
+   "titulo": "The Science of Things",
+   "data": "1999-10-26",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/813cd94b-b744-4a26-824e-878a9a4d58d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Warm Machine",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Jesus Online",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "The Chemicals Between Us",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "English Fire",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Spacetravel",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "40 Miles From the Sun",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Prizefighter",
+     "duracao": "5:41"
+    },
+    {
+     "n": 8,
+     "titulo": "The Disease of the Dancing Cats",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Altered States",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Dead Meat",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Letting the Cables Sleep",
+     "duracao": "4:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Mindchanger",
+     "duracao": "4:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Homebody",
+     "duracao": "4:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Letting the Cables Sleep (demo)",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.3,
+    "fontes": 3
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Science_of_Things",
+   "resumo_en": "The Science of Things is the third studio album by British band Bush, released on 26 October 1999, through Trauma Records. The last Bush album released through Trauma, peaked at number eleven on the US Billboard 200 and has been certified platinum by both the RIAA and Music Canada. It is the penultimate Bush studio album to feature Dave Parsons and Nigel Pulsford.\nThe Science of Things incorporated electronic elements into Bush's hard rock sound; particularly on the album's lead single \"The Chemicals Between Us\", which was released on 14 September 1999 in anticipation of the album. Broadly following a science fiction motif, the album's lyrical themes ranged from the 1980 murder of Dorothy Stratten, the election of Tony Blair in the UK, and environmental damage."
+  },
+  {
+   "id": "309ad8a6-5c24-391a-ae1e-48930846f8f6",
+   "titulo": "Golden State",
+   "data": "2001-10-23",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/0c4e6df3-2b0b-3f38-a511-30393b80cc9b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Solutions",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Headful of Ghosts",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "The People That We Love",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Superman",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Fugitive",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Hurricane",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Inflatable",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Reasons",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Land of the Living",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "My Engine Is With You",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Out of This World",
+     "duracao": "4:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Float",
+     "duracao": "4:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Japanese Freight Train",
+     "duracao": "3:42"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 63,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Golden_State_%28album%29",
+   "resumo_en": "Golden State is the fourth studio album by the English rock band Bush, released on 23 October 2001 in the United States and on 29 October 2001 in the United Kingdom through Atlantic Records. It is the last Bush album to feature Nigel Pulsford and Dave Parsons on guitar and bass, respectively. Bush would not release another studio album again until ten years later with The Sea of Memories (2011). The liner notes of Golden State state that the album is dedicated to the memory of Ian Lowery, founder of Folk Devils. In the documentary Making of Golden State, the title is revealed as being inspired by the Golden State Freeway, by which road Gavin Rossdale formerly travelled home.\nFollowing the raw, Steve Albini–produced Razorblade Suitcase (1996) and the electro-tinged hard rock of The Science of Things (1999), Golden State was considered by Stephen Thomas Erlewine to be a return to the band's style from 1994, when they released their debut album Sixteen Stone."
+  },
+  {
+   "id": "13fdd0cc-c22d-420b-9237-9b469a944779",
+   "titulo": "The Sea of Memories",
+   "data": "2011-09-13",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/d0d96948-937d-4f9f-aca9-d6ff07796dd5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Mirror of the Signs",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "The Sound of Winter",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "All My Life",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "The Afterlife",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "All Night Doctors",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Baby Come Home",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Red Light",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "She’s a Stallion",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "I Believe in You",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Stand Up",
+     "duracao": "4:19"
+    },
+    {
+     "n": 11,
+     "titulo": "The Heart of the Matter",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Be Still My Love",
+     "duracao": "4:48"
+    },
+    {
+     "n": 13,
+     "titulo": "The Year of Danger",
+     "duracao": "4:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Ghost",
+     "duracao": "4:54"
+    },
+    {
+     "n": 15,
+     "titulo": "Lay Down Your Guns",
+     "duracao": "4:12"
+    },
+    {
+     "n": 16,
+     "titulo": "The Sound of Winter (Junior Sanchez remix)",
+     "duracao": "6:22"
+    },
+    {
+     "n": 17,
+     "titulo": "The Afterlife (remix by Washroom & Bass Over Babylon)",
+     "duracao": "5:03"
+    },
+    {
+     "n": 18,
+     "titulo": "All Night Doctors (original version)",
+     "duracao": "4:15"
+    },
+    {
+     "n": 19,
+     "titulo": "Landslide (live from the Bridge School Benefit)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 20,
+     "titulo": "Float (acoustic)",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 87,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 51,
+    "media": 5.6,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Sea_of_Memories",
+   "resumo_en": "The Sea of Memories is the fifth studio album by English alternative rock band Bush, released on 13 September 2011 through Zuma Rock Records, eOne Music and earMUSIC. It is the band's first studio album in ten years, following 2001's Golden State, and the first to be recorded with Chris Traynor and Corey Britz on lead guitar and bass, respectively. It is also the first Bush album released on E1 Records, marking their first venture away from Interscope (or Atlantic), who handled all of their previous releases. The album's title comes from a line in the song \"Baby Come Home\". The cover art is by Los Angeles–based street artist RETNA."
+  },
+  {
+   "id": "fafe9bd9-2ba4-4124-a014-f60637c0d7ce",
+   "titulo": "Man on the Run",
+   "data": "2014-10-17",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/302035e9-7a48-4797-bbbd-26e13d83eb3e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just Like My Other Sins",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Man On the Run",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "The Only Way Out",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "The Gift",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "This House Is On Fire",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Loneliness is A Killer",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Bodies In Motion",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Broken In Paradise",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Surrender",
+     "duracao": "4:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Dangerous Love",
+     "duracao": "4:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Eye Of The Storm",
+     "duracao": "5:13"
+    },
+    {
+     "n": 12,
+     "titulo": "Let Yourself Go",
+     "duracao": "4:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Speeding Through The Bright Lights",
+     "duracao": "5:09"
+    },
+    {
+     "n": 14,
+     "titulo": "The Golden Age",
+     "duracao": "5:44"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Man_on_the_Run_%28album%29",
+   "resumo_en": "Man on the Run is the sixth studio album by the British rock band Bush, released on 21 October 2014, through Zuma Rock Records. It marks the band's second studio album to be recorded under its current incarnation (Gavin Rossdale, Robin Goodridge, Chris Traynor, Corey Britz), which reformed in 2010 after an eight-year hiatus and released The Sea of Memories in 2011. The album release in 2014 marks the 20th anniversary of the band's debut album, Sixteen Stone."
+  },
+  {
+   "id": "a33fd7ac-3b8b-4636-ba08-b4226d0322b5",
+   "titulo": "Black and White Rainbows",
+   "data": "2017-03-10",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/2f5eed6e-7bda-47cc-8df0-996f5970153a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mad Love",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Peace‐S",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Water",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Lost in You",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Sky Turns Day Glo",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Toma mi corazón",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "All the Worlds Within You",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Nurse",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "The Beat of Your Heart",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Dystopia",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Ray of Light",
+     "duracao": "3:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Ravens",
+     "duracao": "3:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Nothing but a Car Chase",
+     "duracao": "3:41"
+    },
+    {
+     "n": 14,
+     "titulo": "The Edge of Love",
+     "duracao": "4:24"
+    },
+    {
+     "n": 15,
+     "titulo": "People at War",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 49,
+    "media": 5.2,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_and_White_Rainbows",
+   "resumo_en": "Black and White Rainbows is the seventh studio album by British alternative rock band Bush, released on 10 March 2017, through Zuma Rock Records and Caroline International. It is the follow-up to the band's 2014 album, Man on the Run, and is the third featuring the lineup of Gavin Rossdale, Robin Goodridge, Chris Traynor and Corey Britz. It is the last album to feature longtime drummer Robin Goodridge, the only member other than Rossdale who had played on every album dating back to their 1994 debut Sixteen Stone which launched the band's career. He was also the only longtime member to rejoin Bush after their hiatus from 2002 to 2010."
+  },
+  {
+   "id": "3e355d54-c838-4eef-858e-e7699a46f42a",
+   "titulo": "The Kingdom",
+   "data": "2020-07-17",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/006a22e0-b959-467f-b590-8a6e5ba93170/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flowers on a Grave",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "The Kingdom",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Bullet Holes",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Ghosts in the Machine",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Blood River",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Quicksand",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Send in the Clowns",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Undone",
+     "duracao": "5:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Our Time Will Come",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Crossroads",
+     "duracao": "3:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Words Are Not Impediments",
+     "duracao": "3:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Falling Away",
+     "duracao": "3:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Heroes",
+     "duracao": "4:08"
+    },
+    {
+     "n": 14,
+     "titulo": "Beware False Prophets",
+     "duracao": "4:40"
+    },
+    {
+     "n": 15,
+     "titulo": "Live Another Day",
+     "duracao": "3:34"
+    },
+    {
+     "n": 16,
+     "titulo": "Undone",
+     "duracao": "5:50"
+    },
+    {
+     "n": 17,
+     "titulo": "Flowers on a Grave (live in Los Angeles)",
+     "duracao": "3:48"
+    },
+    {
+     "n": 18,
+     "titulo": "The Kingdom (live in Los Angeles)",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 57,
+    "media": 6.4,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Kingdom_%28Bush_album%29",
+   "resumo_en": "The Kingdom is the eighth studio album by English rock band Bush. It was originally scheduled to be released in May 2020 but it was later pushed back to a release date of 17 July 2020. The band released two singles prior to the album, the first being \"Bullet Holes\" which was released in May 2019 and featured in the film John Wick: Chapter 3 – Parabellum, and the second single off the album was \"Flowers on a Grave\" and was released one year later in March 2020.\nAlthough in part continuing the electronic-tinged alternative sound of the band's other post-reunion efforts, The Kingdom featured a harder sound than some of its previous efforts, with the songs being driven by guitar riffs and the sound recalling earlier Bush work from the 1990s and early 2000s; a review of its 2022 follow-up album stated that The Kingdom \"repositioned\" Bush as \"riff-driven heavyweights\". Described by frontman Gavin Rossdale as \"snapshots of real life\", the album's lyrics included many personal themes such as being misunderstood, taking major decisions and rising above challenges."
+  },
+  {
+   "id": "a95af5d6-0a1f-41b9-9345-39f4c13b1105",
+   "titulo": "The Art of Survival",
+   "data": "2022-10-07",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/eb0cd159-bd9a-4f93-bbf7-8748afd30783/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heavy Is the Ocean",
+     "duracao": "5:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Slow Me",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "More Than Machines",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "May Your Love Be Pure",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Shark Bite",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Human Sand",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Kiss Me I’m Dead",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Identity",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Creatures of the Fire",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Judas Is a Riot",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Gunfight",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "1000 Years",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 5
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Art_of_Survival_%28album%29",
+   "resumo_en": "The Art of Survival is the ninth studio album by British alternative rock band Bush. It was released on 7 October 2022 through BMG Records and follows the band's 2020 effort The Kingdom. The album's release was preceded by the lead single \"More Than Machines\", which reached No. 2 on the US Mainstream Rock charts, with the album itself charting within the Top 100 in Germany, Scotland and Switzerland, spawning two further singles: \"Heavy Is the Ocean\" and \"All Things Must Change\".\nThe album is generally considered to continue the heavy, riff-based sound of its immediate predecessor, which The Art of Survival takes to heavier extremes, owing little to the alternative rock influences that underpinned the band's earlier work; embracing metal influences more so than before. With frontman and main songwriter Gavin Rossdale stating that the album was themed around \"humanity's strides\" in the face of hardship, the songs on the record feature lyrics that relate to politically charged subjects including the 2022 overturning of Roe v. Wade, climate change, the COVID-19 pandemic and identity politics."
+  },
+  {
+   "id": "481060bb-3d73-4a77-a42e-d83ad5241a0b",
+   "titulo": "I Beat Loneliness",
+   "data": "2025-07-18",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/aedbec2f-a1f7-4330-bab1-e2bd8b6cc290/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Scars",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "I Beat Loneliness",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "The Land of Milk and Honey",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "We’re All the Same on the Inside",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "I Am Here to Save Your Life",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "60 Ways to Forget People",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Me Till the Pain Fades",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "We Are of This Earth",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Everyone Is Broken",
+     "duracao": "4:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Be Afraid",
+     "duracao": "5:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Footsteps in the Sand",
+     "duracao": "4:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Rebel With a Cause",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

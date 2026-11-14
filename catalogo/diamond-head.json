@@ -1,0 +1,628 @@
+{
+ "id": "diamond-head",
+ "nome": "Diamond Head",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "d3dd86df-2f57-4a97-8100-d09915343f60",
+ "wikidata": "Q552377",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1976",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "heavy metal",
+  "nwobhm",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Diamond_Head_%E2%80%93_Headbangers_Open_Air_2014_01.jpg/500px-Diamond_Head_%E2%80%93_Headbangers_Open_Air_2014_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Diamond_Head",
+ "resumo_pt": "Diamond Head é uma banda britânica de heavy metal formada em 1976 na cidade de Stourbridge, Inglaterra. Foi uma das primeiras bandas da New Wave of British Heavy Metal (NWOBHM), influenciando fortemente bandas como Metallica e Megadeth.",
+ "resumo_en": "Diamond Head are an English heavy metal band formed in Stourbridge, West Midlands, in 1976. They were part of the new wave of British heavy metal movement and are cited by bands such as Metallica and Megadeth as a significant early influence. The original members were schoolfriends Brian Tatler (guitarist) and Duncan Scott (drummer), who were joined by singer Sean Harris in the same year, and bass player Collin Kimberley in 1978.",
+ "albuns": [
+  {
+   "id": "450d4fe3-826d-3552-8de8-4a068371dd32",
+   "titulo": "Lightning to the Nations",
+   "data": "1980-10-03",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/519302cc-cad4-464e-b5fb-11dfaacf20d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lightning to the Nations",
+     "duracao": "4:15"
+    },
+    {
+     "n": 2,
+     "titulo": "The Prince",
+     "duracao": "6:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Sucking My Love",
+     "duracao": "9:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Am I Evil",
+     "duracao": "7:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Sweet and Innocent",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "It’s Electric",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Helpless",
+     "duracao": "6:54"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lightning_to_the_Nations",
+   "resumo_en": "Lightning to the Nations (also known as The White Album) is the debut album by British heavy metal band Diamond Head. The album was recorded in 1980 (after the 1977 and 1979 demos) and released later that year through Happy Face Records, a label owned by the producer Muff Murfin of The Old Smithy studio of Worcester, due to lack of interest from major labels and the band feeling that they needed to get the ball rolling as other bands from the same era, such as Iron Maiden and Def Leppard, were already becoming big names.\nIt was originally released in a plain white sleeve with no title or track listing, and was subsequently named after the first track on the album. Metal Blade Records re-released it on CD in 1992. In 2001, it was re-issued in its original \"White Album\" form by Sanctuary Records, featuring seven bonus tracks that were featured on singles and EPs from this era."
+  },
+  {
+   "id": "c3c706a5-6e85-31ee-b373-90a054f4cd52",
+   "titulo": "Borrowed Time",
+   "data": "1982-03-12",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/6d539890-c5ac-4982-a33c-fca1eee55bb6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Call Me",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Heat of the Night",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "To Heaven From Hell",
+     "duracao": "6:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Lightning to the Nations",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Borrowed Time",
+     "duracao": "7:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Don't You Ever Leave Me",
+     "duracao": "7:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Am I Evil?",
+     "duracao": "7:20"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Borrowed_Time_%28Diamond_Head_album%29",
+   "resumo_en": "Borrowed Time is the second studio album by British heavy metal band Diamond Head, released on 15 October 1982 through MCA Records. The album entered and peaked at No. 24 on 23 October 1982 on the UK Albums Chart.\nIn a 2008 interview, guitarist Brian Tatler said that this was his favourite period with Diamond Head and that the band \"seemed to be getting somewhere after six years of building\"."
+  },
+  {
+   "id": "6cbcc129-d029-35ec-b145-773a23620de8",
+   "titulo": "Canterbury",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/bdbbab18-3414-4516-9e5f-a54af0b40978/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Makin' Music",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Out of Phase",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "The Kingmaker",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Night",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "To the Devil His Due",
+     "duracao": "6:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Knight of the Swords",
+     "duracao": "6:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Ishmael",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "I Need Your Love",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Canterbury",
+     "duracao": "4:55"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Canterbury_%28album%29",
+   "resumo_en": "Canterbury is the third studio album by British heavy metal band Diamond Head. It was recorded and released in 1983, reaching number 32 on the UK Albums Chart. The progressive rock sound, which was only hinted at on Borrowed Time, is much more prominent here."
+  },
+  {
+   "id": "49c62f89-9fe4-308a-9ba7-fa9061311c6c",
+   "titulo": "Death & Progress",
+   "data": "1993-06-01",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/70b4e8ce-165d-4e49-9b6b-ef8a54793bcd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Starcrossed (Lovers of the Night)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Truckin'",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Calling Your Name (The Light)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "I Can't Help Myself",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Paradise",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Dust",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Run",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Wild on the Streets",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Damnation Street",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Home",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_and_Progress",
+   "resumo_en": "Death and Progress is the fourth studio album by British heavy metal band Diamond Head, released in 1993 through Castle Music.\nThis was Diamond Head's first album since Canterbury, released 10 years earlier. It was co-produced, engineered and mixed by Andrew Scarth, who had previously worked for bands such as Bad Company and Foreigner. The album had a much cleaner and more polished sound than their previous three albums and featured two special guests, Tony Iommi, of Black Sabbath, and Dave Mustaine, of Megadeth, the latter also enlisting the help of his own producer Max Norman."
+  },
+  {
+   "id": "1218a6cb-f071-30b8-b01c-41ebd8604fba",
+   "titulo": "All Will Be Revealed",
+   "data": "2005-10-31",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/c07b924c-2da2-4b55-8d68-e63ea685c9db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mine All Mine",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Give It to Me",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Nightmare",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Fallen Angel",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Alimony",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Lost at Sea",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Broken Pieces",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "All Will Be Revealed",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Dead or Living",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Drinkin Again",
+     "duracao": "1:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Alive",
+     "duracao": "4:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Muddy Waters",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_Will_Be_Revealed",
+   "resumo_en": "All Will Be Revealed is the fifth album by British heavy metal band Diamond Head. This was Diamond Head's first album with new singer Nick Tart and also the only album to feature Adrian Mills on guitar, who was replaced by Andy 'Abbz' Abberley during the second leg of this tour - his first show at The Shed in Leicester, England in May 2006. This album was the band's first release since their 2002 Acoustic First Cuts EP and the first studio album since 1993's Death and Progress.\nThe album was recorded in 2004 and first released as a Limited 2005 Tour Edition for the band's European tour supporting Megadeth with the cover artwork depicting a solar eclipse. A second issue of the album was released in February 2005 by Diamond Head (Music) Ltd., which featured an interview with Megadeth's Dave Mustaine and a different cover of only the Diamond Head logo designed by Mick Payton. It was then released again by Cargo Records in October 2005. Lead guitarist, Brian Tatler has stated that the aim of this record was just to try to release a solid rock album with \"punchy\" riffs and no fillers.\nThe songs on this album cover a variety of topics from break-ups and divorce (Mine All Mine and Alimony"
+  },
+  {
+   "id": "fa12cfcd-3606-3019-9cf4-96d241625e73",
+   "titulo": "What's in Your Head?",
+   "data": "2007-07-30",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/762803a0-e43c-4f8b-bcae-c3b3bf75a517/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Skin on Skin",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "I Feel No Pain",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "This Planet and Me",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Reign Supreme",
+     "duracao": "4:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Killing Me",
+     "duracao": "6:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Tonight",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Prey for Me",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "What's in Your Head?",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Nothing to Lose",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Calling Out",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Victim",
+     "duracao": "3:57"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/What%27s_in_Your_Head%3F",
+   "resumo_en": "What's in Your Head? is the sixth album by British heavy metal band Diamond Head. This was Diamond Head's second and last album with singer Nick Tart, who would quit in 2014 due to long-distance issues arising when he had moved to Brisbane, Australia. While the previous album was produced by Diamond Head's drummer Karl Wilcox, the band this time worked with producer Dave Nicholls, who has previously worked with name bands such as Slipknot and Stone Sour. This is also the first album to feature guitarist Andy Abberley. Following its release, the band would focus primarily on touring and wouldn't release a full-length studio album till 2016, nearly a decade later. Tatler \"had no interest in making a new album\", Nick stated about Tatler during an interview in 2014 \"he didn't feel the urge.\""
+  },
+  {
+   "id": "88493013-0228-4861-9da2-0c2c0017f814",
+   "titulo": "Diamond Head",
+   "data": "2016-03-04",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/a326d492-e7b5-499f-9d9a-6cff0c1736a3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bones",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Shout at the Devil",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Set My Soul on Fire",
+     "duracao": "4:24"
+    },
+    {
+     "n": 4,
+     "titulo": "See You Rise",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "All the Reasons You Live",
+     "duracao": "5:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Wizard Sleeve",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Our Time Is Now",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Speed",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Blood on My Hands",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Diamonds",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Silence",
+     "duracao": "6:22"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "media": 7.8,
+    "fontes": 3
+   },
+   "publico": 7.4,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Diamond_Head_%28Diamond_Head_album%29",
+   "resumo_en": "Diamond Head is the seventh studio album by British heavy metal band Diamond Head, released on 22 April 2016. This is the first album from the band to feature Rasmus Bom Andersen as the lead vocalist. The album reached number 15 on the UK Rock & Metal Albums Chart."
+  },
+  {
+   "id": "e0f56444-c03a-4bff-a0ec-9843ac7ca57e",
+   "titulo": "The Coffin Train",
+   "data": "2019-05-24",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/659ee165-b189-4de7-9a38-413ae6efbf80/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Belly of the Beast",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "The Messenger",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "The Coffin Train",
+     "duracao": "6:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Shades of Black",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "The Sleeper (Prelude)",
+     "duracao": "0:57"
+    },
+    {
+     "n": 6,
+     "titulo": "The Sleeper",
+     "duracao": "5:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Death by Design",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Serrated Love",
+     "duracao": "6:19"
+    },
+    {
+     "n": 9,
+     "titulo": "The Phoenix",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Until We Burn",
+     "duracao": "5:56"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "media": 7.1,
+    "fontes": 6
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Coffin_Train",
+   "resumo_en": "The Coffin Train is the eighth studio album by British heavy metal band Diamond Head, released on May 24, 2019. Music videos were filmed and produced for the title track, \"Belly of the Beast\", \"The Sleeper\", and \"Death by Design\". “The Coffin Train” music video was produced and animated by All4band Motion & Design Studio under the direction of Maria Goruleva. It was released in a standard jewel case, digipack cd, and a 12\" vinyl."
+  },
+  {
+   "id": "4a707750-c011-4e85-af8e-fa9fb30bd0c0",
+   "titulo": "Lightning to the Nations 2020",
+   "data": "2020-11-20",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/0535bbb7-3d68-4a6c-8f1f-3c377bce9c93/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lightning to the Nations",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "The Prince",
+     "duracao": "5:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Sucking My Love",
+     "duracao": "7:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Am I Evil?",
+     "duracao": "8:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Sweet and Innocent",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "It’s Electric",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Helpless",
+     "duracao": "6:55"
+    },
+    {
+     "n": 8,
+     "titulo": "No Remorse",
+     "duracao": "6:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Immigrant Song",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Sinner",
+     "duracao": "6:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Rat Bat Blue",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

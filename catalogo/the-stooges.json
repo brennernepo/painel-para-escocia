@@ -1,0 +1,217 @@
+{
+ "id": "the-stooges",
+ "nome": "The Stooges",
+ "cena": "Clássicos do rock",
+ "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b",
+ "wikidata": "Q208767",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1967",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "garage rock",
+  "proto-punk",
+  "hard rock",
+  "garage punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Iggy_and_The_Stooges_-_4572393187.jpg/500px-Iggy_and_The_Stooges_-_4572393187.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Stooges",
+ "resumo_pt": "The Stooges (também conhecido como Iggy and The Stooges) foi uma banda de proto-punk norte-americana formada no final dos anos 60. The Stooges foi uma daquelas bandas de passagem meteórica que marcaram o nome na história da música. Iggy Pop, nome artístico de James Newell Osterberg, líder do grupo, tornou-se um ícone cultural pop nas últimas décadas. Ele tocou bateria nos grupos The Iguanas e The Prime Movers antes de montar o seu próprio, o The Stooges, em 1967, em Michigan, nos Estados Unidos.\nA banda foi introduzida no Rock and Roll Hall of Fame em 2010. Em 2004, a Rolling Stone os classificou em 78º em sua lista dos 100 maiores artistas de todos os tempos. Em 2016, foi lançado o documentário Gimme Danger sobre a banda, dirigido por Jim Jarmusch, com estreia mundial no Festival de Cannes.",
+ "resumo_en": "The Stooges (also known as Iggy and the Stooges)  were an American rock band formed in Ann Arbor, Michigan, in 1967 by singer Iggy Pop, guitarist Ron Asheton, drummer Scott Asheton, and bassist Dave Alexander. Initially playing a raw, primitive style of rock and roll, the band sold few records in their original incarnation and gained a reputation for their confrontational performances, which sometimes involved acts of stage diving and self-mutilation by Iggy Pop.\nAfter releasing two albums – The Stooges (1969) and Fun House (1970) – the group disbanded briefly, and reformed with an altered lineup (with Ron Asheton replacing Dave Alexander on bass and James Williamson taking up guitar) to release a third album, Raw Power (1973), before breaking up again in 1974. The band reunited in 2003 with Ron Asheton moving back to guitar and Mike Watt on bass, and the addition of saxophonist Steve Mackay, who had played saxophone on Fun House. Ron Asheton died in 2009 and was replaced by James Williamson, and the band continued to play shows until 2013, when they also released their last album, Ready to Die. The Stooges formally announced their breakup in 2016 due to the deaths of Scott Asheton and saxophonist Steve Mackay.\nThe Stooges are widely regarded as a seminal proto-punk act. The band was inducted into the Rock and Roll Hall of Fame in 2010. In 2004, Rolling Stone ranked them 78th on their list of the 100 greatest artists of all time. In 2007, they were awarded the Mojo Lifetime A",
+ "albuns": [
+  {
+   "id": "18037a41-2695-3a8f-a732-f6653a7f125b",
+   "titulo": "The Stooges",
+   "data": "1969-08-05",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/9841dd14-f7a3-4a40-a0f5-5cfd2b0999ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "1969",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "I Wanna Be Your Dog",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "We Will Fall",
+     "duracao": "10:13"
+    },
+    {
+     "n": 4,
+     "titulo": "No Fun",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Real Cool Time",
+     "duracao": "2:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Ann",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Not Right",
+     "duracao": "2:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Doll",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.1,
+    "fontes": 8
+   },
+   "publico": 8.7,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Stooges_%28album%29",
+   "resumo_en": "The Stooges is the self-titled debut studio album by American rock band the Stooges, released on August 5, 1969, by Elektra Records. Considered a landmark proto-punk release, the album peaked at number 106 on the US Billboard Top 200 Albums chart. The tracks \"I Wanna Be Your Dog\" and \"1969\" were released as singles; \"1969\" was featured on Rolling Stone's list of the \"100 Greatest Guitar Songs\" at number 35. In 2020, the album was ranked number 488 on Rolling Stone's 500 Greatest Albums of All Time."
+  },
+  {
+   "id": "edd57263-df77-3f1a-8803-8beb5d5b1a64",
+   "titulo": "Fun House",
+   "data": "1970-07-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/68ee7490-8776-4200-9ef1-d6553eb8ba16/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down on the Street",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Loose",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "T.V. Eye",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Dirt",
+     "duracao": "7:00"
+    },
+    {
+     "n": 5,
+     "titulo": "1970",
+     "duracao": "5:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Fun House",
+     "duracao": "7:45"
+    },
+    {
+     "n": 7,
+     "titulo": "L.A. Blues",
+     "duracao": "4:53"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.7,
+    "fontes": 8
+   },
+   "publico": 8.4,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fun_House_%28The_Stooges_album%29",
+   "resumo_en": "Fun House is the second studio album by the American rock band the Stooges. It was released on July 7, 1970, by Elektra Records. Though initially commercially unsuccessful, Fun House has since developed a strong cult following. Like its predecessor (their 1969 self-titled debut album) and successor (1973's Raw Power), it is considered an integral work in the development of punk rock."
+  },
+  {
+   "id": "1e0da02b-85f2-3566-8151-5eb45e9f80f4",
+   "titulo": "The Weirdness",
+   "data": "2007-03-06",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/0615b996-16a2-4462-a9ec-8de6ce831c87/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trollin’",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "You Can’t Have Friends",
+     "duracao": "2:22"
+    },
+    {
+     "n": 3,
+     "titulo": "ATM",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "My Idea of Fun",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "The Weirdness",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Free & Freaky",
+     "duracao": "2:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Greedy Awful People",
+     "duracao": "2:07"
+    },
+    {
+     "n": 8,
+     "titulo": "She Took My Money",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "The End of Christianity",
+     "duracao": "4:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Mexican Guy",
+     "duracao": "3:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Passing Cloud",
+     "duracao": "4:04"
+    },
+    {
+     "n": 12,
+     "titulo": "I’m Fried",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 44,
+    "media": 4.4,
+    "fontes": 9
+   },
+   "publico": 4,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Weirdness",
+   "resumo_en": "The Weirdness is the fourth studio album by American proto-punk band The Stooges. Released on 5 March 2007, it was the first Stooges album of new material since Raw Power in 1973, and is also the final album to feature guitarist Ron Asheton, who died in early 2009. Founding members Iggy Pop (vocals), Ron Asheton (guitar), and Scott Asheton (drums) are featured, along with new band member Mike Watt (bass guitar), formerly of Minutemen, and returning guest musician Steve Mackay (saxophone), who appeared on The Stooges' 1970 album, Fun House."
+  }
+ ]
+}

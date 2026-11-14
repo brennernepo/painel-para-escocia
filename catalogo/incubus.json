@@ -1,0 +1,807 @@
+{
+ "id": "incubus",
+ "nome": "Incubus",
+ "cena": "Nu metal e correlatos",
+ "mbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+ "wikidata": "Q1661036",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1991",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "funk metal",
+  "nu metal",
+  "funk rock",
+  "pop rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Incubus_live_2007.jpg/500px-Incubus_live_2007.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Incubus",
+ "resumo_pt": "Incubus é uma banda norte-americana de rock alternativo formada em Calabasas, Califórnia, no ano de 1991. Seus cinco membros são: Brandon Boyd (vocal e percussão), Mike Einziger (guitarra), Ben Kenney (ex-baixista oficial da Banda The Roots), Jose Pasillas (bateria) e o DJ Chris Kilmore (turntables e piano). Antigos membros incluem DJ Lyfe (turntables) e Alex Katunich (também conhecido Dirk Lance) (baixo).\nDesde sua formação a banda já vendeu mais de 19 milhões de álbuns em todo mundo.",
+ "resumo_en": "Incubus is an American rock band from Calabasas, California. The band was formed in 1991 by vocalist Brandon Boyd, lead guitarist Mike Einziger, and drummer José Pasillas while enrolled in Calabasas High School and later expanded to include bassist Alex \"Dirk Lance\" Katunich, and Gavin \"DJ Lyfe\" Koppel; the latter two were eventually replaced by bassist Ben Kenney and DJ Kilmore, respectively. Nicole Row replaced Kenney in 2024. \nAfter their first two albums, Fungus Amongus (1995) and S.C.I.E.N.C.E. (1997), Incubus earned mainstream recognition with the release of their 1999 album Make Yourself which spawned several hits, including the US Top 10 hit \"Drive\", and was certified double platinum in the US. Success continued with the albums Morning View (2001) and A Crow Left of the Murder... (2004), which both debuted at number 2 on the US Billboard 200. Their sixth studio album, Light Grenades (2006), was their first to debut at number 1 in the US. In 2009, Incubus released their first greatest hits album Monuments and Melodies. Two years later, they released their seventh studio album If Not Now, When?., which debuted at number 2 in the US. The band also released an EP, Trust Fall (Side A), in early 2015, and two years later, the band released their eighth studio album, titled 8, on April 21, 2017. A second EP, Trust Fall (Side B), was released on April 17, 2020.\nAs of October 2022, Incubus has generated 12.4 million U.S. album consumption units and over 23 million records worl",
+ "albuns": [
+  {
+   "id": "dce75eab-6b8d-3988-ae23-861adab2fa5e",
+   "titulo": "Fungus Amongus",
+   "data": "1995-11-01",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/2b9f1375-7f1d-48ce-9075-7655397de4ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Will Be a Hot Dancer",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Shaft",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Trouble in 421",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Take Me to Your Leader",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Medium",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Speak Free",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "The Answer",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Psychopsilocybin",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Sink Beneath the Line",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Hilikus",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fungus_Amongus",
+   "resumo_en": "Fungus Amongus is the debut studio album by American rock band Incubus, released on November 1, 1995, by Chillum Records, Incubus' own independent label. It was later re-released under Epic and Immortal Records on November 7, 2000, after popular demand."
+  },
+  {
+   "id": "f3fae816-c675-3a4d-9240-b4cf364b25c1",
+   "titulo": "S.C.I.E.N.C.E.",
+   "data": "1997-09-09",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/7fac3d9a-01d7-46f6-8c39-687584d275a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Redefine",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Vitamin",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "New Skin",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Idiot Box",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Glass",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Magic Medicine",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "A Certain Shade of Green",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Favorite Things",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Summer Romance (Anti-Gravity Love Song)",
+     "duracao": "4:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Nebula",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Deep Inside",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Calgone / Jose Loves Kate Moss, Part 1",
+     "duracao": "34:12"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 7
+   },
+   "publico": 8.2,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/S.C.I.E.N.C.E.",
+   "resumo_en": "S.C.I.E.N.C.E. is the second studio album by American rock band Incubus. It was released on September 9, 1997, by Epic and Immortal Records. This album marked a stylistic departure from the band's early material, featuring heavy guitar riffs, slap bass and turntables to create their most nu metal album. The album was certified gold by the RIAA, and is the second and final release to feature Gavin Koppel (known as DJ Lyfe), who first appeared on the 1997 Enjoy Incubus EP. It has been occasionally considered the band's proper debut album, due to the nature of their independent release Fungus Amongus."
+  },
+  {
+   "id": "387aca0c-d34a-3d0c-b7e4-c1b0f73e2dae",
+   "titulo": "Make Yourself",
+   "data": "1999-10-26",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/0506a80e-b7e3-4f94-9fbf-4333a58627e6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Privilege",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Nowhere Fast",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Consequence",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The Warmth",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "When It Comes",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Stellar",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Make Yourself",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Drive",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Clean",
+     "duracao": "3:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Battlestar Scralatchtica",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "I Miss You",
+     "duracao": "2:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Pardon Me",
+     "duracao": "3:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Out From Under",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 6
+   },
+   "publico": 8.5,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Make_Yourself",
+   "resumo_en": "Make Yourself is the third studio album by American rock band Incubus. It was released on October 26, 1999, through Epic and Immortal Records. The album received double platinum certification by the RIAA and produced three charting singles—\"Pardon Me\", \"Stellar\", and \"Drive\"—all of which reached the top three on Billboard's Alternative Songs chart, with the latter topping the chart and also becoming the band's sole top ten hit to date on the  Billboard Hot 100, where it peaked at No. 9.\nThe album is the first to be recorded with new turntablist Chris Kilmore, who joined in February 1998 and replaced DJ Lyfe."
+  },
+  {
+   "id": "21387993-64d6-3d59-bd7f-d93cbdcb0f48",
+   "titulo": "Morning View",
+   "data": "2001-10-15",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/15839505-eb0c-4b22-8cfe-0db835b4daaf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nice to Know You",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Circles",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Wish You Were Here",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Just a Phase",
+     "duracao": "5:33"
+    },
+    {
+     "n": 5,
+     "titulo": "11am",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Blood on the Ground",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Mexico",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Warning",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Echo",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Have You Ever",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Are You In?",
+     "duracao": "4:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Under My Umbrella",
+     "duracao": "3:33"
+    },
+    {
+     "n": 13,
+     "titulo": "Aqueous Transmission",
+     "duracao": "7:46"
+    },
+    {
+     "n": 14,
+     "titulo": "The Warmth (live)",
+     "duracao": "5:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Wish You Were Here (live)",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 62,
+    "media": 6.6,
+    "fontes": 8
+   },
+   "publico": 9.1,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Morning_View",
+   "resumo_en": "Morning View is the fourth studio album by American rock band Incubus, released on October 23, 2001, through Epic and Immortal Records. A companion DVD, The Morning View Sessions, was released on May 29, 2002. Continuing the move away from nu metal, the album ranges widely from soft to hard rock sounds in the style of alternative rock. Morning View was the last Incubus album to feature bassist Alex Katunich, who left in 2003.\nWith the album producing the popular singles \"Wish You Were Here\" and \"Nice to Know You\", Morning View generally achieved critical praise and went double-platinum, making it the band's highest-selling album. A re-recorded version of the album, titled Morning View XXIII, was released on May 10, 2024. In this re-recorded version was included new bassist Nicole Row after Ben Kenney's departure due his recovery from brain tumor surgery."
+  },
+  {
+   "id": "f8ecf610-a995-3bcd-bc0e-af93d4586d21",
+   "titulo": "A Crow Left of the Murder…",
+   "data": "2004-01-30",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/9c82dd78-ed26-43d6-93e6-e93c8097fa48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Megalomaniac",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "A Crow Left of the Murder",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Agoraphobia",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Talk Shows on Mute",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Beware! Criminal",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Sick Sad Little World",
+     "duracao": "6:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Pistola",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Southern Girl",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Priceless",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Zee Deveel",
+     "duracao": "3:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Made for TV Movie",
+     "duracao": "3:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Smile Lines",
+     "duracao": "3:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Here in My Room",
+     "duracao": "4:20"
+    },
+    {
+     "n": 14,
+     "titulo": "Leech",
+     "duracao": "4:19"
+    },
+    {
+     "n": 15,
+     "titulo": "Lollapalooza",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Bridge Benefit",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "While We Were Out",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Brandon's Injury",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 66,
+    "media": 7.0,
+    "fontes": 8
+   },
+   "publico": 9.0,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Crow_Left_of_the_Murder...",
+   "resumo_en": "A Crow Left of the Murder... is the fifth studio album by the American rock band Incubus, released on February 3, 2004. The album marks the first appearance of bassist Ben Kenney, following the departure of founding member Dirk Lance. The singles from the album are \"Megalomaniac\" and \"Talk Shows on Mute\". \"Agoraphobia\" was released as a promo single."
+  },
+  {
+   "id": "6f8bc7dd-0f45-3426-b8f7-e9f940151295",
+   "titulo": "Light Grenades",
+   "data": "2006-11-02",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/27836cfb-7905-421d-a4d8-6ef8bde196ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Quicksand",
+     "duracao": "2:14"
+    },
+    {
+     "n": 2,
+     "titulo": "A Kiss to Send Us Off",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Dig",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Anna Molly",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Hurts",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Light Grenades",
+     "duracao": "2:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Earth to Bella, Part I",
+     "duracao": "2:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Oil and Water",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Diamonds and Coal",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Rogues",
+     "duracao": "3:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Paper Shoes",
+     "duracao": "4:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Pendulous Threads",
+     "duracao": "5:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Earth to Bella, Part II",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 65,
+    "media": 6.8,
+    "fontes": 9
+   },
+   "publico": 7.8,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Light_Grenades",
+   "resumo_en": "Light Grenades is the sixth studio album by the American rock band Incubus, released on November 28, 2006, on Epic. The album sold 359,000 copies during its first week of release worldwide and debuted at number one on the Billboard 200, selling 165,000 copies in the US in its first week. It is the band's first number-one album. The album achieved Gold certification, less than the band's previous Platinum records beginning with 1999's Make Yourself."
+  },
+  {
+   "id": "7ca250d3-e6fc-4583-b95a-5126d1926a4d",
+   "titulo": "If Not Now, When?",
+   "data": "2011-07-06",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/cc43ce20-66a8-44b0-81dc-43f09cfa6ecd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If Not Now, When?",
+     "duracao": "5:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Promises, Promises",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Friends and Lovers",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Thieves",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Isadore",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "The Original",
+     "duracao": "5:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Defiance",
+     "duracao": "2:19"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Company of Wolves",
+     "duracao": "7:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Switchblade",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Adolescents",
+     "duracao": "4:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Tomorrow’s Food",
+     "duracao": "4:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Surface to Air",
+     "duracao": "4:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Megalomaniac (live From Chile)",
+     "duracao": "5:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Pardon Me (live From Chile)",
+     "duracao": "3:58"
+    },
+    {
+     "n": 15,
+     "titulo": "Anna Molly (live From Chile)",
+     "duracao": "3:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Wish You Were Here (live From Chile)",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 48,
+    "media": 5.2,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/If_Not_Now%2C_When%3F_%28album%29",
+   "resumo_en": "If Not Now, When? is the seventh studio album by American rock band Incubus, released on July 12, 2011 and named after the novel by Primo Levi. Preceded by the singles \"Adolescents\" and \"Promises, Promises\", the album represented the band's longest gap between studio albums at the time, and their final full-length release through long-time label Epic Records. Described by guitarist Michael Einziger as \"a very straightforward, concise album,\" If Not Now, When? was recorded in the wake of an extended hiatus, and produced by frequent collaborator Brendan O'Brien. The album's cover features high wire artist Philippe Petit."
+  },
+  {
+   "id": "d62ce5eb-0aaf-4377-8078-e8f8a6219bb0",
+   "titulo": "8",
+   "data": "2017-04-20",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/2e583643-80b8-4478-ad1e-8d1ea7fbd273/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Fun",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Nimble Bastard",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "State of the Art",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Glitterbomb",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Undefeated",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Loneliest",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "When I Became a Man",
+     "duracao": "0:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Familiar Faces",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Love in a Time of Surveillance",
+     "duracao": "4:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Make No Sound in the Digital Forest",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Throw Out the Map",
+     "duracao": "4:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Nimble Bastard (acoustic)",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 45,
+    "media": 3.5,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/8_%28Incubus_album%29",
+   "resumo_en": "8 is the eighth studio album by American rock band Incubus. It was released on April 21, 2017, through Island Records. The album takes its name from being the band's eighth LP. The album was previously produced by Dave Sardy, and later re-produced and mixed by Skrillex, a close friend of the band. The album's first single, \"Nimble Bastard\", peaked at number 4 on the Billboard Mainstream Rock Songs chart in April 2017. 8 is the last studio album with bassist Ben Kenney before his departure in 2024."
+  },
+  {
+   "id": "cb581752-8f2e-4a8b-8d02-8cc9c067012b",
+   "titulo": "Morning View XXIII",
+   "data": "2024-05-10",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/c10bf2b3-f0eb-4fd2-acdc-f609bd4f4aad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nice to Know You",
+     "duracao": "6:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Circles",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Wish You Were Here",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Just a Phase",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "11 Am",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Blood on the Ground",
+     "duracao": "4:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Mexico",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Warning",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Echo",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Have You Ever",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Are You In?",
+     "duracao": "4:13"
+    },
+    {
+     "n": 12,
+     "titulo": "Under My Umbrella",
+     "duracao": "3:40"
+    },
+    {
+     "n": 13,
+     "titulo": "Aqueous Transmission",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

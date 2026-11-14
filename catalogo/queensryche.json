@@ -1,0 +1,1431 @@
+{
+ "id": "queensryche",
+ "nome": "Queensrÿche",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "deeea939-7f89-4762-b09f-79269cd70d3b",
+ "wikidata": "Q462380",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1981",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "heavy metal",
+  "progressive metal",
+  "metal",
+  "power metal",
+  "us power metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Queensr%C3%BFche_-_2019214115613_2019-08-02_Wacken_-_0055_-_5DSR3553_%28cropped%29.jpg/500px-Queensr%C3%BFche_-_2019214115613_2019-08-02_Wacken_-_0055_-_5DSR3553_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Queensr%C3%BFche",
+ "resumo_pt": "Queensrÿche é uma banda norte-americana de metal progressivo formada em 1981 em Seattle, Washington. Já lançaram onze álbuns na carreira, e continuam gravando e fazendo concertos.",
+ "resumo_en": "Queensrÿche () is an American progressive metal band. It formed in 1980 in Bellevue, Washington, and first went by Cross+Fire and then by the Mob before settling on its current name in 1982. The band has released 16 studio albums, one EP, and several DVDs, and continues to tour and record. The original lineup consisted of guitarists Michael Wilton and Chris DeGarmo, drummer Scott Rockenfield and bassist Eddie Jackson. Lead vocalist Geoff Tate was recruited in 1982 to round out the band.\nQueensrÿche has sold more than 20 million albums worldwide, including more than six million in the United States. A leader of the progressive metal scene of the mid-to-late 1980s, the band is often referred to as one of the genre's \"Big Three\", along with Dream Theater and Fates Warning. The band has received three Grammy Award nominations for songs from the albums. In 1998, drummer Rockenfield received an individual Grammy nomination. In 2016, the staff of Loudwire named them the 28th-best metal band of all time.\nQueensrÿche self-released its eponymous EP in 1982, and it earned them a following outside of their home state of Washington, as well as a record deal with EMI Records, who reissued the EP the following year. Queensrÿche's popularity grew through the 1980s with their first three studio albums, The Warning (1984), Rage for Order (1986) and Operation: Mindcrime (1988), the last of which is widely considered among the greatest heavy metal concept albums. Their fourth album, Empire (1990",
+ "albuns": [
+  {
+   "id": "7e43ce5b-aef4-35d0-aeaf-1e5eb4de5f87",
+   "titulo": "The Warning",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/5793d14c-90a1-4426-add4-c430df4b8348/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Warning",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "En Force",
+     "duracao": "5:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Deliverance",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "No Sanctuary",
+     "duracao": "6:01"
+    },
+    {
+     "n": 5,
+     "titulo": "N M 156",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Take Hold of the Flame",
+     "duracao": "4:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Before the Storm",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Child of Fire",
+     "duracao": "5:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Roads to Madness",
+     "duracao": "9:35"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Warning_%28Queensr%C3%BFche_album%29",
+   "resumo_en": "The Warning is the debut studio album by American progressive metal band Queensrÿche, released on September 7, 1984, and reissued on May 6, 2003, with three bonus tracks.\nThe Warning shows the band in an early stage of development, playing straight heavy metal songs unlike later albums in which more experimentation was expressed. The album's lyrics explore themes such as mysticism and the occult.\nIt was a moderate commercial success in the United States, although none of the singles charted domestically. However, \"Take Hold of the Flame\" was an international hit, particularly in Japan.\nIn 2019, Metal Hammer ranked it as the 13th best power metal album of all time."
+  },
+  {
+   "id": "71fd859a-c1d6-3ac6-aca8-e3b51b1579c9",
+   "titulo": "Rage for Order",
+   "data": "1986-12-12",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/5ad2a91e-b528-4de2-8a84-5379485bd93f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walk in the Shadows",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "I Dream in Infrared",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "The Whisper",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Gonna Get Close to You",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "The Killing Words",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Surgical Strike",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Neue Regel",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Chemical Youth (We Are Rebellion)",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "London",
+     "duracao": "5:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Screaming in Digital",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "I Will Remember",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 7.1,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rage_for_Order",
+   "resumo_en": "Rage for Order is the second studio album by American progressive metal band Queensrÿche, released on June 27, 1986. The album was re-released on May 6, 2003 with four bonus tracks."
+  },
+  {
+   "id": "1bdbbbcd-6380-3726-b039-86fe0559f273",
+   "titulo": "Operation: Mindcrime",
+   "data": "1988-05-02",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/077e9e62-7a5b-404c-b0d1-2f1178211333/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Remember Now",
+     "duracao": "1:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Anarchy-X",
+     "duracao": "1:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Revolution Calling",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Operation: Mindcrime",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Speak",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Spreading the Disease",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "The Mission",
+     "duracao": "5:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Suite Sister Mary",
+     "duracao": "10:41"
+    },
+    {
+     "n": 9,
+     "titulo": "The Needle Lies",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Electric Requiem",
+     "duracao": "1:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Breaking the Silence",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "I Don’t Believe in Love",
+     "duracao": "4:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Waiting for 22",
+     "duracao": "1:05"
+    },
+    {
+     "n": 14,
+     "titulo": "My Empty Room",
+     "duracao": "1:28"
+    },
+    {
+     "n": 15,
+     "titulo": "Eyes of a Stranger",
+     "duracao": "6:39"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 5
+   },
+   "publico": 9.2,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Operation%3A_Mindcrime",
+   "resumo_en": "Operation: Mindcrime is the third studio album by American progressive metal band Queensrÿche. Originally released on May 3, 1988, the album was reissued on May 6, 2003, with two bonus tracks, and again in 2006 as a deluxe box set.\nOperation: Mindcrime is a concept album and a rock opera. Its story follows Nikki, a drug addict who becomes disillusioned with the corrupt society of his time and reluctantly becomes involved with a revolutionary group as an assassin of political leaders. In January 1989, it ranked at No. 34 on Kerrang! magazine's \"100 Greatest Heavy Metal Albums of All Time\".\nOperation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 on the Billboard 200 while its last two singles \"Eyes of a Stranger\" and \"I Don't Believe in Love\" served as the band's first charting hits in the United States. The album was certified by the RIAA as gold in early 1989, and was certified as platinum two years later. A sequel, Operation: Mindcrime II, was released on April 4, 2006."
+  },
+  {
+   "id": "fd4bb9f4-c263-392a-8d71-3e96e26880d7",
+   "titulo": "Empire",
+   "data": "1990-08-20",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/4ee2d705-6008-42cb-9465-157741033277/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Best I Can",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "The Thin Line",
+     "duracao": "5:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Jet City Woman",
+     "duracao": "5:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Della Brown",
+     "duracao": "7:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Another Rainy Night (Without You)",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Empire",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Resistance",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Silent Lucidity",
+     "duracao": "5:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Hand on Heart",
+     "duracao": "5:33"
+    },
+    {
+     "n": 10,
+     "titulo": "One and Only",
+     "duracao": "5:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Anybody Listening?",
+     "duracao": "7:41"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Empire_%28Queensr%C3%BFche_album%29",
+   "resumo_en": "Empire is the fourth studio album by American progressive metal band Queensrÿche, released on September 4, 1990. The album is Queensrÿche's most commercially successful release, reaching triple-platinum status. The primary single, the power ballad \"Silent Lucidity\", reached number 1 on the Mainstream Rock Tracks and number 9 on the Billboard Hot 100. \"Silent Lucidity\" was also nominated in 1992 for the Grammy Awards for Best Rock Song and Best Rock Vocal Performance by a Duo or Group. The album won a 1991 Northwest Area Music Award for Best Metal Recording."
+  },
+  {
+   "id": "c552ccb2-ce8c-3355-adc3-d91789a31513",
+   "titulo": "Promised Land",
+   "data": "1994-10-17",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/c9dcb01a-f39d-409d-a147-d88e6c42fd20/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "9:28 A.M.",
+     "duracao": "1:43"
+    },
+    {
+     "n": 2,
+     "titulo": "I Am I",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Damaged",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Out of Mind",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Bridge",
+     "duracao": "3:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Promised Land",
+     "duracao": "7:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Disconnected",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Lady Jane",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "My Global Mind",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "One More Time",
+     "duracao": "4:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Someone Else?",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.6,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Promised_Land_%28Queensr%C3%BFche_album%29",
+   "resumo_en": "Promised Land is the fifth studio album by American progressive metal band Queensrÿche and their highest charting record to date. It was released by EMI on October 18, 1994, four years after their successful Empire album. The album was re-released on June 10, 2003, in a remastered edition with bonus tracks."
+  },
+  {
+   "id": "c93ea6b4-fca7-3de2-9f8c-683d32e2c6a8",
+   "titulo": "Hear in the Now Frontier",
+   "data": "1997-03-24",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/480a9568-d31e-4f6d-a121-dc316912c814/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sign of the Times",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Cuckoo’s Nest",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Get a Life",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "The Voice Inside",
+     "duracao": "3:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Some People Fly",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Saved",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Hero",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Miles Away",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Reach",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "All I Want",
+     "duracao": "4:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Hit the Black",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Anytime/Anywhere",
+     "duracao": "2:56"
+    },
+    {
+     "n": 14,
+     "titulo": "spOOL",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hear_in_the_Now_Frontier",
+   "resumo_en": "Hear in the Now Frontier is the sixth studio album by American progressive metal band Queensrÿche, released in 1997. It was partly recorded at Studio Litho in Seattle, the home studio of Pearl Jam guitarist Stone Gossard, and was engineered and mixed by Toby Wright, who had recently worked with Alice in Chains.\nThe album debuted at No. 19 but quickly vanished from the charts. Hear in the Now Frontier features a more basic, stripped-down musical style than anything the band had released to date. Many listeners criticized the band's shift to a more mainstream sound.\nDespite the reaction, the singles \"Sign of the Times\" and \"You\" received substantial airplay. Both tracks, as well as \"Some People Fly\", would later be featured on best-of compilations. Sign of the Times: The Best of Queensrÿche, a 2007 compilation, also takes its name from the song.\nThe song \"All I Want\" features guitarist Chris DeGarmo on lead vocals, the only time to date that any band member other than then-lead vocalist Geoff Tate had done so on a studio track. After the album's release, DeGarmo left the band."
+  },
+  {
+   "id": "0c7d6066-a733-3ae2-8f74-2fcc58b73367",
+   "titulo": "Q2K",
+   "data": "1999-09-14",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/2b3e426f-73ed-4587-9d3f-9514d4f14a13/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Falling Down",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Sacred Ground",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "One Life",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "When the Rain Comes...",
+     "duracao": "5:05"
+    },
+    {
+     "n": 5,
+     "titulo": "How Could I?",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Beside You",
+     "duracao": "5:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Liquid Sky",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Breakdown",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Burning Man",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Wot Kinda Man",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "The Right Side of My Mind",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.7,
+    "fontes": 4
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Q2K",
+   "resumo_en": "Q2K is the seventh studio album by American progressive metal band Queensrÿche, released on September 14, 1999. It was the only Queensrÿche studio album to feature guitarist Kelly Gray as an official member, who, in the early 1980s, was in a band called Myth with vocalist Geoff Tate. \"Breakdown\" was released as the first single off Q2K. \"The Right Side of My Mind\" was released as the band's first music video since the album Promised Land and has had occasional airplay on VH1 Classic, which also premiered it in a special co-hosted by Geoff Tate.\nOn August 29, 2006, Rhino Entertainment released an expanded & remastered edition of Q2K which included four bonus tracks. In Canada, the album was released by Anthem Records.\nTwo songs (\"Discipline\" and \"Monologue\") still remain unreleased after Q2K sessions."
+  },
+  {
+   "id": "0c0d993e-6b06-3754-ba45-d968a9e3aa3d",
+   "titulo": "Tribe",
+   "data": "2003-07-22",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/4de6de4d-3943-4172-9678-712553032299/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Open",
+     "duracao": "4:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Losing Myself",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Desert Dance",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Falling Behind",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "The Great Divide",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Rhythm of Hope",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Tribe",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Blood",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "The Art of Life",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Doin' Fine",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tribe_%28Queensr%C3%BFche_album%29",
+   "resumo_en": "Tribe is the eighth studio album by American progressive metal band Queensrÿche, released on July 22, 2003. It was self-produced by Queensrÿche, with Scott Olson engineering and Adam Kasper mixing the album."
+  },
+  {
+   "id": "6e89c82d-0eb4-32c3-adf9-6c9b33602f77",
+   "titulo": "Operation: Mindcrime II",
+   "data": "2006-03-29",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/85ff2084-fa3f-4891-b760-bbf2a65be276/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Freiheit Ouvertüre",
+     "duracao": "1:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Convict",
+     "duracao": "0:08"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m American",
+     "duracao": "2:53"
+    },
+    {
+     "n": 4,
+     "titulo": "One Foot in Hell",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Hostage",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hands",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Speed of Light",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Signs Say Go",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Re‐Arrange You",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "The Chase",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Murderer?",
+     "duracao": "4:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Circles",
+     "duracao": "2:58"
+    },
+    {
+     "n": 13,
+     "titulo": "If I Could Change It All",
+     "duracao": "4:27"
+    },
+    {
+     "n": 14,
+     "titulo": "An Intentional Confrontation",
+     "duracao": "2:32"
+    },
+    {
+     "n": 15,
+     "titulo": "A Junkie’s Blues",
+     "duracao": "3:41"
+    },
+    {
+     "n": 16,
+     "titulo": "Fear City Slide",
+     "duracao": "4:58"
+    },
+    {
+     "n": 17,
+     "titulo": "All the Promises",
+     "duracao": "5:10"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Operation%3A_Mindcrime_II",
+   "resumo_en": "Operation: Mindcrime II is the ninth studio album by American progressive metal band Queensrÿche, released internationally on March 31, 2006, and in the United States on April 4, 2006. It was the band's first album to be produced by Jason Slater.\nIt is a concept album and the sequel to the group's third studio album, Operation: Mindcrime (1988). The album resumes the story of Mindcrime, which is that of Nikki, a drug-addicted political revolutionary who had worked as an assassin before his disillusionment and arrest. Nikki had been jailed for the murder of prostitute-turned-nun Sister Mary at the end of Mindcrime, with his sanity slipping as he genuinely didn't know who had killed Mary and had grown close to her before her death. As Mindcrime II begins, eighteen years later, Nikki is released from prison and begins to plot his revenge against Dr. X, a manipulative demagogue from the first album that had treated Nikki as his puppet.\nVocalist Pamela Moore reprises her role as Sister Mary for the album. The role of Dr. X (played by actor Anthony Valentine on the first album) went to famous heavy metal singer Ronnie James Dio. Singer Geoff Tate handles the vocals for the protagonist.\nF"
+  },
+  {
+   "id": "6db5aa54-225a-35ec-bab8-2a0157cc226d",
+   "titulo": "Take Cover",
+   "data": "2007-11-13",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/0eadad6f-b387-4f16-994e-f0a9dfe5c544/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Welcome to the Machine",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Heaven on Their Minds",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Almost Cut My Hair",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "For What It's Worth",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "For the Love of Money",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Innuendo",
+     "duracao": "6:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Neon Knights",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Synchronicity II",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Red Rain",
+     "duracao": "4:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Odissea",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Bullet the Blue Sky (live)",
+     "duracao": "10:26"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.1,
+    "fontes": 5
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Take_Cover_%28album%29",
+   "resumo_en": "Take Cover is the tenth studio album by American progressive metal band Queensrÿche, released on November 13, 2007. It consists of cover versions. The idea to release an album of cover songs came from a game of \"name the riff\" guitarists Michael Wilton and Mike Stone would play during sound checks. The band members agreed to each choose two songs to record for the album. Its release was announced by the band on August 28, 2007. After its first week of release the album entered the Billboard Top 200 chart at No. 173, with sales of 5,500 copies. Their cover of Pink Floyd's \"Welcome to the Machine\" was released as the album's only single."
+  },
+  {
+   "id": "99779cb2-2719-3c09-9718-ae6d0b8d6f4a",
+   "titulo": "American Soldier",
+   "data": "2009-03-27",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/2baae222-ccf5-45b1-a502-c33aa42a042c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sliver",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Unafraid",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Hundred Mile Stare",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "At 30,000 ft.",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "A Dead Man's Words",
+     "duracao": "6:35"
+    },
+    {
+     "n": 6,
+     "titulo": "The Killer",
+     "duracao": "5:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Middle of Hell",
+     "duracao": "5:28"
+    },
+    {
+     "n": 8,
+     "titulo": "If I Were King",
+     "duracao": "5:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Man Down!",
+     "duracao": "4:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Remember Me",
+     "duracao": "5:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Home Again",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "The Voice",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 6
+   },
+   "publico": 4.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/American_Soldier_%28album%29",
+   "resumo_en": "American Soldier is the eleventh studio album by American progressive metal band Queensrÿche; it is a concept album released on March 31, 2009. The album debuted at No. 25 on the Billboard 200 chart. As its title suggests, American Soldier revolves around the lives and experiences of those who serve or have served in the United States armed forces.\nFollowing the departure of Mike Stone, the album was the first to entirely be recorded by Queensrÿche as a quartet. It is also the first original album by the band, where founding guitarist Michael Wilton does not receive a single writing credit."
+  },
+  {
+   "id": "f2464507-04d8-4e6c-b79c-fbfdd92336a2",
+   "titulo": "Dedicated to Chaos",
+   "data": "2011-06-21",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/201123a8-0b0d-4fc3-8d1f-0b90a86916f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get Started",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Hot Spot Junkie",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Got It Bad",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Around the World",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Higher",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Retail Therapy",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "At the Edge",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Broken",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Hard Times",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Drive",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "I Believe",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "LuvnU",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Wot We Do",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "I Take You",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "The Lie",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Big Noize",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.8,
+    "fontes": 4
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dedicated_to_Chaos",
+   "resumo_en": "Dedicated to Chaos is the twelfth studio album by American progressive metal band Queensrÿche. The album was released first in Japan on June 21, 2011, and a week later in the United States on June 28, 2011, and is the band's first album for Roadrunner Records' Loud & Proud label. It is also their final album to feature longtime lead vocalist Geoff Tate before he was fired from Queensrÿche in 2012.\nLike the 2009 release American Soldier, Dedicated to Chaos was recorded by Queensrÿche as a quartet; Parker Lundgren, who was a guest guitarist in this album, subsequently became a permanent member of the band. The album debuted at No. 70 on the Billboard 200. The band's previous album, American Soldier, peaked at No. 25 on the Billboard 200."
+  },
+  {
+   "id": "71dd098c-273f-475a-9cb1-f4270c9a6a2b",
+   "titulo": "Queensrÿche",
+   "data": "2013-06-24",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/ad0959e7-2cf8-437a-a35b-1c7a548a5cbe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "X2",
+     "duracao": "1:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Where Dreams Go to Die",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Spore",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "In This Light",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Redemption",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Vindication",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Midnight Lullaby",
+     "duracao": "0:55"
+    },
+    {
+     "n": 8,
+     "titulo": "A World Without",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Look Back",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Fallout",
+     "duracao": "2:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Open Road",
+     "duracao": "3:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Queen of the Reich (live)",
+     "duracao": "4:34"
+    },
+    {
+     "n": 13,
+     "titulo": "En Force (live)",
+     "duracao": "4:21"
+    },
+    {
+     "n": 14,
+     "titulo": "Prophecy (live)",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 75,
+    "media": 7.8,
+    "fontes": 6
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Queensr%C3%BFche_%28album%29",
+   "resumo_en": "Queensrÿche is the thirteenth studio album by American progressive metal band Queensrÿche, and the first to feature new singer Todd La Torre. It was released during a time when there were two different versions of the band, the other led by former singer Geoff Tate, who would give up his rights to the name in an amicable settlement in 2014.\nThe album was released through Century Media in digital format and on CD (standard and deluxe edition) and LP on June 24 in Europe; on June 25, 2013, in the U.S. and Canada, and on August 21 in Japan through Avalon Records. The album was produced by James Barton (also known as \"Jimbo\" Barton), who had previously mixed and engineered Queensrÿche's hit albums Operation: Mindcrime and Empire and co-produced Promised Land."
+  },
+  {
+   "id": "79f6d67e-6f6c-4d8b-8ea3-a70a91293a90",
+   "titulo": "Condition Hüman",
+   "data": "2015-10-02",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/09ffbd7d-07a1-443a-9600-e22b8a946bb4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Arrow of Time",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Guardian",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Hellfire",
+     "duracao": "5:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Toxic Remedy",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Selfish Lives",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Eye9",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Bulletproof",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Hourglass",
+     "duracao": "5:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Just Us",
+     "duracao": "5:58"
+    },
+    {
+     "n": 10,
+     "titulo": "All There Was",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "The Aftermath",
+     "duracao": "0:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Condition Hüman",
+     "duracao": "7:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Espiritu Muerto",
+     "duracao": "3:40"
+    },
+    {
+     "n": 14,
+     "titulo": "46° North",
+     "duracao": "3:33"
+    },
+    {
+     "n": 15,
+     "titulo": "Mercury Rising",
+     "duracao": "3:55"
+    },
+    {
+     "n": 16,
+     "titulo": "Arrow of Time",
+     "duracao": "3:59"
+    },
+    {
+     "n": 17,
+     "titulo": "Guardian",
+     "duracao": "4:20"
+    },
+    {
+     "n": 18,
+     "titulo": "Hellfire",
+     "duracao": "5:05"
+    },
+    {
+     "n": 19,
+     "titulo": "Toxic Remedy",
+     "duracao": "4:09"
+    },
+    {
+     "n": 20,
+     "titulo": "Selfish Lives",
+     "duracao": "4:58"
+    },
+    {
+     "n": 21,
+     "titulo": "Eye9",
+     "duracao": "3:21"
+    },
+    {
+     "n": 22,
+     "titulo": "Bulletproof",
+     "duracao": "4:01"
+    },
+    {
+     "n": 23,
+     "titulo": "Hourglass",
+     "duracao": "5:10"
+    },
+    {
+     "n": 24,
+     "titulo": "Just Us",
+     "duracao": "5:58"
+    },
+    {
+     "n": 25,
+     "titulo": "All There Was",
+     "duracao": "3:44"
+    },
+    {
+     "n": 26,
+     "titulo": "The Aftermath",
+     "duracao": "0:56"
+    },
+    {
+     "n": 27,
+     "titulo": "Condition Hüman",
+     "duracao": "7:48"
+    },
+    {
+     "n": 28,
+     "titulo": "Espiritu Muerto",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 122,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.2,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Condition_H%C3%BCman",
+   "resumo_en": "Condition Hüman is the fourteenth studio album by American progressive metal band Queensrÿche. It was released on October 2, 2015, through Century Media. It is the second studio album recorded with vocalist Todd La Torre, after Geoff Tate was fired from the band and gave up the rights to the name after a two-year lawsuit regarding the rights to the Queensrÿche brand was amicably settled.\nIt's also the last album to feature original drummer Scott Rockenfield, who took a break from the band in 2017 and later went on to sue the band, making future record appearances unlikely.\nThe album's first single, \"Arrow of Time\", became available for streaming on July 20, 2015, the day the album's title and release date were announced. It was recorded in early 2015 at Uberbeatz Studios in Washington and produced by Chris \"Zeuss\" Harris."
+  },
+  {
+   "id": "9280e0f7-d9b4-4465-81b2-e24f48e492d3",
+   "titulo": "The Verdict",
+   "data": "2019-02-27",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/38da435e-e13c-4a54-b70a-f41e4f59708c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blood of the Levant",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Man the Machine",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Light‐Years",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Inside Out",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Propaganda Fashion",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Dark Reverie",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Bent",
+     "duracao": "5:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Inner Unrest",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Launder the Conscience",
+     "duracao": "5:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Portrait",
+     "duracao": "5:16"
+    },
+    {
+     "n": 11,
+     "titulo": "I Dream in Infrared (acoustic)",
+     "duracao": "3:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Open Road (acoustic)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 13,
+     "titulo": "46° North",
+     "duracao": "3:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Mercury Rising",
+     "duracao": "3:54"
+    },
+    {
+     "n": 15,
+     "titulo": "Espiritu Muerto",
+     "duracao": "3:40"
+    },
+    {
+     "n": 16,
+     "titulo": "Queen of the Reich (live 2012)",
+     "duracao": "4:34"
+    },
+    {
+     "n": 17,
+     "titulo": "En Force (live 2012)",
+     "duracao": "4:21"
+    },
+    {
+     "n": 18,
+     "titulo": "Prophecy (live 2012)",
+     "duracao": "4:09"
+    },
+    {
+     "n": 19,
+     "titulo": "Eyes of a Stranger (live 2012)",
+     "duracao": "6:53"
+    }
+   ],
+   "duracao_min": 83,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Verdict_%28Queensr%C3%BFche_album%29",
+   "resumo_en": "The Verdict is the fifteenth studio album by American progressive metal band Queensrÿche. It was released on March 1, 2019, through Century Media Records."
+  },
+  {
+   "id": "13790fab-4cde-415a-9b3a-aaf1293a798f",
+   "titulo": "Digital Noise Alliance",
+   "data": "2022-10-07",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/8ea2d52c-90c0-4770-ae14-d1a1ada893fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In Extremis",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Chapters",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Lost in Sorrow",
+     "duracao": "5:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Sicdeth",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Behind the Walls",
+     "duracao": "6:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Nocturnal Light",
+     "duracao": "5:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Out of the Black",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Forest",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Realms",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Hold On",
+     "duracao": "4:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Tormentum",
+     "duracao": "7:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Rebel Yell",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

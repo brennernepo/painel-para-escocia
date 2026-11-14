@@ -1,0 +1,733 @@
+{
+ "id": "candlebox",
+ "nome": "Candlebox",
+ "cena": "Grunge",
+ "mbid": "8e9516ba-f417-47dd-a8a5-8998b94553f8",
+ "wikidata": "Q1033047",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1991",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "rock",
+  "grunge",
+  "post-grunge"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tgfkevinbigclose.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Candlebox",
+ "resumo_pt": "Candlebox é uma banda de post-grunge de Seattle, Estados Unidos. Formada em dezembro de 1991, o nome original da banda era Uncle Duke; posteriormente o nome foi alterado em tributo a uma música da banda Midnight Oil.",
+ "resumo_en": "Candlebox is an American rock band from Seattle, Washington. Since its formation in 1990, the group has released eight studio albums, several charting singles, a compilation, and a CD+DVD.\nCandlebox found immediate success with the release of its self-titled debut album in July 1993. Candlebox featured four singles: \"Change\", \"You\", \"Far Behind\" and \"Cover Me\". \"Far Behind\" reached the top 20, and the album was certified quadruple platinum by the RIAA. The band's next album, Lucy (1995), was certified gold, and was followed three years later by Happy Pills (1998). After troubles with its record company, Candlebox broke up in 2000. The band reunited in 2006 and they have since released five more studio albums: Into the Sun (2008), Love Stories & Other Musings (2012) Disappearing in Airports (2016), Wolves (2021), and their most recent album The Long Goodbye released on August 25, 2023.\nLauryn Schaffner at 106.3 The Buzz considers Candlebox one of the \"Big Four\" of post-grunge.",
+ "albuns": [
+  {
+   "id": "7e290019-f816-3f73-b510-01f84735a6eb",
+   "titulo": "Candlebox",
+   "data": "1993-07-16",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/a99037af-4267-4171-97d3-8b0d382fd4b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t You",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Change",
+     "duracao": "6:24"
+    },
+    {
+     "n": 3,
+     "titulo": "You",
+     "duracao": "4:56"
+    },
+    {
+     "n": 4,
+     "titulo": "No Sense",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Far Behind",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Blossom",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Arrow",
+     "duracao": "3:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Rain",
+     "duracao": "6:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Mothers Dream",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Cover Me",
+     "duracao": "4:46"
+    },
+    {
+     "n": 11,
+     "titulo": "He Calls Home",
+     "duracao": "5:03"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Candlebox_%28album%29",
+   "resumo_en": "Candlebox is the debut album by Seattle rock band Candlebox. It contains their best known hit, \"Far Behind\", as well as the hit singles \"Change\", \"You\" and \"Cover Me\". Released in 1993, the album has since been certified 4× platinum in the United States."
+  },
+  {
+   "id": "72af4f5d-749a-38c6-adfe-b22edcf606eb",
+   "titulo": "Lucy",
+   "data": "1995-10-03",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/45f664c6-06c5-4a71-92e5-928ef52f1f27/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Simple Lessons",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Drowned",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Lucy",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Best Friend",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Become (To Tell)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Understanding",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Crooked Halo",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Bothered",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Butterfly",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "It’s Amazing",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Vulgar Before Me",
+     "duracao": "3:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Butterfly (reprise)",
+     "duracao": "6:15"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucy_%28Candlebox_album%29",
+   "resumo_en": "Lucy is the second studio album by Seattle rock band Candlebox.  Although the album did not fare as well as its 1993 predecessor, the single \"Simple Lessons\" received considerable airplay, and Lucy eventually achieved gold certification.\nFour tracks from Lucy would be included on The Best of Candlebox in 2006."
+  },
+  {
+   "id": "26fb93d3-1e41-3f11-99c9-69c199371c73",
+   "titulo": "Happy Pills",
+   "data": "1998-07-21",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/d4938c29-e396-4604-988d-6ce535136502/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "10,000 Horses",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Happy Pills",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Blinders",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "It’s Alright",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "A Stone’s Throw Away",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "So Real",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Offerings",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Sometimes",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Step Back",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Belmore Place",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Breakaway",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Look What You’ve Done",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.4,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Happy_Pills",
+   "resumo_en": "Happy Pills is the third studio album by Seattle rock band, Candlebox. It features former Pearl Jam drummer Dave Krusen who replaced Scott Mercado in 1997. Happy Pills did not gain the success of its predecessors and would be the last Candlebox album before their hiatus in 2000. It would also be the final Candlebox album recorded for Maverick.\nFour of the album's tracks would be included on The Best of Candlebox in 2006.\nThe album was produced by the band and Ron Nevison, who had served as producer for Led Zeppelin, Ozzy Osbourne, Europe, Heart, Firehouse and many other artists."
+  },
+  {
+   "id": "9009d495-9947-34f4-ac96-be22400c62cb",
+   "titulo": "Into the Sun",
+   "data": "2008-06-10",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/bfd9935d-32a9-45d3-a2d9-2503147f01e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stand",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Bitches Brewin'",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Surrendering",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Into the Sun",
+     "duracao": "4:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Underneath It All",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Miss You",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "How Does It Feel",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "A Kiss Before Dying",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Breathe Me In (Intro)",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Breathe Me In",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Lover Come Back to Me",
+     "duracao": "4:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Consider Us",
+     "duracao": "4:09"
+    },
+    {
+     "n": 13,
+     "titulo": "The Answer",
+     "duracao": "6:37"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Into_the_Sun_%28Candlebox_album%29",
+   "resumo_en": "Into the Sun is the fourth studio album by Seattle post-grunge band Candlebox. Released in 2008, it is their first album since 1998's Happy Pills and would mark both the band's studio return after a seven-year hiatus as well as their first album with Silent Majority Group."
+  },
+  {
+   "id": "79b1b336-0c87-4682-858d-58db265c260b",
+   "titulo": "Love Stories & Other Musings",
+   "data": "2012-04-03",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/02d2a212-2d20-4479-8104-25b0f94cf651/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Youth in Revolt",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Sweet Summertime",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Believe in It",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "She Come Over Me",
+     "duracao": "4:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Turn Your Heart Around",
+     "duracao": "4:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Lifelike Song",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Come Home",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Baby Love Me",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Them Eyes",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Far Behind",
+     "duracao": "4:54"
+    },
+    {
+     "n": 11,
+     "titulo": "You",
+     "duracao": "5:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Cover Me",
+     "duracao": "4:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Change",
+     "duracao": "6:19"
+    },
+    {
+     "n": 14,
+     "titulo": "Simple Lessons",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Love_Stories_%26_Other_Musings",
+   "resumo_en": "Love Stories & Other Musings is the fifth studio album by the alternative rock band Candlebox. It was released in 2012 on Audionest."
+  },
+  {
+   "id": "b8ebb363-c17d-46c2-b5b4-88bfc0666b85",
+   "titulo": "Disappearing in Airports",
+   "data": "2016-04-22",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/07d98f43-eaf3-4727-a4b9-f231b3046bd7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Only Because of You",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Vexatious",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Supernova",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Alive at Last",
+     "duracao": "5:36"
+    },
+    {
+     "n": 5,
+     "titulo": "I've Got a Gun",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "I Want It Back",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bridge",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Spotlights",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Crazy",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "God's Gift",
+     "duracao": "3:14"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Disappearing_in_Airports",
+   "resumo_en": "Disappearing in Airports is the sixth studio album by the American rock band Candlebox. It was released on April 22, 2016, on Pavement Entertainment. It is also the first album without original guitarist Peter Klett, and has only singer Kevin Martin left from the original lineup. Former Pearl Jam drummer Dave Krusen returned for the album."
+  },
+  {
+   "id": "9a716ba8-de92-4faf-a286-0266a081e6e6",
+   "titulo": "Wolves",
+   "data": "2021-09-17",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/0f302b00-87fb-4460-af46-b566b68bb9c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Down Hill From Here",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Let Me Down Easy",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Riptide",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Sunshine",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "My Weakness",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "We",
+     "duracao": "5:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Nothing Left to Lose",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Lost Angeline",
+     "duracao": "4:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Trip",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Don't Count Me Out",
+     "duracao": "5:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Criminals",
+     "duracao": "5:35"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wolves_%28Candlebox_album%29",
+   "resumo_en": "Wolves is a 2021 studio album by American grunge band Candlebox. The album was recorded in late 2019 into early 2020, but release was pushed back due to the COVID-19 pandemic. The album continues exploring pop rock that started with 2016's Disappearing in Airports and has received positive reviews from critics."
+  },
+  {
+   "id": "4bd7db42-a7d6-43af-aaaa-90560b7c0742",
+   "titulo": "The Long Goodbye",
+   "data": "2023-08-21",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/a21219aa-79b2-4465-bd15-a1b1b862bef0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Do You Need",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Who You Are",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Punks",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Elegante",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Hourglass",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Maze",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Ugly",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Foxy",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Running With The Stars",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Nails On A Chalkboard",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Cellphone Jesus",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "I Should Be Happy",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Long_Goodbye_%28Candlebox_album%29",
+   "resumo_en": "The Long Goodbye is the eighth studio album from American grunge band Candlebox, released on August 25, 2023. The album was promoted with the single \"Punks\"—a cautionary song to younger bands about the fickleness of the music industry—and a farewell tour, after which the band will break up, with vocalist Kevin Martin citing a lack of support in the music industry and the high costs of touring.  The album was rereleased on streaming on July 12, 2024, entitled A Little Longer Goodbye (Tour Edition) ahead of their A Little Longer Goodbye tour which will see them opening for Bush's Loaded: Greatest Hits tour.  The rerelease of the album included the three bonus tracks previously found on CD and LP editions as well as two new live recordings."
+  },
+  {
+   "id": "c8ab347d-b313-4fdd-91b9-10ebab60bc94",
+   "titulo": "A Little Longer Goodbye",
+   "data": "2024-07-12",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/e641bf77-9796-482a-ab34-22b95e2d5ce9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Do You Need",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Who You Are",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Punks",
+     "duracao": "3:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Elegante",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Hourglass",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Maze",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Ugly",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Foxy",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Running With The Stars",
+     "duracao": "4:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Nails On A Chalkboard",
+     "duracao": "3:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Cellphone Jesus",
+     "duracao": "3:30"
+    },
+    {
+     "n": 12,
+     "titulo": "I Should Be Happy",
+     "duracao": "2:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Elegante (Live)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Cellphone Jesus (Live)",
+     "duracao": "3:48"
+    },
+    {
+     "n": 15,
+     "titulo": "Washed Up",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

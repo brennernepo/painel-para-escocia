@@ -1,0 +1,324 @@
+{
+ "id": "montrose",
+ "nome": "Montrose",
+ "cena": "Hard rock",
+ "mbid": "d68063aa-620e-4cf5-8d8c-c2fc8bd1800b",
+ "wikidata": "Q1934859",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1973",
+ "fim": "2010",
+ "ativa": false,
+ "generos": [
+  "hard rock",
+  "classic rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Montrose_1976.jpg/500px-Montrose_1976.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Montrose_%28banda%29",
+ "resumo_pt": "Montrose foi uma banda da Hard Rock americana dos anos 70, liderada pelo a experiente guitarrista Ronnie Montrose, que já havia trabalhado como músico de estúdio para grandes nomes do rock. A banda foi formada em 1973, e contava com Bill Church (baixo), Denny Carmassi (Bateria) e o vocalista Sammy Hagar, que mais tarde seria membro do Van Halen.\nNo final daquele ano, o grupo lançou o LP homônimo que, infelizmente, não atingiu altos postos nos charts americanos (não ficou entre os 100 primeiros), mas atingindo o 43º lugar na Inglaterra.",
+ "resumo_en": "Montrose was an American hard rock band formed in 1973 and named after guitarist and founder Ronnie Montrose. The band's original lineup featured lead vocalist and frontman Sammy Hagar, who would later find success as a solo artist and as singer of Van Halen. Completing the original line-up were bassist Bill Church and drummer Denny Carmassi. The band experienced moderate success before disbanding in early 1977. The 1973 debut album Montrose eventually proved to be an international sleeper hit, selling in excess of one million copies and attaining platinum status in 1986.",
+ "albuns": [
+  {
+   "id": "8e1eda5c-dd77-3410-afdf-ccafdcf1c381",
+   "titulo": "Montrose",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/807f6bd7-de1e-4f76-8308-cb588ee81ad0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock the Nation",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Motor Scooter",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Space Station #5",
+     "duracao": "5:17"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don’t Want It",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Good Rockin’ Tonight",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock Candy",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "One Thing on My Mind",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Make It Last",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "e42e0746-8b35-3998-82ed-c4eb2f972888",
+   "titulo": "Paper Money",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/ebababc6-1dc8-42f9-8f96-c82e1da3332f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Underground",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Connection",
+     "duracao": "5:42"
+    },
+    {
+     "n": 3,
+     "titulo": "The Dreamer",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Starliner",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "I Got the Fire",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Spaceage Sacrifice",
+     "duracao": "4:55"
+    },
+    {
+     "n": 7,
+     "titulo": "We’re Going Home",
+     "duracao": "4:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Paper Money",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Paper_Money",
+   "resumo_en": "Paper Money is the second studio album by the American hard rock band Montrose, released on October 11, 1974, by Warner Bros. Records. It was produced by Ted Templeman and is the band's final recording with original vocalist Sammy Hagar. It marks the arrival of new bass player Alan Fitzgerald, replacing original bassist Bill Church."
+  },
+  {
+   "id": "255fcbae-1ce2-3fe8-921d-000ead1ebc0f",
+   "titulo": "Warner Bros. Presents Montrose!",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/03fe813b-4b99-4819-b9a3-66d0f3359cdc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Matriarch",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "All I Need",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Twenty Flight Rock",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Whaler",
+     "duracao": "6:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Dancin’ Feet",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "O Lucky Man",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "One and a Half",
+     "duracao": "1:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Clown Woman",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Train",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros._Presents_Montrose%21",
+   "resumo_en": "Warner Bros. Presents Montrose! is the third studio album by American hard rock band Montrose, released on Warner Bros. Records on 26 September 1975.\nIt is the first Montrose album released after the departure of singer Sammy Hagar and also the first not produced by Ted Templeman.  Bob James, an unknown vocalist and songwriter from the South Bay area of Los Angeles who had been singing in a Montrose cover band, was chosen as Hagar's successor in early 1975. Another newcomer from Los Angeles, Jim Alcivar, joined the band on keyboards, making this the first Montrose album to feature a keyboardist as a full member of the band. At this juncture guitarist band leader Ronnie Montrose parted ways with Ted Templeman and chose to self-produce the album.\nIn 1971, singer-songwriter Kendell Kardt, formerly of the band Rig, recorded a solo album, Buddy Bolden, featuring guests Jerry Garcia and Ronnie Montrose, both of whom played on the songs \"Buddy Bolden\" and \"Black Train\". \"Black Train\" was written by Kardt about the heroin-overdose death of an unnamed friend of Rig guitarist Arthur Richards. The original Kendell Kardt version of the song has a Country & Western feel with Garcia on pedal ste"
+  },
+  {
+   "id": "c794abf5-772b-3de9-bb20-9e2cfbaf0764",
+   "titulo": "Jump on It",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/339c00ff-1dff-4ebc-b7da-77920076d403/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jump on It",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Rich Man",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Crazy for You",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Merry-Go-Round",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Let’s Go",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "What Are You Waitin’ For?",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Tuft-Sedge",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Music Man",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jump_on_It_%28Montrose_album%29",
+   "resumo_en": "Jump on It is the fourth studio album by American hard rock band Montrose.\nIt is the second Montrose album to feature singer Bob James and keyboardist Jim Alcivar, and features bass guitarist Randy Jo Hobbs on three songs. The remainder of the bass parts were supplied by Jim Alcivar via the keyboard and there was no bass guitarist on the Jump on It tour. Jack Douglas produced the album.\nJump on It was the band's third highest-charting release, reaching No. 118 on the Billboard 200 in October 1976."
+  },
+  {
+   "id": "0e258b3c-148c-4963-9a54-c69e354b04bc",
+   "titulo": "Mean",
+   "data": "1987-05-25",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/fc322e4b-a2a4-4773-9671-90bb404fe2e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Damage the Rock",
+     "duracao": "5:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Game of Love",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Pass It On",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Hard Headed Woman",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "M for Machine",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Ready Willing and Able",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Man of the Hour",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Flesh and Blood",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Stand",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mean_%28album%29",
+   "resumo_en": "Mean is the fifth and final album by American hard rock band Montrose, released in 1987. It has much more of a glam metal sound than previous Montrose albums.  It was the lowest-charting release on Montrose's career, reaching No. 165 on the Billboard 200 in June 1987.\nAccording to Ronnie Montrose, singer Johnny Edwards and drummer James Kottak were still officially in the band Buster Brown at the time of the recording of Mean. They later played together in the first line-up of the band Wild Horses.\nGuitarist Ronnie Montrose and bassist Glenn Letsch played together in the band Gamma both before, and after, this album.\nThe song \"M for Machine\" was written for the film RoboCop but not used in it.\nDrummer James Kottak went on to join the original line-up of hard rock/glam metal band Kingdom Come, remaining with that band during their most commercially successful period, prior to reconnecting with Edwards in Wild Horses. He would later rejoin renown hard rock band Scorpions in 1996, remaining with the group until his eventual firing in 2016, reportedly due to his struggle with alcoholism. After leaving Wild Horses, Edwards became the frontman for Foreigner on their 1991 album, Unusual H"
+  }
+ ]
+}

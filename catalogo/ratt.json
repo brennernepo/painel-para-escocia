@@ -1,0 +1,524 @@
+{
+ "id": "ratt",
+ "nome": "Ratt",
+ "cena": "Hard rock",
+ "mbid": "e0827234-3be3-4973-be59-1aa9575b9c76",
+ "wikidata": "Q856941",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1976",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "glam metal",
+  "hard rock",
+  "heavy metal",
+  "metal",
+  "glam"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Glam_metal_band_Ratt.jpg/500px-Glam_metal_band_Ratt.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Ratt",
+ "resumo_pt": "Ratt é uma banda de glam metal dos Estados Unidos de grande sucesso na década de 1980. Formada em San Diego, Califórnia, em 1976.\nInspirados por Aerosmith, Kiss, New York Dolls, Judas Priest, Led Zeppelin e Van Halen, começam em 1976, com o nome de Mickey Ratt (mudando para Ratt em 1983). Em 1992 interrompem suas atividades. Voltam em 1997 e seguem atuando desde então, apesar de uma disputa judicial pelo uso do nome da banda.",
+ "resumo_en": "Ratt (stylized as RATT) was an American glam metal band that had significant commercial success in the 1980s, with their albums having been certified as gold, platinum and multi-platinum by the RIAA. The group is perhaps best known for hit singles such as \"Round and Round\" and \"Lay It Down\", tracks that ranked on Billboard's top 40 at No. 12 and No. 40, respectively, as well as other songs such as \"Wanted Man\", \"You're in Love\" and \"Dance\". Along with bands such as friendly rivals Mötley Crüe, Ratt has been recognized as instrumental in the formation of the early 1980s Los Angeles glam metal scene, also known as \"hair metal\" or \"pop metal\".\nThe band toured and recorded sporadically from the 1990s to 2021, with many extended breaks and line-up changes. They released their final studio album, Infestation, in April 2010.\nIn 2020, Jeff Mezydlo of Yardbarker included them in his list of \"the 20 greatest hair metal bands of all time\".",
+ "albuns": [
+  {
+   "id": "691df04f-0c34-3e2f-8f47-537a54cd741d",
+   "titulo": "Out of the Cellar",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/0b45914a-b09e-350e-a2dc-dd6cee035d03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wanted Man",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "You’re in Trouble",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Round and Round",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "In Your Direction",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "She Wants Money",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Lack of Communication",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Back for More",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "The Morning After",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Insane",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Scene of the Crime",
+     "duracao": "4:59"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Out_of_the_Cellar",
+   "resumo_en": "Out of the Cellar is the debut studio album by the American heavy metal band Ratt, released in 1984 by Atlantic Records. The album was an immediate success, with wide airplay on radio and heavy rotation on MTV of its singles, especially the hit \"Round and Round\". The album is certified as triple platinum by the RIAA. The album brought Ratt to the top of the glam metal scene in Los Angeles. Out of the Cellar would prove to be the band's most successful album.\nIn 2017, Metal Hammer included the album in their list of \"the 10 hair metal albums you need in your record collection\". In 2018, Collin Brennan of Consequence included the album in his list of \"10 Hair Metal Albums That Don’t Suck\"."
+  },
+  {
+   "id": "60012039-d590-33e0-9f1f-57ff93f62432",
+   "titulo": "Invasion of Your Privacy",
+   "data": "1985-07-25",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/3207dcc3-f77a-4a3f-bde2-86ce45e13a1a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You're in Love",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Never Use Love",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Lay It Down",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Give It All",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Closer to My Heart",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Between the Eyes",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "What You Give Is What You Get",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Got Me on the Line",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "You Should Know by Now",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Dangerous but Worth the Risk",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Invasion_of_Your_Privacy",
+   "resumo_en": "Invasion of Your Privacy is the second studio album by American heavy metal band Ratt. It was released in 1985 and featured the singles \"Lay It Down\", \"You're in Love\" and \"What You Give Is What You Get\". Beau Hill produced the album, and the cover model is Playboy model Marianne Gravatte, who also made an appearance in the \"Lay It Down\" music video. In 2015, Loudwire ranked the album as the 8th best metal album of 1985."
+  },
+  {
+   "id": "abf73152-9d69-3403-85f4-b1ab3132b5da",
+   "titulo": "Dancing Undercover",
+   "data": "1986-12-21",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/5ab9b186-ec91-37e6-a464-6b91d1ccaf38/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dance",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "One Good Lover",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Drive Me Crazy",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Slip of the Lip",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Body Talk",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Looking for Love",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "7th Avenue",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "It Doesn’t Matter",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Take a Chance",
+     "duracao": "4:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Enough Is Enough",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dancing_Undercover",
+   "resumo_en": "Dancing Undercover is the third studio album by American glam metal band Ratt, released in 1986. The album was produced by Beau Hill and contains the hit single/video \"Dance\", which appeared in the Miami Vice episode \"Down for the Count\". Two other videos were made: \"Body Talk\", which was used on the soundtrack for the  Eddie Murphy film The Golden Child, and \"Slip of the Lip\". It charted at No. 26 on the Billboard 200 chart and at No. 14 on Rolling Stone's Album Chart. The album went platinum."
+  },
+  {
+   "id": "a80c8d3f-96e9-3bd6-8fc7-efe24bfa0f05",
+   "titulo": "Reach for the Sky",
+   "data": "1988-11-01",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/222c5e5a-cfb4-45b1-ad62-2e5cd5b98862/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "City to City",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "I Want a Woman",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Way Cool Jr.",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Don't Bite the Hand That Feeds",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "I Want to Love You Tonight",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Chain Reaction",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "No Surprise",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Bottom Line",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "What's It Gonna Be",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "What I'm After",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Reach_for_the_Sky_%28Ratt_album%29",
+   "resumo_en": "Reach for the Sky is the fourth studio album by American glam metal band Ratt, released in 1988 by Atlantic Records. Despite the album title, the band's song \"Reach for the Sky\" does not appear on this album."
+  },
+  {
+   "id": "5e32177c-a238-3e22-8ecd-e0e2751bde10",
+   "titulo": "Detonator",
+   "data": "1990-08-21",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/a277fe8d-42fe-40f2-ab3a-77e75f8ffded/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro to Shame",
+     "duracao": "0:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Shame Shame Shame",
+     "duracao": "4:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Lovin’ You’s a Dirty Job",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Scratch That Itch",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "One Step Away",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Hard Time",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Heads I Win, Tails You Lose",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "All or Nothing",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t Wait on Love",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Givin’ Yourself Away",
+     "duracao": "5:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Top Secret",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Detonator_%28album%29",
+   "resumo_en": "Detonator is the fifth studio album by American glam metal band Ratt, released August 21, 1990, by Atlantic Records. This is the last album to feature bassist Juan Croucier and guitarist Robbin Crosby before the latter's death in 2002.\nThough their previous album Reach for the Sky went platinum, it met with some criticism regarding the quality of their songs. In an attempt to regain the popularity that Ratt had in the mid-1980s, the band parted ways with long-time producer Beau Hill. Songwriter Desmond Child was hired as producer for the album. The album is notable for featuring Ratt's only power ballad, \"Givin' Yourself Away\". The band also gravitated towards a more glam metal/pop metal sound on Detonator."
+  },
+  {
+   "id": "09f03706-511b-3b83-b848-e33b7d16f503",
+   "titulo": "Ratt",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/92cfc0da-07c3-461d-a461-e042d456a0cb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Over the Edge",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Live for Today",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Gave Up Givin’ Up",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "We Don’t Belong",
+     "duracao": "6:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Breakout",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Tug of War",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Dead Reckoning",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Luv Sick",
+     "duracao": "5:10"
+    },
+    {
+     "n": 9,
+     "titulo": "It Ain’t Easy",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "All the Way",
+     "duracao": "4:41"
+    },
+    {
+     "n": 11,
+     "titulo": "So Good, So Fine",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ratt_%28album%29",
+   "resumo_en": "Ratt is the sixth studio album by American glam metal band Ratt. Often referred to as \"1999\" by fans (partially to avoid confusion with their EP, which was also self-titled), the album saw the band's musical direction shift to a more blues-influenced hard rock sound and further away from their previous glam metal roots. This is the first studio album to feature bassist Robbie Crane."
+  },
+  {
+   "id": "35377902-cf13-43fc-af9b-a49c977516a0",
+   "titulo": "Infestation",
+   "data": "2010-03-23",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/a2801dd5-7702-46e6-9f28-50734d5f0cd2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eat Me Up Alive",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Best of Me",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "A Little Too Much",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Look Out Below",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Last Call",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Lost Weekend",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "As Good as It Gets",
+     "duracao": "4:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Garden of Eden",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Take a Big Bite",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Take Me Home",
+     "duracao": "4:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Don't Let Go",
+     "duracao": "3:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Scatter",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.5,
+    "fontes": 6
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Infestation_%28album%29",
+   "resumo_en": "Infestation is the seventh and final studio album by American glam metal band Ratt. It was released by Loud & Proud via Roadrunner Records, a then-sub-label of their longtime home Atlantic Records, on April 20, 2010. With the death of Robbin Crosby in 2002, guitar duty was taken over by Carlos Cavazo, formerly of Quiet Riot. The band would enter a turbulent period after the release of the album, and by 2018, all musicians had left except lead singer Stephen Pearcy. \nIn a February 17, 2010 interview with the Artisan News Service, Stephen Pearcy said of Infestation: \"We wanted this to be like something that we would have written right after [1984's] Out of the Cellar. We definitely went back to basics with the mind set of a band with a lot of excitement and some great songs to get out.\"\nIn a March 18, 2010 interview with Metalholic Magazine, guitarist Warren DeMartini said of Infestation: \"It really exceeded our expectations. Conceptually we kind of wanted to revisit the period of Out of the Cellar and Invasion of Your Privacy. We were sort of loosely trying to shoot for something that could fit between those two records. We were looking for more uptempo ideas and the double leads th"
+  }
+ ]
+}

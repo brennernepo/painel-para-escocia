@@ -1,0 +1,623 @@
+{
+ "id": "ill-nino",
+ "nome": "Ill Niño",
+ "cena": "Nu metal e correlatos",
+ "mbid": "91e2e08f-abd7-44d6-9a84-b8a4afa8a265",
+ "wikidata": "Q866410",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1999",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "nu metal",
+  "metal",
+  "metalcore",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ill_ni%C3%B1o_on_live.jpg/500px-Ill_ni%C3%B1o_on_live.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Ill_Ni%C3%B1o",
+ "resumo_pt": "Ill Niño é uma banda de nu metal dos Estados Unidos formada em 1998 em Nova Jersey. É composta pelos brasileiros Cristian Machado, Oscar Santiago, pelo multiétnico Ahrue Luster, os americanos Lazaro Pina, Diego Verduzco e o peruano Dave Chavarri.",
+ "resumo_en": "Ill Niño (Spanglish wordplay meaning \"ill child\"; stylized as ill niño) is a Latin American nu metal band formed in Union City, New Jersey, in 1998 by drummer Dave Chavarri, who remains the band's sole original member. They have released seven studio albums, two EPs, and one compilation album, with total worldwide album sales exceeding 1.3 million.",
+ "albuns": [
+  {
+   "id": "f9849afe-aa67-315d-a7c8-ca60d726ec7a",
+   "titulo": "Revolution Revolución",
+   "data": "2001-09-18",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/03ad22e6-2af8-4753-910f-a4d926f2887e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "God Save Us",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "If You Still Hate Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Unreal",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Nothing's Clear",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "What Comes Around",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Liar",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Rumba",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Predisposed",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "I Am Loco",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "No Murder",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Rip Out Your Eyes",
+     "duracao": "2:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Revolution Revolución",
+     "duracao": "3:30"
+    },
+    {
+     "n": 13,
+     "titulo": "With You",
+     "duracao": "3:56"
+    },
+    {
+     "n": 14,
+     "titulo": "Fallen",
+     "duracao": "3:38"
+    },
+    {
+     "n": 15,
+     "titulo": "Eye for an Eye (live)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 16,
+     "titulo": "God Save Us (live)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 17,
+     "titulo": "What Comes Around (Spanish version)",
+     "duracao": "3:46"
+    },
+    {
+     "n": 18,
+     "titulo": "Unreal (Spanish version)",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.8,
+    "fontes": 7
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Revolution_Revoluci%C3%B3n",
+   "resumo_en": "Revolution Revolución is the debut album by the American heavy metal band Ill Niño. It has sold over 430,000 copies worldwide. It was the only album to feature guitarist Marc Rizzo, who left the band in 2003 to join Soulfly, and percussionist Roger Vasquez, who also left in 2003 and was replaced by Daniel Couto for the second album, Confession. The album was recorded from November 2000 to February 2001."
+  },
+  {
+   "id": "0121371c-a925-38f5-af6e-9cddeac77aca",
+   "titulo": "Confession",
+   "data": "2003-09-29",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/7cacf134-b220-4a90-a46e-eca85c830b05/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Te amo… I Hate You",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "How Can I Live",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Two (Vaya con dios)",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Unframed",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Cleansing",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "This Time’s for Real",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Lifeless… Life…",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Numb",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Have You Ever Felt?",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "When It Cuts",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Letting Go",
+     "duracao": "3:18"
+    },
+    {
+     "n": 12,
+     "titulo": "All the Right Words",
+     "duracao": "4:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Re‐Birth",
+     "duracao": "2:53"
+    },
+    {
+     "n": 14,
+     "titulo": "How Can I Live (Spanish version)",
+     "duracao": "3:08"
+    },
+    {
+     "n": 15,
+     "titulo": "Someone or Something",
+     "duracao": "3:06"
+    },
+    {
+     "n": 16,
+     "titulo": "Make Me Feel",
+     "duracao": "3:08"
+    },
+    {
+     "n": 17,
+     "titulo": "I’ll Find a Way",
+     "duracao": "3:59"
+    },
+    {
+     "n": 18,
+     "titulo": "Forever",
+     "duracao": "3:09"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Confession_%28Ill_Ni%C3%B1o_album%29",
+   "resumo_en": "Confession is the second album released by the American heavy metal band Ill Niño. The album debuted at #37 in the Billboard Top 200 with first week sales of 27,863.  It is their most successful album to date, selling more than 600,000 copies worldwide by 2023. It was the first album to not feature Marc Rizzo, who left during recording to join Soulfly, and also the first to feature Ahrue Luster, formerly of Machine Head."
+  },
+  {
+   "id": "d48fda49-a213-378c-90e8-a0425963c38f",
+   "titulo": "One Nation Underground",
+   "data": "2005-09-19",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/cb02288e-213e-4ed1-939c-add8833d3793/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Is War",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "My Resurrection",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "What You Deserve",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Turns to Gray",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "De la Vida",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "La Liberacion of Our Awakening",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "All I Ask For",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Corazon of Mine",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Everything Beautiful",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "In This Moment",
+     "duracao": "3:23"
+    },
+    {
+     "n": 11,
+     "titulo": "My Pleasant Torture",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Barely Breathing",
+     "duracao": "1:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Violent Saint",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/One_Nation_Underground_%28Ill_Ni%C3%B1o_album%29",
+   "resumo_en": "One Nation Underground is the third album by Ill Niño and their final studio album released through Roadrunner. It debuted at No. 101 on the Billboard Top 200 with first week sales of nearly 11,000. Its sales of approximately 210,000 are well down on the near Gold selling Confession. This is the band's last album with guitarist Jardel Paisante."
+  },
+  {
+   "id": "d4bf48a5-fea9-32a7-bb0e-e1edc8dbb853",
+   "titulo": "Enigma",
+   "data": "2008-03-11",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/98e0a41e-232b-4ec0-a3da-4e678b88acab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Alibi of Tyrants",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Pieces of the Sun",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Finger Painting (With the Enemy)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "March Against Me",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Compulsion of Virus and Fever",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Formal Obsession",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Hot Summer’s Tragedy",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Me gusta la soledad",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "2012",
+     "duracao": "4:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Guerrilla Carnival",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Estoy perdido",
+     "duracao": "3:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Kellogg’s, Bombs, & Cracker Jacks",
+     "duracao": "4:03"
+    },
+    {
+     "n": 13,
+     "titulo": "De sangre hermosa",
+     "duracao": "3:59"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Enigma_%28Ill_Ni%C3%B1o_album%29",
+   "resumo_en": "Enigma is the fourth studio album by American heavy metal band Ill Niño, released in the United States on March 11, 2008 through Cement Shoes Records. The album's first single \"The Alibi of Tyrants\" was released to radio on April 22, 2007. The band has stated they would film three music videos from the album, including \"The Alibi of Tyrants\", \"Me Gusta La Soledad\" and \"Pieces of the Sun\". The album was originally set for a July 17, 2007 release, but was delayed on several occasions. The album is available on most digital distribution platforms, including iTunes.\nThe album debuted and peaked on the Billboard charts at No. 145, with first week's sales of 6,000 copies. By June 2010, the album had allegedly sold 80,000 copies worldwide. With a total length of over 50 minutes, it's the band's longest studio album to date, not counting special editions with bonus tracks."
+  },
+  {
+   "id": "bbc98191-6068-4b70-b537-ccd42c6c1ead",
+   "titulo": "Dead New World",
+   "data": "2010-10-25",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/4ab10b6f-bca7-47af-a62e-e05818c7cdb7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "God Is for the Dead",
+     "duracao": "2:54"
+    },
+    {
+     "n": 2,
+     "titulo": "The Art of War",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Against the Wall",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Mi Revolucion",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Bleed Like You",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Serve the Grave",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "If You Were Me",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Ritual",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Killing You, Killing Me",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "How Could I Believe",
+     "duracao": "4:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Bullet With Butterfly Wings",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Scarred",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dead_New_World",
+   "resumo_en": "Dead New World is the fifth studio album by American heavy metal band Ill Niño. The album was released on October 25, 2010, through Victory Records. The album has less Latin-music influence than their previous work."
+  },
+  {
+   "id": "b818dc75-fbe3-42ad-bc35-18339542494c",
+   "titulo": "Epidemia",
+   "data": "2012-10-22",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/8017bb79-3747-45a3-8126-786ae0e927b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Depression",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Only the Unloved",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "La Epidemia",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Eva",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Demi‐God",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Death Wants More",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Escape",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Time Won’t Save You",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Forgive Me Father",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Invisible People",
+     "duracao": "3:58"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Epidemia_%28album%29",
+   "resumo_en": "Epidemia is the sixth studio album released by American heavy metal band Ill Niño. It was released on October 22, 2012, through Victory Records and is the band's shortest studio album to date. It is also the last album to feature percussionist Daniel Couto, following his departure from the band in 2013, although he has since returned to the band as of 2019."
+  },
+  {
+   "id": "94b9dcee-c799-454e-9401-7a29bd5a62de",
+   "titulo": "Till Death, La Familia",
+   "data": "2014-07-22",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/244bddaa-b758-4d51-b83f-69c8abf8f302/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Live Like There's No Tomorrow",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Not Alive in My Nightmare",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm Not the Enemy",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Blood Is Thicker Than Water",
+     "duracao": "5:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Are We So Innocent",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Pray I Don't Find You",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "World So Cold",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Dead Friends",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Breaking the Rules",
+     "duracao": "3:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Payaso",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "My Bullet",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "media": 7.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Till_Death%2C_La_Familia",
+   "resumo_en": "Till Death, La Familia is the seventh studio album, released by American heavy metal band Ill Niño. The album was released on July 22, 2014, through Victory Records.\nThis is the last Ill Niño album to feature Cristian Machado on vocals, Ahrue Luster on lead guitar, Diego Verduzco on rhythm guitar, and the only Ill Nino album to feature Oscar Santiago on percussion."
+  }
+ ]
+}

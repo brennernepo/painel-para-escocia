@@ -1,0 +1,1478 @@
+{
+ "id": "judas-priest",
+ "nome": "Judas Priest",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "6b335658-22c8-485d-93de-0bc29a1d0349",
+ "wikidata": "Q83468",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "heavy metal",
+  "nwobhm",
+  "metal",
+  "hard rock",
+  "classic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Judas_Priest_-_Wacken_Open_Air_2018_01.jpg/500px-Judas_Priest_-_Wacken_Open_Air_2018_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Judas_Priest",
+ "resumo_pt": "Judas Priest é uma banda inglesa de heavy metal formada em Birmingham em 1969. Eles venderam mais de 50 milhões de álbuns e são frequentemente classificados como uma das maiores bandas de heavy metal de todos os tempos. Judas Priest também foi referido como um dos pioneiros da nova onda do movimento do heavy metal britânico (NWOBHM), e são citados como uma influência formativa em vários subgêneros do heavy metal, incluindo speed metal, thrash metal, e power metal, bem como a cena hard rock/glam metal da década de 1980. Apesar de um corpo de trabalho inovador e pioneiro na segunda metade da década de 1970, a banda lutou com a produção de discos mal avaliados e a falta de grande sucesso comercial até 1980, quando seu sexto álbum de estúdio British Steel trouxe-lhes notável atenção do mainstream.",
+ "resumo_en": "Judas Priest are an English heavy metal band formed in Birmingham in 1969. They have sold over 50 million albums and are frequently ranked as one of the greatest metal bands of all time. They have been referred to as one of the pioneers of the new wave of British heavy metal (NWOBHM) movement, and cited as a formative influence on metal subgenres, including speed metal, thrash metal, and power metal, as well as the hard rock and glam metal scenes of the 1980s. The band struggled without significant commercial success until 1980, when their sixth studio album British Steel brought mainstream attention.\nThe original line-up of Judas Priest included vocalist Al Atkins, bassist Bruno Stapenhill, drummer John Partridge and guitarist John Perry. The band cycled through numerous members over the next few years, including bassist Ian Hill and guitarist K. K. Downing who both joined in 1970. After Rob Halford replaced Atkins in 1973, Judas Priest were left with no original members, and Glenn Tipton joined as their second guitarist the following year. The core of Hill, Downing, Halford and Tipton saw a revolving cast of drummers (with only Les Binks playing on more than one album), before Dave Holland joined in 1979. Since Holland's departure in 1989, Scott Travis has been the band's drummer. Halford left in 1992, and after a four-year hiatus, Judas Priest regrouped in 1996 with Tim \"Ripper\" Owens (formerly of Winter's Bane) replacing him. After two albums with Owens, Halford returned ",
+ "albuns": [
+  {
+   "id": "a323f028-9a93-36af-ae53-c72c2d8fa3f2",
+   "titulo": "Rocka Rolla",
+   "data": "1974-08",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/fbf6e068-14e0-424f-91f7-dc4fa6f8b343/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One for the Road",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Rocka Rolla",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Winter",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Deep Freeze",
+     "duracao": "2:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Winter Retreat",
+     "duracao": "1:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Cheater",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Never Satisfied",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Run of the Mill",
+     "duracao": "8:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Dying to Meet You / Hero, Hero",
+     "duracao": "6:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Caviar and Meths",
+     "duracao": "2:00"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 7.5,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rocka_Rolla",
+   "resumo_en": ""
+  },
+  {
+   "id": "04b8ba32-4b02-3f06-a533-f9938b70b925",
+   "titulo": "Sad Wings of Destiny",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/8e38c7b8-958b-46b5-ad2f-9a328265780b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Victim of Changes",
+     "duracao": "7:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Ripper",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Dreamer Deceiver",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Deceiver",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Tyrant",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Genocide",
+     "duracao": "5:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Epitaph",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Island of Domination",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sad_Wings_of_Destiny",
+   "resumo_en": "Sad Wings of Destiny is the second studio album by English heavy metal band Judas Priest, released on 26 March 1976 by Gull Records. It is considered the album on which Judas Priest consolidated their sound and image, and songs from it such as \"Victim of Changes\" and \"The Ripper\" have since become live standards. It was the band's only album to feature drummer Alan Moore on every track.\nNoted for its riff-driven sound and the wide range of Rob Halford's vocals, the album displays a wide variety of styles, moods and textures, inspired by an array of groups such as Queen, Led Zeppelin, Deep Purple and Black Sabbath. The centrepiece \"Victim of Changes\" is a nearly eight-minute track featuring heavy riffing trading off with high-pitched vocals, extended guitar leads, and a slow, moody breakdown toward the end.  \"Tyrant\" and \"The Ripper\" are short, dense, high-powered rockers with many parts and changes.  Riffs and solos dominate \"Genocide\", \"Island of Domination\", and \"Deceiver\", and the band finds more laid-back moments in the crooning piano-backed \"Epitaph\" and the moody \"Dreamer Deceiver\".\nSad Wings of Destiny had a positive reception but weak sales. The band recorded their first tw"
+  },
+  {
+   "id": "7ce1b3f3-4524-3db3-a228-5624bafec8e0",
+   "titulo": "Sin After Sin",
+   "data": "1977-04-08",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/6e3944c5-3249-4733-81d4-2de3a075865a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sinner",
+     "duracao": "6:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Diamonds and Rust",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Starbreaker",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Last Rose of Summer",
+     "duracao": "5:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Let Us Prey",
+     "duracao": "6:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Call for the Priest / Raw Deal",
+     "duracao": "5:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Here Come the Tears",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Dissident Aggressor",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sin_After_Sin",
+   "resumo_en": "Sin After Sin is the third studio album by English heavy metal band Judas Priest, released on 8 April 1977 by Columbia Records, and on 22 April in the UK, by CBS Records. Produced by Deep Purple bassist Roger Glover, it was the band's major label debut, their first album for the label, and their only album to feature drummer Simon Phillips, a studio musician who replaced drummer Alan Moore for the recording sessions.\nThe album continues the revolutionary direction the band first took on Sad Wings of Destiny, this time incorporating elements that would later define thrash metal and speed metal, particularly on the songs \"Let Us Prey/Call of the Priest\" and \"Dissident Aggressor\". Despite this, and positive critical and commercial reception, the album has failed to achieve the acclaim Sad Wings of Destiny and their follow-up album, Stained Class have received."
+  },
+  {
+   "id": "c035f09e-430c-3510-9a4d-7cb33dd56ed8",
+   "titulo": "Stained Class",
+   "data": "1978-02-10",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/98f38b2c-3714-46e2-8db6-2e011d20a110/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Exciter",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "White Heat, Red Hot",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Better by You, Better Than Me",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Stained Class",
+     "duracao": "5:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Invader",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Saints in Hell",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Savage",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Beyond the Realms of Death",
+     "duracao": "6:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Heroes End",
+     "duracao": "5:03"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 9.4,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stained_Class",
+   "resumo_en": "Stained Class is the fourth studio album by English heavy metal band Judas Priest, released on 10 February 1978 by Columbia Records. It is the first of three Judas Priest albums recorded with drummer Les Binks, as well as the first to feature the band's now well-known logo in the artwork. Musically, Stained Class is considered the album on which the band honed many of the elements of their hard-edged signature sound, dispensing with most of the progressive and blues rock overtones and softer ballads of previous efforts.\nThe album features a cover version of \"Better by You Better than Me\" by Spooky Tooth, which became the subject of an infamous civil suit in 1990 which alleged the song subliminally influenced two teenaged boys to make a suicide pact. Other notable tracks include \"Exciter\", considered an early precursor to speed metal and thrash metal, and “Beyond the Realms of Death”, which is considered one of the band's greatest songs by many fans and frequently included in the band's live setlists.\nUpon release, Stained Class was a modest commercial success, reaching number 27 on the UK Albums Chart and becoming the band's first LP to enter the US Billboard 200; it was eventually"
+  },
+  {
+   "id": "6742f103-624f-3759-8182-f88e5b9b36cf",
+   "titulo": "Killing Machine",
+   "data": "1978-10-09",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/efdb73f5-fba4-41db-aa83-59b6fd2bfc82/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Delivering the Goods",
+     "duracao": "4:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock Forever",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Evening Star",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Hell Bent for Leather",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Take On the World",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Burnin' Up",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Killing Machine",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Running Wild",
+     "duracao": "2:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Before the Dawn",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Evil Fantasies",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8.5,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Killing_Machine",
+   "resumo_en": "Killing Machine (alternatively titled Hell Bent for Leather) is the fifth studio album by English heavy metal band Judas Priest, released in November 1978, by CBS Records internationally, and received a United States release on 28 February 1979, by Columbia Records. The album pushed the band towards a more commercial style while still featuring the dark lyrical themes of their previous albums. At about the same time, the band members adopted their now-famous \"leather-and-studs\" fashion image, inspired by Rob Halford's interest in\nleather culture. It is the band's last studio album to feature drummer Les Binks."
+  },
+  {
+   "id": "5bd56af7-2bd6-392e-a815-b39354e3780d",
+   "titulo": "British Steel",
+   "data": "1980-04-14",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/885e064d-994c-4c41-83e9-0d334361a3e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breaking the Law",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Rapid Fire",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Metal Gods",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Grinder",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "United",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Living After Midnight",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "You Don't Have to Be Old to Be Wise",
+     "duracao": "5:03"
+    },
+    {
+     "n": 8,
+     "titulo": "The Rage",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Steeler",
+     "duracao": "4:29"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.0,
+    "fontes": 6
+   },
+   "publico": 8.3,
+   "publico_votos": 19,
+   "wikipedia": "https://en.wikipedia.org/wiki/British_Steel_%28album%29",
+   "resumo_en": "British Steel is the sixth studio album by English heavy metal band Judas Priest, released on 11 April 1980 by CBS Records and in May 1980 in the US by Columbia Records. It was the band's first album to feature Dave Holland on drums.\nThe album is a continuation of the more streamlined, commercial sound of their previous album, Killing Machine, with shorter, less complex songs and lyrical themes that were less dark than their previous albums from the 1970s. \nThe album yielded three singles, \"Living After Midnight\", \"Breaking the Law\", and \"United\", all of which reached the top 40 of the UK Singles Charts, and the first two went on to become among Priest's most enduring airplay staples. Today, the album is regarded as an influential breakthrough for the band, and one of the earliest landmarks in the New Wave of British Heavy Metal movement."
+  },
+  {
+   "id": "2a295027-dccc-3ebf-8068-6b1defb47747",
+   "titulo": "Point of Entry",
+   "data": "1981-02-17",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/1f0415cb-04cb-45e9-8513-612ef27aa001/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heading Out to the Highway",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Go",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Hot Rockin’",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Turning Circles",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Desert Plains",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Solar Angels",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "You Say Yes",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "All the Way",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Troubleshooter",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "On the Run",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Point_of_Entry",
+   "resumo_en": "Point of Entry is the seventh studio album by English heavy metal band Judas Priest, released on 27 February 1981 by Columbia Records. Following the commercial success of their previous album British Steel (1980), Priest pursued a more radio-friendly direction on Point of Entry. Following the conclusion of the British Steel Tour, the band began work on their next project. By this time, the band possessed sufficient funds to fly all their equipment to the state-of-the-art Ibiza Studios in Spain. This gave Point of Entry a louder, stronger, more \"live\" sound than previous Judas Priest albums."
+  },
+  {
+   "id": "40f3885e-7158-3154-826d-676f2b79c6fb",
+   "titulo": "Screaming for Vengeance",
+   "data": "1982-07-17",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/2795da07-be3c-455a-b46a-084f63fb4c9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Hellion",
+     "duracao": "0:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Electric Eye",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Riding on the Wind",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Bloodstone",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "(Take These) Chains",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Pain and Pleasure",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Screaming for Vengeance",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "You've Got Another Thing Comin'",
+     "duracao": "5:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Fever",
+     "duracao": "5:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Devil's Child",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 7
+   },
+   "publico": 9.3,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Screaming_for_Vengeance",
+   "resumo_en": "Screaming for Vengeance is the eighth studio album by English heavy metal band Judas Priest, released on 1 July 1982 in the United States and on 9 July 1982 in the United Kingdom by Columbia Records. The album continues the more commercial, streamlined direction that their previous two albums, Point of Entry and British Steel had taken, albeit returning to a heavier, harder sound.\nConsidered the band's commercial breakthrough in North America, it has been certified double platinum in the United States and platinum in Canada. Screaming for Vengeance spawned the hit \"You've Got Another Thing Comin'\", which became one of the band's signature songs and a perennial radio favourite."
+  },
+  {
+   "id": "a00ff762-f474-39f0-9fa2-b5e24db7fd97",
+   "titulo": "Defenders of the Faith",
+   "data": "1984-01-04",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/03cd0b47-a597-469f-8c3e-7c6509ccf910/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Freewheel Burning",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Jawbreaker",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock Hard Ride Free",
+     "duracao": "5:34"
+    },
+    {
+     "n": 4,
+     "titulo": "The Sentinel",
+     "duracao": "5:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Bites",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Eat Me Alive",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Some Heads Are Gonna Roll",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Night Comes Down",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Heavy Duty",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Defenders of the Faith",
+     "duracao": "1:30"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.6,
+    "fontes": 7
+   },
+   "publico": 9.2,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Defenders_of_the_Faith",
+   "resumo_en": "Defenders of the Faith is the ninth studio album by English heavy metal band Judas Priest, released on 13 January 1984 in the US and on 20 January 1984 in the UK. The album was certified platinum by the RIAA, and spawned the singles \"Freewheel Burning\", \"Some Heads Are Gonna Roll\", and \"Love Bites\"."
+  },
+  {
+   "id": "ca8ab259-1720-37ad-8bf3-31c067f0e4de",
+   "titulo": "Turbo",
+   "data": "1986-04-14",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/284cba29-de07-4853-9def-631d895a8bdf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turbo Lover",
+     "duracao": "5:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Locked In",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Private Property",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Parental Guidance",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock You All Around the World",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Out in the Cold",
+     "duracao": "6:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Wild Nights, Hot & Crazy Days",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Hot for Love",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Reckless",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 7.8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Turbo_%28Judas_Priest_album%29",
+   "resumo_en": "Turbo is the tenth studio album by English heavy metal band Judas Priest, released in the UK on 7 April 1986 by Columbia Records. The album is notable for the band's change to a commercial glam metal sound, that had them using synthesisers for the first time.\nA remastered CD was released in 2001, including two bonus tracks. On 3 February 2017, the album was reissued as Turbo 30 for its 30th anniversary, including two CDs of a live performance at Kemper Arena in Kansas City, Missouri, on 22 May 1986."
+  },
+  {
+   "id": "8f9f2743-6299-3d1a-9191-b42ac1f279e2",
+   "titulo": "Ram It Down",
+   "data": "1988-05-17",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/1e74ce4f-29e0-48b6-bcc7-e8093f3e3d33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ram It Down",
+     "duracao": "4:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Heavy Metal",
+     "duracao": "5:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Zone",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Come and Get It",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Hard as Iron",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Blood Red Skies",
+     "duracao": "7:50"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m a Rocker",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Johnny B. Goode",
+     "duracao": "4:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Love You to Death",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Monsters of Rock",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": 7.6,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ram_It_Down",
+   "resumo_en": ""
+  },
+  {
+   "id": "384f9bb3-6437-386f-8f1e-ff7c1b772455",
+   "titulo": "Painkiller",
+   "data": "1990-09-03",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/1c1ae648-c81d-313f-9f75-cb48baa378ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Painkiller",
+     "duracao": "6:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Hell Patrol",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "All Guns Blazing",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Leather Rebel",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Metal Meltdown",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Night Crawler",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Between the Hammer & the Anvil",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "A Touch of Evil",
+     "duracao": "5:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Battle Hymn",
+     "duracao": "0:56"
+    },
+    {
+     "n": 10,
+     "titulo": "One Shot at Glory",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.9,
+    "fontes": 8
+   },
+   "publico": 9.1,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Painkiller_%28Judas_Priest_album%29",
+   "resumo_en": "Painkiller is the twelfth studio album by English heavy metal band Judas Priest, released on 17 September 1990 in Europe and on  and 18 September in the United States. The album was released following the band's highly publicised 1990 subliminal messages trial earlier that year, in which frontman Rob Halford and the band were cleared of civil charges and found not liable for the attempted suicides of two young men in December 1985 relating to the band's music.\nPainkiller was the last Judas Priest album to feature long-time vocalist Halford until his return for the 2005 album Angel of Retribution and the first to feature drummer Scott Travis."
+  },
+  {
+   "id": "13a24fdc-2fb4-3ca6-8304-0c2357f541de",
+   "titulo": "Jugulator",
+   "data": "1997-10-16",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/3d55baeb-af77-4481-937e-080f15b3f0ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jugulator",
+     "duracao": "5:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Blood Stained",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Meat",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Death Row",
+     "duracao": "5:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Decapitate",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Burn in Hell",
+     "duracao": "6:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Brain Dead",
+     "duracao": "5:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Abductors",
+     "duracao": "5:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Bullet Train",
+     "duracao": "5:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Cathedral Spires",
+     "duracao": "9:18"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.3,
+    "fontes": 3
+   },
+   "publico": 6.9,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jugulator",
+   "resumo_en": "Jugulator is the thirteenth studio album by English heavy metal band Judas Priest. It was released in Japan on 16 October 1997 and the rest of the world on 28 October 1997, by German record label SPV. It was their first studio album since Painkiller in 1990 and the first of two studio albums to include lead vocalist Tim \"Ripper\" Owens, replacing Rob Halford who left the band in 1992. \nJugulator is the only Judas Priest album that has never been released on any major digital media website, due to the bankruptcy of the record label and complicated rights issues.\nThe album was reissued as part of the band's limited edition 50 Heavy Metal Years of Music box-set, released on October 2021, through Sony Music Entertainment and Legacy Recordings."
+  },
+  {
+   "id": "53cfffd1-c126-3156-9adc-ba32a735ad16",
+   "titulo": "Demolition",
+   "data": "2001-07-14",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/c0185954-22e4-388b-8c37-b4b317afb817/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Machine Man",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "One on One",
+     "duracao": "6:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Hell Is Home",
+     "duracao": "6:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Jekyll and Hyde",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Close to You",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Devil Digger",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Bloodsuckers",
+     "duracao": "6:18"
+    },
+    {
+     "n": 8,
+     "titulo": "In Between",
+     "duracao": "5:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Feed on Me",
+     "duracao": "5:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Subterfuge",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Lost and Found",
+     "duracao": "4:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Cyberface",
+     "duracao": "6:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Metal Messiah",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.4,
+    "fontes": 5
+   },
+   "publico": 6.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Demolition_%28Judas_Priest_album%29",
+   "resumo_en": "Demolition is the fourteenth studio album by English heavy metal band Judas Priest, and the first in the decade of the 2000s. It is the second and final studio album to feature Tim \"Ripper\" Owens on vocals. It is also the only Judas Priest studio album to feature a Parental Advisory label on the album cover due to the songs \"Machine Man\", \"Hell Is Home\", and \"Metal Messiah\" containing profanity.\nIn October 2021, the album was reissued as part of the band's limited edition 50 Heavy Metal Years of Music box-set, through Sony Music Entertainment and Legacy Recordings."
+  },
+  {
+   "id": "14801eea-668c-3f50-bd59-b7c0bcbf3145",
+   "titulo": "Angel of Retribution",
+   "data": "2005-01-27",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/1e957247-9775-454a-929b-81ea9722caba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Judas Rising",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Deal With the Devil",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Revolution",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Worth Fighting For",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Demonizer",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Wheels of Fire",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Angel",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Hellrider",
+     "duracao": "6:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Eulogy",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Lochness",
+     "duracao": "13:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Documentary: Reunited",
+     "duracao": "39:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Breaking the Law (live)",
+     "duracao": "2:26"
+    },
+    {
+     "n": 13,
+     "titulo": "Metal Gods (live)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 14,
+     "titulo": "A Touch of Evil (live)",
+     "duracao": "5:38"
+    },
+    {
+     "n": 15,
+     "titulo": "Hell Bent for Leather (live)",
+     "duracao": "3:49"
+    },
+    {
+     "n": 16,
+     "titulo": "The Hellion / Electric Eye (live)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 17,
+     "titulo": "Diamonds and Rust (live)",
+     "duracao": "4:16"
+    },
+    {
+     "n": 18,
+     "titulo": "Living After Midnight (live)",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 121,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 69,
+    "media": 6.8,
+    "fontes": 9
+   },
+   "publico": 7.8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Angel_of_Retribution",
+   "resumo_en": "Angel of Retribution is the fifteenth studio album by English heavy metal band Judas Priest, released in 2005. It is the band's first album since 1990s Painkiller to feature Rob Halford. The album debuted at No. 13 on the US Billboard 200 chart, which makes it the fourth highest charting Judas Priest album in the US. The album was produced by Roy Z, who co-wrote the song \"Deal with the Devil\". It won a 2005 Metal Hammer award for Best Album. In the 2005 Burrn! magazine Readers' Pop Poll, it was voted Best Album of the Year and Best Album Cover."
+  },
+  {
+   "id": "19a085d1-21de-371d-8715-87779489154d",
+   "titulo": "Nostradamus",
+   "data": "2008-06-13",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/a0233b27-b912-4fc1-9af6-6bcacd1d4fc4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dawn of Creation",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Prophecy",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Awakening",
+     "duracao": "0:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Revelations",
+     "duracao": "7:05"
+    },
+    {
+     "n": 5,
+     "titulo": "The Four Horsemen",
+     "duracao": "1:35"
+    },
+    {
+     "n": 6,
+     "titulo": "War",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Sands of Time",
+     "duracao": "2:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Pestilence and Plague",
+     "duracao": "5:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Death",
+     "duracao": "7:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Peace",
+     "duracao": "2:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Conquest",
+     "duracao": "4:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Lost Love",
+     "duracao": "4:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Persecution",
+     "duracao": "6:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Solitude",
+     "duracao": "1:22"
+    },
+    {
+     "n": 15,
+     "titulo": "Exiled",
+     "duracao": "6:32"
+    },
+    {
+     "n": 16,
+     "titulo": "Alone",
+     "duracao": "7:50"
+    },
+    {
+     "n": 17,
+     "titulo": "Shadows in the Flame",
+     "duracao": "1:10"
+    },
+    {
+     "n": 18,
+     "titulo": "Visions",
+     "duracao": "5:24"
+    },
+    {
+     "n": 19,
+     "titulo": "Hope",
+     "duracao": "2:09"
+    },
+    {
+     "n": 20,
+     "titulo": "New Beginnings",
+     "duracao": "4:56"
+    },
+    {
+     "n": 21,
+     "titulo": "Calm Before the Storm",
+     "duracao": "2:05"
+    },
+    {
+     "n": 22,
+     "titulo": "Nostradamus",
+     "duracao": "6:43"
+    },
+    {
+     "n": 23,
+     "titulo": "Future of Mankind",
+     "duracao": "8:29"
+    }
+   ],
+   "duracao_min": 103,
+   "critica": {},
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nostradamus_%28album%29",
+   "resumo_en": "Nostradamus is the sixteenth studio album by the English heavy metal band Judas Priest. It is the band's first studio double album and first concept album, telling the life story of Nostradamus.  \nInitially announced for release in late 2006, the album's launch was postponed to 2007 before it was ultimately released on 16 June 2008 on Epic Records. It is the final Judas Priest studio album to feature the Painkiller-era lineup with guitarist and founding-member K. K. Downing leaving the band in April 2011.  \nTo promote the album, Judas Priest toured with Motörhead, Heaven & Hell, and Testament on the Metal Masters Tour in August 2008. This was followed by a world tour in 2008 and 2009 in support of the album."
+  },
+  {
+   "id": "289cd041-e5fb-4cbe-8a8c-608d95281bd4",
+   "titulo": "Redeemer of Souls",
+   "data": "2014-07-08",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/02c039d5-f963-49cd-bf65-b2d08b4739a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dragonaut",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Redeemer of Souls",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Halls of Valhalla",
+     "duracao": "6:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Sword of Damocles",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "March of the Damned",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Down in Flames",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Hell & Back",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Cold Blooded",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Metalizer",
+     "duracao": "4:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Crossfire",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Secrets of the Dead",
+     "duracao": "5:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Battle Cry",
+     "duracao": "5:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Beginning of the End",
+     "duracao": "5:08"
+    },
+    {
+     "n": 14,
+     "titulo": "Snakebite",
+     "duracao": "3:14"
+    },
+    {
+     "n": 15,
+     "titulo": "Tears of Blood",
+     "duracao": "4:19"
+    },
+    {
+     "n": 16,
+     "titulo": "Creatures",
+     "duracao": "4:25"
+    },
+    {
+     "n": 17,
+     "titulo": "Bring It On",
+     "duracao": "3:18"
+    },
+    {
+     "n": 18,
+     "titulo": "Never Forget",
+     "duracao": "6:25"
+    }
+   ],
+   "duracao_min": 84,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 74,
+    "media": 7.7,
+    "fontes": 10
+   },
+   "publico": 9.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Redeemer_of_Souls",
+   "resumo_en": "Redeemer of Souls is the seventeenth studio album by English heavy metal band Judas Priest, which was released in the US on 8  July 2014, in Europe on 11 July, and in the UK on 14 July. It is their first album without founding guitarist K. K. Downing, who quit the band in 2011 and was replaced by new guitarist Richie Faulkner. It also marks the band's last album to be produced by Glenn Tipton. The album sold around 32,000 copies in the United States in its first week of release to peak at No. 6 on the Billboard 200 chart, marking the band's first top 10 album debut in the US.  It has sold 110,000 copies in the US as of February 2016."
+  },
+  {
+   "id": "9a88237d-083c-41a3-ba99-7451bdd78115",
+   "titulo": "Firepower",
+   "data": "2018-03-07",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/2fd1e3a9-a28e-4b2e-b78d-e51277bb4bce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Firepower",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Lightning Strike",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Evil Never Dies",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Never the Heroes",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Necromancer",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Children of the Sun",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Guardians",
+     "duracao": "1:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Rising From Ruins",
+     "duracao": "5:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Flame Thrower",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Spectre",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Traitors Gate",
+     "duracao": "5:43"
+    },
+    {
+     "n": 12,
+     "titulo": "No Surrender",
+     "duracao": "2:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Lone Wolf",
+     "duracao": "5:09"
+    },
+    {
+     "n": 14,
+     "titulo": "Sea of Red",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 77,
+    "media": 7.8,
+    "fontes": 10
+   },
+   "publico": 8.7,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Firepower_%28album%29",
+   "resumo_en": "Firepower is the eighteenth studio album by English heavy metal band Judas Priest. Released in 2018, it was the band's first studio album since 1988's Ram It Down to be produced by Tom Allom and the first one with Andy Sneap as co-producer. The album sold around 49,000 copies in the United States within its first week of release, debuting at No. 5 on the Billboard 200 chart, making it the band's highest-charting album in the US. The album also reached No. 5 in the UK, making it their first top-ten album in the UK since British Steel. Music videos were made for \"Lightning Strike\", \"Spectre\" and \"No Surrender\". A lyric video was made for \"Never the Heroes\". The record also produced three singles."
+  },
+  {
+   "id": "21ec2311-2d78-4b60-9e4d-bbc696c1c2fa",
+   "titulo": "Invincible Shield",
+   "data": "2024-03-06",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/ed925497-60f9-41ee-b925-85c74cd3cfdd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Panic Attack",
+     "duracao": "5:25"
+    },
+    {
+     "n": 2,
+     "titulo": "The Serpent and the King",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Invincible Shield",
+     "duracao": "6:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Devil in Disguise",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Gates of Hell",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Crown of Horns",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "As God Is My Witness",
+     "duracao": "4:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Trial by Fire",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Escape From Reality",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Sons of Thunder",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Giants in the Sky",
+     "duracao": "5:03"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 80,
+    "media": 8.3,
+    "fontes": 10
+   },
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Invincible_Shield",
+   "resumo_en": "Invincible Shield is the nineteenth studio album by English heavy metal band Judas Priest, released on 6 March 2024 by Sony in Japan, and globally two days later through Columbia and Epic Records. It was produced by the band's touring guitarist Andy Sneap, who also produced 2018's Firepower, while the album's last two tracks (\"Sons of Thunder\" and \"Giants in the Sky\") were co-produced by Tom Allom. It is Judas Priest's final album to feature longtime bassist Ian Hill, who retired in October 2026.\nThe album debuted at number two on the UK Albums Chart, the highest position in the band's discography to date. In the US, it debuted at number 18 on the Billboard 200 and topped the spot for the Billboard Top Hard Rock Albums chart, earning 25,000 album-equivalent units in its first week."
+  }
+ ]
+}

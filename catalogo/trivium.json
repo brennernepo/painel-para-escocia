@@ -1,0 +1,915 @@
+{
+ "id": "trivium",
+ "nome": "Trivium",
+ "cena": "Nu metal e correlatos",
+ "mbid": "1f5ff245-2837-4d4a-a609-e93e544478c3",
+ "wikidata": "Q390684",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "2000",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "metalcore",
+  "thrash metal",
+  "heavy metal",
+  "melodic metalcore",
+  "progressive metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Trivium_live_2008.jpg/500px-Trivium_live_2008.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Trivium",
+ "resumo_pt": "Trivium é uma banda norte-americana de heavy metal formada em 1999, originária de Orlando, Flórida. A banda já lançou dez álbuns de estúdio.",
+ "resumo_en": "Trivium is an American heavy metal band from Orlando, Florida, formed in 1999. The band's creative core comprises three long-time members; vocalist and guitarist Matt Heafy (joined in 1999), guitarist Corey Beaulieu (joined in 2003), and bassist Paolo Gregoletto (joined in 2004). The band has changed drummers numerous times, with Alex Rüdinger becoming the most recent addition in October 2025.\nThe band's debut album Ember to Inferno was their only album released through Lifeforce Records in 2003. In 2004, they were signed to Roadrunner Records where they have stayed ever since. The band has released ten studio albums and over twenty singles to date. Their tenth studio album, In the Court of the Dragon, was released in 2021. The band has sold over one million albums worldwide and was nominated for a Grammy for the song \"Betrayer\" at the 61st Annual Grammy Awards in 2019 for Best Metal Performance.",
+ "albuns": [
+  {
+   "id": "0e5bd95a-e94a-32f0-a29e-0857f11a2d06",
+   "titulo": "Ember to Inferno",
+   "data": "2003-09-29",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/d8f070fd-ee88-4474-8119-4ba5e318ed41/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Inception the Bleeding Skies",
+     "duracao": "0:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Pillars of Serpents",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "If I Could Collapse the Masses",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Fugue (A Revelation)",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Requiem",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Ember to Inferno",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Ashes",
+     "duracao": "0:53"
+    },
+    {
+     "n": 8,
+     "titulo": "To Burn the Eye",
+     "duracao": "7:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Falling to Grey",
+     "duracao": "5:36"
+    },
+    {
+     "n": 10,
+     "titulo": "My Hatred",
+     "duracao": "4:34"
+    },
+    {
+     "n": 11,
+     "titulo": "When All Light Dies",
+     "duracao": "6:23"
+    },
+    {
+     "n": 12,
+     "titulo": "A View of Burning Empires",
+     "duracao": "1:48"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.3,
+    "fontes": 3
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ember_to_Inferno",
+   "resumo_en": "Ember to Inferno is the debut studio album by American heavy metal band Trivium. It was released on October 14, 2003, through Lifeforce Records and was produced by Jason Suecof and the band themselves."
+  },
+  {
+   "id": "54b8b44e-4153-3fc2-af0a-70c9c72ab9d3",
+   "titulo": "Ascendancy",
+   "data": "2005-03-13",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/2b2a12f3-19ef-4651-9f59-b55cf027a411/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The End of Everything",
+     "duracao": "1:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Rain",
+     "duracao": "4:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Pull Harder on the Strings of Your Martyr",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Drowned and Torn Asunder",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Ascendancy",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "A Gunshot to the Head of Trepidation",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Like Light to the Flies",
+     "duracao": "5:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Dying in Your Arms",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "The Deceived",
+     "duracao": "5:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Suffocating Sight",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Departure",
+     "duracao": "5:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Declaration",
+     "duracao": "7:00"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ascendancy_%28album%29",
+   "resumo_en": "Ascendancy is the second studio album by American heavy metal band Trivium. It was released on March 15, 2005 through Roadrunner Records and was produced by Jason Suecof and Matt Heafy."
+  },
+  {
+   "id": "0808245a-6ec5-3036-9bb0-7e225a719034",
+   "titulo": "The Crusade",
+   "data": "2006-10-04",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/8d63fc56-caae-4fc6-a432-89caa84ce4bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ignition",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Detonation",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Entrance of the Conflagration",
+     "duracao": "4:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Anthem (We Are the Fire)",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Unrepentant",
+     "duracao": "4:51"
+    },
+    {
+     "n": 6,
+     "titulo": "And Sadness Will Sear",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Becoming the Dragon",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "To the Rats",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "This World Can't Tear Us Apart",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Tread the Floods",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Contempt Breeds Contamination",
+     "duracao": "4:28"
+    },
+    {
+     "n": 12,
+     "titulo": "The Rising",
+     "duracao": "3:45"
+    },
+    {
+     "n": 13,
+     "titulo": "The Crusade",
+     "duracao": "8:19"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Crusade_%28album%29",
+   "resumo_en": "The Crusade is the third studio album by American heavy metal band Trivium. It was released on October 10, 2006, through Roadrunner Records and was produced by Jason Suecof and the band themselves. The album marked a significant musical change from the metalcore sound of their preceding album Ascendancy, with the band utilizing thrash metal influences. Accordingly, vocalist/guitarist Matt Heafy sings with primarily clean vocals throughout The Crusade, rather than utilizing the screaming style heard on Ascendancy.\nThe Crusade peaked at number 7 in United Kingdom and was later certified silver in for sales in excess of 60,000 copies. In the United States, the album debuted at No. 25 on the US Billboard 200 albums chart on its release, selling 31,000 copies in the US in its first week. It has sold over 100,000 copies in the United States."
+  },
+  {
+   "id": "2803e437-51cc-305e-a8fe-2daba8901eac",
+   "titulo": "Shogun",
+   "data": "2008-09-24",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/32540cc4-c3d4-35d7-844e-628d96e23d5f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kirisute Gomen",
+     "duracao": "6:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Torn Between Scylla and Charybdis",
+     "duracao": "6:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Down from the Sky",
+     "duracao": "5:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Into the Mouth of Hell We March",
+     "duracao": "5:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Throes of Perdition",
+     "duracao": "5:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Insurrection",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "The Calamity",
+     "duracao": "4:58"
+    },
+    {
+     "n": 8,
+     "titulo": "He Who Spawned the Furies",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Of Prometheus and the Crucifix",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Like Callisto to a Star in Heaven",
+     "duracao": "5:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Shogun",
+     "duracao": "11:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Poison, the Knife or the Noose",
+     "duracao": "4:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Upon the Shores",
+     "duracao": "5:21"
+    },
+    {
+     "n": 14,
+     "titulo": "Iron Maiden",
+     "duracao": "3:43"
+    },
+    {
+     "n": 15,
+     "titulo": "The Making of Shogun",
+     "duracao": "52:53"
+    },
+    {
+     "n": 16,
+     "titulo": "Shogun on Guitar",
+     "duracao": "22:25"
+    },
+    {
+     "n": 17,
+     "titulo": "Shogun on Bass",
+     "duracao": "9:15"
+    }
+   ],
+   "duracao_min": 164,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 66,
+    "media": 7.6,
+    "fontes": 8
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shogun_%28Trivium_album%29",
+   "resumo_en": "Shogun (将軍, Shōgun)  is the fourth studio album by American heavy metal band Trivium. The album was released worldwide on various dates between September 23, 2008, and October 1, 2008, through Roadrunner Records. It is their last release to feature original drummer Travis Smith. Work on the album is noted to have begun with producer Nick Raskulinecz in October 2007, with the band stating that they chose not to work with Jason Suecof again as they wanted to explore new ideas.\nIt was cited as the band's best album by Bryan Rolli of Loudwire in 2025."
+  },
+  {
+   "id": "61fa3366-d19f-4e36-aeb6-5bd36edaf898",
+   "titulo": "In Waves",
+   "data": "2011-08-02",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/0992f0b5-b237-4154-a417-d36978ca9ba4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Capsizing the Sea",
+     "duracao": "1:30"
+    },
+    {
+     "n": 2,
+     "titulo": "In Waves",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Inception of the End",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Dusk Dismantled",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Watch the World Burn",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Black",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "A Skyline’s Severance",
+     "duracao": "4:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Built to Fall",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Caustic Are the Ties That Bind",
+     "duracao": "5:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Forsake Not the Dream",
+     "duracao": "5:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Chaos Reigns",
+     "duracao": "4:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Of All These Yesterdays",
+     "duracao": "4:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Leaving This World Behind",
+     "duracao": "1:32"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 66,
+    "media": 6.4,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_Waves_%28Trivium_album%29",
+   "resumo_en": "In Waves is the fifth studio album by American heavy metal band Trivium. It was released worldwide during August 2011 through Roadrunner Records and was produced by Colin Richardson and Martyn \"Ginge\" Ford."
+  },
+  {
+   "id": "0eeb7101-2117-4d1b-a20a-ef0349449cc8",
+   "titulo": "Vengeance Falls",
+   "data": "2013-10-09",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/79f7bdfc-51f1-4208-9a86-42b087ac1194/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brave This Storm",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Vengeance Falls",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Strife",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "No Way to Heal",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "To Believe",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "At the End of This War",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Through Blood and Dirt and Bone",
+     "duracao": "4:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Villainy Thrives",
+     "duracao": "4:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Incineration: The Broken World",
+     "duracao": "5:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Wake (The End Is Nigh)",
+     "duracao": "6:00"
+    },
+    {
+     "n": 11,
+     "titulo": "No Hope for the Human Race",
+     "duracao": "3:59"
+    },
+    {
+     "n": 12,
+     "titulo": "As I Am Exploding",
+     "duracao": "5:51"
+    },
+    {
+     "n": 13,
+     "titulo": "Skulls… We Are 138",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 74,
+    "media": 7.7,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vengeance_Falls",
+   "resumo_en": "Vengeance Falls is the sixth studio album by American heavy metal band Trivium. It was released October 10, 2013, in Japan, October 14, 2013, in UK, and October 15, 2013, in US through Roadrunner Records and was produced by David Draiman, the lead vocalist of the band Disturbed. It is the second and last album to feature drummer Nick Augusto before his departure from the band in May 2014."
+  },
+  {
+   "id": "83d51a09-0748-49f3-820e-f56e21fe22b0",
+   "titulo": "Silence in the Snow",
+   "data": "2015-10-02",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/05771ef2-9116-4144-918c-4d8e2ade6cec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Snøfall",
+     "duracao": "1:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Silence in the Snow",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Blind Leading the Blind",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Dead and Gone",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "The Ghost That’s Haunting You",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Pull Me From the Void",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Until the World Goes Cold",
+     "duracao": "5:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Rise Above the Tides",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "The Thing That’s Killing Me",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Beneath the Sun",
+     "duracao": "3:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Breathe in the Flames",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 80,
+    "media": 7.2,
+    "fontes": 8
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Silence_in_the_Snow",
+   "resumo_en": "Silence in the Snow is the seventh studio album by American heavy metal band Trivium. Released on October 2, 2015, through Roadrunner Records, it is the band's only album to feature third drummer Mat Madiro, who joined the band in May 2014 and departed in December 2015. It is also the band's only album to date to not feature any harsh vocals. Michael \"Elvis\" Baskette was hired as the producer whom the band had met while recording In Waves album back in 2011.\nThe band premiered \"Silence in the Snow\" and \"Blind Leading the Blind\" on their headlining performance on Bloodstock Open Air. \"Blind Leading the Blind\" was later released as a single on YouTube August 13, 2015. On August 21, 2015, a music video was released on YouTube for \"Blind Leading the Blind\".\nThe third single \"Until the World Goes Cold\" premiered on Octane on August 26, 2015. The music video premiered on YouTube the day after. The single landed on No. 10 at Top 10 Active Rock chart in February 2016, making it first ever Trivium single in the Top 10.\nOn September 25, 2015, a week prior the worldwide release, the entire album (including two bonus tracks) was officially streamed on Octane. Heafy, Beaulieu and Gregoletto wer"
+  },
+  {
+   "id": "0b9cf904-2c08-4739-b552-21f5d6986350",
+   "titulo": "The Sin and the Sentence",
+   "data": "2017-10-20",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/133005c4-e92a-44d3-a5a2-4f888a2cbc7b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Sin and the Sentence",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Beyond Oblivion",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Other Worlds",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "The Heart From Your Hate",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Betrayer",
+     "duracao": "5:27"
+    },
+    {
+     "n": 6,
+     "titulo": "The Wretchedness Inside",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Endless Night",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Sever the Hand",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Beauty in the Sorrow",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "The Revanchist",
+     "duracao": "7:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Thrown Into the Fire",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Sin_and_the_Sentence",
+   "resumo_en": "The Sin and the Sentence is the eighth studio album by American heavy metal band Trivium. It was released on October 20, 2017, through Roadrunner Records and was produced by Josh Wilbur. The album is the first to feature drummer Alex Bent who replaced Paul Wandtke. This album marks the return of frontman Matt Heafy's screaming vocals which had been absent for a period due to Heafy suffering a vocal cord injury.\nThe album received critical acclaim, with the song \"Betrayer\" being nominated at 61st Annual Grammy Awards in 2019 for Best Metal Performance."
+  },
+  {
+   "id": "6ae53f0e-0436-475a-8406-2b422d4adcd9",
+   "titulo": "What the Dead Men Say",
+   "data": "2020-04-24",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/0fe148ea-9359-466d-a931-2d3e92b843a2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "IX",
+     "duracao": "1:58"
+    },
+    {
+     "n": 2,
+     "titulo": "What the Dead Men Say",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Catastrophist",
+     "duracao": "6:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Amongst the Shadows & the Stones",
+     "duracao": "5:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Bleed Into Me",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "The Defiant",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Sickness Unto You",
+     "duracao": "6:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Scattering the Ashes",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Bending the Arc to Fear",
+     "duracao": "4:45"
+    },
+    {
+     "n": 10,
+     "titulo": "The Ones We Leave Behind",
+     "duracao": "4:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Bleed Into Me (acoustic)",
+     "duracao": "3:45"
+    },
+    {
+     "n": 12,
+     "titulo": "Scattering the Ashes (acoustic)",
+     "duracao": "3:04"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 84,
+    "media": 8.8,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/What_the_Dead_Men_Say_%28album%29",
+   "resumo_en": "What the Dead Men Say is the ninth studio album by American heavy metal band Trivium. It was released on April 24, 2020, through Roadrunner Records and was produced by Josh Wilbur."
+  },
+  {
+   "id": "b9f9612d-fb59-4bf3-b0dc-d6bd3aa76245",
+   "titulo": "In the Court of the Dragon",
+   "data": "2021-10-08",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/0e79db43-c688-4fc0-8859-7aa13696ae5d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "X",
+     "duracao": "1:28"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Court of the Dragon",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Like a Sword Over Damocles",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Feast of Fire",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "A Crisis of Revelation",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "The Shadow of the Abattoir",
+     "duracao": "7:12"
+    },
+    {
+     "n": 7,
+     "titulo": "No Way Back Just Through",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Fall Into Your Hands",
+     "duracao": "7:45"
+    },
+    {
+     "n": 9,
+     "titulo": "From Dawn to Decadence",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "The Phalanx",
+     "duracao": "7:16"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.8,
+    "fontes": 10
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_the_Court_of_the_Dragon",
+   "resumo_en": "In the Court of the Dragon is the tenth studio album by American heavy metal band Trivium. It was released on October 8, 2021, through Roadrunner Records and was produced by Josh Wilbur. This is the band's last studio album to feature drummer Alex Bent, who parted ways with the band in early October 2025."
+  },
+  {
+   "id": "b1183c53-78c8-44dd-8344-6de01ad473c2",
+   "titulo": "Crown in the Grave",
+   "data": "2026-11-20",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/72e72e50-bbe4-4e34-b5b2-19a6508bf22d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jorōgumo",
+     "duracao": "1:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Crown in the Grave",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Inside of Me",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "The Terror",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "The Haunting Never Ends",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Lie of It All",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Blackout the Dawn",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Paradise of Sinners",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Death Throes",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "The Agony",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Devour Your Dreams",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Serpent in the Flame",
+     "duracao": "5:45"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

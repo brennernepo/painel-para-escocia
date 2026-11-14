@@ -1,0 +1,898 @@
+{
+ "id": "bad-company",
+ "nome": "Bad Company",
+ "cena": "Hard rock",
+ "mbid": "0053dbd9-bfbc-4e38-9f08-66a27d914c38",
+ "wikidata": "Q745517",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1973",
+ "fim": "2023",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "hard rock",
+  "aor",
+  "rock",
+  "classic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bad_Company_-_1976.jpg/500px-Bad_Company_-_1976.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bad_Company_%28banda%29",
+ "resumo_pt": "Bad Company é um supergrupo inglês de hard rock formada em 1973, com sucessos como \"Shooting Star\", \"Bad Company\", \"Can't Get Enough\", \"Feel Like Makin' Love\", \"Ready for Love\" e \"Silver, Blue and Gold\".\nSua formação original foi composta por Paul Rodgers (vocal), Simon Kirke (bateria), Mick Ralphs (guitarra) e Boz Burrell (baixo).\nSeu último álbum foi Merchants of Cool (2002), uma compilação ao vivo, com os principais sucessos e mais duas canções novas gravadas em estúdio: \"Saving Grace\" e \"Joe Fabulous\".",
+ "resumo_en": "Bad Company were an English rock supergroup formed in London in 1973 by singer Paul Rodgers and drummer Simon Kirke, both formerly members of Free, former Mott the Hoople guitarist Mick Ralphs and former King Crimson bassist Boz Burrell. Only Kirke remained a member throughout the band's entire run, and he and Ralphs were the only members to appear on every studio album. Peter Grant, who managed the rock band Led Zeppelin, also managed Bad Company until 1982. Burrell died in 2006, and Ralphs in 2025, leaving Kirke and Rodgers as the surviving members of the original line-up.\nBad Company enjoyed great success throughout the 1970s. Their first three albums, Bad Company (1974), Straight Shooter (1975) and Run with the Pack (1976), reached the top five in the album charts in both the UK and the US. Many of their singles and songs, such as \"Bad Company\", \"Can't Get Enough\" (1974), \"Feel Like Makin' Love\" (1975), \"Shooting Star\" (1975),  \"Burnin' Sky\" (1977) and \"Rock 'n' Roll Fantasy\" (1979), remain staples of classic rock radio. They have sold 20 million RIAA-certified albums in the US and 40 million worldwide. Though they initially disbanded in 1982, Bad Company reunited on many occasions to record and tour, until 2019 when Rodgers suffered a major stroke. In 2023, Kirke revealed that they would not continue as a band following the development of Rodgers' health issues.\nBad Company were inducted into the Rock and Roll Hall of Fame in 2025.",
+ "albuns": [
+  {
+   "id": "1f67788b-223d-3f28-b972-7f07c9418ed0",
+   "titulo": "Bad Company",
+   "data": "1974-06-15",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/71ffbd9d-6c77-49c7-aa80-f84f5a0d016b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Can’t Get Enough",
+     "duracao": "4:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock Steady",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Ready for Love",
+     "duracao": "5:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Let Me Down",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Company",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "The Way I Choose",
+     "duracao": "5:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Movin’ On",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Seagull",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 7.2,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bad_Company_%28album%29",
+   "resumo_en": "Bad Company is the debut studio album by Bad Company, a 1970s English hard rock supergroup. The album was recorded at Headley Grange with Ronnie Lane's Mobile Studio in November 1973, and it was the second album released on Led Zeppelin's Swan Song Records label.\nAmong the songs recorded during the album sessions were two covers of tracks originally by members' previous bands — specifically, Mott the Hoople's \"Ready for Love\" (recorded while Mick Ralphs was with the band and released on their 1972 album All the Young Dudes) and \"Easy on My Soul\" (recorded by Paul Rodgers and Simon Kirke with Free and released on Heartbreaker in 1973). The latter did not make the final album, but was released as the B-side to second single \"Movin' On\"."
+  },
+  {
+   "id": "2c04157b-3213-34ba-b21c-3865facf20ac",
+   "titulo": "Straight Shooter",
+   "data": "1975-04-12",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/1b59e2f4-5cb4-411f-8489-69eabf8b001c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Lovin' Gone Bad",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Feel Like Makin' Love",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Weep No More",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Shooting Star",
+     "duracao": "6:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Deal With the Preacher",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Wild Fire Woman",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Anna",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Call on Me",
+     "duracao": "6:02"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Straight_Shooter_%28Bad_Company_album%29",
+   "resumo_en": "Straight Shooter is the second studio album by the English hard rock supergroup Bad Company. The album was released on 28 March 1975.\nThe album reached number 3 on both the UK Albums Chart and the US Billboard 200. It was certified gold (500,000 units sold) by the Recording Industry Association of America a month after its release. The album was remastered and re-released in 1994.\nThe track \"Shooting Star\" (written by lead singer Paul Rodgers) was lyrically inspired by the drug and alcohol-related deaths of guitarist Jimi Hendrix and other rock musicians."
+  },
+  {
+   "id": "d6f69a29-7874-3e38-ba58-48ed2a6ac5a7",
+   "titulo": "Run With the Pack",
+   "data": "1976-02-21",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/5304fea0-f1ce-4f88-92f3-a0dc019c479d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Live for the Music",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Simple Man",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Honey Child",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Me Somebody",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Run With the Pack",
+     "duracao": "5:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Silver, Blue & Gold",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Young Blood",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Do Right by Your Woman",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Lil' Sister",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Fade Away",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Run_with_the_Pack",
+   "resumo_en": "Run with the Pack is the third studio album by English supergroup Bad Company. It was released on 30 January 1976, by Swan Song Records. The album was recorded in France using the Rolling Stones Mobile Truck in September 1975 with engineer Ron Nevison, and mixed in Los Angeles by Eddie Kramer. It was the only original Bad Company album without artwork from Hipgnosis, instead featuring artwork from Kosh."
+  },
+  {
+   "id": "e7fbd122-28ef-326f-a3f2-d397bf647de1",
+   "titulo": "Burnin’ Sky",
+   "data": "1977-03-03",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/da33593f-90d7-4185-8f3d-2db638225fa9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Burnin' Sky",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Morning Sun",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Leaving You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Like Water",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Everything I Need",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Heartbeat",
+     "duracao": "2:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Peace of Mind",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Passing Time",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Too Bad",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Man Needs Woman",
+     "duracao": "3:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Master of Ceremony",
+     "duracao": "7:10"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.7,
+    "fontes": 3
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Burnin%27_Sky",
+   "resumo_en": "Burnin' Sky is the fourth studio album by the English rock band Bad Company. It was released on 3 March 1977. Burnin' Sky was recorded in France at Château d'Hérouville in July and August 1976 with future Rolling Stones engineer Chris Kimsey. Its release was delayed until March 1977 so as not to compete with the band's then-current album Run with the Pack.\nThe song \"Like Water\" was originally recorded by lead singer Paul Rodgers' short-lived group Peace, which he formed while Free were on hiatus from 1971 to 1972. While the Peace recording was not released at the time, it did eventually see the light of day in the Free rarities box set Songs of Yesterday from 2000.\nThe album peaked at No. 15 on the Billboard 200 and No. 17 in the UK Albums Chart.  The album was remastered and re-released in 1994. The cover is similar to the poster for the 1969 Sam Peckinpah film The Wild Bunch. In the 2000 movie Almost Famous, the fictitious band Stillwater's first T-shirt is strikingly similar to the Burnin' Sky album cover."
+  },
+  {
+   "id": "573e6d7c-e9bb-3e0b-a416-c1b0458da475",
+   "titulo": "Desolation Angels",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/18908400-7760-42ac-96f1-b3a9e1f1e9a4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock 'n' Roll Fantasy",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Crazy Circles",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Gone, Gone, Gone",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Evil Wind",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Early in the Morning",
+     "duracao": "5:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Lonely for Your Love",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Oh, Atlanta",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Take the Time",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Rhythm Machine",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "She Brings Me Love",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Desolation_Angels_%28album%29",
+   "resumo_en": "Desolation Angels is the fifth studio album by English rock supergroup Bad Company, released on 7 March 1979. Paul Rodgers revealed on In the Studio with Redbeard (which devoted an episode to Desolation Angels) that the album's title came from the 1965 novel of the same name by Jack Kerouac. The title was almost used 10 years prior to name the second album from Rodgers' previous band, Free, which in the end was called simply Free.\nDesolation Angels was recorded at Ridge Farm Studios in Surrey, England in late 1978. It is considered the last strong album by Bad Company with the original lineup,  mostly because it contains their last major hit, \"Rock 'n' Roll Fantasy\", written by Paul Rodgers and inspired by a guitar synthesizer riff which Rodgers had come up with. The album reached No. 3 on the U.S. Billboard album charts in 1979 and went platinum in 1979 and double platinum subsequently.  It was their final top ten album in both the U.S. and the UK.\nIn addition to \"Rock 'n' Roll Fantasy\", \"Gone, Gone, Gone\", written by bassist Boz Burrell, also received substantial airplay on rock stations.\nA cover version of \"Oh, Atlanta\", written by Mick Ralphs, was recorded by Alison Krauss and "
+  },
+  {
+   "id": "f3f4eb6d-a62e-3a43-b8ce-57daa70bdc42",
+   "titulo": "Rough Diamonds",
+   "data": "1982-08",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/273f201f-6516-3777-91ae-91c800d1b692/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Electricland",
+     "duracao": "5:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Untie the Knot",
+     "duracao": "4:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Nuthin' on the TV",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Painted Face",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Kickdown",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Ballad of the Band",
+     "duracao": "2:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Cross Country Boy",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Old Mexico",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Downhill Ryder",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Racetrack",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rough_Diamonds_%28album%29",
+   "resumo_en": "Rough Diamonds is the sixth studio album by the English rock band Bad Company. The album was released in August 1982. Rough Diamonds, like its predecessor, Desolation Angels, was recorded at Ridge Farm Studio in Surrey, England, in March and April 1981 and engineered by Max Norman (famed for his work with Ozzy Osbourne).\nIt was the last album to feature the original lineup. The sessions were rough going from the beginning. First, their manager, Peter Grant, withdrew from view after the death of Led Zeppelin drummer John Bonham in 1980. Then, on another occasion, a fistfight broke out between Paul Rodgers and Boz Burrell, and the two bandmates were restrained by Mick Ralphs and Simon Kirke. Following the album, they disbanded, with Rodgers going on to release his first solo album, Cut Loose, the following year.\nThe album's opening track, \"Electricland\", written by Rodgers, was the album's biggest hit. \"Painted Face\" and \"Racetrack\" also received substantial airplay on rock stations. The album became the original line-up's worst-selling album, reaching a disappointing No. 26 on the Billboard album charts in 1982. The album was remastered and re-released in 1994. To date, this is the "
+  },
+  {
+   "id": "c3e6691c-27f4-3780-ac82-2885dca7bb31",
+   "titulo": "Fame and Fortune",
+   "data": "1986-10",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/6617b6cc-35bb-41fe-8197-521585b71430/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Burning Up",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "This Love",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Fame and Fortune",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "That Girl",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Tell It Like It Is",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Long Walk",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Hold on My Heart",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Valerie",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "When We Made Love",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "If I'm Sleeping",
+     "duracao": "3:27"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.0,
+    "fontes": 4
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fame_and_Fortune",
+   "resumo_en": "Fame and Fortune is the seventh studio album by British rock band Bad Company, released in 1986. It was the first album released by the reformed group, featuring original members Mick Ralphs (guitar) and Simon Kirke (drums), with the addition of new frontman Brian Howe (formerly of Ted Nugent's band) substituting for original singer Paul Rodgers. Though original bassist Boz Burrell received credit, the liner notes reveal that session player Steve Price played on the album.\nThe album peaked at No. 106 on the Billboard 200."
+  },
+  {
+   "id": "f6951824-db55-3c60-8218-d1cc66a3f3a2",
+   "titulo": "Dangerous Age",
+   "data": "1988-08-23",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/98159653-c79e-4bf3-9d87-b5471e9f6a54/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Night",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Shake It Up",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "No Smoke Without a Fire",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Man",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Dangerous Age",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Dirty Boy",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Rock of America",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Something About You",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "The Way That It Goes",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Attack",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Excited",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dangerous_Age",
+   "resumo_en": "Dangerous Age is the eighth studio album by hard rock band Bad Company. The album was released in August 1988. It was their second album with Brian Howe as lead vocalist and first with Steve Price credited as bass guitarist. It was produced and largely co-written by Terry Thomas. It helped bring the group back into the spotlight, with major radio airplay for the tracks \"No Smoke Without a Fire\" (#4), \"One Night\" (#9), \"Shake It Up\" (#9), and \"Bad Man\" (#20) appearing on Billboard's Album Rock Tracks chart."
+  },
+  {
+   "id": "9aae1cf4-f20f-3c0e-9e8f-278ddcf5959b",
+   "titulo": "Holy Water",
+   "data": "1990-06",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/67a36b53-51c2-4547-9dcc-cb2bffa80d59/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Holy Water",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Walk Through Fire",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Stranger Stranger",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "If You Needed Somebody",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Fearless",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Lay Your Love on Me",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Boys Cry Tough",
+     "duracao": "5:33"
+    },
+    {
+     "n": 8,
+     "titulo": "With You in a Heartbeat",
+     "duracao": "4:34"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don't Care",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Never Too Late",
+     "duracao": "3:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Dead of the Night",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "I Can't Live Without You",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "100 Miles",
+     "duracao": "1:57"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Holy_Water_%28Bad_Company_album%29",
+   "resumo_en": "Holy Water is the ninth studio album by the English hard rock band Bad Company, and their third with Brian Howe as lead vocalist. The album was released on 12 June 1990."
+  },
+  {
+   "id": "2123e4ff-5d38-3bae-9c8e-6329ead445f4",
+   "titulo": "Here Comes Trouble",
+   "data": "1992-09-22",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/d85b4553-9fd0-436c-bd55-30d7884eae3f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How About That",
+     "duracao": "5:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Stranger Than Fiction",
+     "duracao": "5:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Here Comes Trouble",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "This Could Be the One",
+     "duracao": "5:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Both Feet in the Water",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Take This Town",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "What About You",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Angel",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold On to My Heart",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Brokenhearted",
+     "duracao": "4:48"
+    },
+    {
+     "n": 11,
+     "titulo": "My Only One",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Here_Comes_Trouble_%28Bad_Company_album%29",
+   "resumo_en": "Here Comes Trouble is the 10th studio album by the English hard rock band Bad Company, it would be the last studio album with Brian Howe as lead vocalist. The album was released in September 1992. The cover is an image by Mark Vincent of his young brother in front of a chopper. The title track received some airplay on classic rock radio, although \"How About That\" was the biggest single from the album, spending six weeks at the top of the Album Rock Tracks chart in the US."
+  },
+  {
+   "id": "20c4d5dc-af22-35b9-9f40-7a93455cdc02",
+   "titulo": "Company of Strangers",
+   "data": "1995-07-17",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/26bc28dc-9d6f-3bef-8fe4-5bed0aacc4ab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Company of Strangers",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Clearwater Highway",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Judas My Brother",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Martha",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Gimme Gimme",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Where I Belong",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Down Down Down",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Abandoned and Alone",
+     "duracao": "5:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Down and Dirty",
+     "duracao": "4:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Pretty Woman",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re the Only Reason",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Dance With the Devil",
+     "duracao": "3:06"
+    },
+    {
+     "n": 13,
+     "titulo": "Loving You Out Loud",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Company_of_Strangers_%28Bad_Company_album%29",
+   "resumo_en": "Company of Strangers is the eleventh studio album by the English blues rock band Bad Company, and their first with lead singer Robert Hart (in place of Brian Howe who had replaced Paul Rodgers in 1986). The album was released in June 1995, and was their last album of original material."
+  },
+  {
+   "id": "2f4a4371-d471-30b9-b6ec-167c4df5f84e",
+   "titulo": "Stories Told & Untold",
+   "data": "1996-10-15",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/4fad3a97-a02a-498e-9ce6-75d5790e6b42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One on One",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Oh, Atlanta",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re Never Alone",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "I Still Believe in You",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Ready for Love",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Waiting On Love",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Can’t Get Enough",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Is That All There Is to Love",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Love So Strong",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Silver, Blue and Gold",
+     "duracao": "3:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Downpour in Cairo",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Shooting Star",
+     "duracao": "5:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Simple Man",
+     "duracao": "4:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Weep No More",
+     "duracao": "8:57"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stories_Told_%26_Untold",
+   "resumo_en": "Stories Told & Untold is the twelfth and final studio album by the English band Bad Company. The album was released on 15 October 1996, through East West. This album features newly arranged re-recordings of Bad Company's greatest hits in a more  Americana inspired style, along with new songs. Despite not recording any further albums, the band would continue to tour (with original lead vocalist Paul Rodgers eventually returning) until 2019."
+  }
+ ]
+}

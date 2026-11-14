@@ -1,0 +1,879 @@
+{
+ "id": "mr-big",
+ "nome": "Mr. Big",
+ "cena": "Hard rock",
+ "mbid": "bd1180c4-4252-461f-94dc-543906c02522",
+ "wikidata": "Q822802",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1988",
+ "fim": "2024",
+ "ativa": false,
+ "generos": [
+  "hard rock",
+  "acoustic rock",
+  "glam metal",
+  "pop rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/MrBig_-_Sofia_-_3.jpg/500px-MrBig_-_Sofia_-_3.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Mr._Big_%28banda%29",
+ "resumo_pt": "Mr. Big é uma banda de hard rock norte-americana, formada em 1988 tendo como alguns dos sucessos \"Addicted To That Rush\", \"To Be With You\", \"Green-Tinted Sixties Mind\", \"Shine\" e \"Wild World\".",
+ "resumo_en": "Mr. Big was an American rock band formed in Los Angeles in 1988. The band was originally composed of Eric Martin (lead vocals), Paul Gilbert (guitar), Billy Sheehan (bass), and Pat Torpey (drums). Though primarily a hard rock band, they are also known for softer songs. Their songs are often marked by strong vocals and vocal harmonies. Their hits include \"To Be with You\" (a number-one single in 15 countries in 1992) and \"Just Take My Heart\". The band takes its name from a song by Free which they covered on the 1993 album Bump Ahead.\nMr. Big remained active and popular for over a decade despite internal conflicts and changing musical trends, releasing four studio albums: Mr. Big (1989), Lean into It (1991), Bump Ahead (1993) and Hey Man (1996). Guitarist Paul Gilbert departed the band in 1999, and Richie Kotzen was brought on as a guitarist and vocalist. The band released two more albums with this line-up: Get Over It (1999) and Actual Size (2001). Mr. Big disbanded in 2002.\nFollowing requests from fans, Mr. Big reunited with its original line-up in 2009. The band's first post-reunion tour was in Japan. In 2010, Mr. Big released its first album in 15 years with the same line-up: What If.... During the recording of the follow-up album ...The Stories We Could Tell (2014), Pat Torpey was diagnosed with Parkinson's disease and participated only marginally as a touring support. The band's ninth album, Defying Gravity (2017), was its last record involving Torpey, who performed on sel",
+ "albuns": [
+  {
+   "id": "a5d83119-17f7-3708-bc56-4c3958cfcd50",
+   "titulo": "Mr. Big",
+   "data": "1989-06-19",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/81ac8ca3-a6ab-43c7-aecb-ebd4fa602bfe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Addicted to That Rush",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Wind Me Up",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Merciless",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Had Enough",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Blame It on My Youth",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Take a Walk",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Love",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "How Can You Do What You Do",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Anything for You",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock & Roll Over",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mr._Big_%28Mr._Big_album%29",
+   "resumo_en": "Mr. Big is the debut album by the American rock band Mr. Big. Produced by Kevin Elson, the album proved a partial commercial success, reaching the 46th slot on the Billboard 200 chart. Lead-off single \"Addicted to that Rush\", featuring the band's aggressive guitar and bass playing, also brought the group some mainstream attention, reaching the No. 39 slot on the Billboard Mainstream Rock chart. 300,000 copies were sold, according to a Musician magazine interview with Mr. Big in 1990.\nSeveral of the songs from the album became live staples of the band, and have since been included in various live albums. The group followed up the album with Lean Into It in 1991.\nThe song \"30 Days in the Hole\" was originally recorded by British rock band Humble Pie on the 1972 album Smokin'. Bassist Billy Sheehan revealed on an interview on Nikki Sixx's radio show \"Sixx Sense\" that \"Wind Me Up\" is based on \"Oh, Pretty Woman\" by Roy Orbison played backwards."
+  },
+  {
+   "id": "d08f2fd3-20d7-3f9d-bc71-87ca58ab460f",
+   "titulo": "Lean Into It",
+   "data": "1991-03-26",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/191f590f-a84a-40c1-8b4e-13985a6dbb9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Alive and Kickin’",
+     "duracao": "5:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Green‐Tinted Sixties Mind",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "CDFF-Lucky This Time",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Voodoo Kiss",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Never Say Never",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Just Take My Heart",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "My Kinda Woman",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "A Little Too Loose",
+     "duracao": "5:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Road to Ruin",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "To Be With You",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lean_into_It",
+   "resumo_en": "Lean into It is the second studio album by the American rock band Mr. Big, released on March 26, 1991. The band's breakthrough release, Lean into It peaked at number 15 on the Billboard 200 charts, while the single \"To Be with You\" became the band's first and only song to hit number 1 on the Billboard Hot 100. The follow-up single, \"Just Take My Heart\", was a top-20 hit, peaking at number 16 on the Billboard Hot 100.\n\"Daddy, Brother, Lover, Little Boy\" features Gilbert and Sheehan running Makita cordless drills over their guitar strings in harmony to create an unusually fast solo which is likely not possible to replicate with hands. The \"CDFF\" prefix of the Jeff Paris-penned \"Lucky This Time\", is the song \"Addicted to That Rush\" from the band's 1989 eponymous debut album, played at a higher playback speed; hence the \"CDFF\" for \"Compact Disc Fast Forward\", \"CDFF\" is also the chord structure to the song.\nThe cover image is a picture from the Montparnasse train accident that occurred on October 22, 1895, in Gare Montparnasse station in Paris.\nThe album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Metal Albums of All Time.\nThe album includes the song \"Green-Tinted "
+  },
+  {
+   "id": "e3c6b6fb-2e9b-30a0-9b0f-cd71c33a0778",
+   "titulo": "Bump Ahead",
+   "data": "1993-09-21",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/3ddfa446-ad02-4359-a6e5-8df624203515/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Colorado Bulldog",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Price You Gotta Pay",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Promise Her the Moon",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "What's It Gonna Be",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Wild World",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Mr. Gone",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "The Whole World's Gonna Know",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Nothing but Love",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Temperamental",
+     "duracao": "4:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Ain't Seen Love Like That",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Mr. Big",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.1,
+    "fontes": 4
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bump_Ahead",
+   "resumo_en": "Bump Ahead is the third studio album by American hard rock band Mr. Big, released on 21 September 1993 through Atlantic Records. It followed the band's second studio album, Lean into It (1991), and continued its musical approach of combining hard rock foundations with an emphasis on melody. On the album, Mr. Big showcased music built around the interplay between guitar performances and vocals. It also featured \"Wild World\", which would later become one of the band's signature songs."
+  },
+  {
+   "id": "49ed4adb-4ad2-4931-827a-44796427001c",
+   "titulo": "Hey Man",
+   "data": "1996-03-12",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/24672d21-dc72-4b27-8c4e-366722940f74/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trapped in Toyland",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Take Cover",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Jane Doe",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Goin’ Where the Wind Blows",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "The Chain",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Where Do I Fit In?",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "If That's What It Takes",
+     "duracao": "4:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Out of the Underground",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Dancin’ Right Into the Flame",
+     "duracao": "3:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Mama D.",
+     "duracao": "4:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Fool Us Today",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Little Mistake",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hey_Man",
+   "resumo_en": "Hey Man is the fourth studio album by the hard rock band, Mr. Big. It would be their last album with guitarist Paul Gilbert until 2011's What If.... The album was the most successful Mr. Big release in Japan, topping the Japanese Oricon chart, where it remained for 16 weeks."
+  },
+  {
+   "id": "ad332245-b8eb-3b4b-a998-18ae366f6e70",
+   "titulo": "Get Over It",
+   "data": "1999-09-15",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/2764b1bd-1a69-492b-98e7-e926d8d30b44/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Electrified",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Static",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Hiding Place",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Superfantastic",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "A Rose Alone",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Hole in the Sun",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "How Does It Feel",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Try to Do Without It",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Dancin' With My Devils",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Mr. Never in a Million Years",
+     "duracao": "5:40"
+    },
+    {
+     "n": 11,
+     "titulo": "My New Religion",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Get_Over_It_%28album%29",
+   "resumo_en": "Get Over It is the fifth studio album by the hard rock band Mr. Big. It is their first studio album to feature guitarist Richie Kotzen."
+  },
+  {
+   "id": "e5f8d0f4-929a-31ec-8114-2e618c7c36bb",
+   "titulo": "Actual Size",
+   "data": "2001-08-08",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/e66f5c91-f9c9-4d70-879a-443603060248/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lost in America",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Wake Up",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Shine",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Arrow",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Mary Goes ’round",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Suffocation",
+     "duracao": "4:42"
+    },
+    {
+     "n": 7,
+     "titulo": "One World Away",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "I Don’t Want to Be Happy",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Crawl Over Me",
+     "duracao": "5:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Cheap Little Thrill",
+     "duracao": "3:11"
+    },
+    {
+     "n": 11,
+     "titulo": "How Did I Give Myself Away",
+     "duracao": "4:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Nothing Like It in the World",
+     "duracao": "5:01"
+    },
+    {
+     "n": 13,
+     "titulo": "Deep Dark Secret",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Actual_Size",
+   "resumo_en": "Actual Size is the sixth album by the American rock band Mr. Big. Released in August 2001 through Atlantic Records, it was the band's final album with the label, their second and final studio album to feature guitarist Richie Kotzen, and their final studio album until What If... in 2010. The song \"Shine\" was used as the closing theme to the anime adaptation of Hellsing. Kotzen and Sheehan's band The Winery Dogs regularly performed the song in recent tours."
+  },
+  {
+   "id": "d528609b-417a-4b93-bf83-8e16eddc2bf1",
+   "titulo": "What If…",
+   "data": "2010-12-15",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/8b8e52c7-10bb-49f2-8319-d12ba2cb2c61/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Undertow",
+     "duracao": "4:49"
+    },
+    {
+     "n": 2,
+     "titulo": "American Beauty",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Stranger in My Life",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Nobody Left to Blame",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Still Ain’t Enough for Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Once Upon a Time",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "As Far as I Can See",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "All the Way Up",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "I Won’t Get in My Way",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Around the World",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "I Get the Feeling",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Kill Me With a Kiss",
+     "duracao": "5:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Views From Recording Studio",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "MR. BIG talking about What If...",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Undertow",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 5.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/What_If..._%28Mr._Big_album%29",
+   "resumo_en": "What If... is the seventh full-length studio album by the American rock band Mr. Big, which was released on December 15, 2010, through Frontiers Records. It was the band's first album since their 2009 reunion, their first album in 10 years since 2001's Actual Size and their first album with the original line-up featuring guitarist Paul Gilbert since 1996's Hey Man.\nThe album was recorded between September–October 2010 in a Los Angeles-area studio with producer Kevin Shirley (Iron Maiden, Aerosmith, Rush, Black Country Communion).\nThe first single from the album, \"Undertow\", was released on November 27, 2010. A music video was filmed for the single and featured on the special edition DVD of the album. The album was supported by a world tour in 2011."
+  },
+  {
+   "id": "cb99073c-9b68-4b9c-9f92-6e1e85265483",
+   "titulo": "…The Stories We Could Tell",
+   "data": "2014-09-24",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/d36369d9-27a5-4a1f-a614-d4e257db7858/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gotta Love the Ride",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "I Forget to Breathe",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Fragile",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Satisfied",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "The Man Who Has Everything",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "The Monster in Me",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "What If We Were New?",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "East/West",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "The Light of Day",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Just Let Your Heart Decide",
+     "duracao": "4:19"
+    },
+    {
+     "n": 11,
+     "titulo": "It’s Always About That Girl",
+     "duracao": "4:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Cinderella Smile",
+     "duracao": "4:56"
+    },
+    {
+     "n": 13,
+     "titulo": "The Stories We Could Tell",
+     "duracao": "4:00"
+    },
+    {
+     "n": 14,
+     "titulo": "30 Days in the Hole (live)",
+     "duracao": "4:31"
+    },
+    {
+     "n": 15,
+     "titulo": "Addicted to That Rush",
+     "duracao": "4:36"
+    },
+    {
+     "n": 16,
+     "titulo": "Rock & Roll Over",
+     "duracao": "3:53"
+    },
+    {
+     "n": 17,
+     "titulo": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song)",
+     "duracao": "3:51"
+    },
+    {
+     "n": 18,
+     "titulo": "Green-Tinted Sixties Mind",
+     "duracao": "3:36"
+    },
+    {
+     "n": 19,
+     "titulo": "Just Take My Heart",
+     "duracao": "4:23"
+    },
+    {
+     "n": 20,
+     "titulo": "To Be With You",
+     "duracao": "3:24"
+    },
+    {
+     "n": 21,
+     "titulo": "Colorado Bulldog",
+     "duracao": "4:12"
+    },
+    {
+     "n": 22,
+     "titulo": "The Whole World’s Gonna Know",
+     "duracao": "3:53"
+    },
+    {
+     "n": 23,
+     "titulo": "Take Cover",
+     "duracao": "4:39"
+    },
+    {
+     "n": 24,
+     "titulo": "Out of the Underground",
+     "duracao": "4:06"
+    },
+    {
+     "n": 25,
+     "titulo": "Interview: Long Version",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 101,
+   "critica": {
+    "media": 8.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/...The_Stories_We_Could_Tell",
+   "resumo_en": "...The Stories We Could Tell is the eighth studio album by American hard rock band Mr. Big, the second since their 2010 reunion album What If... It was recorded with producer Pat Regan (Kiss, Deep Purple, Warrant, Keel), and features 13 new songs. The European and Japanese editions of the album each include a bonus live recording of songs from the band's self-titled debut album. \"Addicted to that Rush\" appears on the European edition, while the Humble Pie cover \"30 Days in the Hole\" appears on the Japanese edition. The album was issued by Frontiers Records in the US and Europe. The album is Mr. Big's last to fully feature Pat Torpey on the drums, who was diagnosed with Parkinson's disease two months before its release. Torpey still featured on their next album, but didn't perform on most of the songs, being replaced by their additional drummer Matt Starr on several tracks. The album was released in Japan on September 24, 2014, and in the US and Europe on September 30, 2024."
+  },
+  {
+   "id": "f6f030a7-5de2-4774-baba-f4adf9d8560e",
+   "titulo": "Defying Gravity",
+   "data": "2017-06-21",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/83e5949c-9214-47cf-90ac-27746f6fc602/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Open Your Eyes",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Defying Gravity",
+     "duracao": "5:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Everybody Needs a Little Trouble",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Damn I’m in Love Again",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Mean to Me",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Nothin’ Bad (’Bout Feelin’ Good)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Forever & Back",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "She’s All Coming Back to Me Now",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "1992",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Nothing at All",
+     "duracao": "4:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Be Kind",
+     "duracao": "7:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Defying Gravity (radio edit)",
+     "duracao": "4:30"
+    },
+    {
+     "n": 13,
+     "titulo": "Defying Gravity (promo video + making of movie)",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Everybody Needs a Little Trouble (promo video + making of movie)",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Members Interviews",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Defying_Gravity_%28Mr._Big_album%29",
+   "resumo_en": "Defying Gravity is the ninth studio album from American hard rock band Mr. Big. It is their only album to feature drumming contributions from Matt Starr, who had been filling in since 2014, as founding member Pat Torpey was unable to play on most songs due to his Parkinson's disease diagnosis, but performs drums and backing vocals on select tracks and is credited as \"drum producer\". Defying Gravity was Torpey's final studio appearance prior to his death on February 7, 2018, and consequently the final release to feature the band's original lineup."
+  },
+  {
+   "id": "2d367a1f-97d0-4bb2-9e73-302c2173b60e",
+   "titulo": "Ten",
+   "data": "2024-07-12",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/23a04bfa-42eb-46d3-aa12-f484bc4a8bb5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Luck Trying",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Am You",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Right Outta Here",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sunday Morning Kinda Girl",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Who We Are",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "As Good as It Gets",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "What Were You Thinking",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Courageous",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Up on You",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "The Frame",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "8 Days on the Road",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "id": "guns-n-roses",
+ "nome": "Guns N’ Roses",
+ "cena": "Hard rock",
+ "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+ "wikidata": "Q11895",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1985",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "glam metal",
+  "heavy metal",
+  "rock",
+  "art rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Guns_n%C2%B4Roses_Palacio_de_los_Deportes_30-11-2016_%2831592626632%29.jpg/500px-Guns_n%C2%B4Roses_Palacio_de_los_Deportes_30-11-2016_%2831592626632%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Guns_N%27_Roses",
+ "resumo_pt": "Guns N' Roses é uma banda americana de hard rock formada em Los Angeles, Califórnia, em 1985, resultado da fusão entre as bandas locais L.A. Guns e Hollywood Rose. A formação original do grupo era composta pelo vocalista Axl Rose, o baixista Ole Beich, o baterista Rob Gardner e os guitarristas Tracii Guns e Izzy Stradlin. Meses depois, após assinarem com a Geffen Records, a formação \"clássica\" do grupo contava com Rose, Stradlin, o guitarrista Slash, o baixista Duff McKagan e o baterista Steven Adler. A formação atual inclui Rose, Slash, McKagan, o guitarrista Richard Fortus, os tecladistas Dizzy Reed e Melissa Reese e o baterista Isaac Carpenter.\nNos primeiros anos, o hedonismo e a rebeldia da banda levaram a comparações com os primeiros The Rolling Stones e lhes renderam o apelido de \"a banda mais perigosa do mundo\". A banda percorreu extensivamente o circuito de clubes da Costa Oeste dos Estados Unidos durante os seus primórdios. Controvérsias significativas seguiram a banda devido a atrasos em apresentações ao vivo e tumultos, letras consideradas problemáticas, a personalidade franca de Rose, problemas com drogas e com álcool de vários outros membros, processos judiciais e disputas públicas com outros artistas. O seu álbum de estreia, Appetite for Destruction, de 1987, lançado junto à turnê homônima, inicialmente teve um desempenho modesto, estreando na posição 182 da Billboard 200. No entanto, um ano após o lançamento, uma campanha espontânea impulsionada pelo videoclipe",
+ "resumo_en": "Guns N' Roses is an American hard rock band formed in Los Angeles, California, in March 1985 by Axl Rose, Izzy Stradlin, Tracii Guns, and others from L.A. Guns and Hollywood Rose. The classic lineup, Rose (vocals), Slash (lead guitar), Stradlin (rhythm guitar), Duff McKagan (bass), and Steven Adler (drums), was finalized in June 1985. After signing with Geffen Records in 1986, the band released its debut album Appetite for Destruction (1987). Initially slow to sell, it broke through with the \"Welcome to the Jungle\" music video and went on to sell more than 30 million copies worldwide, becoming the best-selling debut album in the U.S. It produced three Billboard Hot 100 top-ten singles: \"Welcome to the Jungle\", \"Paradise City\", and the band's only number-one, \"Sweet Child o' Mine\". The follow-up, G N' R Lies (1988), reached number two and featured the top-five single \"Patience\".\nAdler was fired in 1990 and replaced by Matt Sorum. The twin albums Use Your Illusion I and II (1991) debuted at numbers two and one on the Billboard 200 and sold a combined 35 million copies worldwide. The Illusion albums featured high-budget music videos, including \"November Rain\", which reached number three on the Billboard Hot 100 and later became the first 1990s music video to reach one billion YouTube views. The subsequent Use Your Illusion Tour (1991–93) was marked by the Riverport Riot and other incidents; Stradlin left mid-tour and was replaced by Gilby Clarke, who appeared on the punk covers ",
+ "albuns": [
+  {
+   "id": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+   "titulo": "Appetite for Destruction",
+   "data": "1987-07-21",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/1674749c-e197-47ab-a487-efda313f8ef7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Welcome to the Jungle",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s So Easy",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Nightrain",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Out Ta Get Me",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Mr. Brownstone",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Paradise City",
+     "duracao": "6:46"
+    },
+    {
+     "n": 7,
+     "titulo": "My Michelle",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Think About You",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Child o’ Mine",
+     "duracao": "5:56"
+    },
+    {
+     "n": 10,
+     "titulo": "You’re Crazy",
+     "duracao": "3:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Anything Goes",
+     "duracao": "3:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Rocket Queen",
+     "duracao": "6:13"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 8
+   },
+   "publico": 8.9,
+   "publico_votos": 39,
+   "wikipedia": "https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+   "resumo_en": "Appetite for Destruction is the debut studio album by American hard rock band Guns N' Roses, released on July 21, 1987, by Geffen Records. The album was recorded from January 18 to June 23 in 1987, and was produced by Mike Clink. Most of the album's themes reflect the band's personal experiences and daily life, including their youth.\nAppetite for Destruction initially received little mainstream attention, and it was not until the following year that the album became a commercial success, after the band had toured and received significant airplay with the singles \"Welcome to the Jungle\", \"Paradise City\", and \"Sweet Child o' Mine\". The album went on to reach number one on the US Billboard 200 and spend four non-consecutive weeks there. It became certified 18× platinum, making it among the top 10 best-selling albums in the United States, as well as the best-selling debut album in the country.\nIn total, five singles were released from Appetite for Destruction: \"It's So Easy\" with \"Mr. Brownstone\", \"Welcome to the Jungle\", \"Sweet Child o' Mine\", \"Paradise City\", and \"Nightrain\". \"Sweet Child o' Mine\" would reach the top of the Billboard Hot 100, while \"Welcome to the Jungle\" and \"Paradi"
+  },
+  {
+   "id": "b1b42d92-bbd0-349d-b2f8-ee4e6ef1bd9c",
+   "titulo": "G N’ R Lies",
+   "data": "1988-11-29",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/1b2ee347-5eb0-4859-a7de-272c156b005e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reckless Life",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Nice Boys",
+     "duracao": "3:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Move to the City",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Mama Kin",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Patience",
+     "duracao": "5:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Used to Love Her",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "You’re Crazy",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "One in a Million",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.2,
+    "fontes": 7
+   },
+   "publico": 5.9,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/G_N%27_R_Lies",
+   "resumo_en": "G N' R Lies (also known simply as Lies) is the second studio album by American hard rock band Guns N' Roses, released by Geffen Records on November 29, 1988. It is the band's shortest studio album, running at 33 and a half minutes. The album reached number two on the US Billboard 200, and according to the RIAA, has shipped over five million copies in the United States.\n\"Patience\", the only single released from Lies, peaked at number four on the Billboard Hot 100 on June 3, 1989. This is the band's last full album to feature drummer Steven Adler following his departure in 1990, shortly after the single \"Civil War\" was recorded, and featured on Use Your Illusion II (1991), as well as their last album to be recorded as a five-piece band."
+  },
+  {
+   "id": "642b183a-3e59-3cb9-9187-aeeefa0d8818",
+   "titulo": "Use Your Illusion I",
+   "data": "1991-09-16",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/e3bb9d53-2ff9-4d88-b1c9-542b5c5f1e09/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Right Next Door to Hell",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Dust N’ Bones",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Live and Let Die",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Cry (original)",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Perfect Crime",
+     "duracao": "2:22"
+    },
+    {
+     "n": 6,
+     "titulo": "You Ain’t the First",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Bad Obsession",
+     "duracao": "5:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Back Off Bitch",
+     "duracao": "5:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Double Talkin’ Jive",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "November Rain",
+     "duracao": "8:53"
+    },
+    {
+     "n": 11,
+     "titulo": "The Garden",
+     "duracao": "5:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Garden of Eden",
+     "duracao": "2:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Don’t Damn Me",
+     "duracao": "5:15"
+    },
+    {
+     "n": 14,
+     "titulo": "Bad Apples",
+     "duracao": "4:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Dead Horse",
+     "duracao": "4:17"
+    },
+    {
+     "n": 16,
+     "titulo": "Coma",
+     "duracao": "10:08"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 9
+   },
+   "publico": 8.5,
+   "publico_votos": 22,
+   "wikipedia": "https://en.wikipedia.org/wiki/Use_Your_Illusion_I",
+   "resumo_en": "Use Your Illusion I is the third studio album by American hard rock band Guns N' Roses, released by Geffen Records on September 17, 1991, the same day as its counterpart Use Your Illusion II. It was the band's first album with  keyboardist Dizzy Reed, and drummer Matt Sorum, who replaced Steven Adler following Adler's departure in 1990, shortly after playing on \"Civil War\", which appears on Use Your Illusion II. The supporting tour for the albums, the  Use Your Illusion Tour, began in May 1991, four months before the release of the albums due to delays in getting the albums out.\nThe album debuted at No. 2 on the Billboard 200, selling 685,000 copies in its first week, behind Use Your Illusion II's first-week sales of 770,000. Use Your Illusion I has sold 5,502,000 units in the United States as of 2010, according to Nielsen SoundScan. Each of the Use Your Illusion albums have been certified 7× Platinum by the Recording Industry Association of America (RIAA). The album was nominated for a Grammy Award for Best Hard Rock Performance in 1992, and its single \"Live and Let Die\" was nominated in the same category the next year."
+  },
+  {
+   "id": "617c9f00-9488-3a70-a994-9de312541617",
+   "titulo": "Use Your Illusion II",
+   "data": "1991-09-17",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/5f4001e9-ecb7-4568-a2f5-9c882e5c46a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Civil War",
+     "duracao": "7:36"
+    },
+    {
+     "n": 2,
+     "titulo": "14 Years",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Yesterdays",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Knockin’ on Heaven’s Door",
+     "duracao": "5:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Get in the Ring",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Shotgun Blues",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Breakdown",
+     "duracao": "6:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Pretty Tied Up",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Locomotive",
+     "duracao": "8:42"
+    },
+    {
+     "n": 10,
+     "titulo": "So Fine",
+     "duracao": "4:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Estranged",
+     "duracao": "9:20"
+    },
+    {
+     "n": 12,
+     "titulo": "You Could Be Mine",
+     "duracao": "5:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Don’t Cry (alt. lyrics)",
+     "duracao": "4:42"
+    },
+    {
+     "n": 14,
+     "titulo": "My World",
+     "duracao": "1:22"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.2,
+    "fontes": 9
+   },
+   "publico": 8.5,
+   "publico_votos": 20,
+   "wikipedia": "https://en.wikipedia.org/wiki/Use_Your_Illusion_II",
+   "resumo_en": "Use Your Illusion II is the fourth studio album by American hard rock band Guns N' Roses, released by Geffen Records on September 17, 1991, the same day as its counterpart Use Your Illusion I. The supporting tour for the albums, the  Use Your Illusion Tour, began in May 1991, four months before the release of the albums due to delays in getting the albums out. Bolstered by the lead single \"You Could Be Mine\", Use Your Illusion II was the slightly more popular of the two albums, selling a record 770,000 copies its first week and debuting at No. 1 on the Billboard 200, ahead of Use Your Illusion I's first-week sales of 685,000. As of 2010, Use Your Illusion II has sold 5,587,000 units in the United States, according to Nielsen SoundScan. Both albums have since been certified 7× Platinum by the Recording Industry Association of America (RIAA). It was No. 1 on the UK Albums Chart for a single week.\nIt is the last Guns N' Roses studio album to credit rhythm guitarist Izzy Stradlin, and the last with drummer Steven Adler who plays on \"Civil War\". Along with Use Your Illusion I, it was the last Guns N' Roses album to include new original material until 2008's album Chinese Democracy."
+  },
+  {
+   "id": "7ef05688-558a-36a6-97a8-ff4e6174aae6",
+   "titulo": "“The Spaghetti Incident?”",
+   "data": "1993-11-21",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/bef14686-badb-48cf-8dd9-56789f8e87a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Since I Don't Have You",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "New Rose",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Down on the Farm",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Human Being",
+     "duracao": "6:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Raw Power",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain't It Fun",
+     "duracao": "5:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Buick Makane (Big Dumb Sex)",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Hair of the Dog",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Attitude",
+     "duracao": "1:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Black Leather",
+     "duracao": "4:08"
+    },
+    {
+     "n": 11,
+     "titulo": "You Can't Put Your Arms Around a Memory",
+     "duracao": "3:35"
+    },
+    {
+     "n": 12,
+     "titulo": "I Don't Care About You",
+     "duracao": "2:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Look at Your Game, Girl",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.3,
+    "fontes": 7
+   },
+   "publico": 6.2,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/%22The_Spaghetti_Incident%3F%22",
+   "resumo_en": "\"The Spaghetti Incident?\" is the fifth studio album by the American hard rock band Guns N' Roses. The album is composed of covers of older songs mostly in the punk rock and hard rock genres.  \"The Spaghetti Incident?\" is the only studio album to feature rhythm guitarist Gilby Clarke, who replaced original Guns N' Roses member Izzy Stradlin (some of Stradlin's parts are on the album) during the band's Use Your Illusion Tour in 1991, as well as the last album to feature guitarist Slash, bassist Duff McKagan, and drummer Matt Sorum, following their departures in 1996 and 1997, respectively (though Slash and McKagan later returned in 2016). It is also their final album to date featuring longtime producer Mike Clink.\nIt is the only Guns N' Roses album release not backed by a tour. Although generally well received critically, it is the band's worst-selling studio album, having sold one million copies in the United States by 2018."
+  },
+  {
+   "id": "cdfb0664-26b5-3475-88f5-dd6ccd4d74ce",
+   "titulo": "Chinese Democracy",
+   "data": "2008-06-18",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/850e2c4f-11b2-4f47-a169-e3816b3ea5e4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chinese Democracy",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Shackler's Revenge",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Better",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Street of Dreams",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "If the World",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "There Was a Time",
+     "duracao": "6:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Catcher in the Rye",
+     "duracao": "5:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Scraped",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Riad n' the Bedouins",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Sorry",
+     "duracao": "6:15"
+    },
+    {
+     "n": 11,
+     "titulo": "I.R.S.",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Madagascar",
+     "duracao": "5:38"
+    },
+    {
+     "n": 13,
+     "titulo": "This I Love",
+     "duracao": "5:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Prostitute",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 64,
+    "media": 6.5,
+    "fontes": 7
+   },
+   "publico": 7.9,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chinese_Democracy",
+   "resumo_en": "Chinese Democracy is the sixth studio album by the American hard rock band Guns N' Roses, released on November 23, 2008, through Geffen Records and Black Frog. It was their first album of original material since Use Your Illusion I and II (1991), and the first to feature none of the classic members aside from vocalist Axl Rose. The album's development spanned over a decade, becoming one of the most protracted and expensive recording processes in history, with reported costs exceeding $13 million.\nRecorded amid lineup upheavals, legal disputes, and leaks, Chinese Democracy saw Rose collaborate with a rotating cast of musicians and producers, including band members Dizzy Reed, Paul Tobias, Robin Finck, Josh Freese, Tommy Stinson, Chris Pitman, Buckethead, Richard Fortus, Ron \"Bumblefoot\" Thal, Brain and Frank Ferrer, and producers Youth, Sean Beavan, Roy Thomas Baker and Caram Costanzo. Recording began in 1998 with the intention of producing multiple albums; although more than 50 tracks were completed, Rose's inconsistent studio schedule and repeated re‑recordings caused substantial delays in the project's progress. It is the first Guns N' Roses album not produced by Mike Clink; inst"
+  }
+ ]
+}

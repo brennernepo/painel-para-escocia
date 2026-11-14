@@ -1,0 +1,1016 @@
+{
+ "id": "def-leppard",
+ "nome": "Def Leppard",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e",
+ "wikidata": "Q182890",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1977",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "glam metal",
+  "heavy metal",
+  "nwobhm",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Def_Leppard_Allstate_Arena_7-19-12.JPG/500px-Def_Leppard_Allstate_Arena_7-19-12.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Def_Leppard",
+ "resumo_pt": "Def Leppard é uma banda de rock formada na cidade de Sheffield, Inglaterra, em 1977. Fez parte da geração chamada NWOBHM, porém tem outros estilos, como hard rock. É considerada uma das bandas mais populares do mundo e já vendeu mais de 100 milhões de álbuns mundialmente.",
+ "resumo_en": "Def Leppard are an English rock band formed in Sheffield in 1976. Since 1992, the band has consisted of Rick Savage (bass, backing vocals), Joe Elliott (lead vocals), Rick Allen (drums), Phil Collen (guitar, backing vocals), and Vivian Campbell (guitar, backing vocals). They established themselves as part of the new wave of British heavy metal of the early 1980s.\nThe band's first album, 1980's On Through the Night, reached the Top 15 in the UK but received little notice elsewhere.  Their second album, 1981's High 'n' Dry, was produced by Mutt Lange, who helped them to define their melodic hard rock style. The album's most popular track, \"Bringin' On the Heartbreak\", became one of the first rock videos played on MTV in 1982. Their next studio album, Pyromania, the first with Collen featured on five tracks replacing guitarist Pete Willis who played rhythm guitar on the entire album before getting fired, was released in January 1983, with \"Photograph\" and \"Rock of Ages\" both topping the US Rock Tracks chart and reaching the top 20 of the Hot 100. Reaching No. 2 on the US album chart, Pyromania was certified Diamond in the US. The band's fourth album, the more pop-oriented Hysteria (1987), topped the UK, US, Canadian and Australian charts and remained on the charts for over two years. It has sold over 15 million copies worldwide, making it one of the best-selling albums of all time. Hysteria spawned six Top 20 US singles: The US Billboard Hot 100 No. 1 \"Love Bites\", \"Pour Some Su",
+ "albuns": [
+  {
+   "id": "23434a86-e665-3722-8dae-214f0fb97f3a",
+   "titulo": "On Through the Night",
+   "data": "1980-03-14",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/814f2da3-429a-4bb1-87c6-0e3ae1bf81ad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock Brigade",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Hello America",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Sorrow Is a Woman",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "It Could Be You",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Satellite",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "When the Walls Came Tumbling Down",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Wasted",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Rocks Off",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "It Don’t Matter",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Answer to the Master",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Overture",
+     "duracao": "7:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": 5.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_Through_the_Night",
+   "resumo_en": "On Through the Night is the debut studio album by English rock band Def Leppard, released on 14 March 1980. The album was produced by Tom Allom. It charted at No. 15 on the UK Albums Chart and No. 51 on the Billboard 200. The album features re-recorded versions of \"Rocks Off\" and \"Overture\", tracks from the band's original independently released EP, The Def Leppard E.P.. Other tracks are re-recorded versions of early demos, some of which later appeared on the 2020 box set The Early Years 79–81. The album was certified gold by the RIAA on 18 November 1983 and platinum on 9 May 1989.\n\"Wasted\", \"Hello America\" and \"Rock Brigade\" were released as singles. However, the version of \"Wasted\" that appears on the single is a different recording from that of the LP, as is its B-side, \"Hello America\".\nThe spoken word intro to \"When the Walls Came Tumbling Down\" was performed by Dave Cousins of Strawbs. Joe Elliott had done the spoken portion in earlier live performances and demo recordings that showed up on some early bootlegs. In his biography, Cousins claims that he did his best Laurence Olivier impersonation for the song's intro."
+  },
+  {
+   "id": "419fa215-3740-3b1c-aa04-a209eab30789",
+   "titulo": "High ’n’ Dry",
+   "data": "1981-07-11",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/0ae6e580-fade-4a87-b680-cb6171a285e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let It Go",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Another Hit and Run",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "High ’n’ Dry (Saturday Night)",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Bringin’ On the Heartbreak",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Switch 625",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "You Got Me Runnin’",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Lady Strange",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "On Through the Night",
+     "duracao": "5:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Mirror, Mirror (Look Into My Eyes)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "No No No",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 6.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/High_%27n%27_Dry",
+   "resumo_en": "High 'n' Dry is the second studio album by the English rock band Def Leppard, released on 6 July 1981. High 'n' Dry was Pete Willis' last full-time album with Def Leppard. It charted at No. 38 on the Billboard 200 and No. 26 on the UK Albums Chart. \"High 'n' Dry (Saturday Night)\", ranked No. 33 on VH1's 40 Greatest Metal Songs. Following the success of Pyromania, the album re-entered in the US chart and reached No. 72 in 1983."
+  },
+  {
+   "id": "d77df681-b779-3d6d-b66a-3bfd15985e3e",
+   "titulo": "Pyromania",
+   "data": "1983-01-20",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/e139eb8b-89f0-4a0f-ab89-e288077cfd87/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock! Rock! (Till You Drop)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Photograph",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Stagefright",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Too Late for Love",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Die Hard the Hunter",
+     "duracao": "6:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Foolin’",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Rock of Ages",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Action! Not Words",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Comin’ Under Fire",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Billy’s Got a Gun",
+     "duracao": "5:27"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pyromania_%28album%29",
+   "resumo_en": "Pyromania is the third studio album by English rock band Def Leppard, released on 20 January 1983 through Vertigo Records in Europe and through Mercury Records in the US. The first album to feature guitarist Phil Collen who replaced founding member Pete Willis, Pyromania was produced by Robert John \"Mutt\" Lange. The album was a shift away from the band's traditional heavy metal roots toward a more radio-friendly sound, finding massive mainstream success. Pyromania charted at No. 2 on the Billboard 200, No. 4 on the  Canadian RPM Album chart and No. 18 on the UK Albums Chart. Selling over ten million copies in the US, it has been certified diamond by the RIAA."
+  },
+  {
+   "id": "12fa3845-7c62-36e5-a8da-8be137155a72",
+   "titulo": "Hysteria",
+   "data": "1987-08-03",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/73385a97-551a-419f-882b-0c77812fc988/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Women",
+     "duracao": "5:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Rocket",
+     "duracao": "6:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Animal",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Bites",
+     "duracao": "5:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Pour Some Sugar on Me",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Armageddon It",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Gods of War",
+     "duracao": "6:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Shoot Shotgun",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Run Riot",
+     "duracao": "4:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Hysteria",
+     "duracao": "5:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Excitable",
+     "duracao": "4:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Love and Affection",
+     "duracao": "4:37"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.1,
+    "fontes": 10
+   },
+   "publico": 9.2,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hysteria_%28Def_Leppard_album%29",
+   "resumo_en": "Hysteria is the fourth studio album by English rock band Def Leppard, released on 3 August 1987, by Mercury Records. The album is the follow-up to the band's 1983 breakthrough, Pyromania. Hysteria's creation took over three years and was plagued by delays, including the aftermath of the car accident on 31 December 1984 that cost drummer Rick Allen his left arm. Subsequent to the album's release, Def Leppard published a book titled Animal Instinct: The Def Leppard Story, written by Rolling Stone magazine senior editor David Fricke, on the three-year recording process of Hysteria and the difficult times the band endured through the mid-1980s. Lasting 62 minutes and 32 seconds, it is the band's longest studio album to date.\nHysteria was the band's third and final album to be produced by Robert John \"Mutt\" Lange. Accordingly to Joe Elliott, many names for the album were floated around including a joke title \"Trouble Up Mill.\" Other titles that were considered were 'Paranoia' and 'Animal Instincts'. The final title of the album Hysteria was conceived by Allen referring to his car crash, the amputation of his arm, and the ensuing worldwide media coverage surrounding it. It is the last al"
+  },
+  {
+   "id": "5b930454-b937-3d49-b26c-e82c4eded9bc",
+   "titulo": "Adrenalize",
+   "data": "1992-03-23",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/8d69c082-40ed-4005-90c5-6386a5387b46/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let’s Get Rocked",
+     "duracao": "4:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Heaven Is",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Make Love Like a Man",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Tonight",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "White Lightning",
+     "duracao": "7:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Stand Up (Kick Love Into Motion)",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Personal Property",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Have You Ever Needed Someone So Bad",
+     "duracao": "5:24"
+    },
+    {
+     "n": 9,
+     "titulo": "I Wanna Touch U",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Tear It Down",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Adrenalize",
+   "resumo_en": "Adrenalize is the fifth studio album by English rock band Def Leppard, released on 30 March 1992 through Mercury Records. It is the first album by the band recorded without guitarist Steve Clark who died in 1991. Although most songs were written and partially demoed before his death, they were largely re-recorded with Phil Collen playing all the guitar parts. It remains the only album recorded by Def Leppard as a four-member band. Spawning six singles, four of them – \"Let's Get Rocked\", \"Make Love Like a Man\", \"Have You Ever Needed Someone So Bad\" and \"Stand Up (Kick Love into Motion)\" – were major hits.\n\"Tear It Down\" is a re-recording of a song written during a recording session following the completion of the Hysteria album and released as B-side for that album's single \"Women\" in 1987. The song received radio airplay and was performed by the band live at the 1989 MTV Video Music Awards.\n\"White Lightning\" is dedicated to the memory of Clark, who has writing credits on six of the album's ten tracks."
+  },
+  {
+   "id": "d58266a8-e00c-3a64-b7e1-549e28f772ee",
+   "titulo": "Slang",
+   "data": "1996-05-10",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/7950489a-3a00-4e78-9067-0943b4dbd31c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Truth?",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Turn to Dust",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Slang",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "All I Want Is Everything",
+     "duracao": "5:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Work It Out",
+     "duracao": "4:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Breathe a Sigh",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Deliver Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Gift of Flesh",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Blood Runs Cold",
+     "duracao": "4:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Where Does Love Go When It Dies",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Pearl of Euphoria",
+     "duracao": "6:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Armageddon It",
+     "duracao": "4:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Two Steps Behind",
+     "duracao": "4:16"
+    },
+    {
+     "n": 14,
+     "titulo": "From the Inside",
+     "duracao": "3:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Animal",
+     "duracao": "3:57"
+    },
+    {
+     "n": 16,
+     "titulo": "When Love and Hate Collide",
+     "duracao": "4:27"
+    },
+    {
+     "n": 17,
+     "titulo": "Pour Some Sugar on Me",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.7,
+    "fontes": 4
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Slang_%28album%29",
+   "resumo_en": "Slang is the sixth studio album by English rock band Def Leppard, released on 13 May 1996. The album marked a musical departure from their signature sound; it was produced by the band with Pete Woodroffe and was their first album since 1980 without involvement by Robert John \"Mutt\" Lange. Slang is the first album with new material to feature new guitarist Vivian Campbell (Campbell had previously played on the B-side collection Retro Active in 1993 and on the new song on Vault a year earlier). It charted at number 14 on the Billboard 200 and number 5 on the UK Albums Chart. It is also the only Def Leppard album that does not feature their recognisable font logo on the album cover, though all its singles still bore the classic logo."
+  },
+  {
+   "id": "2dca8523-24e2-3a51-8bb4-038e979e689b",
+   "titulo": "Euphoria",
+   "data": "1999-06-08",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/049e9195-1eee-456b-8cef-e10ccbd5a314/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Demolition Man",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Promises",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Back in Your Face",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Goodbye",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "All Night",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Paper Sun",
+     "duracao": "5:27"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s Only Love",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "21st Century Sha La La La Girl",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "To Be Alive",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Disintegrate",
+     "duracao": "2:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Guilty",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Day After Day",
+     "duracao": "4:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Kings of Oblivion",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Euphoria_%28Def_Leppard_album%29",
+   "resumo_en": "Euphoria is the seventh studio album by English rock band Def Leppard, released on 8 June 1999 in the United States and on 14 June 1999 in the United Kingdom by Mercury Records. The album aimed to return to their signature sound made famous by the band in the 1980s. It was produced by the band with Pete Woodroffe. The album charted at No. 11 on the Billboard 200 and No. 11 on the UK Albums Chart. It includes the song \"Promises\", which hit the number one spot on Billboard's Mainstream Rock chart."
+  },
+  {
+   "id": "233dec0f-611d-36c6-8675-90fb53707adb",
+   "titulo": "X",
+   "data": "2002-07-24",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/38f6a29b-5631-4372-ad35-aec0d8a7a641/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Now",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Unbelievable",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re So Beautiful",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Everyday",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Long Long Way to Go",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Four Letter Word",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Torn to Shreds",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Don’t Lie",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Gravity",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Cry",
+     "duracao": "3:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Girl Like You",
+     "duracao": "2:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Let Me Be the One",
+     "duracao": "3:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Scar",
+     "duracao": "4:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Kiss the Day",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 60,
+    "media": 5.2,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/X_%28Def_Leppard_album%29",
+   "resumo_en": "X is the eighth studio album by English rock band Def Leppard, released on 30 July 2002 by Island Records in the US and sister label Mercury worldwide. Much like 1996's Slang, it featured a departure from their signature sound by moving into the pop genre. The album charted at No. 11 on The Billboard 200 and No. 14 on the UK Albums Chart. Most of the album was produced by Pete Woodroffe and the band, with remaining tracks produced by either Marti Frederiksen or Per Aldeheim and Andreas Carlsson."
+  },
+  {
+   "id": "5826c723-c45c-3640-80d6-ea176f45159b",
+   "titulo": "Yeah!",
+   "data": "2006-05-22",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/64d355b0-67ac-4214-ae2b-f8068f4fd3dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "20th Century Boy",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock On",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Hanging on the Telephone",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Waterloo Sunset",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Hell Raiser",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "10538 Overture",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Street Life",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Drive-In Saturday",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Bit of Love",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "The Golden Age of Rock ’n’ Roll",
+     "duracao": "3:28"
+    },
+    {
+     "n": 11,
+     "titulo": "No Matter What",
+     "duracao": "2:51"
+    },
+    {
+     "n": 12,
+     "titulo": "He’s Gonna Step on You Again",
+     "duracao": "4:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Don’t Believe a Word",
+     "duracao": "2:19"
+    },
+    {
+     "n": 14,
+     "titulo": "Stay With Me",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 5.4,
+    "fontes": 5
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Yeah%21_%28Def_Leppard_album%29",
+   "resumo_en": "Yeah! is the ninth studio album by English rock band Def Leppard. It is the first cover album by the band. It was originally intended to be released on 20 September 2005, but it was announced on 31 March 2006 that the album would be released on 23 May 2006. The album charted at No. 16 on the Billboard 200 and No. 52 on the UK Albums Chart."
+  },
+  {
+   "id": "f8494f1a-caf3-37bd-9e36-05028306bfff",
+   "titulo": "Songs From the Sparkle Lounge",
+   "data": "2008-04-25",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/44f1a8cf-e2fc-4bf7-b3f1-084e631f2157/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Go",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Nine Lives",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "C’mon C’mon",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Love",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Tomorrow",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Cruise Control",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Hallucinate",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Only the Good Die Young",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Bad Actress",
+     "duracao": "3:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Come Undone",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Gotta Let It Go",
+     "duracao": "3:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Love (piano version)",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 47,
+    "media": 5.2,
+    "fontes": 9
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_from_the_Sparkle_Lounge",
+   "resumo_en": "Songs from the Sparkle Lounge is the tenth studio album by the English rock band Def Leppard. It was released on 25 April 2008 in Europe and 29 April in North America."
+  },
+  {
+   "id": "3ef1f2b2-4ff0-482d-8b42-c2c2ea6b144d",
+   "titulo": "Def Leppard",
+   "data": "2015-10-30",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/6611fe81-8dee-46d2-b794-6c4edbefc7fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let’s Go",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Dangerous",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Man Enough",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "We Belong",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Invincible",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Sea of Love",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Energized",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "All Time High",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Battle of My Own",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Broke’n’Brokenhearted",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Forever Young",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Last Dance",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Wings of an Angel",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Blind Faith",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 68,
+    "media": 6.6,
+    "fontes": 7
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Def_Leppard_%28album%29",
+   "resumo_en": "Def Leppard is the eleventh studio album by the English rock band Def Leppard, released on 30 October 2015. The band's first studio album since 2008's Songs from the Sparkle Lounge (marking the longest gap between two studio albums in their career) and their first on earMUSIC Records, it became their seventh top ten album on the Billboard 200 after debuting at number 10. The first single \"Let's Go\" was released 15 September 2015, alongside the artwork and track listing.\nThe album was produced by Ronan McHugh and Def Leppard. It won a 2016 Classic Rock Roll of Honours Award for Album of the Year."
+  },
+  {
+   "id": "7e4ae23f-0e18-4102-8d14-56b23f617573",
+   "titulo": "Diamond Star Halos",
+   "data": "2022-05-27",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/3e2a3ce2-d36b-4606-a178-80d31edc20f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take What You Want",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Kick",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Fire It Up",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "This Guitar",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "SOS Emergency",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Liquid Dust",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "U Rok Mi",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Goodbye for Good This Time",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "All We Need",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Open Your Eyes",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Gimme a Kiss That Rocks",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Angels (Can’t Help You Now)",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Lifeless",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Unbreakable",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "From Here to Eternity",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.2,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Diamond_Star_Halos",
+   "resumo_en": "Diamond Star Halos is the twelfth studio album by the English rock band Def Leppard. It was released on 27 May 2022 through Bludgeon Riffola and Mercury Records, and is the band's first studio album in nearly seven years since 2015's Def Leppard. The album takes its name from the 1971 T. Rex single \"Get It On\" and includes imagery from Anton Corbijn, Maryam Malakpour, and Oliver and Joshua Munden."
+  }
+ ]
+}

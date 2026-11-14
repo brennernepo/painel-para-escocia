@@ -1,0 +1,712 @@
+{
+ "id": "cpm-22",
+ "nome": "CPM 22",
+ "cena": "Rock brasileiro",
+ "mbid": "a305918f-ce88-4834-a134-3381e34ad4e8",
+ "wikidata": "Q1024216",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1995",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "melodic hardcore"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/CPM_22_%28311693005%29.jpg/500px-CPM_22_%28311693005%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/CPM_22",
+ "resumo_pt": "CPM 22 é uma banda de rock brasileira formada em 1995 na cidade de Barueri, São Paulo. A banda é formada atualmente por Badauí (vocal), Luciano Garcia (guitarra), Phil Fargnoli (guitarra), Ali Zaher Jr. (baixo) e Daniel Siqueira (bateria). A banda já abriu shows de bandas internacionais como Lagwagon, No Fun at All, Down by Law e System of a Down. O CPM 22 foi uma das poucas bandas brasileiras de hardcore a ganhar um disco de ouro e fazer sucesso no mainstream, e com isso, abriu as portas para uma nova geração de bandas de rock brasileiras. Em 2008, ganharam um Grammy Latino de melhor álbum de rock brasileiro.",
+ "resumo_en": "CPM 22 ([se pe ˈẽmi ˈvĩt͡ʃ(i) dojs]) is a Brazilian hardcore band from São Paulo formed in 1995. Band members are Badauí (vocals), Luciano (guitar), Phil (guitar), Ali (bass), and Daniel (drums).",
+ "albuns": [
+  {
+   "id": "523e90cd-2f6c-36a6-88da-b4eb6e5d78bb",
+   "titulo": "A alguns quilômetros de lugar nenhum",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/f438d8d6-6d06-4623-a42e-0c5784e9a53d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Regina Let's Go",
+     "duracao": "2:21"
+    },
+    {
+     "n": 2,
+     "titulo": "O mundo dá voltas",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "+ 1 dia",
+     "duracao": "2:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Por quê?",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Garota da T.V.",
+     "duracao": "1:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Bohrizlozer",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "... é isso",
+     "duracao": "2:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Peter",
+     "duracao": "1:27"
+    },
+    {
+     "n": 9,
+     "titulo": "60s",
+     "duracao": "1:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Light Blue Night",
+     "duracao": "2:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Anteontem",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Vai mudar?",
+     "duracao": "2:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Pregur",
+     "duracao": "1:52"
+    },
+    {
+     "n": 14,
+     "titulo": "A alguns quilômetros de lugar nenhum",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "849ffc61-2442-3844-9d15-ee9301ed6679",
+   "titulo": "CPM 22",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/ee2fd994-a6f1-4786-85a5-d09d0fcd0d8b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Regina Let's Go!",
+     "duracao": "2:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Tarde de outubro",
+     "duracao": "2:19"
+    },
+    {
+     "n": 3,
+     "titulo": "O chão que ela pisa",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "O perdedor (Bohrizloser)",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Anteontem",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "60 segundos",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "A velha história",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Antes que seja tarde",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Melancolia",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "O mundo dá voltas",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "+ 1 dia",
+     "duracao": "2:05"
+    },
+    {
+     "n": 12,
+     "titulo": "... é isso",
+     "duracao": "2:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Últimas palavras",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "2 semanas",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "07ca652f-1d15-3a8d-9214-7ab00da19ff1",
+   "titulo": "Chegou a hora de recomeçar",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/da1c0df9-9771-47e5-9b7c-38cfe876e077/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Desconfio",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonhos e planos",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Vidas que se encontram",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Dias atrás",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Amigos perdidos",
+     "duracao": "2:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Especial como você",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Não sei viver sem ter você",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Atordoado",
+     "duracao": "2:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Garota da TV",
+     "duracao": "2:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Ontem",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Coragem",
+     "duracao": "2:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Argumento",
+     "duracao": "2:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Peter",
+     "duracao": "1:30"
+    },
+    {
+     "n": 14,
+     "titulo": "Mentiras novas",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "9aab2af2-563f-3ecc-9fb2-e9416126d5b0",
+   "titulo": "Felicidade instantânea",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/68bff007-09ff-3058-8964-a53ebc0a5eb4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Felicidade instantânea",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Um minuto para o fim do mundo",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Apostas & Certezas",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Irreversível",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Não vá embora",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "A cura",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Recíproca",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Pensamentos negativos",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Cidade em chamas",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Park, park",
+     "duracao": "2:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Jovem, alcoólatra, suicida",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Crise de existência",
+     "duracao": "3:03"
+    },
+    {
+     "n": 13,
+     "titulo": "Contagem regressiva",
+     "duracao": "2:26"
+    },
+    {
+     "n": 14,
+     "titulo": "Reflexões",
+     "duracao": "3:04"
+    },
+    {
+     "n": 15,
+     "titulo": "Depois do fim",
+     "duracao": "2:00"
+    },
+    {
+     "n": 16,
+     "titulo": "Repetição",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "5e949eb5-219d-3bac-953c-9199ba09ff0e",
+   "titulo": "Cidade cinza",
+   "data": "2007",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/c32e7079-15eb-4622-baed-31d58f6ee5f8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Estranho no espelho",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Nossa música",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Ano que vem talvez",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Escolhas, provas e promessas",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Tempestade de facas",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "1000 motivos",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Depois de horas",
+     "duracao": "1:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Mais rápido que as lágrimas",
+     "duracao": "1:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Reais amigos",
+     "duracao": "2:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Tempo",
+     "duracao": "1:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Maldita herança",
+     "duracao": "2:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Cidade cinza",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "75ef5cb0-2808-4ec4-a4b4-6cf159cdcc57",
+   "titulo": "Depois de um longo inverno",
+   "data": "2011-04-16",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/309f2174-d730-4078-b257-5ecad9a090b9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Abominável",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Vida ou morte",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Filme que eu nunca vi",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Hospital do sofredor",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Cavaleiro metal",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Quem sou eu?!",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Na medida certa",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Um pouco de paciência",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Sofridos e excluídos",
+     "duracao": "2:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Nova ordem",
+     "duracao": "2:00"
+    },
+    {
+     "n": 11,
+     "titulo": "CPM 22",
+     "duracao": "3:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Minoria",
+     "duracao": "2:40"
+    },
+    {
+     "n": 13,
+     "titulo": "Março 76",
+     "duracao": "7:19"
+    },
+    {
+     "n": 14,
+     "titulo": "[10 mil vozes]",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "4ac7e914-6922-40f4-a111-076d5b9e4ac6",
+   "titulo": "Suor e sacrifício",
+   "data": "2017-04-28",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/aa4ce986-3bb9-429e-a691-6993e2dea456/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Combustível",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Pagar pra ver?!",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Ser mais simples",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Conta comigo",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Linha de frente",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "A esperança não morreu",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Como no passado",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Desconexo",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Never Going to Be the Same",
+     "duracao": "3:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Honrar teu nome",
+     "duracao": "4:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Segunda chance",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Destemido",
+     "duracao": "1:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Em busca de uma pista",
+     "duracao": "2:55"
+    },
+    {
+     "n": 14,
+     "titulo": "Todos por 1 / Citação: Hino nacional",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "Revolução",
+     "duracao": "3:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Cruz",
+     "duracao": "2:05"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "37d87bf9-b4e1-4eff-ad28-31011a60b0e6",
+   "titulo": "Enfrente",
+   "data": "2024-05-23",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/a928d8cb-eea3-4ca9-a668-058b6d6108f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Porto Seguro",
+     "duracao": "1:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Dono Da Verdade",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Rivais",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Mágoas Passadas",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Enfrente",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Direto e Reto",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Conselhos",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "O Ano Em Que a Terra Parou",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Alívio Imediato",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Nunca Se Sabe",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Feriado Punk",
+     "duracao": "2:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Convicto",
+     "duracao": "3:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Covarde Digital",
+     "duracao": "1:18"
+    },
+    {
+     "n": 14,
+     "titulo": "Urbano",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

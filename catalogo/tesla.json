@@ -1,0 +1,1100 @@
+{
+ "id": "tesla",
+ "nome": "Tesla",
+ "cena": "Hard rock",
+ "mbid": "eeacb319-8d4c-48e0-80a0-944e71c375bf",
+ "wikidata": "Q1428953",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1981",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "glam metal",
+  "heavy metal",
+  "blues rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tesla_at_the_Chance_cropped.jpg/500px-Tesla_at_the_Chance_cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Tesla_%28banda%29",
+ "resumo_pt": "Tesla é uma banda de hard rock estadunidense. Foi formada em Sacramento no ano de 1981 pelo baixista Brian Wheat e o guitarrista Frank Hannon como City Kidd, tendo sua formação finalmente composta apenas em 1984 com as entradas do vocalista Jeff Keith, do baterista Troy Luccketta e do guitarrista Tommy Skeoch.\nEm 1986, com um novo foco musical é optada a adoção de um novo nome: \"Tesla\", em uma homenagem a Nikola Tesla. Desde o álbum de abertura \"Mechanical Resonance\", de 1986, a banda brinda fãs e críticos com uma sonoridade limpa, de alto feeling instrumental, com influências claras no hard rock setentista europeu, mesclado a um metal clássico com doses cavalares do blues-rock, tipico dos melhores power trios. A banda possui cerca de 14 milhões de álbuns vendidos nos Estados Unidos.",
+ "resumo_en": "Tesla is an American hard rock band from Sacramento, California. In late 1981, bassist Brian Wheat and guitarist Frank Hannon formed a band named City Kidd, which evolved into Tesla. By 1984, vocalist Jeff Keith, guitarist Tommy Skeoch and drummer Troy Luccketta had joined the band, forming their classic lineup that appeared on all the records and live shows during their initial run. The band adopted the Tesla moniker shortly before recording their first album as another band with a name similar to City Kidd already existed.\nTesla rose to fame during the hair metal boom of the 1980s. Their debut album, Mechanical Resonance, was released in 1986, which produced two hit singles, \"Modern Day Cowboy\" and their cover of \"Little Suzi\" (originally by Ph.D.). The band's second album, The Great Radio Controversy (1989), peaked at No. 18 on the Billboard 200 album chart and produced the top-ten single \"Love Song\". The band recorded and released their third album, the live acoustic album Five Man Acoustical Jam, in 1990. It peaked at No. 12 on the Billboard 200 and produced their top-charting single (No. 8 on the Billboard Hot 100), \"Signs\", a cover of a song by the Five Man Electrical Band. Their third studio album, Psychotic Supper (1991), peaked at No. 13 but lacked a hit single. Similarly, their next album, 1994's Bust a Nut did well enough on the album charts, peaking at No. 20 but also lacked any radio hits. \nThe band broke up in 1996 then returned in 2000 with a live tour and alb",
+ "albuns": [
+  {
+   "id": "12583b26-cd14-3ff4-a3fc-7c8a331b8ce2",
+   "titulo": "Mechanical Resonance",
+   "data": "1986-12-08",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/0e0e1d92-412a-459b-8385-b8067a079582/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ez Come Ez Go",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Cumin' Atcha Live",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Gettin' Better",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "2 Late 4 Love",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock Me to the Top",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "We're No Good Together",
+     "duracao": "5:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Modern Day Cowboy",
+     "duracao": "5:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Changes",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Suzi",
+     "duracao": "4:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Me",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Cover Queen",
+     "duracao": "4:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Before My Eyes",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mechanical_Resonance_%28album%29",
+   "resumo_en": "Mechanical Resonance is the debut studio album by the American hard rock band Tesla. It was released on December 8, 1986, by Geffen Records. The album peaked at No. 32 on the Billboard 200 on April 3, 1987, and was certified platinum by the RIAA on October 5, 1989."
+  },
+  {
+   "id": "c4a91bff-c9f3-3142-b47d-b3731a4efb69",
+   "titulo": "The Great Radio Controversy",
+   "data": "1989-02-01",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/eb3947c6-e3a1-4373-ae70-4c7dc7861548/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hang Tough",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Lady Luck",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Heaven's Trail (No Way Out)",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Be a Man",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Lazy Days, Crazy Nights",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Did It for the Money",
+     "duracao": "4:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Yesterdaze Gone",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Makin' Magic",
+     "duracao": "5:07"
+    },
+    {
+     "n": 9,
+     "titulo": "The Way It Is",
+     "duracao": "5:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Flight to Nowhere",
+     "duracao": "4:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Song",
+     "duracao": "5:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Paradise",
+     "duracao": "4:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Party's Over",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 5
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Radio_Controversy",
+   "resumo_en": "The Great Radio Controversy is the second studio album by American hard rock band Tesla, released in 1989. The album's sound has been described as \"glam metal to play inside the cab of a tractor-blusey denim and downright wholesome\".\nThe hit singles \"Love Song\", \"Heaven's Trail (No Way Out)\", \"Hang Tough\" and \"The Way It Is\" received considerable airplay on MTV's Headbangers Ball and rocketed the band to stardom. The album was certified double platinum by the RIAA on July 23, 1998.\nThe album is titled after the controversy about the identity of the inventor of radio. It is posited that Serbian engineer Nikola Tesla (whom the band is named after) is the true inventor of radio, while the Italian Guglielmo Marconi took the credit and is widely regarded as having the title. The album's inner sleeve recounts this story."
+  },
+  {
+   "id": "57a46789-e4d8-3226-9ab8-e34dda0dadc2",
+   "titulo": "Psychotic Supper",
+   "data": "1991-08-30",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/4b12e947-5718-4780-8975-123a74db8c49/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Change in the Weather",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Edison's Medicine",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't De-Rock Me",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Call It What You Want",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Song & Emotion",
+     "duracao": "8:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Time",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Government Personnel",
+     "duracao": "0:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Freedom Slaves",
+     "duracao": "6:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Had Enough",
+     "duracao": "4:49"
+    },
+    {
+     "n": 10,
+     "titulo": "What You Give",
+     "duracao": "7:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Stir It Up",
+     "duracao": "5:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Can't Stop",
+     "duracao": "5:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Toke About It",
+     "duracao": "5:24"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Psychotic_Supper",
+   "resumo_en": "Psychotic Supper is the third studio album by American hard rock band Tesla, released in 1991. It peaked at 13 on the Billboard 200 and was certified platinum by RIAA on November 5, 1993.\nThe album's artwork differs between different formats. Vinyl releases depict an image of Nikola Tesla at a dinner table, while CD releases feature an insert that shows a close up of the middle right of the same image, folding out to reveal the same image, the only difference being the location of the band's logo."
+  },
+  {
+   "id": "5a8019f4-bdd6-3c5a-ae3d-49d37f21eed9",
+   "titulo": "Bust a Nut",
+   "data": "1994-08-22",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/9c270f13-c54e-432f-b4ab-2d9ba8d4f881/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Gate/Invited",
+     "duracao": "5:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Solution",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Shine Away",
+     "duracao": "6:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Try So Hard",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "She Want She Want",
+     "duracao": "5:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Need Your Lovin’",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Action Talks",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Mama’s Fool",
+     "duracao": "6:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Cry",
+     "duracao": "4:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Earthmover",
+     "duracao": "4:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Alot to Lose",
+     "duracao": "5:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Rubberband",
+     "duracao": "4:37"
+    },
+    {
+     "n": 13,
+     "titulo": "Wonderful World",
+     "duracao": "3:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Games People Play",
+     "duracao": "5:00"
+    },
+    {
+     "n": 15,
+     "titulo": "The Ocean",
+     "duracao": "4:54"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bust_a_Nut",
+   "resumo_en": "Bust a Nut is the fourth studio album by American hard rock band Tesla, released in 1994. It was their final studio album on Geffen Records. The first single was \"Mama's Fool\", followed by \"Need Your Loving\" and \"A Lot to Lose\". The album was certified gold by RIAA on March 16, 1995."
+  },
+  {
+   "id": "f86dec99-f673-372a-a911-8eed160d516b",
+   "titulo": "Into the Now",
+   "data": "2004-03-09",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/671b556d-6ffc-4677-91c3-5cf5a943118b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Into the Now",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Look @ Me",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "What a Shame",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Heaven Nine Eleven",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Words Can’t Explain",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Caught in a Dream",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Miles Away",
+     "duracao": "6:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Mighty Mouse",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Got No Glory",
+     "duracao": "4:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Come to Me",
+     "duracao": "4:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Recognize",
+     "duracao": "5:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Only You",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Into_the_Now",
+   "resumo_en": "Into the Now is the fifth studio album by the rock band Tesla. Following a six-year hiatus due to Tommy Skeoch's rehabilitation for drug abuse, Tesla reunited for this album released in 2004."
+  },
+  {
+   "id": "aafb86c9-a86e-383c-8a2e-33e8bba8f4c7",
+   "titulo": "Real to Reel: Reel 1",
+   "data": "2007-06-05",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/6096d15f-977b-4b3f-9321-0cc5042b1ba2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Space Truckin'",
+     "duracao": "4:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Walk Away",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Hand Me Down World",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Reputation",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Thank You",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "I've Got a Feeling",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Day of the Eagle",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Ball of Confusion",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock Bottom",
+     "duracao": "8:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Stealin'",
+     "duracao": "4:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Bell Bottom Blues",
+     "duracao": "4:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Honky Tonk Women",
+     "duracao": "3:26"
+    },
+    {
+     "n": 13,
+     "titulo": "Dear Mr. Fantasy",
+     "duracao": "6:37"
+    },
+    {
+     "n": 14,
+     "titulo": "All the Young Dudes",
+     "duracao": "3:48"
+    },
+    {
+     "n": 15,
+     "titulo": "Make It Last",
+     "duracao": "4:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Shooting Star",
+     "duracao": "5:40"
+    },
+    {
+     "n": 17,
+     "titulo": "Not Fragile",
+     "duracao": "4:37"
+    },
+    {
+     "n": 18,
+     "titulo": "Street Fighting Man",
+     "duracao": "4:24"
+    },
+    {
+     "n": 19,
+     "titulo": "Is It My Body",
+     "duracao": "2:34"
+    },
+    {
+     "n": 20,
+     "titulo": "I Want to Take You Higher",
+     "duracao": "3:51"
+    },
+    {
+     "n": 21,
+     "titulo": "Do You Feel Like We Do",
+     "duracao": "11:44"
+    },
+    {
+     "n": 22,
+     "titulo": "Beer Drinkers and Hellraisers",
+     "duracao": "3:05"
+    },
+    {
+     "n": 23,
+     "titulo": "Seasons of Wither",
+     "duracao": "4:53"
+    },
+    {
+     "n": 24,
+     "titulo": "Saturday Night Special",
+     "duracao": "5:42"
+    },
+    {
+     "n": 25,
+     "titulo": "War Pigs",
+     "duracao": "9:00"
+    },
+    {
+     "n": 26,
+     "titulo": "War Pigs",
+     "duracao": "9:02"
+    },
+    {
+     "n": 27,
+     "titulo": "Shine Away",
+     "duracao": "7:08"
+    },
+    {
+     "n": 28,
+     "titulo": "Modern Day Cowboy",
+     "duracao": "5:52"
+    },
+    {
+     "n": 29,
+     "titulo": "Paradise",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 155,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Real_to_Reel_%28Tesla_album%29",
+   "resumo_en": "Real to Reel is the sixth studio album by hard rock band Tesla. Released on June 5, 2007, it includes covers of classic rock songs from the late 1960s and early 1970s recorded by Tesla in their own style using analog tape and vintage equipment.[1]\nBest Buy included a limited, exclusive Bonus CD with the purchase of \"Real to Reel\". This Bonus CD includes 4 songs, \"War Pigs\" from Reel Two, and unplugged versions of \"Shine Away\", \"Modern Day Cowboy\" and \"Paradise\".[2]\nAdditional 12 tracks recorded during the Real to Reel sessions, were released on a second volume, entitled Real to Reel, Vol. 2."
+  },
+  {
+   "id": "a3fdcd7d-9e0c-3dc8-922e-f34e34a89c78",
+   "titulo": "Real to Reel: Reel 2",
+   "data": "2007-07-25",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/7f7d9f91-5aa2-4f54-af1c-5ff974fdf843/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All the Young Dudes",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Make It Last",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Shooting Star",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Not Fragile",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Street Fighting Man",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Is It My Body",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "I Want to Take You Higher",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Do You Feel Like We Do",
+     "duracao": "11:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Beer Drinkers and Hellraisers",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Seasons of Wither",
+     "duracao": "4:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Saturday Night Special",
+     "duracao": "5:42"
+    },
+    {
+     "n": 12,
+     "titulo": "War Pigs",
+     "duracao": "9:00"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Real_to_Reel%2C_Vol._2",
+   "resumo_en": "Real to Reel, Vol. 2 is the seventh studio album by hard rock band Tesla, and the second part of the band's covers album Real to Reel, released in retail outlets on September 25, 2007.\nThe album was initially only available to people attending the band's 2007 concert tour during August 2007, when the first volume was released, but then became available at retail outlets in September. It was also released free with August 2007 copies of the UK magazine Classic Rock.\nLike the first Real to Reel album, the second volume also features covers of classic rock songs from the 1960s and 1970s that inspired and influenced the band, recorded by Tesla in their own style using analog tape and vintage equipment."
+  },
+  {
+   "id": "3cfeb0a4-045a-3c0c-928d-f00b0599a438",
+   "titulo": "Forever More",
+   "data": "2008-10-07",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/11531e2b-400e-40d0-a098-f6f83cea0bb8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Forever More",
+     "duracao": "5:02"
+    },
+    {
+     "n": 2,
+     "titulo": "I Wanna Live",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "One Day at a Time",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "So What!",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Just in Case",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Fallin' Apart",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Breakin' Free",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "All of Me",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "The First Time",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Pvt. Ledbetter",
+     "duracao": "3:23"
+    },
+    {
+     "n": 11,
+     "titulo": "In a Hole Again",
+     "duracao": "5:25"
+    },
+    {
+     "n": 12,
+     "titulo": "The Game",
+     "duracao": "4:50"
+    },
+    {
+     "n": 13,
+     "titulo": "My Way",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Forever_More_%28album%29",
+   "resumo_en": "Forever More is the eighth studio album by hard rock band Tesla, released on October 7, 2008. The album was produced by Terry Thomas, engineered by Michael Rosen, and recorded and mixed at J Street Recorders in Sacramento, California by Terry Thomas and Michael Rosen. The album cover art portrays the famous “Lovers of Valdaro”, discovered by archaeologists outside of Mantua, Italy, in 2007."
+  },
+  {
+   "id": "0222a255-8e1b-4f6c-983c-7c0055c05512",
+   "titulo": "Twisted Wires & The Acoustic Sessions",
+   "data": "2011-07-12",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/481c43a1-d9ba-403f-9b59-58eb88cf9000/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Into the Now",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Hang Tough",
+     "duracao": "4:42"
+    },
+    {
+     "n": 3,
+     "titulo": "2nd Street",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Edison's Medicine",
+     "duracao": "5:50"
+    },
+    {
+     "n": 5,
+     "titulo": "What You Give",
+     "duracao": "7:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Better Off Without You",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Shine Away",
+     "duracao": "7:06"
+    },
+    {
+     "n": 8,
+     "titulo": "I Love You",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Changes",
+     "duracao": "6:05"
+    },
+    {
+     "n": 10,
+     "titulo": "A Lot to Lose",
+     "duracao": "5:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Caught in a Dream",
+     "duracao": "4:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Song and Emotion",
+     "duracao": "6:20"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Twisted_Wires_%26_the_Acoustic_Sessions",
+   "resumo_en": "Twisted Wires & the Acoustic Sessions... is the ninth studio album by American hard rock band Tesla. It was released on July 12, 2011. The album features two new tracks (\"2nd Street\" and \"Better Off Without You\") as well as re-recordings of ten previously released tracks. Five of the tracks were recorded in 2005 with Tommy Skeoch on rhythm guitar."
+  },
+  {
+   "id": "beb22c68-2f0c-4ee4-9867-22f92d49326b",
+   "titulo": "Simplicity",
+   "data": "2014-06-06",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/b1197c19-d46d-42b8-be7d-fd767a358d96/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "MP3",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Ricochet",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Rise and Fall",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "So Divine…",
+     "duracao": "4:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Cross My Heart",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Honestly",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Flip Side!",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Other Than Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Break of Dawn",
+     "duracao": "5:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Burnout to Fade",
+     "duracao": "4:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Life Is a River",
+     "duracao": "4:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Sympathy",
+     "duracao": "4:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Time Bomb",
+     "duracao": "4:11"
+    },
+    {
+     "n": 14,
+     "titulo": "’til That Day",
+     "duracao": "4:17"
+    },
+    {
+     "n": 15,
+     "titulo": "Burnout to Fade (demo version)",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Simplicity_%28Tesla_album%29",
+   "resumo_en": "Simplicity is the tenth studio album by American hard rock band Tesla. It was released on June 10, 2014 in the US and four days earlier in Europe, \"Simplicity\", sold around 14,000 copies in the United States in its first week of release to land at position No. 24 on The Billboard 200 chart. The record arrived in stores on June 10 via Tesla Electric Company Recording's arrangement with Entertainment One Music and distribution."
+  },
+  {
+   "id": "5c944d47-6c00-4164-96aa-0dd89d15b853",
+   "titulo": "Shock",
+   "data": "2019-03-08",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/31f1c705-2d95-4030-8554-6b53f641511e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Won’t Take Me Alive",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Taste Like",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "We Can Rule the World",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Shock",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Is a Fire",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "California Summer Song",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Forever Loving You",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "The Mission",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Tied to the Tracks",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Afterlife",
+     "duracao": "4:39"
+    },
+    {
+     "n": 11,
+     "titulo": "I Want Everything",
+     "duracao": "3:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Comfort Zone",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shock_%28Tesla_album%29",
+   "resumo_en": "Shock is the eleventh studio album by American rock band Tesla.  Produced and co-written by Phil Collen, the work was released on 8 March 2019 via UMe. and recorded at J Street Recorders."
+  },
+  {
+   "id": "87331b6a-98f2-4a38-965c-58266a267c21",
+   "titulo": "Homage",
+   "data": "2026-07-17",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/f5d8ac9b-a9ee-47f3-932e-f2fa80086311/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Never Alone",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Bring It on Home",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Spread Your Wings",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "I Wish It Would Rain",
+     "duracao": "3:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Night Moves",
+     "duracao": "5:22"
+    },
+    {
+     "n": 6,
+     "titulo": "If I Can Dream",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Come and Get It",
+     "duracao": "2:20"
+    },
+    {
+     "n": 8,
+     "titulo": "I Got You (I Feel Good)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Give a Little Bit",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "I Love You (2026)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Have You Ever Seen the Rain",
+     "duracao": "2:39"
+    },
+    {
+     "n": 12,
+     "titulo": "The Ballad of Curtis Loew",
+     "duracao": "4:50"
+    },
+    {
+     "n": 13,
+     "titulo": "I'd Rather Go Blind",
+     "duracao": "2:56"
+    },
+    {
+     "n": 14,
+     "titulo": "Mind Your Own Business",
+     "duracao": "3:14"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

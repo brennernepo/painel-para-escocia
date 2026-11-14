@@ -1,0 +1,936 @@
+{
+ "id": "buckcherry",
+ "nome": "Buckcherry",
+ "cena": "Hard rock",
+ "mbid": "822e92ef-72ea-42e0-9af1-b987816b487a",
+ "wikidata": "Q430224",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1995",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "rock",
+  "alternative rock",
+  "glam metal",
+  "glam rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Buckcherry_B%26W.jpg/500px-Buckcherry_B%26W.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Buckcherry",
+ "resumo_pt": "Buckcherry é uma banda de hard rock formada em 1995 na cidade de Los Angeles e indicada ao Grammy de hard rock. É considerada por muitos uma das melhores bandas da nova geração do hard rock. A banda lançou dois álbuns (em 1999 o álbum homônimo de estreia e em 2001, Time Bomb) antes da banda acabar no verão de 2002. Em 2005, Josh Todd (vocalista) e Keith Nelson (guitarrista) fizeram uma nova banda usando o mesmo nome e lançaram um álbum em Abril de 2006, chamado 15 e conseguiram o primeiro top dez da banda, com o hit \"Sorry\".\nO vocalista da banda participou da gravação do clipe e da música \"10 Miles Wide\" da banda Escape the fate.\nA banda teve duas passagens pelo Brasil, a primeira vez foi em maio de 2011, quando abriu o show da banda Motley Crue. Já a segunda vez foi em outubro de 2013, no festival Monsters Of Rock. No mesmo ano, lançou seu sexto álbum, Confessions.",
+ "resumo_en": "Buckcherry is an American hard rock band from Anaheim, California, formed in 1995. The band released two albums, Buckcherry (1999) and Time Bomb (2001), before dissolving in 2002. Buckcherry's first album, Buckcherry, was DreamWorks' first album to go gold. In 2005, lead vocalist Josh Todd and lead guitarist Keith Nelson reformed Buckcherry with a new lineup and released a new album in 2006, 15. It contained Buckcherry's biggest crossover hit to date, \"Crazy Bitch\", and their first Billboard Hot 100 top ten hit, \"Sorry\". The band continued to record albums, releasing seven between 2008 and 2023: Black Butterfly in 2008, All Night Long in 2010, Confessions in 2013, Rock 'n' Roll in 2015, Warpaint in 2019, Hellbound in 2021 and Vol. 10 in 2023. Their eleventh album, Roar Like Thunder was released in June 2025.",
+ "albuns": [
+  {
+   "id": "dfbc7b4c-06f7-309d-b835-dc4d9b62501d",
+   "titulo": "Buckcherry",
+   "data": "1999-01-01",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/c82a772e-3c13-4182-8870-b5464285be21/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lit Up",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Crushed",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Again",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Check Your Head",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Dirty Mind",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "For The Movies",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Lawless And Lulu",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Related",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Borderline",
+     "duracao": "4:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Get Back",
+     "duracao": "3:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Baby",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Drink The Water",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 5.2,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Buckcherry_%28album%29",
+   "resumo_en": "Buckcherry is the debut album by American rock band Buckcherry. It was released on April 6, 1999, by DreamWorks Records. \"Lit Up\", \"For the Movies\", \"Dead Again\", and \"Check Your Head\" were released as singles. As of September 2006, the album has sold in excess of 750,000 copies, and was certified Gold by both the RIAA and Canada, It is the band's only album as a four-piece."
+  },
+  {
+   "id": "16c36eb7-c958-398c-aeee-6d624ef9d5cd",
+   "titulo": "Time Bomb",
+   "data": "2001-03-04",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/1339d0e8-3642-426c-8dbd-eab10a356da0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Frontside",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Ridin'",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Bomb",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Porno Star",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Place in the Sun",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "(Segue) Helpless",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Underneath",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Slit My Wrists",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Whiskey in the Morning",
+     "duracao": "2:29"
+    },
+    {
+     "n": 10,
+     "titulo": "You",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Slamin'",
+     "duracao": "2:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Fall",
+     "duracao": "3:13"
+    },
+    {
+     "n": 13,
+     "titulo": "Open My Eyes",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "metacritic": 66,
+    "media": 5.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Time_Bomb_%28Buckcherry_album%29",
+   "resumo_en": "Time Bomb is the second studio album by American rock band Buckcherry. It was produced by John Travis  and released on March 27, 2001, by DreamWorks Records. It is the band's only album to feature Yogi Lonich on rhythm guitar and is the final album to feature the original lineup, as bassist Jonathan Brightman and drummer Devon Glenn both left the band in August 2001 and January 2002, respectively. It is also Buckcherry's last album before a three-year hiatus, which lasted from 2002 to 2005."
+  },
+  {
+   "id": "306e761c-b06e-329b-acf6-7dcf92325b86",
+   "titulo": "15",
+   "data": "2006-04-11",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/47eebd24-10d5-4147-bd35-fe6217dbea9f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "So Far",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Next 2 You",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Out of Line",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Everything",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Carousel",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Sorry",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Crazy Bitch",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Onset",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Sunshine",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Brooklyn",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Broken Glass",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.9,
+    "fontes": 5
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/15_%28Buckcherry_album%29",
+   "resumo_en": "15 is the third studio album by American rock band Buckcherry. It was released in Japan on October 17, 2005, through Universal Japan and on April 6, 2006, in North America, through Eleven Seven Music, as the label's first release. It features a new line-up. \"Crazy Bitch\" was the first single off the album and enjoyed success on the pop charts. The second single was \"Next 2 You\" which peaked at No. 18 on the Hot Mainstream Rock Tracks chart.\nThe band confirmed, via Myspace, that the album has been certified Platinum by the RIAA for sales of 1,000,000 copies surpassing their debut album and since then it has been certified double platinum. The fifth and last single, \"Sorry\", has become their highest charting single to date on the US Hot 100. After 98 weeks on the Billboard 200, the album became the first Buckcherry album to reach the top 40, peaking at 39. \"Pump it Up\", a Japanese edition bonus track, is used by the NHL's Edmonton Oilers as their introduction song."
+  },
+  {
+   "id": "7656ed25-e72b-3fe3-8777-d56fc544a643",
+   "titulo": "Black Butterfly",
+   "data": "2008-09-10",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/1b8c1573-f6c2-4e1e-91ab-58a2411b9f27/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rescue Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Tired of You",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Too Drunk…",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Dreams",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Talk to Me",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "A Child Called “it”",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Go Away",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Fallout",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Rose",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "All of Me",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Imminent Bail Out",
+     "duracao": "3:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Cream",
+     "duracao": "3:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Nothing (demo)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Stayin’ High (demo)",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 3.0,
+    "metacritic": 50,
+    "media": 5.8,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Butterfly_%28Buckcherry_album%29",
+   "resumo_en": "Black Butterfly is the fourth studio album by American hard rock band Buckcherry. The album was released on September 12, 2008, in Japan, Canada, and the United Kingdom while being released on September 16 in the United States. It had been in production since late 2007. The limited fan edition was included with two demo songs, \"Nothing\" and \"Stayin' High\". Along with the bonus songs, the case came with a year free membership to the Buckcherry Fan Club, \"Buckcherry's Bomb Squad\". Black Butterfly debuted at number eight on the Billboard 200, making it the band's highest-charting album in the United States."
+  },
+  {
+   "id": "dadb249d-fe0e-4c80-b209-266ca73b1e45",
+   "titulo": "All Night Long",
+   "data": "2010-07-29",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/04392c7e-955a-4cc4-836d-1b944ccd7b9b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Night Long",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "It's a Party",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "These Things",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Oh My Lord",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Recovery",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Never Say Never",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "I Want You",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Liberty",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Our World",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Bliss",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Dead",
+     "duracao": "5:27"
+    },
+    {
+     "n": 12,
+     "titulo": "These Things",
+     "duracao": "3:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Fire Off Your Guns",
+     "duracao": "3:46"
+    },
+    {
+     "n": 14,
+     "titulo": "Black Butterfly",
+     "duracao": "3:47"
+    },
+    {
+     "n": 15,
+     "titulo": "King of Kings",
+     "duracao": "4:49"
+    },
+    {
+     "n": 16,
+     "titulo": "My Friend",
+     "duracao": "3:58"
+    },
+    {
+     "n": 17,
+     "titulo": "Grace",
+     "duracao": "4:21"
+    },
+    {
+     "n": 18,
+     "titulo": "Sorry",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 64,
+    "media": 7.5,
+    "fontes": 10
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_Night_Long_%28Buckcherry_album%29",
+   "resumo_en": "All Night Long is the fifth studio album by the American hard rock band Buckcherry. It was released worldwide on August 3, 2010."
+  },
+  {
+   "id": "1f772955-4c75-46c0-88bc-481b452a9bf9",
+   "titulo": "Confessions",
+   "data": "2013-02-15",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/5b47482e-8611-44d2-85b4-f735d179c99f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gluttony",
+     "duracao": "2:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Wrath",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Nothing Left but Tears",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "The Truth",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Greed",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Water",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Seven Ways to Die",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Air",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Sloth",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Pride",
+     "duracao": "4:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Envy",
+     "duracao": "4:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Lust",
+     "duracao": "3:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Dreamin’ of You",
+     "duracao": "3:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Give ’Em What They Want",
+     "duracao": "3:20"
+    },
+    {
+     "n": 15,
+     "titulo": "When the Fire Starts",
+     "duracao": "3:33"
+    },
+    {
+     "n": 16,
+     "titulo": "“Gluttony” Music Video",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "On the Set: “Gluttony” Video Shoot",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "The Story Behind Confessions",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "“Gluttony” Lyric Video",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Confessions_%28Buckcherry_album%29",
+   "resumo_en": "Confessions is the sixth studio album by the American hard rock band Buckcherry. The album was released on February 19, 2013. It is the last Buckcherry album to feature the 15-era lineup, as bassist Jimmy Ashhurst departed the group later in 2013. Additionally, all other members of this lineup other than vocalist Josh Todd and guitarist Stevie D left by the end of 2017 shortly after the release of the band's follow-up album Rock 'n' Roll.\nSeven of the tracks on the album are named after the seven deadly sins."
+  },
+  {
+   "id": "e309b0e7-ec1f-4661-850f-a4cc55763637",
+   "titulo": "Rock n Roll",
+   "data": "2015-08-19",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/e4d5fc2e-3905-476d-8276-5f08a422ff62/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bring It on Back",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Tight Pants",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "A Wish to Carry On",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "The Feeling Never Dies",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Cradle",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "The Madness",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Wood",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Rain’s Falling",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Sex Appeal",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Get With It",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ve Done Everything for You",
+     "duracao": "3:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Mama Kin",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 67,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_%27n%27_Roll_%28Buckcherry_album%29",
+   "resumo_en": "Rock 'n' Roll is the seventh studio album by American hard rock band Buckcherry, released on August 21, 2015 by F-Bomb Records and Century Media Records. It is the band's first album with bassist Kelly LeMieux and their last album with guitarist Keith Nelson and drummer Xavier Muriel before they both left Buckcherry in 2017, due to disagreements with vocalist Josh Todd over the band's direction.\nClocking in at 36 minutes, Rock 'n' Roll is Buckcherry’s shortest album."
+  },
+  {
+   "id": "920a6b59-4af1-4ed8-ba8f-b9afeb29f774",
+   "titulo": "Warpaint",
+   "data": "2019-03-08",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/b2d9ca50-e139-4040-9d50-4e81995af54e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Warpaint",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Right Now",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Head Like a Hole",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Radio Song",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "The Vacuum",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Bent",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Back Down",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "The Alarm",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "No Regrets",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "The Hunger",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Closer",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "The Devil’s in the Details",
+     "duracao": "3:12"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Warpaint_%28Buckcherry_album%29",
+   "resumo_en": "Warpaint is the eighth studio album by American hard rock band Buckcherry, released on March 8, 2019, by Century Media Records. It is their only album to feature guitarist Kevin Roentgen and drummer Sean Winchester."
+  },
+  {
+   "id": "29a2a84c-8549-4d41-8e46-314235ff34f7",
+   "titulo": "Hellbound",
+   "data": "2021-06-24",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/a2c36010-caed-4705-942b-4c7c23b54d5e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "5-4-3-2-1",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "So Hott",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Hellbound",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Gun",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "No More Lies",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Here I Come",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Junk",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Wasting No More Time",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "The Way",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Barricade",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "d2577ba7-d5af-4532-81b7-fdd08d79bf5a",
+   "titulo": "Vol. 10",
+   "data": "2023-06-02",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/2784ee99-5a32-41bd-bcd6-54de00e1859e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This and That",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Good Time",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Keep on Fighting",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Turn It On",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Feels Like Love",
+     "duracao": "4:42"
+    },
+    {
+     "n": 6,
+     "titulo": "One and Only",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Shine Your Light",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Let’s Get Wild",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "With You",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Pain",
+     "duracao": "3:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Summer of ’69",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "2e8241ae-afb6-40a4-b764-2839528f887d",
+   "titulo": "Roar Like Thunder",
+   "data": "2025-06-13",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/863c7d1c-e17d-4813-b824-2644c6b8db57/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Roar Like Thunder",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "When the Sun Goes Down",
+     "duracao": "2:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Come On",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Talking Bout Sex",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Blackout",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "I Go Boom",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Set It Free",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Hello Goodbye",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Machine Gun",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Let It Burn",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

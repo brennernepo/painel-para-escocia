@@ -1,0 +1,443 @@
+{
+ "id": "matchbox-twenty",
+ "nome": "Matchbox Twenty",
+ "cena": "Pós-grunge",
+ "mbid": "75af9d25-cf32-49c0-9192-60bd8e9784e6",
+ "wikidata": "Q482444",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1996",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative rock",
+  "post-grunge",
+  "pop rock",
+  "rock",
+  "pop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Matchbox_twenty_in_MAA_03.jpg/500px-Matchbox_twenty_in_MAA_03.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Matchbox_Twenty",
+ "resumo_pt": "Matchbox Twenty, ou originalmente Matchbox 20, é uma banda de rock de Orlando, Flórida. A história dessa banda começa no ano de 1992, quando o vocalista Rob Thomas se muda para a cidade de Orlando, na Flórida, e conhece o baixista Brian Yale e o baterista Paul Doucette. Os três então, passam por várias bandas juntos, até formarem enfim o Matchbox. Após muita procura, o trio recruta os guitarristas Adam Gaynor, que trabalhava nos estúdios “Criteria”, e Kyle Cook, estudante de música do instituto de Atlanta. Com o grupo completo, eles começam a trabalhar com o produtor Matt Serletic, com quem gravam uma série de demos, responsáveis por sua primeira turnê nos EUA. Com o sucesso das apresentações, a banda assina contrato com a gravadora “Lava”, subsidiária da Atlantic Records e começa a gravação de seu primeiro álbum oficial.\nEm outubro de 1996 é lançado o primeiro disco do quinteto, “Yourself Or Someone Like You”, que não emplacou logo de cara, devido a sua pouca divulgação. A banda sai então em turnê, divulgando o disco e distribuindo seu single “Long Day” por várias rádios influentes do país, o que viria a abrir caminho para o seu primeiro hit, “Push”. Em outubro de 97, a canção começou uma escalada e após uma execução massiva nas rádios e na MTV, a música chega ao Top 10 das paradas. Algum tempo depois, é lançado o single “3am”, que supera o sucesso de seu antecessor e confere ao grupo o prêmio da revista Rolling Stone de melhor banda nova. O disco recebeu 5 discos de platina",
+ "resumo_en": "Matchbox Twenty (formerly stylized as Matchbox 20) is an American rock band formed in 1995 at Orlando, Florida. The group currently consists of Rob Thomas (lead vocals, guitar, keyboards), Brian Yale (bass guitar), Paul Doucette (drums, rhythm guitar, backing vocals), and Kyle Cook (lead guitar, vocals).\nMatchbox Twenty rose to international fame with their debut album, Yourself or Someone Like You (1996), which was certified 12× platinum (diamond) in the United States and multi-platinum in Australia, Canada, and New Zealand. Their second album, Mad Season, released in 2000, charted in the top three on the Billboard 200 and was certified 4× platinum in the United States. Their third album, More Than You Think You Are, released in 2002, was certified 2× platinum in the United States.\nThe band then went on hiatus in 2004 after rhythm guitarist Adam Gaynor's departure. As a result, Paul Doucette took over rhythm guitar when the band reunited in 2007. They released a compilation album, Exile on Mainstream, which was certified gold in the United States. After the release, the band toured to support it. Matchbox Twenty then took another hiatus while Thomas resumed his solo career, but reunited again in 2010. On September 4, 2012, the band released their fourth studio album, North, which debuted at number one on the Billboard 200. Their fifth, Where the Light Goes, was released on May 26, 2023.",
+ "albuns": [
+  {
+   "id": "dbb71f1a-f9cb-3586-ba93-94150398368d",
+   "titulo": "Yourself or Someone Like You",
+   "data": "1996-10-01",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/06282ab3-9fb5-48b0-a8b6-874453866a20/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Real World",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Long Day",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "3 A.M.",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Push",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Girl Like That",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Back 2 Good",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Damn",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Argue",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Kody",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Busted",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Shame",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Hang",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.6,
+    "fontes": 5
+   },
+   "publico": 6.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Yourself_or_Someone_Like_You",
+   "resumo_en": "Yourself or Someone Like You is the debut album by American rock band Matchbox 20. It was released on October 1, 1996, by Lava Records and Atlantic Records. The album has been certified 12× Platinum by the Recording Industry Association of America."
+  },
+  {
+   "id": "8eda03d5-8934-3657-bebe-9b231380b299",
+   "titulo": "Mad Season",
+   "data": "2000-05-23",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/1a78cfd1-833c-4817-87f1-dcab27943d55/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Angry",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Black & White People",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Crutch",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Last Beautiful Girl",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "If You’re Gone",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Mad Season",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Rest Stop",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "The Burn",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Bent",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Bed of Lies",
+     "duracao": "5:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Leave",
+     "duracao": "4:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Stop",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "You Won’t Be Mine",
+     "duracao": "9:52"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 57,
+    "media": 6.5,
+    "fontes": 8
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mad_Season_%28Matchbox_Twenty_album%29",
+   "resumo_en": "Mad Season is the second studio album by American rock band Matchbox Twenty. It was released on May 23, 2000, by Atlantic Records. The album's first single, \"Bent\", became the band's first and only number-one single on the US Billboard Hot 100 chart. The next two singles, \"If You're Gone\" and \"Crutch\", were both released on September 18, 2000—\"If You're Gone\" was serviced to pop radio while \"Crutch\" was promoted at rock radio instead. \"Mad Season\" and \"Last Beautiful Girl\" were released as the album's final two singles in 2001."
+  },
+  {
+   "id": "a13e9013-0d60-3013-8d57-c48539c9dfea",
+   "titulo": "More Than You Think You Are",
+   "data": "2002-11-12",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/76216475-1a28-42a0-9417-a36e6468c042/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feel",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Disease",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Bright Lights",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Unwell",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Cold",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "All I Need",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Hand Me Down",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Could I Be You",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Downfall",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Soul",
+     "duracao": "4:34"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re So Real",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "The Difference / So Sad, So Lonely",
+     "duracao": "8:00"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 50,
+    "media": 4.5,
+    "fontes": 8
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/More_Than_You_Think_You_Are",
+   "resumo_en": "More Than You Think You Are is the third studio album by American rock band Matchbox Twenty, released on November 19, 2002. The album is again a departure for the band as it has more of a focus on harder rock than the band's two previous albums. Five singles were released from the album: \"Disease\", \"Unwell\", \"Bright Lights\", \"Downfall\", and \"All I Need\". \"Downfall\" was released only in the United States while \"All I Need\" was issued only in Australia."
+  },
+  {
+   "id": "1b6c629c-9920-4678-a578-8f78bb5558f6",
+   "titulo": "North",
+   "data": "2012-08-28",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/4b492118-05ca-4a2f-8c82-376f4b372480/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Parade",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "She’s So Mean",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Overjoyed",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Put Your Hands Up",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Our Song",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "I Will",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "English Town",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "How Long",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Radio",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "The Way",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Like Sugar",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Sleeping at the Wheel",
+     "duracao": "3:52"
+    },
+    {
+     "n": 13,
+     "titulo": "I Believe in Everything",
+     "duracao": "3:38"
+    },
+    {
+     "n": 14,
+     "titulo": "Straight for This Life",
+     "duracao": "3:15"
+    },
+    {
+     "n": 15,
+     "titulo": "She’s So Mean (Music video)",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 57,
+    "media": 5.0,
+    "fontes": 6
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/North_%28Matchbox_Twenty_album%29",
+   "resumo_en": "North is the fourth studio album by American rock band Matchbox Twenty. It was released on August 28, 2012, in Australia and September 4, 2012, through Atlantic Records worldwide. It is the first album from the band to debut at No. 1 on the Billboard 200, selling 95,000 copies in its first week. It is also the first album of all new material that the band has released since More Than You Think You Are in 2002, although they recorded six new songs for their 2007 compilation album Exile on Mainstream. It is also their first full-length studio album since rhythm guitarist Adam Gaynor's departure from the band in 2005, as well as their last album produced by longtime producer Matt Serletic."
+  },
+  {
+   "id": "950010c6-8504-4e35-84c4-09b02e939c8e",
+   "titulo": "Where the Light Goes",
+   "data": "2023-05-26",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/355b57ec-a076-490a-8478-231cb2b1eceb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Friends",
+     "duracao": "4:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Wild Dogs (Running in a Slow Dream)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Rebels",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "One Hit Love",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Warm Blood",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Queen of New York City",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Where the Light Goes",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Hang on Every Word",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Get Me Wrong",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "I Know Better",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "No Other Love",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Selling Faith",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Where_the_Light_Goes",
+   "resumo_en": "Where the Light Goes is the fifth studio album by American rock band Matchbox Twenty, released on May 26, 2023, by Atlantic Records. On March 17, 2023, the band released the first single from the album, \"Wild Dogs (Running in a Slow Dream)\". The album debuted at number 53 on the US Billboard 200 with 13,000 album-equivalent units in its first week.\nWhere the Light Goes is the band's first album in over a decade since North in 2012. This is also the first album of new material by the band not to be produced by longtime producer Matt Serletic, and also the first to not have any of its singles chart on the Mainstream Top 40 chart and last album with Atlantic Records. The album was produced by Gregg Wattenberg with band members Paul Doucette and Kyle Cook."
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "id": "greta-van-fleet",
+ "nome": "Greta Van Fleet",
+ "cena": "Hard rock",
+ "mbid": "0be22557-d8c7-4706-a531-625c4c570162",
+ "wikidata": "Q30636835",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "2012",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "hard rock",
+  "rock",
+  "classic rock",
+  "rock and roll"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Greta_Van_Fleet.jpg/500px-Greta_Van_Fleet.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Greta_Van_Fleet",
+ "resumo_pt": "Greta Van Fleet é uma banda de hard rock americana formada em 2012, na cidade de Frankenmuth, Michigan. Seus integrantes são os irmãos gêmeos Josh Kiszka e Jake Kiszka (vocal e guitarra, respectivamente), além do irmão mais novo Sam Kiszka (baixo) e do baterista Daniel Wagner (amigo de infância dos irmãos Kiszka).",
+ "resumo_en": "Greta Van Fleet is an American rock band formed in Frankenmuth, Michigan, in 2012. The band consists of vocalist Josh Kiszka, guitarist Jake Kiszka, bassist/keyboardist Sam Kiszka, and drummer Danny Wagner. The Kiszkas are brothers, and Josh and Jake Kiszka are identical twins. Greta Van Fleet was signed to Lava Records in March 2017, and a month later they released their debut studio EP, Black Smoke Rising. Their debut single, \"Highway Tune\", topped the Billboard U.S. Mainstream Rock and Active Rock charts in September 2017 for four weeks in a row. Their second EP, From the Fires, containing the four songs from Black Smoke Rising and four new songs, was released on November 10, 2017, alongside a second single, \"Safari Song\". From the Fires went on to win the 2019 Grammy Award for Best Rock Album.\nTheir debut full-length studio album, Anthem of the Peaceful Army, was released on October 19, 2018, and topped the Billboard Rock Albums chart in the first week after its release. The album's first single, \"When the Curtain Falls\", was released ahead of it in July 2018 and became the band's third number-one single on the U.S. Billboard Mainstream Rock chart. Anthem of the Peaceful Army also debuted atop the Billboard Hard Rock charts and reached the number one spot on the Billboard Top Album Sales charts in the first week after its release. Their fourth and most recent studio album, Palace for the People, was released on October 9, 2026.",
+ "albuns": [
+  {
+   "id": "b65d1b6b-0704-490e-b371-3601ca522476",
+   "titulo": "Anthem of the Peaceful Army",
+   "data": "2018-10-19",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/0047500a-c1ff-45b4-97ae-67c59166c646/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Age of Man",
+     "duracao": "6:06"
+    },
+    {
+     "n": 2,
+     "titulo": "The Cold Wind",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "When the Curtain Falls",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Watching Over",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Lover, Leaver (Taker, Believer)",
+     "duracao": "6:01"
+    },
+    {
+     "n": 6,
+     "titulo": "You’re the One",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "The New Day",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Mountain of the Sun",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Brave New World",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Anthem",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 53,
+    "media": 5.2,
+    "fontes": 7
+   },
+   "publico": 7.9,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthem_of_the_Peaceful_Army",
+   "resumo_en": "Anthem of the Peaceful Army is the debut studio album by American rock band Greta Van Fleet. The album was released on October 19, 2018, and follows the band's two EP releases, Black Smoke Rising and From the Fires. The first single, \"When the Curtain Falls\", was released in July 2018. A second single, \"You're the One\" was released around the time of the album's release.\nThe album was the top selling album in its debut week in the US, selling 87,000 copies. Factoring in album equivalent units, it debuted at number three on the Billboard 200."
+  },
+  {
+   "id": "7b2b6b9b-5469-4953-8206-4f2af64db840",
+   "titulo": "The Battle at Garden’s Gate",
+   "data": "2021-04-16",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/197ebc77-10cd-463a-970c-1a87181f5725/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heat Above",
+     "duracao": "5:41"
+    },
+    {
+     "n": 2,
+     "titulo": "My Way, Soon",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Broken Bells",
+     "duracao": "5:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Built by Nations",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Age of Machine",
+     "duracao": "6:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Tears of Rain",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Stardust Chords",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Light My Love",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Caravel",
+     "duracao": "4:55"
+    },
+    {
+     "n": 10,
+     "titulo": "The Barbarians",
+     "duracao": "5:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Trip the Light Fantastic",
+     "duracao": "4:33"
+    },
+    {
+     "n": 12,
+     "titulo": "The Weight of Dreams",
+     "duracao": "8:51"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 64,
+    "media": 6.2,
+    "fontes": 9
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Battle_at_Garden%27s_Gate",
+   "resumo_en": "The Battle at Garden's Gate is the second studio album by American rock band Greta Van Fleet, released on April 16, 2021. The album's first single, \"My Way, Soon\", was released on October 9, 2020 and topped the Billboard Mainstream Rock chart in January 2021.\nThe album debuted at number 7 on the Billboard 200 and number 1 on the Top Hard Rock Albums and Top Rock Albums charts with first week sales of 43,000."
+  },
+  {
+   "id": "d91c6221-bc76-4197-8971-b466f800d36a",
+   "titulo": "Starcatcher",
+   "data": "2023-07-21",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/202bff8c-01bd-4202-a69d-352c937809a0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fate of the Faithful",
+     "duracao": "4:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Waited All Your Life",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "The Falling Sky",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Sacred the Thread",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Runway Blues",
+     "duracao": "1:17"
+    },
+    {
+     "n": 6,
+     "titulo": "The Indigo Streak",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Frozen Light",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "The Archer",
+     "duracao": "5:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Meeting the Master",
+     "duracao": "5:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Farewell for Now",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 61,
+    "media": 5.2,
+    "fontes": 5
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Starcatcher_%28album%29",
+   "resumo_en": "Starcatcher is the third studio album by American rock band Greta Van Fleet. It was released on July 21, 2023, through Lava and Republic Records.\nThe album debuted at number 8 on the US Billboard 200 selling 46,000 album-equivalent units in its first week."
+  },
+  {
+   "id": "4e554943-96d5-423c-88ac-8d4ae03ce014",
+   "titulo": "Palace for the People",
+   "data": "2026-10-09",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/1be2994f-793d-4adf-a690-293415574261/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Into the Beginning",
+     "duracao": "1:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Tear It Down",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Heart and the Beat",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Boughten Bliss",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Field of Stars",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Play Your Games",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Dreams You Hold",
+     "duracao": "5:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Lost in the Golden",
+     "duracao": "4:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Touch Again",
+     "duracao": "4:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Saw You Stand",
+     "duracao": "4:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Heya",
+     "duracao": "4:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Call My Own",
+     "duracao": "4:13"
+    },
+    {
+     "n": 13,
+     "titulo": "Born Into This",
+     "duracao": "6:20"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

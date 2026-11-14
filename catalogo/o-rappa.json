@@ -1,0 +1,567 @@
+{
+ "id": "o-rappa",
+ "nome": "O Rappa",
+ "cena": "Rock brasileiro",
+ "mbid": "00034ede-a1f1-4219-be39-02f36853373e",
+ "wikidata": "Q2059219",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1994",
+ "fim": "2018",
+ "ativa": false,
+ "generos": [
+  "alternative rock",
+  "experimental rock",
+  "funk rock",
+  "hip hop",
+  "rap rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/ORappa-show-small.jpg/500px-ORappa-show-small.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/O_Rappa",
+ "resumo_pt": "O Rappa foi uma banda de rock e reggae brasileira, formada em 1993 no Rio de Janeiro.  Além do reggae-rock, suas músicas possuem elementos do rap, do samba, do funk e da MPB. Notáveis por suas letras de forte cunho social, a banda teve sucesso durante grande parte de seu período de 25 anos em atividade. Formada por músicos que acompanhavam o cantor Papa Winnie em turnê pelo Brasil (além do cantor Marcelo Falcão), a banda não obteve muito sucesso com seu álbum de estreia, mas alcançou fama nacional com seu segundo disco, Rappa Mundi, lançado em 1996.\nEm 2000, o baterista Marcelo Yuka foi baleado em um assalto e ficou paraplégico. Com isso, o tecladista Marcelo Lobato assumiu a bateria e a banda se manteve em atividade, com o lançamento do álbum O Silêncio Q Precede O Esporro (2003) e permanecendo como uma das bandas mais aclamadas do rock brasileiro.\nO Rappa já vendeu mais de 5 milhões de cópias de seus álbuns em exportações internacionais. É dito até os dias atuais que a banda seguiu no seu auge uma linha ideológica criada por Marcelo Yuka e não por Marcelo Falcão. \nO Rappa anuncia pausa nas atividades por tempo indeterminado. O grupo surgiu em 1993 e já havia feito uma pausa entre os anos de 2009 e 2011.",
+ "resumo_en": "O Rappa was a Brazilian reggae rock band from Rio de Janeiro, Brazil. Combining many styles such as rock, reggae, funk, hip hop and samba, many of O Rappa's songs contain sharp protests against the social problems in Brazil and the members of the band themselves are supporters of numerous social projects.",
+ "albuns": [
+  {
+   "id": "78f532bc-4b04-337d-a043-a28fda29adff",
+   "titulo": "O Rappa",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/48043a43-e73c-4c58-a93b-60cbe8b14e75/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Catequeses do medo",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Não vão me matar",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Todo camburão tem um pouco de navio negreiro",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Take It Easy My Brother Charles",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Brixton, Bronx ou Baixada",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "R.A.M.",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Skunk Jammin'",
+     "duracao": "0:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Coincidências e paixões",
+     "duracao": "4:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Fogo cruzado",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "À Noite",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Candidato caô caô",
+     "duracao": "4:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Mitologia gerimum",
+     "duracao": "4:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Sujo",
+     "duracao": "4:13"
+    },
+    {
+     "n": 14,
+     "titulo": "Sujo (dub)",
+     "duracao": "4:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Todo camburão tem um pouco de navio negreiro (dub)",
+     "duracao": "4:30"
+    },
+    {
+     "n": 16,
+     "titulo": "Vinheta da Silva",
+     "duracao": "0:25"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/O_Rappa_%28album%29",
+   "resumo_en": "O Rappa is the first album by Brazilian band O Rappa. The album's sonorization is reggae fusion. It was released in 1994 through Warner Music."
+  },
+  {
+   "id": "043a7cc5-f307-3dfa-8a7c-553ab74b45e5",
+   "titulo": "Rappa mundi",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/daef1b89-8925-4043-a8f9-4e597d6de044/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A feira",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Miséria S.A.",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Vapor barato",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Ilê Ayê",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Hey Joe",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Pescador de ilusões",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Uma ajuda",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Eu quero ver gol",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Eu não sei mentir direito",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "O homem bomba",
+     "duracao": "3:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Tumulto",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Lei da sobrevivência",
+     "duracao": "3:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Óia o rapa",
+     "duracao": "5:56"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rappa_Mundi",
+   "resumo_en": "Rappa Mundi is the second album by Brazilian band O Rappa. It was released in September 1996 through Warner Music."
+  },
+  {
+   "id": "82acf0fe-6f01-3290-ab9c-40cdf3690706",
+   "titulo": "LadoB LadoA",
+   "data": "1999-09-15",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/8d251b49-82c6-48c1-93ab-da23ea114475/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tribunal de Rua",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Me Deixa",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Cristo E Oxalá",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "O Que Sobrou Do Céu",
+     "duracao": "3:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Se Não Avisar o Bicho Pega",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Minha Alma (A Paz Que Eu Não Quero)",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Ladob Ladoa",
+     "duracao": "5:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Favela",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Homem Amarelo",
+     "duracao": "4:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Nó de Fumaça",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "A Todas as Comunidades Do Engenho Novo",
+     "duracao": "6:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Na Palma da Mão",
+     "duracao": "7:04"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lado_B_Lado_A",
+   "resumo_en": "Lado B Lado A (Portuguese: Side B Side A) is the third album by Brazilian band O Rappa. It was released in 1999 through Warner Music. Rolling Stone Brasil listed it as the 93rd best Brazilian music album.\nIn 2007, the title song was featured in the Brazilian film Tropa de Elite."
+  },
+  {
+   "id": "02de212c-ea7e-3f5d-bb4f-666a27659816",
+   "titulo": "O silêncio q precede o esporro",
+   "data": "2003-09-13",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/55506ef5-957c-4358-a1c4-ec63d32b4884/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silêncio",
+     "duracao": "0:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Reza vela",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Silêncio",
+     "duracao": "0:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Rodo cotidiano",
+     "duracao": "6:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Papo de surdo e mudo",
+     "duracao": "5:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Silêncio",
+     "duracao": "0:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Bitterusso champagne",
+     "duracao": "6:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Silêncio",
+     "duracao": "0:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Mar de gente",
+     "duracao": "5:36"
+    },
+    {
+     "n": 10,
+     "titulo": "O salto",
+     "duracao": "6:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Silêncio",
+     "duracao": "1:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Linha vermelha",
+     "duracao": "3:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Pára pegador",
+     "duracao": "4:18"
+    },
+    {
+     "n": 14,
+     "titulo": "Silêncio",
+     "duracao": "1:08"
+    },
+    {
+     "n": 15,
+     "titulo": "Silêncio",
+     "duracao": "0:21"
+    },
+    {
+     "n": 16,
+     "titulo": "Silêncio",
+     "duracao": "0:14"
+    },
+    {
+     "n": 17,
+     "titulo": "Óbvio",
+     "duracao": "4:18"
+    },
+    {
+     "n": 18,
+     "titulo": "Silêncio",
+     "duracao": "0:42"
+    },
+    {
+     "n": 19,
+     "titulo": "Maneiras",
+     "duracao": "4:16"
+    },
+    {
+     "n": 20,
+     "titulo": "O novo já nasce velho",
+     "duracao": "4:11"
+    },
+    {
+     "n": 21,
+     "titulo": "Deus lhe pague",
+     "duracao": "3:28"
+    },
+    {
+     "n": 22,
+     "titulo": "Silêncio",
+     "duracao": "1:39"
+    },
+    {
+     "n": 23,
+     "titulo": "O salto II",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/O_Sil%C3%AAncio_Q_Precede_O_Esporro",
+   "resumo_en": "O Silêncio Q Precede O Esporro (Portuguese: The Silence Dat Precedes the Blast) is the fifth album by Brazilian band O Rappa, released in 2003 through Warner Music.\nProduced by Tom Capone and the band, this was the first album without the lyricist and drummer Marcelo Yuka (the drums being took over by the keyboardist Marcelo Lobato; the lyrics being took over by Marcelo Lobato's brother — Marcos Lobato — and Marcelo Falcão."
+  },
+  {
+   "id": "3bb66e6d-a17a-3f43-967d-420b1aefc56b",
+   "titulo": "7x",
+   "data": "2008-08-15",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/bd448834-f51c-4ed7-83a6-6e7255486888/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Meu santo tá cansado",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Verdade de feirante",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Hóstia",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Meu mundo é o barro",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Farpa cortante",
+     "duracao": "4:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Em busca do porrão",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "7 vezes",
+     "duracao": "5:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Monstro invisível",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Maria",
+     "duracao": "5:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Súplica cearense",
+     "duracao": "6:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Fininho da vida",
+     "duracao": "4:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Documento",
+     "duracao": "3:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Respeito pela mais bela",
+     "duracao": "3:51"
+    },
+    {
+     "n": 14,
+     "titulo": "Vários holofotes",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/7_Vezes",
+   "resumo_en": "7 Vezes (Portuguese: 7 Times, stylized as \"7X\") is the seventh album by Brazilian band O Rappa. The title alludes to the fact that this is the seventh album O Rappa has released. It was produced by Ricardo Vidal, Tom Sabóia and O Rappa. The album was released in 2008 through Warner Music."
+  },
+  {
+   "id": "3b5c763a-f033-4a18-a778-f3dd4f5db1d5",
+   "titulo": "Nunca tem fim...",
+   "data": "2013-08-15",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/48bacd9b-9fa6-4256-a21a-7f84c8b32e4a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O horizonte é logo alí",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Auto-reverse",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Boa noite Xangô",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Cruz de tecido",
+     "duracao": "6:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Fronteira (D.U.C.A.)",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Anjos (Pra quem tem fé)",
+     "duracao": "7:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Doutor, sim senhor!",
+     "duracao": "6:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Seqüência terminal",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Vida rasteja",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Um dia lindo - Praia e sol (incidental)",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nunca_Tem_Fim...",
+   "resumo_en": "Nunca Tem Fim... (Portuguese: Never Ends...) is the ninth and final studio album by Brazilian band O Rappa. The album was released on August 15, 2013 distributed through Warner Music. It was produced by Tom Saboia and mastered by Stephen Marcussen (Aerosmith, Nirvana, Paul McCartney) in California.\nIn 2014, the album was nominated to Latin Grammy for Best Brazilian Rock Album."
+  }
+ ]
+}

@@ -1,0 +1,1822 @@
+{
+ "id": "dream-theater",
+ "nome": "Dream Theater",
+ "cena": "Groove, death e além",
+ "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
+ "wikidata": "Q162586",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1985",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive metal",
+  "metal",
+  "heavy metal",
+  "progressive"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Dream_Theater-30_%2854625184939%29_%28cropped%29.jpg/500px-Dream_Theater-30_%2854625184939%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Dream_Theater",
+ "resumo_pt": "Dream Theater é uma banda de metal progressivo oriunda dos Estados Unidos e formada em meados dos anos 1980. Tornaram-se numa das bandas do movimento progressivo, desde o auge do rock progressivo em meados dos anos 1970.\nA banda é conhecida por ter músicos de excelente capacidade de composição e execução que ganharam vários prêmios por revistas especializadas. Colaboram com vários outros músicos de renome. Por exemplo, John Petrucci foi nomeado como o terceiro guitarrista do G3, juntamente com Steve Vai e Joe Satriani, seguindo a trilha de guitarristas como Eric Johnson, Robert Fripp e Yngwie Malmsteen.\nA banda entrou em turnê com diversas outras bandas, que incluem Iron Maiden, Joe Satriani, Marillion, Kansas, In Flames, Pain of Salvation, Porcupine Tree, Queensrÿche, Fear Factory, Enchant e Symphony X.",
+ "resumo_en": "Dream Theater is an American progressive metal band formed in 1985 in Boston, Massachusetts. The band comprises John Petrucci (guitar), John Myung (bass), Mike Portnoy (drums), James LaBrie (vocals), and Jordan Rudess (keyboards).\nDream Theater was formed under the name Majesty by Petrucci, Myung and Portnoy—all from Long Island, New York—while they attended Berklee College of Music. They dropped out to concentrate on the band. Dream Theater has undergone various lineup changes, though Petrucci and Myung have remained constant and Portnoy continues to play with the band today. After a brief stint with Chris Collins, followed by Charlie Dominici (who was dismissed from Dream Theater shortly after the release of their 1989 debut album When Dream and Day Unite), LaBrie was hired as the band's singer in 1991. Dream Theater's original keyboardist, Kevin Moore, left the band after three albums and was replaced by Derek Sherinian in 1995 after a period of touring. They recorded one album (and an EP) with Sherinian, who was replaced by current keyboardist Jordan Rudess in 1999. Portnoy left the band in 2010 to pursue other musical interests, and was replaced by Mike Mangini; he rejoined the band in October 2023.\nDream Theater has released 16 studio albums. The band's highest-selling release is their second album Images and Words (1992), which reached No. 61 on the Billboard 200 chart. Other albums such as Awake (1994) and Six Degrees of Inner Turbulence (2002) also entered the charts",
+ "albuns": [
+  {
+   "id": "37302ce5-6ce0-336e-8b9d-9c73930a7bea",
+   "titulo": "When Dream and Day Unite",
+   "data": "1989-03-06",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/5cae3660-e9ae-4d6e-8cd9-7ddfa8727184/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Fortune in Lies",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Status Seeker",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "The Ytse Jam",
+     "duracao": "5:43"
+    },
+    {
+     "n": 4,
+     "titulo": "The Killing Hand",
+     "duracao": "8:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Light Fuse and Get Away",
+     "duracao": "7:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Afterlife",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "The Ones Who Help to Set the Sun",
+     "duracao": "8:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Only a Matter of Time",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/When_Dream_and_Day_Unite",
+   "resumo_en": "When Dream and Day Unite is the debut studio album by American progressive metal band Dream Theater, released on March 6, 1989, through Mechanic/MCA Records. The album is composed mostly of material that originally surfaced during the band's early years as Majesty, and it is the only Dream Theater album to be recorded with their full original lineup. James LaBrie replaced Charlie Dominici as the lead vocalist on all subsequent albums."
+  },
+  {
+   "id": "ee30c026-b4f4-3e2a-94cf-7e586f1ccae0",
+   "titulo": "Images and Words",
+   "data": "1992-07-06",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/782b4124-2084-40c9-8be2-007bd5628872/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pull Me Under",
+     "duracao": "8:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Another Day",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Take the Time",
+     "duracao": "8:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Surrounded",
+     "duracao": "5:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Metropolis, Part I: The Miracle and the Sleeper",
+     "duracao": "9:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Under a Glass Moon",
+     "duracao": "7:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Wait for Sleep",
+     "duracao": "2:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Learning to Live",
+     "duracao": "11:30"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.1,
+    "fontes": 5
+   },
+   "publico": 8.6,
+   "publico_votos": 32,
+   "wikipedia": "https://en.wikipedia.org/wiki/Images_and_Words",
+   "resumo_en": "Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song \"Pull Me Under\" has the distinction of being the only Top 10 hit (radio or otherwise) the band has had to date. This particular song also had renewed popularity due to its appearance in the 2008 video game Guitar Hero World Tour."
+  },
+  {
+   "id": "676ab2e6-17e6-32e8-9060-191a931ea7b2",
+   "titulo": "Awake",
+   "data": "1994-10-04",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/22a21ebc-d09c-3d16-bcd4-749b33f9e8bd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "6:00",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Caught in a Web",
+     "duracao": "5:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Innocence Faded",
+     "duracao": "5:43"
+    },
+    {
+     "n": 4,
+     "titulo": "A Mind Beside Itself: I. Erotomania / II. Voices / III. The Silent Man",
+     "duracao": "20:26"
+    },
+    {
+     "n": 5,
+     "titulo": "The Mirror",
+     "duracao": "6:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Lie",
+     "duracao": "6:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Lifting Shadows off a Dream",
+     "duracao": "6:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Scarred",
+     "duracao": "11:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Space‐Dye Vest",
+     "duracao": "7:29"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 8.4,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Awake_%28Dream_Theater_album%29",
+   "resumo_en": "Awake is the third studio album by American progressive metal band Dream Theater, released on October 4, 1994, through East West Records. It is the final Dream Theater album to feature original keyboardist Kevin Moore, who announced his decision to leave the band during the mixing process of the album.\nMuch of the material for Awake was written in writing sessions between February and April 1994, during which Dream Theater were under pressure from their record label to produce an album as successful as Images and Words (1992) with a single similar to \"Pull Me Under\". The label wanted the band to produce a more metal-oriented album, hoping it would be easier to market. John Purdell and Duane Baron produced, engineered and mixed the album. The album's cover, again designed by Larry Freemantle, features numerous references to the album's lyrics.\nReleased at the height of the popularity of grunge music, Awake initially received mixed reviews, though the album was later referred to as one of the band's finest releases. The album peaked at 32 on the US Billboard 200, the highest position a Dream Theater album would reach on that chart until 2007's Systematic Chaos, which peaked at 19. \"L"
+  },
+  {
+   "id": "27c67830-6dc8-3af8-a970-7a1fb2fc6f1b",
+   "titulo": "Falling Into Infinity",
+   "data": "1997-09-23",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/9ac2fab7-7287-454c-95f2-02a2ff90d55b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "New Millennium",
+     "duracao": "8:20"
+    },
+    {
+     "n": 2,
+     "titulo": "You Not Me",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Peruvian Skies",
+     "duracao": "6:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Hollow Years",
+     "duracao": "5:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Burning My Soul",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Hell’s Kitchen",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Lines in the Sand",
+     "duracao": "12:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Take Away My Pain",
+     "duracao": "6:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Just Let Me Breathe",
+     "duracao": "5:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Anna Lee",
+     "duracao": "5:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Trial of Tears: I. It’s Raining / II. Deep in Heaven / III. The Wasteland",
+     "duracao": "13:05"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 7.1,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Falling_into_Infinity",
+   "resumo_en": "Falling into Infinity is the fourth studio album by American progressive metal band Dream Theater, released on September 23, 1997, through EastWest Records. It is the band's only studio album to feature keyboardist Derek Sherinian, following the departure of Kevin Moore in 1994.\nFalling into Infinity was produced by Kevin Shirley. The album's writing and pre-production phases were stressful periods for the band, as they were feeling constant pressure from the record label to deliver a more radio-friendly album. It was recorded in June 1997 at Avatar Studios (previously known as Power Station Studios) in Manhattan."
+  },
+  {
+   "id": "d8ae7015-d78b-307e-bcde-5b0dd1e61528",
+   "titulo": "Metropolis, Pt. 2: Scenes From a Memory",
+   "data": "1999-10-25",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/aa293a03-f2d2-40a8-9302-c8d4ab0caa0e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Act I: Scene One: Regression",
+     "duracao": "2:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Act I: Scene Two: I. Overture 1928",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Act I: Scene Two: II. Strange Deja Vu",
+     "duracao": "5:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Act I: Scene Three: I. Throug My Words",
+     "duracao": "1:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Act I: Scene Three: II. Fatal Tragedy",
+     "duracao": "6:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Act I: Scene Four: I. Beyond This Life",
+     "duracao": "11:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Act I: Scene Five: I. Through Her Eyes",
+     "duracao": "5:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Act II: Scene Six: I. Home",
+     "duracao": "12:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Act II: Scene Seven: I. The Dance of Eternity",
+     "duracao": "6:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Act II: Scene Seven: II. One Last Time",
+     "duracao": "3:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Act II: Scene Eight: The Spirit Carries On",
+     "duracao": "6:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Act II: Scene Nine: I. Finally Free",
+     "duracao": "12:01"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 4
+   },
+   "publico": 9.1,
+   "publico_votos": 30,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metropolis_Pt._2%3A_Scenes_from_a_Memory",
+   "resumo_en": "Metropolis Pt. 2: Scenes from a Memory is the fifth studio album and first concept album by the American progressive metal band Dream Theater, released on October 26, 1999, through Elektra Records. It was recorded at BearTracks Studios in Suffern, New York, where the band had previously recorded their second studio album, Images and Words (1992), and the EP A Change of Seasons (1995).\nThe album is the sequel to \"Metropolis—Part I: 'The Miracle and the Sleeper'\", a song featured on the band's 1992 album Images and Words. It was the first album to feature Jordan Rudess on keyboards.\nFor the album's twentieth anniversary, the band performed the album live in its entirety throughout the Distance over Time Tour (as documented on Distant Memories - Live in London).\nOn June 24, 2024, it was announced that the album would receive a novel adaptation, with Peter Orullian as the author. It was released on October 26, 2024, coinciding with the album's 25th anniversary."
+  },
+  {
+   "id": "74a4416f-1c7f-3f67-8208-b978c7b9379d",
+   "titulo": "Six Degrees of Inner Turbulence",
+   "data": "2002-01-21",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/59ce65b2-bb8e-4478-ac48-5ceb9c5d39d3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Glass Prison",
+     "duracao": "13:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Blind Faith",
+     "duracao": "10:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Misunderstood",
+     "duracao": "9:32"
+    },
+    {
+     "n": 4,
+     "titulo": "The Great Debate",
+     "duracao": "13:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Disappear",
+     "duracao": "6:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Six Degrees of Inner Turbulence: I. Overture",
+     "duracao": "6:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Six Degrees of Inner Turbulence: II. About to Crash",
+     "duracao": "5:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Six Degrees of Inner Turbulence: III. War Inside My Head",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Six Degrees of Inner Turbulence: IV. The Test That Stumped Them All",
+     "duracao": "5:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Six Degrees of Inner Turbulence: V. Goodnight Kiss",
+     "duracao": "6:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Six Degrees of Inner Turbulence: VI. Solitary Shell",
+     "duracao": "5:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Six Degrees of Inner Turbulence: VII. About to Crash (reprise)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Six Degrees of Inner Turbulence: VIII. Losing Time / Grand Finale",
+     "duracao": "5:59"
+    }
+   ],
+   "duracao_min": 96,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 2
+   },
+   "publico": 8.7,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/Six_Degrees_of_Inner_Turbulence",
+   "resumo_en": "Six Degrees of Inner Turbulence is the sixth studio album by American progressive metal band Dream Theater, released as a double-disc album on January 29, 2002, through Elektra Records. It is the first full-length Dream Theater album to feature a title track. It is also their second longest studio album to date, after The Astonishing (2016)."
+  },
+  {
+   "id": "3eb5524e-34c6-31d8-97cc-fb98356825fb",
+   "titulo": "Train of Thought",
+   "data": "2003-10",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/1915a388-a7fe-438f-8867-465a6f35d204/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "As I Am",
+     "duracao": "7:47"
+    },
+    {
+     "n": 2,
+     "titulo": "This Dying Soul",
+     "duracao": "11:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Endless Sacrifice",
+     "duracao": "11:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Honor Thy Father",
+     "duracao": "10:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Vacant",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Stream of Consciousness",
+     "duracao": "11:16"
+    },
+    {
+     "n": 7,
+     "titulo": "In the Name of God",
+     "duracao": "14:14"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 4
+   },
+   "publico": 7.4,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Train_of_Thought_%28Dream_Theater_album%29",
+   "resumo_en": "Train of Thought is the seventh studio album by American progressive metal band Dream Theater, released on November 11, 2003 through Elektra Records.\nInspired by the audience response to Dream Theater's heavier songs while on tour, in the Chaos in Progress documentary, Portnoy says that they wanted Train of Thought to be a \"balls to the wall\" album with heavier, darker riffing, exposing them to a number of new metal fans. The album was written in three weeks. It was engineered by Doug Oberkircher and mixed by Kevin Shirley. Most of the album was played in concert for the Live at Budokan DVD. All songs from it have been played live to date."
+  },
+  {
+   "id": "5a52d5f9-9173-3d88-bc27-569e333f9207",
+   "titulo": "Octavarium",
+   "data": "2005-06-06",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/c9669c0d-ee81-37fe-a972-9a6f023fffb0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Root of All Evil",
+     "duracao": "8:25"
+    },
+    {
+     "n": 2,
+     "titulo": "The Answer Lies Within",
+     "duracao": "5:33"
+    },
+    {
+     "n": 3,
+     "titulo": "These Walls",
+     "duracao": "7:36"
+    },
+    {
+     "n": 4,
+     "titulo": "I Walk Beside You",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Panic Attack",
+     "duracao": "8:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Never Enough",
+     "duracao": "6:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Sacrificed Sons",
+     "duracao": "10:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Octavarium",
+     "duracao": "24:00"
+    }
+   ],
+   "duracao_min": 76,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 7.7,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Octavarium",
+   "resumo_en": "Octavarium is the eighth studio album by American progressive metal band Dream Theater. Released on June 7, 2005, it was the band's final release with Atlantic Records. Recorded between September 2004 and February 2005, it was the last album recorded at The Hit Factory in New York City. With it, the band decided to create \"a classic Dream Theater album\", drawing upon their various stylistic influences while trying to make the music less complex. The album takes its creative concept from the musical octave.\nOctavarium peaked in the top five in the Finnish, Italian, and Swedish charts, and in the top ten in the Dutch, Japanese, and Norwegian charts. Critical reception of the album was generally positive; the diversity of the music was praised, although critics found some of the songwriting to be inconsistent. Dream Theater promoted the album on a year-long world tour, with the majority of concerts lasting almost three hours and featuring a different set list each night. The tour finished at Radio City Music Hall accompanied by an orchestra; this performance was recorded and released as a live album and concert video entitled Score. They co-headlined the 2005 North American Gigantour "
+  },
+  {
+   "id": "44aef5b4-36fc-3b45-b58b-59f2ca69d453",
+   "titulo": "Systematic Chaos",
+   "data": "2007-05-23",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/14757602-b109-3cf4-80f2-826fce851c0f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In the Presence of Enemies, Part I",
+     "duracao": "9:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Forsaken",
+     "duracao": "5:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Constant Motion",
+     "duracao": "6:55"
+    },
+    {
+     "n": 4,
+     "titulo": "The Dark Eternal Night",
+     "duracao": "8:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Repentance",
+     "duracao": "10:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Prophets of War",
+     "duracao": "6:01"
+    },
+    {
+     "n": 7,
+     "titulo": "The Ministry of Lost Souls",
+     "duracao": "14:57"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Presence of Enemies, Part II",
+     "duracao": "16:38"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 6.2,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Systematic_Chaos",
+   "resumo_en": "Systematic Chaos is the ninth studio album by American progressive metal band Dream Theater. Released on June 4, 2007 in the United Kingdom and June 5, 2007 in the United States, Systematic Chaos was the band's first release through Roadrunner Records, which was sold to their previous label Atlantic Records, through which the band had released their previous studio album Octavarium (2005). The album was recorded from September 2006 to February 2007 at Avatar Studios in New York City, after the band's first break from summer touring in ten years. The lyrics of the album were written by John Petrucci, James LaBrie, and Mike Portnoy about fictional, political, and personal topics, respectively.\nThe album peaked in the top twenty in eight countries' sales charts; in addition, the album peaked at the nineteenth position on the Billboard 200, making it the highest peaking Dream Theater album in the United States until the release of Black Clouds & Silver Linings (2009), which debuted at the sixth position. Critical reception of the album was generally positive; Jon Eardley from MetalReview.com called the band, \"arguably the most consistent band throughout the entire progressive rock/meta"
+  },
+  {
+   "id": "ba5ef564-b2f8-3bb5-9d8f-57828cfa767c",
+   "titulo": "Black Clouds & Silver Linings",
+   "data": "2009-06-19",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/c942cefe-96cd-4daf-8686-15eba2fb2ffb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Nightmare to Remember",
+     "duracao": "16:11"
+    },
+    {
+     "n": 2,
+     "titulo": "A Rite of Passage",
+     "duracao": "8:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Wither",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "The Shattered Fortress",
+     "duracao": "12:49"
+    },
+    {
+     "n": 5,
+     "titulo": "The Best of Times",
+     "duracao": "13:09"
+    },
+    {
+     "n": 6,
+     "titulo": "The Count of Tuscany",
+     "duracao": "19:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Stargazer",
+     "duracao": "8:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Tenement Funster / Flick of the Wrist / Lily of the Valley",
+     "duracao": "8:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Odyssey",
+     "duracao": "8:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Take Your Fingers From My Hair",
+     "duracao": "8:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Larks Tongues in Aspic, Part 2",
+     "duracao": "6:32"
+    },
+    {
+     "n": 12,
+     "titulo": "To Tame a Land",
+     "duracao": "7:15"
+    },
+    {
+     "n": 13,
+     "titulo": "A Nightmare to Remember (instrumental)",
+     "duracao": "15:39"
+    },
+    {
+     "n": 14,
+     "titulo": "A Rite of Passage (instrumental)",
+     "duracao": "8:36"
+    },
+    {
+     "n": 15,
+     "titulo": "Wither (instrumental)",
+     "duracao": "5:28"
+    },
+    {
+     "n": 16,
+     "titulo": "The Shattered Fortress (instrumental)",
+     "duracao": "12:47"
+    },
+    {
+     "n": 17,
+     "titulo": "The Best of Times (instrumental)",
+     "duracao": "13:20"
+    },
+    {
+     "n": 18,
+     "titulo": "The Count of Tuscany (instrumental)",
+     "duracao": "18:47"
+    }
+   ],
+   "duracao_min": 197,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 68,
+    "media": 7.8,
+    "fontes": 9
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Clouds_%26_Silver_Linings",
+   "resumo_en": "Black Clouds & Silver Linings is the tenth studio album by American progressive metal band Dream Theater, released on June 23, 2009, through Roadrunner Records. It was the last album to feature drummer and founding member Mike Portnoy until Parasomnia (2025) following his return in 2023.\nThe album was recorded between October 2008 and March 2009 at Avatar Studios in New York City, where they previously recorded Falling into Infinity (1997) and Systematic Chaos (2007). Black Clouds & Silver Linings was produced by John Petrucci and Portnoy (their final album to be produced jointly as of 2024, since Parasomnia was solely produced by Petrucci), and was engineered and mixed by Paul Northfield.\nBlack Clouds & Silver Linings was a major success for Dream Theater, becoming their highest-charting album on the Billboard 200, where it peaked at number six."
+  },
+  {
+   "id": "85791a2b-ce2f-4dcd-96e6-3935420666b9",
+   "titulo": "A Dramatic Turn of Events",
+   "data": "2011-08-25",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/8d71c769-db29-41c9-86a3-581be0bd7388/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "On the Backs of Angels",
+     "duracao": "8:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Build Me Up, Break Me Down",
+     "duracao": "6:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Lost Not Forgotten",
+     "duracao": "10:11"
+    },
+    {
+     "n": 4,
+     "titulo": "This Is the Life",
+     "duracao": "6:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Bridges in the Sky",
+     "duracao": "11:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Outcry",
+     "duracao": "11:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Far From Heaven",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Breaking All Illusions",
+     "duracao": "12:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Beneath the Surface",
+     "duracao": "5:26"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 55,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 7.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Dramatic_Turn_of_Events",
+   "resumo_en": "A Dramatic Turn of Events is the eleventh studio album by American progressive metal band Dream Theater, released worldwide in September 2011 through Roadrunner Records. It is the band's first recording to feature drummer Mike Mangini, following the initial departure of founding member Mike Portnoy in September 2010. The album was written, recorded, mixed, and mastered between January and June 2011 at Cove City Sound Studios in Long Island, New York. It was produced by guitarist John Petrucci and mixed by Andy Wallace. Two singles, \"On the Backs of Angels\" and \"Build Me Up, Break Me Down\", were released in promotion of the album.\nFor A Dramatic Turn of Events, Dream Theater underwent a self-proclaimed musical change, reevaluating and restructuring themselves. The album has drawn stylistic comparisons to two of the band's past albums, Images and Words (1992) and Metropolis Pt. 2: Scenes from a Memory (1999). Many songs on the album were written with a specific purpose in mind as Petrucci, one of the album's primary composers, felt a sense of responsibility to fans following Portnoy's departure. The album's title was derived from its recurring lyrical themes of dramatic changes in hi"
+  },
+  {
+   "id": "1b537b55-6543-436e-b569-91fc789eff43",
+   "titulo": "Dream Theater",
+   "data": "2013-09-18",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/9dfe4c52-f04b-46d8-9bfa-4fe3001fde3c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "False Awakening Suite: I. Sleep Paralysis / II. Night Terrors / III. Lucid Dream",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "The Enemy Inside",
+     "duracao": "6:17"
+    },
+    {
+     "n": 3,
+     "titulo": "The Looking Glass",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Enigma Machine",
+     "duracao": "6:01"
+    },
+    {
+     "n": 5,
+     "titulo": "The Bigger Picture",
+     "duracao": "7:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Behind the Veil",
+     "duracao": "6:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Surrender to Reason",
+     "duracao": "6:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Along for the Ride",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Illumination Theory: I. Paradoxe de la lumière noire / II. Live, Die, Kill / III. The Embracing Circle / IV. The Pursuit of Truth / V. Surrender, Trust & Passion",
+     "duracao": "22:17"
+    },
+    {
+     "n": 10,
+     "titulo": "False Awakening Suite: I. Sleep Paralysis / II. Night Terrors / III. Lucid Dreams",
+     "duracao": "2:41"
+    },
+    {
+     "n": 11,
+     "titulo": "The Enemy Inside",
+     "duracao": "6:17"
+    },
+    {
+     "n": 12,
+     "titulo": "The Looking Glass",
+     "duracao": "4:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Enigma Machine",
+     "duracao": "6:01"
+    },
+    {
+     "n": 14,
+     "titulo": "The Bigger Picture",
+     "duracao": "7:41"
+    },
+    {
+     "n": 15,
+     "titulo": "Behind the Veil",
+     "duracao": "6:52"
+    },
+    {
+     "n": 16,
+     "titulo": "Surrender to Reason",
+     "duracao": "6:34"
+    },
+    {
+     "n": 17,
+     "titulo": "Along for the Ride",
+     "duracao": "4:44"
+    },
+    {
+     "n": 18,
+     "titulo": "Illumination Theory: I. Paradoxe de la lumière noire / II. Live, Die, Kill / III. The Embracing Circle / IV. The Pursuit of Truth / V. Surrender, Trust & Passion",
+     "duracao": "22:18"
+    }
+   ],
+   "duracao_min": 136,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 6
+   },
+   "publico": 7.3,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dream_Theater_%28album%29",
+   "resumo_en": "Dream Theater is the twelfth studio album by American progressive metal band Dream Theater, released worldwide in September 2013, through Roadrunner Records. The album was written, recorded, mixed, and mastered between January and May 2013 at Cove City Sound Studios in Long Island, New York, the same studio as the band's previous album, A Dramatic Turn of Events (2011). It is the first Dream Theater album to include drummer Mike Mangini in the songwriting process.\nThe band made the album Dream Theater to emphasize that they were moving forward in their career and to make it a reference point for fans. The album's songs are shorter on average than most Dream Theater songs, with the exception of the 22-minute closer, \"Illumination Theory\". Some songs utilize organic strings, which were arranged by Eren Başbuğ, a Berklee College of Music student. The album features two instrumentals, \"False Awakening Suite\" and \"Enigma Machine\", which were the first instrumentals that the band had written for a studio album since Train of Thought (2003). Many of the album's lyrics were motivated by real-life events, such as the Boston Marathon bombings.\nDream Theater moved 34,000 units in the United S"
+  },
+  {
+   "id": "a6e607ef-5c6e-4feb-97f7-a5b49efbdd87",
+   "titulo": "The Astonishing",
+   "data": "2016-01-29",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/35acb59b-3a4c-4ce0-80de-b30ace3580e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Descent of the NOMACS",
+     "duracao": "1:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Dystopian Overture",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "The Gift of Music",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "The Answer",
+     "duracao": "1:53"
+    },
+    {
+     "n": 5,
+     "titulo": "A Better Life",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Lord Nafaryus",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "A Savior in the Square",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "When Your Time Has Come",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Act of Faythe",
+     "duracao": "5:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Three Days",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "The Hovering Sojourn",
+     "duracao": "0:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Brother, Can You Hear Me?",
+     "duracao": "5:11"
+    },
+    {
+     "n": 13,
+     "titulo": "A Life Left Behind",
+     "duracao": "5:49"
+    },
+    {
+     "n": 14,
+     "titulo": "Ravenskill",
+     "duracao": "6:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Chosen",
+     "duracao": "4:32"
+    },
+    {
+     "n": 16,
+     "titulo": "A Tempting Offer",
+     "duracao": "4:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Digital Discord",
+     "duracao": "0:48"
+    },
+    {
+     "n": 18,
+     "titulo": "The X Aspect",
+     "duracao": "4:13"
+    },
+    {
+     "n": 19,
+     "titulo": "A New Beginning",
+     "duracao": "7:41"
+    },
+    {
+     "n": 20,
+     "titulo": "The Road to Revolution",
+     "duracao": "3:35"
+    },
+    {
+     "n": 21,
+     "titulo": "2285 Entr’acte",
+     "duracao": "2:20"
+    },
+    {
+     "n": 22,
+     "titulo": "Moment of Betrayal",
+     "duracao": "6:11"
+    },
+    {
+     "n": 23,
+     "titulo": "Heaven’s Cove",
+     "duracao": "4:19"
+    },
+    {
+     "n": 24,
+     "titulo": "Begin Again",
+     "duracao": "3:54"
+    },
+    {
+     "n": 25,
+     "titulo": "The Path That Divides",
+     "duracao": "5:09"
+    },
+    {
+     "n": 26,
+     "titulo": "Machine Chatter",
+     "duracao": "1:03"
+    },
+    {
+     "n": 27,
+     "titulo": "The Walking Shadow",
+     "duracao": "2:58"
+    },
+    {
+     "n": 28,
+     "titulo": "My Last Farewell",
+     "duracao": "3:44"
+    },
+    {
+     "n": 29,
+     "titulo": "Losing Faythe",
+     "duracao": "4:13"
+    },
+    {
+     "n": 30,
+     "titulo": "Whispers on the Wind",
+     "duracao": "1:37"
+    },
+    {
+     "n": 31,
+     "titulo": "Hymn of a Thousand Voices",
+     "duracao": "3:38"
+    },
+    {
+     "n": 32,
+     "titulo": "Our New World",
+     "duracao": "4:12"
+    },
+    {
+     "n": 33,
+     "titulo": "Power Down",
+     "duracao": "1:25"
+    },
+    {
+     "n": 34,
+     "titulo": "Astonishing",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 131,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 80,
+    "media": 8.1,
+    "fontes": 8
+   },
+   "publico": 5.9,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Astonishing",
+   "resumo_en": "The Astonishing is the thirteenth studio album by American progressive metal band Dream Theater, released on January 29, 2016, through Roadrunner Records, which was their final release through the label. It is the band's second concept album, with a story conceived by guitarist John Petrucci and music written by Petrucci and keyboardist Jordan Rudess. Composer David Campbell assisted with orchestrating the album's strings and choirs. The band recorded their parts for the album throughout 2015 at Cove City Sound Studios on Long Island, New York, with the exception of vocals, which were recorded in Canada. Mixing and sound engineering were performed by the band's longtime collaborator, Richard Chycki, with Petrucci producing.\nThe Astonishing is set in a dystopian future United States and follows the Ravenskill Rebel Militia in their efforts to defy the Great Northern Empire of the Americas using the magical power of music. It was inspired by contemporary fantasy and science fiction franchises such as Game of Thrones and Star Wars, as well as Petrucci's observations on the ubiquity of technological automation in modern-day society. In their effort to match the album's narrative, Dream"
+  },
+  {
+   "id": "3d2ef7c3-f13e-4f23-9e83-51ec75023017",
+   "titulo": "Distance Over Time",
+   "data": "2019-02-22",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/fb1a36cb-0385-4f3f-a3bc-8d02ea0804dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Untethered Angel",
+     "duracao": "6:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Paralyzed",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Fall Into the Light",
+     "duracao": "7:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Barstool Warrior",
+     "duracao": "6:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Room 137",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "S2N",
+     "duracao": "6:21"
+    },
+    {
+     "n": 7,
+     "titulo": "At Wit’s End",
+     "duracao": "9:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Out of Reach",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Pale Blue Dot",
+     "duracao": "8:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Viper King",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Untethered Angel (instrumental mix)",
+     "duracao": "6:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Paralyzed (instrumental mix)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Fall Into the Light (instrumental mix)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Barstool Warrior (instrumental mix)",
+     "duracao": "6:43"
+    },
+    {
+     "n": 15,
+     "titulo": "Room 137 (instrumental mix)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 16,
+     "titulo": "S2N (instrumental mix)",
+     "duracao": "6:21"
+    },
+    {
+     "n": 17,
+     "titulo": "At Wit’s End (instrumental mix)",
+     "duracao": "9:20"
+    },
+    {
+     "n": 18,
+     "titulo": "Out of Reach (instrumental mix)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 19,
+     "titulo": "Pale Blue Dot (instrumental mix)",
+     "duracao": "8:25"
+    },
+    {
+     "n": 20,
+     "titulo": "Viper King (instrumental mix)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 21,
+     "titulo": "Untethered Angel (animation)",
+     "duracao": "6:14"
+    },
+    {
+     "n": 22,
+     "titulo": "Paralyzed (animation)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 23,
+     "titulo": "Fall Into the Light (animation)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 24,
+     "titulo": "Barstool Warrior (animation)",
+     "duracao": "6:43"
+    },
+    {
+     "n": 25,
+     "titulo": "Room 137 (animation)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 26,
+     "titulo": "S2N (animation)",
+     "duracao": "6:21"
+    },
+    {
+     "n": 27,
+     "titulo": "At Wit’s End (animation)",
+     "duracao": "9:20"
+    },
+    {
+     "n": 28,
+     "titulo": "Out of Reach (animation)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 29,
+     "titulo": "Pale Blue Dot (animation)",
+     "duracao": "8:25"
+    },
+    {
+     "n": 30,
+     "titulo": "Viper King (animation)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 31,
+     "titulo": "Untethered Angel (hi‐resolution audio)",
+     "duracao": "6:14"
+    },
+    {
+     "n": 32,
+     "titulo": "Paralyzed (hi‐resolution audio)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 33,
+     "titulo": "Fall Into the Light (hi‐resolution audio)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 34,
+     "titulo": "Barstool Warrior (hi‐resolution audio)",
+     "duracao": "6:43"
+    },
+    {
+     "n": 35,
+     "titulo": "Room 137 (hi‐resolution audio)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 36,
+     "titulo": "S2N (hi‐resolution audio)",
+     "duracao": "6:21"
+    },
+    {
+     "n": 37,
+     "titulo": "At Wit’s End (hi‐resolution audio)",
+     "duracao": "9:20"
+    },
+    {
+     "n": 38,
+     "titulo": "Out of Reach (hi‐resolution audio)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 39,
+     "titulo": "Pale Blue Dot (hi‐resolution audio)",
+     "duracao": "8:25"
+    },
+    {
+     "n": 40,
+     "titulo": "Viper King (hi‐resolution audio)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 41,
+     "titulo": "Untethered Angel (animation)",
+     "duracao": "6:14"
+    },
+    {
+     "n": 42,
+     "titulo": "Paralyzed (animation)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 43,
+     "titulo": "Fall Into the Light (animation)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 44,
+     "titulo": "Barstool Warrior (animation)",
+     "duracao": "6:43"
+    },
+    {
+     "n": 45,
+     "titulo": "Room 137 (animation)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 46,
+     "titulo": "S2N (animation)",
+     "duracao": "6:21"
+    },
+    {
+     "n": 47,
+     "titulo": "At Wit’s End (animation)",
+     "duracao": "9:20"
+    },
+    {
+     "n": 48,
+     "titulo": "Out of Reach (animation)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 49,
+     "titulo": "Pale Blue Dot (animation)",
+     "duracao": "8:25"
+    },
+    {
+     "n": 50,
+     "titulo": "Viper King (animation)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 51,
+     "titulo": "Untethered Angel (hi‐resolution audio)",
+     "duracao": "6:14"
+    },
+    {
+     "n": 52,
+     "titulo": "Paralyzed (hi‐resolution audio)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 53,
+     "titulo": "Fall Into the Light (hi‐resolution audio)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 54,
+     "titulo": "Barstool Warrior (hi‐resolution audio)",
+     "duracao": "6:43"
+    },
+    {
+     "n": 55,
+     "titulo": "Room 137 (hi‐resolution audio)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 56,
+     "titulo": "S2N (hi‐resolution audio)",
+     "duracao": "6:21"
+    },
+    {
+     "n": 57,
+     "titulo": "At Wit’s End (hi‐resolution audio)",
+     "duracao": "9:20"
+    },
+    {
+     "n": 58,
+     "titulo": "Out of Reach (hi‐resolution audio)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 59,
+     "titulo": "Pale Blue Dot (hi‐resolution audio)",
+     "duracao": "8:25"
+    },
+    {
+     "n": 60,
+     "titulo": "Viper King (hi‐resolution audio)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 61,
+     "titulo": "Untethered Angel",
+     "duracao": "6:14"
+    },
+    {
+     "n": 62,
+     "titulo": "Paralyzed",
+     "duracao": "4:17"
+    },
+    {
+     "n": 63,
+     "titulo": "Fall Into the Light",
+     "duracao": "7:04"
+    },
+    {
+     "n": 64,
+     "titulo": "Barstool Warrior",
+     "duracao": "6:43"
+    },
+    {
+     "n": 65,
+     "titulo": "Room 137",
+     "duracao": "4:23"
+    },
+    {
+     "n": 66,
+     "titulo": "S2N",
+     "duracao": "6:21"
+    },
+    {
+     "n": 67,
+     "titulo": "At Wit’s End",
+     "duracao": "9:20"
+    },
+    {
+     "n": 68,
+     "titulo": "Out of Reach",
+     "duracao": "4:04"
+    },
+    {
+     "n": 69,
+     "titulo": "Pale Blue Dot",
+     "duracao": "8:25"
+    },
+    {
+     "n": 70,
+     "titulo": "Viper King",
+     "duracao": "4:00"
+    },
+    {
+     "n": 71,
+     "titulo": "Pale Blue Dot",
+     "duracao": "8:25"
+    },
+    {
+     "n": 72,
+     "titulo": "Viper King",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 438,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 82,
+    "media": 8.7,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Distance_Over_Time",
+   "resumo_en": "Distance Over Time is the fourteenth studio album by American progressive metal band Dream Theater, released on February 22, 2019, and the band's first release on Inside Out Music. Distance Over Time was announced alongside a tour of North America during which Dream Theater would support the new album and celebrate the 20th anniversary of its fifth studio album, Metropolis Pt. 2: Scenes from a Memory (1999). On December 7, 2018, the lead single \"Untethered Angel\" and its music video were released. The second single, \"Fall into the Light\", was released on January 11, 2019. The third single, \"Paralyzed\", and its accompanying video were released on February 8, 2019. It is the band's most successful album chart-wise to date, taking top 10 positions in 19 countries (including going to number one in Germany and Switzerland)."
+  },
+  {
+   "id": "eb48fa61-985e-4020-97d7-0f1dfe7fc109",
+   "titulo": "A View From the Top of the World",
+   "data": "2021-10-22",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/e04c0c8a-c287-442d-89f7-03674b21bb6b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Alien",
+     "duracao": "8:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Answering the Call",
+     "duracao": "7:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Invisible Monster",
+     "duracao": "6:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Sleeping Giant",
+     "duracao": "10:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Transcending Time",
+     "duracao": "6:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Awaken the Master",
+     "duracao": "9:47"
+    },
+    {
+     "n": 7,
+     "titulo": "A View From the Top of the World",
+     "duracao": "20:24"
+    },
+    {
+     "n": 8,
+     "titulo": "The Alien",
+     "duracao": "9:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Answering the Call",
+     "duracao": "7:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Invisible Monster",
+     "duracao": "6:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Sleeping Giant",
+     "duracao": "10:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Transcending Time",
+     "duracao": "6:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Awaken the Master",
+     "duracao": "9:47"
+    },
+    {
+     "n": 14,
+     "titulo": "A View From the Top of the World",
+     "duracao": "20:23"
+    }
+   ],
+   "duracao_min": 140,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.6,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_View_from_the_Top_of_the_World",
+   "resumo_en": "A View from the Top of the World is the fifteenth studio album by American progressive metal band Dream Theater, released on October 22, 2021. It is their first album to be recorded at their own studio, DTHQ (Dream Theater Headquarters) as well as their first since Black Clouds & Silver Linings (2009) to include fewer than nine tracks, the first since Dream Theater (2013) both to contain a track of at least ten minutes in length and to end with the longest track. It is also Dream Theater's last album to feature drummer Mike Mangini, who left the band in October 2023 upon the return of original drummer Mike Portnoy. The first song in the album, \"The Alien\", won a Grammy Award for Best Metal Performance in 2022."
+  },
+  {
+   "id": "d8dd9dab-00ea-4814-b4d4-ca16f8779cc8",
+   "titulo": "Parasomnia",
+   "data": "2025-02-07",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/42b2b6f5-7055-4088-a395-a6e95e20e6b9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In the Arms of Morpheus",
+     "duracao": "5:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Night Terror",
+     "duracao": "9:55"
+    },
+    {
+     "n": 3,
+     "titulo": "A Broken Man",
+     "duracao": "8:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Dead Asleep",
+     "duracao": "11:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Midnight Messiah",
+     "duracao": "7:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Are We Dreaming?",
+     "duracao": "1:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Bend the Clock",
+     "duracao": "7:24"
+    },
+    {
+     "n": 8,
+     "titulo": "The Shadow Man Incident",
+     "duracao": "19:31"
+    },
+    {
+     "n": 9,
+     "titulo": "In the Arms of Morpheus (instrumental)",
+     "duracao": "5:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Night Terror (instrumental)",
+     "duracao": "9:55"
+    },
+    {
+     "n": 11,
+     "titulo": "A Broken Man (instrumental)",
+     "duracao": "8:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Dead Asleep (instrumental)",
+     "duracao": "11:06"
+    },
+    {
+     "n": 13,
+     "titulo": "Midnight Messiah (instrumental)",
+     "duracao": "7:58"
+    },
+    {
+     "n": 14,
+     "titulo": "Are We Dreaming? (instrumental)",
+     "duracao": "1:27"
+    },
+    {
+     "n": 15,
+     "titulo": "Bend the Clock (instrumental)",
+     "duracao": "7:24"
+    },
+    {
+     "n": 16,
+     "titulo": "The Shadow Man Incident (instrumental)",
+     "duracao": "19:31"
+    },
+    {
+     "n": 17,
+     "titulo": "In the Arms of Morpheus (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Night Terror (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "A Broken Man (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Dead Asleep (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Midnight Messiah (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Are We Dreaming? (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "Bend the Clock (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "The Shadow Man Incident (Dolby Atmos)",
+     "duracao": null
+    },
+    {
+     "n": 25,
+     "titulo": "In the Arms of Morpheus (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 26,
+     "titulo": "Night Terror (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 27,
+     "titulo": "A Broken Man (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 28,
+     "titulo": "Dead Asleep (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 29,
+     "titulo": "Midnight Messiah (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 30,
+     "titulo": "Are We Dreaming? (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 31,
+     "titulo": "Bend the Clock (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 32,
+     "titulo": "The Shadow Man Incident (5.1 surround sound)",
+     "duracao": null
+    },
+    {
+     "n": 33,
+     "titulo": "In the Arms of Morpheus",
+     "duracao": null
+    },
+    {
+     "n": 34,
+     "titulo": "Night Terror",
+     "duracao": null
+    },
+    {
+     "n": 35,
+     "titulo": "A Broken Man",
+     "duracao": null
+    },
+    {
+     "n": 36,
+     "titulo": "Dead Asleep",
+     "duracao": null
+    },
+    {
+     "n": 37,
+     "titulo": "Midnight Messiah",
+     "duracao": null
+    },
+    {
+     "n": 38,
+     "titulo": "Are We Dreaming?",
+     "duracao": null
+    },
+    {
+     "n": 39,
+     "titulo": "Bend the Clock",
+     "duracao": null
+    },
+    {
+     "n": 40,
+     "titulo": "The Shadow Man Incident",
+     "duracao": null
+    },
+    {
+     "n": 41,
+     "titulo": "Visual Animation by Wayne Joyner",
+     "duracao": null
+    },
+    {
+     "n": 42,
+     "titulo": "In the Arms of Morpheus",
+     "duracao": "5:22"
+    },
+    {
+     "n": 43,
+     "titulo": "Night Terror",
+     "duracao": "9:55"
+    },
+    {
+     "n": 44,
+     "titulo": "A Broken Man",
+     "duracao": "8:29"
+    },
+    {
+     "n": 45,
+     "titulo": "Dead Asleep",
+     "duracao": "11:06"
+    },
+    {
+     "n": 46,
+     "titulo": "Midnight Messiah",
+     "duracao": "7:58"
+    },
+    {
+     "n": 47,
+     "titulo": "Are We Dreaming?",
+     "duracao": "1:28"
+    },
+    {
+     "n": 48,
+     "titulo": "Bend the Clock",
+     "duracao": "7:24"
+    },
+    {
+     "n": 49,
+     "titulo": "The Shadow Man Incident",
+     "duracao": "19:32"
+    }
+   ],
+   "duracao_min": 214,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.1,
+    "fontes": 6
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Parasomnia_%28album%29",
+   "resumo_en": "Parasomnia is the sixteenth studio album by American progressive metal band Dream Theater, released on February 7, 2025. It is the band's first studio album to feature original drummer Mike Portnoy since Black Clouds & Silver Linings (2009), nearly sixteen years earlier; it is also the first album with Portnoy to not feature him as co-producer since Falling into Infinity (1997)."
+  }
+ ]
+}

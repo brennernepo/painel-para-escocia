@@ -1,0 +1,659 @@
+{
+ "id": "slipknot",
+ "nome": "Slipknot",
+ "cena": "Nu metal e correlatos",
+ "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+ "wikidata": "Q254138",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1995",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "nu metal",
+  "alternative metal",
+  "metal",
+  "heavy metal",
+  "alternative rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Slipknot_performing_live_in_the_O2_Arena_on_December_21%2C_2024_-_Pic_1_%28cropped%29.jpg/500px-Slipknot_performing_live_in_the_O2_Arena_on_December_21%2C_2024_-_Pic_1_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Slipknot",
+ "resumo_pt": "Slipknot é uma banda norte-americana de nu metal formada em Des Moines, Iowa, em 1995. Seu estilo musical é o nu metal, que explodiu no fim dos anos 1990 nos Estados Unidos. A banda é conhecida por seu grande número de integrantes ao longo dos anos, pelas máscaras usadas por cada um, e pelos shows enérgicos, o que garantiu um número grande de fãs até os dias atuais. Entre 1999 e 2010, a banda foi constituída por Sid Wilson, Chris Fehn, James Root, Craig Jones, Shawn Crahan, Mick Thomson, Corey Taylor,  Paul Gray e Joey Jordison, responsáveis pela gravação de quatro álbuns de estúdio nesse período. Após a morte do baixista Paul Gray em 2010 e a saída do baterista Joey Jordison em 2013, Alessandro Venturella (baixo) e Jay Weinberg (bateria) foram escolhidos como substitutos.  Em 2019, após um processo de Chris Fehn contra a banda, o percussionista a deixou, sendo substituído por Michael Pfaff. Weinberg deixou a banda em 2023 e, no ano seguinte, Eloy Casagrande assumiu como o novo baterista. E em 2026 o tecladista Sid Wilson que estava na banda desde 1998, acabou deixando a banda após brigas internas.\nA banda lançou seu primeiro disco demo, Mate. Feed. Kill. Repeat., em 1996. O seu álbum homônimo de estreia foi lançado em 1999, tendo sido sucedido por Iowa em 2001 e Vol. 3: (The Subliminal Verses) em 2004. Os discos seguintes, All Hope Is Gone (2008), .5: The Gray Chapter (2014), We Are Not Your Kind (2019) e The End, So Far (2022) atingiram o topo de várias paradas musicais pel",
+ "resumo_en": "Slipknot ( SLIP-not) is an American heavy metal band formed in Des Moines, Iowa, in 1995 by percussionist Shawn Crahan, vocalist Anders Colsefni and bassist Paul Gray. After several lineup changes in its early years, the band settled on nine members from 1999 until Gray's death in 2010: Crahan, Gray,  Joey Jordison, Craig Jones, Mick Thomson, Corey Taylor, Sid Wilson, Chris Fehn, and Jim Root. Slipknot is well known for its attention-grabbing image, aggressive style of music, and energetic and chaotic live shows.\nThe band's debut demo album, Mate. Feed. Kill. Repeat. was unsuccessful, but they rapidly rose to fame following the release of their self-titled debut studio album in 1999. The 2001 follow-up studio album, Iowa, although darker and more brutal in tone, made the band more popular. After a brief hiatus, Slipknot returned in 2004 with Vol. 3: (The Subliminal Verses), before going on another hiatus and returning in 2008 with its fourth studio album, All Hope Is Gone, which debuted at number one on the US Billboard 200 chart. After another long hiatus, Slipknot released its fifth studio album, .5: The Gray Chapter, in 2014. Their sixth studio album, We Are Not Your Kind, was released on August 9, 2019.  Their seventh studio album, The End, So Far, was released on September 30, 2022. The band has released two live albums titled 9.0: Live and Day of the Gusano: Live in Mexico, a compilation album titled Antennas to Hell, and five live DVDs. The band has sold 30 million rec",
+ "albuns": [
+  {
+   "id": "5140eef4-5b5d-309c-a3aa-5c5da107b1da",
+   "titulo": "Slipknot",
+   "data": "1999-06-29",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/04b427aa-c746-3057-bd9a-8654736595d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "742617000027",
+     "duracao": "0:35"
+    },
+    {
+     "n": 2,
+     "titulo": "(sic)",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Eyeless",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Wait and Bleed",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Surfacing",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Spit It Out",
+     "duracao": "2:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Tattered & Torn",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Frail Limb Nursery",
+     "duracao": "0:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Purity",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Liberate",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Prosthetics",
+     "duracao": "4:58"
+    },
+    {
+     "n": 12,
+     "titulo": "No Life",
+     "duracao": "2:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Diluted",
+     "duracao": "3:23"
+    },
+    {
+     "n": 14,
+     "titulo": "Only One",
+     "duracao": "2:26"
+    },
+    {
+     "n": 15,
+     "titulo": "Scissors / Eeyore",
+     "duracao": "19:15"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 10
+   },
+   "publico": 8.5,
+   "publico_votos": 21,
+   "wikipedia": "https://en.wikipedia.org/wiki/Slipknot_%28album%29",
+   "resumo_en": "Slipknot is the debut studio album by the American heavy metal band Slipknot. It was released on June 29, 1999, by Roadrunner Records, following a demo containing a few of the songs which had previously been released in 1998. Later, it was reissued in December 1999 with a slightly-altered track listing and mastering as the result of a lawsuit. It was the first release by the band to be produced by Ross Robinson, who sought to refine Slipknot's sound rather than alter the group's musical direction. This is the only album to feature original guitarist Josh Brainard who left at the end of recording in late 1998 while the band was taking a brief break. Jim Root, who recorded one track at this point, would appear full time on subsequent albums starting with their next album Iowa.\nThe album spans several genres, but is generally noted for its extensive percussion and overall heavy sound. It was well received by fans and critics alike and was responsible for bringing Slipknot a large increase in popularity. The album peaked at number 51 on the Billboard 200, and has gone on to become certified triple platinum in the United States by the RIAA, making it the band's best-selling album. \nIn 2"
+  },
+  {
+   "id": "082c68eb-d993-36cf-9b32-6663cba2d052",
+   "titulo": "Iowa",
+   "data": "2001-08-21",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/07d539e0-2ee6-4b7d-bc89-299cb9bed39c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(515)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "People = Shit",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Disasterpiece",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "My Plague",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Everything Ends",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "The Heretic Anthem",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Gently",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Left Behind",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Shape",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I Am Hated",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Skin Ticket",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "New Abortion",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Metabolic",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Iowa",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 68,
+    "media": 7.8,
+    "fontes": 9
+   },
+   "publico": 8.2,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Iowa_%28album%29",
+   "resumo_en": "Iowa is the second studio album by the American heavy metal band Slipknot. Produced by the members and Ross Robinson, it was released on August 28, 2001, by Roadrunner Records. The title refers to the band's state of origin, Iowa, which members have stated is one of their greatest sources of inspiration. With much anticipation for the album following the success of their 1999 debut album Slipknot, pressures on the band were high. Their relationships with each other suffered and this was later described as the darkest time of their career. It was also the first full album to feature guitarist Jim Root after only appearing on one song from their previous album. Despite troubles within the band and with Iowa's development, Slipknot promoted it for almost a year.\nThe album was a major success, premiering in the top tens of several countries. Generally positively received, it includes some of their notable songs, such as \"Disasterpiece\", \"The Heretic Anthem\", \"People = Shit\" and the Grammy-nominated \"Left Behind\" and \"My Plague\". More technical than their debut, Iowa is considered the band's heaviest and darkest album. It has been certified platinum in the United Kingdom, the United Sta"
+  },
+  {
+   "id": "aa38e6f0-e748-35c8-a8d4-04ff660e9354",
+   "titulo": "Vol. 3: (The Subliminal Verses)",
+   "data": "2004-05-21",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/3f996167-7a41-3e83-b440-dd863f6e996f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prelude 3.0",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "The Blister Exists",
+     "duracao": "5:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Three Nil",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Duality",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Opium of the People",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Circle",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Welcome",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Vermilion",
+     "duracao": "5:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Pulse of the Maggots",
+     "duracao": "4:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Before I Forget",
+     "duracao": "4:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Vermilion, Part 2",
+     "duracao": "3:44"
+    },
+    {
+     "n": 12,
+     "titulo": "The Nameless",
+     "duracao": "4:28"
+    },
+    {
+     "n": 13,
+     "titulo": "The Virus of Life",
+     "duracao": "5:25"
+    },
+    {
+     "n": 14,
+     "titulo": "Danger - Keep Away",
+     "duracao": "5:45"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 70,
+    "media": 7.4,
+    "fontes": 8
+   },
+   "publico": 8.4,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vol._3%3A_%28The_Subliminal_Verses%29",
+   "resumo_en": "Vol. 3: (The Subliminal Verses) is the third studio album by American heavy metal band Slipknot, released on May 25, 2004, by Roadrunner Records. A special edition, containing a bonus disc, was released on April 12, 2005. It is the band's only album produced by Rick Rubin. Following the band's tour to promote its second album in 2002, speculation regarding the future began. Some band members had already been involved in side projects including Murderdolls, To My Surprise, and the reformation of Stone Sour. In 2003, Slipknot moved into The Mansion to work on the album. Initially, the band was unproductive; lead vocalist Corey Taylor was drinking heavily. Nevertheless, the band managed to write more than enough material for a new album. Regarded as a swan song of the late 1990s to early 2000s era of nu metal, Vol. 3 is credited as Slipknot's first to incorporate more traditional, melodic song structures, guitar solos and acoustic instruments.\nThe album received generally positive reviews. Slipknot was praised by AllMusic for its \"dedication to making it a Slipknot album\", while Q added that the album was \"a triumph\". The album peaked within the top ten in album sales across eleven co"
+  },
+  {
+   "id": "6a75b970-84c9-3794-bafd-261f82f1343c",
+   "titulo": "All Hope Is Gone",
+   "data": "2008-08-20",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/f9e640d7-c457-368d-abb5-5b6a73475724/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": ".execute.",
+     "duracao": "1:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Gematria (The Killing Name)",
+     "duracao": "6:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Sulfur",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Psychosocial",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Dead Memories",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Vendetta",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Butcher’s Hook",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Gehenna",
+     "duracao": "6:53"
+    },
+    {
+     "n": 9,
+     "titulo": "This Cold Black",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Wherein Lies Continue",
+     "duracao": "5:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Snuff",
+     "duracao": "4:36"
+    },
+    {
+     "n": 12,
+     "titulo": "All Hope Is Gone",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 7.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_Hope_Is_Gone",
+   "resumo_en": "All Hope Is Gone is the fourth studio album by the American heavy metal band Slipknot, released on August 26, 2008 by Roadrunner Records. The album was published in two versions: the standard album in a CD case and a special edition packaged in a six-fold digipak containing three bonus tracks, a 40 page booklet, and a bonus DVD with a documentary of the album's recording. It is the band's final studio album to feature the Iowa-era lineup with two longtime members: bassist and founding member Paul Gray, who was found dead in an Iowa hotel on May 24, 2010, almost two years after the album's release, and drummer Joey Jordison, who was fired from the group in December 2013.\nPreparation for the album began in 2007, while recording started in February 2008 in the band's home state of Iowa. Before the album's launch, Slipknot released a series of promotional images and audio samples from the album through various websites. All Hope Is Gone was considered the band's most eclectic-sounding album at the time of release, incorporating elements from their previous three. Songs such as the opening track \"Gematria (The Killing Name)\" and the title track espouse the band's more brutal, death meta"
+  },
+  {
+   "id": "7ae66014-0153-4f48-ad22-973b0582261c",
+   "titulo": ".5: The Gray Chapter",
+   "data": "2014-10-15",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/1b6eed4e-06d6-4f66-9201-c1ef00af5b2f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "XIX",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Sarcastrophe",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "AOV",
+     "duracao": "5:32"
+    },
+    {
+     "n": 4,
+     "titulo": "The Devil in I",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Killpop",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Skeptic",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Lech",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Goodbye",
+     "duracao": "4:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Nomadic",
+     "duracao": "4:18"
+    },
+    {
+     "n": 10,
+     "titulo": "The One That Kills the Least",
+     "duracao": "4:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Custer",
+     "duracao": "4:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Be Prepared for Hell",
+     "duracao": "1:57"
+    },
+    {
+     "n": 13,
+     "titulo": "The Negative One",
+     "duracao": "5:25"
+    },
+    {
+     "n": 14,
+     "titulo": "If Rain Is What You Want",
+     "duracao": "6:20"
+    },
+    {
+     "n": 15,
+     "titulo": "Override",
+     "duracao": "5:37"
+    },
+    {
+     "n": 16,
+     "titulo": "The Burden",
+     "duracao": "5:23"
+    },
+    {
+     "n": 17,
+     "titulo": "‐Silent‐",
+     "duracao": "2:00"
+    },
+    {
+     "n": 18,
+     "titulo": "‐Talk‐",
+     "duracao": "6:19"
+    },
+    {
+     "n": 19,
+     "titulo": "‐Funny‐",
+     "duracao": "1:28"
+    }
+   ],
+   "duracao_min": 85,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 77,
+    "media": 7.7,
+    "fontes": 10
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/.5%3A_The_Gray_Chapter",
+   "resumo_en": ".5: The Gray Chapter is the fifth studio album by American heavy metal band Slipknot, released on October 17, 2014, by Roadrunner Records. It was the band’s first studio album in six years. It was also the first not to feature original bassist Paul Gray, who died in 2010 (the album title is a reference to his surname), or drummer Joey Jordison, who was fired from the band in late 2013. This is the only Slipknot album to feature original guitarist Donnie Steele on bass, although the specific tracks he played on are unknown. It is also the first Slipknot album to feature Alessandro Venturella on bass and Jay Weinberg on drums. The album includes six singles and has received commercial success and acclaiming reviews. A standard and deluxe edition of the album was released. It is also the band's final studio album to feature their longtime percussionist Chris Fehn before his dismissal from the band due to a lawsuit in March 2019.\n\"The Negative One\" received a nomination for Best Metal Performance at the 57th annual Grammy Awards. The album was nominated for Best Rock Album the following year, along with a Best Metal Performance nomination for the song \"Custer\"."
+  },
+  {
+   "id": "89bfb6c8-f612-43c4-a7f3-d245102557e3",
+   "titulo": "We Are Not Your Kind",
+   "data": "2019-08-09",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/c985b20f-4b1d-4bc9-ade7-343f6fc54499/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Insert Coin",
+     "duracao": "1:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Unsainted",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Birth of the Cruel",
+     "duracao": "4:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Death Because of Death",
+     "duracao": "1:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Nero Forte",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Critical Darling",
+     "duracao": "6:25"
+    },
+    {
+     "n": 7,
+     "titulo": "A Liar’s Funeral",
+     "duracao": "5:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Red Flag",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "What’s Next",
+     "duracao": "0:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Spiders",
+     "duracao": "4:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Orphan",
+     "duracao": "6:01"
+    },
+    {
+     "n": 12,
+     "titulo": "My Pain",
+     "duracao": "6:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Not Long for This World",
+     "duracao": "6:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Solway Firth",
+     "duracao": "5:56"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 89,
+    "media": 8.4,
+    "fontes": 9
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/We_Are_Not_Your_Kind",
+   "resumo_en": "We Are Not Your Kind is the sixth studio album by American heavy metal band Slipknot. Recorded at EastWest Studios in Hollywood, California with co-producer Greg Fidelman (who previously produced the band's 2014 album .5: The Gray Chapter), it was released on August 9, 2019, by Roadrunner Records. The title is taken from a lyric in the song \"All Out Life\", which was released as a standalone single in 2018 and features as a bonus track on the Japanese edition of the album. We Are Not Your Kind is the only Slipknot album to be recorded as an eight-member band, as their former percussionist Chris Fehn was fired from the band in March 2019 after suing the group for alleged unpaid royalties.\nAfter the conclusion of the touring cycle for .5: The Gray Chapter, Slipknot guitarist Jim Root and percussionist Shawn \"Clown\" Crahan began writing and demoing material for the band's follow-up album in early 2017. According to Crahan, the group wrote and recorded a total of 22 songs and 26 interludes, with the plan initially being to produce the band's first double album. Recording began in November 2018, shortly after the release of the standalone single \"All Out Life\". The album was completed by"
+  },
+  {
+   "id": "3a2b2278-3e35-44c5-a1c2-f71bc59226a1",
+   "titulo": "The End, So Far",
+   "data": "2022-09-30",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/1c623cf0-722c-4d21-816d-4af47a00903f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Adderall",
+     "duracao": "5:40"
+    },
+    {
+     "n": 2,
+     "titulo": "The Dying Song (Time to Sing)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "The Chapeltown Rag",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Yen",
+     "duracao": "4:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Hive Mind",
+     "duracao": "5:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Warranty",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Medicine for the Dead",
+     "duracao": "6:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Acidic",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Heirloom",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "H377",
+     "duracao": "4:24"
+    },
+    {
+     "n": 11,
+     "titulo": "De Sade",
+     "duracao": "5:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Finale",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 80,
+    "media": 7.5,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_End%2C_So_Far",
+   "resumo_en": "The End, So Far is the seventh studio album by American heavy metal band Slipknot. It was released on September 30, 2022, through Roadrunner Records. This is the band's first studio album to feature percussionist Michael Pfaff, who joined the band in 2019 and their final album to be released through Roadrunner, whom the band signed with in 1998. It is also their final studio album to feature sampler and keyboardist Craig Jones, drummer Jay Weinberg and DJ Sid Wilson before their respective departures in June and November 2023 and August 2026.\nAt a length of 57 minutes and 31 seconds, The End, So Far is the band's shortest studio album to date."
+  }
+ ]
+}

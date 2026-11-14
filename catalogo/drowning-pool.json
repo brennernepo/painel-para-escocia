@@ -1,0 +1,565 @@
+{
+ "id": "drowning-pool",
+ "nome": "Drowning Pool",
+ "cena": "Nu metal e correlatos",
+ "mbid": "87a73cf0-ebdf-483d-8b5a-3db1e5e72122",
+ "wikidata": "Q623921",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1996",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "nu metal",
+  "alternative metal",
+  "hard rock",
+  "metal",
+  "post-grunge"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/930040_Drowning_Pool%2C_a_new_metal_band%2C_performed_for_members_of_the_U.S._Army_Garrison_in_Boeblingen%2C_%28cropped%29.jpg/500px-930040_Drowning_Pool%2C_a_new_metal_band%2C_performed_for_members_of_the_U.S._Army_Garrison_in_Boeblingen%2C_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Drowning_Pool",
+ "resumo_pt": "Drowning Pool é uma banda de rock americana formada em Dallas, Texas, em 1996. A banda recebeu o nome do filme The Drowning Pool. Desde a sua formação, a banda é composta pelo guitarrista C.J. Pierce, baixista Stevie Benton e baterista Mike Luce, além de um elenco rotativo de vocalistas, sendo Jasen Moreno o mais longevo. Em 2023, a banda reata com Ryan McCombs e ele retorna ao posto de vocalista.",
+ "resumo_en": "Drowning Pool is an American rock band formed in Dallas, Texas, in 1996. The band was named after the 1975 film The Drowning Pool. Since its formation, the band has consisted of guitarist C.J. Pierce, drummer Mike Luce and bassist Stevie Benton, as well as a revolving cast of vocalists.\nAfter the release of their debut album, Sinner (2001), original vocalist Dave Williams was found dead on August 14, 2002, from  heart disease. Jason Jones, who replaced Williams in 2003, recorded one album, Desensitized (2004), but left in 2005 due to musical differences. Ryan McCombs of Chicago-based band SOiL, later replaced Jones and released two albums, Full Circle (2007) and Drowning Pool (2010), making it the first time Drowning Pool did not switch singers after just one album. McCombs left the band in November 2011 to rejoin SOiL, and was replaced by Jasen Moreno, who performed on three albums with Drowning Pool – Resilience (2013), Hellelujah (2016) and Strike a Nerve (2022), making him the band's longest-serving vocalist. Moreno left Drowning Pool in March 2023 and was replaced by a returning McCombs.",
+ "albuns": [
+  {
+   "id": "0a67b799-032f-3212-ba23-66b69d66408d",
+   "titulo": "Sinner",
+   "data": "2001-06-05",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/1d5be908-d333-4514-bba0-1be7623a37f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sinner",
+     "duracao": "2:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Bodies",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Tear Away",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "All Over Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Reminded",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Pity",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Mute",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "I Am",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Follow",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Told You So",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Sermon",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sinner_%28Drowning_Pool_album%29",
+   "resumo_en": "Sinner is the debut studio album by the American rock band Drowning Pool, released on June 5, 2001, by Wind-up Records. It is considered to be the band's most popular album, being certified platinum in the same year that it was released. This is the only studio album by the band to feature original lead singer Dave Williams. While touring in support of Sinner, he died on August 14, 2002, from hypertrophic cardiomyopathy. The album debuted at No. 14 on the Billboard 200 chart. Drowning Pool released a reissue of the album called the \"Unlucky 13th Anniversary Edition\" in 2014. The album was put at No. 25 on Metal Descent's list of \"The 25 Best Alternative Metal Albums\". The album was re-released with bonus tracks on its 25th anniversary."
+  },
+  {
+   "id": "aa0fd225-535b-3115-aafd-62031c2a9b22",
+   "titulo": "Desensitized",
+   "data": "2004-04-20",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/21478f60-2242-4c17-8fed-506581a14996/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Think",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Step Up",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Numb",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "This Life",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Nothingness",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Bringing Me Down",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Love and War",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Forget",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Cast Me Aside",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Killin’ Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Hate",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Desensitized_%28Drowning_Pool_album%29",
+   "resumo_en": "Desensitized is the second studio album by American rock band Drowning Pool. It was their first album since the death of vocalist Dave Williams as well as the only album to feature replacement vocalist Jason Jones. The album debuted at number 17 on the Billboard 200 chart. The album cover features porn star Jesse Jane.\nJones left the band soon after the album's release because of personal and musical differences. \"Step Up\" was featured in the 2004 superhero film The Punisher and was the theme song for WWE's WrestleMania XX. It was also featured in the compilation album MTV2 Headbangers Ball, Vol. 2."
+  },
+  {
+   "id": "7174f40f-e86f-3f9c-afce-c2fe5cb7d379",
+   "titulo": "Full Circle",
+   "data": "2007-07-24",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/4ace409a-cbe9-40b3-9965-ac6b30851467/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Full Circle",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Enemy",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Shame",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Reborn",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Reason I’m Alive",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Soldiers",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Paralyzed",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Upside Down",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "37 Stitches",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "No More",
+     "duracao": "4:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Love X2",
+     "duracao": "3:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Duet",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Rebel Yell",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Full_Circle_%28Drowning_Pool_album%29",
+   "resumo_en": "Full Circle is the third studio album by American rock band Drowning Pool, released on August 7, 2007, by Eleven Seven. It is the first Drowning Pool album to feature Ryan McCombs on vocals, formerly the singer of SOiL, who joined the band after the departure of Jason 'Gong' Jones in 2005. The first single off the album, \"Soldiers\", is dedicated to the United States Army.\nThe album debuted at number 64 on the United States Billboard 200, selling about 10,000 copies in its first week. As of September 12, 2007, the album has sold around 29,000 copies in the United States.\nFour singles were released to promote the album. The final single \"Shame\" was released June 29, 2009 almost two years after the album's release. The album was moderately commercially successful, and received mainly positive reviews by fans. Drowning Pool embarked on several tours to promote Full Circle."
+  },
+  {
+   "id": "0631b6ce-4fe3-4e95-9167-63d3c9173f49",
+   "titulo": "Drowning Pool",
+   "data": "2010-04-26",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/8b0366fb-e23d-4dfc-b95d-b6362cf75aac/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let the Sin Begin",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Feel Like I Do",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn So Cold",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Regret",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Over My Head",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "All About Me",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "More Than Worthless",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Children of the Gun",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Alcohol Blind",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Horns Up",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "King Zero",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Drowning_Pool_%28album%29",
+   "resumo_en": "Drowning Pool is the fourth studio album by American rock band Drowning Pool. It was released on April 27, 2010. It is the band's first album not to feature a different singer, as Ryan McCombs remained with Drowning Pool after their 2007 album Full Circle. However, this album ended up being the last album to feature him, as he left the band in 2011 to rejoin his previous band SOiL. McCombs eventually rejoined Drowning Pool in 2023.\nThe song \"Feel Like I Do\" was released as a digital single. It reflects a tough period in McCombs' life during which he went through a divorce, moved out of his home and lost his father.  Fans who preordered the album received a download of the single as well as the second single \"Turn So Cold\" starting April 13, 2010.\nAccording to Blabbermouth.net, Drowning Pool's self-titled album sold 12,000 copies in its first week, earning it the number 35 spot on the Billboard 200, up from the number 64 reached by Full Circle in 2007.\nThree singles, \"Feel Like I Do\", \"Turn So Cold\" and \"Let the Sin Begin\" were released to promote the album. The first two singles reached top 10 in the Hot Mainstream Rock Tracks charts. It was thought that \"Regret\" would have been re"
+  },
+  {
+   "id": "247a1825-628b-4229-a445-7bfb7ded9ade",
+   "titulo": "Resilience",
+   "data": "2013-04-02",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/0488fcc4-51d3-4c34-9935-0a3a77ac1d06/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anytime Anyplace",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Die for Nothing",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "One Finger and a Fist",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Digging These Holes",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Saturday Night",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Low Crawl",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Life of Misery",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Broken Again",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Understand",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Bleed With You",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Skip to the End",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "In Memory Of…",
+     "duracao": "3:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Blindfold",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "15635521-90d7-4ed2-a6ad-3aeaf65f933a",
+   "titulo": "Hellelujah",
+   "data": "2016-02-05",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/4cc705ea-856b-4f6f-b887-ba7c892ec037/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Push",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "By the Blood",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Drop",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Hell to Pay",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "We Are the Devil",
+     "duracao": "4:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Snake Charmer",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "My Own Way",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Goddamn Vultures",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Another Name",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Sympathy Depleted",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Stomping Ground",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Meet the Bullet",
+     "duracao": "4:00"
+    },
+    {
+     "n": 13,
+     "titulo": "All Saints Day",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hellelujah",
+   "resumo_en": "Hellelujah is the sixth studio album by American rock band Drowning Pool. Produced by Jason Suecof, It was released on February 5, 2016, by eOne Music. \"By the Blood\", the first single from the album, was released on November 19, 2015, while the album artwork was revealed the following day. It is the second Drowning Pool album recorded with vocalist Jasen Moreno.\nThree singles were released before the album's release: \"By the Blood\", \"Snake Charmer\" and \"Hell to Pay\"."
+  },
+  {
+   "id": "6b730022-fafb-40d7-a946-ad8ad313115d",
+   "titulo": "Strike a Nerve",
+   "data": "2022-09-30",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/8ebc7438-d09d-4fc8-81a4-2ace15b690b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Doing Time in Hell",
+     "duracao": "1:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Hate Against Hate",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Stay and Bleed",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Strike a Nerve",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Racing to a Red Light",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Choke",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Everything but You",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Down in the Dirt",
+     "duracao": "4:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Rope",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "A Devil More Damned",
+     "duracao": "4:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Mind Right",
+     "duracao": "3:13"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Strike_a_Nerve",
+   "resumo_en": "Strike a Nerve is the seventh studio album by American rock band Drowning Pool. The album was released on September 30, 2022, by T-Boy and UMe. It is the final Drowning Pool album recorded with vocalist Jasen Moreno before his departure in 2023. The album was announced August 5 along with the release of lead single \"Mind Right\". Second single \"Choke\" was released August 26, and third single \"A Devil More Damned\" released September 24. Strike a Nerve is the first studio album from Drowning Pool since Hellelujah (2016), making it the longest gap between two studio albums. The album also marked the first time in the band's history that they had recorded three studio albums with the same singer, Jasen Moreno, who appeared on Hellelujah and its 2013 predecessor Resilience."
+  }
+ ]
+}

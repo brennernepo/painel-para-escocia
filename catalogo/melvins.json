@@ -1,0 +1,2832 @@
+{
+ "id": "melvins",
+ "nome": "Melvins",
+ "cena": "Grunge",
+ "mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+ "wikidata": "Q385618",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1983",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "sludge metal",
+  "stoner metal",
+  "grunge",
+  "alternative rock",
+  "experimental rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Melvins_live_20061013.jpg/500px-Melvins_live_20061013.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Melvins",
+ "resumo_pt": "Melvins é uma banda de rock, formada em Montesano, Washington, nos Estados Unidos em 1983. Integrantes desde 1984, o vocalista e guitarrista Buzz Osborne e baterista Dale Crover são os membros mais antigos do grupo. A música da banda é difícil de rotular; com influências de grupos de punk como Wipers e Black Flag, mas também de bandas de rock mais tradicionais como Rolling Stones e Kiss, além de uma forte atitude centrada no experimentalismo e no idiossincratismo perante a música, que torna qualquer tipo de categorização difícil.",
+ "resumo_en": "Melvins are an American rock band formed in 1983 in Montesano, Washington. Known for combining heavy, slow riffs with experimental and eclectic songwriting, the band has been credited as pioneers of sludge metal, and a key influence in the development of alternative metal and grunge. Since 1984, vocalist/guitarist Buzz Osborne and drummer Dale Crover have been the band's only constant members. Primarily a trio, they have also performed as a quartet, with either two drummers or two bassists, and have been credited for their prolific output, having released over 25 studio albums.",
+ "albuns": [
+  {
+   "id": "9347f9d3-d374-3f1b-8d4f-a4236a5b9653",
+   "titulo": "Gluey Porch Treatments",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/d3973700-0e65-40df-b23b-c1ff04f6ae78/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eye Flys",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Echo Head / Don't Piece Me",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Heater Moves and Eyes",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Steve Instant Newman",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Influence of Atmosphere",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Exact Paperbacks",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Happy Grey or Black",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Leeech",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Glow God",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Big as a Mountain",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Heavyness of the Load",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Flex With You",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Bitten Into Sympathy",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Gluey Porch Treatments",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Clipping Roses",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "As Was It",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Over From Under the Excrement",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gluey_Porch_Treatments",
+   "resumo_en": "Gluey Porch Treatments is the debut studio album by American rock band Melvins, released in 1987 through Alchemy Records. The original release was vinyl only. The album was later released on cassette tape with the Six Songs EP through Boner Records and appears as bonus material on the CD version of Ozma. Tracks 18–29 can only be found on the 1999 Ipecac Recordings re-release; these songs are taken from a boombox demo.\nThe album is considered one of the first examples of sludge metal and a blueprint for grunge."
+  },
+  {
+   "id": "e0f8bdd4-42d0-3b36-a470-5f3fee2946a3",
+   "titulo": "Ozma",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/26ae51dd-afbc-4173-a956-e25da20d8771/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Vile",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Oven",
+     "duracao": "1:28"
+    },
+    {
+     "n": 3,
+     "titulo": "At A Crawl",
+     "duracao": "2:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Let God Be Your Gardener",
+     "duracao": "1:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Creepy Smell",
+     "duracao": "2:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Kool Legged",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Green Honey",
+     "duracao": "1:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Agonizer",
+     "duracao": "1:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Raise A Paw",
+     "duracao": "1:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Thing",
+     "duracao": "1:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Ever Since My Accident",
+     "duracao": "1:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Revulsion / We Reach",
+     "duracao": "6:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Dead Dressed",
+     "duracao": "2:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Cranky Messiah",
+     "duracao": "1:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Claude",
+     "duracao": "1:15"
+    },
+    {
+     "n": 16,
+     "titulo": "My Small Percent Shows Most",
+     "duracao": "0:58"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ozma_%28album%29",
+   "resumo_en": "Ozma is the second studio album by the Melvins, released in 1989 through Boner Records. It is the first Melvins album to feature Lori Black on bass guitar and was recorded when the band relocated to San Francisco."
+  },
+  {
+   "id": "24f055af-fbbf-31a6-a940-bfdb9a82ca4d",
+   "titulo": "Bullhead",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boris",
+     "duracao": "8:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Anaconda",
+     "duracao": "2:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Ligature",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "It’s Shoved",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Zodiac",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "If I Had an Exorcism",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Your Blessened",
+     "duracao": "5:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Cow",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bullhead_%28album%29",
+   "resumo_en": "Bullhead is the third studio album by the American rock band Melvins, released in 1991 through Boner Records."
+  },
+  {
+   "id": "6d5f5d34-2635-3275-afea-4af02c77cb47",
+   "titulo": "Lysol",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/b93d8d7e-cefa-4d54-a57b-6ea9b01c0bd8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hung Bunny",
+     "duracao": "10:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Roman Dog Bird",
+     "duracao": "7:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Sacrifice",
+     "duracao": "6:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Second Coming",
+     "duracao": "1:15"
+    },
+    {
+     "n": 5,
+     "titulo": "The Ballad of Dwight Fry",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "With Teeth",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 9.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lysol_%28album%29",
+   "resumo_en": "Lysol (also known as Melvins, Untitled and Lice-All) is the fourth studio album by the American rock band Melvins, released in 1992 via Boner Records.\nThe album consists of six separate tracks which were mastered and assembled as one \"megacomposition\". It also features covers of Flipper's \"Sacrifice\" (from the album Gone Fishin') and Alice Cooper's \"Second Coming\" and \"The Ballad of Dwight Fry\", both from the album Love It to Death. The album has been credited as an influence on the drone doom genre and the band Sunn O)))."
+  },
+  {
+   "id": "76ce6e14-2938-3653-8fd9-e1f31a33deb2",
+   "titulo": "Houdini",
+   "data": "1993-09-21",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/0a2ff3fc-2a44-3934-a0c4-d2b742e51e6f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hooch",
+     "duracao": "2:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Night Goat",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Lizzy",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Going Blind",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Honey Bucket",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Hag Me",
+     "duracao": "7:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Set Me Straight",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Sky Pup",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Joan of Arc",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Teet",
+     "duracao": "2:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Copache",
+     "duracao": "2:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Pearl Bomb",
+     "duracao": "2:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Spread Eagle Beagle",
+     "duracao": "10:13"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.2,
+    "fontes": 5
+   },
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Houdini_%28album%29",
+   "resumo_en": "Houdini is the fifth studio album by American rock band Melvins, released on September 21, 1993, by Atlantic Records. The album was the band's major label debut after releasing their previous albums through the independent label Boner Records.\nThe album features a cover of the 1974 Kiss song \"Goin' Blind\". The songs \"Hooch\", \"Lizzy\", and \"Honey Bucket\" were released as singles with accompanying music videos. \"Night Goat\" is a partial re-recording of a song the band had released as a single in 1992. Nirvana's Kurt Cobain is given co-production credit alongside the Melvins on six tracks, for guitar on the song \"Sky Pup\" and percussion on the song \"Spread Eagle Beagle\"."
+  },
+  {
+   "id": "c5ffaf3b-4ba3-3b96-b0a4-dc9887e8b655",
+   "titulo": "Prick",
+   "data": "1994-08-05",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/1d83ea6a-c627-4088-bdb6-2e04f8a029fc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How About",
+     "duracao": "4:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Rickets",
+     "duracao": "1:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Pick It N' Flick It",
+     "duracao": "1:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Montreal",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Chief Ten Beers",
+     "duracao": "6:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Underground",
+     "duracao": "2:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Chalk People",
+     "duracao": "1:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Punch the Lion",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Pure Digital Silence",
+     "duracao": "1:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Larry",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Roll Another One",
+     "duracao": "14:18"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Prick_%28Melvins_album%29",
+   "resumo_en": "Prick is the sixth studio album by the Melvins which was released in 1994 through Amphetamine Reptile Records under the name ƧИIV⅃ƎM. It has been said that because the Melvins already had a contract with Atlantic Records, Prick was released with the band name in mirror writing."
+  },
+  {
+   "id": "04066384-affd-32ce-9b6f-ac4a97c07671",
+   "titulo": "Stoner Witch",
+   "data": "1994-10-28",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/0da4c14b-fd6a-40ff-8011-35e3e29db46d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Skweetis",
+     "duracao": "1:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Queen",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Willy Rollbar",
+     "duracao": "1:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Revolve",
+     "duracao": "4:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Goose Freight Train",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Roadbull",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "At the Stake",
+     "duracao": "7:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Magic Pig Detective",
+     "duracao": "5:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Shevil",
+     "duracao": "6:29"
+    },
+    {
+     "n": 10,
+     "titulo": "June Bug",
+     "duracao": "2:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Lividity",
+     "duracao": "9:15"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 6
+   },
+   "publico": 9.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stoner_Witch",
+   "resumo_en": "Stoner Witch is the seventh studio album by American rock band Melvins, released on October 18, 1994, by Atlantic Records. It is their second release for the label."
+  },
+  {
+   "id": "ea99e39a-0bf8-3323-897f-19d024e28495",
+   "titulo": "Stag",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/4cfbe9ed-1373-4278-82df-0368c57c97bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Bit",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Hide",
+     "duracao": "0:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Bar-X-The Rocking M",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Yacobs Lab",
+     "duracao": "1:15"
+    },
+    {
+     "n": 5,
+     "titulo": "The Bloat",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Tipping the Lion",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Bock",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Goggles",
+     "duracao": "6:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Soup",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Buck Owens",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Sterilized",
+     "duracao": "3:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Lacrimosa",
+     "duracao": "4:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Skin Horse",
+     "duracao": "5:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Captain Pungent",
+     "duracao": "2:19"
+    },
+    {
+     "n": 15,
+     "titulo": "Berthas",
+     "duracao": "1:23"
+    },
+    {
+     "n": 16,
+     "titulo": "Cottonmouth",
+     "duracao": "1:55"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stag_%28Melvins_album%29",
+   "resumo_en": "Stag is the eighth studio album by American rock band Melvins, released in 1996 through Atlantic Records. This is the final album the band released under Atlantic before being dropped from the label. Promotional singles were released for the songs \"The Bit\" and \"Bar-X the Rocking M\", with the latter having a music video.\nThe record is noted for its experimental, varied content, including elements of drone, ambient, country and instruments including sitar and trombone."
+  },
+  {
+   "id": "50901f5b-2290-374b-8dc8-ed8453e1f390",
+   "titulo": "Honky",
+   "data": "1997-05-05",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/77a950de-ce2e-4b8f-a72a-b98580130d40/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "They All Must Be Slaughtered",
+     "duracao": "8:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Mombius Hibachi",
+     "duracao": "1:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Lovely Butterfly",
+     "duracao": "2:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Pitfalls in Serving Warrants",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Air Breather Deep in the Arms of Morphius",
+     "duracao": "12:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Laughing With Lucifer at Satan's Sideshow",
+     "duracao": "2:16"
+    },
+    {
+     "n": 7,
+     "titulo": "How --++--",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Harry Lauders Walking Stick Tree",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Grin",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "In the Freaktose the Bugs are Dying",
+     "duracao": "29:23"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 2.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Honky_%28album%29",
+   "resumo_en": "Honky is the ninth studio album by American rock band Melvins, released on May 5, 1997, through Amphetamine Reptile Records. The album's final track, \"In the Freaktose the Bugs are Dying\", concludes with more than 25 minutes of silence. As of 2026, the album has not been added to streaming services."
+  },
+  {
+   "id": "ed6aedda-38a0-3cbd-8200-8dfe74c5f740",
+   "titulo": "The Maggot",
+   "data": "1999-05-17",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/9ea06e0c-e354-4911-87ac-4c7747bfc217/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "amazon",
+     "duracao": "0:52"
+    },
+    {
+     "n": 2,
+     "titulo": "amazon",
+     "duracao": "0:51"
+    },
+    {
+     "n": 3,
+     "titulo": "AMAZON",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "AMAZON",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "We All Love JUDY",
+     "duracao": "1:14"
+    },
+    {
+     "n": 6,
+     "titulo": "We All Love JUDY",
+     "duracao": "1:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Manky",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Manky",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "The Green Manalishi (With the Two Pronged Crown)",
+     "duracao": "3:26"
+    },
+    {
+     "n": 10,
+     "titulo": "The Green Manalishi (With the Two Pronged Crown)",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "The Horn Bearer",
+     "duracao": "1:13"
+    },
+    {
+     "n": 12,
+     "titulo": "The Horn Bearer",
+     "duracao": "1:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Judy",
+     "duracao": "1:17"
+    },
+    {
+     "n": 14,
+     "titulo": "Judy",
+     "duracao": "1:20"
+    },
+    {
+     "n": 15,
+     "titulo": "See How Pretty, See How Smart",
+     "duracao": "4:28"
+    },
+    {
+     "n": 16,
+     "titulo": "See How Pretty, See How Smart",
+     "duracao": "6:04"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Maggot",
+   "resumo_en": "The Maggot is the tenth studio album by American rock band Melvins, released in 1999 through Ipecac Recordings. It is the first part of a trilogy followed by The Bootlicker and The Crybaby. The Trilogy was later released on vinyl by Ipecac Recordings (The Trilogy Vinyl, November 27, 2000).\nOn the CD version, all songs are split into two tracks. A 2006 reissue of the album swaps the background artwork with The Bootlicker."
+  },
+  {
+   "id": "7841f8ef-5162-353b-b7fa-5909cdf97d1e",
+   "titulo": "The Bootlicker",
+   "data": "1999-08-23",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/f2c9fc75-89e5-36e8-94a5-d2c38a3293fc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Toy",
+     "duracao": "1:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Let It All Be",
+     "duracao": "10:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Santa",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "We We",
+     "duracao": "0:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Up The Dumper",
+     "duracao": "2:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Mary Lady Bobby Kins",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Jew Boy Flower Head",
+     "duracao": "6:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Lone Rose Holding Now",
+     "duracao": "2:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Prig",
+     "duracao": "8:48"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Bootlicker",
+   "resumo_en": "The Bootlicker is the eleventh studio album by the Melvins, released in 1999 through Ipecac Recordings. The album is the second part of a trilogy preceded by The Maggot and followed by The Crybaby. The trilogy was later released on vinyl by Ipecac (The Trilogy Vinyl, IPC-011, February 7, 2000)."
+  },
+  {
+   "id": "09a74812-5840-3975-acb8-16266a661780",
+   "titulo": "The Crybaby",
+   "data": "2000-02-07",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/15286d48-f515-3498-b84c-9bac4a8723dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smells Like Teen Spirit",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Blockbuster",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Ramblin’ Man",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "G.I. Joe",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Mine Is No Disgrace",
+     "duracao": "8:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Spineless",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Divorced",
+     "duracao": "14:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Dry Drunk",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Okie From Muskogee",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "The Man With the Laughing Hand Is Dead",
+     "duracao": "11:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Moon Pie",
+     "duracao": "12:45"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.9,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Crybaby",
+   "resumo_en": "The Crybaby is the twelfth studio album by American rock band Melvins, released in 2000 through Ipecac Recordings. It is the last part of a trilogy preceded by The Maggot and The Bootlicker. The trilogy was later released on vinyl by Ipecac Recordings (The Trilogy Vinyl, February 7, 2000), although the song \"Divorced\" was edited down and the last four tracks were excluded."
+  },
+  {
+   "id": "df070d66-5c65-38f4-a06b-19ba8995c578",
+   "titulo": "Electroretard",
+   "data": "2001-02-06",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/98b0f61b-165d-4425-955a-df70dea23edd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shit Storm",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Youth of America",
+     "duracao": "9:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Gluey Porch Treatments",
+     "duracao": "0:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Revolve",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Missing",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Lovely Butterflies",
+     "duracao": "6:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Tipping the Lion",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Interstellar Overdrive",
+     "duracao": "9:49"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Electroretard",
+   "resumo_en": "Electroretard is the thirteenth album by the Melvins, which was released in 2001 through Man's Ruin Records. The album contains an experiment in backmasking (\"Shit Storm\"), three covers, and four reworked versions of old Melvins songs. Although released on CD, it was going to see an LP release, but Man's Ruin closed beforehand. It was later re-issued on June 2, 2015, together with The Bulls & the Bees EP via Ipecac Recordings."
+  },
+  {
+   "id": "21f64457-fe61-34f8-8ea3-0f8dc5838009",
+   "titulo": "Hostile Ambient Takeover",
+   "data": "2002-04-15",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/196e9347-88ba-4526-9771-3f8510e9c59b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "[untitled]",
+     "duracao": "0:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Black Stooges",
+     "duracao": "5:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Dr. Geek",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Judas Chongo",
+     "duracao": "2:03"
+    },
+    {
+     "n": 5,
+     "titulo": "The Fool, the Meddling Idiot",
+     "duracao": "7:49"
+    },
+    {
+     "n": 6,
+     "titulo": "The Brain Center at Whipples",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Foaming",
+     "duracao": "7:46"
+    },
+    {
+     "n": 8,
+     "titulo": "The Anti-Vermin Seed",
+     "duracao": "15:51"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.9,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hostile_Ambient_Takeover",
+   "resumo_en": "Hostile Ambient Takeover is the fourteenth studio album by the Melvins, released in 2002 through Ipecac Recordings.\nEach song was released as a limited 7\" vinyl single (limited to 2,500 copies each) that included exclusive B-sides, which are mostly covers (except for \"The Anti-Vermin Seed\" which was split up onto both sides of its single)."
+  },
+  {
+   "id": "560a9c41-0b9e-35c1-ad41-a5f337f5adc4",
+   "titulo": "Pigs of the Roman Empire",
+   "data": "2004-08-23",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/0542b5bd-7247-4ddb-8af2-8b487664ab4c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "III",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "The Bloated Pope",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Toadi Acceleratio",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Pigs of the Roman Empire",
+     "duracao": "22:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Pink Bat",
+     "duracao": "6:32"
+    },
+    {
+     "n": 6,
+     "titulo": "ZZZZ Best",
+     "duracao": "1:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Safety Third",
+     "duracao": "6:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Idolatrous Apostate",
+     "duracao": "6:46"
+    },
+    {
+     "n": 9,
+     "titulo": "[untitled]",
+     "duracao": "5:47"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pigs_of_the_Roman_Empire",
+   "resumo_en": "Pigs of the Roman Empire is an album by the American rock band Melvins and electronic musician Lustmord, which was released in 2004 through Ipecac Recordings. Adam Jones, guitarist for Tool, also makes substantial contributions to the album.\n\nSpeaking to Kerrang! in 2008, Melvins singer/guitarist King Buzzo remembered: I'd always liked what Lustmord did and I thought that doing a record with him would be a really good thing to do. A far as it being a collaboration, there are things on that record that are strictly 'us' and strictly 'him' but we never said which was which because we didn't want people to have any preconceived ideas. For example, [with the title track] we gave him 11 minutes of music and he came back with 22, which was exactly what we wanted him to do. But some parts are just me and Dale nearing the end of our tether with Kevin [Rutmanis, Melvins bassist who left the band soon after] and there are things that critics blamed Lustmord for when he's not even on the track! If I had to say 'buy these 5 records', then this would be one of them."
+  },
+  {
+   "id": "941d4564-dab3-3eb8-86a9-88ebdc04c687",
+   "titulo": "Never Breathe What You Can’t See",
+   "data": "2004-10-19",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/96211e43-7b0d-4d28-be48-4a63c3383b18/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Plethysmograph",
+     "duracao": "4:49"
+    },
+    {
+     "n": 2,
+     "titulo": "McGruff the Crime Dog",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Yuppie Cadillac",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Islamic Bomb",
+     "duracao": "6:19"
+    },
+    {
+     "n": 5,
+     "titulo": "The Lighter Side of Global Terrorism",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Caped Crusader",
+     "duracao": "6:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Enchanted Thoughtfist",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Dawn of the Locusts",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.1,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Never_Breathe_What_You_Can%27t_See",
+   "resumo_en": "Never Breathe What You Can't See is a studio album by Jello Biafra and the Melvins, released in 2004 through Alternative Tentacles.\nSongs recorded during the same sessions and remixes of four songs were used for the follow-up album, Sieg Howdy!, released in 2005."
+  },
+  {
+   "id": "91ff156e-3bc7-3bca-a26d-c3dcbcfabf10",
+   "titulo": "Sieg Howdy!",
+   "data": "2005-09-25",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/8f8a1641-3de2-4a4a-9500-ac8615513f12/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Halo of Flies",
+     "duracao": "7:43"
+    },
+    {
+     "n": 2,
+     "titulo": "The Lighter Side of Global Terrorism (extended Space‐melt version)",
+     "duracao": "7:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Lesson in What Not to Become",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Those Dumb Punk Kids (Will Buy Anything)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Wholly Buy Bull",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Voted Off the Island",
+     "duracao": "0:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Kali‐fornia Uber Alles 21st Century (live)",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Dawn of the Locusts (March of the Locusts Deadverse remix by Dalek)",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Enchanted Thoughtfist (Enchanted Al remix)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Caped Crusader (Subway Gas/Hello Kitty mix, Part 1)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Caped Crusader (Subway Gas/Hello Kitty mix, Part 2)",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sieg_Howdy%21",
+   "resumo_en": "Sieg Howdy! is the second album by Jello Biafra and The Melvins.  It consists of songs recorded during the same sessions that produced their first collaboration Never Breathe What You Can't See but not used on that album, plus remixes of four songs from the first album.\nThe opening track, a cover of the Alice Cooper classic \"Halo of Flies\", has special significance for Biafra and The Melvins, as Biafra had heard The Melvins cover it when he first witnessed the group perform live.\nAlso featured on the album is an updated version of \"California über alles\" with new lyrics by Biafra about the recall campaign that placed Arnold Schwarzenegger in the California governor's office, as well as \"Those Dumb Punk Kids (Will Buy Anything)\", a song where Biafra openly criticizes his former Dead Kennedys bandmates.\nThe remix of \"Enchanted Thoughtfist\" is the first time Biafra and his fellow co-conspirator in Lard, Al Jourgensen of Ministry, have collaborated on a recording since the sessions for Pure Chewing Satisfaction and 70's Rock Must Die."
+  },
+  {
+   "id": "3e9f5335-149c-302f-8eec-70e86edfebd3",
+   "titulo": "(A) Senile Animal",
+   "data": "2006-10-10",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Talking Horse",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Blood Witch",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Civilized Worm",
+     "duracao": "5:57"
+    },
+    {
+     "n": 4,
+     "titulo": "A History of Drunks",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Rat Faced Granny",
+     "duracao": "2:40"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hawk",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "You've Never Been Right",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "A History of Bad Men",
+     "duracao": "6:42"
+    },
+    {
+     "n": 9,
+     "titulo": "The Mechanical Bride",
+     "duracao": "6:25"
+    },
+    {
+     "n": 10,
+     "titulo": "A Vast Filthy Prison",
+     "duracao": "6:44"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.3,
+    "fontes": 7
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/%28A%29_Senile_Animal",
+   "resumo_en": "(A) Senile Animal is the fifteenth album by the American rock band Melvins, released on October 10, 2006 on Ipecac Recordings. After bassist Kevin Rutmanis' departure the two remaining members of the Melvins joined forces with Big Business, a duo consisting of Jared Warren on bass and Coady Willis on drums."
+  },
+  {
+   "id": "35156deb-dde0-34ac-8448-49c48d8d667e",
+   "titulo": "Nude With Boots",
+   "data": "2008-07-08",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/5b3593a4-953b-4d47-bd46-a366b8e2420e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Kicking Machine",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Billy Fish",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Dog Island",
+     "duracao": "7:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Dies Iraea",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Suicide in Progress",
+     "duracao": "4:46"
+    },
+    {
+     "n": 6,
+     "titulo": "The Smiling Cobra",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Nude With Boots",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Flush",
+     "duracao": "1:07"
+    },
+    {
+     "n": 9,
+     "titulo": "The Stupid Creep",
+     "duracao": "1:30"
+    },
+    {
+     "n": 10,
+     "titulo": "The Savage Hippy",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "It Tastes Better Than the Truth",
+     "duracao": "5:20"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 71,
+    "media": 7.4,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nude_with_Boots",
+   "resumo_en": "Nude with Boots is the 16th album by American rock band Melvins, released on July 8, 2008. A vinyl release was issued on November 3, 2009."
+  },
+  {
+   "id": "f6e369d0-e2d1-4749-9a1e-0a1566d9894b",
+   "titulo": "The Bride Screamed Murder",
+   "data": "2010-06-01",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/60ff28e5-97e4-4cae-b86f-7129d09cdd98/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Water Glass",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Evil New War God",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Pig House",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "I'll Finish You Off",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Electric Flower",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Hospital Up",
+     "duracao": "5:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Inhumanity and Death",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "My Generation",
+     "duracao": "7:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Pg X 3",
+     "duracao": "6:20"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 77,
+    "media": 7.4,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Bride_Screamed_Murder",
+   "resumo_en": "The Bride Screamed Murder is the seventeenth studio album by American rock band Melvins, released on June 1, 2010. It was their first album to hit the Billboard 200 Pop Charts, at number 200, selling 2,809 albums in the first few weeks. In October 2010, they released a music video with Scion Audio/Visual for the song \"Electric Flower\", directed by Mark Brooks. The title is a reference to a fictional book from the film Alice Doesn't Live Here Anymore.\nExclaim! named The Bride Screamed Murder the No. 8 metal album of 2010."
+  },
+  {
+   "id": "d473a0eb-ff5e-4e81-90a9-07b197dfd220",
+   "titulo": "Freak Puke",
+   "data": "2012-06-05",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/f3f2e47f-f31b-4fdf-a6a7-f48783848ef8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mr. Rip Off",
+     "duracao": "5:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Inner Ear Rupture",
+     "duracao": "1:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Baby, Won't You Weird Me Out",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Worm Farm Waltz",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "A Growing Disgust",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Leon Versus the Revolution",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Holy Barbarians",
+     "duracao": "2:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Freak Puke",
+     "duracao": "2:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Let Me Roll It",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Tommy Goes Berserk",
+     "duracao": "9:40"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Freak_Puke",
+   "resumo_en": "Freak Puke is the eighteenth album by the Melvins, under the name Melvins Lite, released on June 5, 2012, through Ipecac Recordings. It is the first to feature one of the Melvins' alternate lineups with Trevor Dunn on standup bass."
+  },
+  {
+   "id": "9dd959f3-fd16-4ce9-aa85-4060424f7982",
+   "titulo": "Everybody Loves Sausages",
+   "data": "2013-04-30",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/f41cf7e2-79ec-4dca-8da8-3b51a98d3548/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Warhead",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Best Friend",
+     "duracao": "2:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Betty",
+     "duracao": "1:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Set It on Fire",
+     "duracao": "2:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Station to Station",
+     "duracao": "11:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Attitude",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Female Trouble",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Carpe Diem",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Timothy Leary Lives",
+     "duracao": "2:04"
+    },
+    {
+     "n": 10,
+     "titulo": "In Every Dream Home a Heartache",
+     "duracao": "9:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Romance",
+     "duracao": "2:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Art School",
+     "duracao": "3:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Heathen Earth",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "media": 7.5,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Everybody_Loves_Sausages",
+   "resumo_en": "Everybody Loves Sausages is an album of cover songs by the Melvins, released on April 30, 2013. Like The Crybaby, it features guests on most of the tracks. It features the Melvins Lite on three tracks.\nThree of the tracks had been previously released in splits. Black Betty previously appeared on a split 7-inch with the Jon Spencer Blues Explosion covering the same track. Female Trouble and Carpe Diem are featured on a split 12-inch with Redd Kross. A nine-part 7-inch Tribute series was released through Amphetamine Reptile Records between 2013 and 2015. Featuring ten songs from the album, seven of them featured bonus cover songs of each respective band."
+  },
+  {
+   "id": "931b99a4-5b17-4782-8955-872b725c8954",
+   "titulo": "Tres cabrones",
+   "data": "2013-11-05",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/4cb3a239-609e-48ba-8329-262ad6e863f8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Doctor Mule",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "City Dump",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "American Cow",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Tie My Pecker to a Tree",
+     "duracao": "1:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Dogs and Cattle Prods",
+     "duracao": "8:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Psychodelic Haze",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "99 Bottles of Beer",
+     "duracao": "1:18"
+    },
+    {
+     "n": 8,
+     "titulo": "I Told You I Was Crazy",
+     "duracao": "6:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Stump Farmer",
+     "duracao": "2:22"
+    },
+    {
+     "n": 10,
+     "titulo": "In the Army Now",
+     "duracao": "1:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Walter's Lips",
+     "duracao": "3:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Stick'em up Bitch",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.8,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tres_Cabrones",
+   "resumo_en": "Tres Cabrones is the 19th album by the Melvins, released on November 5, 2013. It features their original drummer Mike Dillard, with current drummer Dale Crover playing bass. It is the first official album to feature Mike Dillard, as his only previous appearances were on the archival Mangled Demos from 1983 and a handful of compilation and bootleg releases. The album title translates as \"three bastards\" from Spanish.\nNine songs were previously released in various limited releases through Amphetamine Reptile Records:\n\n1983 EP with \"Psycho-Delic Haze\", \"Stump Farmer\", \"Stick Em' Up Bitch\" and \"Walter's Lips\"; 10-inch vinyl and letterpress CD in 2012.\nGaylord 7-inch with \"City Dump\", \"You're in the Army Now\" and \"99 Bottles of Beer\", summer 2013.\n\"American Cow\" was released on 10-inch and CD as part of the BASH 13 compilation with Mudhoney, Negative Approach, Die Kreuzen, Hepa-Titus and Gay Witch Abortion.\n\"Dr. Mule\" was available for free download on the 10 Years of Scion compilation and later released on a split 7-inch with Helmet.\n\"I Told You I Was Crazy\" and \"Tie My Pecker To A Tree\" were later released together as a 7-inch release in December 2013. \"Dogs and Cattle Prods\" was rele"
+  },
+  {
+   "id": "ee72905c-70c6-4aab-a182-96a16a3b5b2f",
+   "titulo": "Hold It In",
+   "data": "2014-10-14",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/a584e3f9-2272-4e43-8c50-7f78f13c4556/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bride of Crankenstein",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "You Can Make Me Wait",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Brass Cupcake",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Barcelonian Horseshoe Pit",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Onions Make the Milk Taste Bad",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Eyes on You",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Sesame Street Meat",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Nine Yards",
+     "duracao": "2:29"
+    },
+    {
+     "n": 9,
+     "titulo": "The Bunk Up",
+     "duracao": "7:35"
+    },
+    {
+     "n": 10,
+     "titulo": "I Get Along (Hollow Moon)",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Piss Pisstopherson",
+     "duracao": "2:58"
+    },
+    {
+     "n": 12,
+     "titulo": "House of Gasoline",
+     "duracao": "12:11"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 72,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hold_It_In",
+   "resumo_en": "Hold It In is the 20th studio album by the Melvins, released on October 14, 2014. The lineup for this album features Melvins stalwarts Buzz Osborne and Dale Crover joined by Butthole Surfers members Paul Leary and Jeff Pinkus."
+  },
+  {
+   "id": "d430c7d1-bec9-407b-8f07-b645e17c4a00",
+   "titulo": "Three Men and a Baby",
+   "data": "2016-04-01",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/034179cb-125a-4c90-895a-add6e3131e63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chicken ’n’ Dump",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Limited Teeth",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Bummer Conversation",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Annalisa",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "A Dead Pile of Worthless Junk",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Read the Label (It’s Chili)",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Dead Canaries",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Pound the Giants",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "A Friend in Need Is a Friend You Don’t Need",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Lifestyle Hammer",
+     "duracao": "1:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Gravel",
+     "duracao": "2:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Art School Fight Song",
+     "duracao": "2:11"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "47666b5a-7cec-4db8-b8c5-f459a358bda8",
+   "titulo": "Basses Loaded",
+   "data": "2016-06-03",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/325432fb-900c-4560-9e1d-8f16d09a42a4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Decay of Lying",
+     "duracao": "6:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Choco Plumbing",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Beer Hippie",
+     "duracao": "5:16"
+    },
+    {
+     "n": 4,
+     "titulo": "I Want to Tell You",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Captain Come Down",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Hideous Women",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Shaving Cream",
+     "duracao": "2:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Planet Destructo",
+     "duracao": "6:06"
+    },
+    {
+     "n": 9,
+     "titulo": "War Pussy",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Maybe I’m Amused",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Phylis Dillard",
+     "duracao": "4:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Take Me Out to the Ball Game",
+     "duracao": "2:07"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 71,
+    "media": 6.2,
+    "fontes": 3
+   },
+   "publico": 3.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Basses_Loaded",
+   "resumo_en": "Basses Loaded is the 21st album by American rock band Melvins, released on June 3, 2016, through Ipecac Recordings. It features multiple bass guitar players, mainly those who had performed with the band over the past decade. Steven Shane McDonald of Redd Kross makes his debut with the Melvins, while Nirvana co-founder Krist Novoselic makes a guest appearance.\nNine songs from the album were previously released through Amphetamine Reptile Records on two limited edition EPs (Beer Hippy and War Pussy) and in a split-release with Le Butcherettes (Chaos as Usual). A version of the song \"Choco Plumbing\" appeared on the Cartoon Network program Uncle Grandpa in the episode \"Uncle Melvins\"."
+  },
+  {
+   "id": "83560fc4-8450-4f16-9392-ab9d3e4195b2",
+   "titulo": "A Walk with Love & Death",
+   "data": "2017-07-07",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/a640dded-646a-488b-9bcd-37938ce7f629/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Heath",
+     "duracao": "6:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Sober-delic (Acid Only)",
+     "duracao": "6:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Euthanasia",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "What's Wrong with You?",
+     "duracao": "2:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Edgar the Elephant",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Flaming Creature",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Christ Hammer",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Cactus Party",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Cardboa Negro",
+     "duracao": "2:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Aim High",
+     "duracao": "2:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Queen Powder Party",
+     "duracao": "2:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Street Level St. Paul",
+     "duracao": "2:18"
+    },
+    {
+     "n": 13,
+     "titulo": "The Hidden Joice",
+     "duracao": "1:11"
+    },
+    {
+     "n": 14,
+     "titulo": "Give It to Me",
+     "duracao": "2:49"
+    },
+    {
+     "n": 15,
+     "titulo": "Chicken Butt",
+     "duracao": "1:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Eat Yourself Out",
+     "duracao": "5:03"
+    },
+    {
+     "n": 17,
+     "titulo": "Scooba",
+     "duracao": "1:09"
+    },
+    {
+     "n": 18,
+     "titulo": "Halfway to the Bakersfield Mall",
+     "duracao": "4:17"
+    },
+    {
+     "n": 19,
+     "titulo": "Pacoima Normal",
+     "duracao": "2:33"
+    },
+    {
+     "n": 20,
+     "titulo": "Park Head",
+     "duracao": "3:39"
+    },
+    {
+     "n": 21,
+     "titulo": "T-Burg",
+     "duracao": "4:10"
+    },
+    {
+     "n": 22,
+     "titulo": "Track Star",
+     "duracao": "5:02"
+    },
+    {
+     "n": 23,
+     "titulo": "The Asshole Bastard",
+     "duracao": "4:55"
+    }
+   ],
+   "duracao_min": 82,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 69,
+    "media": 8.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Walk_with_Love_%26_Death",
+   "resumo_en": "A Walk with Love & Death is a double album and the 22nd album by American rock band Melvins, released on July 7, 2017, through Ipecac Recordings. It includes two distinct albums: Love, a fourteen-song soundtrack to a short film by Jesse Nieminen, also known as A Walk with Love & Death, and Death, made up of nine standard songs. This is the first full-length Melvins album to feature bassist Steven McDonald, who only appeared on four of the songs on their previous album, Basses Loaded. Guest musicians include Joey Santiago (Pixies), Anna Waronker (that dog.) and Teri Gender Bender (Le Butcherettes)."
+  },
+  {
+   "id": "c526ba00-fcbd-4b3a-9312-2dd3b8cd32b6",
+   "titulo": "Pinkus Abortion Technician",
+   "data": "2018-04-20",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/24482ed0-ff01-4312-8a65-eb815676ba6f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stop Moving to Florida",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Embrace the Rub",
+     "duracao": "1:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Forget to Breathe",
+     "duracao": "7:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Flamboyant Duck",
+     "duracao": "5:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Break Bread",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "I Want to Hold Your Hand",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Prenup Butter",
+     "duracao": "4:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Graveyard",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 69,
+    "media": 6.5,
+    "fontes": 8
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pinkus_Abortion_Technician",
+   "resumo_en": "Pinkus Abortion Technician is the 23rd album by American rock band Melvins, released on April 20, 2018 through Ipecac Recordings. It features both \"ongoing\" bass player Steven McDonald and \"occasional bottom ender\" Jeff Pinkus, who receives writing credit on four of the album's five original songs. The title is a direct reference to the Butthole Surfers album Locust Abortion Technician, which Pinkus played bass on."
+  },
+  {
+   "id": "9bcd8729-929b-4625-8a3c-81f6246fdc1f",
+   "titulo": "Working With God",
+   "data": "2021-02-26",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/88eee878-f98c-475d-a81a-9c771660b615/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Fuck Around",
+     "duracao": "2:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Negative No No",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Bouncing Rick",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Caddy Daddy",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "1 Brian, The Horse-Faced Goon",
+     "duracao": "0:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Brian, The Horse-Faced Goon",
+     "duracao": "2:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Boy Mike",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "1 Fuck You",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Fuck You",
+     "duracao": "0:10"
+    },
+    {
+     "n": 10,
+     "titulo": "The Great Good Place",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Hot Fish",
+     "duracao": "4:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Hund",
+     "duracao": "3:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Good Night Sweetheart",
+     "duracao": "2:08"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "970b4bfe-0abe-4e52-a748-e36b070ad8e8",
+   "titulo": "Five Legged Dog",
+   "data": "2021-10-14",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/fcf27aec-ada0-4da6-a417-e7fa48ea6bb0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Edgar the Elephant",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Up the Dumper",
+     "duracao": "2:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Hung Bunny / Roman Dog Bird",
+     "duracao": "12:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Hooch",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Billy Fish",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Shevil",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Charlie",
+     "duracao": "2:07"
+    },
+    {
+     "n": 8,
+     "titulo": "A Growing Disgust",
+     "duracao": "4:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Eye Flys / Woman",
+     "duracao": "8:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Pitfalls in Serving Warrants",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Outside Chance",
+     "duracao": "2:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Evil New War God",
+     "duracao": "4:34"
+    },
+    {
+     "n": 13,
+     "titulo": "The Bloated Pope",
+     "duracao": "3:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Bad Move",
+     "duracao": "3:27"
+    },
+    {
+     "n": 15,
+     "titulo": "With Teeth",
+     "duracao": "2:44"
+    },
+    {
+     "n": 16,
+     "titulo": "Halo of Flies",
+     "duracao": "8:22"
+    },
+    {
+     "n": 17,
+     "titulo": "Oven",
+     "duracao": "1:54"
+    },
+    {
+     "n": 18,
+     "titulo": "Sway",
+     "duracao": "3:09"
+    },
+    {
+     "n": 19,
+     "titulo": "Anaconda",
+     "duracao": "2:49"
+    },
+    {
+     "n": 20,
+     "titulo": "Lovely Butterflies",
+     "duracao": "2:58"
+    },
+    {
+     "n": 21,
+     "titulo": "Boris",
+     "duracao": "6:56"
+    },
+    {
+     "n": 22,
+     "titulo": "It’s Shoved",
+     "duracao": "2:40"
+    },
+    {
+     "n": 23,
+     "titulo": "Honey Bucket",
+     "duracao": "2:54"
+    },
+    {
+     "n": 24,
+     "titulo": "We Are Doomed",
+     "duracao": "6:48"
+    },
+    {
+     "n": 25,
+     "titulo": "Fly Paper",
+     "duracao": "2:27"
+    },
+    {
+     "n": 26,
+     "titulo": "Let God Be Your Gardener",
+     "duracao": "2:11"
+    },
+    {
+     "n": 27,
+     "titulo": "At the Stake",
+     "duracao": "1:39"
+    },
+    {
+     "n": 28,
+     "titulo": "Night Goat",
+     "duracao": "6:05"
+    },
+    {
+     "n": 29,
+     "titulo": "Queen",
+     "duracao": "2:42"
+    },
+    {
+     "n": 30,
+     "titulo": "Everybody’s Talking",
+     "duracao": "2:45"
+    },
+    {
+     "n": 31,
+     "titulo": "Revolve",
+     "duracao": "3:51"
+    },
+    {
+     "n": 32,
+     "titulo": "Suicide in Progress",
+     "duracao": "2:54"
+    },
+    {
+     "n": 33,
+     "titulo": "Prig",
+     "duracao": "1:50"
+    },
+    {
+     "n": 34,
+     "titulo": "The Bit",
+     "duracao": "5:15"
+    },
+    {
+     "n": 35,
+     "titulo": "Civilized Worm",
+     "duracao": "6:43"
+    },
+    {
+     "n": 36,
+     "titulo": "Don’t Forget to Breathe",
+     "duracao": "7:32"
+    }
+   ],
+   "duracao_min": 150,
+   "critica": {
+    "metacritic": 75,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Five_Legged_Dog",
+   "resumo_en": "Five Legged Dog is the 25th studio album by American rock band Melvins, released on October 15, 2021, through Ipecac Recordings. It contains acoustic versions of songs that appeared on earlier albums and is the first acoustic album released by the band."
+  },
+  {
+   "id": "d4e31eed-b5f3-4c31-89d5-9eb04696519c",
+   "titulo": "Bad Mood Rising",
+   "data": "2022-08-14",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/3e7c419b-ee4e-4c4b-8c24-52ffd43bac4d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mister Dog Is Totally Right",
+     "duracao": "14:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Never Say You're Sorry",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "My Discomfort Is Radiant",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "It Won't or It Might",
+     "duracao": "8:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Hammering",
+     "duracao": "5:30"
+    },
+    {
+     "n": 6,
+     "titulo": "The Receiver and the Empire State",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bad_Mood_Rising",
+   "resumo_en": "Bad Mood Rising is the 26th studio album by American rock band Melvins, released on August 21, 2022, through Amphetamine Reptile Records. It joined streaming services on September 30, 2022."
+  },
+  {
+   "id": "22168808-8131-4727-9a7a-513b19e22298",
+   "titulo": "The Devil You Knew, the Devil You Know",
+   "data": "2023-04-09",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/196bf774-f9eb-4a10-866b-e41189bcccf8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Easy as It Was",
+     "duracao": "2:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Now a Limo",
+     "duracao": "0:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Grinding Process",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "At a Crawl",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Disinvite",
+     "duracao": "1:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Snake Appeal",
+     "duracao": "1:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Easy as It Was",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Now a Limo",
+     "duracao": "0:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Grinding Process",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "At a Crawl",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Disinvite",
+     "duracao": "1:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Snake Appeal",
+     "duracao": "1:39"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "734533e3-c23e-44ef-b8ac-8e9715dabe9e",
+   "titulo": "Throbbing Jazz Gristle Funk Hits",
+   "data": "2023-06-25",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/b7752309-d79b-48fe-9a82-a65d9043e87a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Adrenaline",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Eye Be Emm",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Zyklon B Zombie",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Semi Annual Report",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Sic Sick 60’s",
+     "duracao": "2:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Hot on the Heels of Love",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "31 Jazz Funk Flavors",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Discipline",
+     "duracao": "6:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Maggot Life",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Hamburger Lady",
+     "duracao": "1:03"
+    },
+    {
+     "n": 11,
+     "titulo": "A88A",
+     "duracao": "2:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Discipline 23",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "0ef9e3ff-e880-4b34-a74b-054a641eaecc",
+   "titulo": "Controlling Data for a Better Feeling Future",
+   "data": "2023-08-11",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/26ec1a62-1b90-4a31-bb92-bb8f7e2589e3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Data Control",
+     "duracao": "5:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Better Feeling",
+     "duracao": "7:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Galloping Mind Fuk",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "At the Stake",
+     "duracao": "7:43"
+    },
+    {
+     "n": 5,
+     "titulo": "The Sails of Charon",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "0da7f608-1403-465f-b573-34eb2bf40ba9",
+   "titulo": "Tarantula Heart",
+   "data": "2024-04-19",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/093c22cb-2509-4f3b-bb84-ed3fe57bea5c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pain Equals Funny",
+     "duracao": "19:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Working the Ditch",
+     "duracao": "6:32"
+    },
+    {
+     "n": 3,
+     "titulo": "She’s Got Weird Arms",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Allergic to Food",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Smiler",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 80,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tarantula_Heart",
+   "resumo_en": "Tarantula Heart is the 27th studio album by the American rock band the Melvins, released on April 19, 2024, via Ipecac Recordings. The first session took place in May 2022 with drummer / synthesist Roy Mayorga, and the second happened in January 2023 with guitarist Gary Chester.\nThe album uses dual drum parts, and, according to vocalist Buzz Osborne, was approached \"different than any other Melvins album\". A press release surrounding the album opined that \"the LP is quite possibly the band's most unconventional, catchiest and imaginative work yet, continuing a legacy celebrated for its eccentric and extraordinary output\"."
+  },
+  {
+   "id": "95ad9d83-5ec3-4639-9ae4-f8d31529161f",
+   "titulo": "Twins of Evil",
+   "data": "2024-06-16",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/623ba947-5b9e-4133-b44b-713a32770d0a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cry",
+     "duracao": "19:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Funny Equals Pain",
+     "duracao": "18:50"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "e7a36dd0-a879-4cfe-9ed1-0f78c4fca565",
+   "titulo": "Savage Imperial Death March",
+   "data": "2025-02-16",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/d2e74e18-9128-47cf-905a-95f9419c75ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tossing Coins Into the Fountain of Fuck",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Some Kind of Antichrist",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Nine Days of Rain",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Rip the God",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Stealing Horses",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Death Hour",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "90a9c7eb-12d3-48d5-9026-b640a89dcd82",
+   "titulo": "Thunderball",
+   "data": "2025-04-18",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/478f05cc-62ed-4e06-b0de-f283d765a7ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "King of Rome",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Vomit of Clarity",
+     "duracao": "2:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Short Hair With a Wig",
+     "duracao": "11:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Victory of the Pyramids",
+     "duracao": "9:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Venus Blood",
+     "duracao": "8:10"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 78,
+    "media": 7.8,
+    "fontes": 6
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thunderball_%28Melvins_1983_album%29",
+   "resumo_en": "Thunderball is the twenty-eighth studio album by American rock band Melvins, under the alias Melvins 1983. It was released on April 18, 2025, by Ipecac Recordings in CD, vinyl, and digital formats."
+  }
+ ]
+}

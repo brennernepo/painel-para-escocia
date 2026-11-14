@@ -1,0 +1,778 @@
+{
+ "id": "primus",
+ "nome": "Primus",
+ "cena": "Nu metal e correlatos",
+ "mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+ "wikidata": "Q741836",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1984",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "funk metal",
+  "alternative rock",
+  "funk rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/PrimusLiveInOttawaJuly062008.JPG/500px-PrimusLiveInOttawaJuly062008.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Primus_%28banda%29",
+ "resumo_pt": "Primus é uma banda americana formada em 1984 por Les Claypool (vocalista e baixista), Todd Huth (guitarrista) e Jay Lane (baterista). A banda é amplamente reconhecida por sua irreverência, senso de humor e seu envolvimento com a sitcom animada South Park.",
+ "resumo_en": "Primus ( PRY-məs) is an American rock band formed in El Sobrante, California, in 1984. As of 2026, the band consists of bassist/vocalist Les Claypool, guitarist Larry \"Ler\" LaLonde, and drummer John \"Hoffer\" Hoffman. Primus originally formed in 1984 with Claypool and guitarist Todd Huth, later joined by drummer Jay Lane, though the latter two had departed by the beginning of the band's recording career in 1989, replaced by LaLonde and Tim \"Herb\" Alexander respectively.\nThe \"classic\" lineup of Claypool, LaLonde and Alexander debuted with the live album Suck on This, which was self-released in 1989 on Claypool's label Prawn Song and reissued a year later by Caroline Records. Caroline also released Primus' debut studio album Frizzle Fry (1990), which was critically well received, and its underground success led to interest from major record labels. Their second studio album and major-label debut Sailing the Seas of Cheese (1991), released through Interscope Records, launched the band into mainstream exposure, supported by their first charting single \"Jerry Was a Race Car Driver\" and receiving platinum certification within a decade after its release. Primus repeated its success with their next two albums, Pork Soda (1993) and Tales from the Punchbowl (1995), both charting in the top ten on the Billboard 200, and being certified platinum and gold respectively by the RIAA. Pork Soda featured the band's top ten hit on the Billboard rock chart, \"My Name Is Mud\", while Tales from the ",
+ "albuns": [
+  {
+   "id": "8632863d-318a-3dd7-8f33-2d292a44a2c8",
+   "titulo": "Frizzle Fry",
+   "data": "1990-05-31",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/bbe89ba7-024b-4a49-939e-d63cc80c6ca9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "To Defy the Laws of Tradition",
+     "duracao": "6:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Groundhog’s Day",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Too Many Puppies",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Mr. Knowitall",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Frizzle Fry",
+     "duracao": "6:04"
+    },
+    {
+     "n": 6,
+     "titulo": "John the Fisherman",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "You Can’t Kill Michael Malloy",
+     "duracao": "0:25"
+    },
+    {
+     "n": 8,
+     "titulo": "The Toys Go Winding Down",
+     "duracao": "4:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Pudding Time",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Sathington Willoby",
+     "duracao": "0:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Spegetti Western",
+     "duracao": "5:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Harold of the Rocks",
+     "duracao": "6:17"
+    },
+    {
+     "n": 13,
+     "titulo": "To Defy",
+     "duracao": "0:36"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.4,
+    "fontes": 7
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frizzle_Fry",
+   "resumo_en": "Frizzle Fry is the debut studio album by American rock band Primus. It was released on February 7, 1990, by Caroline Records. Produced by the band and Matt Winegar, the album was recorded at Different Fur Studios in San Francisco in December 1989. In 2015, Primus frontman Les Claypool ranked Frizzle Fry as his favorite Primus album."
+  },
+  {
+   "id": "a7c4f177-8de8-366f-87f4-aa851ae32012",
+   "titulo": "Sailing the Seas of Cheese",
+   "data": "1991-05-14",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/1c03f3ed-a89e-481d-8301-b5b89a9ab68b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seas of Cheese",
+     "duracao": "0:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Here Come the Bastards",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Sgt. Baker",
+     "duracao": "4:16"
+    },
+    {
+     "n": 4,
+     "titulo": "American Life",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Jerry Was a Race Car Driver",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Eleven",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Is It Luck?",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Grandad’s Little Ditty",
+     "duracao": "0:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Tommy the Cat",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Sathington Waltz",
+     "duracao": "1:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Those Damned Blue‐Collar Tweekers",
+     "duracao": "5:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Fish On (Fisherman Chronicles, Chapter II)",
+     "duracao": "7:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Los Bastardos",
+     "duracao": "2:40"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.9,
+    "fontes": 9
+   },
+   "publico": 8.5,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sailing_the_Seas_of_Cheese",
+   "resumo_en": "Sailing the Seas of Cheese is the second studio album and major label debut by the American rock band Primus. It was released on May 14, 1991, through Interscope Records. It spawned two promotional singles: \"Jerry Was a Race Car Driver\" and \"Tommy the Cat\"."
+  },
+  {
+   "id": "83e9f236-6687-3123-ad41-7338f4c22117",
+   "titulo": "Pork Soda",
+   "data": "1993-04-16",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/6c0835de-0893-48e1-a423-37c6ebef882a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pork Chop’s Little Ditty",
+     "duracao": "0:21"
+    },
+    {
+     "n": 2,
+     "titulo": "My Name Is Mud",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Welcome to This World",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Bob",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "DMV",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "The Ol’ Diamondback Sturgeon (Fisherman’s Chronicles, Part 3)",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Nature Boy",
+     "duracao": "5:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Wounded Knee",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Pork Soda",
+     "duracao": "2:20"
+    },
+    {
+     "n": 10,
+     "titulo": "The Pressman",
+     "duracao": "5:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Mr. Krinkle",
+     "duracao": "5:24"
+    },
+    {
+     "n": 12,
+     "titulo": "The Air Is Getting Slippery",
+     "duracao": "2:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Hamburger Train",
+     "duracao": "8:10"
+    },
+    {
+     "n": 14,
+     "titulo": "Pork Chop’s Little Ditty",
+     "duracao": "0:43"
+    },
+    {
+     "n": 15,
+     "titulo": "Hail Santa",
+     "duracao": "1:48"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.7,
+    "fontes": 8
+   },
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pork_Soda",
+   "resumo_en": "Pork Soda is the third studio album by the American rock band Primus. It was released on April 20, 1993, by Interscope Records and Prawn Song Records. The album was certified gold in September 1993 and platinum in May 1997. The 2005 reissue comes in a digipak and contains a booklet with lyrics printed to nine songs, omitting \"Pork Soda\", which consists of a series of unintelligible rants. Claypool explained the term \"pork soda\" was meant to refer to how Primus – a band that, in his eyes, wasn't suitable for radio play – was \"an acquired taste, like a meat-flavored soda would be\", and that \"Pork Soda is the exact opposite of what people want from a soda these days. It’s got all the cholesterol, all the calories\".\nThe album debuted at number seven on the Billboard 200 chart, which some music critics considered surprising considering the group's uncommercial sound. It became the group's first top-10 album and sold half a million copies. Singles from it include \"My Name Is Mud\" and \"Mr. Krinkle\". The album was performed in its entirety for the first time at the Fox Oakland Theatre on December 31, 2015."
+  },
+  {
+   "id": "8e1055fe-66e7-3c2b-983e-c58675666fb3",
+   "titulo": "Tales From the Punchbowl",
+   "data": "1995-06-06",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/4c1e9de5-5e3d-43ba-8ea9-420409f051fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Professor Nutbutter’s House of Treats",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Mrs. Blaileen",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Wynona’s Big Brown Beaver",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Southbound Pachyderm",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Space Farm",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Year of the Parrot",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Hellbound 17½ (Theme From)",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Glass Sandwich",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Del Davis Tree Farm",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "De Anza Jig",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "On the Tweek Again",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Over the Electric Grapevine",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Captain Shiner",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tales_from_the_Punchbowl",
+   "resumo_en": "Tales from the Punchbowl is the fourth studio album by the American rock band Primus, released on June 6, 1995. It was the band's last album with Tim Alexander before he rejoined Primus seven years later, and again in September 2013. It was certified Gold on July 20, 1995."
+  },
+  {
+   "id": "8f72160a-93f2-388f-ab65-89aa83a68a54",
+   "titulo": "Brown Album",
+   "data": "1997-07-08",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/98770512-0c4f-4c1e-a727-691b1afa5e47/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Return of Sathington Willoughby",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Fisticuffs",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Golden Boy",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Over the Falls",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Shake Hands With Beef",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Camelback Cinema",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Hats Off",
+     "duracao": "1:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Puddin’ Taine",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Bob’s Party Time Lounge",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Duchess and the Proverbial Mind Spread",
+     "duracao": "3:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Restin’ Bones",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Coddingtown",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Kalamazoo",
+     "duracao": "3:31"
+    },
+    {
+     "n": 14,
+     "titulo": "The Chastising of Renegade",
+     "duracao": "5:04"
+    },
+    {
+     "n": 15,
+     "titulo": "Arnie",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 4.5,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brown_Album",
+   "resumo_en": "Brown Album is  the fifth studio album by American rock band Primus. It was released on July 8, 1997, by Prawn Song and Interscope Records. It was the band's first album with new drummer Brain, who replaced former drummer Tim Alexander. The album has received a mixed reception from critics and fans."
+  },
+  {
+   "id": "e831feab-e4bf-37f0-8cb5-797e5a0e5237",
+   "titulo": "Antipop",
+   "data": "1999-10-18",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/8922778c-9781-48d6-910e-dccf9c0da11a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Electric Uncle Sam",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Natural Joe",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Lacquer Head",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Antipop",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Eclectic Electric",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Greet the Sacred Cow",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Mama Didn’t Raise No Fool",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Dirty Drowning Man",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Ballad of Bodacious",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Power Mad",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Final Voyage of the Liquid Sky",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Coattails of a Dead Man",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Antipop",
+   "resumo_en": "Antipop is the sixth studio album by American rock band Primus. It was released on October 19, 1999, through Prawn Song Records and Interscope Records. Produced by the band, Tom Morello, Stewart Copeland, Tom Waits, Matt Stone, and Fred Durst, it was the final release by the band before their hiatus from 2000 to 2003. It was also their last album with drummer Brain. The album received mostly positive reviews from critics."
+  },
+  {
+   "id": "17d426ab-f395-4988-96d9-203962c6bf45",
+   "titulo": "Green Naugahyde",
+   "data": "2011-09-12",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/ae60c319-9ca4-43d2-8844-5172095d7ae3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prelude to a Crawl",
+     "duracao": "1:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Hennepin Crawler",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Last Salmon Man",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Eternal Consumption Engine",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Tragedy’s A’Comin’",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Eyes of the Squirrel",
+     "duracao": "5:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Jilly’s on Smack",
+     "duracao": "6:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Lee Van Cleef",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Moron TV",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Green Ranger",
+     "duracao": "2:05"
+    },
+    {
+     "n": 11,
+     "titulo": "HOINFODAMAN",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Extinction Burst",
+     "duracao": "5:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Salmon Men",
+     "duracao": "1:00"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 75,
+    "media": 7.1,
+    "fontes": 12
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Green_Naugahyde",
+   "resumo_en": "Green Naugahyde is the seventh studio album by rock group Primus, released by ATO Records and Prawn Song on September 12, 2011, in Europe, and on September 13, 2011, in the United States. It is the band's first album since 1999's Antipop, and features their first new material since 2003's Animals Should Not Try to Act Like People EP. It is the only Primus album to feature Jay Lane on drums, as he left the band in September 2013.\nThe album's title comes from the lyrics to the song \"Lee Van Cleef\", which describes a group of friends watching movies featuring Lee Van Cleef and Clint Eastwood, and driving a yellow Studebaker with a green Naugahyde interior."
+  },
+  {
+   "id": "e967d9cd-fa80-4a86-86c6-817bca7904c6",
+   "titulo": "Primus & the Chocolate Factory With the Fungi Ensemble",
+   "data": "2014-10-21",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/3900c348-bd61-49ae-a13f-18a0fa7561bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hello Wonkites",
+     "duracao": "2:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Candy Man",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Cheer Up Charlie",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Golden Ticket",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Lermaninoff",
+     "duracao": "0:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Pure Imagination",
+     "duracao": "5:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Oompa Augustus",
+     "duracao": "1:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Semi‐Wondrous Boat Ride",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Oompa Violet",
+     "duracao": "1:45"
+    },
+    {
+     "n": 10,
+     "titulo": "I Want It Now",
+     "duracao": "4:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Oompa Veruca",
+     "duracao": "1:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Wonkmobile",
+     "duracao": "1:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Oompa TV",
+     "duracao": "1:42"
+    },
+    {
+     "n": 14,
+     "titulo": "Farewell Wonkites",
+     "duracao": "4:58"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 61,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Primus_%26_the_Chocolate_Factory_with_the_Fungi_Ensemble",
+   "resumo_en": "Primus & the Chocolate Factory with the Fungi Ensemble is the eighth studio album by American rock group Primus. The album is a re-imagining of the soundtrack of the 1971 film Willy Wonka & the Chocolate Factory. The album was released on October 21, 2014. It is the first full-length album with Tim \"Herb\" Alexander since 1995's Tales from the Punchbowl."
+  },
+  {
+   "id": "44109b19-30e8-4901-8fb3-b6926d54a14c",
+   "titulo": "The Desaturating Seven",
+   "data": "2017-09-29",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/394c4919-1ca7-4124-b565-1aa772b3b365/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Valley",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "The Seven",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "The Trek",
+     "duracao": "7:50"
+    },
+    {
+     "n": 4,
+     "titulo": "The Scheme",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "The Dream",
+     "duracao": "6:36"
+    },
+    {
+     "n": 6,
+     "titulo": "The Storm",
+     "duracao": "7:47"
+    },
+    {
+     "n": 7,
+     "titulo": "The Ends?",
+     "duracao": "1:44"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 68,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Desaturating_Seven",
+   "resumo_en": "The Desaturating Seven is the ninth studio album by American rock group Primus, released on September 29, 2017. It is the band's first album of original material since 2011's Green Naugahyde, and is the only LP featuring original material written with drummer Tim Alexander since 1995's Tales from the Punchbowl. It was also his final album with the band."
+  }
+ ]
+}

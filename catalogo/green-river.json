@@ -1,0 +1,87 @@
+{
+ "id": "green-river",
+ "nome": "Green River",
+ "cena": "Grunge",
+ "mbid": "78f56916-fe11-4110-8f10-d553ddf8de7b",
+ "wikidata": "Q1127431",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1983",
+ "fim": "1987",
+ "ativa": false,
+ "generos": [
+  "alternative rock",
+  "grunge",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Green_River_%281980s_Sub_Pop_promo_photo%29.jpg/500px-Green_River_%281980s_Sub_Pop_promo_photo%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Green_River_%28banda%29",
+ "resumo_pt": "O Green River foi uma banda norte-americana, formada em Seattle em 1984, por membros que posteriormente formariam o Mudhoney e o Mother Love Bone e também membros do Pearl Jam, com Mark Arm do Mudhoney no vocal e Jeff Ament do Mother Love Bone no baixo. Em 1985 lançou seu primeiro álbum musical, Come on Down, tendo mais um álbum  ao vivo e um outro de gravação em estúdio. A banda é tida como a precursora do grunge ao lado de Soundgarden, e Skin Yard. A banda tem um som de guitarras sujas e um vocal geralmente irônico , sombrio e triste.",
+ "resumo_en": "Green River was an American rock band formed in Seattle, Washington, in 1984. Considered one of the first grunge bands, Green River is best known for being the precursor to multiple key early 1990s rock bands, most notably Pearl Jam, Mudhoney, Mother Love Bone, Temple of the Dog, and Love Battery. Green River reunited for several live shows in 2008 and 2009.",
+ "albuns": [
+  {
+   "id": "784c7149-d386-4e1f-9713-605cf5966252",
+   "titulo": "Rehab Doll",
+   "data": "1988-05-01",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/b48172c8-3822-4e98-ba19-172a1f6e7f7e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Forever Means",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Rehab Doll",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Swallow My Pride",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Together We’ll Never",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Smilin’ and Dyin’",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Porkfist",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Take a Dive",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "One More Stitch",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Queen Bitch",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rehab_Doll",
+   "resumo_en": "Rehab Doll is the only studio album by the American rock band Green River, released in June 1988 through Sub Pop Records."
+  }
+ ]
+}

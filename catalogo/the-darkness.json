@@ -1,0 +1,655 @@
+{
+ "id": "the-darkness",
+ "nome": "The Darkness",
+ "cena": "Hard rock",
+ "mbid": "81df2271-03a1-46a3-bb30-cce187235312",
+ "wikidata": "Q421794",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "2000",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "glam rock",
+  "rock",
+  "heavy metal",
+  "pop rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/TheDarkness2012.jpg/500px-TheDarkness2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Darkness_%28banda%29",
+ "resumo_pt": "The Darkness (A Escuridão) é uma banda inglesa de hard rock, formada em 2000. Suas músicas têm influência em bandas de rock dos anos 70, como Queen, Mercyful Fate, Kiss, AC/DC, Judas Priest, Led Zeppelin,  Thin Lizzy, New York Dolls, Mott the Hoople, Van Halen, T. Rex e Sweet.",
+ "resumo_en": "The Darkness are a British hard rock band formed in Lowestoft in 2000. The band consists of the brothers Justin (vocals, guitar) and Dan Hawkins (guitar), as well as Frankie Poullain (bass) and Rufus Tiger Taylor (drums).\nThe Darkness came to prominence with the release of their debut album, Permission to Land, in 2003. Backed by the singles \"I Believe in a Thing Called Love\", \"Growing on Me\", \"Get Your Hands off My Woman\", and \"Love Is Only a Feeling\", the album was certified quadruple platinum in the United Kingdom, with sales of over 1.3 million. In 2004 the band won three Brit Awards: Best British Group, Best British Rock Act, and Best British Album. After extensive touring in support of their debut album, Poullain left the band in 2005, and was replaced by former guitar technician Richie Edwards. The band's second studio album, One Way Ticket to Hell... and Back, was released in November 2005. The following year, Justin Hawkins departed from the band after successfully completing a course of rehabilitation from alcohol and cocaine abuse. This, combined with the poor sales of the album, resulted in Atlantic dropping the band in October 2006. After the split, the remaining members formed Stone Gods, and continued to perform and record without Hawkins, who subsequently fronted his own project, Hot Leg.\nIn March 2011, the Darkness announced reunion shows, with original bassist Frankie Poullain, including Download Festival 2011, and the Isle of Wight Festival 2012. Their thir",
+ "albuns": [
+  {
+   "id": "00edead2-61f0-3122-9f23-7c741c1f39cf",
+   "titulo": "Permission to Land",
+   "data": "2003-07-07",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/008090f6-516a-4330-a010-8785c023d834/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Shuck",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Get Your Hands Off My Woman",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Givin’ Up",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Growing on Me",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "I Believe in a Thing Called Love",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Is Only a Feeling",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Stuck in a Rut",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Friday Night",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Love on the Rocks With No Ice",
+     "duracao": "5:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Holding My Own",
+     "duracao": "4:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Christmas Time (Don’t Let the Bells End)",
+     "duracao": "3:27"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 7.5,
+    "fontes": 9
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Permission_to_Land",
+   "resumo_en": "Permission to Land is the debut studio album by the British glam rock band the Darkness, released on 7 July 2003 in the UK and 16 September 2003 in the US. The album topped the UK Albums Chart and reached number thirty-six on the American Billboard 200 chart. Five singles were released from Permission to Land: \"Get Your Hands off My Woman\", \"Growing on Me\", \"I Believe in a Thing Called Love\", \"Christmas Time (Don't Let the Bells End)\" (which only appears on the German Christmas edition), and \"Love Is Only a Feeling\". \"I Believe in a Thing Called Love\" was the most successful, reaching number two on the UK Singles Chart."
+  },
+  {
+   "id": "ee03cda8-0890-3c63-a1c5-35612e455998",
+   "titulo": "One Way Ticket to Hell …and Back",
+   "data": "2005-11-25",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/0d511fc0-518d-4c33-8a95-e6466dc3c516/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Way Ticket",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Knockers",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Is It Just Me?",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Dinner Lady Arms",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Seemed Like a Good Idea at the Time",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Hazel Eyes",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Bald",
+     "duracao": "5:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Girlfriend",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "English Country Garden",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Blind Man",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 68,
+    "media": 7.3,
+    "fontes": 8
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/One_Way_Ticket_to_Hell..._and_Back",
+   "resumo_en": "One Way Ticket to Hell... and Back  is the second studio album by the British rock band the Darkness. It was released on 28 November 2005 through Atlantic Records, reaching number 11 on the UK Album Chart and eventually attaining platinum status in the UK. Three singles were released from the album. The lead single, \"One Way Ticket\", reached number 8 on the UK Singles Chart, as did the second single \"Is It Just Me?\""
+  },
+  {
+   "id": "993b36ff-ab3e-44e0-914f-849cb514aaac",
+   "titulo": "Hot Cakes",
+   "data": "2012-08-12",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/34712233-8a8c-4a53-aedf-b00a0dde0c85/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Every Inch of You",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Nothin's Gonna Stop Us",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "With a Woman",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Keep Me Hangin' On",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Living Each Day Blind",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Everybody Have a Good Time",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "She Just a Girl, Eddie",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Forbidden Love",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Concrete",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Street Spirit (Fade Out)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Is Not the Answer",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 67,
+    "media": 6.9,
+    "fontes": 9
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hot_Cakes",
+   "resumo_en": "Hot Cakes  is the third studio album by British rock band the Darkness, released on 20 August 2012 on Canary Dwarf Records. Produced by Nick Brine and band members Justin and Dan Hawkins, the album is the band's first since their 2011 reunion, and the first to feature founding bassist Frankie Poullain since Permission to Land in 2003. It is also the last album to feature all four original members, after Ed Graham's departure in 2014.  Despite not being released until 20 August, the album was made available to stream on the Rolling Stone website on 14 August."
+  },
+  {
+   "id": "40cc636e-fb0c-40f5-8bef-07de71d54cee",
+   "titulo": "Last of Our Kind",
+   "data": "2015-05-27",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/ec03da71-993b-4d1b-91af-1d390646f72f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Barbarian",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Open Fire",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Last of Our Kind",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Roaring Waters",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Wheels of the Machine",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Mighty Wings",
+     "duracao": "5:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Mudslide",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Sarah O’Sarah",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Hammer & Tongs",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Conquerors",
+     "duracao": "4:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Messenger",
+     "duracao": "3:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Always Had the Blues",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 63,
+    "media": 6.9,
+    "fontes": 9
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Last_of_Our_Kind",
+   "resumo_en": "Last of Our Kind is the fourth studio album by British hard rock band The Darkness. Produced by the band's guitarist Dan Hawkins at his studio The Hawks Nest in Norfolk, it was first released on 27 May 2015 in Japan, and later in other territories, by Canary Dwarf Records. The album is the first and only by the band to feature drummer Emily Dolan Davies, who replaced Ed Graham in 2014 before leaving less than a year later. The album also features Frankie Poullain on lead vocals for the first time on the final track Conquerors.\nThe album was promoted via PledgeMusic, with the band offering signed copies of the album on both CD and vinyl, as well as signed guitars, handwritten lyric sheets and setlists from the band's archive."
+  },
+  {
+   "id": "ec06e054-76e0-4306-99ae-ebb05b38a92b",
+   "titulo": "Pinewood Smile",
+   "data": "2017-10-06",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/cc560f49-f2f5-4d20-9029-e4fe338cb4f7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All the Pretty Girls",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Buccaneers of Hispaniola",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Solid Gold",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Southern Trains",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Why Don’t the Beautiful Cry?",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Japanese Prisoner of Love",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Lay Down With Me, Barbara",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "I Wish I Was in Heaven",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Happiness",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Stampede of Love",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 71,
+    "media": 6.3,
+    "fontes": 8
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pinewood_Smile",
+   "resumo_en": "Pinewood Smile is the fifth studio album released by British hard rock band the Darkness. Produced by Adrian Bushby, the album was released on 6 October 2017 and is the first album by the band to be released by Cooking Vinyl. It is also their full first album to feature Rufus Tiger Taylor on drums, after Emily Dolan Davies left the band in 2015."
+  },
+  {
+   "id": "6bdca902-1f62-43b9-aa08-9163d2544793",
+   "titulo": "Easter Is Cancelled",
+   "data": "2019-10-04",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/03f4f7af-0ed2-4527-b847-6f4c654718dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock and Roll Deserves to Die",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "How Can I Lose Your Love",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Live 'til I Die",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Heart Explodes",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Deck Chair",
+     "duracao": "2:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Easter Is Cancelled",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Heavy Metal Lover",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "In Another Life",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Choke on It",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "We Are the Guitar Men",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 69,
+    "media": 6.5,
+    "fontes": 10
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Easter_Is_Cancelled",
+   "resumo_en": "Easter Is Cancelled is the sixth studio album by the British hard rock band the Darkness. It was released on 4 October 2019 through Canary Dwarf and Cooking Vinyl."
+  },
+  {
+   "id": "d4f470d7-8906-41af-bf43-625e73cddd8c",
+   "titulo": "Motorheart",
+   "data": "2021-11-19",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/2e4c4641-0882-401e-97fa-33efbaaa126d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Welcome Tae Glasgae",
+     "duracao": "2:50"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s Love, Jim",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Motorheart",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "The Power and the Glory of Love",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Jussy’s Girl",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Sticky Situations",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Nobody Can See Me Cry",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Eastbound",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Speed of the Nite Time",
+     "duracao": "4:52"
+    },
+    {
+     "n": 10,
+     "titulo": "You Don’t Have to Be Crazy About Me…But It Helps",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "It’s a Love Thang (You Wouldn’t Understand)",
+     "duracao": "3:18"
+    },
+    {
+     "n": 12,
+     "titulo": "So Long",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 70,
+    "media": 7.0,
+    "fontes": 5
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Motorheart",
+   "resumo_en": "Motorheart is the seventh studio album by the British hard rock band The Darkness. It was released on 19 November 2021 through Cooking Vinyl."
+  },
+  {
+   "id": "3d31f90b-60d4-4389-a926-3f9383970a3b",
+   "titulo": "Dreams on Toast",
+   "data": "2025-03-28",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/04a5d914-0988-4c8c-9154-3e00247d5908/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock and Roll Party Cowboy",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "I Hate Myself",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Hot on My Tail",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Mortal Dread",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Need Sunshine",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "The Longest Kiss",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "The Battle for Gadget Land",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Cold Hearted Woman",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Walking Through Fire",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Weekend in Rome",
+     "duracao": "3:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Hot on My Tail (acoustic demo)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Mortal Dread (demo)",
+     "duracao": "3:37"
+    },
+    {
+     "n": 13,
+     "titulo": "Don’t Need Sunshine (acoustic demo)",
+     "duracao": "3:10"
+    },
+    {
+     "n": 14,
+     "titulo": "The Longest Kiss (acoustic demo)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 15,
+     "titulo": "The Battle for Gadget Land (acoustic demo)",
+     "duracao": "2:38"
+    },
+    {
+     "n": 16,
+     "titulo": "Cold Hearted Woman (acoustic demo)",
+     "duracao": "3:26"
+    },
+    {
+     "n": 17,
+     "titulo": "Walking Through Fire (acoustic demo)",
+     "duracao": "3:01"
+    },
+    {
+     "n": 18,
+     "titulo": "Ghost With Big Tits (acoustic demo)",
+     "duracao": "3:09"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 68,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dreams_on_Toast",
+   "resumo_en": "Dreams on Toast is the eighth studio album by the British hard rock band the Darkness, released on 28 March 2025 on Canary Dwarf and Cooking Vinyl. Produced by guitarist Dan Hawkins, the album was preceded by the singles, \"The Longest Kiss\", \"I Hate Myself\", \"Rock and Roll Party Cowboy\", \"Walking Through Fire\", \"The Battle for Gadget Land\" and \"Hot on My Tail\".\nReleased to positive reviews, the album debuted at number two on both the UK Albums Chart and Scottish Albums Chart, and number one on the UK Independent Albums Chart, becoming their highest charting album in the UK since Permission to Land (2003)."
+  }
+ ]
+}

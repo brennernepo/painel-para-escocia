@@ -1,0 +1,800 @@
+{
+ "id": "thin-lizzy",
+ "nome": "Thin Lizzy",
+ "cena": "Hard rock",
+ "mbid": "6a726ac6-019e-455c-8bbb-571a77bed52e",
+ "wikidata": "Q202314",
+ "tipo": "Group",
+ "pais": "IE",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "rock",
+  "celtic rock",
+  "classic rock",
+  "heavy metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Thin_Lizzy_-1983.jpg/500px-Thin_Lizzy_-1983.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Thin_Lizzy",
+ "resumo_pt": "Thin Lizzy foi uma banda Irlandesa de hard rock, formada em Dublin no ano de 1969. Foi uma das primeiras bandas da Irlanda a misturar música irlandesa com o rock and roll, chegando inclusive a fazer versões de músicas folclóricas irlandesas. A banda foi liderada, ao longo de sua carreira, pelo cantor e compositor Phil Lynott, e são conhecidos por hits como \"Jailbreak\", \"The Boys Are Back in Town\" e \"Whiskey in the Jar\". Após a morte de Lynott, diversas formações da banda surgiram ao longo dos anos, que culminaram numa formação mais estável baseada em torno dos guitarristas Scott Gorham e John Sykes.\nComo líder do Thin Lizzy, Lynott compôs ou co-compôs a maior parte das canções da banda. Também foi um dos poucos negros a conseguir algum sucesso significativo no hard rock. Além de ser multirracial, a banda também se notabilizou por recrutar membros em ambos os lados da fronteira irlandesa (com membros nascidos na Escócia, Irlanda do Norte, Inglaterra e, ainda, Estados Unidos), e das comunidades católica e protestante da ilha. Sua música reflete uma ampla gama de influências, incluindo a country music, o rock psicodélico, a música irlandesa e a música tradicional folclórica daquele país; porém é classificada geralmente como hard rock ou, por vezes, heavy metal.[carece de fontes]? A revista Rolling Stone descreveu a banda como \"distintamente hard rock\", \"muito distante da matilha zurrante de meados da década de 70\".\nJohn Dougan, crítico do site Allmusic, escreveu que \"como a forç",
+ "resumo_en": "Thin Lizzy were an Irish rock band formed in Dublin in 1969. The band initially consisted of bass guitarist, lead vocalist, and principal songwriter Phil Lynott, drummer Brian Downey, guitarist Eric Bell, and organist Eric Wrixon, although Wrixon left after a few months. Bell left at the end of 1973 and was briefly replaced by Gary Moore, who himself was replaced in mid-1974 by dual lead guitarists: Scott Gorham, who remained with the band until their break-up in 1983, and Brian Robertson, who remained with the band until 1978 when Moore re-joined. Moore left a second time and was replaced by Snowy White in 1980, who was himself replaced by John Sykes in 1982. The line-up was augmented by keyboardist Darren Wharton in 1980. \nThe singles \"Whiskey in the Jar\" (1972), \"The Boys Are Back in Town\" (1976) and \"Waiting for an Alibi\" (1979) were international hits, and several Thin Lizzy albums reached the top ten in the UK. The band's music reflects a wide range of influences including blues, soul music, psychedelic rock, and traditional Irish folk music, but is generally classified as hard rock or sometimes heavy metal. Lynott led the group throughout their fourteen-year recording career of twelve studio albums, writing or co-writing almost all the band's material. He was the first Black Irishman to achieve commercial success in the field of rock music. Thin Lizzy featured several guitarists throughout their history, with Downey and Lynott as the rhythm section on the drums and bas",
+ "albuns": [
+  {
+   "id": "5644f7d6-9c27-3740-829f-47d4167c84ac",
+   "titulo": "Thin Lizzy",
+   "data": "1971-04",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/5919bbe2-383c-43f1-90ab-dab5bf6749a6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Friendly Ranger at Clontarf Castle",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Honesty Is No Excuse",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Diddy Levine",
+     "duracao": "7:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Ray-Gun",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Look What the Wind Blew In",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Eire",
+     "duracao": "2:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Return of the Farmer’s Son",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Clifton Grange Hotel",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Saga of the Ageing Orphan",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Remembering",
+     "duracao": "5:56"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thin_Lizzy_%28album%29",
+   "resumo_en": "Thin Lizzy is the debut studio album by Irish rock band Thin Lizzy, released on 30 April 1971. The album was released in the United States on 14 July 1971. \nFollowing the release of the album, the band recorded the EP New Day, produced and recorded by Nick Tauber at Decca Studios on 14–17 June 1971 and released on 20 August 1971. The songs from the EP were included in later editions of the album."
+  },
+  {
+   "id": "d563a202-d242-3906-80fe-31e66fb948ba",
+   "titulo": "Shades of a Blue Orphanage",
+   "data": "1972-03-10",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/be996d87-fe94-43f9-bf55-6efecb5cc71c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Rise and Dear Demise of the Funky Nomadic Tribes",
+     "duracao": "7:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Buffalo Gal",
+     "duracao": "5:30"
+    },
+    {
+     "n": 3,
+     "titulo": "I Don’t Want to Forget How to Jive",
+     "duracao": "1:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Sarah",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Brought Down",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Baby Face",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Chatting Today",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Call the Police",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Shades of a Blue Orphanage",
+     "duracao": "7:06"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 3
+   },
+   "publico": 5.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shades_of_a_Blue_Orphanage",
+   "resumo_en": "Shades of a Blue Orphanage is the second studio album by Irish rock band Thin Lizzy, released in 1972. The title is a combination of the members' previous bands: Shades of Blue and Orphanage.\n\"Sarah\" was written for Phil Lynott's grandmother who raised him when his mother, Philomena, was unable to do so. This song should not be confused with the 1979 song of the same name, for Lynott's daughter, included on Black Rose: A Rock Legend.\nA remastered and expanded version of Shades of a Blue Orphanage was released on 11 October 2010."
+  },
+  {
+   "id": "5ad79fbc-05c7-3e37-896b-23dfc553ef94",
+   "titulo": "Vagabonds of the Western World",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/46712e2a-0e7a-43f7-834e-f650459517ea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mama Nature Said",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "The Hero and the Madman",
+     "duracao": "6:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Slow Blues",
+     "duracao": "5:17"
+    },
+    {
+     "n": 4,
+     "titulo": "The Rocker",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Vagabond of the Western World",
+     "duracao": "4:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Girl in Bloom",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Gonna Creep Up on You",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "A Song for While I'm Away",
+     "duracao": "5:09"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vagabonds_of_the_Western_World",
+   "resumo_en": "Vagabonds of the Western World is the third studio album by Irish hard rock band Thin Lizzy, released in 1973. It was the band's last album with original guitarist Eric Bell, as well as a trio, and the first to feature the artwork of Jim Fitzpatrick, whose work would appear on many subsequent albums by the band."
+  },
+  {
+   "id": "3e0381e9-56e2-36ea-8d7b-5b024be09594",
+   "titulo": "Nightlife",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/4fa583f4-6641-4f1d-8a34-adc495c3d569/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She Knows",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Night Life",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "It's Only Money",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Still in Love With You",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Frankie Carroll",
+     "duracao": "2:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Showdown",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Banshee",
+     "duracao": "1:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Philomena",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Sha-La-La",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Dear Heart",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nightlife_%28Thin_Lizzy_album%29",
+   "resumo_en": "Nightlife is the fourth studio album by Irish rock band Thin Lizzy, released on 8 November 1974 by Vertigo Records. It was produced by Ron Nevison and bandleader Phil Lynott, and was the first album to feature the band as a quartet with newcomers Scott Gorham and Brian Robertson on guitars.\nSome reissue CDs, and occasionally other sources, spell the album title as Night Life, the same as the song title. However the original album title is Nightlife.\nThe song \"Philomena\" was written for Lynott's mother."
+  },
+  {
+   "id": "634a7c5f-b10b-3634-9261-eef34ad03eaf",
+   "titulo": "Fighting",
+   "data": "1975-09-12",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/1b7c5d86-fb4e-4077-afdd-bc660f1540e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rosalie",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "For Those Who Love to Live",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Suicide",
+     "duracao": "5:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Wild One",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Fighting My Way Back",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "King’s Vengeance",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Spirit Slips Away",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Silver Dollar",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Freedom Song",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Ballad of a Hard Man",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fighting_%28Thin_Lizzy_album%29",
+   "resumo_en": "Fighting is the fifth studio album by Irish rock band Thin Lizzy, released in 1975. Following the release of four studio albums, the band finally forged an identifiable sound featuring the twin guitars of Scott Gorham and Brian Robertson. This sound draws from hard rock, folk, pop and rhythm and blues. It set the stage for the big commercial breakthrough of the follow-up album, Jailbreak. The album was also their first album to chart in the UK, hitting No. 60."
+  },
+  {
+   "id": "d55dae0d-835d-3756-8805-196e41bacc2f",
+   "titulo": "Jailbreak",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/62f4961d-e315-44fa-9d6a-3cbcdf3039e7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jailbreak",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Angel From the Coast",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Running Back",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Romeo and the Lonely Girl",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Warriors",
+     "duracao": "4:05"
+    },
+    {
+     "n": 6,
+     "titulo": "The Boys Are Back in Town",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Fight or Fall",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Cowboy Song",
+     "duracao": "5:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Emerald",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 4
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jailbreak_%28album%29",
+   "resumo_en": "Jailbreak is the sixth studio album by Irish hard rock band Thin Lizzy. It was released on 26 March 1976, by Vertigo Records in the UK, and Mercury Records in the US. The album proved to be the band's commercial breakthrough in the US, and the only Thin Lizzy album with a certification (in this case, Gold) in that country. The singles taken from the album include \"Jailbreak\" and \"The Boys Are Back in Town\"; the latter is Thin Lizzy's biggest US hit, and won the 1976 NME Award for Best Single."
+  },
+  {
+   "id": "cdf7a087-0cd4-3eb3-aef9-4f8986325600",
+   "titulo": "Johnny the Fox",
+   "data": "1976-10-16",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/dc8a5248-45a8-45f7-ad9a-b3426e2358fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Johnny",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Rocky",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Borderline",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Believe a Word",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Fools Gold",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny the Fox Meets Jimmy the Weed",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Old Flame",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Massacre",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Marie",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Boogie Woogie Dance",
+     "duracao": "3:13"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_the_Fox",
+   "resumo_en": "Johnny the Fox is the seventh studio album by Irish hard rock band Thin Lizzy, released October 16th 1976. This album was written and recorded while bassist/vocalist Phil Lynott was recovering from a bout of hepatitis that put him off the road halfway through the previous Jailbreak tour. \"Don't Believe a Word\" was a British hit single. Johnny the Fox was the last Thin Lizzy studio album on which guitarist Brian Robertson featured as a full member of the band, as the personality clashes between him and Lynott resulted in Robertson being sacked, reinstated, and later sacked again."
+  },
+  {
+   "id": "58d9e7fb-3186-3fd6-b7f3-32784179c855",
+   "titulo": "Bad Reputation",
+   "data": "1977-09-02",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/2f457e5b-1a25-498f-a415-c4f9f45843bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Soldier of Fortune",
+     "duracao": "5:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Reputation",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Opium Trail",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Southbound",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Dancing in the Moonlight (It's Caught Me in Its Spotlight)",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Killer Without a Cause",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Downtown Sundown",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "That Woman's Gonna Break Your Heart",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Dear Lord",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bad_Reputation_%28Thin_Lizzy_album%29",
+   "resumo_en": "Bad Reputation is the eighth studio album by the Irish rock band Thin Lizzy, released in 1977. As the front cover suggests, most of the tracks feature only three-quarters of the band, with guitarist Brian Robertson only credited on three tracks. He had missed most of their previous tour, following a hand injury sustained in a brawl, and this album turned out to be his last studio effort with Thin Lizzy. On 27 June 2011, a new remastered and expanded version of Bad Reputation was released."
+  },
+  {
+   "id": "0e50cfc6-0830-3e6b-a443-d39237b1d34c",
+   "titulo": "Black Rose: A Rock Legend",
+   "data": "1979-04-13",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/fb666a2d-e29e-4533-a36e-ee76fac31836/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do Anything You Want To",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Toughest Street in Town",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "S & M",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Waiting for an Alibi",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Sarah",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Got to Give It Up",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Get Out of Here",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "With Love",
+     "duracao": "4:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Róisín Dubh (Black Rose): A Rock Legend",
+     "duracao": "7:04"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Rose%3A_A_Rock_Legend",
+   "resumo_en": "Black Rose: A Rock Legend is the ninth studio album by Irish rock band Thin Lizzy. Released in 1979, it has been described as one of the band's \"greatest, most successful albums\". It was the first time that guitarist Gary Moore remained in Thin Lizzy long enough to record an album—after previous brief stints in 1974 and 1977 with the band. The album peaked at No. 2 on the UK charts making it the band's highest-charting album in the UK. It was their fourth consecutive album to be certified Gold by the BPI."
+  },
+  {
+   "id": "0765ba50-a1d4-3fa7-a663-07fe12ea405a",
+   "titulo": "Chinatown",
+   "data": "1980-10",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/5a332bca-2dc1-35ed-b7fc-c10b18af4df2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We Will Be Strong",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Chinatown",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Sweetheart",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sugar Blues",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Killer on the Loose",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Having a Good Time",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Genocide",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Didn’t I",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Hey You",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chinatown_%28Thin_Lizzy_album%29",
+   "resumo_en": "Chinatown is the tenth studio album by Irish band Thin Lizzy, released in 1980. It introduced guitarist Snowy White who would also perform on the next album as well as tour with Thin Lizzy between 1980 and 1982; he replaced Gary Moore as permanent guitarist. White had previously worked with Cliff Richard, Peter Green and Pink Floyd. Chinatown also featured eighteen-year-old Darren Wharton on keyboards, and he joined Thin Lizzy as a permanent member later that year."
+  },
+  {
+   "id": "086cc7d5-455d-377f-8dfe-81360cee62ac",
+   "titulo": "Renegade",
+   "data": "1981-11-20",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/ab600310-3fb8-43c2-a425-f8fa1e1935cd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Angel of Death",
+     "duracao": "6:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Renegade",
+     "duracao": "6:09"
+    },
+    {
+     "n": 3,
+     "titulo": "The Pressure Will Blow",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Leave This Town",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Hollywood (Down on Your Luck)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "No One Told Him",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Fats",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Mexican Blood",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "It's Getting Dangerous",
+     "duracao": "5:34"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Renegade_%28Thin_Lizzy_album%29",
+   "resumo_en": "Renegade is the eleventh studio album by Irish rock band Thin Lizzy, released in November 1981. Though not his first appearance, this was the first album in which keyboard player Darren Wharton was credited as a permanent member, becoming the fifth member of the line-up. As such, he made a contribution as a songwriter on the opening track \"Angel of Death\". However, even though he had officially joined the band, his picture was omitted from the album sleeve. Renegade was the second and final album to feature guitarist Snowy White. By his own admission, White was more suited to playing blues than heavy rock and he quit by mutual agreement the following year. He went on to have a hit single with \"Bird of Paradise\" in 1983.\nA remastered and expanded edition of Renegade was released on 23 September 2013 and includes five bonus tracks."
+  },
+  {
+   "id": "fe48fbb7-8462-3ff2-b50d-bf3ea6d7c2b4",
+   "titulo": "Thunder and Lightning",
+   "data": "1983-03-04",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/120aafe0-96a7-45f1-b1e6-e06a8eb9ef0b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thunder and Lightning",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "This Is the One",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "The Sun Goes Down",
+     "duracao": "6:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The Holy War",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Cold Sweat",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Someday She Is Going to Hit Back",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby Please Don’t Go",
+     "duracao": "5:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Bad Habits",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Heart Attack",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thunder_and_Lightning_%28album%29",
+   "resumo_en": "Thunder and Lightning is the twelfth and final studio album by Irish hard rock band Thin Lizzy, released on 4 March 1983. Guitarist John Sykes was hired to replace Snowy White after 1981's Renegade, and Sykes helped to provide a heavier sound and guitar tone than Thin Lizzy had used on previous albums. However, the bulk of the songwriting (except for \"Cold Sweat\") was completed before he joined the band. Keyboard player Darren Wharton also offered a stronger musical influence to Thin Lizzy's final studio album, co-writing many of the tracks including \"Some Day She Is Going to Hit Back\", and the final single \"The Sun Goes Down\". A farewell tour followed the album's release, followed by the live album Life.\nThe group's co-founder, principal songwriter, frontman and bass player Phil Lynott died in 1986. While the group has reunited to tour on many occasions since 1994, they have consciously avoided recording any further albums out of respect for Lynott."
+  }
+ ]
+}

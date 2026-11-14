@@ -1,0 +1,382 @@
+{
+ "id": "coal-chamber",
+ "nome": "Coal Chamber",
+ "cena": "Nu metal e correlatos",
+ "mbid": "f3430779-bbec-437b-944d-1fbf45d2e786",
+ "wikidata": "Q1104250",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1993",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "nu metal",
+  "alternative metal",
+  "industrial metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Coal_Chamber_%40_Claremont_Showgrounds_%285_3_2012%29_%287005619203%29.jpg/500px-Coal_Chamber_%40_Claremont_Showgrounds_%285_3_2012%29_%287005619203%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Coal_Chamber",
+ "resumo_pt": "Coal Chamber é uma banda de nu metal de Los Angeles, Califórnia, Estados Unidos, formada na década de 90, com o \"boom do nu metal\", que bandas como Korn, Limp Bizkit e Deftones ajudaram a criar. O estilo musical de Coal Chamber é heavy metal, alternative metal, gothic metal e industrial metal.",
+ "resumo_en": "Coal Chamber is an American nu metal band formed by Dez Fafara and Meegs Rascón in Los Angeles in 1992, initially under the name She's in Pain. The original lineup also consisted of bassist Rayna Foss and drummer Jon Tor. Mike Cox replaced Tor on drums in 1995, and the Coal Chamber lineup was complete. After signing to Roadrunner Records, they released their debut album, Coal Chamber, in 1997.\nChamber Music followed two years later and featured the band's only charting single in the US, a cover of Peter Gabriel's \"Shock the Monkey\", featuring Ozzy Osbourne as a guest vocalist. Their third album, Dark Days, was released in 2002. Nadja Peulen temporarily replaced Foss on bass for touring commitments, before joining on a permanent basis in 2002. Coal Chamber disbanded in 2003, after ten years together, and then reunited in 2011, with the lineup of Fafara, Cox, and Rascón, along with Chela Rhea Harper on bass. Peulen rejoined the band on bass in 2013, and Coal Chamber released their fourth album, Rivals, in 2015, before disbanding again in 2016. They then reunited a second time in 2022.",
+ "albuns": [
+  {
+   "id": "4b9083d3-28b4-32b8-8b64-d69dd746c192",
+   "titulo": "Coal Chamber",
+   "data": "1997-02-11",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/4d674936-446b-4224-b5fb-257b574f7ce5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Loco",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Bradley",
+     "duracao": "3:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Oddity",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Unspoiled",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Truck",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Sway",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "First",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Maricon Puto",
+     "duracao": "0:46"
+    },
+    {
+     "n": 9,
+     "titulo": "I",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Clock",
+     "duracao": "2:59"
+    },
+    {
+     "n": 11,
+     "titulo": "My Frustration",
+     "duracao": "3:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Amir of the Desert",
+     "duracao": "0:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Dreamtime",
+     "duracao": "3:43"
+    },
+    {
+     "n": 14,
+     "titulo": "Pig / [silence] / [unknown]",
+     "duracao": "8:29"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "media": 4.7,
+    "fontes": 7
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Coal_Chamber_%28album%29",
+   "resumo_en": "Coal Chamber is the debut studio album by American nu metal band Coal Chamber. It was released on February 11, 1997, by Roadrunner Records and contains the single \"Loco\". The special edition of the album contains the bonus tracks \"Headstones and the Walking Dead\", \"Big Truck (Hand-On-Wheel Mix)\", \"Pig (Demo)\", \"Sway (Demo)\", \"Unspoiled (Demo)\", and \"Loco (Demo)\" (all of which are available on Giving the Devil His Due). The DVD features two of the band's concerts, a live video of \"Loco\", and the music video of \"Loco\".\nIt has been certified gold by the RIAA, with an excess of 500,000 copies in the United States and is the band's most successful album. Three singles were released on the album: \"Loco\", \"Big Truck\", and \"Sway\". \"Big Truck\" was released in 1997, while \"Loco\" and \"Sway\" were released in 1998. \"Loco\", \"Big Truck\", \"Sway\", \"Oddity\", and \"Clock\" were included on their greatest hits album."
+  },
+  {
+   "id": "4e43e288-08a6-3d96-a2ea-baf44f49ec3f",
+   "titulo": "Chamber Music",
+   "data": "1999-07-12",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/5a829050-a39b-37e1-87c8-39b3c0290375/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mist",
+     "duracao": "0:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Tragedy",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "El Cu Cuy",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Untrue",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Tyler's Song",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "What's in Your Mind?",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Not Living",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Shock the Monkey",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Burgundy",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Entwined",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Feed My Dreams",
+     "duracao": "2:55"
+    },
+    {
+     "n": 12,
+     "titulo": "My Mercy",
+     "duracao": "4:04"
+    },
+    {
+     "n": 13,
+     "titulo": "No Home",
+     "duracao": "5:09"
+    },
+    {
+     "n": 14,
+     "titulo": "Shari Vegas",
+     "duracao": "3:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Notion",
+     "duracao": "3:26"
+    },
+    {
+     "n": 16,
+     "titulo": "Anything but You",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 6
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chamber_Music_%28Coal_Chamber_album%29",
+   "resumo_en": "Chamber Music is the second studio album by American nu metal band Coal Chamber, released on Roadrunner Records on September 7, 1999. The album has industrial elements, most notably on their cover of \"Shock the Monkey\". The shift in sound was influenced by the involvement of several keyboardists, such as Jay Gordon and Amir Derakh of Orgy, DJ Lethal of Limp Bizkit and production assistance from Dave Ogilvie of Skinny Puppy."
+  },
+  {
+   "id": "b68cf960-5a45-327d-915e-3361e02ea699",
+   "titulo": "Dark Days",
+   "data": "2002-05-06",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/921a343d-5013-4bb4-add6-7dfd2dfab294/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fiend",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Glow",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Watershed",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Something Told Me",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Dark Days",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Alienate Me",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "One Step",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Friend?",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Rowboat",
+     "duracao": "4:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Drove",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Empty Jar",
+     "duracao": "3:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Beckoned",
+     "duracao": "3:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Anxiety",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.7,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dark_Days_%28Coal_Chamber_album%29",
+   "resumo_en": "Dark Days is the third studio album by the American nu metal band Coal Chamber. It was released on May 7, 2002.\nIn 2019, Joe Smith-Engelhardt of Alternative Press included the song \"Fiend\" in his list of \"Top 10 nü-metal staples that still hold up today\"."
+  },
+  {
+   "id": "9b5937e6-4398-401b-b42c-f0dfbc254584",
+   "titulo": "Rivals",
+   "data": "2015-05-19",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/43a26819-2d50-44d2-a42a-6354f33e7783/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I.O.U. Nothing",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Blood Between Us",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Light in the Shadows",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Suffer in Silence",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "The Bridges You Burn",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Orion",
+     "duracao": "1:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Another Nail in the Coffin",
+     "duracao": "3:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Rivals",
+     "duracao": "4:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Wait",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Dumpster Dive",
+     "duracao": "1:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Over My Head",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Fade Away (Karma Never Forgets)",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Empty Handed",
+     "duracao": "3:58"
+    },
+    {
+     "n": 14,
+     "titulo": "Worst Enemy",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "media": 7.4,
+    "fontes": 7
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rivals_%28Coal_Chamber_album%29",
+   "resumo_en": "Rivals is the fourth studio album by American nu metal band Coal Chamber, released on May 19, 2015, through Napalm Records. It was the band's first release since Dark Days (2002), and their first with bassist Nadja Peulen."
+  }
+ ]
+}

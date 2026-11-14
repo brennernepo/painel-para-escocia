@@ -1,0 +1,536 @@
+{
+ "id": "l7",
+ "nome": "L7",
+ "cena": "Grunge",
+ "mbid": "57111f1f-9829-45ea-bb4e-a5aba37cd1d1",
+ "wikidata": "Q1138185",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1985",
+ "fim": "2001",
+ "ativa": false,
+ "generos": [
+  "grunge",
+  "punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/L7_-_Rock_am_Ring_2015-9409.jpg/500px-L7_-_Rock_am_Ring_2015-9409.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/L7",
+ "resumo_pt": "L7 é uma banda estadunidense de rock formada em 1985 por Donita Sparks e Suzi Gardner em Los Angeles. Posteriormente se juntaram ao grupo Jennifer Finch e Demetra Plakas. A banda aparentemente se desfez em 2000, mas seu fim não foi declarado oficialmente. Em 2014 a banda anuncia seu retorno, após 14 anos de sua extinção.\nO nome (L7) provém de um termo de gíria nos Estados Unidos para \"quadrado\" (que seria a forma resultante de se colocar um \"L\" formado pelo dedo indicador e polegar esquerdos com um \"7\" formado pelos dedos polegar e indicadores direitos).",
+ "resumo_en": "L7 is an American punk rock band founded in Los Angeles, California, first active from 1985 to 2001 and re-formed in 2014. The group currently consists of Suzi Gardner (guitars, vocals), Donita Sparks (vocals, guitars), Dee Plakas (drums, backing vocals) and Janis Tanaka (bass guitar). L7 has released seven studio albums and has toured widely in the United States, Europe, Japan, Australia, and South America. \"Pretend We're Dead\" was heavily played on United States alternative radio and entered the top 10 on the Billboard Modern Rock chart in 1992.\nDue to their sound and image, L7 is often associated with the grunge movement of the late 1980s and early 1990s, and as an all-female band, L7 has, at times, been linked to riot grrrl, although they preceded and are outliers of both the grunge and riot grrrl movements. L7 has been supportive of political causes, and formed Rock for Choice in 1991. A documentary film about the band, L7: Pretend We're Dead, premiered in 2016.",
+ "albuns": [
+  {
+   "id": "eb0d26f0-5de7-319c-8d8a-bb93e6fca0ac",
+   "titulo": "L7",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/8c64f36e-6f10-4d8d-8334-858dca4e2d42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bite the Wax Tadpole",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Cat-O'-Nine-Tails",
+     "duracao": "2:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Metal Stampede",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Let's Rock Tonight",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Uncle Bob",
+     "duracao": "6:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Snake Handler",
+     "duracao": "2:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Runnin' From the Law",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Cool Out",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "It's Not You",
+     "duracao": "1:45"
+    },
+    {
+     "n": 10,
+     "titulo": "I Drink",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Ms. 45",
+     "duracao": "2:40"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.6,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/L7_%28album%29",
+   "resumo_en": "L7 is the debut studio album by American rock band L7, released in September 1988, by Epitaph Records."
+  },
+  {
+   "id": "0d3b4eb0-652c-3300-85b9-ba5ae3584b9e",
+   "titulo": "Smell the Magic",
+   "data": "1990-09",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/12202cbc-ad56-4bb0-91fe-2ad21c84aba5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shove",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Fast and Frightening",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "(Right On) Thru",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Deathwish",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "'Till the Wheels Fall Off",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Broomstick",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Smell_the_Magic",
+   "resumo_en": "Smell the Magic is the second studio album by American rock band L7, released in 1990 by Sub Pop. Originally issued as a 12\" EP containing only the first six songs, it was reissued on CD in July 1991, expanded to album length with three more tracks: \"Packin' a Rod,\" \"Just Like Me,\" and \"American Society.\" The opening track \"Shove\" was released as the band's first single."
+  },
+  {
+   "id": "9f7bedef-5588-3bca-8c81-06a102c4eb8d",
+   "titulo": "Bricks Are Heavy",
+   "data": "1992-04-14",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/b9c52cf2-9f23-4986-8ce2-5e0015cdef27/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wargasm",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Scrap",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Pretend We're Dead",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Diet Pill",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Everglade",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Slide",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "One More Thing",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Mr. Integrity",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Monster",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Shitlist",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "This Ain't Pleasure",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bricks_Are_Heavy",
+   "resumo_en": "Bricks Are Heavy is the third studio album by American rock band L7, released on April 14, 1992, by Slash Records. The album peaked at number 160 on the US Billboard 200 and number one on the Heatseekers Albums chart. As of June 2000, Bricks Are Heavy has sold 327,000 copies in the United States, according to Nielsen Soundscan."
+  },
+  {
+   "id": "9b0d70e2-ca9f-35da-9465-02d459f69d9a",
+   "titulo": "Hungry for Stink",
+   "data": "1994-07-12",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/bc8d4f67-b395-4675-b668-7a067e574ae6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Andres",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Baggage",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Can I Run",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "The Bomb",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Questioning My Sanity",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Riding With a Movie Star",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Stuck Here Again",
+     "duracao": "4:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Fuel My Fire",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Freak Magnet",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "She Has Eyes",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Shirley",
+     "duracao": "3:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Talk Box",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hungry_for_Stink",
+   "resumo_en": "Hungry for Stink is the fourth studio album by L7, released in July 1994 by Slash Records. The album peaked at number 117 on the Billboard 200 chart, as well as number 2 on the Heatseekers Albums chart.\n\"Fuel My Fire\" was based on the Cosmic Psychos song \"Lost Cause\", and was covered by the Prodigy on their 1997 album The Fat of the Land. The Independent reported that the album's name Hungry for Stink was derived from an advert the band saw in Bear Magazine, a gay publication \"for and about big hairy men\"."
+  },
+  {
+   "id": "4587bf2d-7e3f-3462-bda5-ee8a1ddcd19c",
+   "titulo": "The Beauty Process: Triple Platinum",
+   "data": "1997-01-01",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/1f6fb71e-de92-4aa5-8d2f-c451ced40370/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Beauty Process",
+     "duracao": "0:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Drama",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Off the Wagon",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "I Need",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Moonshine",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Bitter Wine",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "The Masses Are Asses",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Bad Things",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Must Have More",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Non-Existent Patricia",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Me, Myself & I",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Lorenza, Giada, Alessandra",
+     "duracao": "4:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Guera",
+     "duracao": "5:04"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Beauty_Process%3A_Triple_Platinum",
+   "resumo_en": "The Beauty Process: Triple Platinum is the fifth studio album by American rock band L7, released on February 25, 1997, by Slash Records in collaboration with Reprise Records. It was recorded at Conway Recording Studios in Hollywood and Sound City Studios in Van Nuys, California. The band recorded most of the album as a trio formed by founding members Donita Sparks and Suzi Gardner, and longtime drummer Demetra Plakas, following the departure of bassist Jennifer Finch. The album marks a departure from the tough rock style of its predecessors to a slower and more adventurous style.\nUpon release, The Beauty Process reached No. 172 on the US Billboard Top 200 chart and No. 12 on the Heatseekers Albums chart. To promote the album, L7 signed on as an opening act on a Marilyn Manson tour across the US. The song \"Off the Wagon\" was released as a single in 1997, while a concert film titled L7: The Beauty Process and directed by former Nirvana bassist Krist Novoselic was released in 1998. The album received generally favorable reviews from critics, who praised its attitude-filled lyrics and more liberating style compared to previous L7 albums. However, it sold worse than expected, leading Re"
+  },
+  {
+   "id": "b2b4635b-78e1-3c25-ae83-d659b732658d",
+   "titulo": "Slap-Happy",
+   "data": "1999-08-24",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/db01f633-20bd-4970-baa7-13f0a16807e8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crackpot Baby",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "On My Rockin’ Machine",
+     "duracao": "2:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Lackey",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Human",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Livin’ Large",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Freeway",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Stick to the Plan",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "War With You",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Long Green",
+     "duracao": "2:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Little One",
+     "duracao": "1:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Freezer Burn",
+     "duracao": "4:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Mantra Down",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.9,
+    "fontes": 8
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Slap-Happy",
+   "resumo_en": "Slap-Happy is the sixth studio album by the American rock band L7. It was released on August 24, 1999, by Bong Load Records in collaboration with Wax Tadpole Records, an independent record label that the band formed after being dropped by Reprise Records in 1997. L7 recorded the album as a trio formed by founding members Donita Sparks and Suzi Gardner, and longtime drummer Demetra Plakas, following the departure of bassist Gail Greenwood. It was made with a low budget and produced by the band and their friend Brian Haught.\nUnlike previous L7 albums, Slap-Happy features more varied and slower-paced songs, some of which borrowing elements from other genres like hip hop. Upon release, the album received generally mixed reviews from music critics and suffered dismal sales partly due to the poor distribution and support by Bong Load. Some critics found the album predictable and too similar to previous L7 albums, but others highlighted certain songs for their nifty musical style."
+  },
+  {
+   "id": "4ed66505-4480-4273-bea6-d127a4899957",
+   "titulo": "Scatter the Rats",
+   "data": "2019-05-03",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/591186d3-e372-4fc6-afff-fb3730a622b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Burn Baby",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Fighting the Crave",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Proto Prototype",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Stadium West",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Murky Water Cafe",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Ouija Board Lies",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Garbage Truck",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Holding Pattern",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Uppin’ the Ice",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Cool About Easy",
+     "duracao": "3:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Scatter the Rats",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 63,
+    "media": 6.5,
+    "fontes": 5
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scatter_the_Rats",
+   "resumo_en": "Scatter the Rats is the seventh studio album by American rock band L7, released on May 3, 2019, through Blackheart Records. It is the band's first album in almost 20 years, following the band's 2014 reunion. It has received positive reviews."
+  }
+ ]
+}

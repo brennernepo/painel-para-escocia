@@ -1,0 +1,1223 @@
+{
+ "id": "rush",
+ "nome": "Rush",
+ "cena": "Hard rock",
+ "mbid": "534ee493-bfac-4575-a44a-0ae41e2c3fe4",
+ "wikidata": "Q203871",
+ "tipo": "Group",
+ "pais": "CA",
+ "inicio": "1968",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive rock",
+  "rock",
+  "hard rock",
+  "classic rock",
+  "pop rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Rush_band_1970s.jpg/500px-Rush_band_1970s.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Rush",
+ "resumo_pt": "Rush é uma banda canadense de rock formada em agosto de 1968 na cidade de Toronto, Ontário. A formação original da banda incluía o guitarrista Alex Lifeson, o baterista John Rutsey e o baixista e vocalista Jeff Jones, que foi substituído por Geddy Lee pouco depois de sua formação. O Rush passou por algumas mudanças de formação nos seis anos seguintes, antes de chegar à sua formação clássica de power trio com a adição de Neil Peart em julho de 1974, substituindo Rutsey quatro meses após o lançamento de seu álbum de estreia homônimo. A formação de Lifeson, Lee e Peart permaneceu estável durante o restante da trajetória inicial da banda até 2015, após o qual Peart se aposentou da música. Lifeson confirmou posteriormente, em 2018, que a banda havia se dissolvido, citando a saúde de Peart como um fator contribuinte. Lifeson e Lee continuaram a trabalhar juntos ocasionalmente nos anos seguintes à morte de Peart em 2020.\nO Rush é conhecido por seu virtuosismo musical, composições complexas e temas líricos ecléticos, que se inspiravam principalmente em ficção científica, fantasia e filosofia. O estilo da banda mudou ao longo dos anos, de um início no hard rock com influências de blues, passando pelo rock progressivo, depois por um período na década de 1980 marcado pelo uso intenso de sintetizadores, antes de retornar ao rock com foco na guitarra no restante de sua carreira. Os membros do Rush são reconhecidos como alguns dos músicos mais habilidosos em seus respectivos instrumentos, ",
+ "resumo_en": "Rush is a Canadian rock band, formed in Toronto in 1968. The band's original line-up included guitarist Alex Lifeson, drummer John Rutsey, and bassist and vocalist Jeff Jones, whom Geddy Lee replaced shortly after its formation. Rush went through a few line-up changes over the next six years, before settling on its classic power trio line-up with the addition of Neil Peart in July 1974, replacing Rutsey four months after the release of their self-titled debut album. The line-up of Lifeson, Lee, and Peart remained stable for the remainder of the band's initial run until 2015, after which Peart retired from music. Lifeson later confirmed in 2018 that the band had disbanded, citing Peart's health as a contributing factor. Lifeson and Lee continued to occasionally work together in the years following Peart's death in 2020. Lifeson and Lee announced a 2026–2027 reunion tour as Rush in October 2025, with Anika Nilles filling in for Peart, and Loren Gold as the band's keyboardist.\nRush is known for their virtuosic musicianship, complex compositions and eclectic lyrical motifs, which drew primarily on science fiction, fantasy, and philosophy. The band's style changed over the years, from a blues-inspired hard rock beginning, later moving into progressive rock, then a period in the 1980s marked by heavy use of synthesizers, before returning to guitar-driven rock in the remainder of their career. The members of Rush have been acknowledged as some of the most proficient players on their",
+ "albuns": [
+  {
+   "id": "ea47459b-a69e-3c15-8781-77227a78e1db",
+   "titulo": "Rush",
+   "data": "1974-03-01",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/2ee701ef-e520-4ad3-b4c2-6fb5da8ce67b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Finding My Way",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Need Some Love",
+     "duracao": "2:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Take a Friend",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Here Again",
+     "duracao": "7:30"
+    },
+    {
+     "n": 5,
+     "titulo": "What You’re Doing",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Mood",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Before and After",
+     "duracao": "5:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Working Man",
+     "duracao": "7:07"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 7
+   },
+   "publico": 7.3,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rush_%28Rush_album%29",
+   "resumo_en": "Rush is the debut studio album by Canadian rock band Rush. It was released on March 18, 1974 in Canada by Moon Records, the band's own label, before being re-released internationally by Mercury Records later that year. Recorded five years after the band's formation, it is their only album to feature original drummer John Rutsey and displays a more straightforward hard rock sound than they would come to be known for, showing the influence of early British hard rock bands, particularly Led Zeppelin and Humble Pie."
+  },
+  {
+   "id": "0c6e24c8-3cc8-3b35-93c5-1fdf6c5641b6",
+   "titulo": "Fly by Night",
+   "data": "1975-02-15",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/64a83f49-ec99-3db3-9d01-fb3817720edc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anthem",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Best I Can",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Beneath, Between & Behind",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "By‐Tor & The Snow Dog: I. At the Tobes of Hades / II. Across the Styx / III. Of the Battle / IV. Epilogue",
+     "duracao": "8:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Fly by Night",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Making Memories",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Rivendell",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "In the End",
+     "duracao": "6:48"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.3,
+    "fontes": 7
+   },
+   "publico": 7.3,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fly_by_Night_%28album%29",
+   "resumo_en": "Fly by Night is the second studio album by the Canadian rock band Rush, released on February 14, 1975, by Mercury Records. It was the first Rush album to showcase elements of progressive rock for which the band has become known. It was also the first to feature lyricist and drummer Neil Peart, who replaced original drummer John Rutsey the previous summer just prior to the band's first North American tour. Peart took over as Rush's primary lyricist, and the abundance of fantastical and philosophical themes in his lyrics contrasted greatly with the simpler hard rock of the band's debut album. Despite the album's disappointing sales in the United States, reaching just No. 113 on the Billboard 200, it reached No. 9 on the Canadian charts; further, the album's single, \"Fly by Night\", enjoyed moderate success following a re-release in 1976."
+  },
+  {
+   "id": "a6044d81-743e-3a62-afdf-20bb943b2505",
+   "titulo": "Caress of Steel",
+   "data": "1975-09-15",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/b8dcf7ad-fa48-4e97-bff6-7de708c7023e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bastille Day",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "I Think I’m Going Bald",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Lakeside Park",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "The Necromancer: I. Into the Darkness / II. Under the Shadow / III. Return of the Prince",
+     "duracao": "12:32"
+    },
+    {
+     "n": 5,
+     "titulo": "The Fountain of Lamneth: I. In the Valley / II. Didacts and Narpets / III. No One at the Bridge / IV. Panacea / V. Bacchus Plateau / VI. The Fountain",
+     "duracao": "19:57"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.9,
+    "fontes": 7
+   },
+   "publico": 7.2,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Caress_of_Steel",
+   "resumo_en": "Caress of Steel is the third studio album by Canadian rock band Rush, released on September 24, 1975, by Mercury Records. It was recorded immediately after the band concluded touring in support of their previous album, Fly by Night, and marked a development in the group's sound, moving from the blues-based hard rock style of their debut towards progressive rock. Songs such as \"The Necromancer\" furthered Rush's advancement into narrative-driven, fantasy-based compositions, while \"The Fountain of Lamneth\" was their first prog-rock \"epic\". Other tracks like \"Bastille Day\" and \"Lakeside Park\" became staples of the band's live setlists.\nThough the band members were initially proud of their work on Caress of Steel, the album proved to be a commercial and critical low point for Rush as the album's darker sound and fantastical compositions failed to find an audience and confused some of the band's peers; further, poor sales put the band in danger of being dropped by Mercury. The mediocre reception impacted the band's gigging opportunities, leading them to dub the supporting tour the \"Down the Tubes Tour\". Despite being more positively viewed by the band's fans in retrospect, Ultimate Class"
+  },
+  {
+   "id": "9243ac59-9390-37e1-abee-fcf31fb8035f",
+   "titulo": "2112",
+   "data": "1976-03",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/01befdc5-0af8-4720-a21c-0f24209f5e16/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "2112: I. Overture",
+     "duracao": "4:32"
+    },
+    {
+     "n": 2,
+     "titulo": "2112: II. The Temples of Syrinx",
+     "duracao": "2:13"
+    },
+    {
+     "n": 3,
+     "titulo": "2112: III. Discovery",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "2112: IV. Presentation",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "2112: V. Oracle: The Dream",
+     "duracao": "2:00"
+    },
+    {
+     "n": 6,
+     "titulo": "2112: VI. Soliloquy",
+     "duracao": "2:23"
+    },
+    {
+     "n": 7,
+     "titulo": "2112: VII. Grand Finale",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "A Passage to Bangkok",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "The Twilight Zone",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Lessons",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Tears",
+     "duracao": "3:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Something for Nothing",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.2,
+    "fontes": 6
+   },
+   "publico": 8.3,
+   "publico_votos": 30,
+   "wikipedia": "https://en.wikipedia.org/wiki/2112_%28album%29",
+   "resumo_en": "2112 (pronounced \"twenty-one twelve\") is the fourth studio album by Canadian rock band Rush, released in the United States on March 24, 1976 by Mercury Records. Following the disappointing sales of their previous albums Caress of Steel and Fly by Night, in which both albums failed to chart in the top half of the Billboard 200, 2112 became the band's first major commercial success. The album reached No. 5 on the Canadian charts and No. 61 in the United States. 2112 has since become a steady seller over many decades, and has maintained a cult following among some Rush fans.\nThe band was in financial hardship due to the disappointing sales of 1975's Caress of Steel, which also got an unfavourable critical reception and a decline in attendance at its shows. Mercury, their international label, considered dropping them but granted one more album following negotiations with manager Ray Danniels. Rush were pressured to deliver more commercial material but decided to continue developing its progressive rock direction they had explored on Caress of Steel and made the 20-minute futuristic science-fiction title track occupy side one of 2112 with a collection of shorter songs on side two that d"
+  },
+  {
+   "id": "5f27a05d-a12a-3611-a836-f720c9ab00a2",
+   "titulo": "A Farewell to Kings",
+   "data": "1977-06",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/455dd772-ddc2-37f0-b53d-727fe926f3b9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Farewell to Kings",
+     "duracao": "5:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Xanadu",
+     "duracao": "11:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Closer to the Heart",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Cinderella Man",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Madrigal",
+     "duracao": "2:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Cygnus X-1",
+     "duracao": "10:27"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8.9,
+   "publico_votos": 20,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Farewell_to_Kings",
+   "resumo_en": "A Farewell to Kings is the fifth studio album by Canadian rock band Rush, released on Anthem Records on August 29, 1977. The album reached No. 11 in Canada and marked a growth in the band's international fanbase. It became the band's second Top 40 album in the United States, after their 1976 double live album All the World's a Stage, and was their first Top 40 album in the United Kingdom.\nAfter reaching a critical and commercial peak with 2112 and touring the album, Rush decided to record the follow-up outside Toronto for the first time and settled in Rockfield Studios in Wales after their debut European tour. A Farewell to Kings is noted for the band expanding their sound with greater use of synthesizers and each member playing more instruments than before, and having long and short tracks such as the 11-minute \"Xanadu\" and the under-3-minute \"Closer to the Heart\", both of which became live favourites. The closing science-fiction-themed \"Cygnus X-1 Book I: The Voyage\" ends on a cliffhanger which concludes on the next album, Hemispheres. \nA Farewell to Kings received a generally positive reception from critics. \"Closer to the Heart\" was released as the album's first single, which r"
+  },
+  {
+   "id": "484f8923-454e-3efa-8234-9d1b1f296cc8",
+   "titulo": "Hemispheres",
+   "data": "1978-11",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/0ce805b7-f8dd-41ae-89f5-d622db36d105/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cygnus X-1, Book II: Hemispheres: I. Prelude / II. Apollo: Bringer of Wisdom / III. Dionysus: Bringer of Love / IV. Armageddon: The Battle of Heart and Mind / V. Cygnus: Bringer of Balance / VI. The Sphere: A Kind of Dream",
+     "duracao": "18:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Circumstances",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "The Trees",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "La Villa Strangiato",
+     "duracao": "9:36"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.1,
+    "fontes": 10
+   },
+   "publico": 8.6,
+   "publico_votos": 26,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hemispheres_%28Rush_album%29",
+   "resumo_en": "Hemispheres is the sixth studio album by the Canadian rock band Rush, released on October 24, 1978, by Anthem Records in Canada and Mercury Records elsewhere. After the commercial and critical success of A Farewell to Kings (1977), the band returned to Rockfield Studios in Wales to record the follow-up with long-time co-producer Terry Brown. The recording process was notoriously difficult, with the band spending several weeks writing and arranging the material in the studio—a departure from their usual practice of entering sessions with completed songs.\nThe album is considered a peak of the band's progressive rock period, characterised by complex time signatures and multi-part suites. The first side of the original vinyl is occupied by the 18-minute epic \"Cygnus X-1 Book II: Hemispheres\", which concludes the story left as a cliff-hanger on A Farewell to Kings of a space explorer who is drawn into a black hole and is caught in a struggle between the Greek gods Apollo and Dionysus. These themes of duality are depicted on the cover artwork by Hugh Syme. Side two features the singles \"Circumstances\" and \"The Trees\", giving the band greater FM radio airplay, and concludes with the nearl"
+  },
+  {
+   "id": "664ffb4c-8178-3f99-b0d3-0bab3a51f793",
+   "titulo": "Permanent Waves",
+   "data": "1980-01-01",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/e175c78f-b67a-4cdf-a500-34ed6c39c462/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Spirit of Radio",
+     "duracao": "4:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Freewill",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Jacob’s Ladder",
+     "duracao": "7:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Entre nous",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Different Strings",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Natural Science",
+     "duracao": "9:16"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "media": 9.0,
+    "fontes": 5
+   },
+   "publico": 8.6,
+   "publico_votos": 22,
+   "wikipedia": "https://en.wikipedia.org/wiki/Permanent_Waves",
+   "resumo_en": "Permanent Waves is the seventh studio album by Canadian rock band Rush, released on January 14, 1980 through Anthem Records. The album charted at No. 3 in Canada and the UK, and No. 4 in the United States. By March 1980, the album was certified Gold by the RIAA for selling 500,000 copies. It became the fastest-selling Rush album up to that point, before Moving Pictures (1981) surpassed it the following year. Permanent Waves was later certified Platinum in November 1987 for selling over one million copies. \nAfter touring for 1978's Hemispheres ended in the summer of 1979, the band retreated to a farm near Flesherton, Ontario to work on material for a new album. This period marked a shift in the group's songwriting towards concise arrangements and radio-friendly songs such as \"The Spirit of Radio\" and \"Freewill\", though their progressive rock blueprint is still evident on \"Jacob's Ladder\" and the nine-minute closer \"Natural Science\". The album is also the first to display a more restrained vocal delivery from bassist/vocalist Geddy Lee. Recording took place at Le Studio in Morin-Heights, Quebec with production handled by the group and Terry Brown.\nThe release of \"The Spirit of Radio\""
+  },
+  {
+   "id": "40e30dc1-55ac-33e1-85d3-1f1508140bfc",
+   "titulo": "Moving Pictures",
+   "data": "1981-02-06",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/0e5a6674-7f01-45cc-9da2-0d497612544e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tom Sawyer",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Red Barchetta",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "YYZ",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Limelight",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Camera Eye",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Witch Hunt",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Vital Signs",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8.8,
+   "publico_votos": 36,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moving_Pictures_%28Rush_album%29",
+   "resumo_en": "Moving Pictures is the eighth studio album by Canadian rock band Rush, released on February 12, 1981, by Anthem Records. After touring to support their previous album, Permanent Waves (1980), the band started to write and record new material in August 1980 with longtime co-producer Terry Brown. They continued to write songs with a more radio-friendly sound, featuring tighter and shorter song structures compared to their earlier albums.\n\"Limelight\", \"Tom Sawyer\" and \"Vital Signs\" were released as singles across 1981, and the instrumental \"YYZ\" was nominated for a Grammy Award for Best Rock Instrumental Performance. Rush supported the album on tour from February to July 1981. In 2020, Rolling Stone ranked the album number 379 on its list of the \"500 Greatest Albums of All Time\".\nMoving Pictures received a positive reception from contemporary and retrospective music critics and became an instant commercial success. The album reached number one in Canada and number three in both the United States and the United Kingdom. Moving Pictures is the fastest-selling album in the band's catalogue. It was certified Platinum by the RIAA on April 27, 1981 for one million copies sold, just two mont"
+  },
+  {
+   "id": "63ebc338-a01b-398c-8520-fdb055fbcd7b",
+   "titulo": "Signals",
+   "data": "1982-09-10",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/05314dde-2d7e-3c78-b54a-5bd7764a7a04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Subdivisions",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "The Analog Kid",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Chemistry",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Digital Man",
+     "duracao": "6:22"
+    },
+    {
+     "n": 5,
+     "titulo": "The Weapon",
+     "duracao": "6:24"
+    },
+    {
+     "n": 6,
+     "titulo": "New World Man",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Losing It",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Countdown",
+     "duracao": "5:49"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": 7.9,
+   "publico_votos": 20,
+   "wikipedia": "https://en.wikipedia.org/wiki/Signals_%28Rush_album%29",
+   "resumo_en": "Signals is the ninth studio album by Canadian rock band Rush, released on September 9, 1982, by Anthem Records. After the release of their previous album, Moving Pictures, the band started to prepare material for a follow-up during soundchecks on their 1981 concert tour and during the mixing of their subsequent live album Exit...Stage Left. Signals demonstrates the group's continuing use of synthesizers, sequencers and other electronic instrumentation. It is the final album produced by their longtime associate Terry Brown, who had worked with them since 1974.\nThe album peaked at No. 1 in Canada, No. 3 in the United Kingdom and No. 10 in the United States. In November 1982, the record was certified platinum by the Recording Industry Association of America for selling one million copies in the United States. Rush released three singles from the album: \"New World Man\", which became the band's highest charting single in the United States and a number-one hit in Canada, as well as \"Subdivisions\" and \"Countdown\". The group supported Signals with a concert tour from April 1982 to May 1983. Signals has been reissued several times, including a remaster with a new stereo and 5.1 surround sou"
+  },
+  {
+   "id": "f9e8fa95-5c8f-31aa-8d5e-d9c849d88aba",
+   "titulo": "Grace Under Pressure",
+   "data": "1984-04-12",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/0d9476ce-4c91-455a-9a17-9ed36b8c1086/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Distant Early Warning",
+     "duracao": "4:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Afterimage",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Red Sector A",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "The Enemy Within",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "The Body Electric",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Kid Gloves",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Red Lenses",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Between the Wheels",
+     "duracao": "5:44"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 8
+   },
+   "publico": 7.8,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Grace_Under_Pressure_%28Rush_album%29",
+   "resumo_en": "Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984, on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided not to work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.\nGrace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 10 on the U.S. Billboard 200. It was certified platinum in the U.S. for selling one million copies."
+  },
+  {
+   "id": "e8864dda-f0db-3a7c-a09c-b57314e4b910",
+   "titulo": "Power Windows",
+   "data": "1985-10-14",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/06113b31-a8c2-4c31-aad6-a1ba14e71f2b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Big Money",
+     "duracao": "5:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Grand Designs",
+     "duracao": "5:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Manhattan Project",
+     "duracao": "5:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Marathon",
+     "duracao": "6:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Territories",
+     "duracao": "6:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Middletown Dreams",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Emotion Detector",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Mystic Rhythms",
+     "duracao": "6:08"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.1,
+    "fontes": 9
+   },
+   "publico": 7.3,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Power_Windows_%28album%29",
+   "resumo_en": "Power Windows is the eleventh studio album by Canadian rock band Rush, released on October 11, 1985 in Canada by Anthem Records and on October 21, 1985 in the United States on Mercury Records. After touring in support of their previous album, Grace Under Pressure (1984), the band took a break and reconvened in early 1985 to begin work on a follow-up. The material continued to display the band's exploration of synthesizer-oriented music, this time with the addition of sampling, electronic drums, a string section, and choir, with power being a running lyrical theme. Power Windows was recorded in Montserrat and England with Peter Collins as co-producer and Andy Richards on additional keyboards.\nThe album reached No. 5 in Canada, No. 9 in the United Kingdom, and No. 10 in the United States. In January 1986, the album reached platinum certification by the Recording Industry Association of America (RIAA) for one million copies sold in the United States. Rush released two singles from the album, \"The Big Money\" and \"Mystic Rhythms\". The band supported the album with their 1985–1986 tour."
+  },
+  {
+   "id": "bd4abba9-8016-3d05-81e2-120cd051b436",
+   "titulo": "Hold Your Fire",
+   "data": "1987-09-03",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/78cdbe56-3aa9-4f18-a9ef-b7cd1e02090f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Force Ten",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Time Stand Still",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Open Secrets",
+     "duracao": "5:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Second Nature",
+     "duracao": "4:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Prime Mover",
+     "duracao": "5:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Lock and Key",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Mission",
+     "duracao": "5:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Turn the Page",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Tai Shan",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "High Water",
+     "duracao": "5:34"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 7.5,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hold_Your_Fire",
+   "resumo_en": "Hold Your Fire is the twelfth studio album by Canadian progressive rock band Rush, released on September 8, 1987. It was recorded at The Manor Studio in Oxfordshire, Ridge Farm Studio in Surrey, AIR Studios in Montserrat and McClear Place in Toronto. Hold Your Fire was the last Rush studio album released outside Canada by PolyGram/Mercury. 'Til Tuesday bassist and vocalist Aimee Mann contributed vocals to \"Time Stand Still\", and appeared in the Zbigniew Rybczyński-directed video.  \nThe album was not as commercially successful as most of the band's releases of the 1980s, peaking at number 13 on the Billboard charts, the lowest chart peak for a Rush album since 1978's Hemispheres. However, it was eventually certified Gold by the RIAA."
+  },
+  {
+   "id": "d83a8fa7-6bd3-3fc9-bdb4-3122e78fd213",
+   "titulo": "Presto",
+   "data": "1989-11-07",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/009fc8e8-d47f-3f36-87ea-bd818b592bd4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Show Don't Tell",
+     "duracao": "5:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Chain Lightning",
+     "duracao": "4:33"
+    },
+    {
+     "n": 3,
+     "titulo": "The Pass",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "War Paint",
+     "duracao": "5:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Scars",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Presto",
+     "duracao": "5:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Superconductor",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Anagram (for Mongo)",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Red Tide",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Hand Over Fist",
+     "duracao": "4:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Available Light",
+     "duracao": "5:04"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": 7.8,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Presto_%28album%29",
+   "resumo_en": "Presto is the thirteenth studio album by Canadian rock band Rush. It was released on November 17, 1989 by Anthem Records and was the band's first album released internationally by Atlantic Records, following the group's departure from Mercury. After the Hold Your Fire (1987) tour ended in 1988, the group members reconvened in December to decide their next step and agreed to take six months off before starting on a new album. Presto marked another change in Rush's sound, with a reduction in synthesizers and a return towards more guitar-driven arrangements.\nPresto reached No. 7 in Canada and No. 16 in the United States. \"Show Don't Tell,\" \"The Pass\" and \"Superconductor\" were released as singles from Presto; the former charted at No. 1 on the U.S. Album Rock Tracks chart. Rush supported the album with the Presto Tour from February to June 1990. Presto reached gold certification by the Recording Industry Association of America for selling 500,000 copies. The album was remastered in 2004 and 2013, the latter as part of the 2013 box set The Studio Albums 1989–2007. In 2015, it was reissued after being remastered by Sean Magee at Abbey Road Studios, following a direct approach by Rush to "
+  },
+  {
+   "id": "e188de4e-6d15-3ca3-be49-fa13c67a03c0",
+   "titulo": "Roll the Bones",
+   "data": "1991-09-03",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/52bf9926-dc7f-40b9-9a08-d5f0c98f8a63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dreamline",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Bravado",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Roll the Bones",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Face Up",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Where's My Thing? (Part IV, \"Gangster Of Boats\" Trilogy)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "The Big Wheel",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Heresy",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Ghost of a Chance",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Neurotica",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "You Bet Your Life",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.9,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Roll_the_Bones",
+   "resumo_en": "Roll the Bones is the fourteenth studio album by the Canadian rock band Rush, released on September 3, 1991 by Anthem Records in Canada and Atlantic Records internationally. Produced by the band and Rupert Hine, the album continued the shift away from the keyboard-heavy arrangements of the 1980s toward a more guitar-oriented sound, a transition that had begun with their previous release, Presto (1989). The sessions, primarily held at Le Studio in Morin-Heights, Quebec saw the band embracing funk and jazz influences, most notably in the title track's inclusion of a rap segment performed by bassist Geddy Lee.\nLyrically, the album explores themes of chance, fate and the weight of circumstances, inspired by drummer Neil Peart's interest in the role of fortune in human life. The title is a slang term for rolling dice, a motif reflected in the Juno Award-winning cover art designed by Hugh Syme. The Grammy-nominated instrumental \"Where's My Thing?\" marked the band's first instrumental track since 1981.\nRoll the Bones was a commercial success, reaching No. 3  on the Billboard 200—the band's highest US chart position since Signals (1982)—and achieving platinum certification from the Recordi"
+  },
+  {
+   "id": "8a203722-a642-381d-80b1-dc927a32238c",
+   "titulo": "Counterparts",
+   "data": "1993-10-19",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/1dc46437-6822-40c5-a64b-bba8a5188306/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Animate",
+     "duracao": "6:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Stick It Out",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Cut to the Chase",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Nobody's Hero",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Between Sun & Moon",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Alien Shore",
+     "duracao": "5:47"
+    },
+    {
+     "n": 7,
+     "titulo": "The Speed of Love",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Double Agent",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Leave That Thing Alone",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Cold Fire",
+     "duracao": "4:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Everyday Glory",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.9,
+    "fontes": 7
+   },
+   "publico": 7.4,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Counterparts_%28Rush_album%29",
+   "resumo_en": "Counterparts is the fifteenth studio album by Canadian rock band Rush, released October 18, 1993, in the UK and October 19 worldwide, through Anthem Records. After the band finished touring its previous album Roll the Bones (1991) in mid-1992, the members took a break before starting work on a follow-up.\nCounterparts reached No. 2 in the United States, one of the band's two highest-charting albums in the country, and No. 6 in Canada. The first single, \"Stick It Out\", was No. 1 on the Billboard Album Rock Tracks chart for four weeks. In 1994, the instrumental \"Leave That Thing Alone\" was nominated for a Grammy Award for Best Rock Instrumental Performance. Counterparts was remastered in 2004 and reissued in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue."
+  },
+  {
+   "id": "99fdce4e-b6be-309e-8dbf-531df564a95f",
+   "titulo": "Test for Echo",
+   "data": "1996-09-09",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/9d07649e-c7dc-4244-835e-8f15120d7363/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Test for Echo",
+     "duracao": "5:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Driven",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Half the World",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "The Color of Right",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Time and Motion",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Totem",
+     "duracao": "4:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Dog Years",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Virtuality",
+     "duracao": "5:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Resist",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Limbo",
+     "duracao": "5:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Carve Away the Stone",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "media": 6.4,
+    "fontes": 8
+   },
+   "publico": 6.3,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Test_for_Echo",
+   "resumo_en": "Test for Echo is the sixteenth studio album by the Canadian rock band Rush, released on September 10, 1996, by Anthem Records. It was the final Rush album to be co-produced by Peter Collins. The band supported the album with a world tour in 1996 and 1997, after which they went on a five-year hiatus following the deaths of drummer Neil Peart's daughter and wife, and would not record again until 2001.\nThe title track reached No. 1 on the mainstream rock chart. The song \"Driven\" became a bass showcase for Geddy Lee during live performances, while \"Resist\" was rearranged as an acoustic song on the Vapor Trails and R30 tours. The band did not perform any tracks from the album on subsequent tours. Test for Echo was remastered and reissued twice: in 2004 as a continuation of \"The Rush Remasters\" set and in 2013 as a part of the box set The Studio Albums 1989–2007. In 2015, it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue."
+  },
+  {
+   "id": "41b82b11-39ca-3e7b-a8a7-4249dbe3624e",
+   "titulo": "Vapor Trails",
+   "data": "2002-05-14",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/2813591c-d5ea-4384-99f9-b492d589e465/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Little Victory",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Ceiling Unlimited",
+     "duracao": "5:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Ghost Rider",
+     "duracao": "5:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Peaceable Kingdom",
+     "duracao": "5:23"
+    },
+    {
+     "n": 5,
+     "titulo": "The Stars Look Down",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "How It Is",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Vapor Trail",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Secret Touch",
+     "duracao": "6:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Earthshine",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Miracle",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Nocturne",
+     "duracao": "4:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Freeze (Part IV of \"Fear\")",
+     "duracao": "6:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Out of the Cradle",
+     "duracao": "5:03"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": 7.5,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vapor_Trails",
+   "resumo_en": ""
+  },
+  {
+   "id": "a2ada2d0-d8aa-3406-94da-1ec352829903",
+   "titulo": "Snakes & Arrows",
+   "data": "2007-05-01",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/8d5ab493-3816-4012-84c9-19fc4728de9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Far Cry",
+     "duracao": "5:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Armor and Sword",
+     "duracao": "6:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Workin' Them Angels",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "The Larger Bowl",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Spindrift",
+     "duracao": "5:23"
+    },
+    {
+     "n": 6,
+     "titulo": "The Main Monkey Business",
+     "duracao": "6:01"
+    },
+    {
+     "n": 7,
+     "titulo": "The Way the Wind Blows",
+     "duracao": "6:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Hope",
+     "duracao": "2:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Faithless",
+     "duracao": "5:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Bravest Face",
+     "duracao": "5:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Good News First",
+     "duracao": "4:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Malignant Narcissism",
+     "duracao": "2:16"
+    },
+    {
+     "n": 13,
+     "titulo": "We Hold On",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 73,
+    "media": 6.6,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Snakes_%26_Arrows",
+   "resumo_en": "Snakes & Arrows is the eighteenth studio album by Canadian rock band Rush, released on May 1, 2007 by Anthem Records. After their R30: 30th Anniversary Tour ended in October 2004, the band took a one-year break; during the break, they agreed to start work on a follow-up in January 2006. The album was recorded in five weeks with co-producer Nick Raskulinecz, a fan of the group who was praised by each member for his approach and technique. It contains three instrumental tracks, the most on any Rush album.\nSnakes & Arrows was released on CD and a limited edition double LP (5,000 copies) and Music Video Interactive format (25,000 copies). It peaked at No. 3 in Canada and the United States and in September 2007, was certified gold in Canada. Rush were nominated for a Grammy Award for Best Rock Instrumental Performance for \"Malignant Narcissism\". Snakes & Arrows was named one of  Classic Rock's ten essential progressive rock albums of the decade. It was reissued and remastered in 2013 as a part of The Studio Albums 1989–2007 box set. In 2016, it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalo"
+  },
+  {
+   "id": "44a619d4-f5b1-4e49-9b96-e50cf1fd9879",
+   "titulo": "Clockwork Angels",
+   "data": "2012-06-08",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/8b44f292-71aa-4de8-b419-cb78a8e19a8c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caravan",
+     "duracao": "5:38"
+    },
+    {
+     "n": 2,
+     "titulo": "BU2B",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Clockwork Angels",
+     "duracao": "7:31"
+    },
+    {
+     "n": 4,
+     "titulo": "The Anarchist",
+     "duracao": "6:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Carnies",
+     "duracao": "4:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Halo Effect",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Seven Cities of Gold",
+     "duracao": "6:32"
+    },
+    {
+     "n": 8,
+     "titulo": "The Wreckers",
+     "duracao": "5:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Headlong Flight",
+     "duracao": "7:19"
+    },
+    {
+     "n": 10,
+     "titulo": "BU2B2",
+     "duracao": "1:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Wish Them Well",
+     "duracao": "5:25"
+    },
+    {
+     "n": 12,
+     "titulo": "The Garden",
+     "duracao": "6:59"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 74,
+    "media": 7.6,
+    "fontes": 9
+   },
+   "publico": 8.5,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clockwork_Angels",
+   "resumo_en": "Clockwork Angels is the nineteenth and final studio album by Canadian rock band Rush, released on June 8, 2012, on Roadrunner Records. During the band's short break following its Snakes & Arrows Tour, the group decided to write a new studio album. Most of the album was recorded between October and December 2011 at Revolution Recording in Toronto, Ontario, Canada. It is the final album with drummer and lyricist Neil Peart before his death in 2020 and the final album before the band's initial dissolution from 2015 to 2025.\nTwo songs that would eventually appear on the album, \"Caravan\" and \"BU2B\", were recorded in April 2010, and had been released to radio stations and made available as a digital download on June 1, 2010. Following the release of the two songs, the band embarked on the Time Machine Tour, with \"Caravan\" and \"BU2B\" included in the set list. Clockwork Angels was completed following this tour. The album's second single, \"Headlong Flight\", was released April 19, 2012. The album's third single, \"The Wreckers\", was released July 25, 2012. On February 20, 2013, \"The Anarchist\" was released as the fourth and final single. A 10\" picture disc single of the song \"The Garden\" was "
+  }
+ ]
+}

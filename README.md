@@ -1,36 +1,52 @@
-# Painel para a Escócia
+# Discoteca
 
-Painel em Streamlit para a viagem de 2 a 11 de novembro de 2026: Edimburgo, Inverness, Dalgety Bay (Fife) e York.
+Controle pessoal de bandas e álbuns, com sugestões do que ouvir e um canto para descobrir bandas novas. Feito em
+Streamlit. O painel da viagem à Escócia, que morava aqui antes, está guardado no ramo `escocia`.
 
-- **Roteiro**: as quatro hospedagens, o dia a dia com nascer e pôr do sol e o tempo de cada dia, e o mapa do percurso.
-- **Para você**: sugestões pessoais por cidade, em sete seções: onde trabalhar com o notebook (wi-fi, tomadas e onde dá para fazer chamada), economia e história (Adam Smith, Hume, Carnegie, George Hudson, os Rowntree), música (shows nas datas, vinil e trad), beber, comer bem, hidratar e recarregar, e futebol. Cada lugar mostra a distância da casa daquela cidade.
-- **Tempo**: condição atual e previsão de 16 dias por cidade (Open-Meteo, atualizada a cada 30 minutos), com a média das mesmas datas de 2015 a 2025 enquanto a previsão não alcança a viagem.
-- **Edimburgo, Highlands, Fife e York**: o que ver por região, com horário e preço de novembro, o que estará fechado, onde comer e dicas. Cada lugar mostra a distância e o tempo a partir da hospedagem daquela cidade e um link de rota saindo de lá; um mapa por seção marca a casa e os lugares.
-- **Glencoe e Skye**: as formas de encaixar cada um (no caminho, de excursão ou de carro), com o tempo previsto para o dia em cada lugar, um semáforo de "dá para ir" e um filtro por carro e horas ao volante.
-- **Trechos**: trem, carro e ônibus entre as cidades, com paradas no caminho.
-- **Dicas e gastos**: dinheiro, trem, carro, datas especiais e uma estimativa de gastos.
+## O que tem
 
-## Rodar no computador
+- **Minhas bandas**: grade com foto, país, anos de atividade, gêneros e quanto da discografia você já ouviu. Filtros
+  por cena, gênero, situação (na ativa ou encerrada) e pelo que você conhece.
+- **Banda**: história, curiosidade, se ainda está na ativa e a discografia de estúdio. Cada álbum tem capa, data,
+  faixas com duração, curiosidade, nota da crítica (média das resenhas listadas na Wikipedia, mais AllMusic e
+  Metacritic), nota do público do MusicBrainz e links para ouvir no Spotify, YouTube Music e Deezer. Para cada álbum
+  você marca: conheço, escutei inteiro, quero ouvir, favorito, sua nota de 0 a 10, faixa favorita, data e um
+  comentário (que serve de rascunho de post).
+- **O que ouvir**: sua fila, os álbuns que faltam das bandas que você curte, os clássicos que faltam e um sorteio.
+- **Descobrir**: bandas que você ainda não conhece, ordenadas pelo quanto os gêneros delas combinam com o que você
+  curte, cada uma com um álbum para começar. Inclui um garimpo de bandas tiradas de um acervo de blogs de rock.
+- **Números**: o que você já ouviu por década e cena, seus dez mais e onde você discorda da crítica.
+
+## Onde ficam os dados
+
+| O quê | Onde | Atualização |
+|---|---|---|
+| Catálogo (bandas, álbuns, faixas, capas, notas da crítica) | `catalogo/*.json` | toda segunda, pelo GitHub Actions (`catalogo.yml`), que acrescenta álbuns novos |
+| Textos em português (história e curiosidades) | `textos/*.json` | quando bandas novas entram |
+| Suas marcações e notas | Supabase, projeto "Discoteca" | na hora em que você clica |
+| Cópia de segurança das suas notas | `backup/*.json` | todo dia, pelo GitHub Actions (`backup.yml`) |
+
+O backup diário também mantém o projeto gratuito do Supabase acordado: sem nenhum acesso por uma semana, ele
+pausaria. Se o banco cair, o app abre a cópia do `backup/` só para leitura.
+
+A chave do Supabase em `banco.py` é a chave publicável, feita para ficar visível: as regras do banco só deixam ler e
+gravar as duas tabelas de notas, e nunca apagar.
+
+## Acrescentar bandas
+
+Inclua uma linha em `bandas.txt` (com uma dica entre `|` se o nome for ambíguo) e rode:
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+python scripts/montar_catalogo.py
 ```
 
-## Onde mexer
+Fontes: MusicBrainz (discografia, faixas, datas), Cover Art Archive (capas), Wikidata e Wikipedia (fotos, resumos e
+notas da crítica). Tudo aberto e sem chave; as respostas ficam em `.cache/`. Entram só os álbuns de estúdio com
+lançamento oficial (piratas ficam de fora).
 
-O conteúdo está em `dados.py` (a aba Para você, em `para_voce.py`, com as próprias coordenadas), e as coordenadas de cada lugar, pelo nome do cartão, em `coordenadas.py`. A previsão do tempo e o cálculo do sol ficam em `tempo.py`; o visual, em `estilo.py`. A pesquisa de horários e preços foi feita em 10/10/2026 e revisada em 31/10/2026; os itens sem confirmação oficial estão marcados com "confira" no próprio texto.
+A rodada semanal usa `--renovar`: reaproveita as fichas já gravadas e só consulta as discografias e os álbuns novos.
+Se alguma fonte não responder, a ficha anterior fica como estava.
 
-## Atualização diária
+## Senha (opcional)
 
-- **Ao vivo**: a previsão do tempo (Open-Meteo) e os alertas do Met Office para a região de cada hospedagem, com cache de 30 minutos.
-- **Revisão diária**: uma rotina do Claude Code na nuvem roda toda manhã às 6h (horário do Reino Unido) até 11/11. Ela pesquisa obras e greves nos trens, estradas, fechamentos, shows e jogos, grava `atualizacao.json` no ramo `claude/atualizacao-diaria` e confere o arquivo com `verificar_atualizacao.py`. O app lê esse ramo direto do GitHub (`diario.py`), sem precisar ser reimplantado, e mostra os avisos no topo, na aba de cada cidade e como nota nos cartões.
-
-## Senha e endereços das hospedagens
-
-A senha do painel, os endereços, os anfitriões e as coordenadas das hospedagens não ficam no código, que é público. O app lê esses dados de `st.secrets`:
-
-- no computador, do arquivo `.streamlit/secrets.toml`, que o `.gitignore` mantém fora do GitHub;
-- no Streamlit Community Cloud, de **Settings → Secrets**: cole lá o conteúdo do `secrets.toml`.
-
-O formato está em `secrets.exemplo.toml`. Sem `senha`, o painel não abre. Sem os dados de uma hospedagem, ela aparece só com o bairro, e as distâncias passam a ser medidas a partir dele.
+Sem configuração, o app abre direto. Para pedir senha, crie `senha = "..."` nos Secrets do app no Streamlit Cloud.

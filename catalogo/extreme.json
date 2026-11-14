@@ -1,0 +1,518 @@
+{
+ "id": "extreme",
+ "nome": "Extreme",
+ "cena": "Hard rock",
+ "mbid": "0e6cc5e5-4f03-4993-a481-d70d0e354d9f",
+ "wikidata": "Q682710",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1985",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "funk metal",
+  "acoustic rock",
+  "glam metal",
+  "alternative metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Extreme_-_Live_Madrid_2008.jpg/500px-Extreme_-_Live_Madrid_2008.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Extreme",
+ "resumo_pt": "Extreme é uma banda de hard rock de Boston, Massachusetts nos Estados Unidos, destacando-se pelos vocais de Gary Cherone, bem como a performance do guitarrista Nuno Bettencourt, desse entrosamento entre esses dois músicos nasce uma das mais famosas bandas do hard rock de fins dos anos 1980. Ficaram mais conhecidos pela balada More Than Words, presente em seu segundo álbum de estúdio, de 1990.",
+ "resumo_en": "Extreme is an American rock band formed in Boston, Massachusetts, in 1985, that reached the height of their popularity in the late 1980s and early 1990s. They have released six studio albums, two EPs (in Japan) and two compilation albums since their formation. The band was one of the most successful rock acts of the early 1990s, selling over 10 million albums worldwide.\nExtreme achieved its greatest success with their second album Pornograffitti (1990), which peaked at number 10 on the Billboard 200, and was certified gold in May 1991 and double platinum in October 1992. The album featured the acoustic ballad single \"More Than Words\", which reached No. 1 on the Billboard Hot 100 in the United States.\nWhile Extreme is primarily a hard rock band, their music has combined influences and elements of such genres as glam metal, funk, progressive, and on their fourth album Waiting for the Punchline (1995), alternative metal and grunge.",
+ "albuns": [
+  {
+   "id": "8cc7ffe9-d889-3053-955a-4791fac929a8",
+   "titulo": "Extreme",
+   "data": "1989-01-01",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/0ab35ad9-8454-4192-9e80-a340a083e624/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Girls",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Wind Me Up",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Kid Ego",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Watching, Waiting",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Mutha (Don't Wanna Go to School Today)",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Teacher's Pet",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Boys Don't Cry",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Smoke Signals",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Flesh 'n' Blood",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock a Bye Bye",
+     "duracao": "5:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Play With Me",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Extreme_%28Extreme_album%29",
+   "resumo_en": "Extreme is the first studio album by the American glam metal band Extreme, released in 1989 by A&M Records.  The album reached No. 80 on the Billboard 200, and produced the minor Mainstream Rock hit \"Kid Ego\". The single \"Play with Me\" is featured on the soundtrack for the comedy film Bill & Ted's Excellent Adventure, the opening episode of Stranger Things 4, and the 2007 rhythm game, Guitar Hero Encore: Rocks the 80s."
+  },
+  {
+   "id": "aa3a0897-0c54-37b1-8b21-c2e98e045eaf",
+   "titulo": "Extreme II: Pornograffitti (A Funked Up Fairy Tale)",
+   "data": "1990-08-07",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Decadence Dance",
+     "duracao": "6:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Li’l Jack Horny",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "When I’m President",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Get the Funk Out",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "More Than Words",
+     "duracao": "5:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Money (In God We Trust)",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "It (’s a Monster)",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Pornograffitti",
+     "duracao": "6:16"
+    },
+    {
+     "n": 9,
+     "titulo": "When I First Kissed You",
+     "duracao": "4:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Suzi (Wants Her All Day What?)",
+     "duracao": "3:38"
+    },
+    {
+     "n": 11,
+     "titulo": "He‐Man Woman Hater",
+     "duracao": "6:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Song for Love",
+     "duracao": "5:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Hole Hearted",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Extreme_II%3A_Pornograffitti",
+   "resumo_en": "Extreme II: Pornograffitti (also known as simply Pornograffitti) is the second studio album by the heavy metal band Extreme, released on August 7, 1990, through A&M Records. The album title is a portmanteau of pornography and graffiti.\nExtreme II sold very well, peaking at No. 10 on the Billboard 200, and was certified double platinum in the U.S. by the RIAA. It is the band's best selling album. Two singles from Pornograffitti, \"More Than Words\" and \"Hole Hearted\", reached No. 1 and 4 respectively on the Billboard Hot 100. Two other tracks, \"Decadence Dance\" and \"Get the Funk Out\", became popular on MTV's Headbangers Ball."
+  },
+  {
+   "id": "2f7495c0-db22-38bd-be93-d7e3d9a00194",
+   "titulo": "III Sides to Every Story",
+   "data": "1992-08-20",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/23afb503-3fc0-4e3d-b2c5-9139eaa7e2f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Warheads",
+     "duracao": "5:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Rest in Peace",
+     "duracao": "6:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Politicalamity",
+     "duracao": "5:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Color Me Blind",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Cupid’s Dead",
+     "duracao": "5:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Peacemaker Die",
+     "duracao": "6:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Seven Sundays",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Tragic Comic",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Our Father",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Stop the World",
+     "duracao": "5:57"
+    },
+    {
+     "n": 11,
+     "titulo": "God Isn’t Dead?",
+     "duracao": "2:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Everything Under the Sun: I. Rise ’n Shine",
+     "duracao": "6:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Everything Under the Sun: II. Am I Ever Gonna Change",
+     "duracao": "6:56"
+    },
+    {
+     "n": 14,
+     "titulo": "Everything Under the Sun: III. Who Cares?",
+     "duracao": "8:19"
+    }
+   ],
+   "duracao_min": 76,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/III_Sides_to_Every_Story",
+   "resumo_en": "III Sides to Every Story (pronounced \"three sides to every story\") is the third studio album by the American rock band Extreme, released on September 14, 1992, through A&M Records. It was the follow-up to the very successful Pornograffitti album. It was the last album that fully featured the band's original line-up: Gary Cherone, Nuno Bettencourt, Pat Badger and Paul Geary before Geary's departure in 1994."
+  },
+  {
+   "id": "4c453242-3c34-3514-b758-06a1c2b5967b",
+   "titulo": "Waiting for the Punchline",
+   "data": "1995-01-25",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/c2dacd50-df3c-451e-8b03-f0aaa5e46c94/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "There Is No God",
+     "duracao": "6:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Cynical",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Me Something I Don't Know",
+     "duracao": "6:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Hip Today",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Naked",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Midnight Express",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Leave Me Alone",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "No Respect",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Evilangelist",
+     "duracao": "4:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Shadow Boxing",
+     "duracao": "4:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Unconditionally",
+     "duracao": "5:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Fair-Weather Faith / Waiting for the Punchline",
+     "duracao": "11:15"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waiting_for_the_Punchline",
+   "resumo_en": "Waiting for the Punchline is the fourth album by American band Extreme, released in 1995. It is known by fans as a distinctively raw-sounding record with a significant influence from grunge, especially when compared to the big production of the two previous albums. Due to its lyrics focused heavily on social matters (ranging from religion to fame) it is often cited as a concept album. It is also the only Extreme record to feature drummer Mike Mangini (on three tracks). It is also the band's last album before their eleven-year hiatus, which lasted from 1996 to 2007. After the album's tour, Extreme disbanded when Bettencourt informed the band that he was leaving to pursue a solo career. After the breakup, singer Gary Cherone joined Van Halen in 1996 as their new singer, but left three years later."
+  },
+  {
+   "id": "64a43db1-0a5e-3f73-b4d6-35f6240ed2eb",
+   "titulo": "Saudades de Rock",
+   "data": "2008-08-04",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/2de5db69-a40c-4228-9885-9f9294bdd2fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Star",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Comfortably Dumb",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Learn to Love",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Take Us Alive",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Run",
+     "duracao": "4:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Last Hour",
+     "duracao": "5:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Flower Man",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "King of the Ladies",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Ghost",
+     "duracao": "4:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Slide",
+     "duracao": "4:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Interface",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Sunrise",
+     "duracao": "6:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Peace (Saudade)",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Saudades_de_Rock",
+   "resumo_en": "Saudades de Rock (which roughly translates from Portuguese as \"Nostalgic Yearnings of Rock\") is the fifth album by the American rock band Extreme. Released on August 12, 2008, it was the band's first album of new material since 1995's Waiting for the Punchline, and also their first release with new drummer Kevin Figueiredo."
+  },
+  {
+   "id": "ef42ec54-50a0-4ed3-9850-e571b91d10a1",
+   "titulo": "Six",
+   "data": "2023-06-07",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/eccaaf12-96f4-4eaf-a17a-c74441ef463f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rise",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "#Rebel",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Banshee",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Other Side of the Rainbow",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Small Town Beautiful",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "The Mask",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Thicker Than Blood",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Save Me",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Hurricane",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "X Out",
+     "duracao": "5:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Beautiful Girls",
+     "duracao": "4:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Here’s to the Losers",
+     "duracao": "5:19"
+    },
+    {
+     "n": 13,
+     "titulo": "Rise (radio edit)",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Six_%28Extreme_album%29",
+   "resumo_en": "Six is the sixth studio album by American hard rock band Extreme, released on June 9, 2023. It is their first studio album since Saudades de Rock, released in 2008."
+  }
+ ]
+}

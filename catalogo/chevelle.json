@@ -1,0 +1,754 @@
+{
+ "id": "chevelle",
+ "nome": "Chevelle",
+ "cena": "Nu metal e correlatos",
+ "mbid": "8456e9f7-debf-4579-a86c-33a325a35d2d",
+ "wikidata": "Q1070944",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1994",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "alternative rock",
+  "nu metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Chevelle_Profile_Image.png/500px-Chevelle_Profile_Image.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/Chevelle_%28band%29",
+ "resumo_pt": "",
+ "resumo_en": "Chevelle is an American rock band formed in Grayslake, Illinois, in 1995. The band was originally composed of two brothers, Pete Loeffler (lead vocals and guitar) and Sam Loeffler (drums and percussion), along with Matt Scott (bass and backing vocals). Scott was replaced by Sam and Pete's brother, Joe Loeffler, in 1996. When Joe left the band in 2005, Geno Lenardo subbed in as the touring bassist until he was replaced by Pete and Sam's brother-in-law, Dean Bernardini. Bernardini departed from the band in 2019, and in 2021, Kemble Walters joined the band as a touring bassist.\nThe band's first studio album, Point #1, was released on a small record label called Squint Entertainment. Chevelle's second album, Wonder What's Next (2002), was certified double platinum by the RIAA after a debut at No. 14 on the United States albums chart, Billboard 200. This Type of Thinking (Could Do Us In) (2004), the band's third album debuted at No. 8 and has been certified platinum. Chevelle has since released seven more albums: Vena Sera (2007), Sci-Fi Crimes (2009), Hats Off to the Bull (2011), La Gárgola (2014), The North Corridor (2016), NIRATIAS (2021), and Bright as Blasphemy (2025). Other releases from Chevelle include two live albums, two DVDs, and two compilation albums. As of 2022, the band has sold over 6 million records.",
+ "albuns": [
+  {
+   "id": "ac57206e-2884-39a4-8969-eaf9a4c14232",
+   "titulo": "Point #1",
+   "data": "1999-05-04",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/73fe912f-dc12-4c5c-8ef2-c57a4125051c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Open",
+     "duracao": "2:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Point #1",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Prove to You",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Mia",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Skeptic",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Anticipation",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Dos",
+     "duracao": "6:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Long",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Blank Earth",
+     "duracao": "5:26"
+    },
+    {
+     "n": 10,
+     "titulo": "SMA",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Peer",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Point_No._1",
+   "resumo_en": "Point #1 is the debut studio album by the American rock band Chevelle, released on May 4, 1999. It is the only Chevelle album released by Squint Entertainment and their only collaboration with producer Steve Albini. The album featured a notable single in its title track but achieved only minor success, especially compared to Chevelle's major label follow-up in 2002."
+  },
+  {
+   "id": "24f654ae-1316-3bcf-9805-14507646f86b",
+   "titulo": "Wonder What’s Next",
+   "data": "2002-08-27",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/140b40a5-8e2a-40d6-a978-1fbd15187a12/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Family System",
+     "duracao": "4:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Comfortable Liar",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Send the Pain Below",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Closure",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "The Red",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Wonder What’s Next",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Fake This",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Forfeit",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Grab Thy Hand",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "An Evening With El Diablo",
+     "duracao": "5:59"
+    },
+    {
+     "n": 11,
+     "titulo": "One Lonely Visitor",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.8,
+    "fontes": 6
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wonder_What%27s_Next",
+   "resumo_en": "Wonder What's Next is the second studio album by the American rock band Chevelle, released on October 8, 2002, by Epic Records. Spawning the singles \"The Red\", \"Send the Pain Below\", and \"Closure\", it proved to be Chevelle's breakthrough album, landing them high-profile tour slots including the main stage of Ozzfest 2003. Having been certified double platinum in the US, Wonder What's Next remains the band's most successful album."
+  },
+  {
+   "id": "dabb19c6-f5ac-354a-b49b-4823e954ee54",
+   "titulo": "This Type of Thinking (Could Do Us In)",
+   "data": "2004-09-21",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/ebeada15-6408-4b81-b6ea-7f491da3d304/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Clincher",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Get Some",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Vitamin R (Leading Us Along)",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Still Running",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Breach Birth",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Panic Prone",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Another Know It All",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Tug-O-War",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "To Return",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Emotional Drought",
+     "duracao": "5:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Bend the Bracket",
+     "duracao": "5:05"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/This_Type_of_Thinking_%28Could_Do_Us_In%29",
+   "resumo_en": "This Type of Thinking (Could Do Us In) is the third studio album by the American rock band Chevelle. Debuting at No. 8 on the Billboard 200 based on nearly 90,000 copies sold in its first week, it charted higher than its predecessor, Wonder What's Next but did not exceed its debut position. The album did not manage to match its predecessor's commercial success, but was certified platinum. This Type of Thinking follows generally the same heavy style as Wonder What's Next with popular singles like \"Vitamin R\" and \"The Clincher\". It would be the first of two records produced by Michael \"Elvis\" Baskette. This was also the final album that all of the Loeffler brothers involved together, following the departure of bassist Joe Loeffler from the band in 2005."
+  },
+  {
+   "id": "6d80fd4d-4de0-3b81-af98-c8b1584725ef",
+   "titulo": "Vena Sera",
+   "data": "2007-04-03",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/1c3a9e74-8c3f-459c-b326-a490e644e5a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Antisaint",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Brainiac",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Saferwaters",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Well Enough Alone",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Straight Jacket Fashion",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "The Fad",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Humanoid",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Paint the Seconds",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Midnight to Midnight",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "I Get It",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Saturdays",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.6,
+    "fontes": 7
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vena_Sera",
+   "resumo_en": "Vena Sera is the fourth studio album by the American rock band Chevelle, released on April 3, 2007, through Epic Records. Many of the tracks on this album were based on material from unreleased songs the band had previously recorded. The term \"Vena Sera\" is ungrammatical Latin for \"vein liquids\" or \"it's too late\".\nVena Sera is the first Chevelle album with bassist Dean Bernardini, the brother-in-law of fellow members Pete and Sam Loeffler. It would also be the second and final album produced by Michael \"Elvis\" Baskette, marking the first time Chevelle maintained the same producer for a second record.\nThe first single, \"Well Enough Alone\", was released to radio stations on February 13, 2007, but a CD single would not be available until March 6.\nThe album debuted at number 12 in the United States with sales of approximately 62,000 copies sold. This was less than their previous album, This Type of Thinking (Could Do Us In). On May 28, 2020, it was certified gold by the RIAA with sales of over 500,000 units sold."
+  },
+  {
+   "id": "4ae1d590-4135-4fd4-8d98-922cdb9b53bd",
+   "titulo": "Sci‐Fi Crimes",
+   "data": "2009-08-31",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/56c33dc8-19ab-421f-a475-93caa3ba2cf3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sleep Apnea",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Mexican Sun",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Shameful Metaphors",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Jars",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Fell Into Your Shoes",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Letter From a Thief",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Highland’s Apparition",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Roswell's Spell",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Interlewd",
+     "duracao": "1:21"
+    },
+    {
+     "n": 10,
+     "titulo": "A New Momentum",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "This Circus",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sci-Fi_Crimes",
+   "resumo_en": "Sci-Fi Crimes is the fifth studio album by the American rock band Chevelle, released on August 31, 2009 through Epic Records."
+  },
+  {
+   "id": "d132db5b-d7b4-4c06-b3ed-ea0d6e4b39ca",
+   "titulo": "Hats Off to the Bull",
+   "data": "2011-12-02",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/167fb665-d769-4d99-aee8-2a5baf50d0a6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Face to the Floor",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Same Old Trip",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Ruse",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "The Meddler",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Piñata",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Envy",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Hats Off to the Bull",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Arise",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Revenge",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Prima Donna",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Clones",
+     "duracao": "3:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Indifference",
+     "duracao": "2:09"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hats_Off_to_the_Bull",
+   "resumo_en": "Hats Off to the Bull is the sixth studio album by the American rock band Chevelle, released on December 6, 2011.\n\"Face to the Floor\", was released as a single on October 10, 2011. \"Hats Off to the Bull\" was released on February 16, 2012. On November 29, 2011 Hats Off to the Bull was premiered on Revolver magazine. On November 30, 2011, \"Same Old Trip\" was premiered on Noisecreep.\nHats Off to the Bull has sold 239,000 copies in the US."
+  },
+  {
+   "id": "eb397436-c727-4aa4-9cdd-57e98ebc4d62",
+   "titulo": "La Gárgola",
+   "data": "2014-04-01",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/ff3ad127-97a6-4a2e-a8b8-5e38e34b89a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ouija Board",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "An Island",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Take Out the Gunman",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Jawbreaker",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Hunter Eats Hunter",
+     "duracao": "5:44"
+    },
+    {
+     "n": 6,
+     "titulo": "One Ocean",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Choking Game",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "The Damned",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Under the Knife",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Twinge",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/La_G%C3%A1rgola",
+   "resumo_en": "La Gárgola (Spanish for \"The Gargoyle\") is the seventh studio album by the American rock band Chevelle. It was released on April 1, 2014 in the US and on June 9, 2014 in the UK.\nThe album cover depicts vocalist Pete Loeffler wearing a plague doctor mask. Joe Barresi, who produced the band's previous studio album, Hats Off to the Bull, returned as the producer for this album. In August 2019, and with the collaboration of Revolution Brewing, Chevelle announced the release of their Helles Lager beer, named after the album and featuring the same illustration as the cover art."
+  },
+  {
+   "id": "7d58e1cf-9490-4348-9535-2c1fcd4cefcf",
+   "titulo": "The North Corridor",
+   "data": "2016-07-08",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/02db8eb4-0711-4c37-a144-41546844c24f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Door to Door Cannibals",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Enemies",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Joyride (Omen)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Rivers",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Last Days",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Young Wicked",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Warhol’s Showbiz",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Punchline",
+     "duracao": "5:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Got Burned",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Shot From a Cannon",
+     "duracao": "8:11"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_North_Corridor",
+   "resumo_en": "The North Corridor is the eighth studio album by the American rock band Chevelle, released on July 8, 2016. It is also the last studio album with Dean Bernardini, who left the band in late September 2019."
+  },
+  {
+   "id": "99ac2205-efd7-4e00-9717-b17672142d1a",
+   "titulo": "NIRATIAS",
+   "data": "2021-03-05",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/afe107a6-0cbe-46cc-98fd-c725fe04b723/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Verruckt",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "So Long, Mother Earth",
+     "duracao": "4:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Mars Simula",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Sleep the Deep",
+     "duracao": "1:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Self Destructor",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Piistol Star (Gravity Heals)",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "VVurmhole",
+     "duracao": "0:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Peach",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Test Test…Enough",
+     "duracao": "2:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Endlessly",
+     "duracao": "5:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Remember When",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Ghost and Razor",
+     "duracao": "5:51"
+    },
+    {
+     "n": 13,
+     "titulo": "Lost in Digital Woods",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/NIRATIAS",
+   "resumo_en": "NIRATIAS (an acronym for \"Nothing Is Real and This Is a Simulation\") is the ninth studio album by the American rock band Chevelle, released on March 5, 2021. It was preceded by four singles: \"Self Destructor\", \"Peach\", \"Remember When\", and \"Endlessly\". The album was produced by Joe Barresi and was their first studio album in five years, the previous being 2016's The North Corridor. It is also their first album as a two-piece, as bassist Dean Bernardini left the band in late 2019, leaving vocalist Pete Loeffler to play both guitar and bass on the album. It marked the final album on their contract with long-time label Epic Records; future music from the band will be released on Alchemy Records.\nUnlike previous Chevelle albums, NIRATIAS is a concept album, with more instrumental and spoken word tracks, dealing with themes such as interstellar travel, mistrust in leadership, loss, and the past."
+  },
+  {
+   "id": "92e1287f-c4bf-49b2-94cc-b18a28f3cd15",
+   "titulo": "Bright as Blasphemy",
+   "data": "2025-08-15",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/dd2acfae-365f-43dc-b540-386e6587f890/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pale Horse",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Rabbit Hole (Cowards, Pt. 1)",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Jim Jones (Cowards, Pt. 2)",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Hallucinations",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Wolves (Love & Light)",
+     "duracao": "4:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Karma Goddess",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Blood out in the Fields",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "AI Phobias",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Shocked at the End of the World",
+     "duracao": "4:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

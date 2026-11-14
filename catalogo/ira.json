@@ -1,0 +1,857 @@
+{
+ "id": "ira",
+ "nome": "Ira!",
+ "cena": "Rock brasileiro",
+ "mbid": "1ccd14d3-c66e-4949-9308-655b8df1a523",
+ "wikidata": "Q10303521",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1981",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "mod revival",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ira%21_Folk.jpg/500px-Ira%21_Folk.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Ira%21",
+ "resumo_pt": "Ira! é uma banda brasileira de rock, formada em 1981, na cidade de São Paulo. A banda anunciou seu término em setembro de 2007, mas em 2014 retornou aos palcos.\nDonos de alguns dos maiores sucessos do rock nacional, como \"Núcleo Base\", \"Mudança de Comportamento\", \"Tolices\", \"Envelheço na Cidade\", \"Dias de Luta\", \"Tarde Vazia\", \"O Girassol\", \"Eu Quero Sempre Mais\" e \"Flores em Você\", tema de abertura da novela O Outro, da Rede Globo, de 1987. A banda tem seu nome inspirado no Exército Republicano Irlandês (IRA, na sigla em inglês).\nDepois de se afastar da mídia nos anos 1980 por preferir continuar atrelada às suas raízes punk, o Ira! retornou ao mainstream com o lançamento do seu Acústico MTV, em 2004.",
+ "resumo_en": "Ira! (Portuguese for Anger! or Rage!, although the name was inspired by the Irish Republican Army) is a Brazilian rock band that was founded in São Paulo in the early 1980s. They were strongly influenced by the Mod sound of The Who, the hard rock of Led Zeppelin and the punk rock of The Clash.",
+ "albuns": [
+  {
+   "id": "dc7217bf-86cf-3257-a334-59431c9aac52",
+   "titulo": "Mudança de comportamento",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/ecfe6441-2795-3a62-b7ab-176ec558917c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Longe de Tudo",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Núcleo Base",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Mudança de Comportamento",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Tolices",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Coração",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Saída",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Ninguém Precisa da Guerra",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Por Trás de um Sorriso",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Como os Ponteiros de um Relógio",
+     "duracao": "2:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Sonhar com quê?",
+     "duracao": "2:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Ninguém Entende um Mod!",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "443fb2e9-eed6-388e-a9e4-2913d46852e5",
+   "titulo": "Vivendo e não aprendendo",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/0f367597-b0d9-40fa-b025-8cd1d653ce79/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Envelheço na cidade",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Casa de papel",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Dias de luta",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Tanto quanto eu",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Vitrine viva",
+     "duracao": "2:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Flores em você",
+     "duracao": "1:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Quinze anos",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Nas ruas",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Gritos na multidão (ao vivo)",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Pobre paulista (ao vivo)",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "1b4354dd-82d0-3ca0-9a3a-9530f32ebff8",
+   "titulo": "Psicoacústica",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/b72eed93-f685-35d0-bb31-1e0e240aeca8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rubro Zorro",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Manhãs de Domingo",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Poder, Sorriso, Fama",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Receita Para Se Fazer um Herói",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Pegue Essa Arma",
+     "duracao": "4:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Farto do Rock 'n' Roll",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Advogado do Diabo",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Mesmo Distante",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "8f4b68de-6acb-30c5-bc9c-36b32785b52e",
+   "titulo": "Clandestino",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/123cc114-dfda-42c6-ab52-3da492e41705/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Melissa",
+     "duracao": "2:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Tarde vazia",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Efeito bumerangue",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Boneca de cera",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Cabeças quentes",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "O dia, a semana, o mês",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Patroa",
+     "duracao": "1:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Consciência limpa",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Clandestino",
+     "duracao": "4:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Nasci em 62",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "c92b517d-2c3e-3ce9-8768-6cd9aee028fc",
+   "titulo": "Meninos da Rua Paulo",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/0a37a5d0-4ea6-4955-a828-e26b925e52da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rua Paulo",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Imagens de você",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Amor impossível",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "O tolo dos tolos",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "O ladrão era eu",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "A Etiópia e os meus problemas",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Você ainda pode sonhar",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Um dia como hoje",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Prisão das ruas",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Cavalos selvagens",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Não matarás",
+     "duracao": "4:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Os meninos da Rua Paulo",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "df6db074-6216-30e3-8fac-2feb9826a3a2",
+   "titulo": "Musica calma para pessoas nervosas",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/7b58b382-d532-4280-a1f8-a3516d447901/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Arrastão! (Ladrão que rouba ladrão)",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Pai nosso da Terra",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "She smiled sweetly",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Campos, praias e paixões",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Perigo",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "O homem é esperto, mas a morte é mais",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Balada triste",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Fado de minh'alma",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "U.T.I.",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "f14a85a8-5d03-4d78-ae56-06c1598356c6",
+   "titulo": "7",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/1bd18f80-f592-4642-97cb-cb930d1fdc31/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Na minha mente",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Me perco nesse tempo",
+     "duracao": "1:54"
+    },
+    {
+     "n": 3,
+     "titulo": "É assim que me querem",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Que fim levou Paris...!",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Você não serve pra mim",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Haiô Silver!",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Eu quero sempre mais",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "O girassol",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Te odeio (Isso é o amor)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Dificil é viver",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "House of the Rising Sun",
+     "duracao": "1:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Nasci em 62 (ao vivo)",
+     "duracao": "2:05"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "8a96a853-45c2-3c5e-9b15-77093e1fade7",
+   "titulo": "Você não sabe quem eu sou",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/31dd66fe-c5de-44bf-aecf-fea1971f62ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Às vezes de vez em quando",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Correnteza",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Miss Lexotan 6mg - garota",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Vou me encontrar",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Eu não sei",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Tantas nuvens",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Nada além",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Descendo o Mississipi",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Justiça Militar, Justiça Civil",
+     "duracao": "5:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Você não sabe quem eu sou",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "A natureza sobre nós",
+     "duracao": "5:13"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "7221a159-2ee3-3c61-959f-efaae0dc1fb6",
+   "titulo": "Isso é amor",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/9cfbd895-c58b-4951-8eca-7b8cbade97ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bebendo vinho",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Teorema",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Telefone",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Chorando no campo",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Flash-back",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Um girassol da cor do seu cabelo",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Mudança de comportamento",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "O que me importa",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Jorge Maravilha",
+     "duracao": "2:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Abraços e brigas",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Sentado à beira do caminho",
+     "duracao": "5:34"
+    },
+    {
+     "n": 12,
+     "titulo": "A vida tem dessas coisas",
+     "duracao": "3:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Alegria de viver",
+     "duracao": "3:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Minha gente amiga",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "7a1a3c10-d6b6-328b-b190-fcf0d56b6b82",
+   "titulo": "Entre seus rins",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/c13a8118-867e-40a0-83c5-64088d3522ea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O bom e velho rock'n'roll",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Entre seus rins",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Milhas e milhas",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Naftalina",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Superficial (como um espinho)",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Para ser humano",
+     "duracao": "6:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Homem de Neanderthal",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Um homem só",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Mistério",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Pecado",
+     "duracao": "3:11"
+    },
+    {
+     "n": 11,
+     "titulo": "O tempo",
+     "duracao": "3:35"
+    },
+    {
+     "n": 12,
+     "titulo": "A vida por um fio",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "7bc333c2-a3df-4d15-be13-bc56b3c60e41",
+   "titulo": "Invisível DJ",
+   "data": "2007",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/3b19a3b1-fa16-4dae-9720-f759b8932409/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Invisível DJ",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Sem saber pra onde ir",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Eu vou tentar",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Mariana foi pro mar",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Não basta o perdão",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Culto de amor",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Feito gente",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Tudo de mim",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "No universo dos seus olhos",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "A saga",
+     "duracao": "3:04"
+    },
+    {
+     "n": 11,
+     "titulo": "O candidato",
+     "duracao": "4:16"
+    },
+    {
+     "n": 12,
+     "titulo": "La luna llena",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "3959bb98-1667-4d29-8416-e5354f3d210d",
+   "titulo": "IRA",
+   "data": "2020",
+   "ano": "2020",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O Amor Também Faz Errar",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "A Nossa Amizade",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Respostas",
+     "duracao": "5:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Mulheres à Frente da Tropa",
+     "duracao": "6:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Você Me Toca",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Efeito Dominó",
+     "duracao": "7:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Chuto Pedras e Assobio",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Eu Desconfio de Mim",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "O Homem Cordial Morreu",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "A Torre",
+     "duracao": "5:37"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

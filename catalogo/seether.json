@@ -1,0 +1,861 @@
+{
+ "id": "seether",
+ "nome": "Seether",
+ "cena": "Pós-grunge",
+ "mbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+ "wikidata": "Q461448",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1999",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "post-grunge",
+  "rock",
+  "alternative metal",
+  "alternative rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Seether_bandphoto_black_and_white.jpg/500px-Seether_bandphoto_black_and_white.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Seether",
+ "resumo_pt": "Seether é uma banda de post-grunge originária da África do Sul. Atualmente, eles têm contrato com a Wind-up Records.  Originalmente chamado Saron Gas e com a gravadora Musketeer Records na África do Sul, eles mudaram o nome em 2002, coincidindo com a estréia do primeiro álbum, Disclaimer.",
+ "resumo_en": "Seether are a South African rock band founded in 1999 in Pretoria, Gauteng. The band originally performed under the name Saron Gas until 2002 when they changed it to Seether to avoid confusion with the deadly nerve agent sarin gas. Lead vocalist and guitarist Shaun Morgan is the band's only remaining original member. Bassist Dale Stewart joined a year after formation, while drummer John Humphrey joined them for the band's second album. Since 2018, the band has been employing second guitarist Corey Lowery. Several notable guitarists such as Corey's brother Clint and Troy McLawhorn have toured or recorded with the band; however, Morgan has recorded most guitar parts for the band's records.\nSeether gained mainstream popularity in 2002 with their US Active Rock number one single \"Fine Again\". Their success was sustained in 2004 with the single \"Broken\", which peaked at number 20 on the Billboard Hot 100. They have experienced continued success with many number one hits on the Hot Mainstream Rock Tracks chart, such as \"Remedy\", \"Fake It\", \"Country Song\", \"Tonight\", \"Words as Weapons\", \"Let You Down\", \"Dangerous\", \"Bruised and Bloodied\", and \"Wasteland\". The band has released nine studio albums; their most recent, The Surface Seems So Far, was released in 2024.",
+ "albuns": [
+  {
+   "id": "e7682032-bb26-4753-a922-617aefa8ef80",
+   "titulo": "Fragile",
+   "data": "2000-11",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/3382de3b-074e-4fc1-bcef-0bcd35d8d007/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beer",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "69 Tea",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Pride",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Fine Again",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Empty",
+     "duracao": "4:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Tied My Hands",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Take Me Away",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Driven Under",
+     "duracao": "4:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Stay and Play",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Your Bore",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Pig",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Dazed and Abuzed",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fragile_%28Saron_Gas_album%29",
+   "resumo_en": "Seether are a South African rock band founded in 1999 in Pretoria, Gauteng. The band originally performed under the name Saron Gas until 2002 when they changed it to Seether to avoid confusion with the deadly nerve agent sarin gas. Lead vocalist and guitarist Shaun Morgan is the band's only remaining original member. Bassist Dale Stewart joined a year after formation, while drummer John Humphrey joined them for the band's second album. Since 2018, the band has been employing second guitarist Corey Lowery. Several notable guitarists such as Corey's brother Clint and Troy McLawhorn have toured or recorded with the band; however, Morgan has recorded most guitar parts for the band's records.\nSeether gained mainstream popularity in 2002 with their US Active Rock number one single \"Fine Again\". Their success was sustained in 2004 with the single \"Broken\", which peaked at number 20 on the Billboard Hot 100. They have experienced continued success with many number one hits on the Hot Mainstream Rock Tracks chart, such as \"Remedy\", \"Fake It\", \"Country Song\", \"Tonight\", \"Words as Weapons\", \"Let You Down\", \"Dangerous\", \"Bruised and Bloodied\", and \"Wasteland\". The band has released nine studio"
+  },
+  {
+   "id": "e20365c7-6b99-37b7-8897-0d8248e3bf61",
+   "titulo": "Disclaimer",
+   "data": "2002-08-20",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/059b11c1-d84b-4fce-991a-a9853465107e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gasoline",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "69 Tea",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Fine Again",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Needles",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Driven Under",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Pride",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Sympathetic",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Your Bore",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Fade Away",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Pig",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Fuck It",
+     "duracao": "2:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Broken",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Disclaimer_%28Seether_album%29",
+   "resumo_en": "Disclaimer is the debut studio album by the South African rock band Seether. The album was released on 20 August 2002. It features three successful singles which would remain some of the band's most well-known songs. It is their first release under their current name after changing it from Saron Gas in 2002 to avoid confusion with the deadly nerve agent sarin gas."
+  },
+  {
+   "id": "a39ffd6f-eaab-32ec-9fd6-20241d661c72",
+   "titulo": "Disclaimer II",
+   "data": "2004-06-08",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/4a56b4db-8ebb-3010-8a5a-8847ff86c600/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gasoline",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "69 Tea",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Fine Again",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Needles",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Driven Under",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Pride",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Sympathetic",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Your Bore",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Fade Away",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Pig",
+     "duracao": "3:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Fuck It",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Broken",
+     "duracao": "4:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Sold Me",
+     "duracao": "3:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Got It Made",
+     "duracao": "5:10"
+    },
+    {
+     "n": 15,
+     "titulo": "Cigarettes",
+     "duracao": "3:11"
+    },
+    {
+     "n": 16,
+     "titulo": "Broken",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Disclaimer_II",
+   "resumo_en": "Disclaimer II is the second studio album by South African rock band Seether. It is a recompilation of the band's debut studio album, Disclaimer (2002). Although the 12 tracks from the original album are present, they were slightly remixed and differ from the original. Also, the majority of the remixed tracks feature additional lead guitar melodies with the addition of a permanent lead guitarist to the band's line-up prior to the release of the album. This is also the first Seether album to feature contributions from their current drummer John Humphrey. In Europe, the album includes four tracks more than its predecessor; in the United States, the album has eight extra tracks, some of which had been previously released on soundtracks, such as \"Hang On,\" which had been featured on the 2003 Daredevil soundtrack and \"Out of My Way,\" which had been featured on the soundtrack to the 2003 horror film Freddy vs. Jason,\nWWE would also use \"Out of My Way\" as an entrace music for his Wrestler Zach Gowen and \"Sold Me\" as the theme song for his June Pay-Per-View WWE Bad Blood (2004), which was aired on June 13 (2 days before the release of the album)\nA primary reason for the reworking of Disclai"
+  },
+  {
+   "id": "db23ed1e-c841-3ce5-a4ed-d3a0ab80ddf5",
+   "titulo": "Karma and Effect",
+   "data": "2005-05-24",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/087ddad9-2cef-487c-8087-f1fc8d30c2bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Because of Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Remedy",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Truth",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "The Gift",
+     "duracao": "5:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Burrito",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Given",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Never Leave",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "World Falls Away",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Tongue",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m the One",
+     "duracao": "2:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Simplest Mistake",
+     "duracao": "5:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Diseased",
+     "duracao": "3:40"
+    },
+    {
+     "n": 13,
+     "titulo": "Plastic Man",
+     "duracao": "3:53"
+    },
+    {
+     "n": 14,
+     "titulo": "Kom Saam Met My",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Karma_and_Effect",
+   "resumo_en": "Karma and Effect is the third studio album by South African rock band Seether. It was released on 24 May 2005 by Wind-up Records. It was the band's first all-new, full-length album under the Seether name in which they performed as a full-fledged band. Consequently, it was the only such album with guitarist Pat Callahan prior to his departure from the band in 2006.\nUpon release, the album debuted in the top 10 of numerous national music charts. The album's lead single \"Remedy\" held the top spot on the Billboard Mainstream Rock Tracks chart for a total of eight weeks. The second and third singles \"Truth\" and \"The Gift\", though not to the same extent, also found success on rock radio. Since its release, the album has sold upwards of 1 million units in the United States. It is certified platinum in the US and certified gold in both Canada and New Zealand."
+  },
+  {
+   "id": "082a1e9b-50ff-4783-8ee8-8da279c16ec7",
+   "titulo": "Finding Beauty in Negative Spaces",
+   "data": "2007-10-23",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/b5d6a661-909d-4447-9ce5-3b300d053cf6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Like Suicide",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Fake It",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Breakdown",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "FMLYHM",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Fallen",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Rise Above This",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "No Jesus Christ",
+     "duracao": "7:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Six Gun Quota",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Walk Away From the Sun",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Eyes of the Devil",
+     "duracao": "5:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Don't Believe",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Waste",
+     "duracao": "4:26"
+    },
+    {
+     "n": 13,
+     "titulo": "Careless Whisper",
+     "duracao": "5:01"
+    },
+    {
+     "n": 14,
+     "titulo": "Careless Whisper (Strings version)",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 39,
+    "media": 4.9,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Finding_Beauty_in_Negative_Spaces",
+   "resumo_en": "Finding Beauty in Negative Spaces is the fourth studio album by South African rock band Seether. The album was released in South Africa and Switzerland on 19 October 2007, and released worldwide on 23 October 2007. It is the first album by the band without lead guitarist Pat Callahan.\nThe cover artwork was designed by David Ho, the same artist who designed the cover for the album Vicious Delicious by Infected Mushroom. The covers apparently display the same character, \"Candice the Ghost.\"\nThree singles, \"Fake It\", \"Rise Above This\" and \"Breakdown\" have been released from the album with all three being top 10 singles, the former two reaching the top position on several Billboard charts, despite mixed-to-negative reviews from critics. The album was reissued in 2009 featuring a fourth single, a cover of George Michael's \"Careless Whisper\"."
+  },
+  {
+   "id": "3f1b7957-99b8-4a52-ada1-b42edc2d5f84",
+   "titulo": "Holding Onto Strings Better Left to Fray",
+   "data": "2011-05-17",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/0a562fc4-0230-4be0-a1ee-89773fc8531f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fur Cue",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "No Resolution",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Here and Now",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Country Song",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Master of Disaster",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Tonight",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Pass Slowly",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Fade Out",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Roses",
+     "duracao": "4:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Down",
+     "duracao": "3:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Desire for Need",
+     "duracao": "3:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Forsaken",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 6
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Holding_Onto_Strings_Better_Left_to_Fray",
+   "resumo_en": "Holding Onto Strings Better Left to Fray is the fifth studio album by South African rock band Seether. It was the only Seether album to have Troy McLawhorn as the lead guitarist. He departed from the band just before the album's release, once again becoming the rhythm guitarist for the band Evanescence. It was released on 17 May 2011, and debuted at number two on the US Billboard 200."
+  },
+  {
+   "id": "574091cd-0e20-4e60-8cec-9bbda21cc9b8",
+   "titulo": "Isolate and Medicate",
+   "data": "2014-06-27",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/c3d1bd18-d791-4885-8d40-668c78832017/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "See You at the Bottom",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Same Damn Life",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Words as Weapons",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "My Disaster",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Crash",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Suffer It All",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Watch Me Drown",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Nobody Praying for Me",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Keep the Dogs at Bay",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Save Today",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.3,
+    "fontes": 8
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Isolate_and_Medicate",
+   "resumo_en": "Isolate and Medicate (stylised as isolate and medicate) is the sixth studio album by South African rock band Seether. It was released on 1 July 2014 by The Bicycle Music Company, in association with Concord Music Group and Spinefarm Records. It is the first Seether album to be released on a vinyl LP."
+  },
+  {
+   "id": "6ecbc7aa-66ef-46b3-9313-5ebeb8467076",
+   "titulo": "Poison the Parish",
+   "data": "2017-05-12",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/9ff45365-4b87-449c-b254-d539df5ae4bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stoke the Fire",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Betray and Degrade",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Something Else",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ll Survive",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Let You Down",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Against the Wall",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Let Me Heal",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Saviours",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Nothing Left",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Count Me Out",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Emotionless",
+     "duracao": "5:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Sell My Soul",
+     "duracao": "4:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Feels Like Dying",
+     "duracao": "4:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Misunderstood",
+     "duracao": "3:48"
+    },
+    {
+     "n": 15,
+     "titulo": "Take a Minute",
+     "duracao": "4:29"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Poison_the_Parish",
+   "resumo_en": "Poison the Parish is the seventh studio album by South African rock band Seether. It was released on 12 May 2017. It is the band's first album to feature a new band logo on the cover. The first single, \"Let You Down\" was released on 23 February 2017. On 23 March 2017, the band released a new track titled \"Stoke the Fire\". On 13 April 2017, \"Nothing Left\" was released. On 5 May 2017, \"Count Me Out\" was released. On 9 August 2017, the album's second single, \"Betray and Degrade\" was released. On 8 April 2018, the album's third single, \"Against the Wall\", was released."
+  },
+  {
+   "id": "e622dff6-2708-493f-801b-1b3979eae259",
+   "titulo": "Si Vis Pacem, Para Bellum",
+   "data": "2020-08-27",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/7bdd7f35-2ca3-48ba-8ca2-c36b77e127e4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dead and Done",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Dangerous",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Buried in the Sand",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Beg",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Bruised and Bloodied",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Liar",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Let It Go",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Drift Away",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Wasteland",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Can’t Go Wrong",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Failure",
+     "duracao": "3:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Pride Before the Fall",
+     "duracao": "4:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Written in Stone",
+     "duracao": "3:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Let You Down (live)",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Remedy (live)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "media": 6.9,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Si_Vis_Pacem%2C_Para_Bellum_%28album%29",
+   "resumo_en": "Si Vis Pacem, Para Bellum (Latin pronunciation: [siː wiːs ˈpaːkẽː ˈpara ˈbɛllũː]; English: \"If You Want Peace, Prepare for War\") is the eighth studio album by South African rock band Seether. It was released on 28 August 2020 through Fantasy Records and was produced by lead vocalist Shaun Morgan. The album's first single, \"Dangerous\", was released ahead of the album in June 2020, as well as \"Bruised and Bloodied\" in July and \"Beg\" in August. A deluxe edition was released on 1 July 2022."
+  },
+  {
+   "id": "46adf644-eb10-4242-8605-127e8ed32e7e",
+   "titulo": "The Surface Seems So Far",
+   "data": "2024-09-20",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/2921641b-6d29-4ebd-ae84-edb3a2959f01/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Judas Mind",
+     "duracao": "4:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Illusion",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Beneath the Veil",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Semblance of Me",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Walls Come Down",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Try to Heal",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Paint the World",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Same Mistakes",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Lost All Control",
+     "duracao": "4:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Dead on the Vine",
+     "duracao": "4:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Regret",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "media": 7.9,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Surface_Seems_So_Far",
+   "resumo_en": "The Surface Seems So Far is the ninth studio album by South African rock band Seether. It was released on 20 September 2024 through Fantasy Records, It is the follow up to the band's eighth studio album, Si Vis Pacem, Para Bellum (2020). According to vocalist/rhythm guitarist Shaun Morgan, it is the band's heaviest and most intense album, and it was written during the COVID-19 pandemic lockdown. It is also the band's first album to feature no acoustic songs."
+  }
+ ]
+}

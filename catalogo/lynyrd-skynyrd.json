@@ -1,0 +1,1058 @@
+{
+ "id": "lynyrd-skynyrd",
+ "nome": "Lynyrd Skynyrd",
+ "cena": "Clássicos do rock",
+ "mbid": "c544ed4d-2390-4442-a83e-1ea2883b09c8",
+ "wikidata": "Q158462",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1964",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "southern rock",
+  "hard rock",
+  "rock",
+  "blues rock",
+  "classic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lynyrd_Skynyrd_band_%281973%29.jpg/500px-Lynyrd_Skynyrd_band_%281973%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Lynyrd_Skynyrd",
+ "resumo_pt": "Lynyrd Skynyrd é uma banda americana de Southern rock formada em 1964, na cidade de Jacksonville, Flórida. Tornou-se conhecida no sul dos Estados Unidos em 1973, ganhando maior notoriedade internacional principalmente após a morte de diversos integrantes e do seu vocalista, líder e principal compositor, Ronnie Van Zant, em um acidente aéreo ocorrido em 1977 próximo a Gillsburg, Mississipi.\nA banda retornou em 1987, tendo como líder Johnny Van Zant (irmão mais novo de Ronnie), e continua a gravar e a se apresentar até hoje. O grupo foi incluído no Hall da Fama do Rock and Roll em 13 de março de 2006. Ao longo de sua carreira a banda vendeu mais de 50 milhões de discos.",
+ "resumo_en": "Lynyrd Skynyrd ( LEH-nerd SKIN-nerd) is an American rock band formed in Jacksonville, Florida, in 1964. The group originally formed as My Backyard and comprised Ronnie Van Zant (vocals), Gary Rossington (guitar), Allen Collins (guitar), Larry Junstrom (bass), and Bob Burns (drums). The band spent four years touring small venues under various names and with several lineup changes before deciding on \"Lynyrd Skynyrd\" in 1968, and released its first album, (Pronounced 'Lĕh-'nérd 'Skin-'nérd), in 1973. By then it had settled on a lineup that included bassist Leon Wilkeson, keyboardist Billy Powell, and guitarist Ed King. Burns left and was replaced by Artimus Pyle in 1974. King left in 1975 and was replaced by Steve Gaines in 1976. At the height of the group's fame in the 1970s, it popularized the Southern rock genre with songs such as \"Sweet Home Alabama\" and \"Free Bird\". After releasing five studio albums and one live album, the band's career was abruptly halted on October 20, 1977, when its chartered airplane crashed, killing Ronnie Van Zant, Steve Gaines, and backup singer Cassie Gaines, and seriously injuring the rest of the band.\nLynyrd Skynyrd reformed in 1987 for a reunion tour with Ronnie's brother, Johnny Van Zant, as lead vocalist. The band continued to tour and record with Johnny Van Zant and Rickey Medlocke, who first wrote and recorded with the band from 1971 to 1972 before his return in 1996. Over the years, other founding members of the band have died either during",
+ "albuns": [
+  {
+   "id": "33446893-8c9f-30b6-aa73-d719df371430",
+   "titulo": "(pronounced ’lĕh-’nérd ’skin-’nérd)",
+   "data": "1973-08-13",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/22bae503-7d8a-4be3-89be-23316ef07a1b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Ain’t the One",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Tuesday’s Gone",
+     "duracao": "7:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Gimme Three Steps",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Simple Man",
+     "duracao": "5:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Things Goin’ On",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Mississippi Kid",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Poison Whiskey",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Free Bird",
+     "duracao": "9:08"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.5,
+    "fontes": 4
+   },
+   "publico": 8.6,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/%28Pronounced_%27L%C4%95h-%27n%C3%A9rd_%27Skin-%27n%C3%A9rd%29",
+   "resumo_en": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd) is the debut studio album by American rock band Lynyrd Skynyrd, released on August 13, 1973, by MCA Records. Recording took place in  Doraville, Georgia at Studio One, following a lengthy period of rehearsals. Prior to the album's conception, many of its songs were already featured in Lynyrd Skynyrd's live repertoire. To promote it, the band released \"Gimme Three Steps\" and \"Free Bird\" as singles; these, along with \"Simple Man\" and \"Tuesday's Gone\", are among the band's best-known songs.\n(Pronounced 'Lĕh-'nérd 'Skin-'nérd) received acclaim from music critics, and brought the band to the forefront of the Southern rock genre in the 1970s. The album peaked at 27 on the Billboard 200, and received gold and double platinum certifications from the Recording Industry Association of America (RIAA). It has appeared on several editions of Rolling Stone's list of the \"500 Greatest Albums of All Time\"."
+  },
+  {
+   "id": "cbff20dc-1ed7-3579-9a60-c705e88bdf19",
+   "titulo": "Second Helping",
+   "data": "1974-04-15",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/daa3a530-f353-455f-8d68-010988cb701b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweet Home Alabama",
+     "duracao": "4:42"
+    },
+    {
+     "n": 2,
+     "titulo": "I Need You",
+     "duracao": "6:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Ask Me No Questions",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Workin' for MCA",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "The Ballad of Curtis Loew",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Swamp Music",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "The Needle and the Spoon",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Call Me the Breeze",
+     "duracao": "5:23"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.2,
+    "fontes": 5
+   },
+   "publico": 8.4,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Second_Helping",
+   "resumo_en": "Second Helping is the second studio album by Lynyrd Skynyrd, released on April 15, 1974. It features the band's biggest hit single, \"Sweet Home Alabama\", an answer song to Neil Young's \"Alabama\" and \"Southern Man\", which reached No. 8 on the Billboard Hot 100 chart in August 1974.\nSecond Helping reached No. 12 on the Billboard album charts. The RIAA certified it Gold on September 20, 1974, and Double Platinum on July 21, 1987."
+  },
+  {
+   "id": "0174d5c3-5c7a-330f-aafe-ac7f0eef58d5",
+   "titulo": "Nuthin’ Fancy",
+   "data": "1975-03-24",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/219d4c78-8c69-4bc9-88c8-eeab96480387/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Saturday Night Special",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Cheatin’ Woman",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Railroad Song",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m a Country Boy",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "On the Hunt",
+     "duracao": "5:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Am I Losin’",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Made in the Shade",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Whiskey Rock-A-Roller",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nuthin%27_Fancy",
+   "resumo_en": "Nuthin' Fancy is the third studio album by Southern rock band Lynyrd Skynyrd, released in March 1975. It was the band's first to reach the top 10, peaking at number 9 on the U.S. album chart. It was certified gold on June 27, 1975 and platinum on July 21, 1987, by the RIAA. This was the band's first record with new drummer Artimus Pyle. In late May 1975, guitarist Ed King left the band in the middle of their \"Torture Tour.\" The album is best known for its only single, \"Saturday Night Special,\" which peaked at #27 on the U.S. Billboard chart."
+  },
+  {
+   "id": "4401bb2f-ca47-3091-9655-b5494a9b891b",
+   "titulo": "Gimme Back My Bullets",
+   "data": "1976-02-02",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/53eb9e27-7d76-4e83-8709-6c8259b8bfc4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gimme Back My Bullets",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Every Mother’s Son",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Trust",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "(I Got the) Same Old Blues",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Double Trouble",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Roll Gypsy Roll",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Searching",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Cry for the Bad Man",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "All I Can Do Is Write About It",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gimme_Back_My_Bullets",
+   "resumo_en": "Gimme Back My Bullets is the fourth studio album by American Southern rock band Lynyrd Skynyrd, released on February 2, 1976. Produced by Tom Dowd, it reached number 20 on the U.S. albums chart and was certified gold on January 20, 1981, by the RIAA."
+  },
+  {
+   "id": "b4592c16-10ff-38b1-8d56-16db4c0c0627",
+   "titulo": "Street Survivors",
+   "data": "1977-10-17",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/38e2a8c8-e00e-4cd3-bf7d-e33802f5f351/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What's Your Name",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "That Smell",
+     "duracao": "5:47"
+    },
+    {
+     "n": 3,
+     "titulo": "One More Time",
+     "duracao": "5:03"
+    },
+    {
+     "n": 4,
+     "titulo": "I Know a Little",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "You Got That Right",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "I Never Dreamed",
+     "duracao": "5:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Honky Tonk Night Time Man",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Ain't No Good Life",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Street_Survivors",
+   "resumo_en": "Street Survivors is the fifth studio album by the Southern rock band Lynyrd Skynyrd, released on October 17, 1977. The LP is the last Skynyrd album recorded by original members Ronnie Van Zant and Allen Collins, and is the sole Skynyrd studio recording by guitarist Steve Gaines. \nThree days after the album's release, the band's chartered airplane crashed en route to Baton Rouge, Louisiana, killing the pilot, co-pilot, the group's assistant road-manager and three band members (Van Zant, Gaines, and backup singer Cassie Gaines), and severely injuring most who survived the crash. The cover art for Street Survivors was modified after the airplane crash, as the original art showing the band standing before flaming buildings was deemed inappropriate. \nThe album was an instant success, achieving gold certification just 10 days after its release. It would later go double platinum. The album performed well on the charts, peaking at No. 5 (the band's highest-charting album), as did the singles \"What's Your Name\" and \"You Got That Right\", the former a top-20 hit on the singles chart."
+  },
+  {
+   "id": "9e07e583-4e1d-3efc-85e8-60ed0f15afda",
+   "titulo": "1991",
+   "data": "1991-06-11",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/d30268da-4490-36c7-a6d1-a7fe6e67a07f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smokestack Lightning",
+     "duracao": "4:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Keeping the Faith",
+     "duracao": "5:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Southern Women",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Pure & Simple",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ve Seen Enough",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Good Thing",
+     "duracao": "5:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Money Man",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Backstreet Crawler",
+     "duracao": "5:32"
+    },
+    {
+     "n": 9,
+     "titulo": "It’s a Killer",
+     "duracao": "3:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Mama (Afraid to Say Goodbye)",
+     "duracao": "6:45"
+    },
+    {
+     "n": 11,
+     "titulo": "End of the Road",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_1991",
+   "resumo_en": "Lynyrd Skynyrd 1991 is the sixth studio album by American Southern rock band Lynyrd Skynyrd. It was the band's first new studio album since 1977's Street Survivors and the first following a 1977 plane crash that killed three members of the band."
+  },
+  {
+   "id": "69d38d03-61b3-34ea-baf1-3b44dfe79c07",
+   "titulo": "The Last Rebel",
+   "data": "1993-02-16",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/4f212e57-51ff-49da-9857-b329497ca135/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Lovin's Hard to Find",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "One Thing",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Can't Take That Away",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Best Things in Life",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "The Last Rebel",
+     "duracao": "6:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Outta Hell in My Dodge",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Kiss Your Freedom Goodbye",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "South of Heaven",
+     "duracao": "5:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Don't Always Come Easy",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Born to Run",
+     "duracao": "7:25"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Rebel",
+   "resumo_en": "The Last Rebel is the seventh studio album by American rock band Lynyrd Skynyrd, released in 1993. It is the last album to feature drummer Kurt Custer and guitarist Randall Hall."
+  },
+  {
+   "id": "91ed07ef-f1c7-3fa7-8235-608cdb13c0b1",
+   "titulo": "Endangered Species",
+   "data": "1994-08-09",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/de754046-29b9-4911-b3fc-ab27d40f9b58/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down South Jukin'",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Heartbreak Hotel",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Devil in the Bottle",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Things Going On",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Saturday Night Special",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Sweet Home Alabama",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "I Ain't the One",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Am I Losin'?",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "All I Have Is a Song",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Poison Whiskey",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Good Luck, Bad Luck",
+     "duracao": "3:23"
+    },
+    {
+     "n": 12,
+     "titulo": "The Last Rebel",
+     "duracao": "5:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Hillbilly Blues",
+     "duracao": "3:42"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Endangered_Species_%28Lynyrd_Skynyrd_album%29",
+   "resumo_en": "Endangered Species is the eighth album by American Southern rock band Lynyrd Skynyrd. It was released in 1994 and features mostly acoustic instrumentation, as well as Ronnie Van Zant's younger brother, Johnny, as lead vocalist. Many of the songs are Lynyrd Skynyrd's best known songs, with new material released alongside. This is the last album to feature guitarist Ed King and the only one to feature guitarist Mike Estes."
+  },
+  {
+   "id": "075d9516-7725-3e61-bf57-a22053ae9948",
+   "titulo": "Twenty",
+   "data": "1997-04-22",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/50d8ae28-4816-3bf5-a05a-bee2156b8491/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We Ain’t Much Different",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Bring It On",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Voodoo Lake",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Home Is Where the Heart Is",
+     "duracao": "5:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Travelin’ Man",
+     "duracao": "4:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Talked Myself Right Into It",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Never Too Late",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "O.R.R.",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Blame It on a Sad Song",
+     "duracao": "5:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Berneice",
+     "duracao": "4:01"
+    },
+    {
+     "n": 11,
+     "titulo": "None of Us Are Free",
+     "duracao": "5:21"
+    },
+    {
+     "n": 12,
+     "titulo": "How Soon We Forget",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Twenty_%28Lynyrd_Skynyrd_album%29",
+   "resumo_en": "Twenty is the ninth studio album by American rock band Lynyrd Skynyrd, released in 1997. The title of the album refers to the fact that it had been twenty years since the plane crash which killed original lead singer Ronnie Van Zant, guitarist Steve Gaines, and backup singer Cassie Gaines.\nFor this album the band brought in two Southern rock veterans, Rickey Medlocke, who had been a drummer for the band briefly before forming Blackfoot, and Hughie Thomasson of the Outlaws. The track \"Travelin' Man\" is the first studio recording of the song from the original band's 1976 live album One More from the Road. Making use of modern technology, the band was able to use original singer Ronnie Van Zant's vocal tracks on parts of the song, in order to create a duet between Johnny and Ronnie. The album cover is a fictional drawing of Monument Valley on the Navajo reservation."
+  },
+  {
+   "id": "ce139d5a-012a-3091-a1af-5f44909eaf72",
+   "titulo": "Edge of Forever",
+   "data": "1999-08-03",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/26f058bf-010b-4979-b14f-a80d3a211fd6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Workin'",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Full Moon Night",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Preacher Man",
+     "duracao": "4:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Mean Streets",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Tomorrow's Goodbye",
+     "duracao": "5:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Edge of Forever",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Gone Fishin'",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Through It All",
+     "duracao": "5:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Money Back Guarantee",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "G.W.T.G.G.",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Rough Around the Edges",
+     "duracao": "5:06"
+    },
+    {
+     "n": 12,
+     "titulo": "FLA",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Edge_of_Forever",
+   "resumo_en": "Edge of Forever is the tenth studio album by Southern rock band Lynyrd Skynyrd. Released in 1999, it is the last album to feature bassist Leon Wilkeson before his death in 2001."
+  },
+  {
+   "id": "58aa943d-1acd-3df6-8df0-ecd28e116530",
+   "titulo": "Christmas Time Again",
+   "data": "2000-09-12",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/567a5304-3974-4fde-9b29-14fa79f7c2b6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Santa's Messin' With the Kid",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Rudolph the Red-Nosed Reindeer",
+     "duracao": "2:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Christmas Time Again",
+     "duracao": "4:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Greensleeves",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Santa Claus Is Coming to Town",
+     "duracao": "3:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Run Run Rudolph",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Mama's Song",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Santa Claus Wants Some Lovin'",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Classical Christmas",
+     "duracao": "2:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Hallelujah, It's Christmas",
+     "duracao": "4:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Skynyrd Family",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Time_Again",
+   "resumo_en": "Christmas Time Again is the eleventh studio album by American Southern rock band Lynyrd Skynyrd, released in 2000."
+  },
+  {
+   "id": "ad845b39-e68c-3ddc-8938-1ce0f2304226",
+   "titulo": "Vicious Cycle",
+   "data": "2003-05-19",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/56b7e87e-5ad4-4c68-838f-d613cc898127/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "That's How I Like It",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Pick 'em Up",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Man Walkin'",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "The Way",
+     "duracao": "5:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Red, White & Blue",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Sweet Mama",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "All Funked Up",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Hell or Heaven",
+     "duracao": "5:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Mad Hatter",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Rockin' Little Town",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Crawl",
+     "duracao": "5:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Jake",
+     "duracao": "3:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Life's Lessons",
+     "duracao": "5:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Lucky Man",
+     "duracao": "5:35"
+    },
+    {
+     "n": 15,
+     "titulo": "Gimme Back My Bullets",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 5.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vicious_Cycle_%28album%29",
+   "resumo_en": "Vicious Cycle is the twelfth studio album by Lynyrd Skynyrd, released in 2003. It was the first album recorded by the band following the death of original bassist Leon Wilkeson, who appears on two songs, \"The Way\" and \"Lucky Man\", and the song \"Mad Hatter\" is a tribute to him. The album is the first to feature bassist Ean Evans, the first mainstream album with Michael Cartellone on drums (who had previously appeared on Christmas Time Again), and the last album that guitarist Hughie Thomasson played on before he died. It included the single \"Red, White & Blue\" which peaked at number 27 on the US Mainstream Rock charts."
+  },
+  {
+   "id": "54509acd-3e77-48da-ab6b-32875576ac71",
+   "titulo": "God & Guns",
+   "data": "2009-09-21",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/6063744c-4350-4bd7-b750-fc1f33d42566/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Still Unbroken",
+     "duracao": "5:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Simple Life",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Thing Called You",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Southern Ways",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Skynyrd Nation",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Unwrite That Song",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Floyd",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "That Ain't My America",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Comin' Back for More",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "God & Guns",
+     "duracao": "5:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Storm",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Gifted Hands",
+     "duracao": "5:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Bang Bang",
+     "duracao": "3:10"
+    },
+    {
+     "n": 14,
+     "titulo": "Raining in My Heartland",
+     "duracao": "3:54"
+    },
+    {
+     "n": 15,
+     "titulo": "Hobo Kinda Man",
+     "duracao": "3:53"
+    },
+    {
+     "n": 16,
+     "titulo": "Red White & Blue (live)",
+     "duracao": "5:42"
+    },
+    {
+     "n": 17,
+     "titulo": "Call Me the Breeze (live)",
+     "duracao": "5:49"
+    },
+    {
+     "n": 18,
+     "titulo": "Sweet Home Alabama (live)",
+     "duracao": "6:25"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/God_%26_Guns",
+   "resumo_en": "God & Guns is the thirteenth studio album by the southern rock band Lynyrd Skynyrd, released on September 29, 2009.\nThe single \"Still Unbroken\" was released on July 27, 2009 followed by another track, \"Simple Life\", on August 4, 2009. \"Still Unbroken\" was written after the death of original bassist Leon Wilkeson in 2001. It was the theme song of WWE’s Breaking Point PPV event and is featured on WWE SmackDown vs. Raw 2010.\n\"God & Guns\" was the last Lynyrd Skynyrd album to feature the band's longtime keyboardist Billy Powell, who died in January 2009. Ean Evans, who had replaced Leon Wilkeson on bass, also died before this album came out. The late Hughie Thomasson (Dec. 2007) had contributed to the writing of many songs, but recording did not begin until 2008 and he does not play on the album. This album is the first with guitarist Mark Matejka. The album features guitar work from John 5.\nAlthough neither was present on the album, the CD booklet contains a picture of the group with the two new members: Peter Keys on keyboards and Robert Kearns on bass.\nThe album's title comes from its eighth track, \"God & Guns\", written by Mark Stephen Jones, Travis Meadows and Bud Tower, which was l"
+  },
+  {
+   "id": "aa9b21e4-dc12-424f-89f2-9ab63b5e619c",
+   "titulo": "Last of a Dyin’ Breed",
+   "data": "2012-08-17",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/dae8aa69-47e0-49e8-9be7-5c3ba881b46e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Last of a Dyin’ Breed",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "One Day at a Time",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Homegrown",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Ready to Fly",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Mississippi Blood",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Good Teacher",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Something to Live For",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Life’s Twisted",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Nothing Comes Easy",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Honey Hole",
+     "duracao": "4:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Start Livin’ Life Again",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 44,
+    "media": 4.8,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Last_of_a_Dyin%27_Breed",
+   "resumo_en": "Last of a Dyin' Breed is the fourteenth studio album by American Southern rock band Lynyrd Skynyrd.  The album was announced on May 2, 2012, for release on August 21, 2012, and September 17 in the UK. It is the first Lynyrd Skynyrd album to feature Peter Keys on keyboards and the only album to feature Johnny Colt on bass (he does not appear on the tracks, but is nevertheless credited) and features guest guitarist John 5. It was also the final album to feature guitarist Gary Rossington before his death in 2023. The first single, \"Last of a Dyin' Breed\", was made available to purchase via iTunes on July 9, 2012.\nLast of a Dyin' Breed peaked at No. 14 on the U.S. Billboard pop charts, topping the 2009 album God & Guns to become the band's highest-charting studio album since 1977's Street Survivors."
+  }
+ ]
+}

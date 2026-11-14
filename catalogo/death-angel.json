@@ -1,0 +1,700 @@
+{
+ "id": "death-angel",
+ "nome": "Death Angel",
+ "cena": "Thrash metal",
+ "mbid": "562ff334-c34f-45b0-a519-e5d171482df2",
+ "wikidata": "Q1181233",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1982",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "thrash metal",
+  "heavy metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Death_angel_saunaopenair2010.jpg/500px-Death_angel_saunaopenair2010.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Death_Angel",
+ "resumo_pt": "Death Angel é uma banda de thrash metal norte-americana da Califórnia, formada em 1982 na famosa  Bay Area de San Francisco. É umas das principais bandas do gênero ao lado de grandes nomes como Exodus, Metallica, Slayer,  Anthrax, Megadeth e Testament.\nUmas curiosidades da banda é que, quando foi formada, os integrantes: Mark Osegueda (Voz), Rob Cavestany (Guitarra), Gus Pepa (Guitarra), Dennis Pepa (Baixo) e Andy Galeon (Bateria), eram muito novos, sendo que o mais velho tinha 15 anos. Além disso, todos eles tem origem filipina e são primos de primeiro grau, exceto o vocalista Mark que é de segundo grau.",
+ "resumo_en": "Death Angel is a Filipino-American thrash metal band from San Francisco, California. They were originally active from 1982 to 1991, and again since 2001. They have released nine studio albums, two demo tapes, one box set, and three live albums. The band has gone through several lineup changes; lead guitarist Rob Cavestany has been the only constant member through the band's history. He and vocalist Mark Osegueda, who joined in 1984, are the only band members to appear on all of their studio albums.\nThe band initially rose to prominence in the Bay Area thrash metal scene of the 1980s, opening for Megadeth, Metallica, Slayer, Exodus, Testament, Overkill, D.R.I., Mercyful Fate and Possessed. They are credited as a leader of the second wave of thrash metal from the 1980s. Allmusic has described the band as part of the \"Big Eight\" – an expansion of the \"Big Four\" of thrash metal – alongside Testament, Exodus and Overkill. Following the underground success of their first two studio albums, The Ultra-Violence (1987) and Frolic Through the Park (1988), Death Angel signed to Geffen Records in 1989, and released its only album for the label, Act III, the following year.\nWhile touring in support of Act III, then-drummer Andy Galeon was injured in a bus accident and took over a year to recover. This resulted in the band's breakup in 1991. Death Angel reformed in 2001 without original rhythm guitarist Gus Pepa at the Thrash of the Titans benefit concert for Testament frontman Chuck Billy.",
+ "albuns": [
+  {
+   "id": "acdd9500-0d70-325a-84cc-5a1c1a7931e6",
+   "titulo": "The Ultra‐Violence",
+   "data": "1987-08-25",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/1e19bb51-1c57-3535-8c2a-dd62a42d3ddf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thrashers",
+     "duracao": "7:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Evil Priest",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Voracious Souls",
+     "duracao": "5:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Kill as One",
+     "duracao": "5:02"
+    },
+    {
+     "n": 5,
+     "titulo": "The Ultra-Violence",
+     "duracao": "10:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Mistress of Pain",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Final Death",
+     "duracao": "6:03"
+    },
+    {
+     "n": 8,
+     "titulo": "I.P.F.S.",
+     "duracao": "1:56"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Ultra-Violence",
+   "resumo_en": "The Ultra-Violence is the debut studio album by American thrash metal band Death Angel, released in 1987. The album was recorded while all members were under 20, with drummer Andy Galeon just 14 years old. It was mixed at George Tobin Studios in Hollywood, California."
+  },
+  {
+   "id": "6a0c02b6-d93d-37f6-a6cd-d0ff8b7f4c0c",
+   "titulo": "Frolic Through the Park",
+   "data": "1988-07",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/5f93b707-f8b2-308b-b95b-70f714ee9e9f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "3rd Floor",
+     "duracao": "4:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Road Mutants",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Why You Do This",
+     "duracao": "5:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Bored",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Devil's Metal",
+     "duracao": "5:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Confused",
+     "duracao": "7:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Guilty of Innocence",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Open Up",
+     "duracao": "5:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Shores of Sin",
+     "duracao": "6:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Cold Gin",
+     "duracao": "4:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Mind Rape",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frolic_Through_the_Park",
+   "resumo_en": "Frolic Through the Park is the second studio album by the American thrash metal band Death Angel, released in 1988. This was the band's last full-length studio album released on Enigma Records before signing to Geffen Records in 1989.\nIt is considered an essential release in the thrash metal genre."
+  },
+  {
+   "id": "7059bbf4-2586-3de6-9e7b-47d3c3a469a7",
+   "titulo": "Act III",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/0025d962-930f-4f42-b73f-c34c2d33f54d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seemingly Endless Time",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Stop",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Veil of Deception",
+     "duracao": "2:33"
+    },
+    {
+     "n": 4,
+     "titulo": "The Organization",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Discontinued",
+     "duracao": "5:52"
+    },
+    {
+     "n": 6,
+     "titulo": "A Room With a View",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Stagnant",
+     "duracao": "5:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Ex-TC",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Disturbing the Peace",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Falling Asleep",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Act_III_%28Death_Angel_album%29",
+   "resumo_en": "Act III is the third studio album by the thrash metal band Death Angel, released in 1990 on Geffen Records. This is the band's final studio album to feature guitarist Gus Pepa, and their only recording on Geffen. It was also their last studio album before their ten-year hiatus from 1991 to 2001."
+  },
+  {
+   "id": "1f1a6d67-7d25-3bad-b693-32656a30fe80",
+   "titulo": "The Art of Dying",
+   "data": "2004-04-26",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/d81cd8ad-7b33-4f0e-b771-7eb399af5c4c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thrown to the Wolves",
+     "duracao": "7:26"
+    },
+    {
+     "n": 2,
+     "titulo": "5 Steps of Freedom",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Thicker Than Blood",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "The Devil Incarnate",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Famine",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Prophecy",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "No",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Spirit",
+     "duracao": "6:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Land of Blood",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Never Me",
+     "duracao": "5:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Word to the Wise",
+     "duracao": "4:56"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Art_of_Dying_%28album%29",
+   "resumo_en": "The Art of Dying is the fourth studio album by the American thrash metal band Death Angel, released on May 4, 2004. It was the band's first album with original material in 14 years since 1990's Act III. The album reached number 50 on the Billboard Top Independent Albums chart in 2004.\n\nDeath Angel guitarist Rob Cavestany once explained the origin of the album title as follows: \"That was actually an idea that (drummer Andy) Galeon brought in. He had seen an interview with Bruce Lee around that time, and he was speaking about this philosophy that he had gotten from the Tibetan Book of the Dead (a.k.a. the Bardo Thodol). He was describing the passage about the path you choose in your life, and the way that you live your life as the art of dying. Whereas if you are living in a morbid kind of way as though you're just on your way to your death slowly but surely, every day that you walk the earth, well, becomes the art of dying. Sometimes it's just the way that you treat your life that determines your destiny.\" The Art of Dying sold around 2,100 copies in its first week in the U.S."
+  },
+  {
+   "id": "b195fe2d-55fa-328b-8693-b74d5d2cdc6c",
+   "titulo": "Killing Season",
+   "data": "2008-02-26",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/5d4d414a-01ac-45bb-ba96-4b5ad3bc55d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lord of Hate",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonic Beatdown",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Dethroned",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Carnival Justice",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Buried Alive",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Soulless",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "The Noose",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "When Worlds Collide",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "God vs. God",
+     "duracao": "4:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Steal the Crown",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Resurrection Machine",
+     "duracao": "6:58"
+    },
+    {
+     "n": 12,
+     "titulo": "The Ultraviolence, Part 1",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Seemingly Endless Time",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Voracious Souls",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Mistress of Pain",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "3rd Floor",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Evil Priest",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Stagnant",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Bored",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Kill as One",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.6,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Killing_Season_%28album%29",
+   "resumo_en": "Killing Season is the fifth album by the American thrash band Death Angel, released on February 26, 2008. Produced by Nick Raskulinecz (known for his work with Foo Fighters, Rush and Alice in Chains), it is the follow-up to the band's first reunion album, 2004's The Art of Dying, and marked the final Death Angel album to feature founding members Dennis Pepa and Andy Galeon. Killing Season sold around 2,300 copies in its first week in the U.S."
+  },
+  {
+   "id": "979874eb-eef1-4442-b059-9ec18d94c82c",
+   "titulo": "Relentless Retribution",
+   "data": "2010-09-03",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/6c3ee0a0-01ba-387b-a40a-ce1f150cde6a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Relentless Revolution",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Claws in So Deep",
+     "duracao": "7:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Truce",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Into the Arms of Righteous Anger",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "River of Rapture",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Absence of Light",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "This Hate",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Death of the Meek",
+     "duracao": "5:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Opponents at Sides",
+     "duracao": "6:21"
+    },
+    {
+     "n": 10,
+     "titulo": "I Chose the Sky",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Volcanic",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Where They Lay",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Relentless_Retribution",
+   "resumo_en": "Relentless Retribution is the sixth studio album by American thrash metal band Death Angel. The album was released September 3, 2010, in Europe (but not including the United Kingdom), on September 6 in the United Kingdom, and on September 14 in the United States. Its second track \"Claws in So Deep\" features an acoustic part performed by Rodrigo y Gabriela. This is Death Angel's first album with bassist Damien Sisson and drummer Will Carroll (replacing original members Dennis Pepa and Andy Galeon respectively), and their first collaboration with Jason Suecof, who has since produced the band's subsequent albums. The album sold 2,700 copies in its first week in the U.S."
+  },
+  {
+   "id": "e9b749d8-38b6-4f81-b2d5-9c483fcb5d13",
+   "titulo": "The Dream Calls for Blood",
+   "data": "2013-10-11",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/36e46254-b59e-4d5b-aa04-896a4a6728c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Left for Dead",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Son of the Morning",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Fallen",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "The Dream Calls for Blood",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Succubus",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Execution / Don't Save Me",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Caster of Shame",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Detonate",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Empty",
+     "duracao": "4:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Territorial Instinct / Bloodlust",
+     "duracao": "6:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Heaven and Hell",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.4,
+    "fontes": 9
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Dream_Calls_for_Blood",
+   "resumo_en": "The Dream Calls for Blood is the seventh studio album by American thrash metal band Death Angel. It was released on October 11, 2013, via Nuclear Blast. The album sold 5,400 copies in the U.S in its first week of release and reached number 72 on the Billboard 200, marking the first time in Death Angel's history that they cracked the Top 100 on the American charts."
+  },
+  {
+   "id": "cc937a5e-eda8-473b-b893-1c2e309fd2e0",
+   "titulo": "The Evil Divide",
+   "data": "2016-05-27",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/2fdd6e3d-7d5f-4fd1-988c-4542197f0bae/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Moth",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Cause for Alarm",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Lost",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Father of Lies",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Hell to Pay",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "It Can’t Be This",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Hatred United / United Hate",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Breakaway",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Electric Cell",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Let the Pieces Fall",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Evil_Divide",
+   "resumo_en": "The Evil Divide is the eighth studio album by the American thrash metal band Death Angel, released on May 27, 2016. This album marked the first time since Act III (1990) that Death Angel had not made any personnel changes in three consecutive studio albums, and their third collaboration with longtime producer Jason Suecof."
+  },
+  {
+   "id": "67c9a30c-a590-4971-8e3d-d76977eadb62",
+   "titulo": "Humanicide",
+   "data": "2019-05-31",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/4a07d8f9-1580-4f04-a3a1-51bf932d90e0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Humanicide",
+     "duracao": "5:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Divine Defector",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Aggressor",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "I Came for Blood",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Immortal Behated",
+     "duracao": "6:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Alive and Screaming",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "The Pack",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Ghost of Me",
+     "duracao": "4:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Revelation Song",
+     "duracao": "5:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Of Rats and Men",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": 6.5,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Humanicide",
+   "resumo_en": "Humanicide is the ninth studio album by the American thrash metal band Death Angel, released on May 31, 2019. Like their previous three studio albums, Humanicide was produced by Jason Suecof, while its release marks the first time the band had recorded more than three albums with the same lineup.\nIn November 2019, the title track was nominated for the Grammy Award for \"Best Metal Performance\", making it Death Angel's first ever Grammy nomination.\nIn October 2020, Death Angel released an acoustic version of \"Revelation Song\" on their EP Under Pressure."
+  }
+ ]
+}

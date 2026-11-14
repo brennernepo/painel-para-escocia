@@ -1,0 +1,513 @@
+{
+ "id": "planet-hemp",
+ "nome": "Planet Hemp",
+ "cena": "Rock brasileiro",
+ "mbid": "c42caf47-70e0-4c82-a262-3c9aa8e2b475",
+ "wikidata": "Q1141763",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1993",
+ "fim": "2025",
+ "ativa": false,
+ "generos": [
+  "hardcore punk",
+  "hip hop",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Planet_Hemp.png/500px-Planet_Hemp.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Planet_Hemp",
+ "resumo_pt": "Planet Hemp foi uma banda brasileira de rap rock, conhecido por iniciar a carreira dos rappers Marcelo D2 e BNegão por suas letras de apoio à legalidade da cannabis. A banda foi fundada no Rio de Janeiro em 1993, tendo como integrantes originais Marcelo D2, Skunk, Rafael, Formigão e Bacalhau.\nA banda se separou em 2001 por divergências entre os integrantes, e Marcelo D2 e BNegão focaram em seus projetos solo. Em 2018, a banda se reuniu e seguiu em turnê até o fim definitivo de suas atividades em 2025.",
+ "resumo_en": "Planet Hemp was a Brazilian rap rock band, formed in Rio de Janeiro, Brazil, in 1993, known for starting the career of rappers Marcelo D2 and B Negão for its lyrics supporting the legality of cannabis. The band's original members was Marcelo D2 (vocals), Skunk (vocals), Rafael Crespo (guitars), Formigão (bass) and Bacalhau (drums). The band broke up in 2001 due to differences between the band members, and Marcelo D2 and B Negão are increasing focus on their solo projects. Since 2012 the band reunited and released the album Jardineiros. in June of 2025, the band announced their disbandment and farewell tour.",
+ "albuns": [
+  {
+   "id": "2df4c3a6-c7c2-34d4-8871-1b5d6c3ae6ec",
+   "titulo": "Usuário",
+   "data": "1995-03-22",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/460aeed9-59b6-4ba7-9b3f-1214f56600f9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Não compre, plante!",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Porcos fardados",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Legalize já",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Deisdazseis",
+     "duracao": "0:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Phunky Buddha",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Maryjane",
+     "duracao": "2:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Planet Hemp",
+     "duracao": "0:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Fazendo a cabeça",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Futuro do país",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Mantenha o respeito",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "P... disfarçada",
+     "duracao": "2:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Speed Funk",
+     "duracao": "1:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Muthafuckin' Racists",
+     "duracao": "3:44"
+    },
+    {
+     "n": 14,
+     "titulo": "Dig dig dig (hempa)",
+     "duracao": "1:53"
+    },
+    {
+     "n": 15,
+     "titulo": "Skunk",
+     "duracao": "3:34"
+    },
+    {
+     "n": 16,
+     "titulo": "A culpa é de quem?",
+     "duracao": "3:47"
+    },
+    {
+     "n": 17,
+     "titulo": "Bala perdida",
+     "duracao": "9:59"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "eb683c19-476f-3891-986f-89a366b95b47",
+   "titulo": "Os cães ladram mas a caravana não pára",
+   "data": "1997-03-22",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/b8b78ebc-dcbb-4672-a356-5c73588f96b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Zerovinteum",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Queimando tudo",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Hip Hop Rio",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Bossa",
+     "duracao": "0:29"
+    },
+    {
+     "n": 5,
+     "titulo": "100% hardcore",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Biruta",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Mão na cabeça",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "O bicho tá pegando",
+     "duracao": "2:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Adoled (The Ocean)",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Seus amigos",
+     "duracao": "1:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Paga pau",
+     "duracao": "3:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Rappers reais",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Nega do cabelo duro",
+     "duracao": "2:01"
+    },
+    {
+     "n": 14,
+     "titulo": "Hemp Family",
+     "duracao": "3:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Quem me cobrou?",
+     "duracao": "2:01"
+    },
+    {
+     "n": 16,
+     "titulo": "Se liga",
+     "duracao": "6:51"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "f0481d18-27c6-33e6-b07f-4a5186289c56",
+   "titulo": "A invasão do sagaz homem fumaça",
+   "data": "2000-03-22",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/aa6c218d-edf7-4293-9ce9-731756e0dd6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "12 com dezoito",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Ex-quadrilha da fumaça",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Teste drive de freio de camburão",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Procedência C.D.",
+     "duracao": "1:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Stab",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Four Track",
+     "duracao": "0:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Gorilla Grip",
+     "duracao": "2:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Contexto",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Dz Cuts",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Raprockandrollpsicodeliahardcoregga",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Quem tem seda?",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "É isso que eu tenho no sangue...",
+     "duracao": "3:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Quarta de cinzas",
+     "duracao": "3:25"
+    },
+    {
+     "n": 14,
+     "titulo": "HC3",
+     "duracao": "2:17"
+    },
+    {
+     "n": 15,
+     "titulo": "O sagaz homem fumaça",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "506ef2f7-3ba3-4578-8b0f-9124b618c511",
+   "titulo": "Jardineiros",
+   "data": "2022-10-21",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/30d6d963-604f-450a-8b63-387e575c2897/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Marcelo Yuka",
+     "duracao": "0:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Distopia",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Taca Fogo",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Puxa Fumo",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "O Ritmo e a Raiva",
+     "duracao": "2:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Jardineiro",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Amnésia",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Meu Barrio",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Fim do Fim",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Eles Sentem Também",
+     "duracao": "2:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Ainda",
+     "duracao": "3:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Remedinho",
+     "duracao": "1:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Veias Abertas",
+     "duracao": "3:39"
+    },
+    {
+     "n": 14,
+     "titulo": "Planeta Maconha",
+     "duracao": "0:38"
+    },
+    {
+     "n": 15,
+     "titulo": "Onda Forte",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "b474c99e-2d07-407c-838f-19349b4bf7e5",
+   "titulo": "Jardineiros: A Colheita",
+   "data": "2023-08-16",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/86805e06-cd8a-4fb3-b374-87e43ed06d1a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Não Vamos Desistir (feat. Black Alien)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Marcelo Yuka (feat. Marcelo Yuka)",
+     "duracao": "0:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Distopia (feat. Criolo)",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Taca Fogo",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Puxa Fumo",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Nunca Tenha Medo (feat. Posdnuos)",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Jardineiro (feat. Sekobass)",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Amnésia",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Fim do Fim",
+     "duracao": "2:15"
+    },
+    {
+     "n": 10,
+     "titulo": "O Ritmo e a Raiva (feat. Black Alien)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Meu Barrio (feat. Trueno)",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Salve Kalunga (feat. Cabeça)",
+     "duracao": "1:20"
+    },
+    {
+     "n": 13,
+     "titulo": "Eles Sentem Também",
+     "duracao": "2:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Ainda RMX (feat. Tropkillaz)",
+     "duracao": "3:34"
+    },
+    {
+     "n": 15,
+     "titulo": "Planeta Maconha",
+     "duracao": "0:39"
+    },
+    {
+     "n": 16,
+     "titulo": "Onda Forte RMX (feat. Kamau)",
+     "duracao": "3:44"
+    },
+    {
+     "n": 17,
+     "titulo": "Remedinho",
+     "duracao": "1:42"
+    },
+    {
+     "n": 18,
+     "titulo": "Veias Abertas (feat. Tantão e os Fita)",
+     "duracao": "3:38"
+    },
+    {
+     "n": 19,
+     "titulo": "Ninguém Segura a Gente",
+     "duracao": "1:21"
+    },
+    {
+     "n": 20,
+     "titulo": "Pra Ver as Cores do Mundo",
+     "duracao": "5:59"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

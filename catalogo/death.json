@@ -1,0 +1,462 @@
+{
+ "id": "death",
+ "nome": "Death",
+ "cena": "Groove, death e além",
+ "mbid": "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+ "wikidata": "Q192843",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1984",
+ "fim": "1998",
+ "ativa": false,
+ "generos": [
+  "death metal",
+  "technical death metal",
+  "progressive metal",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Death_Mexico_06-89.jpg/500px-Death_Mexico_06-89.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Death_%28banda%29",
+ "resumo_pt": "Death foi uma banda de death metal dos Estados Unidos, originária de Orlando, Flórida, fundada em 1983 e considerada uma das principais desenvolvedoras e difusoras do death metal. Seu vocalista e guitarrista, Chuck Schuldiner, foi um dos primeiros a usar vocais guturais ativamente, e sua técnica de guitarra é citada por muitos músicos como inspiração. A banda teve seu fim em 1998, após Schuldiner iniciar um novo projeto de heavy metal chamado Control Denied.",
+ "resumo_en": "Death was an American death metal band formed in Altamonte Springs, Florida, in 1983 by guitarist Chuck Schuldiner (who later became the band's sole vocalist), drummer/vocalist Kam Lee, and guitarist Rick Rozz. Formed out of what would become the Florida death metal scene, Death is considered a pioneering death metal band. The band's 1987 debut album, Scream Bloody Gore, is regarded as one of the first death metal records, alongside the first records from Possessed and Necrophagia.\nDeath had a fluctuating lineup, with Schuldiner, aside from a European tour, the sole consistent member. The group's style progressed from the raw sound on its first two albums to a more complex one in its later stage. The band disbanded after Schuldiner died of glioma and pneumonia in December 2001, but remains an enduring influence on death metal.",
+ "albuns": [
+  {
+   "id": "4b2378ca-9617-3b4a-bac3-dcc23a0467bf",
+   "titulo": "Scream Bloody Gore",
+   "data": "1987-05-25",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/24c508ea-cd4a-41d7-892e-9061582768a6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Infernal Death",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Zombie Ritual",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Denial of Life",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Sacrificial",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Mutilation",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Regurgitated Guts",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Baptized in Blood",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Torn to Pieces",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Evil Dead",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Scream Bloody Gore",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": 8.3,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scream_Bloody_Gore",
+   "resumo_en": "Scream Bloody Gore is the debut studio album by American death metal band Death, released on May 25, 1987, by Combat Records. It is considered by many to be \"the first true death metal record\". Chuck Schuldiner, the band’s co-founder and leader, performed guitar, bass and vocals, and composed all tracks on the album.\nJohn Hand is noted in the album's credits as playing rhythm guitar, though this was incorrect and Hand was only in the band for a short period and never performed or recorded on the album. This is the only Death album to feature drummer Chris Reifert, who had joined for the Mutilation demo, and the only Death album that was not recorded at Morrisound Recording.\nPerseverance Holdings, Ltd. and Relapse Records reissued the album on May 20, 2016, on CD, vinyl, and cassette. The album was remastered for this release, and also included the original Florida session as well as recordings of rehearsals performed in 1986."
+  },
+  {
+   "id": "e4f11dc7-ed0c-4fb2-bdf7-b1a6240bd167",
+   "titulo": "Leprosy",
+   "data": "1988-11-16",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/66cf03f1-0f8f-3e14-a405-812e9a39173a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Leprosy",
+     "duracao": "6:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Born Dead",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Forgotten Past",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Left to Die",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Pull the Plug",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Open Casket",
+     "duracao": "4:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Primitive Ways",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Choke on It",
+     "duracao": "5:54"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.6,
+    "fontes": 3
+   },
+   "publico": 8.2,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leprosy_%28album%29",
+   "resumo_en": "Leprosy is the second studio album by American death metal band Death, released on August 12, 1988, by Combat Records. The album is notable in its different tone and quality from the band's debut album Scream Bloody Gore (1987), and is the first example of producer and engineer Scott Burns' work heard on many of the death metal and grindcore albums of that era.\nIt is also the first Death album to feature drummer Bill Andrews, and is the band's only studio album to feature guitarist Rick Rozz.\nShaun Lindsley of Metal Hammer said \"with Scream Bloody Gore having set a new standard in extremity, [...] Leprosy would end up being the final nail in Death's thrash-tinged coffin.\" It is considered to be a groundbreaking achievement in the genre, and was voted the 64th best Hard Rock or Metal album of the 80s by Loudwire."
+  },
+  {
+   "id": "ecc036f3-d7c6-3594-a19f-e6ca76c15f29",
+   "titulo": "Spiritual Healing",
+   "data": "1990-02-16",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/5522578a-3d27-49b5-a0a7-b0d67e72c63b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Living Monstrosity",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Altering the Future",
+     "duracao": "5:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Defensive Personalities",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Within the Mind",
+     "duracao": "5:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Spiritual Healing",
+     "duracao": "7:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Low Life",
+     "duracao": "5:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Genetic Reconstruction",
+     "duracao": "4:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Killing Spree",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 7
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Spiritual_Healing_%28album%29",
+   "resumo_en": "Spiritual Healing is the third studio album by American death metal band Death, released on February 16, 1990, by Combat Records.  It is the band's only album to feature both guitarist James Murphy and bassist Terry Butler and the last to feature drummer Bill Andrews. The album marked a shift in style and content for the band, lyrically focusing on social evils and musically being more technical, as opposed to the gore-centered, straightforward death metal of their previous two albums. Due to this shift, the album received polarizing reception upon release."
+  },
+  {
+   "id": "6346903b-4480-3b0f-adef-90fe0b338509",
+   "titulo": "Human",
+   "data": "1991-10-22",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/23b8342a-953a-3ab8-9c20-8ca5fc753968/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flattening of Emotions",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Suicide Machine",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Together as One",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Secret Face",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Lack of Comprehension",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "See Through Dreams",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Cosmic Sea",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Vacant Planets",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 4
+   },
+   "publico": 8.6,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Human_%28Death_album%29",
+   "resumo_en": "Human is the fourth studio album by American death metal band Death, released on October 22, 1991, by Relativity Records in the United States, while on Roadrunner Records in Europe/Internationally. This is the only album to feature Cynic members Paul Masvidal on guitar and Sean Reinert on drums, and the first to feature bassist Steve Di Giorgio. The album continued the band's evolution on Spiritual Healing, featuring high technicality and introspective lyrics. It is today regarded as one of Death's greatest albums and one of the most influential technical death metal albums of all time."
+  },
+  {
+   "id": "94554b6c-2d9e-3174-89f0-94aec0b285e9",
+   "titulo": "Individual Thought Patterns",
+   "data": "1993-06-22",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/7308f36a-4389-3d7a-af05-f1e65d666659/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overactive Imagination",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "In Human Form",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Jealousy",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Trapped in a Corner",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Nothing Is Everything",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Mentally Blind",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Individual Thought Patterns",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Destiny",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Out of Touch",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "The Philosopher",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 6
+   },
+   "publico": 9.0,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Individual_Thought_Patterns",
+   "resumo_en": "Individual Thought Patterns is the fifth studio album by American death metal band Death, released on June 22, 1993, by Relativity Records. It is the only album by the band to feature guitarist Andy LaRocque, the first to feature drummer Gene Hoglan and the second and last to feature bassist Steve Di Giorgio. The album expands upon the technical death metal of the band's previous album, Human, and has been described as \"one of the genre's most forward-thinking pieces,\" by Invisible Oranges.\nThe album has received both contemporary and retrospective acclaim, and contains the track \"The Philosopher\", for which a music video was made that received significant airplay on MTV."
+  },
+  {
+   "id": "bd675025-abcb-3536-9e19-ba3204c0183d",
+   "titulo": "Symbolic",
+   "data": "1995-03-21",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/127e2097-c2e4-476f-b4f7-f424a716c419/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Symbolic",
+     "duracao": "6:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Zero Tolerance",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Empty Words",
+     "duracao": "6:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Sacred Serenity",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "1,000 Eyes",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Without Judgement",
+     "duracao": "5:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Crystal Mountain",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Misanthrope",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Perennial Quest",
+     "duracao": "8:20"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.6,
+    "fontes": 8
+   },
+   "publico": 8.5,
+   "publico_votos": 19,
+   "wikipedia": "https://en.wikipedia.org/wiki/Symbolic_%28Death_album%29",
+   "resumo_en": "Symbolic is the sixth studio album by American death metal band Death, released on March 21, 1995, by Roadrunner Records. The album marked a shift towards melodic death metal, while still retaining elements of technical death metal. It is the only album to feature Bobby Koelble and Kelly Conlon on guitar and bass, respectively, and the second and last album to feature drummer Gene Hoglan.\nThe album has received widespread critical acclaim, and is regarded as one of the greatest death metal albums of all time. The album was remastered and reissued on April 1, 2008, with five bonus tracks."
+  },
+  {
+   "id": "0cd38da9-90a9-3e0b-bef6-e70036c8a619",
+   "titulo": "The Sound of Perseverance",
+   "data": "1998-09-15",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/64e97617-809e-4fa1-9e5f-da940351ad8f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Scavenger of Human Sorrow",
+     "duracao": "6:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Bite the Pain",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Spirit Crusher",
+     "duracao": "6:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Story to Tell",
+     "duracao": "6:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Flesh and the Power It Holds",
+     "duracao": "8:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Voice of the Soul",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "To Forgive Is to Suffer",
+     "duracao": "5:55"
+    },
+    {
+     "n": 8,
+     "titulo": "A Moment of Clarity",
+     "duracao": "7:21"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 6
+   },
+   "publico": 9.3,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Sound_of_Perseverance",
+   "resumo_en": "The Sound of Perseverance is the seventh and final studio album by American death metal band Death, released on August 31, 1998, by Nuclear Blast. The album featured guitarist Shannon Hamm, drummer Richard Christy, and bassist Scott Clendenin for the first and only time. It was also Death's final studio album, as Chuck Schuldiner died due to brain cancer-related issues in 2001, and Death subsequently disbanded. It is considered to be one of the most accomplished releases in Death's discography, and has been called one of the greatest heavy metal albums of all time by AllMusic reviewer Jason Hundey."
+  }
+ ]
+}

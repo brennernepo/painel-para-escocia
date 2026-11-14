@@ -1,0 +1,1404 @@
+{
+ "id": "sodom",
+ "nome": "Sodom",
+ "cena": "Thrash metal",
+ "mbid": "2251718f-7b5c-4a92-9267-895125c594d3",
+ "wikidata": "Q156523",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1981",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "thrash metal",
+  "black metal",
+  "speed metal",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Sodom_Rockharz_2018_06.jpg/500px-Sodom_Rockharz_2018_06.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Sodom",
+ "resumo_pt": "Sodom é uma banda alemã de thrash metal formada em Gelsenkirchen em 1981. Juntamente com Kreator, Destruction e Tankard, forma o Big 4 do thrash metal alemão. O Sodom viria a servir de grande influência para a cena do black metal dos anos 1990, bem como para o metal extremo em geral, em razão de seus primeiros lançamentos, como In the Sign of Evil e Obsessed by  Cruelty. A partir do disco Persecution Mania de 1987, que acabou virando um clássico, seus álbuns ficaram mais focados no thrash metal.\nCom mais de trinta anos de carreira, o Sodom já lançou quatorze álbuns de estúdio, três álbuns ao vivo, duas coletâneas e  seis EPs. Eles atingiram seu primeiro sucesso comercial com seu terceiro disco, Agent Orange (1989), o qual foi o primeiro álbum de thrash metal  a chegar às paradas musicais  alemãs, alcançando a posição 36. Permanecendo como uma das bandas de thrash metal mais bem sucedidas da história, até 2001 o Sodom já havia vendido mais de um milhão de cópias mundialmente.",
+ "resumo_en": "Sodom is a German thrash metal band from Gelsenkirchen, formed in 1982. They have gone through various line-up changes. Bassist/vocalist Thomas \"Tom Angelripper\" Such is the only constant member. The band is currently composed of Such, guitarists Frank \"Blackfire\" Gosdzik (a member from 1987 to 1989 and again since 2018) and Yorck Segatz, and drummer Toni Merkel. Sodom has been referred to as one of the \"Big Four\" of Teutonic thrash metal, along with Kreator, Destruction and Tankard. Sodom influenced the German black metal scene, and is regarded as a death metal pioneer. Referred to as the most Venom-blackened of Germany's \"Three Kings\" (Destruction and Kreator are the other two), Sodom merged thrash and death metal into a \"wicked and decadent sound.\"\nSodom has released sixteen studio albums, three live albums, two compilation albums and seven EPs. They achieved commercial success with their third studio album, Agent Orange (1989), one of the first thrash metal albums to enter the German album charts, reaching number 36. Their most recent studio album, The Arsonist, was released on 27 June 2025. Sodom is one of the best-selling thrash metal acts of all time, having sold over two million records.",
+ "albuns": [
+  {
+   "id": "2d3ed712-2e1a-3b4c-aae7-9dfdee036843",
+   "titulo": "Obsessed by Cruelty",
+   "data": "1986-05",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/c57bbafe-be82-3f29-96d2-aa98c9027d04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro (The Rebirth...)",
+     "duracao": "1:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Deathlike Silence",
+     "duracao": "5:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Brandish the Sceptre",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Proselytism Real",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Equinox",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Obsessed by Cruelty",
+     "duracao": "5:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Fall of Majesty Town",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Nuctemeron",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Pretenders to the Throne",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Witchhammer",
+     "duracao": "2:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Volcanic Slut",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Obsessed_by_Cruelty",
+   "resumo_en": "Obsessed by Cruelty is the debut full-length studio album and second release by German thrash metal band Sodom, released in 1986. A European and an American version of the album exist, released by Steamhammer and Metal Blade Records."
+  },
+  {
+   "id": "d2d3f0ec-89f5-3fe0-98a6-9c033522a791",
+   "titulo": "Persecution Mania",
+   "data": "1987-12-01",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/6f944807-20b8-45df-98e8-67e9829d359d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nuclear Winter",
+     "duracao": "5:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Electrocution",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Iron Fist",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Persecution Mania",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Enchanted Land",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Procession to Golgatha",
+     "duracao": "2:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Christ Passion",
+     "duracao": "6:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Conjuration",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Bombenhagel",
+     "duracao": "5:04"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Persecution_Mania",
+   "resumo_en": "Persecution Mania is the second studio album by German thrash metal band Sodom, released on 1 December 1987 by Steamhammer/SPV. The album marked a change from thrash metal, speed metal and black metal to mostly just thrash metal. It defined Sodom's sound and exemplified the thrash metal genre at a time when it arguably peaked in popularity. The album bore similarities to the music of other German bands such as Destruction and Kreator, from which the term \"Teutonic\" thrash was coined.\nDespite what the cover may imply, the lyrical themes of the album are centred more around politics and war than religion. This is largely due to guitarist Frank \"Blackfire\" Gosdzik joining the band. He brought new songwriting aspects to the band that gave it a much more organized and clearer sound, as well as helping Sodom to carve a lyrical niche that it still practices to this day. The outro guitar lead in track 9, \"Bombenhagel\", is the German national anthem, \"Das Lied der Deutschen\".\nPersecution Mania was re-released in 2000 as part of a double pack with the Obsessed by Cruelty/In the Sign of Evil split. Both CD releases include the Expurse of Sodomy EP."
+  },
+  {
+   "id": "bfdb97ce-02a2-31de-8a95-43664d771d4c",
+   "titulo": "Agent Orange",
+   "data": "1989-06-01",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/15ad6250-17ee-4cde-8dcf-d3c890706fc3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Agent Orange",
+     "duracao": "6:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Tired and Red",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Incest",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Remember the Fallen",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Magic Dragon",
+     "duracao": "6:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Exhibition Bout",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Ausgebombt",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Baptism of Fire",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Walk Away",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 9.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Agent_Orange_%28album%29",
+   "resumo_en": "Agent Orange is the third studio album by German thrash metal band Sodom, released on 1 June 1989 by SPV/Steamhammer. It was their last album with guitarist Frank Blackfire (who would join Kreator) until his return in 2018. The lyrical content delves into the Vietnam War, with a song dedicated to the ground assault aircraft AC-47 as well as the Agent Orange defoliant-inspired title-track. It was their first album to enter the German album charts, where it reached number 36. Agent Orange sold 100,000 copies in Germany alone and marked the band's commercial breakthrough. The song \"Ausgebombt\" was released on the EP Ausgebombt with German lyrics.\nIn March 2010, Agent Orange was re-released in a digipak with bonus tracks and liner notes containing lyrics and rare photos.\nIt is considered to be an essential release in the genre by Revolver."
+  },
+  {
+   "id": "89bbb8c5-dd05-3a99-b849-ea02a2dbbd06",
+   "titulo": "Better Off Dead",
+   "data": "1990-10-01",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/45732281-4069-4b6e-a911-fd49bdedc59a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "An Eye for an Eye",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Shellfire Defense",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "The Saw Is the Law",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Turn Your Head Around",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Capture the Flag",
+     "duracao": "6:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Cold Sweat",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Bloodtrails",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Never Healing Wound",
+     "duracao": "2:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Better Off Dead",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Resurrection",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Tarred and Feathered",
+     "duracao": "3:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Stalinorgel",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Better_Off_Dead_%28album%29",
+   "resumo_en": "Better Off Dead is the fourth studio album by German thrash metal band Sodom, released on 1 October 1990 by Steamhammer/SPV. The song \"The Saw Is the Law\" in an altered version that was released on the EP The Saw Is the Law."
+  },
+  {
+   "id": "65e14325-ddb3-3d0d-b093-07c11ff1ff0f",
+   "titulo": "Tapping the Vein",
+   "data": "1992-08-01",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/7eaa160e-8bd5-4426-b898-4e8e0e00257e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Body Parts",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Skinned Alive",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "One Step Over the Line",
+     "duracao": "5:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Deadline",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Bullet in the Head",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "The Crippler",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Wachturm",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Tapping the Vein",
+     "duracao": "5:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Back to War",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Hunting Season",
+     "duracao": "4:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Reincarnation",
+     "duracao": "7:49"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tapping_the_Vein_%28album%29",
+   "resumo_en": "Tapping the Vein is the fifth studio album by German thrash metal band Sodom, released in August 1992 through Steamhammer/SPV. The album was recorded with producer Harris Johns at Dierks Studios in Cologne, Germany. The release marks the studio debut of guitarist Andy Brings and is the last album to feature original member Chris Witchhunter on drums. \nThe album represents a return to a heavy and fast-paced musical direction, and features notable death metal characteristics.\n\nTapping the Vein received positive reviews from critics, who noted the band's efforts in modernising their sound. The album peaked at number 56 on Germany's Official Top 100 Charts, and was promoted on a tour throughout Europe and Japan in 1992."
+  },
+  {
+   "id": "65dfd274-92eb-39b5-867a-ee5df9825c51",
+   "titulo": "Get What You Deserve",
+   "data": "1994-01-10",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/05fd3241-d815-4b3a-ab83-3d447ff08348/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get What You Deserve",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Jabba the Hut",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Jesus Screamer",
+     "duracao": "1:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Delight in Slaying",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Die stumme Ursel",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Freaks of Nature",
+     "duracao": "2:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Eat Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Unbury the Hatchet",
+     "duracao": "2:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Into Perdition",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Sodomized",
+     "duracao": "2:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Fellows in Misery",
+     "duracao": "2:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Tribute to Moby Dick",
+     "duracao": "4:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Silence Is Consent",
+     "duracao": "2:30"
+    },
+    {
+     "n": 14,
+     "titulo": "Erwachet!",
+     "duracao": "2:17"
+    },
+    {
+     "n": 15,
+     "titulo": "Gomorrah",
+     "duracao": "2:19"
+    },
+    {
+     "n": 16,
+     "titulo": "Angel Dust",
+     "duracao": "2:40"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Get_What_You_Deserve",
+   "resumo_en": "Get What You Deserve is the sixth studio album by German thrash metal band Sodom, released on 10 January 1994 via Steamhammer/SPV. This was the band's last album to feature guitarist Andy Brings, and their first release with drummer Guido \"Atomic Steif\" Richter as the replacement of founding member Christian \"Witchhunter\" Dudek. Get What You Deserve finds Sodom continuing their experimentation, although it bypasses the death metal sound of its predecessor Tapping the Vein in favor of a more crossover influenced approach, while still retaining their thrash metal sound."
+  },
+  {
+   "id": "ecfaad63-35fe-3ca1-b1cb-ee6bd10320aa",
+   "titulo": "Masquerade in Blood",
+   "data": "1995-06-01",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/0cbf0a29-680b-469b-9926-7c651f19e487/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Masquerade in Blood",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Gathering of Minds",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Fields of Honour",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Braindead",
+     "duracao": "2:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Verrecke!",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadow of Damnation",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Peacemaker’s Law",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Murder in My Eyes",
+     "duracao": "2:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Unwanted Youth",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Mantelmann",
+     "duracao": "2:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Scum",
+     "duracao": "5:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Hydrophobia",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Let’s Break the Law",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Masquerade_in_Blood",
+   "resumo_en": "Masquerade in Blood is the seventh studio album by German thrash metal band Sodom, released on 1 June 1995 via Steamhammer/SPV. Musically, Masquerade is often seen as the band's rawest and heaviest record, and continues in the same vein as that of their previous album, but in a more post-thrash fashion."
+  },
+  {
+   "id": "8592f8c8-d2bf-3034-b06c-9b78b1e95b51",
+   "titulo": "’Til Death Do Us Unite",
+   "data": "1997-02-24",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/624d90c2-70d7-4f13-80ab-4b309fe0a10b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Frozen Screams",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Fuck the Police",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Gisela",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "That’s What an Unknown Killer Diarized",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Hanging Judge",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "No Way Out",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Polytoximaniac",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "’Til Death Do Us Unite",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Hazy Shade of Winter",
+     "duracao": "1:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Suicidal Justice",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Wander in the Valley",
+     "duracao": "3:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Sow the Seeds of Discord",
+     "duracao": "2:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Master of Disguise",
+     "duracao": "3:03"
+    },
+    {
+     "n": 14,
+     "titulo": "Schwerter zu Pflugscharen",
+     "duracao": "4:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Hey, Hey, Hey Rock ’n’ Roll Star",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/%27Til_Death_Do_Us_Unite",
+   "resumo_en": "'Til Death Do Us Unite is the eighth studio album by German thrash metal band Sodom. It was released on 24 February 1997 by Steamhammer/SPV. It is the first Sodom album with guitarist Bernermann and drummer Bobby Schottkowski.\nA video was made for the song \"Fuck the Police\"."
+  },
+  {
+   "id": "4d5998e7-3ccb-3772-92d0-2a880ae78667",
+   "titulo": "Code Red",
+   "data": "1999-05-31",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/5698397a-563c-31c4-b3a5-3044875419b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "0:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Code Red",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "What Hell Can Create",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Tombstone",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Liquidation",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Spiritual Demise",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Warlike Conspiracy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Cowardice",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "The Vice of Killing",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Visual Buggery",
+     "duracao": "3:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Book Burning",
+     "duracao": "2:34"
+    },
+    {
+     "n": 12,
+     "titulo": "The Wolf & The Lamb",
+     "duracao": "3:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Addicted to Abstinence",
+     "duracao": "2:06"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Code_Red_%28Sodom_album%29",
+   "resumo_en": "Code Red is the ninth studio album by German thrash metal band Sodom, released on 31 May 1999 via Drakkar Entertainment. On this album, Sodom returned to classic thrash metal which pleased many fans. It was also released as a two-disc limited edition with a Sodom tribute album called Homage to the Gods and as a two-disc edition with an Onkel Tom Angelripper's album called Ich glaub' nicht an den Weihnachtsmann."
+  },
+  {
+   "id": "cebd5128-fc9d-3b6a-908e-10038d6b6f59",
+   "titulo": "M‐16",
+   "data": "2001-10-22",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/6b5b8dd1-bd13-411e-a4dc-e4faf06e22a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Among the Weirdcong",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "I Am the War",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Napalm in the Morning",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Minejumper",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Genocide",
+     "duracao": "4:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Boy",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "M-16",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Lead Injection",
+     "duracao": "6:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Cannon Fodder",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Marines",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Surfin’ Bird",
+     "duracao": "2:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Witching Metal",
+     "duracao": "3:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Devils Attack",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "media": 8.2,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/M-16_%28album%29",
+   "resumo_en": "M-16 is the tenth studio album by German thrash metal band Sodom, released on 22 October 2001 by Steamhammer Records. The album is a concept album about the Vietnam War and is named after the rifle used by many U.S. soldiers during the war."
+  },
+  {
+   "id": "09e8ec76-cb33-3171-8a5e-f95e5680f074",
+   "titulo": "Sodom",
+   "data": "2006-04-21",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/67e11c57-dee8-326a-b82a-2baabc52b076/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blood on Your Lips",
+     "duracao": "4:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Wanted Dead",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Buried in the Justice Ground",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "City of God",
+     "duracao": "4:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Bibles and Guns",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Axis of Evil",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Lords of Depravity",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "No Captures",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Lay Down the Law",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Nothing to Regret",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "The Enemy Inside",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sodom_%28album%29",
+   "resumo_en": "Sodom is the eleventh album by German thrash metal band Sodom, released on 21 April 2006. The first pressing was in a slipcase and includes a full-colour poster of the artwork. \"The album is self-titled,\" Tom Angelripper explains, \"because every band needs a self-titled album.\""
+  },
+  {
+   "id": "76890324-6ad7-3f58-b12a-c3309217bfaf",
+   "titulo": "The Final Sign of Evil",
+   "data": "2007-09-28",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/a30a9957-fb70-40c0-bde1-86909a3ae1cb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Sin of Sodom",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Blasphemer",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Bloody Corpse",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Witching Metal",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Sons of Hell",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Burst Command ’til War",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Where Angels Die",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Sepulchral Voice",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Hatred of the Gods",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Ashes to Ashes",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Outbreak of Evil",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Defloration",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Final_Sign_of_Evil",
+   "resumo_en": "The Final Sign of Evil is the twelfth studio album by German thrash metal band Sodom, released in 2007. The album includes re-recorded songs from In the Sign of Evil as well as seven songs originally written for it, but not recorded due to the label's inability to pay for studio time. As a result, In the Sign of Evil was released as an EP with the original versions of the tracks rather than a full-length album."
+  },
+  {
+   "id": "9c37448d-9a48-4210-9689-92cd5eb0d044",
+   "titulo": "In War and Pieces",
+   "data": "2010-11-19",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/7ed0be6c-0305-344f-aaba-6908d646544e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In War and Pieces",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Hellfire",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Through Toxic Veins",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Nothing Counts More Than Blood",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Storm Raging Up",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Feigned Death Throes",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Soul Contraband",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "God Bless You",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Art of Killing Poetry",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Knarrenheinz",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Styptic Parasite",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Murder One",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_War_and_Pieces",
+   "resumo_en": "In War and Pieces is the thirteenth album by the German thrash metal band Sodom. It was released on 19 November 2010 in Germany, 22 November 2010 in Europe, and 11 January 2011 in the United States.\nThe album was released in four formats:\n\nLimited edition digipak with bonus live CD including 10 tracks (Wacken, 25th anniversary show 2007)\nDouble gatefold LP in blood red vinyl with 1 bonus track (\"Murder One\")\nStandard version\nDownload\nIn War and Pieces sold over 700 copies in the United States in its first week."
+  },
+  {
+   "id": "b819b3a8-d70e-4830-bcbd-0ec9335c24ca",
+   "titulo": "Epitome of Torture",
+   "data": "2013-04-26",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/9d34e55d-20f5-459c-af01-7f413b89413a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Final Bullet",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "S.O.D.O.M.",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Epitome of Torture",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Stigmatized",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Cannibal",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Shoot Today - Kill Tomorrow",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Invocating the Demons",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Katjuscha",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Into the Skies of War",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Tracing the Victim",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Waterboarding",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Splitting the Atom",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Ace of Spades",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Epitome_of_Torture",
+   "resumo_en": "Epitome of Torture is the fourteenth album by German thrash metal band Sodom. The album debuted on the Billboard Heatseakers Chart at 25, their highest Billboard debut ever.\nThe song \"Katjuscha\" contains a melody from the song \"Katyusha\", a World War II Soviet Russian folk song originally composed by Matvei Blanter in 1938. A music video was made for the song \"Stigmatized.\""
+  },
+  {
+   "id": "78d960d8-2185-4dd3-bf3e-95e05efe2ece",
+   "titulo": "Decision Day",
+   "data": "2016-08-19",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/885042a2-38fd-4f20-ac44-b6e26aa41986/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In Retribution",
+     "duracao": "6:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Rolling Thunder",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Decision Day",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Caligula",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Who Is God?",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Strange Lost World",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Vaginal Born Evil",
+     "duracao": "5:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Belligerence",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Blood Lions",
+     "duracao": "3:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Sacred Warpath",
+     "duracao": "5:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Refused to Die",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Predatory Instinct",
+     "duracao": "4:44"
+    },
+    {
+     "n": 13,
+     "titulo": "The Final Bullet",
+     "duracao": "4:53"
+    },
+    {
+     "n": 14,
+     "titulo": "Outbreak of Evil",
+     "duracao": "3:40"
+    },
+    {
+     "n": 15,
+     "titulo": "Surfin’ Bird / The Saw Is the Law",
+     "duracao": "6:50"
+    },
+    {
+     "n": 16,
+     "titulo": "M-16",
+     "duracao": "5:31"
+    },
+    {
+     "n": 17,
+     "titulo": "Nuclear Winter",
+     "duracao": "5:06"
+    }
+   ],
+   "duracao_min": 82,
+   "critica": {
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Decision_Day",
+   "resumo_en": "Decision Day is the fifteenth studio album by the German thrash metal band Sodom, released on 26 August 2016. This is Sodom's final album with guitarist Bernd \"Bernemann\" Kost and drummer Markus \"Makka\" Freiwald, who both parted ways with the band in January 2018, and it would be the last time the band had recorded together as a three-piece, a distinction Sodom had held since its inception. The artwork of Decision Day was designed by Joe Petagno. \"Sacred Warpath\", a track released two years earlier on the EP with the same title, was also re-recorded for this album."
+  },
+  {
+   "id": "188dc909-0ac6-4629-9e60-245a87671b6d",
+   "titulo": "Genesis XIX",
+   "data": "2020-11-25",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/ee702167-975f-469b-8184-16ec899e3055/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blind Superstition",
+     "duracao": "1:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Sodom & Gomorrah",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Euthanasia",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Genesis XIX",
+     "duracao": "7:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Nicht mehr mein Land",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Glock 'n' Roll",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "The Harponeer",
+     "duracao": "7:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Dehumanized",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Occult Perpetrator",
+     "duracao": "4:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Waldo & Pigpen",
+     "duracao": "6:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Indoctrination",
+     "duracao": "3:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Friendly Fire",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Genesis_XIX",
+   "resumo_en": "Genesis XIX is the sixteenth studio album by the German thrash metal band Sodom, released on 27 November 2020. It is the first studio album to feature returning guitarist Frank Blackfire since 1989's Agent Orange, as well as new members, guitarist Yorck Segatz and drummer Toni Merkel. As such, this album marks the first time in Sodom's history that they had recorded an album as a quartet rather than a trio.\nGenesis XIX was produced by the band themselves, and like the previous album Decision Day (2016), its artwork was designed by Joe Petagno."
+  },
+  {
+   "id": "75f5fbe1-1216-40de-a695-0429cbbfd0fe",
+   "titulo": "The Arsonist",
+   "data": "2025-06-25",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/536fdf26-51f4-4a2d-b9c1-77211cf0ae49/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Arsonist",
+     "duracao": "1:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Battle of Harvest Moon",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Trigger Discipline",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "The Spirits That I Called",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Witchhunter",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Scavenger",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Gun Without Groom",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Taphephobia",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Sane Insanity",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "A.W.T.F.",
+     "duracao": "3:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Twilight Void",
+     "duracao": "4:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Obliteration of the Aeons",
+     "duracao": "3:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Return to God in Parts",
+     "duracao": "4:28"
+    },
+    {
+     "n": 14,
+     "titulo": "1982 (remix)",
+     "duracao": "3:23"
+    },
+    {
+     "n": 15,
+     "titulo": "Witching Metal",
+     "duracao": "3:28"
+    },
+    {
+     "n": 16,
+     "titulo": "Victims of Death",
+     "duracao": "5:14"
+    },
+    {
+     "n": 17,
+     "titulo": "Let’s Fight in the Darkness of Hell",
+     "duracao": "3:04"
+    },
+    {
+     "n": 18,
+     "titulo": "Equinox",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

@@ -1,0 +1,1042 @@
+{
+ "id": "blind-guardian",
+ "nome": "Blind Guardian",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "7fa7fc04-1011-4876-8095-ecd232edea87",
+ "wikidata": "Q152540",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1984",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "power metal",
+  "metal",
+  "speed metal",
+  "progressive metal",
+  "heavy metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Blind_Guardian_Christmas_Bash_2016_%2801%29.jpg/500px-Blind_Guardian_Christmas_Bash_2016_%2801%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Blind_Guardian",
+ "resumo_pt": "Blind Guardian é uma banda de power metal formada no ano de 1984, em Krefeld, na Alemanha.\nAntes de adotarem o nome Blind Guardian, os músicos da formação original lançaram duas demos com o nome Lucifer's Heritage, em 1985 e 1986. Os membros da banda são: Hansi Kürsch como vocalista, André Olbrich e Marcus Siepen nas guitarras, Frederik Ehmke na bateria, e Barend Courbois no baixo. A banda geralmente busca inspiração para suas músicas na cultura medieval, nas mitologias nórdica e grega e nas obras de J. R. R. Tolkien.",
+ "resumo_en": "Blind Guardian is a German power metal band formed in 1984 in Krefeld, West Germany. They are often credited as one of the seminal and most influential bands in the power metal and speed metal subgenres. Nine musicians have been part of the band's lineup throughout its history, which currently includes singer Hansi Kürsch, guitarists André Olbrich and Marcus Siepen, and, since 2005, drummer Frederik Ehmke.\nBlind Guardian is a key player in the German heavy metal scene that emerged in the mid-1980s. The band was formed in 1984 as Lucifer's Heritage by Kürsch (who also played bass at the time), Olbrich, fellow guitarist Markus Dörk, and drummer Thomas Stauch. Dörk and Stauch left the following year and were replaced by Christof Theißen and Hans-Peter Frey, respectively, who also departed before the year ended. In 1987, Siepen joined the group, and Stauch returned; this lineup, which lasted 18 years, led the band to change their name to Blind Guardian and release their debut album, Battalions of Fear, in 1988. They have since released ten more studio albums, as well as an orchestral album released under the name Blind Guardian Twilight Orchestra.\nThrough their discography, Blind Guardian has established themselves as a notable and successful band and as pioneers of the power metal movement. In 1996, Kürsch ceased playing bass to focus on vocals, with various session musicians filling in, primarily Oliver Holzwarth. However, in 2005, Stauch left the band, expressing disapproval o",
+ "albuns": [
+  {
+   "id": "2a125b51-bbac-3617-99fc-4c6075b26e61",
+   "titulo": "Battalions of Fear",
+   "data": "1988-02-15",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/7365bb36-ce85-4472-9cd2-8aaf6e793e6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Majesty",
+     "duracao": "7:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Guardian of the Blind",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Trial by the Archon / Wizard’s Crown",
+     "duracao": "5:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Run for the Night",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "The Martyr",
+     "duracao": "6:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Battalions of Fear",
+     "duracao": "6:06"
+    },
+    {
+     "n": 7,
+     "titulo": "By the Gates of Moria",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "media": 8.5,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Battalions_of_Fear",
+   "resumo_en": "Battalions of Fear is the debut studio album by the German power metal band Blind Guardian, released in 1988. The album is a raw and unpolished speed metal effort that touches on thrash metal. It lacks many of the stylistic flourishes that would mark the band's music in later years, focusing more on speed and aggression. The opening track \"Majesty\" remains a fan favorite and is often featured in the band's live performances. This album was remastered, remixed and re-released on 15 June 2007, with the whole first demo tape, Symphonies of Doom, of the band (at the time called Lucifer's Heritage) as part of the bonus tracks. The album was again re-released as part of the A Traveler's Guide to Space and Time boxset with minor adjustments to the mixing and with new mastering."
+  },
+  {
+   "id": "3f34e220-566e-3b05-a622-337e013f83bd",
+   "titulo": "Follow the Blind",
+   "data": "1989-04-14",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/91481687-d5f4-4d93-ab7a-f25204dc91be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Inquisition",
+     "duracao": "0:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Banish From Sanctuary",
+     "duracao": "5:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Damned for All Time",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Follow the Blind",
+     "duracao": "7:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Hall of the King",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Fast to Madness",
+     "duracao": "5:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Beyond the Ice",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Valhalla",
+     "duracao": "4:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Break the Circle",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Barbara Ann",
+     "duracao": "1:42"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 6.6,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Follow_the_Blind",
+   "resumo_en": "Follow the Blind is the second studio album by the German power metal band Blind Guardian. It was released in 1989 and is more in the vein of speed metal, compared to the style that would later define the band's unique sound. Guitarist Marcus Siepen stated that they were \"listening to a lot of thrash metal bands like Testament or Forbidden, and that's why Follow the Blind was a bit heavier\".\nThe album was remastered, remixed and re-released on 15 June 2007, with the whole second demo tape, Battalions of Fear, of the band (at the time called Lucifer's Heritage) as part of the bonus tracks. The album was again re-released as part of the A Traveler's Guide to Space and Time boxset with minor adjustments to the mixing and with new mastering. \"Banish from Sanctuary\" was released as a single to promote this album.\nIn 2017, Loudwire ranked Follow the Blind as the 12th-best power metal album of all time."
+  },
+  {
+   "id": "0519b1bf-c443-3110-8fb0-6fbbf8f3862b",
+   "titulo": "Tales From the Twilight World",
+   "data": "1990-09-21",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/b492acef-2730-405e-8495-cd0d60b2a7b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Traveler in Time",
+     "duracao": "6:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Welcome to Dying",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Weird Dreams",
+     "duracao": "1:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Lord of the Rings",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Goodbye My Friend",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Lost in the Twilight Hall",
+     "duracao": "6:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Tommyknockers",
+     "duracao": "5:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Altair 4",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "The Last Candle",
+     "duracao": "6:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Run for the Night (live)",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.2,
+    "fontes": 2
+   },
+   "publico": 8.1,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tales_from_the_Twilight_World",
+   "resumo_en": "Tales from the Twilight World is the third studio album by the German power metal band Blind Guardian, released on 16 July 1990."
+  },
+  {
+   "id": "b62ade5d-51ca-366c-baf6-d1ce050447e6",
+   "titulo": "Somewhere Far Beyond",
+   "data": "1992-06-29",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/99ea0a72-1d34-4172-95d9-36c8f305ab12/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Time What Is Time",
+     "duracao": "5:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Journey Through the Dark",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Chamber",
+     "duracao": "0:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Theatre of Pain",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "The Quest for Tanelorn",
+     "duracao": "5:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Ashes to Ashes",
+     "duracao": "6:00"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bard's Song: In the Forest",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "The Bard's Song: The Hobbit",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "The Piper's Calling",
+     "duracao": "0:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Somewhere Far Beyond",
+     "duracao": "7:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Spread Your Wings",
+     "duracao": "4:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Trial by Fire",
+     "duracao": "3:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Theatre of Pain (classic version)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Alleluya",
+     "duracao": "3:18"
+    },
+    {
+     "n": 15,
+     "titulo": "Time What Is Time (demo)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 16,
+     "titulo": "Theatre of Pain (demo)",
+     "duracao": "4:09"
+    },
+    {
+     "n": 17,
+     "titulo": "Ashes to Ashes (demo)",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 8.3,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Somewhere_Far_Beyond",
+   "resumo_en": "Somewhere Far Beyond is the fourth studio album by the German power metal band Blind Guardian. It was released in 1992 and produced by Kalle Trapp. The cover artwork was created by Andreas Marschall, who also drew the artwork for other Blind Guardian's releases (Tales from the Twilight World, Nightfall in Middle-Earth, etc.). The album saw the band creating its own original sound, while still employing most of their speed/power metal techniques.\nThe cover art and the two \"Bard's Songs\" gave the band its nickname \"The Bards\". The use of the nickname has been also extended to the fans of the group, Circle of the Bards being the now defunct fan club, and Hansi Kürsch frequently calling the fans \"Bards\".\n\"The Piper's Calling\" contains the first three parts of the Great Highland Bagpipe 2/4 March, \"The 79th's Farewell to Gibraltar\", written by Pipe Major John MacDonald of the 79th Regiment of Foot (Cameronian Volunteers). Part of this composition also appears as a section of the title track, this time played on a different type of bagpipe.\nThe album was acclaimed by power metal fans all across Europe and especially Japan, allowing them to tour for the first time outside Germany. The tou"
+  },
+  {
+   "id": "e0fb41f5-17b2-32e0-ad8c-de40f2a6ed4e",
+   "titulo": "Imaginations From the Other Side",
+   "data": "1995-04-05",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/de0d36bc-fce4-4e93-afd1-08f9ebbdd775/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Imaginations From the Other Side",
+     "duracao": "7:18"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Alive",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "A Past and Future Secret",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "The Script for My Requiem",
+     "duracao": "6:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Mordred’s Song",
+     "duracao": "5:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Born in a Mourning Hall",
+     "duracao": "5:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Bright Eyes",
+     "duracao": "5:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Another Holy War",
+     "duracao": "4:31"
+    },
+    {
+     "n": 9,
+     "titulo": "And the Story Ends",
+     "duracao": "5:59"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.8,
+    "fontes": 2
+   },
+   "publico": 8.4,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Imaginations_from_the_Other_Side",
+   "resumo_en": "Imaginations from the Other Side is the fifth studio album by the German power metal band Blind Guardian, released in 1995. The atmosphere of this album is darker in comparison to their earlier works, such as Battalions of Fear, which had a relatively light tone. This album also marks the first since Battalions of Fear which Kai Hansen (Helloween, Gamma Ray) did not contribute guest vocals or guitar, and the last album to feature vocalist Hansi Kürsch as bassist. It was also their first album to spawn singles, namely \"A Past and Future Secret\" and \"Bright Eyes\". It was remastered and re-released on 15 June 2007, with bonus tracks and videos."
+  },
+  {
+   "id": "3a5d9bb8-8e19-379d-b294-ee8fcf743f77",
+   "titulo": "Nightfall in Middle‐Earth",
+   "data": "1998-04-24",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/01d81b78-aed1-4617-8d54-bfc914b59315/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "War of Wrath",
+     "duracao": "1:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Into the Storm",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Lammoth",
+     "duracao": "0:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Nightfall",
+     "duracao": "5:35"
+    },
+    {
+     "n": 5,
+     "titulo": "The Minstrel",
+     "duracao": "0:31"
+    },
+    {
+     "n": 6,
+     "titulo": "The Curse of Feanor",
+     "duracao": "5:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Captured",
+     "duracao": "0:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Blood Tears",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Mirror Mirror",
+     "duracao": "5:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Face the Truth",
+     "duracao": "0:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Noldor (Dead Winter Reigns)",
+     "duracao": "6:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Battle of Sudden Flame",
+     "duracao": "0:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Time Stands Still (At the Iron Hill)",
+     "duracao": "4:54"
+    },
+    {
+     "n": 14,
+     "titulo": "The Dark Elf",
+     "duracao": "0:23"
+    },
+    {
+     "n": 15,
+     "titulo": "Thorn",
+     "duracao": "6:19"
+    },
+    {
+     "n": 16,
+     "titulo": "The Eldar",
+     "duracao": "3:39"
+    },
+    {
+     "n": 17,
+     "titulo": "Nom the Wise",
+     "duracao": "0:32"
+    },
+    {
+     "n": 18,
+     "titulo": "When Sorrow Sang",
+     "duracao": "4:25"
+    },
+    {
+     "n": 19,
+     "titulo": "Out on the Water",
+     "duracao": "0:44"
+    },
+    {
+     "n": 20,
+     "titulo": "The Steadfast",
+     "duracao": "0:21"
+    },
+    {
+     "n": 21,
+     "titulo": "A Dark Passage",
+     "duracao": "6:01"
+    },
+    {
+     "n": 22,
+     "titulo": "Final Chapter (Thus Ends…)",
+     "duracao": "0:48"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 8.3,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nightfall_in_Middle-Earth",
+   "resumo_en": "Nightfall in Middle-Earth is the sixth studio album by the German power metal band Blind Guardian. It was released on 28 April 1998 through Virgin Records. It is a concept album based on J. R. R. Tolkien's The Silmarillion, a book of tales from the First Age of Middle-earth, recounting the troubled history of Beleriand as the Elves battle with the Dark Lord Morgoth. The album contains not only songs but also spoken parts narrating parts of the story. The cover depicts a scene from The Silmarillion, the elf Lúthien dancing in front of the Dark Lord Morgoth.\nNightfall in Middle-Earth is widely regarded as one of Blind Guardian's best-known and best-received albums in their discography. It is also the first album with Oliver Holzwarth as guest musician, playing bass guitar instead of Hansi Kürsch.\nIt was the first album by Blind Guardian to be released in the United States. The sales encouraged Century Media to release their entire back catalog in the US in 2007, at which point it was remastered and re-released, with a bonus track."
+  },
+  {
+   "id": "b03a8800-55cc-3c9d-b47a-cb603f18103d",
+   "titulo": "A Night at the Opera",
+   "data": "2002-02-21",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/62c4aed6-a9ba-4b8c-afb5-1f63810eb5bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Precious Jerusalem",
+     "duracao": "6:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Battlefield",
+     "duracao": "5:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Under the Ice",
+     "duracao": "5:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Sadly Sings Destiny",
+     "duracao": "6:04"
+    },
+    {
+     "n": 5,
+     "titulo": "The Maiden and the Minstrel Knight",
+     "duracao": "5:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Wait for an Answer",
+     "duracao": "6:30"
+    },
+    {
+     "n": 7,
+     "titulo": "The Soulforged",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Age of False Innocence",
+     "duracao": "6:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Punishment Divine",
+     "duracao": "5:45"
+    },
+    {
+     "n": 10,
+     "titulo": "And Then There Was Silence",
+     "duracao": "14:05"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.9,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Night_at_the_Opera_%28Blind_Guardian_album%29",
+   "resumo_en": "A Night at the Opera is the seventh studio album by the German power metal band Blind Guardian, released in 2002. It is named after the 1975 Queen album of the same name, which is itself named after the Marx brothers film of the same name.\nThis album continues a stylistic change from power metal into a more progressive sound, with multiple overlaid vocals, choirs, orchestral keys and guitar leads and less emphasis on powerful guitar riffs and heavy rhythms. As a result, drummer Thomen Stauch would leave the group, citing dissatisfaction with the direction the group was going in."
+  },
+  {
+   "id": "fca07281-79b2-33c3-a8d2-b2803e331444",
+   "titulo": "A Twist in the Myth",
+   "data": "2006-08-30",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/421ec4fa-20b6-435e-a0fb-e93ee626eced/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Will Never End",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Otherland",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn the Page",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Fly",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Carry the Blessed Home",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Another Stranger Me",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Straight Through the Mirror",
+     "duracao": "5:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Lionheart",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Skalds and Shadows",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "The Edge",
+     "duracao": "4:28"
+    },
+    {
+     "n": 11,
+     "titulo": "The New Order",
+     "duracao": "4:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Dead Sound of Misery",
+     "duracao": "5:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Interview (English)",
+     "duracao": "12:37"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.3,
+    "fontes": 4
+   },
+   "publico": 5.9,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Twist_in_the_Myth",
+   "resumo_en": "A Twist in the Myth is the eighth studio album by the German power metal band Blind Guardian. It was originally set to be released on 5 September 2006 in Europe (which became the North American release date), but Nuclear Blast changed the release date to 1 September 2006.\nThe album was released in several different formats: a normal version, a digipak version with a bonus track and bonus CD, and a limited edition book-version. The book contains the digipak, along with a guitar pick, booklet and certificate of authenticity and autographs, as well as a dragon-shaped seal and a bar of red sealing wax."
+  },
+  {
+   "id": "bd2db069-4c77-450c-9df4-ba55e10b708e",
+   "titulo": "At the Edge of Time",
+   "data": "2010-07-29",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/7e2bf8e9-d2c6-48a4-b4d8-ac31ce9f4ed0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sacred Worlds",
+     "duracao": "9:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Tanelorn (Into the Void)",
+     "duracao": "5:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Road of No Release",
+     "duracao": "6:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Ride Into Obsession",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Curse My Name",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Valkyries",
+     "duracao": "6:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Control the Divine",
+     "duracao": "5:25"
+    },
+    {
+     "n": 8,
+     "titulo": "War of the Thrones",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "A Voice in the Dark",
+     "duracao": "5:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Wheel of Time",
+     "duracao": "8:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Sacred Worlds (pre‐production version)",
+     "duracao": "6:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Wheel of Time (orchestral version)",
+     "duracao": "8:55"
+    },
+    {
+     "n": 13,
+     "titulo": "You’re the Voice (radio edit)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Tanelorn (Into the Void) (demo)",
+     "duracao": "5:58"
+    },
+    {
+     "n": 15,
+     "titulo": "Curse My Name (demo)",
+     "duracao": "4:41"
+    },
+    {
+     "n": 16,
+     "titulo": "A Voice in the Dark (demo)",
+     "duracao": "5:40"
+    }
+   ],
+   "duracao_min": 100,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.6,
+    "fontes": 6
+   },
+   "publico": 7.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/At_the_Edge_of_Time",
+   "resumo_en": "At the Edge of Time is the ninth studio album by the German power metal band Blind Guardian. A two-CD version of the album was released, with the second disc containing eight tracks. The artwork for the album was created by Colombian artist Felipe Machado Franco. The album was released in Europe on 30 July 2010. A music video for \"A Voice in the Dark\" was released on 3 August 2010."
+  },
+  {
+   "id": "e72d7b5c-73e4-44a1-a39c-f3dcfab60d72",
+   "titulo": "Beyond the Red Mirror",
+   "data": "2015-01-28",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/2769c60b-0a4c-429d-954d-24f61e63f684/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Ninth Wave",
+     "duracao": "9:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Twilight of the Gods",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Prophecies",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "At the Edge of Time",
+     "duracao": "6:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Ashes of Eternity",
+     "duracao": "5:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Distant Memories",
+     "duracao": "5:53"
+    },
+    {
+     "n": 7,
+     "titulo": "The Holy Grail",
+     "duracao": "6:02"
+    },
+    {
+     "n": 8,
+     "titulo": "The Throne",
+     "duracao": "7:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Sacred Mind",
+     "duracao": "6:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Miracle Machine",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Grand Parade",
+     "duracao": "9:29"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.3,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Beyond_the_Red_Mirror",
+   "resumo_en": "Beyond the Red Mirror is the tenth studio album by the German power metal band Blind Guardian, released on 30 January  2015 through Nuclear Blast.\nA concept album and a sequel to Imaginations from the Other Side's two tracks, \"Bright Eyes\" and \"And the Story Ends\", Beyond the Red Mirror has been described by singer Hansi Kürsch as \"a story between science fiction and fantasy. [...] The two worlds described have changed dramatically for the worse since then. While there used to be several passages between the worlds, there is only one gate left now: The Red Mirror. It has to be found at any cost.\"\nIt is their first album without former session member Oliver Holzwarth on bass guitar since 1998's Nightfall in Middle-Earth, with Barend Courbois replacing him. \"Twilight of the Gods\" was released as a single to promote this album."
+  },
+  {
+   "id": "9b65d5b6-edca-4c53-9f12-3da6190045cb",
+   "titulo": "The God Machine",
+   "data": "2022-09-02",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/256e7c7a-a4d5-4c3a-b9fd-3c028eacdbd0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Deliver Us From Evil",
+     "duracao": "5:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Damnation",
+     "duracao": "5:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Secrets of the American Gods",
+     "duracao": "7:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Violent Shadows",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Life Beyond the Spheres",
+     "duracao": "6:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Architects of Doom",
+     "duracao": "6:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Let It Be No More",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Blood of the Elves",
+     "duracao": "4:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Destiny",
+     "duracao": "6:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Life Beyond the Spheres (Cyber mix)",
+     "duracao": "6:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Destiny (lead guitar version)",
+     "duracao": "6:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Let It Be No More (heavy vocals)",
+     "duracao": "4:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Deliver Us From Evil",
+     "duracao": "5:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Damnation",
+     "duracao": "5:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Secrets of the American Gods",
+     "duracao": "7:29"
+    },
+    {
+     "n": 16,
+     "titulo": "Violent Shadows",
+     "duracao": "4:18"
+    },
+    {
+     "n": 17,
+     "titulo": "Life Beyond the Spheres",
+     "duracao": "6:03"
+    },
+    {
+     "n": 18,
+     "titulo": "Architects of Doom",
+     "duracao": "6:21"
+    },
+    {
+     "n": 19,
+     "titulo": "Let It Be No More",
+     "duracao": "4:49"
+    },
+    {
+     "n": 20,
+     "titulo": "Blood of the Elves",
+     "duracao": "4:38"
+    },
+    {
+     "n": 21,
+     "titulo": "Destiny",
+     "duracao": "6:47"
+    },
+    {
+     "n": 22,
+     "titulo": "Life Beyond the Spheres (Cyber mix)",
+     "duracao": "6:07"
+    },
+    {
+     "n": 23,
+     "titulo": "Destiny (lead guitar version)",
+     "duracao": "6:42"
+    },
+    {
+     "n": 24,
+     "titulo": "Let It Be No More (heavy vocals)",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 138,
+   "critica": {
+    "media": 8.5,
+    "fontes": 7
+   },
+   "publico": 5.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_God_Machine_%28album%29",
+   "resumo_en": "The God Machine is the twelfth studio album by the German power metal band Blind Guardian, released on 2 September 2022 through Nuclear Blast. This is the band's first regular studio album in seven years, following Beyond the Red Mirror (2015), marking the longest gap between two Blind Guardian studio albums (although a previous album was released three years earlier under the name \"Blind Guardian Twilight Orchestra\").\nThe album's cover art was illustrated by American artist Peter Mohrbacher as part of the Angelarium project."
+  },
+  {
+   "id": "e530b284-0159-4812-ae2c-fcb696ccd03f",
+   "titulo": "Somewhere Far Beyond Revisited",
+   "data": "2024-08-02",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/ace0e920-92c1-4f10-a135-85c8d5b6b0f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Time What Is Time",
+     "duracao": "5:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Journey Through the Dark",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Chamber",
+     "duracao": "0:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Theatre of Pain",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "The Quest for Tanelorn",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Ashes to Ashes",
+     "duracao": "6:03"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bard’s Song – In the Forest",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "The Bard’s Song – The Hobbit",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "The Piper’s Calling",
+     "duracao": "1:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Somewhere Far Beyond",
+     "duracao": "7:33"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

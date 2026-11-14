@@ -1,0 +1,859 @@
+{
+ "id": "static-x",
+ "nome": "Static‐X",
+ "cena": "Nu metal e correlatos",
+ "mbid": "8ac9e35c-e92d-4030-99ef-ba4127b1555c",
+ "wikidata": "Q491892",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1994",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "industrial metal",
+  "nu metal",
+  "alternative metal",
+  "industrial",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Static_X.JPG/500px-Static_X.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Static-X",
+ "resumo_pt": "Static-X é uma banda de metal industrial que surgiu em 1994 nos Estados Unidos.",
+ "resumo_en": "Static-X is an American industrial metal band from Los Angeles, California, formed in 1994. The lineup has fluctuated over the years, but was long held constant with band founder, frontman, vocalist and rhythm guitarist Wayne Static until his death in 2014.\nThe band was founded by Static and original drummer Ken Jay. They rose to fame with their 1999 debut album Wisconsin Death Trip where their heavy industrial metal sound attracted attention within the burgeoning nu metal movement of the late 1990s, with the album eventually going platinum in the United States. The band released five more albums over the course of the next decade: Machine in 2001, Shadow Zone in 2003, Start a War in 2005, Cannibal in 2007, and Cult of Static in 2009. By 2011, the band had sold over three million albums worldwide.\nThe band entered a hiatus while Static worked on his solo album, Pighammer, in 2011. Static briefly reformed Static-X in 2012, using only members of his solo album's touring band, before officially breaking up in June 2013. On November 1, 2014, Wayne Static died at the age of 48.\nThe rest of the original Static-X lineup – bassist Tony Campos, lead guitarist Koichi Fukuda and drummer Ken Jay – announced on October 23, 2018, that they were reforming the band in Static's honor, and would release Project: Regeneration Vol. 1, their first studio album in eleven years, in 2020. A follow-up album, Project: Regeneration Vol. 2, was released on January 26, 2024.",
+ "albuns": [
+  {
+   "id": "a4f77289-1d1c-3e28-8bb1-e14f8160d705",
+   "titulo": "Wisconsin Death Trip",
+   "data": "1999-03-23",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/db7a4901-9311-4e7b-b607-05b039124c3f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Push It",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m With Stupid",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Bled for Days",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Dump",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "I Am",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Otsegolation",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Stem",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweat of the Bud",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Fix",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Wisconsin Death Trip",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "The Trance Is the Motion",
+     "duracao": "4:49"
+    },
+    {
+     "n": 12,
+     "titulo": "December",
+     "duracao": "6:18"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 9.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wisconsin_Death_Trip_%28album%29",
+   "resumo_en": "Wisconsin Death Trip is the debut studio album by American industrial metal band Static-X, released on March 23, 1999, by Warner Bros. Records. \nThe band was formed after lead singer Wayne Static and drummer Ken Jay met at a Virgin Records store in Chicago, and later relocated to California. Tony Campos joined on bass, followed soon after by guitarist Koichi Fukuda. Warner Brothers Records signed them in February 1998.\nWisconsin Death Trip peaked at number 107 on the US Billboard 200 and number one on the Top Heatseekers chart, and was certified platinum by the RIAA in 2001. Four singles were released from the album: \"Push It\", \"I'm with Stupid\", \"Bled for Days\" and \"Love Dump\"."
+  },
+  {
+   "id": "0475b73b-bdb6-34c0-b8b1-667ad85ae35b",
+   "titulo": "Machine",
+   "data": "2001-05-22",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/344b4240-2af4-4493-9f1e-b778b9d7bcfb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bien venidos",
+     "duracao": "0:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Get to the Gone",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Permanence",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Black and White",
+     "duracao": "3:52"
+    },
+    {
+     "n": 5,
+     "titulo": "This Is Not",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Otsego Undead",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Cold",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Structural Defect",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "...In a Bag",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Burn to Burn",
+     "duracao": "4:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Machine",
+     "duracao": "3:29"
+    },
+    {
+     "n": 12,
+     "titulo": "A Dios alma perdida",
+     "duracao": "5:58"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 8
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Machine_%28Static-X_album%29",
+   "resumo_en": "Machine is the second studio album by American industrial metal band Static-X, released on May 22, 2001, and recorded at Studio 508 (Los Angeles). When compared to the band's other albums, Machine features more electronics and industrial effects, and more screamed vocals from Wayne Static. It was also the final studio album to feature all four original Static-X members, until 2020's Project: Regeneration Vol. 1 (which featured archival content left behind by Static after his death in 2014)."
+  },
+  {
+   "id": "f5d8d7b6-5699-35ac-b661-63f3c4fcf4cb",
+   "titulo": "Shadow Zone",
+   "data": "2003-10-07",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/df1c8c59-1c9f-33b1-b998-c3f50b9be778/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Destroy All",
+     "duracao": "2:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Control It",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "New Pain",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Shadow Zone",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Dead World",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Monster",
+     "duracao": "2:14"
+    },
+    {
+     "n": 7,
+     "titulo": "The Only",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Kill Your Idols",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "All in Wait",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Otsegolectric",
+     "duracao": "2:39"
+    },
+    {
+     "n": 11,
+     "titulo": "So",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Transmission",
+     "duracao": "1:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Invincible",
+     "duracao": "4:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Enter the Shadow Zone",
+     "duracao": "4:00"
+    },
+    {
+     "n": 15,
+     "titulo": "History of Static‐X",
+     "duracao": "2:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Push It",
+     "duracao": "2:40"
+    },
+    {
+     "n": 17,
+     "titulo": "The Influence of Kiss",
+     "duracao": "1:45"
+    },
+    {
+     "n": 18,
+     "titulo": "Fan Q&A",
+     "duracao": "3:51"
+    },
+    {
+     "n": 19,
+     "titulo": "What About Static‐X Never Changes",
+     "duracao": "4:12"
+    },
+    {
+     "n": 20,
+     "titulo": "Destroy All",
+     "duracao": "2:24"
+    },
+    {
+     "n": 21,
+     "titulo": "Recording “Shadow Zone”",
+     "duracao": "6:38"
+    },
+    {
+     "n": 22,
+     "titulo": "Picking Nick",
+     "duracao": "1:32"
+    },
+    {
+     "n": 23,
+     "titulo": "Photoshoots",
+     "duracao": "2:12"
+    },
+    {
+     "n": 24,
+     "titulo": "Shadow Zone",
+     "duracao": "1:46"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.3,
+    "fontes": 6
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shadow_Zone_%28Static-X_album%29",
+   "resumo_en": "Shadow Zone is the third studio album by American industrial metal band Static-X, released on October 7, 2003. Marked by many personnel and stylistic changes, the album sports a much more melodic sound than any other work in their catalog, while still staying in the confines of their industrial metal and nu metal sound. It was the first of two albums to feature guitarist Tripp Eisen, and is the band's only album to not feature an official drummer, due to the departure of Ken Jay just prior to the album's recording sessions; drumming duties were subsequently handled by Josh Freese."
+  },
+  {
+   "id": "e284f5a3-00d9-3dd5-9016-39357590cc67",
+   "titulo": "Start a War",
+   "data": "2005-06-14",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/1be3e9e1-dc2d-4be9-b2d9-998185766aa8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Enemy",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm the One",
+     "duracao": "2:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Start a War",
+     "duracao": "2:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Pieces",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Dirthouse",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Skinnyman",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Just in Case",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Set It Off",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want to Fucking Break It",
+     "duracao": "2:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Night Terrors",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Otsego Amigo",
+     "duracao": "2:45"
+    },
+    {
+     "n": 12,
+     "titulo": "My Damnation",
+     "duracao": "4:01"
+    },
+    {
+     "n": 13,
+     "titulo": "Brainfog / Otsego Amigo",
+     "duracao": "9:53"
+    },
+    {
+     "n": 14,
+     "titulo": "Studio Stupidity",
+     "duracao": "11:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Ostego Amigo",
+     "duracao": "5:12"
+    },
+    {
+     "n": 16,
+     "titulo": "Photoshoots / Album Art",
+     "duracao": "2:56"
+    },
+    {
+     "n": 17,
+     "titulo": "Intro",
+     "duracao": "1:09"
+    },
+    {
+     "n": 18,
+     "titulo": "The Enemy",
+     "duracao": "2:46"
+    },
+    {
+     "n": 19,
+     "titulo": "Start a War",
+     "duracao": "2:57"
+    },
+    {
+     "n": 20,
+     "titulo": "I'm the One",
+     "duracao": "2:49"
+    },
+    {
+     "n": 21,
+     "titulo": "Dirthouse",
+     "duracao": "3:11"
+    },
+    {
+     "n": 22,
+     "titulo": "Permanence",
+     "duracao": "7:56"
+    },
+    {
+     "n": 23,
+     "titulo": "The Trance Is the Motion",
+     "duracao": "7:44"
+    },
+    {
+     "n": 24,
+     "titulo": "Monster",
+     "duracao": "5:02"
+    },
+    {
+     "n": 25,
+     "titulo": "Desert Fun",
+     "duracao": "8:11"
+    },
+    {
+     "n": 26,
+     "titulo": "The Enemy",
+     "duracao": "2:30"
+    },
+    {
+     "n": 27,
+     "titulo": "I'm the One",
+     "duracao": "2:37"
+    },
+    {
+     "n": 28,
+     "titulo": "Start a War",
+     "duracao": "2:46"
+    },
+    {
+     "n": 29,
+     "titulo": "Pieces",
+     "duracao": "2:40"
+    },
+    {
+     "n": 30,
+     "titulo": "Dirthouse",
+     "duracao": "3:05"
+    },
+    {
+     "n": 31,
+     "titulo": "Skinnyman",
+     "duracao": "3:41"
+    },
+    {
+     "n": 32,
+     "titulo": "Just In Case",
+     "duracao": "4:23"
+    },
+    {
+     "n": 33,
+     "titulo": "Set It Off",
+     "duracao": "3:57"
+    },
+    {
+     "n": 34,
+     "titulo": "I Want to Fucking Break It",
+     "duracao": "2:45"
+    },
+    {
+     "n": 35,
+     "titulo": "Night Terrors",
+     "duracao": "3:10"
+    },
+    {
+     "n": 36,
+     "titulo": "Ostego Amigo",
+     "duracao": "2:48"
+    },
+    {
+     "n": 37,
+     "titulo": "My Damnation",
+     "duracao": "4:02"
+    },
+    {
+     "n": 38,
+     "titulo": "Brain Fog / Ostego Amigo (A Cappella)",
+     "duracao": "9:55"
+    }
+   ],
+   "duracao_min": 158,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.9,
+    "fontes": 5
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Start_a_War",
+   "resumo_en": "Start a War is the fourth studio album by American industrial metal band Static-X, released on June 14 2005. A special version was shipped with an additional DVD titled X-Rated. It is the last album for 15 years to feature Ulrich Wild as a producer and/or a mixer, until Project: Regeneration Vol. 1 in 2020."
+  },
+  {
+   "id": "53b7c1b2-9ab8-30c2-bc36-abe0036f4358",
+   "titulo": "Cannibal",
+   "data": "2007-04-02",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/2baf06ea-83f3-4659-a5f7-f5c13942a392/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cannibal",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "No Submission",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Behemoth",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Chemical Logic",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Destroyer",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Forty Ways",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Chroma‐Matic",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Cuts You Up",
+     "duracao": "3:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Reptile",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Electric Pulse",
+     "duracao": "2:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Goat",
+     "duracao": "3:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Team Hate",
+     "duracao": "3:20"
+    },
+    {
+     "n": 13,
+     "titulo": "Beneath, Between, Beyond",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.3,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cannibal_%28Static-X_album%29",
+   "resumo_en": "Cannibal is the fifth studio album by American industrial metal band Static-X, released on April 3, 2007. This is the first album from the band to contain guitar solos; every song with the exception of \"Goat\" has one. Cannibal was the first album to be produced by John Travis, and the first album to not feature Ulrich Wild, who produced and/or mixed the band's first four albums, as well as the first not to feature a song with \"Otsego\" in the title. Lasting 37 minutes, it is the band's shortest album."
+  },
+  {
+   "id": "af98dfb7-6c71-3441-84f2-6a88a097de3b",
+   "titulo": "Cult of Static",
+   "data": "2009-03-13",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/35def07f-ab69-49cb-9663-dc95d8cf1aa9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lunatic",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Z28",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Terminal",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Hypure",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Tera-Fied",
+     "duracao": "5:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Stingwray",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "You Am I",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Isolaytore",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Nocturnally",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Skinned",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Grind 2 Halt",
+     "duracao": "4:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Still of the Night",
+     "duracao": "5:03"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cult_of_Static",
+   "resumo_en": "Cult of Static is the sixth studio album by American industrial metal band Static-X. It was released on March 17, 2009 via Reprise Records. The album's first single \"Stingwray\" was released and made available on the band's MySpace page on February 17, 2009. The album's title is a reference to the die-hard fans who have supported the band for so long. This would be Static-X's last studio album for eleven years, as well as the last to feature drummer Nick Oshiro and founding member and vocalist Wayne Static during his lifetime, though the latter's posthumously released work was included on the band's Project Regeneration albums. Cult of Static also marked the last time Static-X worked with John Travis, and was the band's last album on Reprise Records."
+  },
+  {
+   "id": "48d83d3d-6c86-4ca0-bd43-e0f462f68504",
+   "titulo": "Project: Regeneration Vol. 1",
+   "data": "2020-07-10",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/64617e6e-dea7-4418-a87d-261c31262d11/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Regeneration",
+     "duracao": "1:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Hollow (Project Regeneration)",
+     "duracao": "2:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Worth Dyin For",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Terminator Oscillator",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "All These Years",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Accelerate",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Bring You Down (Project Regeneration)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "My Destruction",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Something of My Own (Project Regeneration)",
+     "duracao": "2:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Otsego Placebo",
+     "duracao": "4:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Follow",
+     "duracao": "3:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Dead Souls",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 84,
+    "media": 8.0,
+    "fontes": 5
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Project_Regeneration_Vol._1",
+   "resumo_en": "Project: Regeneration Vol. 1 is the seventh studio album by American industrial metal band Static-X. It was released on July 10, 2020, by Otsego Entertainment Group and distributed by The Orchard Music, a subsidiary of Sony Music. It is the band's first studio album in eleven years following Cult of Static (2009), their longest gap between studio albums to date, and their first album not on Warner Bros. or Reprise Records. The album includes part of the last recordings of deceased frontman Wayne Static, who died in 2014, with his role being filled by a new frontman credited as \"Xer0\". Project Regeneration sees the return of the original Static-X lineup—bassist Tony Campos, guitarist and programmer/keyboardist Koichi Fukuda and drummer Ken Jay—and was produced by Ulrich Wild, who has produced and/or mixed all but two albums by the band in the past."
+  },
+  {
+   "id": "3275f279-3537-4f47-abfa-d29eec3e66a3",
+   "titulo": "Project: Regeneration Vol. 2",
+   "data": "2024-01-26",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/d7653df7-49ca-49c9-aea1-39a174e5c827/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stay Alive",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Z0mbie",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Jic‐Boi",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Star",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Kamikaze",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "No Hope",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Take Control",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Tone",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Run for Your Life",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Dark Place",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Disco Otsego",
+     "duracao": "3:57"
+    },
+    {
+     "n": 12,
+     "titulo": "From Heaven",
+     "duracao": "3:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Terrible Lie",
+     "duracao": "4:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Grover‐Yoda‐Data 14",
+     "duracao": "2:38"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

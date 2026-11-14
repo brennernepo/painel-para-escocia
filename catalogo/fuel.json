@@ -1,0 +1,564 @@
+{
+ "id": "fuel",
+ "nome": "Fuel",
+ "cena": "Pós-grunge",
+ "mbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d",
+ "wikidata": "Q2412660",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1994",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "alternative metal",
+  "alternative rock",
+  "hard rock",
+  "post-grunge"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/FUEL_2022_b.jpg/500px-FUEL_2022_b.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Fuel",
+ "resumo_pt": "Fuel é uma banda americana de hard rock, formada pelo guitarrista/compositor Carl Bell e pelo baixista Jeff Abercrombie em 1989. Originalmente conhecido como Small the Joy, eles mudaram o nome do grupo para Fuel em 1994. São conhecidos por seus hits \"Shimmer\"  do álbum Sunburn, \"Hemorrhage (In My Hands)\" e \"Bad Day\" do Something Like Human, e \"Falls on Me\" do Natural Selection.\nEm 2021 a banda volta à atividade com o seu novo álbum \"Anomaly\", e também com seu novo vocalista John Corsale, Mark Klotz (guitarra e vocais) e Tommy Nat no Baixo, com Carl Bell e Kevin Miller na Bateria, a estreia do novo Álbum esta marcada para Outubro deste mesmo ano.",
+ "resumo_en": "Fuel is an American rock band from Harrisburg, Pennsylvania, formed in 1993 by guitarist-songwriter Carl Bell, vocalist Brett Scallions, drummer Jody Abbott, keyboardist Erik Avakian, and bassist Jeff Abercrombie. After several independent releases, the band signed with 550 Music and Epic Records to release their debut studio album, Sunburn (1998), which was supported by their first hit single, \"Shimmer\". The song peaked at number 42 on the Billboard Hot 100, while their 2000 single, \"Hemorrhage (In My Hands)\", peaked at number 30. The latter, along with the moderate hit \"Bad Day\", appeared on the band's second album, Something Like Human. Fuel's third album, Natural Selection (2003), was met with moderate success and is their last to feature Bell and Scallions together.\nThe band has since undergone several lineup changes. In 2010, Bell leased the Fuel name to Scallions, who had left in 2006. Scallions subsequently reformed the band with a new lineup and released the album Puppet Strings in 2014. In 2020, Fuel's naming rights reverted back to Bell, who formed a new group that featured original drummer Kevin Miller. Bell and Miller's attempts to reunite with Scallions proved unsuccessful, with Scallions claiming he would never again perform under the Fuel name.\nFuel saw considerable commercial success in the late 1990s and early 2000s. Sunburn was certified platinum by the Recording Industry Association of America, while Something Like Human has been certified double-platinum.",
+ "albuns": [
+  {
+   "id": "40c1744b-02ab-34d0-9048-39da6dca36a1",
+   "titulo": "Sunburn",
+   "data": "1998-03-31",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/9d5566ee-df33-40eb-8fe3-2532742c524d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Untitled",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Bittersweet",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Shimmer",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Jesus or a Gun",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Sunburn",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "New Thing",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s Come to This",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Song for You",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Mary Pretends",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Ozone",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Hideaway",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sunburn_%28Fuel_album%29",
+   "resumo_en": "Sunburn is the debut studio album by American rock band Fuel, released by 550 Music, an imprint of Epic Records on March 31, 1998. It was produced by Steven Haigler. The songs \"Shimmer\", \"Jesus or a Gun\", and \"Bittersweet\" were issued as commercial singles following its release; the former peaked at number 42 on the Billboard Hot 100. Critically, the album was met with average reviews, and commercially, the album modestly entered the Billboard 200 at number 77. By June 13, 1998, Sunburn had sold 97,000 copies. Sunburn received platinum certification by the Recording Industry Association of America (RIAA)—signifying sales of one million units—on May 24, 2000.\nBy September 1999, the album had sold 643,000 copies in the United States. By September 2000, US sales had reached 760,000 copies.\n\nIn 2025, Lauryn Schaffner of Loudwire named the album the best post-grunge release of 1998."
+  },
+  {
+   "id": "5f331320-52ab-332f-9052-3af4b0f8ad41",
+   "titulo": "Something Like Human",
+   "data": "2000-09-19",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/928fae8b-5b5c-441b-9659-55744563814c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Last Time",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Hemorrhage (In My Hands)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Empty Spaces",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Scar",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Day",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Prove",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Easy",
+     "duracao": "4:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Down",
+     "duracao": "3:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Solace",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Knives",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Innocent",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Slow",
+     "duracao": "4:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Hemorrhage (In My Hands) (acoustic)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Daniel",
+     "duracao": "4:29"
+    },
+    {
+     "n": 15,
+     "titulo": "Going to California",
+     "duracao": "3:52"
+    },
+    {
+     "n": 16,
+     "titulo": "Walk the Sky",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Something_Like_Human",
+   "resumo_en": "Something Like Human is the second album by American rock band Fuel, released on September 19, 2000, by Epic Records. Something Like Human peaked at number 17 on the Billboard 200, and was preceded by the single \"Hemorrhage (In My Hands)\", which peaked at number 30 on the Billboard Hot 100 and remains their highest-charting song. The album's title comes from the lyric heard on its sixth track, \"Prove\".\nIt remains Fuel's best-selling album. One year after its release, the album received double platinum certification by the Recording Industry Association of America (RIAA). The album also received gold certification by Music Canada (MC) in June 2001. Likewise with the band's previous album, it received moderate to average critical reception, with praise directed towards lead singer Brett Scallions.\nThe bonus version of the album includes an acoustic version of \"Hemorrhage\" and also includes the cover songs \"Daniel\", originally by Elton John, and \"Going to California\" by Led Zeppelin. In addition, these were also included on the album's bonus disc, which also contained the track \"Walk the Sky\" (previously made available on the reissue of the band's previous album), as well as music vid"
+  },
+  {
+   "id": "bb0bee29-2e0b-38b5-bfd5-831f8ce469a9",
+   "titulo": "Natural Selection",
+   "data": "2003-09-23",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/c4c27547-665e-4992-8825-a2d3fbc362bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Quarter",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Down Inside of You",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Million Miles",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Falls on Me",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "These Things",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Won’t Back Down (Bring You Hell remix)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Running Away",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Most of All",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Getting Thru?",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Die Like This",
+     "duracao": "4:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Luck",
+     "duracao": "4:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Days With You",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Natural_Selection_%28Fuel_album%29",
+   "resumo_en": "Natural Selection is the third album by American rock band Fuel, released on September 23, 2003, by Epic Records.\nPreceding the album's release \"Won't Back Down\" was featured as the lead single of the film soundtrack Daredevil: The Album. \"Falls on Me\" served as the second single of Natural Selection and received much airplay on MTV throughout the summer. The album also had a third marginally successful single in \"Million Miles\". The song \"Quarter\" was featured in the video games Need for Speed: Underground, NFL Street, and NASCAR Thunder 2004."
+  },
+  {
+   "id": "e5adae05-7f91-4223-a121-88cd2de0da2a",
+   "titulo": "Angels & Devils",
+   "data": "2007-08-07",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/49792e9e-fc74-4225-ac09-faf0e8eee2af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gone",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "I Should Have Told You",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Forever",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Wasted Time (g‐mix)",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Leave the Memories Alone",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Mess",
+     "duracao": "0:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Not This Time",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Scars in the Making",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Hangin’ Around",
+     "duracao": "3:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Again",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Halos of the Sun",
+     "duracao": "3:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Angels Take a Soul",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Wasted Time (s‐mix)",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.8,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Angels_%26_Devils_%28Fuel_album%29",
+   "resumo_en": "Angels & Devils is the fourth studio album by American rock band Fuel. Released on August 7, 2007, it was their first studio effort since 2003's Natural Selection and was the last Fuel album to feature original bassist Jeff Abercrombie. It was also Fuel's only studio album to feature new vocalist Toryn Green, and their final album for Epic Records. With a new singer, the album also introduced a new Fuel logo.\nFormer Godsmack drummer Tommy Stewart was announced as the band's new drummer but was unable to perform on the album due to other commitments so Josh Freese and Tommy Lee performed drums in his place."
+  },
+  {
+   "id": "bde18ab9-3886-4c05-b929-1baec018e276",
+   "titulo": "Puppet Strings",
+   "data": "2014-03-04",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/221ce23e-0601-4da5-8b1b-f6da32d31b6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Yeah",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Soul to Preach To",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Hey, Mama",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Time for Me to Stop",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Wander",
+     "duracao": "5:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Cold Summer",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "I Can See the Sun",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Puppet Strings",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Headache",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "What We Can Never Have",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.7,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Puppet_Strings",
+   "resumo_en": "Puppet Strings is the fifth studio album by American rock band Fuel. Released March 4, 2014, it is their final album to feature original lead singer Brett Scallions, and the only Fuel album not to feature original songwriter/guitarist Carl Bell. Additionally, none of the album's personnel contributed to the recording of Fuel's previous album Angels & Devils (2007) or the next album Anomaly."
+  },
+  {
+   "id": "14e1ae0a-5bb6-43f1-ba1b-c3b3c9c93a8b",
+   "titulo": "Ånomåly",
+   "data": "2021-10-22",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/e290befa-d17e-4fb4-9474-06c3565b8c72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Say I",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Landslide",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m Gone",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "The Only Ones",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Keep It Away",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Give",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Alive",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "4 Walls",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "See Your Eyes",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Heaven’s Waiting 4 U",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "389bd973-ddc4-4d03-b555-33ceb3d7ac35",
+   "titulo": "Pendulum",
+   "data": "2026-10-30",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/246af3ee-0214-4490-b71d-c391b117b5e0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Want It",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Pull Me In",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Bad at Love",
+     "duracao": "2:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Hotel California",
+     "duracao": "5:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Walk Away",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Enemy",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Innocent",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Blame",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Everything",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "For You",
+     "duracao": "3:04"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": ""
+  }
+ ]
+}

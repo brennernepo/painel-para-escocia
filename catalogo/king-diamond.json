@@ -1,0 +1,946 @@
+{
+ "id": "king-diamond",
+ "nome": "King Diamond",
+ "cena": "Heavy metal clássico e NWOBHM",
+ "mbid": "00565b31-14a3-4913-bd22-385eb40dd13c",
+ "wikidata": "Q3241839",
+ "tipo": "Group",
+ "pais": "DK",
+ "inicio": "1985",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "heavy metal",
+  "metal",
+  "black metal",
+  "progressive metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/W2594_Hellfest2016_KingDiamond_8970_crop.jpg/500px-W2594_Hellfest2016_KingDiamond_8970_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/King_Diamond_%28band%29",
+ "resumo_pt": "",
+ "resumo_en": "King Diamond is a Danish heavy metal band formed in 1985 by vocalist King Diamond, guitarists Andy LaRocque and Michael Denner, bassist Timi Hansen, and drummer Mikkey Dee. King, Denner and Hansen had recently disbanded Mercyful Fate, and formed a new band under the King Diamond moniker, already known from the initial Mercyful Fate era. Since the band's inception, there have been over fifteen musicians in and out of King Diamond, with Diamond as the only remaining original member, while LaRocque remained until 2026. Their current line-up consists of Diamond, guitarist Mike Wead, drummer Matt Thompson, bassist Pontus Egberg and guitarist Gus G as LaRocque's replacement.\nKing Diamond has released twelve studio albums (most of them concept albums), two live albums, two extended plays, five compilation albums, and five singles. Their first album, Fatal Portrait, was released in 1986, followed a year later by the band's first concept album, Abigail (1987). Three more albums followed – \"Them\" (1988), Conspiracy (1989), and The Eye (1990) – before the band went on hiatus around 1992, when King Diamond, Denner, and Hansen reformed Mercyful Fate. He reformed the King Diamond band in 1994, and balanced recording and touring with Mercyful Fate and his eponymous band for nearly a decade, until the former went on hiatus again by the early 2000s. King Diamond's studio output has been minimal since 2007's Give Me Your Soul...Please, though the band has continued to perform live and occasion",
+ "albuns": [
+  {
+   "id": "e926de4f-0cfc-3199-843a-2dbcfc3f4176",
+   "titulo": "Fatal Portrait",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/4964575f-b6d5-31ed-9882-bb752fb0b0f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Candle",
+     "duracao": "6:40"
+    },
+    {
+     "n": 2,
+     "titulo": "The Jonah",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "The Portrait",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Dressed in White",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Charon",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Lurking in the Dark",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Halloween",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Voices From the Past",
+     "duracao": "1:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Haunted",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "The Lake",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "ec2dfd65-cdd8-33c1-8ebc-be36c5a686f7",
+   "titulo": "Abigail",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/10aec700-aea3-4b8f-a74a-70fa5b8a8078/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Funeral",
+     "duracao": "1:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Arrival",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "A Mansion in Darkness",
+     "duracao": "4:34"
+    },
+    {
+     "n": 4,
+     "titulo": "The Family Ghost",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "The 7th Day of July 1777",
+     "duracao": "4:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Omens",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Possession",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Abigail",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Horsemen",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Abigail_%28album%29",
+   "resumo_en": "Abigail is the second album by Danish heavy metal band King Diamond, and the band's first concept album. It was released on 29 May 1987 through Roadrunner Records. There were several re-releases, first in 1997 with four bonus tracks, and then a 25th anniversary edition in 2005 with a bonus DVD. Abigail is the last album to feature guitarist Michael Denner and bassist Timi Hansen."
+  },
+  {
+   "id": "57ed3d2c-c6ae-3bc9-94e3-6bc2e7d8a774",
+   "titulo": "“Them”",
+   "data": "1988-07-18",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/c2884c3d-0bfe-4d11-a8cc-744d0489c6f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Out From the Asylum",
+     "duracao": "1:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Welcome Home",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "The Invisible Guests",
+     "duracao": "5:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Tea",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Mother’s Getting Weaker",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Bye, Bye, Missy",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "A Broken Spell",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "The Accusation Chair",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "“Them”",
+     "duracao": "1:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Twilight Symphony",
+     "duracao": "4:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Coming Home",
+     "duracao": "1:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Phone Call",
+     "duracao": "1:39"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": null,
+   "resumo_en": ""
+  },
+  {
+   "id": "ccc082a2-fe3e-319d-ba0f-f4689d923573",
+   "titulo": "Conspiracy",
+   "data": "1989-10-05",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/9c1f5217-1ec3-45b5-acb9-1376a1c323d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "At the Graves",
+     "duracao": "8:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Sleepless Nights",
+     "duracao": "5:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Lies",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "A Visit From the Dead",
+     "duracao": "6:11"
+    },
+    {
+     "n": 5,
+     "titulo": "The Wedding Dream",
+     "duracao": "6:00"
+    },
+    {
+     "n": 6,
+     "titulo": "“Amon” Belongs to “Them”",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Something Weird",
+     "duracao": "2:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Victimized",
+     "duracao": "5:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Let It Be Done",
+     "duracao": "1:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Cremation",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Conspiracy_%28King_Diamond_album%29",
+   "resumo_en": "Conspiracy is the fourth studio album by Danish heavy metal band King Diamond, and the second part of a story that began on the album Them. Conspiracy was released on 21 August 1989 through Roadrunner Records, and is the last album to feature drummer Mikkey Dee who left the group but recorded the album as a session member.\nThe song \"Cremation\" appears in the 2009 video game Brütal Legend."
+  },
+  {
+   "id": "da8b8edb-0111-3ad7-97ac-250032b7c09c",
+   "titulo": "The Eye",
+   "data": "1990-10",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/b39d6fe6-f4ee-48e9-9b4d-5d68aa6c01c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eye of the Witch",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "The Trial (Chambre Ardente)",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Burn",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Two Little Girls",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Into the Convent",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Father Picard",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Behind These Walls",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "The Meetings",
+     "duracao": "4:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Insanity",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "1642 Imprisonment",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "The Curse",
+     "duracao": "5:44"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Eye_%28King_Diamond_album%29",
+   "resumo_en": "The Eye is the fifth studio album by Danish heavy metal band King Diamond, released on 31 October 1990 through Roadrunner Records. It continues to feature a major storyline like other King Diamond albums, though it is told differently. The Eye is the only album to feature drummer Snowy Shaw and the last to feature guitarist Pete Blakk and bassist Hal Patino, until the latter's return on Abigail II: The Revenge."
+  },
+  {
+   "id": "ace0c41d-1fd3-3e14-b079-1ac1b3e3f1b9",
+   "titulo": "The Spider’s Lullabye",
+   "data": "1995-05-29",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/5d198986-2beb-44a3-b18d-654d60cda82c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "From the Other Side",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Killer",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "The Poltergeist",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Dreams",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Moonlight",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Six Feet Under",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "The Spider’s Lullabye",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Eastmann’s Cure",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Room 17",
+     "duracao": "8:17"
+    },
+    {
+     "n": 10,
+     "titulo": "To the Morgue",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Spider%27s_Lullabye",
+   "resumo_en": "The Spider's Lullabye is the sixth studio album by Danish heavy metal band King Diamond, released on 6 June 1995. Unlike other King Diamond albums, it is not a full concept album; only half the songs form a single plot. \nThe album was recorded after a four-year hiatus and this is the first release to feature guitarist Herb Simonsen, bassist Chris Estes and drummer Darrin Anthony. It is also the band's first release on Metal Blade Records. Guitarist Andy LaRocque said it was the most difficult King Diamond album to record because \"we had a new band [and] we had a totally new environment recording in the U.S., with a totally different producer.\" \nThe album was remastered by LaRocque and re-released in 2009."
+  },
+  {
+   "id": "b719b022-c483-3fe0-a206-5667def748fb",
+   "titulo": "The Graveyard",
+   "data": "1996-09-20",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/06746db6-2070-4645-ba87-dae1446d49f8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Graveyard",
+     "duracao": "1:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Black Hill Sanitarium",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Waiting",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Heads on the Wall",
+     "duracao": "6:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Whispers",
+     "duracao": "0:31"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Not a Stranger",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Digging Graves",
+     "duracao": "6:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Meet Me at Midnight",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Sleep Tight Little Baby",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Daddy",
+     "duracao": "3:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Trick or Treat",
+     "duracao": "5:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Up From the Grave",
+     "duracao": "3:18"
+    },
+    {
+     "n": 13,
+     "titulo": "I Am",
+     "duracao": "5:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Lucy Forever",
+     "duracao": "4:56"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Graveyard_%28album%29",
+   "resumo_en": "The Graveyard is the seventh studio album by Danish heavy metal band King Diamond, released in September 1996. It was the first album by King Diamond on the Massacre Records label and the last to feature drummer Darrin Anthony. The Graveyard is one of the most successful King Diamond's albums, peaking at No. 23 on the Finnish Charts and remaining for two weeks in the Top 40. The album was remastered by Andy LaRocque and re-released in 2009."
+  },
+  {
+   "id": "105a5710-82fb-3d1c-899c-fecf22142fa7",
+   "titulo": "Voodoo",
+   "data": "1998-02-23",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/31441943-929c-4718-b649-038ffc3a2a0a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Louisiana Darkness",
+     "duracao": "1:45"
+    },
+    {
+     "n": 2,
+     "titulo": "“LOA” House",
+     "duracao": "5:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Life After Death",
+     "duracao": "5:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Voodoo",
+     "duracao": "4:36"
+    },
+    {
+     "n": 5,
+     "titulo": "A Secret",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Salem",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "One Down Two to Go",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Sending of Dead",
+     "duracao": "5:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Sarah’s Night",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "The Exorcist",
+     "duracao": "4:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Unclean Spirits",
+     "duracao": "1:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Cross of Baron Samedi",
+     "duracao": "4:31"
+    },
+    {
+     "n": 13,
+     "titulo": "If They Only Knew",
+     "duracao": "0:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Aftermath",
+     "duracao": "1:39"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Voodoo_%28King_Diamond_album%29",
+   "resumo_en": "Voodoo is the eighth studio album by Danish heavy metal band King Diamond, released on 24 February 1998. It is the first album to feature drummer John Luke Hébert and the last one to feature guitarist Herb Simonsen and bassist Chris Estes. The album cover was drawn by Kristian Wåhlin.\nVoodoo was remastered by Andy LaRocque and re-released in 2009."
+  },
+  {
+   "id": "70746e31-9b3c-3ba6-b856-db27ed179a5a",
+   "titulo": "House of God",
+   "data": "2000-05-29",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/ea26bed9-bdbd-31db-a839-5c99f159152d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Upon the Cross",
+     "duracao": "1:44"
+    },
+    {
+     "n": 2,
+     "titulo": "The Trees Have Eyes",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Follow the Wolf",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "House of God",
+     "duracao": "5:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Devil",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "The Pact",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Goodbye",
+     "duracao": "1:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Just a Shadow",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Help!!!",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Passage to Hell",
+     "duracao": "1:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Catacomb",
+     "duracao": "5:01"
+    },
+    {
+     "n": 12,
+     "titulo": "This Place Is Terrible",
+     "duracao": "5:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Peace of Mind",
+     "duracao": "2:31"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.1,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/House_of_God_%28album%29",
+   "resumo_en": "House of God is the ninth studio album by Danish heavy metal band King Diamond, released on 20 June 2000. It is the only album to feature guitarist Glen Drover and bassist Paul David Harbour, and the last to feature drummer John Luke Hébert.\nHouse of God was remastered by Andy LaRocque and re-released in 2009."
+  },
+  {
+   "id": "4f58c327-5a6a-3595-89e1-a77549e61d73",
+   "titulo": "Abigail II: The Revenge",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/68ee8bdf-801d-45e4-8cd3-221f71dcb34a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Spare This Life",
+     "duracao": "1:44"
+    },
+    {
+     "n": 2,
+     "titulo": "The Storm",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Mansion in Sorrow",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Miriam",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Little One",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Slippery Stairs",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "The Crypt",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Broken Glass",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "More Than Pain",
+     "duracao": "2:31"
+    },
+    {
+     "n": 10,
+     "titulo": "The Wheelchair",
+     "duracao": "5:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Spirits",
+     "duracao": "4:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Mommy",
+     "duracao": "6:26"
+    },
+    {
+     "n": 13,
+     "titulo": "Sorry Dear",
+     "duracao": "0:54"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Abigail_II%3A_The_Revenge",
+   "resumo_en": "Abigail II: The Revenge is the tenth studio album by Danish heavy metal band King Diamond, released on 29 January 2002, and is plotwise a successor to the 1987 album Abigail. Abigail II: The Revenge is the first album to feature guitarist Mike Wead, drummer Matt Thompson, and the first to feature bassist Hal Patino since The Eye.\nThe cover art was done by Travis Smith.\nAccording to the liner notes, the character of Brandon Henry is based on King's friend, Brandon J. Henry, who looks after King's house when he is on the road."
+  },
+  {
+   "id": "ba4a5826-3ee4-3e7c-8382-f3b3b3fc7f96",
+   "titulo": "The Puppet Master",
+   "data": "2003-10-20",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/7fb2c936-ab49-490a-92ef-59936487be71/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Midnight",
+     "duracao": "1:55"
+    },
+    {
+     "n": 2,
+     "titulo": "The Puppet Master",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Magic",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Emerencia",
+     "duracao": "5:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Blue Eyes",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "The Ritual",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "No More Me",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Blood to Walk",
+     "duracao": "5:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Darkness",
+     "duracao": "4:37"
+    },
+    {
+     "n": 10,
+     "titulo": "So Sad",
+     "duracao": "4:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Christmas",
+     "duracao": "5:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Living Dead",
+     "duracao": "6:04"
+    },
+    {
+     "n": 13,
+     "titulo": "King Diamond Tells the Story of the Puppet Master",
+     "duracao": "30:34"
+    }
+   ],
+   "duracao_min": 86,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Puppet_Master_%28album%29",
+   "resumo_en": "The Puppet Master is the eleventh studio album by Danish heavy metal band King Diamond, released on 21 October 2003. A limited edition includes a DVD on which frontman King Diamond tells the story of the Puppet Master. It is a concept album with a storyline telling the tale of a young couple who go to watch a puppet show in Budapest in the 1700s, and end up being turned into undead puppets by the Puppet Master and his wife."
+  },
+  {
+   "id": "1c4ec23f-3b33-32b3-8ba8-118a373717c3",
+   "titulo": "Give Me Your Soul… Please",
+   "data": "2007-06-26",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/602ed017-8ec5-4d75-b6c4-14ba8b778777/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Dead",
+     "duracao": "1:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Never Ending Hill",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Is Anybody Here?",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Black of Night",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Mirror Mirror",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "The Cellar",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Pictures in Red",
+     "duracao": "1:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Give Me Your Soul",
+     "duracao": "5:28"
+    },
+    {
+     "n": 9,
+     "titulo": "The Floating Head",
+     "duracao": "4:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Cold as Ice",
+     "duracao": "4:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Shapes of Black",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "The Girl in the Bloody Dress",
+     "duracao": "5:07"
+    },
+    {
+     "n": 13,
+     "titulo": "Moving On",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Give_Me_Your_Soul...Please",
+   "resumo_en": "Give Me Your Soul...Please is the twelfth studio album by Danish heavy metal band King Diamond, released on 26 June 2007. The album's concept and cover art are both based on a painting titled \"My Mother's Eyes\". The black cat featured in the album is based on King's own cat, Magic. This was the last album to feature bassist Hal Patino, who was fired from the band in 2014, and guitarist Andy LaRocque who departed from the band in 2026.\nIn the July/August issue of UK metal magazine Zero Tolerance, King elaborated on the themes of the album, being a story of two dead children, murdered by their father, relating their tale to him. He stated that cases of parents killing their children and then themselves were a large influence, citing such an incident which occurred in Dallas four days before the interview took place. Coincidentally, the music video for \"Give Me Your Soul\" was also released the day after the highly publicized Chris Benoit double-murder and suicide."
+  }
+ ]
+}

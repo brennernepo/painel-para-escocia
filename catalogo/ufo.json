@@ -1,0 +1,1609 @@
+{
+ "id": "ufo",
+ "nome": "UFO",
+ "cena": "Hard rock",
+ "mbid": "c0bf9e20-2872-4897-ad1f-0882b83272a0",
+ "wikidata": "Q251657",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "space rock",
+  "rock",
+  "classic rock",
+  "heavy metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/UFO_%E2%80%93_Hamburger_Harley_Days_2015_04.jpg/500px-UFO_%E2%80%93_Hamburger_Harley_Days_2015_04.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/UFO_%28banda%29",
+ "resumo_pt": "UFO foi uma banda de rock formada em 1969, com Phil Mogg (vocal), Pete Way (baixo), Andy Parker (bateria) e Mick Bolton (guitarra). Junto com Black Sabbath, Led Zeppelin e Deep Purple é considerada uma das primeiras bandas de heavy metal e hard rock da história.\nUFO veio a ser um grupo que fez a transição entre o heavy rock inicial e o New Wave of British Heavy Metal. O UFO foi ranqueado No. 84 na lista do canal VH1 dos  \"100 Maiores Artistas de Hard Rock\".",
+ "resumo_en": "UFO were  an English rock band formed in London in 1968. They became a transitional group between early hard rock and heavy metal and the new wave of British heavy metal (NWOBHM). The band's final line-up consisted of vocalist Phil Mogg, lead guitarist Vinnie Moore, rhythm guitarist and keyboardist Neil Carter, bass guitarist Rob De Luca, and drummer Andy Parker. They had gone through several line-up changes, leaving Mogg as the only constant member, and had disbanded three times (first between April 1983 and October 1984, second from 1989 to 1991, and third in 2024). The band's \"classic\" line-up comprised Mogg, Parker, bassist Pete Way, and former Scorpions guitarist Michael Schenker, with keyboardist Paul Raymond joining later. In May 2018, Mogg announced that he would retire from UFO after one last tour as a member of the band in 2019; however, their farewell tour was set to conclude in 2022 before it was cancelled, due to Mogg's health issues. Mogg confirmed UFO's third disbandment in April 2024.\nOver a career spanning five decades, UFO released 23 studio albums (including one cover album), 14 live albums, and 16 compilation albums. They achieved moderate success in the late 1970s and early 1980s with several albums and singles (including their 1979 live album Strangers in the Night) in the UK and US Top 40 charts, and have sold over 20 million records worldwide. Some of their most-recognised songs include \"Doctor Doctor\", \"Rock Bottom\", \"Natural Thing\", \"Lights Out\", \"To",
+ "albuns": [
+  {
+   "id": "7a379967-efcc-392a-b45b-eac0db9a55b9",
+   "titulo": "UFO 1",
+   "data": "1970-10",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/dc63ad00-8652-4083-a765-fa91095c0538/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Unidentified Flying Object",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Boogie",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "C’mon Everybody",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Shake It About",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "(Come Away) Melinda",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Timothy",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Follow You Home",
+     "duracao": "2:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Treacle People",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Who Do You Love",
+     "duracao": "7:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Evil",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/UFO_1",
+   "resumo_en": "UFO 1 is the debut studio album by British rock band UFO. It was first released in the UK by Beacon Records in October 1970. The first US release was on Rare Earth Records in April 1971. Neither of these releases charted, but the album succeeded in Germany and Japan.\nThe album was reissued under the title Unidentified Flying Object, featuring four of the five tracks from the band's second album. This reissue shows a photo of the band from the 1980s on the cover.\nThe album was also reissued on the Flying: The Early Years 1970–1973 compilation album of 2004, along with all the other recordings made by the band with their original guitarist, Mick Bolton. It was also given a straight reissue under the name All The Hits & More - The Early Days (XXX Media, Germany, 2011), with no additional tracks."
+  },
+  {
+   "id": "7f708f0d-a6b8-3bf0-aeda-b1f827b6f1b4",
+   "titulo": "UFO 2: Flying - One Hour Space Rock",
+   "data": "1971-10",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/ba522575-d9ae-46d0-9b8d-9e1db736ad17/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silver Bird",
+     "duracao": "6:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Star Storm",
+     "duracao": "18:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Prince Kajuku",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "The Coming of Prince Kajuku",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Flying",
+     "duracao": "26:30"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 3.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/UFO_2%3A_Flying",
+   "resumo_en": "UFO 2: Flying (sometimes called simply UFO 2 or Flying; also subtitled Space Rock) is the second studio album by English rock band UFO. It was released in October 1971 by the Beacon label. It was issued on CD in 1999 by Repertoire Records.\nThe album is distinctive for its title track, which was one of the longest tracks recorded in rock music up to that point and the longest track the band ever recorded. The track finishes with a backmasked reading from Rudyard Kipling's Gunga Din, \"Tho' I've belted you an' flayed you, By the livin' God that made you, You're a better man than I am, Gunga Din!\", and a slowed phrase, \"Yes we know, it's all been done before before before\".\nThe album was reissued on the Flying: The Early Years 1970–1973 compilation album of 2004, along with all the other recordings made by the band with their original guitarist, Mick Bolton."
+  },
+  {
+   "id": "4c7412bc-cf90-33f9-a1ae-911bdcf2bc6f",
+   "titulo": "Phenomenon",
+   "data": "1974-05",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/34945ed2-a8f0-4849-9d13-2de44a558d98/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too Young to Know",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Crystal Light",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Doctor Doctor",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Space Child",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock Bottom",
+     "duracao": "6:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Oh My",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Time on My Hands",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Built for Comfort",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Lipstick Traces",
+     "duracao": "2:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Queen of the Deep",
+     "duracao": "5:48"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Phenomenon_%28UFO_album%29",
+   "resumo_en": "Phenomenon is the third studio album by English rock band UFO, released in May 1974. It was the band's first album after German guitarist Michael Schenker joined them, replacing Mick Bolton."
+  },
+  {
+   "id": "3e0d0569-42c9-34cd-b5c6-02b283b5f4e9",
+   "titulo": "Force It",
+   "data": "1975-07",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/927eaa3d-b132-4764-94e6-907de7c7d1c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let It Roll",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Shoot Shoot",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "High Flyer",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Lost Love",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Out in the Street",
+     "duracao": "5:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Mother Mary",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Too Much of Nothing",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Dance Your Life Away",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "This Kid's (including Between the Walls)",
+     "duracao": "6:14"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Force_It",
+   "resumo_en": "Force It is the fourth studio album by English rock band UFO, released in 1975. It was their first album to chart in the United States.\nThe album was produced by Ten Years After bass player Leo Lyons. Another Ten Years After member, Chick Churchill, played Fender Rhodes electric piano keyboard, the first use of that instrument on a UFO record.\nThe CD reissue was remastered at Sound Recording Technology in Cambridge in 1994."
+  },
+  {
+   "id": "da0bba7e-b5be-3244-a342-28d875059d2a",
+   "titulo": "No Heavy Petting",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/6c2bd96f-49c9-4b1c-be59-bbc69c55b581/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Natural Thing",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm A Loser",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Can You Roll Her",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Belladonna",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Reasons Love",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Highway Lady",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "On With The Action",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "A Fool In Love",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Martian Landscape",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.1,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/No_Heavy_Petting",
+   "resumo_en": "No Heavy Petting is the fifth studio album by English rock band UFO, released in 1976. It featured a new band member, keyboard player Danny Peyronel. It was UFO's first record with a full-time keyboardist, and their first as a five-piece band. Peyronel co-wrote several of the tracks, and was only in the band for this one album. This was the last in a trilogy of UFO albums produced by Leo Lyons, the bassist for Ten Years After. \"No Heavy Petting\" was a rule posted in many public baths in England in the 1970s and 1980s.\nIn 1994, a CD including this album and Lights Out was released by BGO Records. Like many UFO CDs, it was remastered and reissued with bonus tracks in 2007."
+  },
+  {
+   "id": "2d2751bb-7754-30fe-9942-39823a389458",
+   "titulo": "Lights Out",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/298b4c40-3946-4000-9c45-ca27d08129d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too Hot to Handle",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Another Suicide",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Try Me",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Lights Out",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Gettin’ Ready",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Alone Again Or",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Electric Phase",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Love to Love",
+     "duracao": "7:38"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lights_Out_%28UFO_album%29",
+   "resumo_en": "Lights Out is the sixth studio album by English rock band UFO, released in 1977. All songs are band originals except \"Alone Again Or\", a cover of a song by the band Love. Reaching number 23 on the Billboard 200, it is the band's highest-charting album in the United States. In the UK, it hit number 54 and stayed on the chart for two weeks.\nThe album was UFO's first to feature lush string arrangements, alongside more complex song structures than on previous albums. Producer Ron Nevison brought in Alan McMillan to handle the string and horn arrangements. The most notable song to feature orchestral colouring was \"Love to Love\". Lights Out is also the first UFO album to feature Paul Raymond on keyboards and rhythm guitar.\nIn 1994, a CD comprising this album and No Heavy Petting was released by BGO Records. 2008 EMI's remastered edition includes four live tracks recorded at The Roundhouse, London. The album cover erroneously states that these tracks were recorded in 1976: the correct year is 1977. EMI did, however, correct the writing credits, with Paul Raymond finally being acknowledged for his contributions."
+  },
+  {
+   "id": "eea11ea6-e44d-3f6d-8ee9-2c2f3ac8343d",
+   "titulo": "Obsession",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/b010904b-4301-4681-8fe4-a82aa220ca02/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Only You Can Rock Me",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Pack It Up (And Go)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Arbory Hill",
+     "duracao": "1:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain’t No Baby",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Lookin’ Out for No. 1",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Hot ’n’ Ready",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Cherry",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "You Don’t Fool Me",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Lookin’ Out for No. 1 (reprise)",
+     "duracao": "1:14"
+    },
+    {
+     "n": 10,
+     "titulo": "One More for the Rodeo",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Born to Lose",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Obsession_%28UFO_album%29",
+   "resumo_en": "Obsession is the seventh studio album by English rock band UFO, released in 1978. This was the final studio album to feature Michael Schenker on lead guitar, until he returned to the band in 1993. A single from the album, \"Only You Can Rock Me\" / \"Cherry\", was also released in 1978. So too was the band's first three-track EP \"Only You Can Rock Me\", \"Cherry\" / \"Rock Bottom\", reaching No. 50 in the UK singles chart. The album was recorded at an abandoned post office in Los Angeles.\nEMI's 2008 remastered edition includes three bonus live tracks, and also some writing credits are corrected. In 2024, Chrysalis released a deluxe edition on 2 CD's and 3 LP's.  It features  new remaster as well as an entire live show from Cleveland, remixed in 2024 for this release."
+  },
+  {
+   "id": "85ef2cad-541b-3122-81d3-c0cc2488a727",
+   "titulo": "No Place to Run",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/375bcbef-a46f-4311-ab0e-55ab91759dce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alpha Centauri",
+     "duracao": "1:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Lettin' Go",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Mystery Train",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "This Fire Burns Tonight",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Gone in the Night",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Young Blood",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "No Place to Run",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Take It or Leave It",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Money, Money",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Anyday",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/No_Place_to_Run_%28album%29",
+   "resumo_en": "No Place to Run is the eighth studio album by English rock band UFO, released in January 1980 by Chrysalis Records. It was the band's first record to feature Paul Chapman, who replaced Michael Schenker on lead guitar.\nThe album was produced by George Martin, best known for his work with The Beatles. The album cover appeared in different varieties in the UK, although the only difference was the colour of the title. The album yielded one single: \"Young Blood\".\n\"At the time, I thought No Place to Run sounded a bit flat with George Martin's mix\", remarked Chapman in 2009, when a remastered version was released, with an expanded booklet and bonus tracks. \"And I still do, kind of, but it's nowhere near as flat as I first thought.\"\nAs of 2025, the last two surviving band members to play on the album are vocalist Phil Mogg and drummer Andy Parker."
+  },
+  {
+   "id": "40ed8e14-53db-3b1f-a839-18622bf042c5",
+   "titulo": "The Wild, the Willing and the Innocent",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/b117a0ac-c743-486a-926f-f128e4ff2829/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chains Chains",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Long Gone",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "The Wild, the Willing and the Innocent",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "It's Killing Me",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Makin' Moves",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Lonely Heart",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Couldn't Get It Right",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Profession of Violence",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Wild%2C_the_Willing_and_the_Innocent",
+   "resumo_en": "The Wild, the Willing and the Innocent is the ninth studio album by English hard rock band UFO, released on 16 January 1981. It is their first to be entirely self-produced, and its song \"Lonely Heart\" was a minor UK hit.\nFormer Wild Horses' keyboard player Neil Carter replaced Paul Raymond, who had left to join the Michael Schenker Group after a disagreement with singer Phil Mogg. However, according to guitarist Paul Chapman, Carter – though credited on the sleeve – did not play keyboards on the album (see below).\n\n\"We produced it ourselves with nobody breathing over our shoulders. The only problem was it cost twice as much because we kept changing studios and rerecording stuff…. [After Paul Raymond's departure] I tried to get John Sloman involved because he could sing, play keyboards and guitar, and was just out of Lone Star like me. He did play on the Wild album, but most of the keyboards are by the brother of the engineer Gary Edwards – until Phil sacked him. We finished that album without a keyboard player, then got Neil Carter in later.\" – Paul Chapman\nThe original cover was, as usual, designed by the art studio Hipgnosis.\nThe album was remastered at Sound Recording Technology"
+  },
+  {
+   "id": "0065e8d3-c839-3203-ae4d-569295a919cf",
+   "titulo": "Mechanix",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/3061cb80-bac0-493f-89f1-ce3eac419748/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Writer",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Somethin' Else",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Back Into My Life",
+     "duracao": "4:56"
+    },
+    {
+     "n": 4,
+     "titulo": "You'll Get Love",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Doing It All for You",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "We Belong to the Night",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Let It Rain",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Terri",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Feel It",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Dreaming",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mechanix_%28album%29",
+   "resumo_en": "Mechanix is the tenth studio album by English rock band UFO, released in February 1982 by Chrysalis Records.\n\n\"When we got into pre-production, Asia were practising upstairs in the big room and we were downstairs in the little one. But we mostly just sat around looking at each other, or would go upstairs and listen to Asia, just for something to do. Or go down the pub. By then, Neil [Carter, keyboardist] was involved and he had some ideas, but a lot of them were softer, keyboard-oriented. And Pete [Way, bassist] was like, 'Hmm, I'm not too sure about this.' But that album really has its moments.\" – Paul Chapman\nMusic press adverts carried the tagline, 'Mechanix: it will tighten your nuts.'\nImmediately after the accompanying tour, founding member Way left to join former Motörhead guitarist \"Fast\" Eddie Clarke in Fastway.\nMechanix was reissued in 1994 on Repertoire Records. It was also reissued in 2009, remastered and with an expanded booklet and bonus tracks."
+  },
+  {
+   "id": "5d4ca7ae-ce84-3c36-bf51-7981e6f32eef",
+   "titulo": "Making Contact",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/33106207-17f4-4c4e-84fc-a2f326d6539f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blinded by a Lie",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Diesel in the Dust",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "A Fool for Love",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "You and Me",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "When It's Time to Rock",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "The Way the Wild Wind Blows",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Call My Name",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "All Over You",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "No Getaway",
+     "duracao": "3:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Push, It's Love",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Making_Contact_%28album%29",
+   "resumo_en": "Making Contact is the eleventh studio album by English hard rock band UFO, released in January 1983. It was their first album without founder and bassist Pete Way. UFO disbanded after an unsuccessful European tour and a few UK dates in 1983."
+  },
+  {
+   "id": "3c1a080a-3f0b-353e-a844-02a995fd268f",
+   "titulo": "Misdemeanor",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/90c6c4f1-00cd-4857-8637-dcc24d668252/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Time",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "One Heart",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Night Run",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "The Only Ones",
+     "duracao": "5:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Meanstreets",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Name of Love",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Dream the Dream",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Heaven's Gate",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Wreckless",
+     "duracao": "4:54"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Misdemeanor_%28UFO_album%29",
+   "resumo_en": "Misdemeanor is the twelfth studio album by the English rock band UFO, released in 1985. After the disastrous tour supporting Making Contact, UFO disbanded, with lead singer and founding band member Phil Mogg spending time in Los Angeles, where he contacted (through Mike Varney) guitarist Atomik Tommy M. Mogg decided to start a new band, involving the new American guitarist and Paul Gray, who had played bass guitar in the last UFO tour. The three of them recruited former UFO keyboard player Paul Raymond and drummer Robbie France and started writing new material. Chrysalis Records signed the new band as UFO and assigned experienced producer Nick Tauber for the recording process of a new album. France resigned before the recording started and was replaced by former Magnum drummer Jim Simpson. Paul Raymond quit the band during their US tour in August 1986 and was replaced for the rest of the tour by David Jacobson."
+  },
+  {
+   "id": "9d0fe147-caad-30fe-9688-141b247af746",
+   "titulo": "High Stakes & Dangerous Men",
+   "data": "1992-02",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/be537d6a-0965-413d-9d91-bbdc077ad192/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Borderline",
+     "duracao": "5:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Primed for Time",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "She's the One",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain't Life Sweet",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Want to Lose You",
+     "duracao": "5:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Burnin' Fire",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Running Up the Highway",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Back Door Man",
+     "duracao": "5:07"
+    },
+    {
+     "n": 9,
+     "titulo": "One of Those Nights",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Revolution",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Deadly Love",
+     "duracao": "4:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Let the Good Time Roll",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/High_Stakes_%26_Dangerous_Men",
+   "resumo_en": "High Stakes & Dangerous Men  is the thirteenth album by British hard rock band UFO, released in February 1992.  It is the only UFO studio album to feature guitarist Laurence Archer and drummer Clive Edwards, both former members of Wild Horses."
+  },
+  {
+   "id": "fedf0221-2924-3573-8d84-6307dee9dcad",
+   "titulo": "Walk on Water",
+   "data": "1995-04-15",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/b7172939-e81a-4a66-b5dd-984ab6afc171/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Self-Made Man",
+     "duracao": "6:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Venus",
+     "duracao": "5:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Pushed to the Limit",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Stopped by a Bullet (Of Love)",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Darker Days",
+     "duracao": "5:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Running on Empty",
+     "duracao": "5:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Knock, Knock",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Dreaming of Summer",
+     "duracao": "7:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Doctor, Doctor (new version)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Lights Out (new version)",
+     "duracao": "5:10"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Walk_on_Water_%28UFO_album%29",
+   "resumo_en": "Walk on Water is the fourteenth album from the British hard rock band UFO, marking the return of German guitarist Michael Schenker to the band, as well as the returns of keyboardist Paul Raymond and founding drummer Andy Parker. The album did not chart. It was recorded at Rumbo Recorders in Canoga Park, California. It was released first and only in Japan on 14 April 1995 with 11 tracks and in 1997 in other countries with only 10 tracks. It has since been re-released on numerous occasions, with a variety of covers."
+  },
+  {
+   "id": "e57f450f-8152-3489-a055-bc3fa3d54afe",
+   "titulo": "Covenant",
+   "data": "2000-07-12",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/dd34ce36-a59c-45ba-b549-0251a936481c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Is Forever",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Unraveled",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Miss the Lights",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Midnight Train",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Fool’s Gold",
+     "duracao": "5:35"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Middle of Madness",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "The Smell of Money",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Rise Again",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Serenade",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Cowboy Joe",
+     "duracao": "4:13"
+    },
+    {
+     "n": 11,
+     "titulo": "The World and His Dog",
+     "duracao": "3:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Mother Mary",
+     "duracao": "3:52"
+    },
+    {
+     "n": 13,
+     "titulo": "This Kids",
+     "duracao": "4:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Let It Roll",
+     "duracao": "4:41"
+    },
+    {
+     "n": 15,
+     "titulo": "Out in the Streets",
+     "duracao": "5:07"
+    },
+    {
+     "n": 16,
+     "titulo": "Venus",
+     "duracao": "4:51"
+    },
+    {
+     "n": 17,
+     "titulo": "Pushed to the Limit",
+     "duracao": "4:07"
+    },
+    {
+     "n": 18,
+     "titulo": "Love to Love",
+     "duracao": "7:16"
+    }
+   ],
+   "duracao_min": 83,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Covenant_%28UFO_album%29",
+   "resumo_en": "Covenant is the fifteenth album by the British hard rock band UFO. It was published as a limited edition 2-disc album, with disc 1, titled Covenant, containing entirely new material, and disc 2, titled Live USA, containing a collection of classics performed live. Covenant saw the return of Michael Schenker on guitar, as he had left the band in the middle of the Walk on Water tour."
+  },
+  {
+   "id": "b28ac6b6-7496-3698-b373-0b66ba49ea91",
+   "titulo": "Sharks",
+   "data": "2002-02-06",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/2a33228e-b75d-4396-bb4d-4735babbbfc8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Outlaw Man",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Quicksilver Rider",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Serenity",
+     "duracao": "6:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Deadman Walking",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Shadow Dancer",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Someone’s Gonna Have to Pay",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Sea of Faith",
+     "duracao": "5:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Fighting Man",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Perfect View",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Crossing Over",
+     "duracao": "4:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Hawaii",
+     "duracao": "0:43"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sharks_%28album%29",
+   "resumo_en": "Sharks is the sixteenth album by the British hard rock band UFO, released in September 2002. It is the last album to feature longtime German lead guitarist Michael Schenker."
+  },
+  {
+   "id": "abd215dc-b892-3d8f-9812-cb54182453e1",
+   "titulo": "You Are Here",
+   "data": "2004-03-16",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/0e52477c-d393-4577-9f0b-a82ade7a7867/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When Daylight Goes to Town",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Black Cold Coffee",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "The Wild One",
+     "duracao": "5:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Give It Up",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Call Me",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Slipping Away",
+     "duracao": "4:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Spark That Is Us",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Sympathy",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Mr. Freeze",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Jello Man",
+     "duracao": "4:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Baby Blue",
+     "duracao": "4:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Swallow",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/You_Are_Here_%28UFO_album%29",
+   "resumo_en": "You Are Here is the seventeenth studio album by the British hard rock band UFO, released in 2004 by the German record label SPV/Steamhammer. This is the first album with the new band members, Vinnie Moore and Jason Bonham, who replaced the long-time guitarist Michael Schenker and drummer Aynsley Dunbar."
+  },
+  {
+   "id": "f0a38cd1-6f2f-3da6-aa31-5f4013dd646c",
+   "titulo": "The Monkey Puzzle",
+   "data": "2006-09-25",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/7ff21168-7b48-42b7-92dd-b85366a13952/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Being Me",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Heavenly Body",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Some Other Guy",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Who’s Fooling Who",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Black and Blue",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Drink Too Much",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "World Cruise",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Down by the River",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Good Bye You",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Rolling Man",
+     "duracao": "4:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Kingston Town",
+     "duracao": "4:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Try Me (Hannover sessions)",
+     "duracao": "4:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Pack It Up and Go (Hannover sessions)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 14,
+     "titulo": "Love to Love (Hannover sessions)",
+     "duracao": "8:53"
+    },
+    {
+     "n": 15,
+     "titulo": "Slipping Away (Hannover sessions)",
+     "duracao": "4:05"
+    },
+    {
+     "n": 16,
+     "titulo": "Profession of Violence (Hannover sessions)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 17,
+     "titulo": "Cherry (Hannover sessions)",
+     "duracao": "3:42"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Monkey_Puzzle_%28UFO_album%29",
+   "resumo_en": "The Monkey Puzzle is the eighteenth studio album by the British hard rock band UFO. It was released on 25 September 2006 in Europe and a day later on 26 September in the United States.\nIt also marks the return of founding drummer Andy Parker to the band and the last to feature founding bassist Pete Way."
+  },
+  {
+   "id": "34717636-e50c-41d4-a31d-c6a98d8e7472",
+   "titulo": "The Visitor",
+   "data": "2009-05-20",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/5ca03506-3636-41b1-bf7d-70ed731f0b65/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Saving Me",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "On The Waterfront",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Hell Driver",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Stop Breaking Down",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock Ready",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Living Proof",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Can't Buy a Thrill",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Forsaken",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Villains & Thieves",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Stranger in Town",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Dancing With St. Peter",
+     "duracao": "6:30"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Visitor_%28UFO_album%29",
+   "resumo_en": "The Visitor is the nineteenth studio album by the British hard rock band UFO, which was released on 2 June 2009. Bass parts were recorded by Peter Pichl. Since there are no writing credits on the album booklet, they were posted on UFO's official website (June 2009).\nThe digipak edition bonus track, \"Dancing with St. Peter\", had previously been recorded by Phil Mogg with his side project, $ign Of 4, featuring Mogg/Way guitarist Jeff Kollman, one-time Michael Schenker Group drummer Shane Gaalaas, and bassist Jimmy Curtain. The album was originally released in 2002 through Track Records and re-issued in 2008 by Kollman's label Marmaduke Records under the name Mogg & The Sign Of 4."
+  },
+  {
+   "id": "6ca58c4c-08e1-43bd-9c3e-85413663d7f6",
+   "titulo": "Seven Deadly",
+   "data": "2012-02-22",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/5b694c54-c0f6-4a12-8fcd-4c806e272826/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fight Night",
+     "duracao": "4:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Wonderland",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Mojo Town",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Angel Station",
+     "duracao": "6:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Year Of The Gun",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "The Last Stone Rider",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Steal Yourself",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Burn Your House Down",
+     "duracao": "4:58"
+    },
+    {
+     "n": 9,
+     "titulo": "The Fear",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Waving Good Bye",
+     "duracao": "5:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Other Men's Wives - Bonus",
+     "duracao": "3:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Bag O' Blues - Bonus",
+     "duracao": "3:03"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Seven_Deadly",
+   "resumo_en": "Seven Deadly is the twentieth studio album by British hard rock band UFO, released on 27 February 2012."
+  },
+  {
+   "id": "4caaf0ab-53e7-4b54-b512-cf8a75a58829",
+   "titulo": "A Conspiracy of Stars",
+   "data": "2015-02-18",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/782826f9-22fd-49e5-a3eb-ddaf942d5f78/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Killing Kind",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Run Boy Run",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Ballad of the Left Hand Gun",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Sugar Cane",
+     "duracao": "6:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Devils in the Detail",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Precious Cargo",
+     "duracao": "5:49"
+    },
+    {
+     "n": 7,
+     "titulo": "The Real Deal",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "One and Only",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Messiah of Love",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Rollin' Rollin'",
+     "duracao": "5:16"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Conspiracy_of_Stars",
+   "resumo_en": "A Conspiracy of Stars is the 21st studio album by British hard rock band UFO, released on 23 February 2015. This would be the last full-length studio album of original material released by the band before their third breakup in 2024, as their following album, The Salentino Cuts, consisted solely of cover songs."
+  },
+  {
+   "id": "cc3ef0b3-4f00-4235-98c3-5a5426313198",
+   "titulo": "The Salentino Cuts",
+   "data": "2017-09-29",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/e17eb001-99fd-49df-a293-e56e3fb61127/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heartful of Soul",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Break On Through",
+     "duracao": "2:22"
+    },
+    {
+     "n": 3,
+     "titulo": "River of Deceit",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "The Pusher",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Paper in Fire",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock Candy",
+     "duracao": "5:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Mississippi Queen",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Ain’t No Sunshine",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Honey Bee",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Too Rolling Stoned",
+     "duracao": "5:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Just Got Paid",
+     "duracao": "3:23"
+    },
+    {
+     "n": 12,
+     "titulo": "It’s My Life",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Salentino_Cuts",
+   "resumo_en": "The Salentino Cuts  is the 22nd and final studio album (and only covers album) by British rock band UFO. The album was released on Cleopatra Records on 29 September 2017. It was the final studio release by the band prior to the 2019 death of keyboardist/guitarist Paul Raymond. In reference to the album title, bassist Rob De Luca stated \"We recorded the album in Hanover, Germany. We would often end up at an Italian restaurant afterward to eat, drink, hang and plan out the next day. The restaurant is called Salentino's. So it became our de facto clubhouse.\"\nUFO covers songs from the Yardbirds, the Doors, Mad Season, Steppenwolf, John Mellencamp, Montrose, Mountain, Bill Withers, Tom Petty, Robin Trower, ZZ Top and the Animals."
+  }
+ ]
+}
