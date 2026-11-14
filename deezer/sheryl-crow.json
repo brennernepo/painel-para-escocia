@@ -1,0 +1,183 @@
+{
+ "artista": {
+  "id": 1439,
+  "fas": 219425,
+  "foto": "https://cdn-images.dzcdn.net/images/artist/286aadf981e96e12af60afcc997492ce/500x500-000000-80-0-0.jpg"
+ },
+ "parecidas": [
+  {
+   "nome": "Bruce Springsteen",
+   "deezer": 4762,
+   "fas": 1824886,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/7003fc8e2a26471a8bf000b10eff8698/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Alanis Morissette",
+   "deezer": 177,
+   "fas": 950255,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/fbb0f60b7dd4496991c15ed4b5fff6e0/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Melissa Etheridge",
+   "deezer": 3142,
+   "fas": 24831,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/fbf75975f1d20860f66306f92b68a78a/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Sarah McLachlan",
+   "deezer": 1344,
+   "fas": 124976,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d449801ace091f8586f18d19d8dbf5ec/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Chris Isaak",
+   "deezer": 1040,
+   "fas": 127341,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/95c229dc21e296dcdfb44a9b483e882e/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Bryan Adams",
+   "deezer": 170,
+   "fas": 1761890,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/b46a9b348d4cee93fabd6cd31a0c3952/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Rod Stewart",
+   "deezer": 1440,
+   "fas": 1465812,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/9756f1ab4b29c171a622968d5496a120/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Pretenders",
+   "deezer": 315929,
+   "fas": 95292,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2e62384a98bb7aae06b469f4cc6b5757/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Annie Lennox",
+   "deezer": 1148,
+   "fas": 429658,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/fa15274f9fd4122054de36a78d53ae1b/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Hootie & the Blowfish",
+   "deezer": 524,
+   "fas": 21275,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/f8e0268280d5530ca9cdcc668306b228/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Billy Joel",
+   "deezer": 423,
+   "fas": 869670,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/5e6b2f6440af7436b8152aff0d2b9c3e/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Natalie Merchant",
+   "deezer": 1057,
+   "fas": 19503,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/addd1d6d61fc955e4005a15d68166056/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "U2",
+   "deezer": 163,
+   "fas": 7376304,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2a13256599a2420233433ee13f77d4be/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "John Mellencamp",
+   "deezer": 5734,
+   "fas": 90787,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d233030c9254025933b6c4c73d330bdd/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Elton John",
+   "deezer": 413,
+   "fas": 3029832,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/38ac9f6685f8d07d9528d41503bf450f/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Sting",
+   "deezer": 368,
+   "fas": 1795177,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/3fe55f971cd47cb0be73bbd71fe1be2f/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "R.E.M.",
+   "deezer": 129,
+   "fas": 2675800,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/3a7f353f78c9a2cb48c50ea554d877d7/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Robbie Williams",
+   "deezer": 212,
+   "fas": 1922720,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/e8400d3544e4720ba2c6e827d1de59b0/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Shawn Colvin",
+   "deezer": 7463,
+   "fas": 6335,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/518757c132a20a4eb57bd57700b84207/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Corrs",
+   "deezer": 626,
+   "fas": 189407,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/28624cc7b4004f4524bbf51646cd33a2/250x250-000000-80-0-0.jpg"
+  }
+ ],
+ "albuns": {
+  "0f0ecd4f-1d20-34b9-9f67-5aaa785c7f11": {
+   "id": 103812,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/dea12159c1eb687227bd4950543c9031/250x250-000000-80-0-0.jpg"
+  },
+  "9d95366b-4d7b-360a-a847-19286e55f98d": {
+   "id": 103817,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/661eea009e6f606ddc56499977c419bf/250x250-000000-80-0-0.jpg"
+  },
+  "8a037c23-6144-3a4e-b2d8-7beaf3252350": {
+   "id": 60829692,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/2099cf4194579cbcadb38a26d9ae8b9e/250x250-000000-80-0-0.jpg"
+  },
+  "8babf622-27ba-3418-8152-a58d46bf9c6b": {
+   "id": 103245,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/cb1420af09aa4f624350c92a2cd80a65/250x250-000000-80-0-0.jpg"
+  },
+  "8ef1dd7c-62bc-3df2-975f-abe23db370e1": {
+   "id": 8649642,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/a4ab19fdd086676c98b66896caba04b7/250x250-000000-80-0-0.jpg"
+  },
+  "a4b8eee7-ba4f-3b6e-a79c-17c94f02ab3c": {
+   "id": 103684,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/c9052dd2d54b9961eab77fb281b97004/250x250-000000-80-0-0.jpg"
+  },
+  "dc06b481-2d0d-3c39-84c9-e410bfe3f567": {
+   "id": 8641222,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5841d16d0f541f2a73e4123ed398391a/250x250-000000-80-0-0.jpg"
+  },
+  "9ba35d04-1c36-4218-8620-12e8a93df917": {
+   "id": 609861,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/a2f5785ca9eb5499448f283318dcf333/250x250-000000-80-0-0.jpg"
+  },
+  "2cbd28b2-abb3-4b55-a55b-c53eca2126e7": {
+   "id": 6887203,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5ed0e17100298e972fd1585b47401d95/250x250-000000-80-0-0.jpg"
+  },
+  "de67dfa0-454a-4285-ad8e-307b5bfbf560": {
+   "id": 39614631,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/eebfd12e3706cab3fefe9dff6086b1e9/250x250-000000-80-0-0.jpg"
+  },
+  "d54940ba-08d6-412d-9e7e-5fe5a4897c9d": {
+   "id": 108705842,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/c5ee33f7ee6c63d150fceb3887b4155c/250x250-000000-80-0-0.jpg"
+  },
+  "c635a1c6-725c-47a9-bf01-f4f79322e61b": {
+   "id": 563349972,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/ba19eba952420ec4dee38930dfaa06ae/250x250-000000-80-0-0.jpg"
+  },
+  "07ae9d2f-e79f-4aa1-83c4-ef7bc9a6e9a0": {
+   "id": 1043235142,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/7555736539efb29b95e096c58905881d/250x250-000000-80-0-0.jpg"
+  }
+ }
+}
