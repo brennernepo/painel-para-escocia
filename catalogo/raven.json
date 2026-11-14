@@ -1,0 +1,1283 @@
+{
+ "id": "raven",
+ "nome": "Raven",
+ "cena": "Descobertas do acervo",
+ "mbid": "b4854d3a-2678-4f0b-8024-ea78e5c32800",
+ "wikidata": "Q765111",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1975",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "heavy metal",
+  "nwobhm",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Raven_-_Headbangers_Open_Air_2017_11.jpg/500px-Raven_-_Headbangers_Open_Air_2017_11.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Raven_%28banda%29",
+ "resumo_pt": "Raven é uma banda de heavy metal inglesa que construiu grandes álbuns na década de 80 e deu importantes contribuições para o speed metal.\nUma das mais rápidas da NWOBHM. Seus três primeiros discos são irrepreensíveis e o duplo ao vivo Live at the inferno mostra toda a fúria deste power-trio. Em determinado ponto da carreira quiseram amaciar seu poderoso som percebendo logo em seguida que isso era uma besteira. Logo após dois discos comedidos (Stay Hard e The Pack is Back), voltaram com o razoável Life is a Bitch, conseguindo depois a redenção com o ótimo Nothing Exceeds Like Excess.",
+ "resumo_en": "Raven are an English heavy metal band, formed in 1974 by the Gallagher brothers, bassist and vocalist John and guitarist Mark. They have released fifteen studio albums to date, and had a hit with the single \"On and On\". Often referred to as \"athletic rock\" due to their tendency to wearing sports equipment during live sets, the band gained notoriety as part of the early-to-mid 1980s new wave of British heavy metal (NWOBHM) scene and is considered to be an influence and inspiration on the development of the thrash metal genre, including \"the big four\" (Metallica, Slayer, Megadeth and Anthrax), as well as other bands such as Testament, Exodus, Overkill, Kreator, Destruction, Sodom, Onslaught, Death Angel, Flotsam and Jetsam, Coroner, Annihilator, and Razor. Raven are also notable for headlining Metallica's first-ever national tour in 1983.",
+ "albuns": [
+  {
+   "id": "9ca8355b-c428-4ec2-ae96-1927d05b46af",
+   "titulo": "Rock Until You Drop",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/dec7131f-d764-4f1d-94f6-8e5383ec1c38/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Ride",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Hell Patrol",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Need Your Money",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Over the Top",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "39–40",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "For the Future",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Wiped Out",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Rock Until You Drop",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Nobody’s Hero",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Hellraiser/Action",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Lambs to the Slaughter",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Tyrant of the Airways",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Crazy World",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_Until_You_Drop",
+   "resumo_en": "Rock Until You Drop is the first full-length album by British heavy metal band Raven, released in 1981. The album was the first of many heavy metal studio albums issued by British independent label Neat Records. It reached position No. 63 in the UK Albums Chart.\nThe song \"Lambs to the Slaughter\" was covered by German thrash metal band Kreator on their Out of the Dark... Into the Light EP, added to the re-mastered Terrible Certainty CD in 2000.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c92bacb0-9d92-321b-8046-5e6ab133b318",
+   "titulo": "Wiped Out",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/d6619d4a-833e-426f-9dfb-03892480b8d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Faster Than the Speed of Light",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Bring the Hammer Down",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Fire Power",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Read All About It",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "To the Limit/To the Top",
+     "duracao": "7:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Battle Zone",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Live at the Inferno",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Star War",
+     "duracao": "5:35"
+    },
+    {
+     "n": 9,
+     "titulo": "UXB",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "20/21",
+     "duracao": "1:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Hold Back the Fire",
+     "duracao": "5:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Chainsaw",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wiped_Out_%28Raven_album%29",
+   "resumo_en": "Wiped Out is the second full-length album by British heavy metal band Raven, released in 1982.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6957d200-50ab-313e-b15c-8614dca1ba78",
+   "titulo": "All for One",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/2cab7206-5cb1-4b40-ab96-58fce42bf211/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take Control",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Mind Over Metal",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Sledgehammer Rock",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "All for One",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Run Silent Run Deep",
+     "duracao": "5:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Hung, Drawn & Quartered",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Break the Chain",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Take It Away",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Seek and Destroy",
+     "duracao": "3:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Athletic Rock",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6f972cff-ed93-321a-9d0f-6061c13977d6",
+   "titulo": "Stay Hard",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/2d3eefea-89a4-41c2-8838-4c4a65842293/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stay Hard",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "When the Going Gets Tough",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "On and On",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Get It Right",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Restless Child",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Power and the Glory",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Pray for the Sun",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Hard Ride",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Extract the Action",
+     "duracao": "3:04"
+    },
+    {
+     "n": 10,
+     "titulo": "The Bottom Line",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 4.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stay_Hard",
+   "resumo_en": "Stay Hard is the fourth studio album by English heavy metal band Raven, released in 1985. It was their first album recorded in the United States for the major label Atlantic Records, after the band had passed under American management. With this album, the band's more glam metal commercial sound was established.\n\"Hard Ride\" is a re-recording of the song from Raven's debut album Rock Until You Drop.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e4fe2bc7-57d2-37a9-b35f-1dd56a5811b4",
+   "titulo": "The Pack Is Back",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/6135ffb3-4de8-4e52-8594-07bb75f587d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Pack Is Back",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Gimme Some Lovin'",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Screamin' Down The House",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Young Blood",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Hyperactive",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock Dogs",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Let It Die",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Get Into Your Car",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "All I Want",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Nightmare Ride",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Pack_Is_Back",
+   "resumo_en": "The Pack Is Back is the fifth full-length album by the English heavy metal band Raven, released in 1986 (see 1986 in music). It was recorded in the US with producer Eddie Kramer and features a sound more FM-friendly and commercial than any other Raven album, retaining the glam metal vein from its predecessor Stay Hard. Despite the pressure of the label to produce a commercially successful album, The Pack Is Back did not have any relevant chart entry.\nMetal Hammer included the album cover on their list of \"50 most hilariously ugly rock and metal album covers ever\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c2b398d-29e3-34d6-b8bc-44be23941e07",
+   "titulo": "Life's a Bitch",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/983b0948-50c4-4f74-866e-67db6f1c63b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Savage And The Hungry",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Pick Your Window",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Life's A Bitch",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Never Forgive",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Iron League",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "On The Wings Of An Eagle",
+     "duracao": "6:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Overload",
+     "duracao": "4:16"
+    },
+    {
+     "n": 8,
+     "titulo": "You're A Liar",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Fuel To The Fire",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Only The Strong Survive",
+     "duracao": "3:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Juggernaut",
+     "duracao": "5:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Playing With The Razor",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Life%27s_a_Bitch_%28album%29",
+   "resumo_en": "Life's a Bitch is the sixth full-length album by the English heavy metal band Raven, released in 1987. It was the last album to feature original drummer/founding member Rob Hunter.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6dda7362-4fc8-3176-b68b-5e5c13a313da",
+   "titulo": "Nothing Exceeds Like Excess",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/7eb7e487-6e1c-4a42-b630-790eba5a0027/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Behemoth",
+     "duracao": "1:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Die for Allah",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Gimme a Break",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Into the Jaws of Death",
+     "duracao": "6:08"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Name of the Lord",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Stick It",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Lay Down the Law",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "You Got a Screw Loose",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Thunderlord",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "The King",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Hard as Nails",
+     "duracao": "5:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Kick Your Ass",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nothing_Exceeds_Like_Excess",
+   "resumo_en": "Nothing Exceeds Like Excess is the seventh full-length album by the band Raven, released in 1988. It is Raven's first album with drummer, Joe Hasselvander who replaced original drummer/founding member Rob Hunter.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "28e3902d-ba78-326b-a6e8-ba0eef545eba",
+   "titulo": "Architect of Fear",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/c444cad1-3704-4e63-a063-c436874e7729/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Architect of Fear Intro",
+     "duracao": "1:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Architect of Fear",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Disciple",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Got the Devil",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Part of the Machine",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Under the Skin",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "White Hot Anger",
+     "duracao": "5:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Can't Run and Hide",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Blind Leading the Blind",
+     "duracao": "5:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Relentless",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Just Let Me Go",
+     "duracao": "6:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Heart Attack",
+     "duracao": "3:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Sold Down the River",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Architect_of_Fear",
+   "resumo_en": "Architect of Fear is the eighth full-length album by the English heavy metal band Raven, released in 1991.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dbcc5182-f3e4-37b7-ad64-ed954e1c2295",
+   "titulo": "Glow",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/1e2427d2-551f-4e7c-8321-a62d5bf14cd6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Watch You Drown",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Spite",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "True Believer",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "So Close",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Altar",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "The Dark Side",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "The Rocker",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Turn on You",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Far and Wide",
+     "duracao": "5:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Victim",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Gimme a Reason",
+     "duracao": "4:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Slip Away",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glow_%28Raven_album%29",
+   "resumo_en": "Glow is the ninth full-length album by the band Raven, released in 1994 (see 1994 in music).\n\"The Rocker\" is a Thin Lizzy cover.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ab038a67-b9a6-3afa-b809-0da3378993ec",
+   "titulo": "Everything Louder",
+   "data": "1997",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/fca30f17-646f-4743-8bb8-17bc7e273ed7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blind Eye",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "No Pain, No Gain",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Jane",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Holy Grail",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Hungry",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Insane",
+     "duracao": "4:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Everything Louder",
+     "duracao": "5:57"
+    },
+    {
+     "n": 8,
+     "titulo": "???",
+     "duracao": "0:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Between the Wheels",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Losing My Mind",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Get Your Finger Out",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Wilderness of Broken Glass",
+     "duracao": "6:08"
+    },
+    {
+     "n": 13,
+     "titulo": "!!!",
+     "duracao": "0:13"
+    },
+    {
+     "n": 14,
+     "titulo": "Fingers Do the Walking",
+     "duracao": "4:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Bonus",
+     "duracao": "1:38"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Everything_Louder",
+   "resumo_en": "Everything Louder is the tenth studio album by the English heavy metal band Raven, released in 1997.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0a36ad2e-6a81-3fea-b100-cdd65b1eab3a",
+   "titulo": "One for All",
+   "data": "1999-12-06",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/67f33978-0d4b-3f92-8977-5519aba74b2d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seven Shades",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Double Talk",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Roll With the Punches",
+     "duracao": "5:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Get Your Motor Running",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "To Be Broken",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Derailed",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "The Hunger Inside",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Top of the World",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "In the Line of Fire",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Kangaroo",
+     "duracao": "3:04"
+    },
+    {
+     "n": 11,
+     "titulo": "New Religion",
+     "duracao": "4:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Last Ride",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "683b66c8-3cd1-4d51-9b3d-6e75709aaaca",
+   "titulo": "Walk Through Fire",
+   "data": "2009-03-25",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/2078d565-7ff4-4621-ba0a-f598a61f4fde/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "0:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Against the Grain",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Breaking You Down",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Under Your Radar",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Walk Through Fire",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Bulldozer",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Long Day's Journey",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Trainwreck",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Grip",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Running Around in Circles",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Hard Road",
+     "duracao": "3:45"
+    },
+    {
+     "n": 12,
+     "titulo": "Armageddon",
+     "duracao": "6:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Attitude",
+     "duracao": "3:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Necessary Evil",
+     "duracao": "3:55"
+    },
+    {
+     "n": 15,
+     "titulo": "Space Station #5",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Walk_Through_Fire_%28Raven_album%29",
+   "resumo_en": "Walk Through Fire is the twelfth album by English heavy metal band Raven. It was released on 25 March 2009 for the Japanese label King Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b6db05a0-530d-4c63-91b2-cafb605568b7",
+   "titulo": "ExtermiNation",
+   "data": "2015-04-22",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/a00b2781-4ebb-414d-8d88-ebcca7adc6b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Destroy All Monsters",
+     "duracao": "6:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Tomorrow",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "It's Not What You Got",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Fight",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Battle March / Tank Treads (The Blood Runs Red)",
+     "duracao": "5:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Feeding the Monster",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Fire Burns Within",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Scream",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "One More Day",
+     "duracao": "5:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Thunder Down Under",
+     "duracao": "4:47"
+    },
+    {
+     "n": 11,
+     "titulo": "No Surrender",
+     "duracao": "3:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Golden Dawn",
+     "duracao": "0:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Silver Bullet",
+     "duracao": "4:12"
+    },
+    {
+     "n": 14,
+     "titulo": "River of No Return",
+     "duracao": "5:22"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "18333d8a-8b40-4575-8ed2-d9e0f093c824",
+   "titulo": "Party Killers",
+   "data": "2015-05-01",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/65941349-c24c-4414-ab66-081b1125df2a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fireball",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Reputation",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "He's a Whore",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "In for the Kill",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Is There a Better Way",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Ogre Battle",
+     "duracao": "4:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Queen of My Dreams",
+     "duracao": "2:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Too Bad So Sad",
+     "duracao": "5:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Cockroach",
+     "duracao": "2:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Tak Me Bak Ome",
+     "duracao": "3:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Hang On to Yourself",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e118d5d2-2e5f-4815-87d2-2b9f3416ac6d",
+   "titulo": "Metal City",
+   "data": "2020-09-18",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/02dfb580-be0d-4d02-802b-92348af705d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Power",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Top of the Mountain",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Human Race",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Metal City",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Battlescarred",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Cybertron",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Motorheadin'",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Not So Easy",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Break",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "When Worlds Collide",
+     "duracao": "6:15"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "635b7feb-2bb0-4b07-a650-5c8cafde0b09",
+   "titulo": "All Hell’s Breaking Loose",
+   "data": "2023-06-23",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/c23704ce-94e4-4e7b-a968-b43740ad61b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Medieval",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Surf the Tsunami",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn of the Screw",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "All Hell's Breaking Loose",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "The Far Side",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Desparate Measures",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Victory's Call",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Edge of a Nightmare",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Invasion",
+     "duracao": "4:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Go for the Gold",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

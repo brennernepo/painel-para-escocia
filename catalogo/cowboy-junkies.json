@@ -1,0 +1,1894 @@
+{
+ "id": "cowboy-junkies",
+ "nome": "Cowboy Junkies",
+ "cena": "Descobertas do acervo",
+ "mbid": "b52211f1-49a2-4cd2-8535-dd1ba37ea90b",
+ "wikidata": "Q1138174",
+ "tipo": "Group",
+ "pais": "CA",
+ "inicio": "1985",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "folk",
+  "alternative country",
+  "contemporary folk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cowboy_Junkies_-_Barbican_25_01_13_%288415684818%29.jpg/500px-Cowboy_Junkies_-_Barbican_25_01_13_%288415684818%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Cowboy_Junkies",
+ "resumo_pt": "O Cowboy Junkies é um grupo musical do Canadá cujo estilo se situa entre o rock alternativo e o country music. O grupo é formado por três irmãos da família Timmins, além do baixista Alan Anton.\nA banda se formou em Toronto, no ano de 1985.",
+ "resumo_en": "Cowboy Junkies are an alternative country and folk rock band formed in Toronto, Ontario, Canada in 1985 by Alan Anton (bassist), Michael Timmins (songwriter, guitarist), Peter Timmins (drummer) and Margo Timmins (vocalist). The three Timminses are siblings, and Anton worked with Michael Timmins during their first couple of bands. John Timmins was a member of the band but left the group before the recording of their debut studio album. The band line-up has never changed since, although they use several guest musicians on many of their studio albums, including multi-instrumentalist Jeff Bird who has performed on every album except the first.\nCowboy Junkies' 1986 debut studio album, produced by Canadian producer Peter Moore, was the blues-inspired Whites Off Earth Now!!, recorded in the family garage using a single ambisonic microphone.\nThe band gained wide recognition with their second studio album, The Trinity Session (1988), recorded in 1987 at Toronto's Church of the Holy Trinity. Their sound, again with Peter Moore using the ambisonic microphone, and their mix of blues, country, folk, rock and jazz earned them both critical attention and a strong fan base. The Los Angeles Times named the recording one of the 10 best albums of 1988. \nCowboy Junkies have gone on to record 16 studio albums and five live albums, with tour dates booked into late 2026.",
+ "albuns": [
+  {
+   "id": "bf192206-bc1c-3a98-91fc-67a4aa64e570",
+   "titulo": "Whites Off Earth Now!!",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/67eda455-4a56-4e47-9ad9-3309ddf3f525/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shining Moon",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "State Trooper",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Me and the Devil",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Decoration Day",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby Please Don't Go",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "I'll Never Get Out of These Blues Alive",
+     "duracao": "6:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Take Me",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Forgive Me",
+     "duracao": "5:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Crossroads",
+     "duracao": "6:15"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Whites_Off_Earth_Now%21%21",
+   "resumo_en": "Whites Off Earth Now!! is a 1986 studio album by Cowboy Junkies. It was the band's debut album, and is composed almost entirely of rock and blues covers. Only one song, \"Take Me\", is an original song by the band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "585acc56-8d69-3282-9a1d-aafc6035895d",
+   "titulo": "The Trinity Session",
+   "data": "1988-11-15",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/26bde3cb-9057-4c2c-9ce2-4e8d740b498c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mining for Gold",
+     "duracao": "1:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Misguided Angel",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "I Don’t Get It",
+     "duracao": "4:34"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m So Lonesome I Could Cry",
+     "duracao": "5:24"
+    },
+    {
+     "n": 5,
+     "titulo": "To Love Is to Bury",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "200 More Miles",
+     "duracao": "5:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Dreaming My Dreams With You",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweet Jane",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Postcard Blues",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Walking After Midnight",
+     "duracao": "5:54"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Trinity_Session",
+   "resumo_en": "The Trinity Session is the second studio album by Canadian alternative country band Cowboy Junkies, released in early 1988 by Latent Recordings in Canada, and re-released worldwide later in the year on RCA Records. \nThe music was recorded inside Toronto's Church of the Holy Trinity on November 27, 1987 (1987-11-27), with the band circled around a single microphone. The album includes a mixture of original material by the band and covers of classic folk, rock and country songs. Notable among the songs is the band's most famous single, a cover of the Velvet Underground's \"Sweet Jane\", based on the version found on 1969: The Velvet Underground Live (1974) rather than the later studio version from Loaded (1970). Also included is \"Blue Moon Revisited (Song for Elvis)\", which is both a cover and an original, combining a new song by the band with the pop standard \"Blue Moon\".\nIn 2007, the album was performed live in its entirety as part of the All Tomorrow's Parties' Don't Look Back series. Also that year, the band returned to the Church of the Holy Trinity to record a new version of the Trinity Session with guest musicians Natalie Merchant, Vic Chesnutt and Ryan Adams. This new set of re",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "661d563e-9bbf-38b5-86fa-868b33db7208",
+   "titulo": "The Caution Horses",
+   "data": "1990-02-20",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/1d7226d0-d449-3076-bf2b-6c1d699210e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sun Comes Up, It’s Tuesday Morning",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "’Cause Cheap Is How I Feel",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Thirty Summers",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Mariner’s Song",
+     "duracao": "6:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Powderfinger",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock and Bird",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Witches",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Where Are You Tonight?",
+     "duracao": "5:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Escape Is So Simple",
+     "duracao": "5:15"
+    },
+    {
+     "n": 10,
+     "titulo": "You Will Be Loved Again",
+     "duracao": "3:26"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Caution_Horses",
+   "resumo_en": "The Caution Horses is the third studio album by the Canadian alt-country band Cowboy Junkies, released in 1990.\nThe first album following their 1988 breakthrough The Trinity Session, The Caution Horses features a more conventional, polished sound than the earlier album's spare, haunting country blues. As a consequence, the album received average reviews from music critics, who said that the band had sacrificed their distinctive style.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4530a92d-3f57-399a-a478-c1e351c557b7",
+   "titulo": "Black Eyed Man",
+   "data": "1992-02-07",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/0b9cdbfc-194f-47e9-a812-5659c57dc2ad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Southern Rain",
+     "duracao": "4:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Oregon Hill",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "This Street, That Man, This Life",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "A Horse in the Country",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "If You Were the Woman and I Was the Man",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Murder, Tonight, in the Trailer Park",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Eyed Man",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Winter's Song",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "The Last Spike",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Cowboy Junkies Lament",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Townes' Blues",
+     "duracao": "3:12"
+    },
+    {
+     "n": 12,
+     "titulo": "To Live Is to Fly",
+     "duracao": "4:30"
+    },
+    {
+     "n": 13,
+     "titulo": "[untitled]",
+     "duracao": "0:25"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Eyed_Man",
+   "resumo_en": "Black Eyed Man is the fourth studio album by Cowboy Junkies, released in 1992. The album continues the band's evolution from a spare country blues style (exemplified by the 1988 album The Trinity Session) to a more mainstream country rock style.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "42ed49ef-302c-35d6-a45c-c9cab8670c6f",
+   "titulo": "Pale Sun, Crescent Moon",
+   "data": "1993-11-23",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/bcdd7fc9-7c6c-42f2-9d3e-bb99e382c291/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crescent Moon",
+     "duracao": "5:02"
+    },
+    {
+     "n": 2,
+     "titulo": "First Recollection",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Ring on the Sill",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Anniversary Song",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "White Sail",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Seven Years",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Pale Sun",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "The Post",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Cold Tea Blues",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Hard to Explain",
+     "duracao": "4:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Hunted",
+     "duracao": "4:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Floorboard Blues",
+     "duracao": "2:04"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pale_Sun%2C_Crescent_Moon",
+   "resumo_en": "Pale Sun, Crescent Moon is the fifth studio album by Canadian country rock band Cowboy Junkies, released in 1993. It was the band's last album of new material for RCA Records, although a live album and a greatest hits compilation were subsequently released on the label. Canadian guitarist Ken Myhr appears on every track on this album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "67fdf1a3-2127-3de6-8d91-dd4b8ac6abf0",
+   "titulo": "Lay It Down",
+   "data": "1996-02-27",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/e0522d89-506c-4c65-9197-28b8cda37750/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Something More Besides You",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "A Common Disaster",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Lay It Down",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold on to Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Come Calling (His Song)",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Just Want to See",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Lonely Sinking Feeling",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Angel Mine",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Bea’s Song (River Song Trilogy, Part II)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Musical Key",
+     "duracao": "3:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Speaking Confidentially",
+     "duracao": "4:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Come Calling (Her Song)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Now I Know",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lay_It_Down_%28Cowboy_Junkies_album%29",
+   "resumo_en": "Lay It Down is the sixth studio album by the Canadian alt-country band Cowboy Junkies. Released on February 27, 1996, it was the group's first album for Geffen Records after the end of their contract with RCA Records. It was the band's first album that could be described as straight-ahead rock, rather than country rock, country or blues. It was also their first album consisting entirely of original material, with no covers. \"A Common Disaster\" and \"Speaking Confidentially\" were notable hits for the band on Canadian radio.\nThe album also includes two versions of the track \"Come Calling\", which is presented in male and female versions representing two sides of a relationship of an elderly couple, dealing with the pain and anguish of Alzheimer's disease. The \"Angel Mine\" music video, featuring Janeane Garofalo, was filmed at the El Rey Theatre in Los Angeles. The song \"Hold on to Me\" was used in the soundtrack of the 1998 film Homegrown.",
+   "spotify": "3eCquDv8Z5zTQYU3oaaAEr",
+   "youtube": null
+  },
+  {
+   "id": "8090ea69-4922-3773-b3b3-384ede18f13f",
+   "titulo": "Miles From Our Home",
+   "data": "1998-06-30",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/01a78304-025a-307c-8b73-6031fa0e042a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "New Dawn Coming",
+     "duracao": "4:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Guitar",
+     "duracao": "6:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Miles From Our Home",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Good Friday",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Darkling Days",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Hollow as a Bone",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Someone Out There",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "The Summer of Discontent",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "No Birds Today",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Those Final Feet / [At the End of the Rainbow]",
+     "duracao": "9:30"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miles_from_Our_Home",
+   "resumo_en": "Miles from Our Home is the seventh studio album by Canadian alt-country band Cowboy Junkies, which was released in 1998. It was their second and final album for Geffen Records. The title track was a significant hit in their native Canada. Following this album, the Junkies were dropped from the Geffen record label. The Junkies moved to an independent label, Latent Recordings, for their subsequent albums.",
+   "spotify": "330XvbwvN1JD15ErwbFiI3",
+   "youtube": null
+  },
+  {
+   "id": "46c7262c-4335-3d30-9691-a65bdd58e16b",
+   "titulo": "Open",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/dd18208e-946d-3f05-ac0c-e2a14be0d318/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Did It All for You",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Dragging Hooks (River Song Trilogy, Part III)",
+     "duracao": "7:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Bread and Wine",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Upon Still Waters",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Dark Hole Again",
+     "duracao": "7:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Thousand Year Prayer",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "I'm So Open",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Small Swift Birds",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Beneath the Gate",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Close My Eyes",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Open_%28Cowboy_Junkies_album%29",
+   "resumo_en": "Open is an album by the Canadian band Cowboy Junkies, released in 2001. It was the band's third independent release after the end of their contract with Geffen Records, and the first of those to feature new material. The album was released on Latent Recordings in Canada, and on Zoë Records internationally.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b14f54da-2842-3329-b050-5b52bcae6b6e",
+   "titulo": "One Soul Now",
+   "data": "2004-05-31",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/9b1d87d9-9f44-3607-90ff-dd6bb964b8f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Soul Now",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Why This One",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "My Wild Child",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "From Hunting Ground to City",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "The Stars of Our Stars",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Notes Falling Slow",
+     "duracao": "5:56"
+    },
+    {
+     "n": 7,
+     "titulo": "No Long Journey Home",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "He Will Call You Baby",
+     "duracao": "5:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Simon Keeper",
+     "duracao": "5:52"
+    },
+    {
+     "n": 10,
+     "titulo": "The Slide",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Thunder Road (Bruce Springsteen)",
+     "duracao": "5:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Seventeen Seconds (The Cure)",
+     "duracao": "4:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Lungs (Townes Van Zandt)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Darkness, Darkness (Jesse Colin Young)",
+     "duracao": "4:59"
+    },
+    {
+     "n": 15,
+     "titulo": "Helpless (Neil Young)",
+     "duracao": "5:27"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/One_Soul_Now",
+   "resumo_en": "One Soul Now is a 2004 album by the Canadian alt-country band Cowboy Junkies. It is their first album of new material since Open in 2001. It was released on Latent Recordings in Canada, and Zoë Records internationally.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "651e55ab-4d5c-3425-a288-5396d6af6663",
+   "titulo": "Early 21st Century Blues",
+   "data": "2005-08-01",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/608bb6a5-5eda-4263-8bf0-790be6a6ed31/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "License to Kill",
+     "duracao": "4:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Two Soldiers",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "December Skies",
+     "duracao": "5:18"
+    },
+    {
+     "n": 4,
+     "titulo": "This World Dreams Of",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Brothers Under the Bridge",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "You're Missing",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Handouts in the Rain",
+     "duracao": "8:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Isn't It a Pity",
+     "duracao": "5:51"
+    },
+    {
+     "n": 9,
+     "titulo": "No More",
+     "duracao": "5:01"
+    },
+    {
+     "n": 10,
+     "titulo": "I Don't Want to Be a Soldier",
+     "duracao": "7:30"
+    },
+    {
+     "n": 11,
+     "titulo": "One",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.9,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Early_21st_Century_Blues",
+   "resumo_en": "Early 21st Century Blues is an album by the Canadian alt-country band Cowboy Junkies, released in 2005. The album features two original songs and covers of material by Bruce Springsteen, Bob Dylan, John Lennon, George Harrison and Richie Havens. The record has a very strong anti-war message, while also protesting public apathy towards the political process.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "22b02e72-94d1-4d3f-9d73-e5c66ececf1b",
+   "titulo": "Written, Recorded and Unreleased",
+   "data": "2007",
+   "ano": "2007",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This World Dreams Of",
+     "duracao": "5:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Cold Evening Wind (full band version)",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "The Human Heart",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "3 Girls (A Smile to My Eyes)",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "You Took Tomorrow",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Ikea Parking Lot",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Morning Cried",
+     "duracao": "5:20"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "20738fde-2b3b-3a2e-8aec-677c2d1155c9",
+   "titulo": "At the End of Paths Taken",
+   "data": "2007-04-09",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/a01f50a9-79a7-49f2-851d-293465196994/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brand New World",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Still Lost",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Cutting Board Blues",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Spiral Down",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "My Little Basquiat",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Someday Soon",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Follower 2",
+     "duracao": "6:18"
+    },
+    {
+     "n": 8,
+     "titulo": "It Doesn’t Really Matter Anyway",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Blue Eyed Saviour",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Mountain",
+     "duracao": "7:07"
+    },
+    {
+     "n": 11,
+     "titulo": "My Only Guarantee",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.3,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/At_the_End_of_Paths_Taken",
+   "resumo_en": "At the End of Paths Taken is the tenth studio album by the Canadian alt-country band Cowboy Junkies, released in 2007.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "31d86398-1411-3d3e-b7cc-5a167b8f9ada",
+   "titulo": "Trinity Revisited",
+   "data": "2007-10-08",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/2eb10907-c0e7-4552-bcd8-d260b9faecb6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mining for Gold",
+     "duracao": "1:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Misguided Angel",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Moon Revisited (Song for Elvis)",
+     "duracao": "5:38"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don’t Get It",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m So Lonesome I Could Cry",
+     "duracao": "6:16"
+    },
+    {
+     "n": 6,
+     "titulo": "To Love Is to Bury",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "200 More Miles",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Dreaming My Dreams With You",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Working on a Building",
+     "duracao": "6:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Jane",
+     "duracao": "8:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Postcard Blues",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Walking After Midnight",
+     "duracao": "5:20"
+    },
+    {
+     "n": 13,
+     "titulo": "Mining for Gold",
+     "duracao": "1:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Misguided Angel",
+     "duracao": "4:50"
+    },
+    {
+     "n": 15,
+     "titulo": "Blue Moon Revisited",
+     "duracao": "5:38"
+    },
+    {
+     "n": 16,
+     "titulo": "I Don’t Get It",
+     "duracao": "3:55"
+    },
+    {
+     "n": 17,
+     "titulo": "I’m So Lonesome I Could Cry",
+     "duracao": "6:16"
+    },
+    {
+     "n": 18,
+     "titulo": "To Love Is to Bury",
+     "duracao": "3:32"
+    },
+    {
+     "n": 19,
+     "titulo": "200 More Miles",
+     "duracao": "5:19"
+    },
+    {
+     "n": 20,
+     "titulo": "Dreaming My Dreams",
+     "duracao": "3:53"
+    },
+    {
+     "n": 21,
+     "titulo": "Working on a Building",
+     "duracao": "6:38"
+    },
+    {
+     "n": 22,
+     "titulo": "Sweet Jane",
+     "duracao": "8:45"
+    },
+    {
+     "n": 23,
+     "titulo": "Postcard Blues",
+     "duracao": "3:36"
+    },
+    {
+     "n": 24,
+     "titulo": "Walking After Midnight",
+     "duracao": "5:21"
+    },
+    {
+     "n": 25,
+     "titulo": "The Trinity Session Revisited – A Documentary",
+     "duracao": "47:59"
+    }
+   ],
+   "duracao_min": 167,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trinity_Revisited",
+   "resumo_en": "Trinity Revisited is an album and a film by the Cowboy Junkies, released on October 8, 2007. It is a remake of the Junkies' most famous album, The Trinity Session. The new album was recorded in the fall of 2006 at Toronto's Church of the Holy Trinity, the same venue where the original album was recorded.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "056a80ac-7823-4ca4-be4f-6895af617d94",
+   "titulo": "Acoustic Junk",
+   "data": "2009-09-24",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/13a8228d-c215-4745-a95d-7df297249e63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In My Time of Need",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "He Will Call You Baby",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Those Final Feet",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Cold Evening Wind",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Cutting Board Blues",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Sun Comes Up It's Tuesday Morning",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "To Love Is to Bury",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Tired Eyes",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Rake",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Spiral Down",
+     "duracao": "3:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Horse in the Country",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7054c7a4-a5de-4bf5-974a-b56168435673",
+   "titulo": "The Nomad Series, Volume 1: Renmin Park",
+   "data": "2010-04-15",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/d596174b-158a-4a1e-b809-08b22a6235f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro",
+     "duracao": "1:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Renmin Park",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Sir Francis Bacon at the Net",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Stranger Here",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "A Few Bags of Grain",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "I Cannot Sit Sadly by Your Side",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "(You've Got to Get) A Good Heart",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Cicadas",
+     "duracao": "5:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Interlude",
+     "duracao": "0:48"
+    },
+    {
+     "n": 10,
+     "titulo": "My Fall",
+     "duracao": "4:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Little Dark Heart",
+     "duracao": "4:08"
+    },
+    {
+     "n": 12,
+     "titulo": "A Walk in the Park",
+     "duracao": "5:51"
+    },
+    {
+     "n": 13,
+     "titulo": "Renmin Park (revisited)",
+     "duracao": "3:16"
+    },
+    {
+     "n": 14,
+     "titulo": "Coda",
+     "duracao": "0:54"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 76,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Renmin_Park_%28album%29",
+   "resumo_en": "Renmin Park is an album by the Canadian alt-country band Cowboy Junkies, released in 2010. It is Volume One of the Nomad Series. The album's name translates in Chinese as \"People's Park\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "007366bb-46e3-4d79-bfd0-9ff04384468b",
+   "titulo": "The Nomad Series, Volume 2: Demons",
+   "data": "2010-12-13",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/ee38f352-2c8d-4ee8-8ab9-dd1d726b9ffc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wrong Piano",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Flirted With You All My Life",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "See You Around",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Betty Lonely",
+     "duracao": "5:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Square Room",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Ladle",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Supernatural",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "West of Rome",
+     "duracao": "5:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Strange Language",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "We Hovered With Short Wings",
+     "duracao": "4:46"
+    },
+    {
+     "n": 11,
+     "titulo": "When the Bottom Fell Out",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.2,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Demons_%28Cowboy_Junkies_album%29",
+   "resumo_en": "Demons is an album by the Canadian alt-country band Cowboy Junkies, released digitally on January 18, 2011 and physically on February 14, 2011. It contains eleven Vic Chesnutt covers. It is Volume Two of the Nomad Series.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2dc54c84-8b01-43e6-9479-b9e7d3d92122",
+   "titulo": "The Nomad Series, Volume 3: Sing in My Meadow",
+   "data": "2011-10-18",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/6a005086-d492-48c5-9470-4c284bddcbbf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Continental Drift",
+     "duracao": "5:06"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s Heavy Down Here",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "3rd Crusade",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Late Night Radio",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Sing in My Meadow",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Hunted",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "A Bride’s Price",
+     "duracao": "5:52"
+    },
+    {
+     "n": 8,
+     "titulo": "I Move On",
+     "duracao": "6:02"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sing_in_My_Meadow",
+   "resumo_en": "Sing in My Meadow is an album by the Canadian alt-country band Cowboy Junkies, released in 2011. It is Volume Three of the Nomad Series. The album was recorded at The Clubhouse in Toronto, Ontario. This volume of the Nomad Series brings the band's live shows into the studio, employing their touring musicians as the only recording musicians for the sessions.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "89444ea1-cb2b-4a61-8c99-29e7062e62b5",
+   "titulo": "The Nomad Series, Volume 4: The Wilderness",
+   "data": "2012-03-27",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/27bcbca0-f3d3-44b6-9b88-4af26bd79bc3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Unanswered Letter (for JB)",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Idle Tales",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "We Are the Selfish Ones",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Angels in the Wilderness",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Damaged From the Start",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Fairytale",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Staring Man",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "The Confessions of Georgie E",
+     "duracao": "6:00"
+    },
+    {
+     "n": 9,
+     "titulo": "I Let Him In",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Fuck, I Hate the Cold",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0ad73161-ff67-4cba-b5d3-1ffa0d64d4bb",
+   "titulo": "All That Reckoning",
+   "data": "2018-07-13",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/15edaffa-66ca-4048-95be-702832a23aa6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All That Reckoning (Part 1)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "When We Arrive",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "The Things We Do to Each Other",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Wooden Stairs",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Sing Me a Song",
+     "duracao": "4:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Mountain Stream",
+     "duracao": "4:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Missing Children",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Shining Teeth",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Nose Before Ear",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "All That Reckoning (Part 2)",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "The Possessed",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 83,
+    "media": 7.3,
+    "fontes": 10
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_That_Reckoning",
+   "resumo_en": "All That Reckoning is an album by the Canadian alt-country band Cowboy Junkies, released in 2018. The album features eleven new songs to focus on \"empty hearts, empty nests, lost paths, lost lives, and all the reckoning that brings about the end of things, and the beginnings of something else. [The] songs are about reckoning on a personal level and reckoning on a social level,\" as stated by Michael Timmins.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "298facfd-7230-4809-83e0-dfdf2c3073d9",
+   "titulo": "Ghosts",
+   "data": "2020-04-06",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/7f69605a-7350-4098-8e05-b87a1d29b2c4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Desire Lines",
+     "duracao": "5:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Breathing",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Grace Descends",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "(You Don’t Get to) Do It Again",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "The Possessed",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Misery",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "This Dog Barks",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Ornette Coleman",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "21c39ce1-bd54-473c-8fb8-ddb4c3ec516f",
+   "titulo": "Songs of the Recollection",
+   "data": "2022-03-25",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/4b09174c-2cda-4d55-a413-4bd1d228e98b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Five Years",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Ooh Las Vegas",
+     "duracao": "5:19"
+    },
+    {
+     "n": 3,
+     "titulo": "No Expectations",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Let It Bring You Down",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Love in Mind",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "The Way I Feel",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "I’ve Made Up My Mind to Give Myself to You",
+     "duracao": "6:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Marathon",
+     "duracao": "5:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Seventeen Seconds",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_of_the_Recollection",
+   "resumo_en": "Songs of the Recollection is a 2022 studio album from Canadian rock band Cowboy Junkies, mostly made up of cover versions of songs from the band's formative years. It has received positive reviews for the band's ability to transform the originals to match their strengths as performers.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e1059d22-f816-4d34-a2f4-43c08850dcdb",
+   "titulo": "Sharon Temple Sessions",
+   "data": "2022-09-30",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/f99a4ca9-c2f8-4170-959c-b9c67d7c263c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sun Comes Up",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Cheap Is How I Feel",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Escape Is So Simple",
+     "duracao": "5:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Farewell to London Town",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Powder Finger",
+     "duracao": "5:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Where Are You Tonight",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Mariner's Song",
+     "duracao": "6:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Thirty Summers",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Dead Flowers",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Sharon_Temple_Sessions",
+   "resumo_en": "The Caution Horses is the third studio album by the Canadian alt-country band Cowboy Junkies, released in 1990.\nThe first album following their 1988 breakthrough The Trinity Session, The Caution Horses features a more conventional, polished sound than the earlier album's spare, haunting country blues. As a consequence, the album received average reviews from music critics, who said that the band had sacrificed their distinctive style.",
+   "spotify": "5bbBWnDHumSuaIFIUqdC57",
+   "youtube": null
+  },
+  {
+   "id": "eff24b3a-ed37-4bc1-b456-fad0f84c8311",
+   "titulo": "Sharon",
+   "data": "2022-09-30",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/a9715ae8-7425-4810-a36a-9b0404b547cf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sun Comes Up, It’s Tuesday Morning",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "’Cause Cheap Is How I Feel",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Escape Is So Simple",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Captain Kidd",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Thirty Summers",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Where Are You Tonight",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Mariner’s Song",
+     "duracao": "6:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Dead Flowers",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Powderfinger",
+     "duracao": "5:54"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "911dea8b-57e8-4b0a-9f5b-81e83f332459",
+   "titulo": "Such Ferocious Beauty",
+   "data": "2023-06-02",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/8ea1be8c-2901-43bc-bacc-3660a3f8b612/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What I Lost",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Flood",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Hard to Build. Easy to Break",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Circe and Penelope",
+     "duracao": "3:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Hell Is Real",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadows 2",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Knives",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Mike Tyson (Here It Comes)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Throw a Match",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Blue Skies",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Such_Ferocious_Beauty",
+   "resumo_en": "Such Ferocious Beauty is a 2023 studio album by Canadian rock band Cowboy Junkies. Exploring themes of grief, the work has received positive reviews from critics.",
+   "spotify": "7JuaCkoVLGfjTCBU1AYhbP",
+   "youtube": null
+  },
+  {
+   "id": "5c2b57e3-293f-4af7-9a45-b65ef9165271",
+   "titulo": "More Acoustic Junk",
+   "data": "2025-10-24",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/3827ab30-e00a-428c-a3d3-a80df8bcd0ce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In My Time of Need",
+     "duracao": "5:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Unanswered Letter",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Angels in the Wilderness",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Fairytale",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Tired Eyes",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "He Will Call You Baby",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Cutting Board Blues",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Rock and Bird",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Something More Besides You",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Cold Evening Wind",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

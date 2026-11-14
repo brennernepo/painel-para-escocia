@@ -1,0 +1,3413 @@
+{
+ "id": "carl-perkins",
+ "nome": "Carl Perkins",
+ "cena": "Pioneiros do rock'n'roll",
+ "mbid": "068bd7ab-c38e-4fae-8ed2-cb0c153ed68f",
+ "wikidata": "Q310339",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1932",
+ "fim": "1998",
+ "ativa": false,
+ "generos": [
+  "rockabilly",
+  "country",
+  "rock",
+  "rock and roll",
+  "singer-songwriter"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Carl_Perkins_1977.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Carl_Perkins",
+ "resumo_pt": "Carl Lee Perkins (Tiptonville, 9 de abril de 1932 — Jackson, 19 de janeiro de 1998) foi um cantor-compositor e guitarrista norte-americano de rockabilly, uma mistura de rhythm and blues e country music que desenvolveu-se na Sun Records em Memphis, Tennessee no começo dos anos 50. Foi considerado o 88º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.",
+ "resumo_en": "Carl Lee Perkins (April 9, 1932 – January 19, 1998) was an American country and rockabilly guitarist, singer and songwriter.  A rockabilly great and pioneer of rock and roll, he began his recording career at the Sun Studio in Memphis in 1954. Among his best known songs are \"Blue Suede Shoes\", \"Honey Don't\", \"Matchbox\" and \"Everybody's Trying to Be My Baby\".\nAccording to fellow musician Charlie Daniels, \"Carl Perkins' songs personified the rockabilly era, and Carl Perkins' sound personifies the rockabilly sound more so than anybody involved in it, because he never changed\". Perkins's songs were recorded by artists (and friends) as influential as Elvis Presley, the Beatles, Jimi Hendrix, Johnny Cash, Ricky Nelson, and Eric Clapton, which further cemented his prominent place in the history of popular music.\nNicknamed the \"King of Rockabilly\", Perkins was inducted into the Rock and Roll Hall of Fame, the Rockabilly Hall of Fame, the Memphis Music Hall of Fame, and the Nashville Songwriters Hall of Fame. His recording of \"Blue Suede Shoes\" was inducted into the Grammy Hall of Fame.",
+ "albuns": [
+  {
+   "id": "6e7405e6-b9ce-3350-a4c2-8fc1f1fc2a79",
+   "titulo": "Dance Album of… Carl Perkins",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/a197b67d-6c69-4c99-843d-83ed15563790/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Movie Magg",
+     "duracao": "2:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Sure to Fall",
+     "duracao": "2:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Gone, Gone, Gone",
+     "duracao": "2:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Honey Don’t",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Only You",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Tennessee",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Wrong Yo Yo",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": "2:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Matchbox",
+     "duracao": "2:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Your True Love",
+     "duracao": "2:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Boppin’ the Blues",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dance_Album_of_Carl_Perkins",
+   "resumo_en": "The Dance Album of Carl Perkins is the first studio album by American singer Carl Perkins, released in 1958. The album was released by Sun producer Sam Phillips after Perkins left the label for Columbia Records. Most songs were released previously as singles and B-sides. The remaining tracks are outtakes from the Sun sessions.\nIn 1961, the album was reissued as Teen Beat: The Best of Carl Perkins, with a new cover, but the same selection of songs.",
+   "spotify": "3BVjcVyGYi1yQN8hVmAFlO",
+   "youtube": null
+  },
+  {
+   "id": "ca9cdb64-95fb-4f67-b2b8-a0c46ed71a93",
+   "titulo": "Whole Lotta Shakin’",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/02b2455f-38cf-4de3-8f0c-797ff13258b9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Whole Lotta Shakin’ Goin’ On",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Tutti Frutti",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Shake, Rattle and Roll",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sittin’ on Top of the World",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Ready Teddy",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Long Tall Sally",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "That’s All Right",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Where the Rio de Rosa Flows",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Good Rockin’ Tonight",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I Got a Woman",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Hey, Good Lookin’",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Jenny, Jenny",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "896ffe19-5f99-4638-902a-240ff234a4ab",
+   "titulo": "Country Boy’s Dream",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/3f237646-d27e-44ac-ab2f-e33f4152b2d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Country Boy’s Dream",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "If I Could Come Back",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Misery",
+     "duracao": "2:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Stateside",
+     "duracao": "2:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Detroit City",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Unmitigated Gall",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Shine, Shine, Shine",
+     "duracao": "2:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Dream on Little Dreamer",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "You Can Take the Boy Out of the Country",
+     "duracao": "3:04"
+    },
+    {
+     "n": 10,
+     "titulo": "The Star of the Show",
+     "duracao": "2:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Home (That’s Where the Heart Is)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Poor Boy Blues",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8ee05bdd-8e5b-4194-9eee-b9ee989909ac",
+   "titulo": "Carl Perkins on Top",
+   "data": "1969-10",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/197980a4-d0e2-41d0-9a79-7ceb18f841be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Superfool",
+     "duracao": "1:55"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Gonna Set My Foot Down",
+     "duracao": "1:59"
+    },
+    {
+     "n": 3,
+     "titulo": "A Lion in the Jungle",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Baby, What You Want Me to Do?",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Soul Beat",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Riverboat Annie",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Champaigh, Illinois",
+     "duracao": "3:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Power of My Soul",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Brown‐Eyed Handsome Man",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "C.C. Rider",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9a057784-c021-3504-9a58-e4cbabe53352",
+   "titulo": "Boppin’ the Blues",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/bee3d226-360f-4e72-9077-c59d6de4aefd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Mama’s Children",
+     "duracao": "2:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Turn Around",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Tina",
+     "duracao": "1:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Dr. Howard, Dr. Fine, Dr. Howard",
+     "duracao": "1:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Sure to Fall",
+     "duracao": "2:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Flat Foot Flewzy",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Sorry Charlie",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Step Aside",
+     "duracao": "1:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Rip It Up",
+     "duracao": "1:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Allergic to Love",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "On the Farm",
+     "duracao": "2:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Boppin’ the Blues",
+     "duracao": "2:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Just Coastin’",
+     "duracao": "1:29"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8953edd2-1e58-3637-9eca-acb0de70c69b",
+   "titulo": "Little Fauss and Big Halsy",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/3dd91eda-d301-47d1-bffe-37c83d8b3e71/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rollin’ Free",
+     "duracao": "2:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Ballad of Little Fauss and Big Halsy",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Ballad of Little Fauss and Big Halsy (instrumental)",
+     "duracao": "1:44"
+    },
+    {
+     "n": 4,
+     "titulo": "706 Union (instrumental)",
+     "duracao": "2:14"
+    },
+    {
+     "n": 5,
+     "titulo": "The Little Man",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "The Little Man (instrumental)",
+     "duracao": "2:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Wanted Man",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Rollin’ Free (instrumental)",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "True Love Is Greater Than Friendship",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Movin’",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c8d76fd-5fcd-45c6-8fd0-fed5287824aa",
+   "titulo": "My Kind of Country",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/edcc4e24-0ed0-44d6-bd98-0891970959da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Let’s Get) Dixie Fried",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "You Tore My Heaven All to Hell",
+     "duracao": "2:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Love, Sweet Love",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Loser Going Home",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Just as Long",
+     "duracao": "2:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Goin’ to Memphis",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Never Look Back",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Honky Tonk Song",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Lord, I Sinned Again Last Night",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Help Me Dream",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Ruby, Don’t Take Your Love to Town",
+     "duracao": "2:42"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "62d68201-7bb1-4893-a599-4adbf83811d2",
+   "titulo": "Cane Creek Glory Church",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/d9acaa4b-35d6-4c6b-a7d1-f9bd792cd476/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Great Day in the Morning",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Cane Creek Glory Church",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Born Equal",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Just as Long",
+     "duracao": "2:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby I’m Hung on You",
+     "duracao": "1:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Mama Caught Papa",
+     "duracao": "2:06"
+    },
+    {
+     "n": 7,
+     "titulo": "I Got Tired",
+     "duracao": "2:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Brand New Me",
+     "duracao": "1:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Allergic to Love",
+     "duracao": "1:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Step It Up and Go",
+     "duracao": "1:47"
+    }
+   ],
+   "duracao_min": 22,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e7d808a3-118d-4838-b24f-db4a989d1b5d",
+   "titulo": "Ol’ Blue Suede’s Back: Carl Perkins’ Tribute to Rock and Roll",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/1c072470-dad2-48d9-a783-c7d1265cd22b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock Around the Clock",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "That’s All Right",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Kaw‐Liga",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Tutti Frutti",
+     "duracao": "2:13"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m in Love Again",
+     "duracao": "2:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Be Bop a Lula",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Mabellene",
+     "duracao": "2:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Whole Lotta Shakin’‐Goin’‐On",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Hang Up My Rock & Roll Shoes",
+     "duracao": "2:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Shake Rattle & Roll",
+     "duracao": "3:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Rock on Around the World",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3e619026-6971-4021-98b5-3e20437a321e",
+   "titulo": "Country Soul",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/2fe52be6-36be-4f90-a40d-2d6e72b4c2cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Daddy Sang Bass",
+     "duracao": "2:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Hallelujah Special",
+     "duracao": "2:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Every Road",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Rise and Shine",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Disciple in Blue Suede Shoes",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Country Soul",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Redneck",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "I Don’t Like What I’m Seeing in You",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Mama",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Twenty‐One",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "255982f4-0d9d-4606-9a25-f6918fd1f0c1",
+   "titulo": "This Ole House",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/ebbaeba9-0519-410d-b788-19203fc2ed6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Ole House",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Sundays Are Fundays With My Lord",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Mama",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Standing in the Need of Love",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "21 (Twenty‐One)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Hallelujah Special",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Every Road",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Rise and Shine",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Disciple in the Blue Suede Shoes",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Sweeter Than Candy",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a0be3c43-e29b-4054-af3f-1131e19890a4",
+   "titulo": "Born to Boogie",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/cbd78bac-595a-464b-9699-f1cdaf9465a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Am I Living For",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Can Feel It",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "I Don’t Want to Fall in Love With You",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Hurt Put on You",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "I Want You Back Again",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "We Did It in 54",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Georgia Court Room",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Born to Boogie",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Take Me Back",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Get Off Gettin’ On",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e1653eca-9920-44bc-9324-f8931423bf77",
+   "titulo": "Presenting Carl Perkins",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/c36c069e-228d-4256-ae00-ba43773af25e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Why You Been Gone So Long",
+     "duracao": "3:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Miss Misunderstood",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "The Hurt Put on by You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Cloud Up and Rain on You",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Goodnight Irene",
+     "duracao": "2:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Let Old Mother Nature Have Her Way",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "That Evil Child",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Lovesick Blues",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Mustang Wine",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "The Whole World Misses You",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ea0cbd05-918c-434e-a3cc-39723d2e2fc8",
+   "titulo": "King of Rock’n Roll, 5",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/98057f7c-0b37-4475-9c00-845df265126d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Boppin’ the Blues",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Your True Love",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Matchbox",
+     "duracao": "2:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Only You",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Turn Around",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Let the Jukebox Keep On Playing",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Glad All Over",
+     "duracao": "1:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Tennessee",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Honey Don’t",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "All Mama’s Children",
+     "duracao": "2:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Dixie Fried",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5fb59232-0f0c-4a38-9887-a592357c19e4",
+   "titulo": "Rockin an’ a Boppin’",
+   "data": "1984",
+   "ano": "1984",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweeter Than Candy",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Take Me Back",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Get Off Gettin’ It In",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sing a Song",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Standing in the Need of Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I Don’t Want to Fall In Love Again",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Rise and Shine",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Georgia Court Room",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "I Can Feel It",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I Want You Back Again",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8b749431-2dd4-4746-9781-ee448e80a69e",
+   "titulo": "Gospel",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/7e09d164-a163-4540-b6f8-1a3c2a0280d9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Daddy Sang Bass",
+     "duracao": "2:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Hallelujah Special",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Rise and Shine",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Disciple in Blue Suede Shoes",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Sweeter Than Candy",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "This Old House",
+     "duracao": "1:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Sundays Are Fundays With My Lord",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Standing in the Need of Love",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Sing a Song With Me",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Old Time Religion",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ff6712ba-102b-3e7a-83c6-6a020843ea50",
+   "titulo": "The Man * The Legend",
+   "data": "1984-11",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/bb58f404-8886-477e-8a32-17ec578a41bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Honey Don’t",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m Walkin’",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Matchbox",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Susie Q",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Memphis",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Maybelline",
+     "duracao": "2:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Slippin’ and Slidin’",
+     "duracao": "2:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Be-Bop-a-Lula",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Roll Over Beethoven",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Houndog",
+     "duracao": "1:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Whole Lotta Shakin' Goin' On",
+     "duracao": "2:37"
+    },
+    {
+     "n": 13,
+     "titulo": "Lucille",
+     "duracao": "2:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Jailhouse Rock",
+     "duracao": "2:17"
+    },
+    {
+     "n": 15,
+     "titulo": "All Shook Up",
+     "duracao": "2:09"
+    },
+    {
+     "n": 16,
+     "titulo": "That's Alright Mama",
+     "duracao": "3:12"
+    },
+    {
+     "n": 17,
+     "titulo": "Bird Dog",
+     "duracao": "2:35"
+    },
+    {
+     "n": 18,
+     "titulo": "Rock Island Line",
+     "duracao": "2:45"
+    },
+    {
+     "n": 19,
+     "titulo": "Singing the Blues",
+     "duracao": "1:48"
+    },
+    {
+     "n": 20,
+     "titulo": "Got My Mojo Workin'",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "374ad111-2fcc-4a1e-90e0-774da59322a8",
+   "titulo": "Carl Perkins",
+   "data": "1985-10",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/78f8f9dc-43f1-44a4-ab7b-34d68d786bd7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Matchbox",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "If I Had’a Know",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Green Green Grass of Home",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Texas Women",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Signs",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Honey Don’t",
+     "duracao": "2:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Back Together",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Big Iron Horse",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Swingin’",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "The Song",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "51d7fe2f-b616-302d-9274-ace06d99b5ae",
+   "titulo": "Class of ’55: Memphis Rock & Roll Homecoming",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/29cc7998-6aa5-4cfa-859a-0b124b44b3b1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Birth of Rock and Roll",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Sixteen Candles",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Class of ’55",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Waymore’s Blues",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "We Remember the King",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Coming Home",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Rock and Roll (Fais‐Do‐Do)",
+     "duracao": "3:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Keep My Motor Running",
+     "duracao": "2:55"
+    },
+    {
+     "n": 9,
+     "titulo": "I Will Rock and Roll With You",
+     "duracao": "2:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Big Train (From Memphis)",
+     "duracao": "7:58"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Class_of_%2755%3A_Memphis_Rock_%26_Roll_Homecoming",
+   "resumo_en": "Class of '55: Memphis Rock & Roll Homecoming is a collaborative studio album by Roy Orbison, Johnny Cash, Jerry Lee Lewis, and Carl Perkins. It was released on May 26, 1986, by America/Smash Records, a subsidiary of Polygram Records. The album was produced by Chips Moman.\nWhile the album was in part a tribute to Elvis Presley, it was mainly a commemoration of those young performing hopefuls, the four album participants, who — as had Presley — all began their careers with Sun Records in the 1950s. Recorded at Sam Phillips’ Sun Studios and completed at American Sound Studios, the album was documented by Dick Clark Productions, which filmed it from start to finish; by The Commercial Appeal, the Mid-South's largest circulation newspaper; and by Nine-O-One Network Magazine, the first edition of which was sold with the album in a telemarketing package.\nThe final song of the session, \"Big Train (from Memphis)\", written by John Fogerty, includes the blended voices of John Fogerty, The Judds, Dave Edmunds, Ricky Nelson, Sam Phillips, and June Carter Cash. Fogerty told a reporter that he was thinking about the old Sun Records sound when he wrote the song. The extended finale of the song feat",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "58f5eecf-26d8-4799-89d9-ef2015e2c71d",
+   "titulo": "Dixie Fried",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/2f76e2e7-7375-4a1d-93ad-d0597b78d82a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honey Don’t",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Bopppin’ the Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Suede Shoes",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Put Your Cat Clothes On",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Dixie Fried",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Matchbox",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Pink Pedal Pushers",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "That’s Right",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Sorry I’m Not Sorry",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Roll Over Beethoven",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Glad All Over",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Right String Baby but the Wrong Yo Yo",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Gone, Gone, Gone",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Lend Me Your Comb",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "All Mama’s Children",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Sweethearts or Strangers",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Your True Love",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Movie Magg",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Tennessee",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Sure to Fall",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Honky Tonk Gal",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "Turn Around",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "Let the Jukebox Keep on Playing",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2cc028c6-d14f-45f1-a18a-50d1d9c454c3",
+   "titulo": "Born to Rock",
+   "data": "1989-05",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/b43473d9-95ef-46cc-8cfd-3758198d5af0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Born To Rock",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Charlene",
+     "duracao": "4:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The Rain Might Wash Your Love Away",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Hambone",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "A Lifetime Last Night",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Cotton Top",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby, Please Answer Your Phone",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Till I Couldn't Stand No More",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Let Go",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Makes Dreams Come True",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.1,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Born_to_Rock_%28album%29",
+   "resumo_en": "Born to Rock is an album by the American musician Carl Perkins, released in 1989. It was considered to be an attempt to replicate Roy Orbison's late-career success.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2a45d32a-209c-4652-a5b2-40beec5dd1d4",
+   "titulo": "706 ReUnion: A Sentimental Journey",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/516cfdbb-ad77-4654-b2e0-8385338f9300/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Introduction",
+     "duracao": "1:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Night Train to Memphis",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Raunchy",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Dialog",
+     "duracao": "0:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Milk Cow Blues Boogie",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "706 Reunion",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Carl’s Intro to Damn Sam",
+     "duracao": "0:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Damn Sam",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Turn Around",
+     "duracao": "2:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Dialog",
+     "duracao": "0:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Windy and Warm",
+     "duracao": "2:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Dialog",
+     "duracao": "0:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Black‐Eyed Suzy Broun",
+     "duracao": "2:06"
+    },
+    {
+     "n": 14,
+     "titulo": "Dialog",
+     "duracao": "1:15"
+    },
+    {
+     "n": 15,
+     "titulo": "EP Express",
+     "duracao": "2:58"
+    },
+    {
+     "n": 16,
+     "titulo": "Dialog",
+     "duracao": "0:46"
+    },
+    {
+     "n": 17,
+     "titulo": "The Worst of Her",
+     "duracao": "4:58"
+    },
+    {
+     "n": 18,
+     "titulo": "Carl Tells the Story of Blue Suede Shoes",
+     "duracao": "2:13"
+    },
+    {
+     "n": 19,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:40"
+    },
+    {
+     "n": 20,
+     "titulo": "More Blue Suede Shoes",
+     "duracao": "3:18"
+    },
+    {
+     "n": 21,
+     "titulo": "Harbor Lights",
+     "duracao": "3:20"
+    },
+    {
+     "n": 22,
+     "titulo": "Pickup Truck",
+     "duracao": "3:03"
+    },
+    {
+     "n": 23,
+     "titulo": "Dialog",
+     "duracao": "0:42"
+    },
+    {
+     "n": 24,
+     "titulo": "Match Box",
+     "duracao": "3:20"
+    },
+    {
+     "n": 25,
+     "titulo": "Pickup Truck",
+     "duracao": "0:27"
+    },
+    {
+     "n": 26,
+     "titulo": "Mystery Train",
+     "duracao": "1:59"
+    },
+    {
+     "n": 27,
+     "titulo": "Bumper",
+     "duracao": "0:11"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3941a775-f0d2-4ff4-9173-c959e84e57dc",
+   "titulo": "The Real Rock Master, Vol 1",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/310c442d-d275-4cde-a5f9-7e3fe896376f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Your True Love",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Honey Don’t",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Matchbox",
+     "duracao": "2:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Sure to Fall",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Roll Over Beethoven",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Lonely Street",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Honky Tonk Gal",
+     "duracao": "1:56"
+    },
+    {
+     "n": 10,
+     "titulo": "All Mama’s Children",
+     "duracao": "2:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Only You",
+     "duracao": "3:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Y‐O‐U",
+     "duracao": "2:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Forever Yours",
+     "duracao": "2:38"
+    },
+    {
+     "n": 14,
+     "titulo": "That’s Right",
+     "duracao": "2:50"
+    },
+    {
+     "n": 15,
+     "titulo": "I’m Sorry I’m Nut Sorry",
+     "duracao": "2:25"
+    },
+    {
+     "n": 16,
+     "titulo": "Her Love Rubbed Off",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a6ed4751-d4b2-40f0-b7fc-21cdb4460d3c",
+   "titulo": "The Real Rock Master, Volume 2",
+   "data": "1992",
+   "ano": "1992",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boppin’ the Blues",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Dixie Fried",
+     "duracao": "2:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Put Your Cat Clothes On",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Glad All Over",
+     "duracao": "1:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Lend Me Your Comb",
+     "duracao": "1:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Wrong Yo‐Yo",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Gone Gone Gone",
+     "duracao": "2:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Pink Pedal Pusher",
+     "duracao": "2:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Movie Magg",
+     "duracao": "2:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweetheart You’re a Stranger",
+     "duracao": "2:18"
+    },
+    {
+     "n": 11,
+     "titulo": "You Can Do No Wrong",
+     "duracao": "2:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Turn Around",
+     "duracao": "2:56"
+    },
+    {
+     "n": 13,
+     "titulo": "What You Do When You’re Crying",
+     "duracao": "2:49"
+    },
+    {
+     "n": 14,
+     "titulo": "I Care",
+     "duracao": "2:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Let the Jukebox Keep on Playing",
+     "duracao": "2:50"
+    },
+    {
+     "n": 16,
+     "titulo": "You Can’t Make Love to Somebody",
+     "duracao": "2:37"
+    },
+    {
+     "n": 17,
+     "titulo": "Perkins Wiggle",
+     "duracao": "2:36"
+    },
+    {
+     "n": 18,
+     "titulo": "Tennessee",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c736a892-a144-49a1-af2a-8abdf1ad6e94",
+   "titulo": "Friends, Family & Legends",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/303a7f54-1256-448e-b6e4-4e2127daa3c6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pink Cadillac",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Birth of Rock & Roll",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Book Faded Brown",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Stop the Music",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Wild Texas Wind",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Half the Time",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Make It Right",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Godfather of Rock & Roll",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Of Love",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Let Go",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c1db0f5-63f1-444e-bf6e-43bb91092c69",
+   "titulo": "Blue Suede Shoes",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/cef89aa5-bc1d-441a-879f-2ec33542224b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Your True Love",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Matchbox",
+     "duracao": "2:07"
+    },
+    {
+     "n": 4,
+     "titulo": "That’s Right",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Boppin’ the Blues",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Tennessee",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "All Mama’s Children",
+     "duracao": "2:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Movie Magg",
+     "duracao": "2:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Dixie Fried",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Gone, Gone, Gone",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "The Hurt Put on by You",
+     "duracao": "3:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Sing a Song",
+     "duracao": "2:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Georgia Court Room",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "This Old House",
+     "duracao": "2:05"
+    },
+    {
+     "n": 15,
+     "titulo": "Every Road",
+     "duracao": "2:59"
+    },
+    {
+     "n": 16,
+     "titulo": "Hallelujah Special",
+     "duracao": "2:52"
+    },
+    {
+     "n": 17,
+     "titulo": "Turn Around",
+     "duracao": "2:56"
+    },
+    {
+     "n": 18,
+     "titulo": "Glad All Over",
+     "duracao": "1:39"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "18bb0782-de15-4051-9731-18c1ce6419cd",
+   "titulo": "Tennessee",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/8b876286-9d9a-4ecf-af46-96c81babbe0a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sure to Fall",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Turn Around",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Your True Love",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m Sorry, I’m Not Sorry",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Honey Don’t",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": "2:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Her Love Rubbed Off",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Tennessee",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Standing in the Need of Love",
+     "duracao": "2:21"
+    },
+    {
+     "n": 10,
+     "titulo": "I Want You Back",
+     "duracao": "2:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Redneck",
+     "duracao": "3:08"
+    },
+    {
+     "n": 12,
+     "titulo": "That’s Right",
+     "duracao": "2:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Country Soul",
+     "duracao": "2:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Hallelujah Special",
+     "duracao": "2:53"
+    },
+    {
+     "n": 15,
+     "titulo": "Daddy Sang Bass",
+     "duracao": "2:16"
+    },
+    {
+     "n": 16,
+     "titulo": "Dixie Fried",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "da7116d2-7552-4692-8ec7-7dfdfc6b0b9d",
+   "titulo": "Let It Rock! The Rock’n’Roll Album of the Decade",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/7ecd4823-2a04-4c64-8c92-2afefd657265/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let It Rock",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Down in the Alley",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Mamma Come Home",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Remedy",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "When There’s Time for Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Good Golly Miss Molly",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Long Tall Sally",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Wild Little Willie",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Match Box",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Blue Suede Shoes",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Mary Lou",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Ruby Baby",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "The Weight",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Rock’n’Roll Shoes",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Whole Lotta Shakin’",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Great Balls of Fire",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Bo Diddley",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Who Do You Love",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Days Gone By",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "eff12690-d447-3901-90ce-80a46a563d75",
+   "titulo": "Go Cat Go!",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/5d202846-365c-44c5-8124-21045895c2b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Mama’s Children",
+     "duracao": "2:10"
+    },
+    {
+     "n": 2,
+     "titulo": "One More Shot",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Rockabilly Music",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Distance Makes No Difference With Love",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Give Me Back My Job",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Quarter Horse",
+     "duracao": "2:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Stop the Music",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Matchbox",
+     "duracao": "2:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Go Cat Go",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Two Old Army Pals",
+     "duracao": "2:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Honey Don’t",
+     "duracao": "2:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Wild Texas Wind",
+     "duracao": "4:17"
+    },
+    {
+     "n": 14,
+     "titulo": "Restless",
+     "duracao": "4:25"
+    },
+    {
+     "n": 15,
+     "titulo": "A Mile Out of Memphis",
+     "duracao": "3:05"
+    },
+    {
+     "n": 16,
+     "titulo": "My Old Friend",
+     "duracao": "3:22"
+    },
+    {
+     "n": 17,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2dbfbe69-fe6e-47e6-9f05-3036c91a40b4",
+   "titulo": "The Best",
+   "data": "1999",
+   "ano": "1999",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Boppin’ the Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Lend Me Your Comb",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Tennessee",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Honey Don’t",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "All Mama’s Children",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Gone, Gone, Gone",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Her Love Rubbed Off",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Glad All Over",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Let the Juke Box Keep on Playing",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Matchbox",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Dizie Fried",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Right String but the Wrong Yo Yo",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Your True Love",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Movie Mag",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "88a7a0d6-75ab-42ff-babc-3fcc45840794",
+   "titulo": "Rock Right Now With the Guitar Man",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/6ce76768-fef1-4f6a-87f9-b3a713b6fa1a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Suzie Q",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Memphis Tennessee",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Matchbox",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Honey Don’t",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Walking",
+     "duracao": "2:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Slippin’ and Slidin’ (Peepin’ and Hidin’)",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Maybelline",
+     "duracao": "2:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Roll Over Beethoven",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Hound Dog",
+     "duracao": "1:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Be‐Bop‐a‐Lua",
+     "duracao": "2:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Whole Lotta Shakin’ Goin’ On",
+     "duracao": "2:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Lucille",
+     "duracao": "2:34"
+    },
+    {
+     "n": 14,
+     "titulo": "All Shook Up",
+     "duracao": "2:08"
+    },
+    {
+     "n": 15,
+     "titulo": "Bird Dog",
+     "duracao": "2:33"
+    },
+    {
+     "n": 16,
+     "titulo": "Jailhouse Rock",
+     "duracao": "2:16"
+    },
+    {
+     "n": 17,
+     "titulo": "That’s Alright Mama",
+     "duracao": "3:10"
+    },
+    {
+     "n": 18,
+     "titulo": "Rock Island Line",
+     "duracao": "3:00"
+    },
+    {
+     "n": 19,
+     "titulo": "Lawdy Miss Clawdy",
+     "duracao": "2:57"
+    },
+    {
+     "n": 20,
+     "titulo": "Tutti Frutti",
+     "duracao": "1:43"
+    },
+    {
+     "n": 21,
+     "titulo": "Got My Mojo Working",
+     "duracao": "3:51"
+    },
+    {
+     "n": 22,
+     "titulo": "Singing the Blues",
+     "duracao": "1:46"
+    },
+    {
+     "n": 23,
+     "titulo": "Texas Blue Jeans",
+     "duracao": "2:53"
+    },
+    {
+     "n": 24,
+     "titulo": "What’d I Say",
+     "duracao": "2:37"
+    },
+    {
+     "n": 25,
+     "titulo": "Blueberry Hill",
+     "duracao": "2:04"
+    },
+    {
+     "n": 26,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": "2:17"
+    },
+    {
+     "n": 27,
+     "titulo": "Pink Pedal Pushers",
+     "duracao": "2:34"
+    },
+    {
+     "n": 28,
+     "titulo": "Hey Good Looking",
+     "duracao": "2:40"
+    },
+    {
+     "n": 29,
+     "titulo": "Pop Let Me Have the Car",
+     "duracao": "2:12"
+    },
+    {
+     "n": 30,
+     "titulo": "Sitting on the Top of the World",
+     "duracao": "2:08"
+    },
+    {
+     "n": 31,
+     "titulo": "Long Tall Sally",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3056f9e4-37e3-4089-be54-710be7877d65",
+   "titulo": "The Unforgettable Music Of... Carl Perkins",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/e3fad28f-ece7-480b-8d24-969ffc1e7d26/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bue Suede Shoes",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Be‐Bop‐A‐Lula",
+     "duracao": "2:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Roll Over Beethoven",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Whole Lotta Shakin’ Goin’ On",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Jailhouse Rock",
+     "duracao": "2:20"
+    },
+    {
+     "n": 6,
+     "titulo": "All Shook Up",
+     "duracao": "2:11"
+    },
+    {
+     "n": 7,
+     "titulo": "That’s Alright Mama",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Lucille",
+     "duracao": "2:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Hound Dog",
+     "duracao": "2:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Slippin’ and Slidin’",
+     "duracao": "2:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Honey Don’t",
+     "duracao": "2:43"
+    },
+    {
+     "n": 12,
+     "titulo": "I’m Walkin’",
+     "duracao": "2:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Matchbox",
+     "duracao": "2:56"
+    },
+    {
+     "n": 14,
+     "titulo": "Susie Q",
+     "duracao": "3:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Memphis Tennessee",
+     "duracao": "2:30"
+    },
+    {
+     "n": 16,
+     "titulo": "Maybelline",
+     "duracao": "2:16"
+    },
+    {
+     "n": 17,
+     "titulo": "Bird Dog",
+     "duracao": "2:38"
+    },
+    {
+     "n": 18,
+     "titulo": "Rock Island Line",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cc001c3d-f883-457c-bc3f-f648cc0a9dd2",
+   "titulo": "Introducing Carl Perkins",
+   "data": "2005-07-24",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/33b1e9bb-9354-469a-bd6c-e462b96e9cc3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Way Cross Town",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "You Don't Know What Love Is",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "The Lady Is a Tramp",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Marblehead",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Woodyn You",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Westside Aka Mia",
+     "duracao": "2:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Just Friends",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "It Could Happen to You",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Why Do I Care",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Lilacs in the Rain",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Carl's Blues",
+     "duracao": "4:46"
+    },
+    {
+     "n": 12,
+     "titulo": "West Side (Aka Mia) (Alt Version)",
+     "duracao": "2:39"
+    },
+    {
+     "n": 13,
+     "titulo": "Memories - Previously Unissued Dootone Recording (2013)",
+     "duracao": "3:03"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "be053437-1a20-4e0e-b7ea-19ab9f74b3ee",
+   "titulo": "Put Your Cat Clothes On!",
+   "data": "2011",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/cfad1e19-aca4-4b5a-b5b4-a430195e158b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Put Your Cat Clothes On!",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Sweethearts or Strangers?",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Everybody’s Trying to Be My Baby",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Honky Tonk Baby",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Her Love Rubbed Off",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Lend Me Your Comb",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Be Honest With Me",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Caldonia",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Sure to Fall",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Pink Pedal Pushers",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "I’m Sorry I’m Not Sorry",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Dixie Fried",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Put Your Cat Clothes On!",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4e08af53-d8a9-4040-a573-d2f659d705eb",
+   "titulo": "Lonely Street",
+   "data": "2011-03-20",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/b507e9e0-8184-4901-9983-a27f4fad922a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lonely Street - Original",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Look at That Moon - Original",
+     "duracao": "1:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Movie Magg - Original",
+     "duracao": "2:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Only You - Original",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Perkins Wiggle - Alternate",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Pink Pedal Pushers - Alternate",
+     "duracao": "2:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Pink Pedal Pushers - Alternate",
+     "duracao": "1:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Pink Pedal Pushers - Original",
+     "duracao": "2:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Put Your Cat Clothes On - Alternate",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Redneck",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Right String Baby, Wrong Yo-Yo - Original",
+     "duracao": "2:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Rise and Shine",
+     "duracao": "2:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Roll Over Beethoven - Original",
+     "duracao": "2:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Somebody Tell Me - Original",
+     "duracao": "4:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Standing in the Need of Love",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "918f3254-0bd1-4b05-9e59-cc85f497e716",
+   "titulo": "I Care",
+   "data": "2011-03-20",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/b4193d30-8a3b-4323-91eb-a96118d10da9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hallelujah Special''",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Her Love Rubbed Off - Alternate (Alternative 2)",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Honey Don't - Alternate",
+     "duracao": "2:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Honky Tonk Gal - Original",
+     "duracao": "2:21"
+    },
+    {
+     "n": 5,
+     "titulo": "I Care - Original",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "I Don't Like What I'm Seeing in You",
+     "duracao": "2:19"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Want to Fall in Love Again",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "I Want You Back Again",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "I'm Sorry, I'm Not Sorry - Alternate",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Instrumental Medley - Original",
+     "duracao": "1:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Keeper of the Key - Original",
+     "duracao": "3:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Lend Me Your Comb - Alternate",
+     "duracao": "1:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Let the Jukebox Keep on Playing - Original",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "017aaa13-0435-4075-8cda-ba90bb98c026",
+   "titulo": "Honey Don't",
+   "data": "2022-12-08",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/9d0baf6a-00af-48a3-a066-5be03034ee52/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honey Don't",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Jive After Five",
+     "duracao": "2:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Levi Jacket (And a Long Tail Shirt)",
+     "duracao": "2:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Pop Let Me Have the Car",
+     "duracao": "2:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Pink Pedal Pushers",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Highway of Love",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Lend Me Your Comb",
+     "duracao": "1:59"
+    },
+    {
+     "n": 8,
+     "titulo": "This Life I Live",
+     "duracao": "2:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Movie Magg",
+     "duracao": "2:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Y.O.U",
+     "duracao": "2:39"
+    },
+    {
+     "n": 11,
+     "titulo": "One Ticket to Loneliness",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "That's Right",
+     "duracao": "2:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Tennessee",
+     "duracao": "3:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Pointed Toe Shoes",
+     "duracao": "2:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Let the Jukebox Keep on Playing",
+     "duracao": "2:53"
+    },
+    {
+     "n": 16,
+     "titulo": "I'm Sorry I'm Not Sorry",
+     "duracao": "2:27"
+    },
+    {
+     "n": 17,
+     "titulo": "Glad All Over",
+     "duracao": "1:42"
+    },
+    {
+     "n": 18,
+     "titulo": "All Mama's Children",
+     "duracao": "2:08"
+    },
+    {
+     "n": 19,
+     "titulo": "Sure to Fall",
+     "duracao": "2:32"
+    },
+    {
+     "n": 20,
+     "titulo": "Turn Around",
+     "duracao": "2:57"
+    },
+    {
+     "n": 21,
+     "titulo": "I Don't See Me in Your Eyes Anymore",
+     "duracao": "2:44"
+    },
+    {
+     "n": 22,
+     "titulo": "Forever Yours",
+     "duracao": "2:38"
+    },
+    {
+     "n": 23,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "2:18"
+    },
+    {
+     "n": 24,
+     "titulo": "Boppin' the Blues",
+     "duracao": "2:49"
+    },
+    {
+     "n": 25,
+     "titulo": "Gone Gone Gone",
+     "duracao": "2:39"
+    },
+    {
+     "n": 26,
+     "titulo": "Your True Love",
+     "duracao": "2:47"
+    },
+    {
+     "n": 27,
+     "titulo": "Dixie Fried",
+     "duracao": "2:27"
+    },
+    {
+     "n": 28,
+     "titulo": "Matchbox",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dc992c89-71e5-419e-a175-bee7d7ac5099",
+   "titulo": "Some Things Never Change",
+   "data": "2025-10-24",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/5b57584a-349d-46a1-8fd4-42cfa90f0331/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baby, Bye Bye",
+     "duracao": "2:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Dont’cha Know I Love You",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Memphis in the Meantime",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Messin’ Around With Rock ’n’ Roll",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Some Things Never Change",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Miss Muddy",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Where Does Love Go",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Get Rhythm",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Heart of My Heart",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Baby, Bye Bye (Jackson demo)",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

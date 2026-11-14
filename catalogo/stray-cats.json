@@ -1,0 +1,868 @@
+{
+ "id": "stray-cats",
+ "nome": "Stray Cats",
+ "cena": "Descobertas do acervo",
+ "mbid": "0e763b87-f3cd-4a63-986f-bebc4189f1f0",
+ "wikidata": "Q1161663",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1979",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "rockabilly"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stray_Cats.jpg/500px-Stray_Cats.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Stray_Cats",
+ "resumo_pt": "Stray Cats é uma banda americana de rockabilly formada em 1979 pelo guitarrista e vocalista Brian Setzer, o contrabaixista Lee Rocker e o baterista Slim Jim Phantom na cidade de Massapequa, em Nova York. O grupo teve inúmeros singles de sucesso no Reino Unido, Austrália, Canadá e Estados Unidos, incluindo \"Stray Cat Strut\", \"She's Sexy 17\", \"Look at That Cadillac\" e\" I Stand in Your Way\", \"Bring it Again\", e \"Rock This Town\", que o Rock and Roll Hall of Fame listou como uma das canções que moldaram o rock and roll.",
+ "resumo_en": "Stray Cats are an American rockabilly band formed in 1979 by guitarist and vocalist Brian Setzer, double bassist Lee Rocker, and drummer Slim Jim Phantom in the Long Island hamlet of Massapequa, New York. The group had numerous hit singles in the UK, Australia, Canada, and the U.S. including \"Stray Cat Strut\", \"(She's) Sexy + 17\", \"Look at That Cadillac\", \"I Won't Stand in Your Way\", \"Bring It Back Again\", and \"Rock This Town\", which the Rock and Roll Hall of Fame has listed as one of the songs that shaped rock and roll.",
+ "albuns": [
+  {
+   "id": "04a0f5f4-6446-3bca-9838-513c236d066a",
+   "titulo": "Stray Cats",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/088160fd-9159-4cde-ab8d-72659d6c3351/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Runaway Boys",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Fishnet Stockings",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Ubangi Stomp",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Jeanie, Jeanie, Jeanie",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Storm the Embassy",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock This Town",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Rumble in Brighton",
+     "duracao": "3:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Stray Cat Strut",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Crawl Up and Die",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Double Talkin Baby",
+     "duracao": "3:04"
+    },
+    {
+     "n": 11,
+     "titulo": "My One Desire",
+     "duracao": "2:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Wild Saxaphone",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stray_Cats_%28album%29",
+   "resumo_en": "Stray Cats is the first studio album by American rockabilly band Stray Cats, first released in the United Kingdom by Arista Records in February 1981. It was produced by the band and Dave Edmunds.\nThe album was successful in Britain, peaking at No. 6 on the UK Albums Chart, and produced the UK Singles Chart top 40 hits \"Runaway Boys\" (No. 9), \"Rock This Town\" (No. 9) and \"Stray Cat Strut\" (No. 11). The Rock and Roll Hall of Fame later listed \"Rock This Town\" as one of the \"500 Songs that Shaped Rock and Roll\".\nThe fifth track on the album, \"Storm the Embassy\" was based on the song \"Boys Having Babies\" recorded in 1979 by Brian Setzer's previous band The Bloodless Pharaohs.  The lyrics were subsequently rewritten about the Iran hostage crisis of 1979–80.\nThe album was only issued in the United States after the success of the band's first American album, 1982's Built for Speed. However, six of the songs from Stray Cats (\"Rock This Town\", \"Stray Cat Strut\", \"Rumble in Brighton\", \"Runaway Boys\", \"Double Talkin' Baby\" and \"Jeanie, Jeanie, Jeanie\") were already included on Built for Speed.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7ec2138a-120e-32b1-acfe-7aca279c8b0c",
+   "titulo": "Gonna Ball",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/9f6ef2d0-23ff-44e5-b516-c136d0527446/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baby Blue Eyes",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Little Miss Prissy",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Wasn't That Good",
+     "duracao": "2:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Cryin' Shame",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "(She'll Stay Just) One More Day",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "You Don't Believe Me",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Gonna Ball",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Wicked Whisky",
+     "duracao": "2:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Rev It Up & Go",
+     "duracao": "2:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Lonely Summer Nights",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Crazy Mixed-Up Kid",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gonna_Ball",
+   "resumo_en": "Gonna Ball is the second studio album by American rockabilly band Stray Cats, first released in the UK by Arista Records in November 1981. The album was produced by the band and Hein Hoven. It went silver in the UK.\nFive of the album's tracks (\"Baby Blue Eyes\", \"Little Miss Prissy\", \"You Don't Believe Me\", \"Rev It Up and Go\" and \"Lonely Summer Nights\") were later included on the band's first American album, Built for Speed (1982). Only \"You Don't Believe Me\" charted in the UK, reaching No. 57.",
+   "spotify": "5TUzDcZI4ABIbXJdqvjOz4",
+   "youtube": null
+  },
+  {
+   "id": "05ced530-5077-3a59-9c27-e2d9fe497598",
+   "titulo": "Built for Speed",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/f76c8373-62de-491c-a277-e489b7a4acfd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock This Town",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Built for Speed",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Rev It Up & Go",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Stray Cat Strut",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Little Miss Prissy",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Rumble in Brighton",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Runaway Boys",
+     "duracao": "3:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Lonely Summer Nights",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Double Talkin' Baby",
+     "duracao": "3:04"
+    },
+    {
+     "n": 10,
+     "titulo": "You Don't Believe Me",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Jeanie, Jeanie, Jeanie",
+     "duracao": "2:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Baby Blue Eyes",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Built_for_Speed_%28Stray_Cats_album%29",
+   "resumo_en": "Built for Speed is a compilation album by American rockabilly band Stray Cats, released as the band's first album in the United States in June 1982 by EMI America Records.\nBuilt for Speed is essentially a compilation of 12 tracks taken from the band's first two British album releases: six from Stray Cats (February 1981) and five from Gonna Ball (November 1981), plus the title track, \"Built for Speed\", which had not previously been released in the United Kingdom.\nIt was the most successful record for the band, earning a platinum certification from the Recording Industry Association of America, and with the music videos for songs such as \"Rock This Town\" and \"Stray Cat Strut\" reaching MTV regular rotation status.",
+   "spotify": "65PptxxbOFNvpAK9oBeVV1",
+   "youtube": null
+  },
+  {
+   "id": "b6c6f976-77ea-3ee6-87f8-da7b369c2213",
+   "titulo": "Rant ’n Rave With the Stray Cats",
+   "data": "1983-08-15",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/3c8adca6-0c47-4be6-9e36-937cab2ef103/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rebels Rule",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Too Hip, Gotta Go",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Look at That Cadillac",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Something's Wrong With My Radio",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "18 Miles to Memphis",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "(She's) Sexy & 17",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Dig Dirty Doggie",
+     "duracao": "2:01"
+    },
+    {
+     "n": 8,
+     "titulo": "I Won't Stand in Your Way",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Hotrod Gang",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "How Long You Wanna Live, Anyway?",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c8b5c6ca-15b1-3052-9011-8d7c52947cd5",
+   "titulo": "Rock Therapy",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/a6be4de2-88eb-4ce3-aa26-2e080d9ef25c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock Therapy",
+     "duracao": "3:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Reckless",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Race With the Devil",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Looking for Someone to Love",
+     "duracao": "1:50"
+    },
+    {
+     "n": 5,
+     "titulo": "I Wanna Cry",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m a Rocker",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Beautiful Delilah",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "One Hand Loose",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Broken Man",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Change of Heart",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_Therapy_%28Stray_Cats_album%29",
+   "resumo_en": "Rock Therapy is the fourth studio album by American rockabilly band Stray Cats, released in August 1986 by EMI America. It was produced by Stray Cats. The album reached the No. 122 position on the Billboard 200 chart but failed to chart outside the U.S. Singles released from the album include \"I'm a Rocker\" and \"Reckless\". Rock Therapy was released as a reunion album after Setzer's solo effort, The Knife Feels Like Justice, and the trio of Phantom, Rocker and Slick self-titled LP.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a42d06f3-7fa7-3d2e-ac0b-c599fa3ba53a",
+   "titulo": "Blast Off",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/b913b191-f75b-4d1f-a292-8aa35f01277b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blast Off",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Gina",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Everybody Needs Rock ’n’ Roll",
+     "duracao": "2:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Gene and Eddie",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Rockabilly Rules",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Bring It Back Again",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Slip, Slip, Slippin’ In",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Rockabilly World",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Rockin’ All Over the Place",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Nine Lives",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.4,
+    "fontes": 10
+   },
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blast_Off%21_%28Stray_Cats_album%29",
+   "resumo_en": "Blast Off! is the fifth studio album by the American rockabilly revivalist band Stray Cats, released in 1989. It marked a reunion of the band, after three years of solo endeavors; the band's previous album, 1986's Rock Therapy, was produced to fulfill a record contract.\nThe album peaked at No. 111 on the Billboard 200. It peaked at No. 58 on the UK Albums Chart. The first single was \"Bring It Back Again\".\nThe band supported Blast Off! by touring with Stevie Ray Vaughan.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "68b8baff-c247-372c-9218-4805d19f71d1",
+   "titulo": "Let's Go Faster",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/a170d330-a807-49e2-b0ae-65b7e88e0cf9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cross of Love",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Town Without Pity",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Shotgun Baby",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Struck by Lightning",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Thing About You",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Baby Don’t Drag Me Down",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Tight Black Leather",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Give It to Me",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Let’s Go Faster",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Keep on Running",
+     "duracao": "4:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Runaway Train",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8e510a94-4699-3477-a053-bb191bd2caa1",
+   "titulo": "Choo Choo Hot Fish",
+   "data": "1992-05-22",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/d2daf2a1-3c81-4d46-b2e4-5325d81bee81/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Elvis on Velvet",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Cry Baby",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Please Don’t Touch",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Sleepwalk",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Lust n Love",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Beautiful Blues",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Cross of Love",
+     "duracao": "4:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Can’t Go Back to Memphis",
+     "duracao": "4:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Jade Idol",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "My Heart Is a Liar",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Mystery Train",
+     "duracao": "5:06"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Choo_Choo_Hot_Fish",
+   "resumo_en": "Choo Choo Hot Fish is the seventh studio album by the American rockabilly band Stray Cats, released in 1992. The first single was \"Elvis on Velvet\". The band supported the album with a North American tour.\nThe album was named for a soul food fish restaurant, since demolished, at Market and Main streets in Chattanooga, Tennessee, near what is now the Chattanooga Choo-Choo Hotel.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "34788284-3b74-3435-8368-21d9d24007db",
+   "titulo": "Original Cool",
+   "data": "1993-05-26",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/349c66a1-f306-45da-9ee7-ca8c7d8bec62/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Somethin’ Else",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Oh Boy",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Twenty‐Flight Rock",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "I Fought the Law",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Lonesome Tears",
+     "duracao": "1:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Your True Love",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Be‐Bop‐A‐Lula",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Jean Bop",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t Help Falling in Love",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Flying Saucer Rock ’n’ Roll",
+     "duracao": "2:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Train Kept a Rollin’",
+     "duracao": "2:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Stood Up",
+     "duracao": "2:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Let It Rock",
+     "duracao": "2:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Trying to Get to You",
+     "duracao": "2:29"
+    },
+    {
+     "n": 15,
+     "titulo": "Chet Ditty (Hidden Charms)",
+     "duracao": "0:24"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "60052bce-b3f6-4ef2-8a94-5e912cff8bf5",
+   "titulo": "Forever Gold (Live)",
+   "data": "2007-02-13",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/6d2118d1-631e-41af-8734-83127a978cfc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stray Cat Strut",
+     "duracao": "5:56"
+    },
+    {
+     "n": 2,
+     "titulo": "We N' Love",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Mystery Train",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Summertime Blues",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Double Talkin' Baby",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Rumble In Brighton",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby What You Want Me To Do",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Rev It Up & Go",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock Around With Ollie Vee",
+     "duracao": "2:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Fishnet Stockings",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Jeanie Jeanie Jeanie",
+     "duracao": "3:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Rock This Town",
+     "duracao": "7:07"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "904ad534-9168-4d4c-9b3a-708410f4b21a",
+   "titulo": "40",
+   "data": "2019-05-24",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/3c51518c-77c2-4907-beea-47f1ce8b3af9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cat Fight (Over a Dog Like Me)",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock It Off",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "I’ve Got Love If You Want It",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Cry Danger",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "I Attract Trouble",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Three Time’s a Charm",
+     "duracao": "2:09"
+    },
+    {
+     "n": 7,
+     "titulo": "That’s Messed Up",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "When Nothing’s Going Right",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Desperado",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Mean Pickin’ Mama",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ll Be Looking Out for You",
+     "duracao": "2:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Devil Train",
+     "duracao": "3:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Hip, Gotta Go",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/40_%28Stray_Cats_album%29",
+   "resumo_en": "40 is the ninth studio album by American rockabilly band Stray Cats, released in May 2019 by Surfdog Records. It is their first studio album in 26 years since Original Cool in 1993. The album was recorded, mixed, and mastered in Nashville, Tennessee. It is the last album to be produced by Peter Collins before his death in 2024.",
+   "spotify": null,
+   "youtube": "OLAK5uy_nLTZHE-dPQk0D35NMIF65HKuJjBbPtMd4"
+  }
+ ]
+}

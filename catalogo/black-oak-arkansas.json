@@ -1,0 +1,1222 @@
+{
+ "id": "black-oak-arkansas",
+ "nome": "Black Oak Arkansas",
+ "cena": "Descobertas do acervo",
+ "mbid": "1ff4b10b-4214-48b7-87b4-64394773bfcc",
+ "wikidata": "Q118966",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1970",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "southern rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Jim_Dandy.jpg/500px-Jim_Dandy.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Black_Oak_Arkansas",
+ "resumo_pt": "Black Oak Arkansas é um banda americana de southern rock, o nome da banda veio da cidade onde foi formada, Black Oak, localizada no Arkansas. \nÉ considerada uma bandas de rock mais excêntricas dos anos 70, com suas músicas sexy e com apresentações ao vivo cheias de sensualidade do seu Frontman James \"Dandy\" Mangrum, que influenciaram grandes nomes do rock, como David Lee Roth e Axl Rose.",
+ "resumo_en": "Black Oak Arkansas is an American Southern rock band named after the band's hometown of Black Oak, Arkansas. The band reached the height of its fame in the 1970s, charting ten albums.  Their style is notable for multiple guitar players and the raspy voice and on-stage antics of vocalist Jim \"Dandy\" Mangrum.",
+ "albuns": [
+  {
+   "id": "1fb75915-6f77-34bd-8596-3d24b25cea6c",
+   "titulo": "Black Oak Arkansas",
+   "data": "1971-03",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/a205877d-234d-440d-ac51-4255daa98b6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Uncle Lijiah",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Memories at the Window",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "The Hills of Arkansas",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "I Could Love You",
+     "duracao": "6:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Hot and Nasty",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Singing the Blues",
+     "duracao": "2:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Lord Have Mercy on My Soul",
+     "duracao": "6:15"
+    },
+    {
+     "n": 8,
+     "titulo": "When Electricity Came to Arkansas",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 4.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Oak_Arkansas_%28album%29",
+   "resumo_en": "Black Oak Arkansas is the debut studio album by American Southern rock band Black Oak Arkansas, released in 1971.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c2d11f48-5eb1-34f0-b19f-8b24940d5ced",
+   "titulo": "Keep the Faith",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/8599b1e1-cbde-4601-b4ee-ad33208abd3a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Keep the Faith",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Revolutionary All American Boys",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Feet on Earth, Head in Sky",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Fever in My Mind",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "The Big One's Still Coming",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "White Headed Woman",
+     "duracao": "4:52"
+    },
+    {
+     "n": 7,
+     "titulo": "We Live on Day to Day",
+     "duracao": "5:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Short Life Line",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Confuse What You Don't Know",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4d9d9e21-0b3b-3d28-b073-f118af931fc0",
+   "titulo": "High on the Hog",
+   "data": "1973-10-23",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/7ad3f601-c81e-49a3-ac7c-eafe82892433/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Swimmin' in Quicksand",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Back to the Land",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Movin'",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Happy Hooker",
+     "duracao": "5:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Red Hot Lovin'",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Jim Dandy",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Moonshine Sonata",
+     "duracao": "5:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Why Shouldn't I Smile",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "High 'n' Dry",
+     "duracao": "2:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Mad Man",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/High_on_the_Hog_%28Black_Oak_Arkansas_album%29",
+   "resumo_en": "High on the Hog is the fourth studio album by American southern rock band Black Oak Arkansas, released in 1973 by Atco Records. It is known for its cover of the LaVern Baker song \"Jim Dandy\", which reached number 25 on the US Billboard Hot 100.\nHigh on the Hog remains the group's most successful release.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7666cb0f-8040-38e3-8c68-0dbc16ba454a",
+   "titulo": "Street Party",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/963fb7a7-18cb-496c-9f6a-0e0091c7ac17/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dancing in the Street",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Sting Me",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Good Good Woman",
+     "duracao": "3:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Jail Bait",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Sure Been Workin' Hard",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Son of a Gun",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Brink of Creation",
+     "duracao": "0:42"
+    },
+    {
+     "n": 8,
+     "titulo": "I'm a Man",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Goin' Home",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Dixie",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Everybody Wants to See Heaven 'Nobody Wants to Die'",
+     "duracao": "3:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Hey Ya'll",
+     "duracao": "4:10"
+    },
+    {
+     "n": 13,
+     "titulo": "Brink of Creation",
+     "duracao": "0:38"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Street_Party_%28Black_Oak_Arkansas_album%29",
+   "resumo_en": "Street Party is the sixth album by the American band Black Oak Arkansas, released in 1974. They supported it by opening for Black Sabbath on a European tour; the bandmembers were able to leave the country following the end of their probation for stealing PA equipment. The album peaked at No. 56 on the Billboard 200. It was rereleased in 2013.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "14a03db6-5d5e-31fe-998a-11ca22e61be0",
+   "titulo": "Ain't Life Grand",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/ca685caf-a368-4824-a7d6-d2a2da7ba161/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Taxman",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Fancy Nancy",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Keep On",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Good Stuff",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Rebel",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Back Door Man",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Can Be Found",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Diggin' for Gold",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Cryin' Shame",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Let Life Be Good to You",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a7fcd82c-dda2-371e-b97e-1bf50eb3feb3",
+   "titulo": "X-Rated",
+   "data": "1975-08-01",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/77db24d8-dc24-4e9f-b7c4-c05c4af03f25/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bump n' Grind",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Fightin' Cock",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Highway Pirate",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Strong Enough to Be Gentle",
+     "duracao": "5:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Flesh Needs Flesh",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Wild Men From the Mountains",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "High Flyer",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Ace in the Hole",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Too Hot to Stop",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8424433e-e193-301b-b9fa-9252c7cf4ca1",
+   "titulo": "Balls of Fire",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/f152326f-9e5b-4595-bd93-c1a17d9445a3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ramblin' Gamblin' Man",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Fistful of Love",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Make That Scene",
+     "duracao": "2:17"
+    },
+    {
+     "n": 4,
+     "titulo": "I Can Feel Forever",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock 'n' Roll",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Great Balls of Fire",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Just to Fall in Love",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Leather Angel",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Storm of Passion",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "All My Troubles",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f58e8750-62a1-387b-8153-8615ea307ed5",
+   "titulo": "10yr Overnight Success",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/bc66d796-2a3a-4b53-b2a6-bb3ae078b254/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When the Band Was Singing \"Shakin' All Over\"",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Pretty, Pretty",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Can't Blame It on Me",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Television Indecision",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Back It Up",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Bad Boy's Back in School",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Comes Easy",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "You Can't Keep a Good Man Down",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Fireball",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "012d006a-8633-3fcd-80c1-1968700d35a8",
+   "titulo": "Race With the Devil",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/a850e258-20d8-4c6e-b18b-c25144a90039/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Race With the Devil",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Freedom",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "One Night Stand",
+     "duracao": "5:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Daisy",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Rainbow",
+     "duracao": "5:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Feels So Good",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Stand by Your Own Kind",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Not Fade Away",
+     "duracao": "7:15"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8cc44443-a3ea-49ab-acfd-1cce8f24cb2d",
+   "titulo": "I'd Rather Be Sailing",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/0c0a30ab-9fcf-44ed-9d1f-c6e688833e2e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I'll Take Care of You",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "You Keep Me Waiting",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Ride With Me",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Made of Stone",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "You Can Count on Me (I'll Be There)",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "God Bless the Children",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Innocent Eyes",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Daydreams",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Wind in Our Sails",
+     "duracao": "3:30"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "97287253-13d6-3acb-8531-3fa6548f422b",
+   "titulo": "The Black Attack Is Back",
+   "data": "1986",
+   "ano": "1986",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Distance Runner",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm on Your Side",
+     "duracao": "5:19"
+    },
+    {
+     "n": 3,
+     "titulo": "The Black Attack Is Back",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Body Slam",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "You Can't Keep a Good Band Down",
+     "duracao": "2:08"
+    },
+    {
+     "n": 6,
+     "titulo": "The Wanderer",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Want Much Out of Life",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Angel",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "I Need More Love",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "(I Want a Woman With) Big Titties",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8be76e04-2076-32a3-914b-353a3e8c491b",
+   "titulo": "The Wild Bunch",
+   "data": "1999-11-02",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/0028df6e-9d96-4d8b-9b60-17db1287dc97/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Forgive and Forget",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Post Toastee",
+     "duracao": "6:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Dark Purple Blues",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Shake the Devil",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Jim Dandy to the Rescue '99",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Truth Be Known",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Mutants of the Monster '99",
+     "duracao": "4:58"
+    },
+    {
+     "n": 8,
+     "titulo": "This Is Our Time",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Hot Rod '99",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "No Time",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Happy Hooker '99",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Top Heavy Dallas",
+     "duracao": "3:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Hot 'n' Nasty '99",
+     "duracao": "3:47"
+    },
+    {
+     "n": 14,
+     "titulo": "The Wild Bunch",
+     "duracao": "5:48"
+    },
+    {
+     "n": 15,
+     "titulo": "Talk to the Hand",
+     "duracao": "3:27"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6ad5bc69-910c-3b4c-a97f-3ebdec87fc2b",
+   "titulo": "If an Angel Came to See You, Would You Make Her Feel at Home?",
+   "data": "2000",
+   "ano": "2000",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gravel Roads",
+     "duracao": "3:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Fertile Woman",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Spring Vacation",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "We Help Each Other",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Full Moon Ride",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Our Mind's Eye",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "To Make Us What We Are",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Our Eyes Ere on You",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Mutants of the Monster",
+     "duracao": "4:45"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/If_an_Angel_Came_to_See_You%2C_Would_You_Make_Her_Feel_at_Home%3F",
+   "resumo_en": "If an Angel Came to See You, Would You Make Her Feel at Home? is the third studio album released by southern rock band Black Oak Arkansas in 1972. It is the recording debut of drummer Tommy Aldridge.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bfcd3f4b-42fd-4da6-9212-406a9028d052",
+   "titulo": "The Knowbody Else '69",
+   "data": "2008",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/e9aee268-636f-4420-9d30-dc076754edc4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hold Me Down",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "In Your Quiet Home",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Fools & Friends",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "No One and the Sun",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Vieux Carre",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Flying Horses of Louisiana",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "After I Smoke, I Like to Sleep",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "One Life Two Live",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Black Blues",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "My Brothers and Me",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Hot & Nasty (live 1974)",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Jim Dandy (live 1974)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1ec7b1f7-adb9-45b5-8dca-c6b71b6da185",
+   "titulo": "Back Thar n’ Over Yonder",
+   "data": "2013-10-15",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/e8f591f8-305a-42a8-bb2d-a90249293bfd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Plugged in and Wired",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Sweet Delta Water",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "15 Million Light Years Away",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I Ain’t Poor",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "I Shall Be Released",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Gigolo",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "(I Can’t Get No) Satisfaction",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Hot Rod",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Snake",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Legal I.D.",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Jim Dandy",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Dance to the Music",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Evil Lady",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Summer Swing",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Up, Up, Up",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c0594422-5517-4a2a-8429-fe1bb1b034db",
+   "titulo": "Underdog Heroes",
+   "data": "2019-05-17",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/e3680f45-d9c3-424b-8cfe-4d8bc9c33373/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Let It Show",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Underdog Heroes",
+     "duracao": "7:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Channeling Spirits",
+     "duracao": "6:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Ruby's Heartbreaker",
+     "duracao": "5:50"
+    },
+    {
+     "n": 5,
+     "titulo": "The Wrong Side of Midnight",
+     "duracao": "6:30"
+    },
+    {
+     "n": 6,
+     "titulo": "The Devil's Daughter",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Arkansas Medicine Man",
+     "duracao": "5:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Do Unto Others",
+     "duracao": "5:08"
+    },
+    {
+     "n": 9,
+     "titulo": "You Told Me You Loved Me",
+     "duracao": "4:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Love 4 Rent",
+     "duracao": "4:55"
+    },
+    {
+     "n": 11,
+     "titulo": "The 12 Bar Blues",
+     "duracao": "7:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Johnnie Won't Be Good",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "655a6e27-97d9-4968-b5ff-3c5d1af1a42b",
+   "titulo": "The Devil’s Jukebox",
+   "data": "2023-09-01",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/b2ca7e69-d319-41a4-946b-b5deb3ddcb7e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sympathy For The Devil",
+     "duracao": "7:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Space Lord",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "All Along The Watchtower",
+     "duracao": "5:28"
+    },
+    {
+     "n": 4,
+     "titulo": "California Dreamin’",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock ’N’ Roll Woman",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m A Man",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Somebody To Love",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Bold As Love",
+     "duracao": "6:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Mr. Soul",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Southern Man",
+     "duracao": "5:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Goin’ Back",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,1920 @@
+{
+ "id": "bo-diddley",
+ "nome": "Bo Diddley",
+ "cena": "Pioneiros do rock'n'roll",
+ "mbid": "bf659d74-0b61-488c-8a7d-594f43bed9e0",
+ "wikidata": "Q208881",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1928",
+ "fim": "2008",
+ "ativa": false,
+ "generos": [
+  "blues",
+  "electric blues",
+  "r&b",
+  "rock and roll",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bo_Diddley_Prag_2005_02.jpg/500px-Bo_Diddley_Prag_2005_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bo_Diddley",
+ "resumo_pt": "Bo Diddley, nascido Ellas Otha Bates (McComb, Mississippi, 30 de dezembro de 1928 — Archer, Flórida, 2 de junho de 2008), foi um influente cantor, compositor e guitarrista de blues norte-americano. Foi considerado o 27º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.",
+ "resumo_en": "Ellas Otha Bates (December 30, 1928 – June 2, 2008), known professionally as Bo Diddley, was an American guitarist, singer and songwriter who played a key role in the transition from the blues to rock and roll. He influenced many artists, including Buddy Holly, the Beatles, the Rolling Stones, the Animals, George Thorogood, Syd Barrett, Tom Petty, and the Clash.\nHis use of African and Latin rhythms and a signature beat, a simple five-accent hambone rhythm, is a cornerstone of hip-hop, rock, and pop music. In recognition of his achievements, he was inducted into the Rock and Roll Hall of Fame in 1987, the Blues Hall of Fame in 2003, and the Rhythm and Blues Music Hall of Fame in 2017. He received a Lifetime Achievement Award from the Rhythm and Blues Foundation and the Grammy Lifetime Achievement Award. Diddley is also recognized for his technical innovations, including his use of tremolo and reverb effects to enhance the sound of his distinctive rectangular guitars.",
+ "albuns": [
+  {
+   "id": "f1cedb26-816f-3815-8489-c317ede4cae0",
+   "titulo": "Bo Diddley",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/f338a0dc-4c61-44a0-8318-be6280fe893d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bo Diddley",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm a Man",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Bring It to Jerome",
+     "duracao": "2:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Before You Accuse Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Hey! Bo Diddley",
+     "duracao": "2:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Dearest Darling",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Hush Your Mouth",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Say Boss Man",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Diddley Daddy",
+     "duracao": "2:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Diddy Wah Diddy",
+     "duracao": "2:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Who Do You Love",
+     "duracao": "2:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Pretty Thing",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bo_Diddley_%281958_album%29",
+   "resumo_en": "Bo Diddley is the debut album by American rock and roll musician Bo Diddley. It collects several of his most influential and enduring songs, which were released as singles between 1955 and 1958. Chess Records issued the album in 1958. In 2012, it was ranked number 216 on Rolling Stone's 500 Greatest Albums of All Time list alongside his second album, Go Bo Diddley (1959). The ranking of the album pair dropped to number 455 in the 2020 update of the list.",
+   "spotify": "1cbtDEwxCjMhglb49OgNBR",
+   "youtube": "OLAK5uy_nLNkz_SYo7OhxC7Vf1CLOsuK6RxweAjEE"
+  },
+  {
+   "id": "5aff3ef3-68f5-3043-8399-4569b9a3466b",
+   "titulo": "Go Bo Diddley",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/a40946c7-1582-4c6b-b39e-430638a15995/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crackin’ Up",
+     "duracao": "2:06"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Sorry",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Bo’s Guitar",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Willie and Lillie",
+     "duracao": "2:17"
+    },
+    {
+     "n": 5,
+     "titulo": "You Don’t Love Me (You Don’t Care)",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Say Man",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "The Great Grandfather",
+     "duracao": "2:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Oh Yeah",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Let It Go",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Little Girl",
+     "duracao": "2:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Dearest Darling",
+     "duracao": "2:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Clock Strikes Twelve",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Go_Bo_Diddley",
+   "resumo_en": "Go Bo Diddley is the second album by American rock and roll musician Bo Diddley, released in July 1959. The album was Bo's first studio album that included some material that had not been prereleased on singles, and his first LP for Checker Records. In 2003, Rolling Stone ranked it number 214 on its The 500 Greatest Albums of All Time, and 216 in a 2012 revised list.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c1019c55-6e8e-342e-afdc-627ae8ee2fe4",
+   "titulo": "Bo Diddley in the Spotlight",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/85edb301-b3c3-400d-b2be-f1df45e24425/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Roadrunner",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Story of Bo Diddley",
+     "duracao": "2:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Scuttle Bug",
+     "duracao": "2:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Signifying Blues",
+     "duracao": "2:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Let Me In",
+     "duracao": "1:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Limber",
+     "duracao": "2:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Me",
+     "duracao": "2:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Crawdad",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Walkin' and Talkin'",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Travelin' West",
+     "duracao": "1:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Deed and Deed I Do",
+     "duracao": "2:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Live My Life",
+     "duracao": "2:36"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ac9ec195-745a-3e3a-bd5f-816942118c6d",
+   "titulo": "Have Guitar Will Travel",
+   "data": "1960-01",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/ac32abdb-2c19-42e0-b8f1-d14dca782163/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She’s Alright",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Cops and Robbers",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Run Diddley Daddy",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Mumblin’ Guitar",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Mona (I Need You Baby)",
+     "duracao": "2:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Say Man, Back Again",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Nursery Rhyme",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "I Love You So",
+     "duracao": "2:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Spanish Guitar",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Dancing Girl",
+     "duracao": "2:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Come On Baby",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Have_Guitar_Will_Travel_%28Bo_Diddley_album%29",
+   "resumo_en": "Have Guitar Will Travel is the third studio album by rock and roll musician Bo Diddley. It was released on the Checker Records label in 1960.\nThe front cover of Diddley's album displays a white calling card similar to that which Richard Boone's Have Gun – Will Travel character Paladin carried and gave out on every episode of the series. The location was  Livingston Street, Brooklyn, New York City.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "618df694-d172-327a-8b6e-a695dff37ab0",
+   "titulo": "Bo Diddley Is a Lover",
+   "data": "1961-02",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/c1cf8cc5-5aea-47f0-ae18-526c78c14f16/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Not Guilty",
+     "duracao": "2:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Hong Kong, Mississippi",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "You're Looking Good",
+     "duracao": "2:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Bo's Vacation",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Congo",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Bo's Blues",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Bo Diddley Is a Lover",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Aztec",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Back Home",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Bo Diddley Is Loose",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Is a Secret",
+     "duracao": "3:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Quick Draw",
+     "duracao": "1:50"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a450b6c7-2abe-379d-9680-1db92f053f73",
+   "titulo": "Bo Diddley Is a Gunslinger",
+   "data": "1961-09",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/54c17aad-2877-42e2-a951-d2445b8db598/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gunslinger",
+     "duracao": "1:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Ride on Josephine",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Doing the Craw-Daddy",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Cadillac",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Somewhere",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Cheyenne",
+     "duracao": "2:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Sixteen Tons",
+     "duracao": "2:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Whoa Mule (Shine)",
+     "duracao": "2:28"
+    },
+    {
+     "n": 9,
+     "titulo": "No More Lovin’",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Diddling",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bo_Diddley_Is_a_Gunslinger",
+   "resumo_en": "Bo Diddley Is a Gunslinger is the fifth studio album by American rock and roll pioneer Bo Diddley released in December 1960 by Checker Records. The album title comes from the album's first track called \"Gunslinger\" and the cover art has Bo Diddley dressed in Western-style clothing. The songs for Bo Diddley is a Gunslinger were recorded from October 1959 to February 1960. Several tracks of interest  are \"Sixteen Tons\" which Bo was supposed to perform on The Ed Sullivan Show,  the title track, and \"Diddling\" (an instrumental between guitar and saxophone).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "810e06a0-40e8-4f36-8b17-9f6a94cfc3ff",
+   "titulo": "Bo Diddley's a Twister",
+   "data": "1962-01",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/66a2544e-2038-430a-9316-35ee92baca18/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Detour",
+     "duracao": "1:54"
+    },
+    {
+     "n": 2,
+     "titulo": "She's Alright",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Doin' the Jaguar",
+     "duracao": "2:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Who Do You Love",
+     "duracao": "2:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Shank",
+     "duracao": "1:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Road Runner",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "My Babe",
+     "duracao": "1:41"
+    },
+    {
+     "n": 8,
+     "titulo": "The Twister",
+     "duracao": "2:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Hey, Bo Diddley",
+     "duracao": "1:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Hush Your Mouth",
+     "duracao": "2:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Bo Diddley",
+     "duracao": "2:17"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm Looking for a Woman",
+     "duracao": "2:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Here 'Tis",
+     "duracao": "2:20"
+    },
+    {
+     "n": 14,
+     "titulo": "I Know",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4427094a-7807-4995-b1d3-3b08b84038b5",
+   "titulo": "Bo Diddley & Company",
+   "data": "1962-12",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/b5e46693-68b6-4966-b157-3386cde91b60/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Extra Read All About) Ben",
+     "duracao": "2:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Help Out",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Diana",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Bo's a Lumber Jack",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Lazy Women",
+     "duracao": "2:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Mama Mia",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Gimme Gimme",
+     "duracao": "2:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Put the Shoes on Willie",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Pretty Girl",
+     "duracao": "2:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Same Old Thing",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Meet You on Saturday",
+     "duracao": "2:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Little Girl",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bd0b655a-014d-4096-8663-a10d433b87c4",
+   "titulo": "Bo Diddley Rides Again",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/d4e1a0fc-5028-4053-97e6-4414bda878f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bring It to Jerome",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Cops and Robbers",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Mumblin' Guitar",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Oh Yea",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "You Don't Love Me (You Don't Care)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Down Home Train",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Bo Diddley Is Loose",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Help Out",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Call Me (Bo's Blues)",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Don't Let It Go",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Nursery Rhyme",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Dearest Darling",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "88b0ffcc-ae88-4212-b175-090dbf598b84",
+   "titulo": "Surfin' With Bo Diddley",
+   "data": "1963-05-15",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/9103ae4f-d4ac-400f-915e-b134bc9dd80f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Did I Say",
+     "duracao": "2:14"
+    },
+    {
+     "n": 2,
+     "titulo": "White Silver Sands",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Surfboard Cha Cha",
+     "duracao": "2:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Surf Sink or Swim",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Piggy Back Surfers",
+     "duracao": "2:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Surfers Love Call",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Twisting Waves",
+     "duracao": "1:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Wishy Washy",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Hucklebuck",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Old Man River",
+     "duracao": "2:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Oops He Slipped",
+     "duracao": "1:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Low Tide",
+     "duracao": "2:12"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "68e37d0a-da3a-4804-bc04-b1baca7607f7",
+   "titulo": "Two Great Guitars",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/e49925c2-7356-4fb9-8231-b45475f39d19/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Liverpool Drive",
+     "duracao": "2:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Chuck’s Beat",
+     "duracao": "10:35"
+    },
+    {
+     "n": 3,
+     "titulo": "When the Saints Go Marching In",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Bo’s Beat",
+     "duracao": "14:00"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Two_Great_Guitars",
+   "resumo_en": "Two Great Guitars is a studio album by Bo Diddley and Chuck Berry, released in August 1964 by Checker Records, a subsidiary of Chess Records. It was the first studio album issued by Berry after his release from prison in October 1963.\nDiddley and Berry were friends, and both recorded for Chess. The album consists of two lengthy spontaneous instrumental jams and a few recently recorded instrumentals by the two guitarists; additional instrumental recordings, three by Diddley and one by Berry, are included in the compact disc reissue. The album cover shows a Gibson ES-350T owned by Berry in addition to Diddley's custom Jupiter Thunderbird guitar.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4585b603-1370-4682-927f-87fcaad73d9e",
+   "titulo": "Hey! Good Lookin'",
+   "data": "1965-04",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/ab178f5d-3605-42f3-a2a8-7d0f5a54a4d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hey, Good Lookin'",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Mush Mouth Millie",
+     "duracao": "2:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Bo Diddley's Hootenanny",
+     "duracao": "2:21"
+    },
+    {
+     "n": 4,
+     "titulo": "London Stomp",
+     "duracao": "2:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Let's Walk Awhile",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Rooster Stew",
+     "duracao": "2:18"
+    },
+    {
+     "n": 7,
+     "titulo": "La, La, La",
+     "duracao": "2:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Yeah, Yeah, Yeah",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Rain Man",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "I Wonder Why (People Don't Like Me)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Brother Bear",
+     "duracao": "2:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Mummy Walk",
+     "duracao": "2:10"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hey%21_Good_Lookin%27_%28album%29",
+   "resumo_en": "Hey! Good Lookin' is the eleventh studio album by American musician Bo Diddley released on the Checker label in 1965.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ae1432e7-c407-4ef8-9357-8bac4bc3cc14",
+   "titulo": "500% More Man",
+   "data": "1965-12",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/6b06ef99-d393-4100-89e0-5bc5b4db8dc3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "500% More Man",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Let Me Pass",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Stop My Monkey",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Greasy Spoon",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Tonight Is Ours",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Root Hoot",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Hey Red Riding Hood",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Let the Kids Dance",
+     "duracao": "2:21"
+    },
+    {
+     "n": 9,
+     "titulo": "He's So Mad",
+     "duracao": "2:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Soul Food",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Corn Bread",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Somebody Beat Me",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c9c7c4be-bcaa-4879-9c98-c906d81ecb21",
+   "titulo": "The Originator",
+   "data": "1966-10-26",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/c912a180-075d-49c7-8334-f42ec9723bcb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pills",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Jo Ann",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Two Flies",
+     "duracao": "2:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Yakky Doodle",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "What Do You Know About Love",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Do The Frog",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Back To School",
+     "duracao": "2:30"
+    },
+    {
+     "n": 8,
+     "titulo": "You Ain't Bad",
+     "duracao": "2:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Love You Baby",
+     "duracao": "2:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Limbo",
+     "duracao": "2:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Background To A Music",
+     "duracao": "3:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Puttentang (Nursery Rhyme)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Africa Speaks",
+     "duracao": "2:38"
+    },
+    {
+     "n": 14,
+     "titulo": "We're Gonna Get Married",
+     "duracao": "2:29"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "10b45add-7b9e-37ee-8dc3-11839f329e46",
+   "titulo": "Super Blues",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/403f0709-84bc-4a93-a307-eea6bd3a2c8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Distance Call",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Who Do You Love",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm a Man",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Bo Diddley",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "You Can't Judge a Book by the Cover",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "I Just Want to Make Love to You",
+     "duracao": "6:07"
+    },
+    {
+     "n": 7,
+     "titulo": "My Babe",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "You Don't Love Me",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Super_Blues",
+   "resumo_en": "Super Blues is a 1967 studio album by a blues supergroup consisting of Bo Diddley, Muddy Waters, and Little Walter. The album was released in both mono and stereo formats by Checker Records in June 1967. A follow-up album The Super Super Blues Band was released later that year and featured Howlin' Wolf replacing Little Walter.",
+   "spotify": "2lal1dUF4SNuSwYwJHat6s",
+   "youtube": null
+  },
+  {
+   "id": "cecc7a47-5057-3407-830e-7e5d61de6a77",
+   "titulo": "The Super Super Blues Band",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/d93820f9-ba76-4976-9346-2cfa74806b9a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Distance Call",
+     "duracao": "9:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Ooh Baby / Wrecking My Love Life",
+     "duracao": "6:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Little Angel",
+     "duracao": "6:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Spoonful",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Diddley Daddy",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "The Red Rooster",
+     "duracao": "7:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Goin' Down Slow",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Super_Super_Blues_Band",
+   "resumo_en": "The Super Super Blues Band is an album by blues musicians Howlin' Wolf, Muddy Waters, and Bo Diddley, released on the Checker label in 1968. It is one of several Chess albums of the 1960s to document an informal jam session between several of the label's artists, alongside Two Great Guitars (1964) and Super Blues (1967).",
+   "spotify": "3hYDvg91x5TuC0G7m7Ubyc",
+   "youtube": null
+  },
+  {
+   "id": "87ffcf17-602c-4262-ac13-f6f6da323db0",
+   "titulo": "The Black Gladiator",
+   "data": "1970-06",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/6405a92d-6a27-4bcf-9672-2f8d67dd8de7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Elephant Man",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "You, Bo Diddley",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Soul",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Power House",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "If the Bible's Right",
+     "duracao": "3:08"
+    },
+    {
+     "n": 6,
+     "titulo": "I've Got a Feeling",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Shut Up, Woman",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Hot Buttered Blues",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Funky Fly",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "I Don't Like You",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "28268b5e-53c5-475a-a68b-4134b42cfaf1",
+   "titulo": "Another Dimension",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/49257c63-e6f2-4e30-82c3-2a4dfed03dd2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Shape I'm In",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "I Love You More Than You'll Ever Know",
+     "duracao": "7:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Pollution",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Moon Rising",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Down on the Corner",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "I Said Shut Up Woman",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Bad Side of the Moon",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Lodi",
+     "duracao": "3:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Go For Broke (Instrumental)",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a4930bbe-5888-4541-9b39-2a97bba8f8eb",
+   "titulo": "Where It All Began",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/5327ae9b-4549-4761-9f65-c4456bf48ec7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’ve Had It Hard",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Woman",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Look at Grandma",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "A Good Thing",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Trip",
+     "duracao": "6:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Hey, Jerome",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Infatuation",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Take It All Off",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Bo Diddley-Itis",
+     "duracao": "5:40"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "022ef855-b8bf-3644-9e90-18b9c6012653",
+   "titulo": "The London Bo Diddley Sessions",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/38e42cb6-4a88-4158-94b4-a6c1762eaba7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Want No Lyin' Woman",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Bo Diddley",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Going Down",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Make a Hit Record",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Bo-Jam",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Husband-In-Law",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Do the Robot",
+     "duracao": "5:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Sneakers on a Rooster",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Get Out of My Life",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_London_Bo_Diddley_Sessions",
+   "resumo_en": "The London Bo Diddley Sessions is the 17th studio album by musician Bo Diddley recorded in 1973 and released on the Chess label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "77f55ee4-b34a-388e-8354-b622d0b38bc9",
+   "titulo": "Big Bad Bo",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/cfcb4c89-32cb-4f2f-9f4b-3cc2c7b8db7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bite You",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "He's Got All the Whiskey",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Hit or Miss",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "You've Got a Lot of Nerve",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Stop the Pusher",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Evelee",
+     "duracao": "6:23"
+    },
+    {
+     "n": 7,
+     "titulo": "I've Been Workin'",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "aa8c187c-f43b-4fa1-a7a5-31e2a20ae21e",
+   "titulo": "The 20th Anniversary of Rock 'n' Roll",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/c5d08298-b26c-45ba-aa28-2936bffff5aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ride the Water, Part 1",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Not Fade Away",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Kill My Body",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Drag On",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Ride the Water, Part 2",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Bo Diddley Jam",
+     "duracao": "16:59"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "714c7d76-28e6-4c57-a9c4-80707afb2098",
+   "titulo": "Ain’t It Good to Be Free",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/74b3a051-e16c-4658-9314-962fd65995f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ain't It Good to Be Free",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Bo Diddley Put the Rock in Rock 'n' Roll",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Gotta Be a Change",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don't Want Your Welfare",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Mona Where's Your Sister",
+     "duracao": "5:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Stabilize Yourself",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Know Where I've Been",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "I Ain't Gonna Force It on You",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Evil Woman",
+     "duracao": "6:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Let the Fox Talk",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0c56bb81-a546-4410-9566-2425ef19e06f",
+   "titulo": "Living Legend",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/acac4ef3-9c25-445a-9e70-89e8fc6f05db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turbo Diddley 2000",
+     "duracao": "0:44"
+    },
+    {
+     "n": 2,
+     "titulo": "R.U. Serious",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Jeanette, Jeanette",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "I Broke The Chain",
+     "duracao": "6:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Bo-Pop Quake",
+     "duracao": "8:48"
+    },
+    {
+     "n": 6,
+     "titulo": "The Best",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "I'll Lick Yo' Face",
+     "duracao": "6:52"
+    },
+    {
+     "n": 8,
+     "titulo": "U Killed It",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Goin' Home To McComb",
+     "duracao": "5:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Just Like Bo Diddley",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ef22cf3d-63e3-3626-b8d6-9b6515db0055",
+   "titulo": "Breakin' Through the B.S.",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/fcb730e9-daac-47db-b960-9e63ac02ec37/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turbo Diddley 2000",
+     "duracao": "0:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Bo Pop Shake",
+     "duracao": "6:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Deeper",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Down With the Pusher",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Slipped-N-Fell-N-Love",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "You Tricked Me",
+     "duracao": "8:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Wake Up America!",
+     "duracao": "5:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Jeanette Jeanette",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "I Broke the Chain",
+     "duracao": "6:12"
+    },
+    {
+     "n": 10,
+     "titulo": "R.U. Serious",
+     "duracao": "4:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Home to McComb",
+     "duracao": "5:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Jus' Like Bo Diddley",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6bb963fc-41cb-358d-9539-2eaec46833fb",
+   "titulo": "This Should Not Be",
+   "data": "1993",
+   "ano": "1993",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Should Not Be",
+     "duracao": "6:06"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm Not The One",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock Patrol",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "U Don't Look So Good",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Mind Yo Business",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Put Your Suitcase Down",
+     "duracao": "4:53"
+    },
+    {
+     "n": 7,
+     "titulo": "My Jesus Ain't Prejudice",
+     "duracao": "5:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Turn Me Loose",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "The Best",
+     "duracao": "2:58"
+    },
+    {
+     "n": 10,
+     "titulo": "I'll Lick Yo Face",
+     "duracao": "4:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Yum I Yay",
+     "duracao": "4:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Let Me Join Your World",
+     "duracao": "4:57"
+    },
+    {
+     "n": 13,
+     "titulo": "I Love My Baby",
+     "duracao": "3:10"
+    },
+    {
+     "n": 14,
+     "titulo": "U Ugly",
+     "duracao": "4:41"
+    },
+    {
+     "n": 15,
+     "titulo": "Bozilla's Groove",
+     "duracao": "3:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Rock Titan",
+     "duracao": "4:37"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "96b0b2d1-f3e4-3935-a9f9-99d9646c94e9",
+   "titulo": "A Man Amongst Men",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/9149a173-a5f7-44c8-9758-c27636269b3a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bo Diddley Is Crazy",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Can I Walk You Home",
+     "duracao": "5:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Hey Baby",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "I Can't Stand It",
+     "duracao": "5:18"
+    },
+    {
+     "n": 5,
+     "titulo": "He's Got a Key",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "A Man Amongst Men",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Coatimundi",
+     "duracao": "5:19"
+    },
+    {
+     "n": 8,
+     "titulo": "That Mule",
+     "duracao": "6:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Kids Don't Do It",
+     "duracao": "7:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Oops! Bo Diddley",
+     "duracao": "7:21"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Man_Amongst_Men",
+   "resumo_en": "A Man Amongst Men is the 24th and final studio album by American musician Bo Diddley and featured guest performances by Ron Wood, Keith Richards and Jimmie Vaughan. It was released on the Atlantic label in 1996. It peaked at #8 on the Billboard Top Blues Albums chart and garnered mixed reviews from critics.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

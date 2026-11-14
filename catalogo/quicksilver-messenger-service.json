@@ -1,0 +1,785 @@
+{
+ "id": "quicksilver-messenger-service",
+ "nome": "Quicksilver Messenger Service",
+ "cena": "Descobertas do acervo",
+ "mbid": "cbb5f92c-b4a3-4804-b57d-e14d2c0f95f5",
+ "wikidata": "Q1382357",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1965",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "acid rock",
+  "psychedelic rock",
+  "rock",
+  "blues rock",
+  "jam band"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Quicksilver_Messenger_Service_1970.JPG/500px-Quicksilver_Messenger_Service_1970.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Quicksilver_Messenger_Service",
+ "resumo_pt": "Quicksilver Messenger Service foi uma das primeiras bandas de música psicodélica de São Francisco dos anos 1960, formada por Dino Valente, John Cipollina, Jim Murray, David Freiberg, Greg Elmore e Gary Duncan.\nA partir de 1965 o grupo entrou em intensa turnê na região da costa oeste dos Estados Unidos, finalmente conseguindo um contrato com a Capitol Records em 1967 e lançando o álbum Quicksilver Messenger Service. Logo em seguida Murray e Duncan deixaram a banda, e Nicky Hopkins entrou bem a tempo de completar Shady Grove, de 1970; Duncan retornou pouco tempo depois. Esta formação durou por mais um ano, até que o grupo finalmente se separou. O Quicksilver reuniu-se em 1975 e novamente em 1986.",
+ "resumo_en": "Quicksilver Messenger Service was an American psychedelic rock band formed in 1965 in San Francisco. The band achieved wide popularity in the San Francisco Bay Area and, through their recordings, with psychedelic rock enthusiasts around the globe, and several of their albums ranked in the Top 30 of the Billboard Pop charts. They were part of the new wave of album-oriented bands, achieving renown and popularity despite a lack of success with their singles (only one, \"Fresh Air\" charted, reaching No. 49 in 1970). Though not as commercially successful as contemporaries Jefferson Airplane and the Grateful Dead, Quicksilver was integral to the beginnings of their genre. With their jazz and classical influences and a strong folk background, the band attempted to create an individual, innovative sound. Music historian Colin Larkin wrote: \"Of all the bands that came out of the San Francisco area during the late '60s, Quicksilver typified most of the style, attitude and sound of that era.\"\nThe band's members included John Cipollina, Gary Duncan, Greg Elmore, David Freiberg, Nicky Hopkins, and Dino Valenti. Valenti drew heavily on musical influences he picked up during the folk revival of his formative musical years. The style he developed from these sources is evident in Quicksilver Messenger Service's swing rhythms and twanging guitar sounds. After many years, the band has attempted to re-form despite the deaths of several members. In 2006, Duncan and Freiberg toured as the Quicksilv",
+ "albuns": [
+  {
+   "id": "dcb184e3-671a-3be4-b910-8fa663ce9fb1",
+   "titulo": "Quicksilver Messenger Service",
+   "data": "1968-05",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/b3b3f642-5b11-4f0b-8d8c-03089dd649ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pride of Man",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Light Your Windows",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Dino's Song",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Gold and Silver",
+     "duracao": "6:41"
+    },
+    {
+     "n": 5,
+     "titulo": "It's Been Too Long",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "The Fool",
+     "duracao": "12:06"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Quicksilver_Messenger_Service_%28album%29",
+   "resumo_en": "Quicksilver Messenger Service is the debut studio album of Quicksilver Messenger Service, released in May 1968. The group were among the last of the original major San Francisco bands to secure a recording contract, which meant that the album appeared many months after the debut efforts of Jefferson Airplane, Grateful Dead, Country Joe and the Fish, Moby Grape, and Big Brother and the Holding Company. Despite this, the album received acclaim and is considered a cornerstone release in the late '60s Haight discography.",
+   "spotify": "2jQEpak8oXYb6dh9sCZqqY",
+   "youtube": null
+  },
+  {
+   "id": "979d208e-a42d-3ef4-8dbc-aba48d1365bf",
+   "titulo": "Shady Grove",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/40c71f9c-d226-433d-a72e-397b59074811/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shady Grove",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Flute Song",
+     "duracao": "5:23"
+    },
+    {
+     "n": 3,
+     "titulo": "3 or 4 Feet From Home",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Too Far",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Holy Moly",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Joseph's Coat",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Flashing Lonesome",
+     "duracao": "5:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Word's Can't Say",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Edward, (The Mad Shirt Grinder)",
+     "duracao": "9:21"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shady_Grove_%28Quicksilver_Messenger_Service_album%29",
+   "resumo_en": "Shady Grove is a 1969 studio album by Quicksilver Messenger Service.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6eea8210-0616-371f-aa40-230857b5146e",
+   "titulo": "Just for Love",
+   "data": "1970-08",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/ffd6d8ee-65e6-4dc7-a1a2-7d378ae07d71/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wolf Run, Part 1",
+     "duracao": "1:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Just for Love, Part 1",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Cobra",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "The Mat",
+     "duracao": "10:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Freeway Flyer",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Gone Again",
+     "duracao": "7:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Fresh Air",
+     "duracao": "5:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Just for Love, Part 2",
+     "duracao": "1:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Wolf Run, Part 2",
+     "duracao": "2:10"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Just_for_Love",
+   "resumo_en": "Just for Love is the fourth album by American psychedelic rock band Quicksilver Messenger Service. Released in August 1970, it marks a stark departure from the extended, blues and jazz-inspired acid rock jamming of their first two albums, to a more traditional pop-rock sound. Dino Valenti, who allegedly discussed forming the group with John Cipollina in 1965 but was apprehended by police on drug charges, finally joined after a stint in prison. Valenti's influence is prevalent throughout the album; he sang every lead and composed eight of its nine tracks under the pseudonym Jesse Oris Farrow. Despite the marked change in the band's sound, it was their third straight album to reach the Top 30 on the Billboard charts, peaking at number 27. The only track from the album released as a single, \"Fresh Air\", became the band's biggest hit, reaching number 49.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cae77233-ae75-351d-8c5b-f75274c25927",
+   "titulo": "What About Me",
+   "data": "1970-12",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/ef4b75c0-d63f-4b69-8a86-a76385d468ce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What About Me",
+     "duracao": "6:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Local Color",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Baby Baby",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Won't Kill Me",
+     "duracao": "2:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Long Haired Lady",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Subway",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Spindrifter",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Good Old Rock and Roll",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "All in My Mind",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Call on Me",
+     "duracao": "7:30"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/What_About_Me_%28Quicksilver_Messenger_Service_album%29",
+   "resumo_en": "What About Me is the fifth album by American psychedelic rock band Quicksilver Messenger Service. Released in December 1970 and recorded partly at the same sessions that produced Just for Love, the album is the last to feature pianist Nicky Hopkins and the last pre-reunion effort to feature founding members David Freiberg and John Cipollina. Several tracks, including \"Baby Baby\", \"Subway\" and \"Long Haired Lady\" had been played regularly at shows through 1970, previewing the album.\nThe album became the band's fourth and final to hit the top 30 on Billboard, as the group remained popular thanks to the minor hit \"Fresh Air\" from the previous album. The title track \"What About Me\" was also released as a single, charting at #100.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7b7c7f7e-555f-3175-97ea-39aeb3635640",
+   "titulo": "Quicksilver",
+   "data": "1971-11",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/53cab842-2902-4fea-bf92-ea765a7c2ef9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hope",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "I Found Love",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Song for Frisco",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Play My Guitar",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Rebel",
+     "duracao": "2:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Fire Brothers",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Out of My Mind",
+     "duracao": "4:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Cry My Lady Love",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "The Truth",
+     "duracao": "6:58"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Quicksilver_%28album%29",
+   "resumo_en": "Quicksilver is the sixth album by American psychedelic rock band Quicksilver Messenger Service.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f3f92b66-b77c-3158-ab50-25ef3e3cea11",
+   "titulo": "Comin’ Thru",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/88821e02-6685-4b0a-8813-42508976ed6b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Doin' Time in the U.S.A.",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Chicken",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Changes",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "California State Correctional Facility Blues",
+     "duracao": "6:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Forty Days",
+     "duracao": "5:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Mojo",
+     "duracao": "5:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Lose It",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Comin%27_Thru",
+   "resumo_en": "Comin' Thru is the seventh album by American psychedelic rock band Quicksilver Messenger Service. The album is marked by the debut of a horn section, while Chuck Steaks replaced Mark Naftalin on keyboards. Dino Valenti's songs dominate as they had on the last three albums, with his tune \"Mojo\" having appeared in their live setlist since 1970. It is generally regarded as their weakest effort, failing to chart higher than #134 and more or less marked the end of Quicksilver as anything other than a part-time band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2dad2725-1cdb-3c54-b3ea-ca06395fd660",
+   "titulo": "Solid Silver",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/bdc87b42-ee12-48aa-b6c9-8bd586fbe352/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gypsy Lights",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Heebie Jeebies",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Cowboy on the Run",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "I Heard You Singing",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Worryin' Shoes",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "The Letter",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "They Don't Know",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Flames",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Witches' Moon",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Bittersweet Love",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Solid_Silver",
+   "resumo_en": "Solid Silver is the eighth album by American psychedelic rock band Quicksilver Messenger Service and their mid-1970s comeback album, reuniting the band's entire core lineup.\nThough the album charted slightly higher than their previous two releases, briefly denting the Top 100 on the Billboard 200, this would be the last Quicksilver album until Gary Duncan resurrected the Quicksilver name in 1986 with the album Peace by Piece and again in the 1990s with several albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bcea2bb0-43f2-42df-8ee4-994bec3502f1",
+   "titulo": "Peace by Piece",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/89adaf5e-ada4-4b0e-aa08-e0d3b483dc24/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Thang",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "24 Hour Déjà vu",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Midnight Sun",
+     "duracao": "5:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Swamp Girl",
+     "duracao": "5:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Wild in the City",
+     "duracao": "5:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Pool Hall Chili",
+     "duracao": "4:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Pistolero",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Peace by Piece",
+     "duracao": "9:54"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Peace_by_Piece",
+   "resumo_en": "Peace by Piece is the ninth album by San Francisco psychedelic rock band Quicksilver Messenger Service, credited to \"Gary Duncan/Quicksilver\". Only featuring Duncan, drummer Sammy Piazza, and additional guests, it functions more as a Duncan solo album. A later released CD-version includes two bonus tracks, entitled \"Crazy Jesse\" and \"Electric Love\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "39762ae4-4079-4f3f-a6ab-50c7675a472e",
+   "titulo": "Shape Shifter Vols. 1 & 2",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/428065c5-e549-43a3-b758-e77083892ecc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rebel",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Big Bright Street",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "The Dog Song",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Bubba Jeans",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Life Is So Funky",
+     "duracao": "4:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Angeline",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Carnival Time in Nicaragua",
+     "duracao": "4:36"
+    },
+    {
+     "n": 8,
+     "titulo": "I Don’t Wanta Hear It Anymore",
+     "duracao": "4:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Go to Strangers",
+     "duracao": "6:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Richmond Welfare Strut",
+     "duracao": "5:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Nobody but You",
+     "duracao": "5:07"
+    },
+    {
+     "n": 12,
+     "titulo": "We’ll Be Together",
+     "duracao": "4:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Tattoo",
+     "duracao": "4:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Rex Dark",
+     "duracao": "3:52"
+    },
+    {
+     "n": 15,
+     "titulo": "King-o-China",
+     "duracao": "4:41"
+    },
+    {
+     "n": 16,
+     "titulo": "Snowman/Nica’s Dream",
+     "duracao": "4:15"
+    },
+    {
+     "n": 17,
+     "titulo": "The Fatman",
+     "duracao": "3:52"
+    },
+    {
+     "n": 18,
+     "titulo": "Steve McQueen",
+     "duracao": "3:45"
+    },
+    {
+     "n": 19,
+     "titulo": "Close Enuf for Jazz",
+     "duracao": "4:30"
+    },
+    {
+     "n": 20,
+     "titulo": "Please Don’t Touch the Tip",
+     "duracao": "4:20"
+    },
+    {
+     "n": 21,
+     "titulo": "Gangster Purple",
+     "duracao": "4:48"
+    },
+    {
+     "n": 22,
+     "titulo": "Vera Cruz",
+     "duracao": "4:13"
+    },
+    {
+     "n": 23,
+     "titulo": "What Did You Do to Yo Do?",
+     "duracao": "2:32"
+    },
+    {
+     "n": 24,
+     "titulo": "Jackie Boy",
+     "duracao": "4:09"
+    },
+    {
+     "n": 25,
+     "titulo": "Blue Weasel on Ice",
+     "duracao": "4:05"
+    },
+    {
+     "n": 26,
+     "titulo": "Hoochie Coochie Man",
+     "duracao": "6:39"
+    },
+    {
+     "n": 27,
+     "titulo": "Sugar Pie",
+     "duracao": "3:36"
+    },
+    {
+     "n": 28,
+     "titulo": "Holiday",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 126,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "025d1cf8-941d-4ae0-bff6-5f19f683f2b0",
+   "titulo": "Strange Trim",
+   "data": "2006-01-01",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/c195abcc-c119-4a6e-9715-b3415d9fd389/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dorado",
+     "duracao": "10:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Strange Trim",
+     "duracao": "10:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Bubba Jeans",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Inner City Blues",
+     "duracao": "15:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Night in Tunisia",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Deja Voodoo",
+     "duracao": "14:27"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ed786aa9-a786-4016-bfd3-e4fb8634d884",
+   "titulo": "Six String Voodoo",
+   "data": "2008-05-27",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/d98dd3fa-a96f-4869-823b-da23a2db72e3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Katmandu",
+     "duracao": "8:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Round Mignight",
+     "duracao": "13:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Pharoah's Dance",
+     "duracao": "5:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Baghdad Boogie",
+     "duracao": "15:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Be Lonely",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Ant's Romance",
+     "duracao": "9:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Sketches of Blavatsky",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

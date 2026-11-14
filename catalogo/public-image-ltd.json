@@ -1,0 +1,804 @@
+{
+ "id": "public-image-ltd",
+ "nome": "Public Image Ltd",
+ "cena": "Descobertas do acervo",
+ "mbid": "68950696-ee9a-49b2-a8c2-d1d6c19355cc",
+ "wikidata": "Q845265",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1978",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "post-punk",
+  "new wave",
+  "art punk",
+  "alternative dance",
+  "alternative rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Public_Image_Ltd._live_27_10_2013_photo_1.JPG/500px-Public_Image_Ltd._live_27_10_2013_photo_1.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Public_Image_Ltd.",
+ "resumo_pt": "Public Image Ltd (também abreviada como PiL) é uma banda britânica pós-punk formada pelo cantor John Lydon, o guitarrista Keith Levene, o baixista Jah Wobble e o baterista Jim Walker. A formação da banda mudou muito ao longo do tempo; Lydon é o único membro constante.\nApós sua saída dos Sex Pistols em janeiro de 1978, Lydon estava ansioso para prosseguir um projeto mais experimental \"anti-rock\" e formou o PiL. Naquele ano, o PIL lançou seu álbum de estreia, First Issue, criando um som abrasivo que se baseou no dub, noise, funk e disco. O segundo álbum do PIL, Metal Box (1979), expandiu ainda mais seu som para o avant-garde e é frequentemente considerado como um dos álbuns mais importantes do pós-punk.\nEm 1984, tanto Levene quanto Wobble haviam partido e o grupo era efetivamente um veículo solo para Lydon, que se moveu em direção a um som mais acessível com o álbum comercialmente bem-sucedido This Is What You Want ... This Is What You Get (1984) e Album (1986). Depois de um hiato no final dos anos 1990, Lydon reformou o grupo em 2009 e lançou vários álbuns, mais recentemente What the World Needs Now... (2015).",
+ "resumo_en": "Public Image Ltd (abbreviated and stylised as PiL) are an English post-punk band formed by lead vocalist John Lydon (previously, as Johnny Rotten, lead vocalist of the Sex Pistols), guitarist Keith Levene (a founding member of the Clash), bassist Jah Wobble, and drummer Jim Walker in June 1978. The group's line-up has changed frequently over the years; Lydon has been the sole constant member.\nFollowing Lydon's departure from the Sex Pistols in January 1978, he sought a more experimental \"anti-rock\" project and formed PiL in June of that year. PiL released their debut studio album First Issue (1978), creating an abrasive, bass-heavy sound that drew on dub, noise, progressive rock and disco. PiL's second studio album Metal Box (1979) pushed their sound further into the avant-garde, and is often regarded as one of the most important albums of the post-punk era. Their third album, The Flowers of Romance, has also been cited as an influential post-punk record.\nBy 1984, Levene, Wobble and Walker had departed and the group was effectively a solo vehicle for Lydon, who moved toward a more accessible sound with the commercially successful studio albums This Is What You Want... This Is What You Get (1984) and Album (1986). After a late 1990s hiatus, Lydon reformed the group in 2009 and has released several further albums, including What the World Needs Now... (2015).",
+ "albuns": [
+  {
+   "id": "1a3d0d0c-38bd-3662-9e27-e507fc949aa6",
+   "titulo": "First Issue",
+   "data": "1978-12-08",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/8aa059fd-55f9-4476-b880-01de1cbdccc2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Theme",
+     "duracao": "9:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Religion I",
+     "duracao": "1:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Religion II",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Annalisa",
+     "duracao": "6:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Public Image",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Low Life",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Attack",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Fodderstompf",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 10
+   },
+   "publico": 6.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Public_Image%3A_First_Issue",
+   "resumo_en": "Public Image: First Issue is the debut studio album by the English rock band Public Image Ltd, released on 8 December 1978 by record label Virgin. The album took 35 years to be released in the United States, following a canceled release in 1979. \nComing off of lead vocalist John Lydon's work with Sex Pistols, the album was a significant deviation from that band's straightforward punk style. While still featuring elements of punk rock, particularly on the song \"Public Image\", the album features excursions into dub, reggae, and Krautrock.\nUpon its release, it reached number 22 in the UK Album Charts. Despite its modest commercial success, it was met with largely negative feedback critically, but received acclaim in retrospective reviews and is now considered one of the pioneering records in the development of post-punk, and is additionally regarded as a forerunner of post-rock music. It received Silver certification in the UK.",
+   "spotify": "0MEDjqTfWEiFqdyyQXVTnX",
+   "youtube": null
+  },
+  {
+   "id": "57209d3f-f3ef-34db-82a7-ad633497b784",
+   "titulo": "Metal Box",
+   "data": "1979-11",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/4b77b7c9-f6c7-4b5f-b07b-984786b24c00/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Albatross",
+     "duracao": "10:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Memories",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Swan Lake",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Poptones",
+     "duracao": "7:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Careering",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Socialist",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Graveyard",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "The Suit",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Bad Baby",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "No Birds",
+     "duracao": "4:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Chant",
+     "duracao": "5:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Radio 4",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.6,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metal_Box",
+   "resumo_en": "Metal Box is the second studio album by Public Image Ltd, released by Virgin Records on 23 November 1979. The album takes its name from the round metal canister which contained the initial pressings of the record. It was later reissued in standard LP packaging as Second Edition in February 1980 by Virgin Records in the United Kingdom, and by Warner Bros. Records and Island Records in the United States.\nThe album was a departure from PiL's 1978 debut First Issue, with the band moving into a more avant-garde sound characterised by John Lydon's cryptic lyrics, propulsive dub-inspired rhythms led by bassist Jah Wobble, and an abrasive, \"metallic\" guitar sound developed by guitarist Keith Levene.\nMetal Box is widely regarded as a landmark release in the history of post-punk. In 2012, the album was ranked number 461 on Rolling Stone magazine's list of The 500 Greatest Albums of All Time.",
+   "spotify": "7HoqZkuUQEE12tl0ByOSsh",
+   "youtube": null
+  },
+  {
+   "id": "25350a5f-2d80-36a4-ad87-55301f2e68b0",
+   "titulo": "The Flowers of Romance",
+   "data": "1981-05-18",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/3d3d7fdf-b0bf-4161-a8fd-f3876aa2a2d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Four Enclosed Walls",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Track 8",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Phenagen",
+     "duracao": "2:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Flowers of Romance",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Under the House",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Hymie’s Him",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Banging the Door",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Go Back",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Francis Massacre",
+     "duracao": "3:30"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Flowers_of_Romance_%28album%29",
+   "resumo_en": "The Flowers of Romance is the third studio album by the English post-punk band Public Image Ltd, released on 10 April 1981 by Virgin Records. The album was recorded at The Manor Studio and Townhouse Studios over the course of two months in late 1980.\nThe group's first studio album recorded following the departure of bassist Jah Wobble, The Flowers of Romance found PiL delving further into an experimental sound. It was recorded mainly by frontman John Lydon and guitarist Keith Levene, both of whom made heavy use of percussion, tape editing, and various effects.\nWhile the album has maintained a lower critical profile than their previous two albums, the album has still received acclaim and has been cited as an influence by various bands and musicians.",
+   "spotify": "3yCaex5R09GXgwnsOCotg3",
+   "youtube": null
+  },
+  {
+   "id": "e8cc1e58-d49a-3c27-9358-18205a69a88b",
+   "titulo": "This Is What You Want… This Is What You Get",
+   "data": "1984-07-06",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/63ded1a6-f8a6-4535-9e7b-5314292cc603/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bad Life",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "This Is Not a Love Song",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Solitaire",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Tie Me to the Length of That",
+     "duracao": "5:18"
+    },
+    {
+     "n": 5,
+     "titulo": "The Pardon",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Where Are You",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Nineteen Eighty One",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "The Order of Death",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/This_Is_What_You_Want..._This_Is_What_You_Get",
+   "resumo_en": "This Is What You Want... This Is What You Get is the fourth studio album by the English post-punk band Public Image Ltd, released on 6 July 1984 by Virgin Records. It includes the single \"Bad Life\" and a re-recorded version of a \"This Is Not a Love Song\", which had been a No. 5 UK and international hit when released as a single in 1983.\nAn early version of the album was released in 1984 by founding PiL guitarist Keith Levene as Commercial Zone. The album was then re-recorded after Levene's departure from the band, with no contributions from either Levene or bassist Pete R. Jones (who contributed to several tracks on Commercial Zone).",
+   "spotify": "6eSITOp2WRPIwqRD1tTJjX",
+   "youtube": null
+  },
+  {
+   "id": "eaf860cb-52e1-3abd-985f-e7ed847d4c8c",
+   "titulo": "Album",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/dda3759a-78c0-3964-85eb-8b1c738ab5ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "F.F.F.",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Rise",
+     "duracao": "6:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Fishing",
+     "duracao": "5:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Round",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Bags",
+     "duracao": "5:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Home",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Ease",
+     "duracao": "8:08"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.1,
+    "fontes": 9
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Album_%28Public_Image_Ltd_album%29",
+   "resumo_en": "Album (also known as Compact Disc, Cassette, or mp3 depending on the format) is the fifth studio album by the English rock band Public Image Ltd, released on 27 January 1986 by Virgin\nand Elektra Records. In a departure from their previous releases, John Lydon was advised by trusted music producer Bill Laswell to take on an all-star cast of session and trusted musicians, including Steve Vai, Ginger Baker, Bernie Worrell, Tony Williams, Ryuichi Sakamoto of the Yellow Magic Orchestra and Malachi Favors of the Art Ensemble Of Chicago. The resulting album gave PiL one of its highest-charting songs, \"Rise\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "44b06162-9766-3c6e-8697-6845ac564f4a",
+   "titulo": "Happy?",
+   "data": "1987-09-17",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/82716dbf-5d95-3d3c-ae54-e273fb823b28/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seattle",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Rules and Regulations",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "The Body",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Save Me",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Hard Times",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Open and Revolving",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Angry",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Fat Chance Hotel",
+     "duracao": "7:02"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 8
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Happy%3F_%28Public_Image_Ltd_album%29",
+   "resumo_en": "Happy? is the sixth studio album by English rock band Public Image Ltd, released on 14 September 1987. It reached number 40 in the UK Album Charts.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8b6dd34a-91fd-3b57-bc6d-cc660d176edb",
+   "titulo": "9",
+   "data": "1989-05-10",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/244eacb9-86b6-45b1-a482-7938e7cb07f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Happy?",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Disappointed",
+     "duracao": "5:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Warrior",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "U.S.L.S. 1",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Sand Castles in the Snow",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Worry",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Brave New World",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Like That",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Same Old Story",
+     "duracao": "4:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Armada",
+     "duracao": "4:43"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/9_%28Public_Image_Ltd_album%29",
+   "resumo_en": "9 is the seventh studio album by Public Image Ltd, but their ninth full-length release including the live albums Paris au Printemps and Live in Tokyo. It was released in the US on 8 May 1989 on the Virgin Records label, and on 30 May 1989 in the UK.",
+   "spotify": "5dKiXhnOXCgjLdTpPXl59C",
+   "youtube": null
+  },
+  {
+   "id": "cf17b72b-c522-3046-a250-d1d11812e19e",
+   "titulo": "That What Is Not",
+   "data": "1992-02-25",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/6d60d55e-6a2f-4017-85f9-66231f226a9a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Acid Drops",
+     "duracao": "6:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Luck's Up",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Cruel",
+     "duracao": "5:18"
+    },
+    {
+     "n": 4,
+     "titulo": "God",
+     "duracao": "5:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Covered",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Hope",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Unfairground",
+     "duracao": "5:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Think Tank",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Emperor",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Good Things",
+     "duracao": "5:34"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.8,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/That_What_Is_Not",
+   "resumo_en": "That What Is Not is the eighth studio album by Public Image Ltd, released on 10 February 1992 in the US, and on 24 February 1992 in the UK. It was the band's final album before a 20-year hiatus, and the final recordings with longtime members Allan Dias (bass) and John McGeoch (lead guitar).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e3593b14-57a9-4e0e-9425-72a135048a4f",
+   "titulo": "This is PiL",
+   "data": "2012-05-28",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/55c61000-84ab-42ec-8d54-5211e42f72cb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This is PiL",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "One Drop",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Deeper Water",
+     "duracao": "6:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Terra-Gate",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Human",
+     "duracao": "6:02"
+    },
+    {
+     "n": 6,
+     "titulo": "i Must Be Dreaming",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "it Said That",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "The Room i Am iN",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Lollipop Opera",
+     "duracao": "6:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Fool",
+     "duracao": "5:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Reggie Song",
+     "duracao": "5:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Out of the Woods",
+     "duracao": "9:41"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 66,
+    "media": 6.6,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/This_Is_PiL",
+   "resumo_en": "This is PiL is the ninth studio album by British rock band Public Image Ltd. Their first studio album in 20 years, it was released on 28 May 2012 on band's own label, PiL Official. A limited deluxe edition of the album was released with a live DVD entitled There is a PiL in Heaven.",
+   "spotify": "2ZmheIEyKTUD67SpGCL6V6",
+   "youtube": null
+  },
+  {
+   "id": "edcb81d2-327c-40f0-8c65-1d4cd06bc2be",
+   "titulo": "What the World Needs Now…",
+   "data": "2015-09-02",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/4b405ef9-793a-4d5c-bf66-308f76a6f58f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Double Trouble",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Know Now",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Bettie Page",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "C’est la vie",
+     "duracao": "6:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Spice of Choice",
+     "duracao": "5:43"
+    },
+    {
+     "n": 6,
+     "titulo": "The One",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Blue Sky",
+     "duracao": "8:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Whole Life Time",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Not Satisfied",
+     "duracao": "5:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Corporate",
+     "duracao": "5:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Shoom",
+     "duracao": "6:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Turkey Tits",
+     "duracao": "2:06"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 72,
+    "media": 7.1,
+    "fontes": 10
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/What_the_World_Needs_Now...",
+   "resumo_en": "What the World Needs Now... is the  tenth studio album by British rock band Public Image Ltd.  It was released on September 4, 2015.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "af42af7d-a676-44d1-adbd-098a061783b3",
+   "titulo": "End of World",
+   "data": "2023-08-11",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/90e6f5c2-11f7-435e-b850-0e51c9a2007d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Penge",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "End of the World",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Car Chase",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Being Stupid Again",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Walls",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Pretty Awful",
+     "duracao": "4:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Strange",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Down on the Clown",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Dirty Murky Delight",
+     "duracao": "2:29"
+    },
+    {
+     "n": 10,
+     "titulo": "The Do That",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "L F C F",
+     "duracao": "4:36"
+    },
+    {
+     "n": 12,
+     "titulo": "North West Passage",
+     "duracao": "4:39"
+    },
+    {
+     "n": 13,
+     "titulo": "Hawaii",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 68,
+    "media": 7.1,
+    "fontes": 10
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/End_of_World",
+   "resumo_en": "End of World is the eleventh studio album by the English rock band Public Image Ltd, released on 11 August 2023 by PiL Official.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

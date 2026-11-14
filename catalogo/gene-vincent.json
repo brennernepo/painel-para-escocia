@@ -1,0 +1,1171 @@
+{
+ "id": "gene-vincent",
+ "nome": "Gene Vincent",
+ "cena": "Pioneiros do rock'n'roll",
+ "mbid": "f491f5ad-0946-40a6-bab9-da319c3f3995",
+ "wikidata": "Q82311",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1935",
+ "fim": "1971",
+ "ativa": false,
+ "generos": [
+  "rockabilly",
+  "rock",
+  "rock and roll"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Gene_Vincent_photo.jpg/500px-Gene_Vincent_photo.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Gene_Vincent",
+ "resumo_pt": "Vincent Eugene Craddock (Norfolk, 11 de fevereiro de 1935 – Newhall, 12 de outubro de 1971), mais conhecido como Gene Vincent, foi um músico norte-americano de rockabilly, mais conhecido por seu sucesso \"Be-Bop-A-Lula\".",
+ "resumo_en": "Vincent Eugene Craddock (February 11, 1935 – October 12, 1971), known as Gene Vincent, was an American rock-and-roll musician who pioneered the style of rockabilly. His 1956 top-10 hit with his backing band the Blue Caps, \"Be-Bop-a-Lula\", is considered a significant early example of rockabilly. His chart career was brief, especially in his home country of the US, where he notched three top-40 hits in 1956 and 1957 and never charted in the top 100 again.  In the UK, he was a somewhat bigger star, racking up eight top-40 hits from 1956 to 1961.\nVincent was inducted into the Rock and Roll Hall of Fame and the Rockabilly Hall of Fame. He is sometimes referred to by his somewhat unusual nickname/moniker, the \"Screaming End\".",
+ "albuns": [
+  {
+   "id": "4eb1e66c-7905-3b67-9dec-f8455b3367e5",
+   "titulo": "Sounds Like Gene Vincent",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/531fa042-7bc5-4fff-ad66-fddaa416b709/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Baby Don't 'Low",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can't Believe You Want to Leave",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "I Might Have Known",
+     "duracao": "2:06"
+    },
+    {
+     "n": 4,
+     "titulo": "In Love Again",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "You Are the One",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Ready Teddy",
+     "duracao": "1:57"
+    },
+    {
+     "n": 7,
+     "titulo": "I Got to Get to You Yet",
+     "duracao": "2:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Vincent's Blues",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Maybe",
+     "duracao": "2:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Now Is the Hour",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "My Heart",
+     "duracao": "2:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Maybelline",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2621a83a-bc5a-497c-b865-500e1d8201c5",
+   "titulo": "Crazy Times",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/02dc5987-44d7-482c-9189-62b248ce9acf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crazy Times",
+     "duracao": "2:11"
+    },
+    {
+     "n": 2,
+     "titulo": "She She Little Sheila",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Darlene",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Everybody's Got a Date but Me",
+     "duracao": "2:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Why Don't You People Learn How to Drive",
+     "duracao": "1:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Green Back Dollar",
+     "duracao": "2:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Fat Saturday Night",
+     "duracao": "2:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Mitchiko From Tokyo",
+     "duracao": "2:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Hot Dollar",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Accentuate the Positive",
+     "duracao": "1:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Blue Eyes Crying in the Rain",
+     "duracao": "2:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Pretty Pearly",
+     "duracao": "2:24"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ab959d4e-77dc-4135-a5c6-eaef79c013fe",
+   "titulo": "Shakin’ Up a Storm",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/8541a870-ecad-4837-a50f-cdc4f91476ea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hey-Hey-Hey-Hey",
+     "duracao": "2:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Lavender Blue",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Private Detective",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Shimmy Shammy Shingle",
+     "duracao": "2:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Someday (You'll Want Me to Want You)",
+     "duracao": "2:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Another Saturday Night",
+     "duracao": "1:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Slippin' and Slidin'",
+     "duracao": "2:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Long Tall Sally",
+     "duracao": "1:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Send Me Some Lovin'",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Love Love",
+     "duracao": "2:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Good Golly Miss Molly",
+     "duracao": "2:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Baby Blue",
+     "duracao": "2:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Susie Q",
+     "duracao": "1:59"
+    },
+    {
+     "n": 14,
+     "titulo": "You Are My Sunshine",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f4e77bc8-90ea-3051-9bae-2d2fe7ff88e2",
+   "titulo": "Born to Be a Rolling Stone",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/e19692b8-7749-40a4-94cf-f16c26e4fcb1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hurtin' for You Baby",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm a Lonesome Fugitive",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Born to Be a Rolling Stone",
+     "duracao": "2:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Hi-Lili, Hi-Lo",
+     "duracao": "2:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Poor Man's Prison",
+     "duracao": "2:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Bird-Doggin'",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "I've Got My Eyes on You",
+     "duracao": "1:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is a Bird",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Ain't That Too Much",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Lonely Street",
+     "duracao": "2:13"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {},
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "139e3648-8e7a-47e5-b8a3-4abd9879be62",
+   "titulo": "I'm Back and I'm Proud",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/46e7c481-6adf-414f-b88e-b136734bbd36/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockin' Robin",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Pines",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Be-Bop-A-Lula' 69",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Rainbow at Midnight",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Letter",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "White Lightning",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Sexy Ways",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Ruby Baby",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Lotta Lovin'",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Circle Never Broken",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "I Heard That Lonesome Whistle",
+     "duracao": "2:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Scarlett Ribbons (For Her Hair)",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3fc84659-7d41-474b-84ce-36191cb40b97",
+   "titulo": "Gene Vincent",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/ca2cf059-1f7a-4263-89d0-1882af5f7920/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sunshine",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "I Need a Woman's Love",
+     "duracao": "2:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Slow Times Comin'",
+     "duracao": "8:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Danse Colinda",
+     "duracao": "2:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Geese",
+     "duracao": "2:08"
+    },
+    {
+     "n": 6,
+     "titulo": "500 Miles",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Listen to the Music",
+     "duracao": "2:08"
+    },
+    {
+     "n": 8,
+     "titulo": "If Only You Could See Me Today",
+     "duracao": "2:06"
+    },
+    {
+     "n": 9,
+     "titulo": "A Million Shades of Blue",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Tush Hog",
+     "duracao": "7:18"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "671519b9-3152-4980-9113-efb664169100",
+   "titulo": "The Day the World Turned Blue",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/cdcb45ca-ec9f-45d3-bcd0-5b19d0ecc7a0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How I Love Them Old Songs",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "High on Life",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "North Carolina Line",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "You Can Make It If You Try",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Our Souls",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Looking Back",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "The Day the World Turned Blue",
+     "duracao": "2:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Boppin' the Blues",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "There Is Something on Your Mind",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Oh Lonesome Me",
+     "duracao": "2:14"
+    },
+    {
+     "n": 11,
+     "titulo": "The Woman in Black",
+     "duracao": "3:16"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "40d77017-3ed9-408f-b7a2-d5c7d691eb1c",
+   "titulo": "Memorial Album",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/ab0b8af7-ea48-41b5-a74b-ae7c0a0b4411/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slow Times Comin'",
+     "duracao": "9:14"
+    },
+    {
+     "n": 2,
+     "titulo": "The Day the World Turned Blue",
+     "duracao": "2:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Oh Lonesome Me",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Geese",
+     "duracao": "2:10"
+    },
+    {
+     "n": 5,
+     "titulo": "I Need Woman's Love",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "How I Love Them Old Songs",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Boppin' the Blues",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "There Is Something on Your Mind",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Our Souls",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "North Carolina Line",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "The Woman in Black",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "992b1495-5186-4375-af67-195cd1d4f0da",
+   "titulo": "Les plus grands noms du Rock",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/c7a5f898-acbb-49b5-9f14-3db781a6473a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baby Blue",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Ready Teddy",
+     "duracao": "1:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Rocky Road Blues",
+     "duracao": "2:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Red Blue Jeans and a Pony Tail",
+     "duracao": "2:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Long Tall Sally",
+     "duracao": "1:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Rollin' Danny",
+     "duracao": "2:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Bluejean Bop",
+     "duracao": "2:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Rip It Up",
+     "duracao": "2:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Private Detective",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Dance to the Bop",
+     "duracao": "2:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Maybelline",
+     "duracao": "2:26"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm Going Home",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dc029b6a-8a71-4f14-b516-8a7bf75f7a57",
+   "titulo": "Rhythm In Blue",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/0537788b-9654-4715-85ec-a6eb271615a4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Tall Sally (live)",
+     "duracao": "1:47"
+    },
+    {
+     "n": 2,
+     "titulo": "What’d I Say (live)",
+     "duracao": "1:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Say Mama (live)",
+     "duracao": "2:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I Got the Blues (live)",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Pretty Girls Everywhere (studio out‐take)",
+     "duracao": "1:58"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Going Home (live)",
+     "duracao": "2:21"
+    },
+    {
+     "n": 7,
+     "titulo": "The Last Word in Lonesome Is Me (studio out‐take)",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Roll Over Beethoven (studio out‐take)",
+     "duracao": "2:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Be‐Bop‐A‐Lula (B.B.C. version)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Say Mama (live)",
+     "duracao": "2:16"
+    },
+    {
+     "n": 11,
+     "titulo": "High School Confidential (live)",
+     "duracao": "2:19"
+    },
+    {
+     "n": 12,
+     "titulo": "I Got the Blues (live)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Maybelline (live)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 14,
+     "titulo": "Whole Lotta Shakin’ Goin’ On (live)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 15,
+     "titulo": "Be‐Bop‐A‐Lula (live)",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "65961888-015f-497e-b8d3-a203d73bdaf6",
+   "titulo": "Dressed in Black",
+   "data": "1982",
+   "ano": "1982",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rocky Road Blues",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Say Mama",
+     "duracao": "1:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Pistol Packin' Mama",
+     "duracao": "1:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Be-Bop-A-Lula",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "The Last Word in Lonesome",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Pretty Girls",
+     "duracao": "1:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Bluejean Bop",
+     "duracao": "2:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Say Mama (live)",
+     "duracao": "2:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby Blue (live)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Rocky Road Blues (live)",
+     "duracao": "2:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Good Golly Miss Molly (live)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Whole Lotta Shakin' (live)",
+     "duracao": "4:15"
+    },
+    {
+     "n": 13,
+     "titulo": "I'm Movin' On (live)",
+     "duracao": "2:45"
+    },
+    {
+     "n": 14,
+     "titulo": "Be-Bop-A-Lula (live)",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8dbc2c05-a899-323a-b6eb-27257a3c1f58",
+   "titulo": "Bebopalula",
+   "data": "1987",
+   "ano": "1987",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bebopalula",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Lotta Lovin'",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Ruby Baby",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain't That Too Much",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Bird Doggin'",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Is a Bird",
+     "duracao": "2:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Lonely Street",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Hurtin' for You Baby",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Poor Mans Prison",
+     "duracao": "2:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Born to Be a Rolling Stone",
+     "duracao": "2:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Hi Lili Hi Lo",
+     "duracao": "2:12"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm a Lonesome Fugitive",
+     "duracao": "2:59"
+    },
+    {
+     "n": 13,
+     "titulo": "I've Got My Eyes on You",
+     "duracao": "1:58"
+    },
+    {
+     "n": 14,
+     "titulo": "Rocky Road Blues",
+     "duracao": "2:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Say Mama",
+     "duracao": "1:58"
+    },
+    {
+     "n": 16,
+     "titulo": "Pistol Packin' Mama",
+     "duracao": "2:00"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "849b8d7a-e54a-4df3-a9e6-fb5593ecc56c",
+   "titulo": "Into the Seventies",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/fb081d77-0e79-4171-b83c-1ea3a9aaebe5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sunshine",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "I Need a Woman's Love",
+     "duracao": "2:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Slow Times Comin'",
+     "duracao": "9:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Danse Colinda",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Geese",
+     "duracao": "2:15"
+    },
+    {
+     "n": 6,
+     "titulo": "500 Miles Away From Home",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Listen to the Music",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "If Only You Could See Me Today",
+     "duracao": "2:13"
+    },
+    {
+     "n": 9,
+     "titulo": "A Million Shades of Blue",
+     "duracao": "2:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Tush Hog",
+     "duracao": "7:35"
+    },
+    {
+     "n": 11,
+     "titulo": "How I Love Them Old Songs",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "High on Life",
+     "duracao": "2:53"
+    },
+    {
+     "n": 13,
+     "titulo": "North Carolina Line",
+     "duracao": "3:08"
+    },
+    {
+     "n": 14,
+     "titulo": "You Can Make It If You Try",
+     "duracao": "2:52"
+    },
+    {
+     "n": 15,
+     "titulo": "Our Souls",
+     "duracao": "2:51"
+    },
+    {
+     "n": 16,
+     "titulo": "There Is Something on Your Mind",
+     "duracao": "4:29"
+    },
+    {
+     "n": 17,
+     "titulo": "The Day the World Turned Blue",
+     "duracao": "2:04"
+    },
+    {
+     "n": 18,
+     "titulo": "Boppin' the Blues",
+     "duracao": "2:42"
+    },
+    {
+     "n": 19,
+     "titulo": "Looking Back",
+     "duracao": "2:28"
+    },
+    {
+     "n": 20,
+     "titulo": "Oh Lonesome Me",
+     "duracao": "2:25"
+    },
+    {
+     "n": 21,
+     "titulo": "The Woman in Black",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d81d2ba-098b-3ca2-abf8-1d7921eb143b",
+   "titulo": "Am I That Easy to Forget",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/9c437726-05b1-4c72-9975-bb60b5b61311/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hurtin' for You Baby",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm a Lonesome Fugitive",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Born to Be a Rolling Stone",
+     "duracao": "2:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Hi Lili Hi-Lo",
+     "duracao": "2:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Poor Man's Prison",
+     "duracao": "2:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Words and Music",
+     "duracao": "2:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Bird Doggin'",
+     "duracao": "2:47"
+    },
+    {
+     "n": 8,
+     "titulo": "I've Got My Eyes on You",
+     "duracao": "1:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Is a Bird",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Ain't That Too Much",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Lonely Street",
+     "duracao": "2:13"
+    },
+    {
+     "n": 12,
+     "titulo": "Am I That Easy to Forget",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

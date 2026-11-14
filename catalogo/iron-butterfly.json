@@ -1,0 +1,411 @@
+{
+ "id": "iron-butterfly",
+ "nome": "Iron Butterfly",
+ "cena": "Descobertas do acervo",
+ "mbid": "3da3e7e1-e817-47e8-8624-635df4aedbe6",
+ "wikidata": "Q743353",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1966",
+ "fim": "2012",
+ "ativa": false,
+ "generos": [
+  "psychedelic rock",
+  "acid rock",
+  "hard rock",
+  "heavy psych",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Iron_Butterfly_%281969%29.png/500px-Iron_Butterfly_%281969%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Iron_Butterfly",
+ "resumo_pt": "Iron Butterfly é uma banda estadunidense de hard rock e rock psicodélico, conhecida pelo seu sucesso em 1968, com a música \"In-A-Gadda-Da-Vida\".",
+ "resumo_en": "Iron Butterfly is an American rock band formed in San Diego, California, in 1966. They are best known for the 1968 hit \"In-A-Gadda-Da-Vida\", providing a dramatic sound that led the way towards the development of hard rock and heavy metal music. Although their heyday was the late 1960s, the band has been reformed with various members with varying levels of success with no new recordings since 1975. Their second album, In-A-Gadda-Da-Vida (1968), remains a best-seller, and Iron Butterfly was the first group to receive an in-house platinum album award from Atlantic Records.\nAccording to music critic Manish Agarwal of Time Out, \"Iron Butterfly blended hard rock with ordinate, acid-friendly textures.\" Mark Deming of AllMusic stated that they were one of the first musical groups to fuse the two styles in this way, and described their sound as a \"blend of trippy musical exploration and open-ended jams with a hard, distorted attack\".",
+ "albuns": [
+  {
+   "id": "5ea294d1-00f3-35f1-8089-6a128bc586b5",
+   "titulo": "Heavy",
+   "data": "1968-01-22",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/2ebef100-4b63-348f-85cd-df93ce4deb3b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Possession",
+     "duracao": "2:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Unconscious Power",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Get Out of My Life, Woman",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Gentle as It May Seem",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "You Can't Win",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "So-Lo",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Look for the Sun",
+     "duracao": "2:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Fields of Sun",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Stamped Ideas",
+     "duracao": "2:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Iron Butterfly Theme",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Heavy_%28Iron_Butterfly_album%29",
+   "resumo_en": "Heavy is the debut studio album by the rock band Iron Butterfly, released on January 22, 1968.\nThe first two tracks, \"Unconscious Power\" and \"Possession\", were released as the respective sides of a single.\nThree of the group's members (Darryl DeLoach, Jerry Penrod, and Danny Weis) left the band shortly after the album was recorded, leaving drummer Ron Bushy and organist Doug Ingle to find replacements. Despite being a debut album with no hit single to provide an entry point for the casual listener, Heavy was a commercial success, reaching number 78 on the Billboard Charts and eventually going Gold in the US.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "89a793a2-8a49-38f7-9a48-ae771b414198",
+   "titulo": "In‐A‐Gadda‐Da‐Vida",
+   "data": "1968-06-14",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/cb1c1b33-30e1-416e-9e02-aca974a75585/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Most Anything You Want",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Flowers and Beads",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "My Mirage",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Termination",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Are You Happy",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "In-A-Gadda-Da-Vida",
+     "duracao": "17:05"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 7.1,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/In-A-Gadda-Da-Vida_%28album%29",
+   "resumo_en": "In-A-Gadda-Da-Vida is the second studio album by the American rock band Iron Butterfly, released in June 1968. It is most known for its title track, a 17-minute composition that occupies the entirety of Side B.\nA massive commercial success, In-A-Gadda-Da-Vida peaked at number 4 on the Billboard albums chart.  It was officially certified a Gold album in 1968 in the United States, and on January 26, 1993, it was certified 4× Platinum. In Canada, it was on the charts for 91 weeks between October 14, 1968, and July 18, 1970.",
+   "spotify": "4L1Qw49gKwFuQwQovBxsKI",
+   "youtube": null
+  },
+  {
+   "id": "3f97f02c-a2b7-326a-8fee-826e9e1bff4c",
+   "titulo": "Ball",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/9f08e673-1767-43fc-afcd-0a7239f5328f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In the Time of Our Lives",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Soul Experience",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Lonely Boy",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Real Fright",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Crowds",
+     "duracao": "2:13"
+    },
+    {
+     "n": 6,
+     "titulo": "It Must Be Love",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Her Favorite Style",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Filled With Fear",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Belda-Beast",
+     "duracao": "5:45"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ball_%28Iron_Butterfly_album%29",
+   "resumo_en": "Ball is the third studio album by the rock band Iron Butterfly, released on January 17, 1969. After the enormous success of In-A-Gadda-Da-Vida, Iron Butterfly modified its acid-rock sound somewhat and experimented with more melodic compositions. The band's trademark heavy guitars, however, are still evident on such tracks as \"In the Time of Our Lives\" and \"It Must Be Love\". The album reached number 3 on the Billboard 200 charts, making Ball more immediately successful than In-A-Gadda-Da-Vida. In Canada the album reached number 4. Ball was certified Gold in March 1969. It also spawned two minor hit singles: \"Soul Experience\" (b/w \"In the Crowds\"), an uncharacteristically uplifting song for the group, went to number 75 on the Billboard charts and number 50 in Canada, and despite its nightmarish musical tones and morbid lyrics, \"In the Time of Our Lives\" (b/w \"It Must Be Love\") managed to reach number 96 and number 81 in Canada. This is the second and final studio album to feature the famous lineup of Ingle, Bushy, Dorman and Brann.\nIn 1999, Collector's Choice Music released Ball with two bonus tracks, \"I Can't Help But Deceive You Little Girl\" and \"To Be Alone\", which were both recor",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "54ce95c8-34b7-3a01-a76f-a381eca6a84b",
+   "titulo": "Metamorphosis",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/b2d92cdd-4bd0-4c89-a4fe-6ec766c7c33b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Free Flight",
+     "duracao": "0:49"
+    },
+    {
+     "n": 2,
+     "titulo": "New Day",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Shady Lady",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Best Years of Our Life",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Slower Than Guns",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Stone Believer",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Soldier in Our Town",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Easy Rider (Let the Wind Pay the Way)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Butterfly Bleu",
+     "duracao": "13:57"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metamorphosis_%28Iron_Butterfly_album%29",
+   "resumo_en": "Metamorphosis is the fourth studio album by Iron Butterfly, released on August 13, 1970. It reached number 16 on the US charts and number 31 in Canada. Mike Pinera and Larry \"El Rhino\" Reinhardt joined Iron Butterfly for this album in early 1970. It was the last studio album to feature original organist and vocalist Doug Ingle.\nThe album was recorded at American Recording studio and produced by Richard Podolor, engineered by Bill Cooper.\nThe single \"Easy Rider\" reached number 66 on the Billboard chart and number 48 in Canada, making it the band's biggest hit aside from \"In-A-Gadda-Da-Vida\". The album is noted for having one of the earliest uses of the talk box on a rock album, which Pinera used on \"Butterfly Bleu.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d37d233-f7ea-3312-8077-76e86b1a9110",
+   "titulo": "Scorching Beauty",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/302009ee-6c40-397f-a251-0c75bd9f7b19/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "1975 Overture",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Hard Miseree",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "High on a Mountain Top",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Am I Down",
+     "duracao": "5:22"
+    },
+    {
+     "n": 5,
+     "titulo": "People of the World",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Searchin' Circles",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Pearly Gates",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Lonely Hearts",
+     "duracao": "3:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Before You Go",
+     "duracao": "5:34"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scorching_Beauty",
+   "resumo_en": "Scorching Beauty is the fifth studio album released by the American hard rock group Iron Butterfly. Released four years after their original breakup, it was recorded by a reformed lineup with only one member remaining from their previous album, drummer Ron Bushy. In addition to Bushy, this lineup includes Erik Brann (the guitarist from the classic lineup), Phil Kramer, and Howard Reitzes. The album cover was designed by Ernie Cefalu and illustrated by Drew Struzan. This album, along with Sun and Steel (released later in 1975), failed commercially. Tracks from this album tend to be ignored on Iron Butterfly compilations/greatest hit collections.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b803e660-dcae-346e-8419-d8501e950469",
+   "titulo": "Sun and Steel",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/562d8c01-bdbc-34ea-8f98-b8ad0a65039c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sun and Steel",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Lightnin'",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Beyond the Milky Way",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Free",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Scion",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Get It Out",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "I'm Right, I'm Wrong",
+     "duracao": "5:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Watch the World Going By",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Scorching Beauty",
+     "duracao": "6:46"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 2.0,
+    "media": 4.7,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sun_and_Steel_%28album%29",
+   "resumo_en": "Sun and Steel is the sixth and final studio album released by Iron Butterfly in 1975. It explores a wider variety of styles than any other Iron Butterfly album, yet always remains within the contemporary conventions of hard rock. Tracks from this album are usually left out of Iron Butterfly compilations/greatest hit collections. It is also the band's only album to fail to chart on the Billboard 200. In Canada it made an appearance at number 89, December 27, 1975.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

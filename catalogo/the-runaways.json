@@ -1,0 +1,371 @@
+{
+ "id": "the-runaways",
+ "nome": "The Runaways",
+ "cena": "Descobertas do acervo",
+ "mbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e",
+ "wikidata": "Q908458",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1975",
+ "fim": "1979",
+ "ativa": false,
+ "generos": [
+  "hard rock",
+  "glam punk",
+  "glam rock",
+  "punk rock",
+  "rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/pt/5/59/Runaways.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Runaways",
+ "resumo_pt": "The Runaways foi uma banda de rock dos Estados Unidos. A banda tornou-se famosa por ser uma banda composta somente por mulheres que tocavam rock and roll. Entre suas canções mais conhecidas estão \"Cherry Bomb\", \"Queens of Noise\" e \"Born to be Bad\". Em sua curta jornada, o grupo fez carreira nos Estados Unidos, Europa e Japão.",
+ "resumo_en": "The Runaways were an American rock band who recorded and performed from 1975 to 1979. Formed in 1975 in Los Angeles, the band released four studio albums and one live album during its run. Among their best-known songs are \"Cherry Bomb\", \"Hollywood\", \"Queens of Noise\", and a cover-version of the Velvet Underground's \"Rock & Roll\". Never a major success in the United States, the Runaways became a sensation overseas, especially in Japan, thanks to the single \"Cherry Bomb\".",
+ "albuns": [
+  {
+   "id": "03a06598-2d75-3b9e-a2ad-f62440d2b179",
+   "titulo": "The Runaways",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/5cc88855-00a0-408b-94f5-549492500d7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cherry Bomb",
+     "duracao": "2:19"
+    },
+    {
+     "n": 2,
+     "titulo": "You Drive Me Wild",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Is It Day or Night?",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Thunder",
+     "duracao": "2:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock and Roll",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Lovers",
+     "duracao": "2:09"
+    },
+    {
+     "n": 7,
+     "titulo": "American Nights",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Blackmail",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Secrets",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Dead End Justice",
+     "duracao": "7:03"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Runaways_%28album%29",
+   "resumo_en": "The Runaways is the debut studio album by the American rock band the Runaways, released on May 17, 1976, through Mercury.",
+   "spotify": "5DVNCzpvDrSEIFiU7hm8ey",
+   "youtube": null
+  },
+  {
+   "id": "5fd31d9e-ddbe-3352-83fe-2c13c973da9a",
+   "titulo": "Waitin’ for the Night",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/65364411-9d53-39a7-a1a6-13372ce8169d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Sister",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Wasted",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Gotta Get Out Tonight",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Wait for Me",
+     "duracao": "4:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Fantasies",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "School Days",
+     "duracao": "2:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Trash Can Murders",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Go Away",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Waitin' for the Night",
+     "duracao": "4:58"
+    },
+    {
+     "n": 10,
+     "titulo": "You're Too Possessive",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.4,
+    "fontes": 8
+   },
+   "publico": 5.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waitin%27_for_the_Night",
+   "resumo_en": "Waitin' for the Night is the third studio album by American hard rock band the Runaways, released on October 17, 1977, through Mercury.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f42c2a95-2e04-3a9e-85f6-a5f1c9b37f5e",
+   "titulo": "Queens of Noise",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/0fcee418-6233-4218-9b0d-9a6541df9d02/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Queens of Noise",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Take It or Leave It",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Midnight Music",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Born to Be Bad",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Neon Angels on the Road to Ruin",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "I Love Playin' With Fire",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "California Paradise",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Hollywood",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Heartbeat",
+     "duracao": "2:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Johnny Guitar",
+     "duracao": "7:17"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 4.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Queens_of_Noise",
+   "resumo_en": "Queens of Noise is the second studio album by the American rock band the Runaways, released on January 7, 1977, through Mercury Records. It is the last album to involve Cherie Currie and Jackie Fox as members of the band.\nIt is fundamentally a hard rock album, although it also exhibits influences from glam rock. While the album features a range of different tempos, most of it consists of the \"heavy\" guitar-driven tracks that have come to be seen as the Runaways' signature sound, although it also features two noticeably softer songs that have sometimes been described as early power ballads.\nWhile stylistically similar to the band's self-titled debut album The Runaways, Queens of Noise features greater emphases on volume and musical sophistication. The album has received generally positive reviews and has remained the band's best-selling record in the United States.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9c501f5e-d3b9-3b8e-8e80-80849f81f0ba",
+   "titulo": "And Now... The Runaways",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/f157d85d-5e79-463a-b10a-5f5cc4e16e33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Saturday Nite Special",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Eight Days a Week",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Mama Weer All Crazee Now",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm a Million",
+     "duracao": "5:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Right Now",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Takeover",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "My Buddy and Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Lost Girls",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Leather",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/And_Now..._The_Runaways",
+   "resumo_en": "And Now... The Runaways is the fourth and final studio album by American rock band The Runaways, released in Europe in November 1978, and in Japan and the UK in 1979.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4acff825-5b8a-4ef3-b3fd-4546484e4073",
+   "titulo": "Young and Fast",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/426d3aeb-ba5b-4632-bea4-2caa2cd211af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "S-P-E-E-D M-E-T-A-L",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Sex People",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Afraid of the Dark",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Boots of Fire",
+     "duracao": "2:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Heavy Metal Nights",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Young and Fast",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I Wanna Run With the Bad Boys",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "King of the Neighborhood",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "It Won't Be A (Black Day)",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Scars",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

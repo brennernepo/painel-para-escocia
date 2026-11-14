@@ -1,0 +1,602 @@
+{
+ "id": "atomic-rooster",
+ "nome": "Atomic Rooster",
+ "cena": "Descobertas do acervo",
+ "mbid": "5cf54b1a-831f-4cfc-b946-41131c463fc1",
+ "wikidata": "Q757606",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "hard rock",
+  "new wave",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Atomic_Rooster_live_at_HRH_Prog_X_at_Shepherd%27s_Bush_Empire_5th_Sept_2021_-_51436557671.jpg/500px-Atomic_Rooster_live_at_HRH_Prog_X_at_Shepherd%27s_Bush_Empire_5th_Sept_2021_-_51436557671.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Atomic_Rooster",
+ "resumo_pt": "Atomic Rooster é uma banda de rock progressivo e hard rock britânica formada pelos ex-integrantes da banda de Arthur Brown (Crazy World of Arthur Brown), Vincent Crane e Carl Palmer em 1969. Seus únicos singles de sucesso foram lançados em 1971 com \"Tomorrow Night\" e \"The Devil's Answer\".",
+ "resumo_en": "Atomic Rooster are  a British rock band originally formed by members of The Crazy World of Arthur Brown, organist Vincent Crane and drummer Carl Palmer. Their history is defined by two periods: the early-mid-1970s and the early 1980s. The band went through radical style changes, but they are best known for the hard, progressive rock sound of their hit singles, \"Tomorrow Night\" (UK No. 11) and \"Devil's Answer\" (UK No. 4), both in 1971.\nIn 2016 Atomic Rooster reformed with permission from Crane's widow, with the new line-up featuring two members from the various 1970s incarnations of the band.",
+ "albuns": [
+  {
+   "id": "f797309e-b4cf-3ea2-9a3c-771fb3fb2f29",
+   "titulo": "Atomic Roooster",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/6085d41b-1ecc-4d22-888e-72bda8084642/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Friday the 13th",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "And So to Bed",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Broken Wings",
+     "duracao": "5:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Before Tomorrow",
+     "duracao": "5:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Banstead",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Sly",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Winter",
+     "duracao": "7:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Decline and Fall",
+     "duracao": "5:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Atomic_Roooster",
+   "resumo_en": "Atomic Roooster [sic], also spelled Atomic Ro-o-oster on some later CD reissues, is the first album by British rock band Atomic Rooster, with keyboardist Vincent Crane, bassist and vocalist Nick Graham and drummer Carl Palmer.\nA few weeks after its release, guitarist and vocalist John Du Cann joined and Nick Graham, the original vocalist and bassist, left. Du Cann subsequently overdubbed three of the album's tracks for a projected US release. However, the album never saw US release and the overdubbed tracks eventually surfaced on a second pressing of the album in the UK (though with no corrections to the album credits), and subsequent CD reissues.\nOn the Australian pressing on Interfusion, the rooster's breasts were painted over with feathers on the cover. The South African edition was similarly censored, albeit only the rooster's nipples were airbrushed over.\nThe album was reissued on vinyl in 2016.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c784ac73-88e3-370f-bf8e-7196a070c63e",
+   "titulo": "Death Walks Behind You",
+   "data": "1970-12",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/778df71b-9a60-4f4b-b5f6-32aee017c5b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Death Walks Behind You",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "VUG",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Tomorrow Night",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "7 Streets",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Sleeping for Years",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I Can't Take No More",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Nobody Else",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Gershatzer",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_Walks_Behind_You",
+   "resumo_en": "Death Walks Behind You is the second studio album by British rock band Atomic Rooster, released in September 1970. It was their first album to receive a US release, albeit in a different sleeve. It is commonly thought of as the archetypal Atomic Rooster album, recorded by the 'classic' line-up of Vincent Crane, John Du Cann and Paul Hammond. Certainly it is their most successful album, critically and commercially, and often hailed as a classic of the progressive rock genre. It produced the hit single \"Tomorrow Night\" (UK No. 11), which became one of the band's best-known songs. The album cover features the William Blake monotype Nebuchadnezzar. Band photos were taken at Churchfield Road Cemetery, Acton W3, by former actor-turned photographer Richard Lyon.",
+   "spotify": "1uWBDKlPHk1ciEepU3I0R5",
+   "youtube": null
+  },
+  {
+   "id": "75d1a8c4-1d1f-3447-9824-883880530965",
+   "titulo": "In Hearing Of",
+   "data": "1971-08",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/8cb0a4bd-eb03-4139-9f60-a725248d6cf5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breakthrough",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Break the Ice",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Decision/Indecision",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "A Spoonful of Bromide Helps the Pulse Rate Go Down",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Black Snake",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Head in the Sky",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "The Rock",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Price",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_Hearing_of_Atomic_Rooster",
+   "resumo_en": "In Hearing of is the third album by British rock band Atomic Rooster. It went to number 18 on the UK chart, helped along by the band's \"Devil's Answer\" single, which was not included on the album, but was released just prior to it and became the band's highest chart success at number 4 in the UK. The album reached #45 in Canada.\nThe four musicians pictured on the inside cover never played together. Half the songs were written by Crane and his first wife, Pat Darnell, who assisted with the lyrics. The backing tracks (and some vocals) were recorded by Vincent Crane, John Cann and Paul Hammond, but Cann and Hammond were let go from the group soon after vocalist Pete French was drafted in. The album's overall sound is dominated by Crane and Hammond, with many of Cann's guitar parts either not used or placed lower in the mix. However, Cann's guitars are still prominent on his compositions (tracks 2 and 6) and the instrumentals (tracks 4 and 7).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a130813d-0211-41dc-b871-6940cdfad6b7",
+   "titulo": "Made in England",
+   "data": "1972-10",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/da33e183-4cba-4130-9939-1a7fc19e3eb9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Time Take My Life",
+     "duracao": "6:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Stand by Me",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Bit of Inner Air",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Don't Know What Went Wrong",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Never to Lose",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Introduction / Breathless",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Space Cowboy",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "People You Can't Trust",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "All in Satan's Name",
+     "duracao": "4:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Close Your Eyes",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Goodbye Planet Earth",
+     "duracao": "4:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Satan's Wheel",
+     "duracao": "6:41"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Made_in_England_%28Atomic_Rooster_album%29",
+   "resumo_en": "Made in England is the fourth album by British rock band Atomic Rooster. It saw the band moving from their previous generally progressive rock style in more of a funk/soul direction, largely influenced by new singer Chris Farlowe. The album was recorded by an entirely different lineup, apart from founder member Vincent Crane, to that of the band's prior effort, In Hearing of Atomic Rooster. Previous members John Du Cann and Paul Hammond had departed in protest at Crane's intended new musical direction.\nIn the UK and Germany, original copies of the LP came wrapped in an actual denim sleeve. Later pressings came in a standard art sleeve. In the US, the record was issued on Elektra in the standard sleeve. It was further reissued in Germany in 1977, this time in yet another new sleeve and retitled This is Atomic Rooster.\nThe only UK single from Made in England was \"Stand by Me\".\nThe album reached #60 in Canada.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "42601c59-3e6e-462c-8b04-4f4344b1f19e",
+   "titulo": "IV",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/c58f3519-bedc-4513-b617-2241a2d5ccda/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Across the Country",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Save Me a.k.a. Friday the 13th",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Voodoo in You",
+     "duracao": "7:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Moods",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Take One Toke",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Can't Find a Reason",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Ear in the Snow",
+     "duracao": "6:12"
+    },
+    {
+     "n": 8,
+     "titulo": "What You Gonna Do",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fc8d8ee0-4944-35b7-8301-917196ab0213",
+   "titulo": "Nice ’n’ Greasy",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/bb60a6ef-3353-4770-8b0b-1dfe182c12b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Across the Country",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Save Me",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Voodoo in You",
+     "duracao": "7:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Moods",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Take One Take",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Can't Find a Reason",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Ear in the Snow",
+     "duracao": "6:15"
+    },
+    {
+     "n": 8,
+     "titulo": "What You Gonna Do",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nice_%27n%27_Greasy",
+   "resumo_en": "Nice 'n' Greasy is the fifth studio album by British rock band Atomic Rooster. It is the only album to include John Goodsall on guitars after the departure of Steve Bolton the previous year. The album failed to chart and the band was dropped from Dawn Records which led to Vincent Crane eventually disbanding the band in 1975 after a tour. The band would enter a hiatus until reforming in 1980. \nIn the US, the record was issued on Elektra in a different sleeve (pictured) to most territories and retitled Atomic Rooster IV, as their first album, Atomic Roooster (1970), failed to secure a US release. The US album also had a somewhat different track list to the UK version. The German release Nice & Greasy followed the US track listing, but with a phallic art sleeve. It was further reissued in Germany in 1977, this time in yet another new sleeve and retitled This is Atomic Rooster Vol. 2.",
+   "spotify": "3NmBmQQkmqFmTzpIBP5EhB",
+   "youtube": null
+  },
+  {
+   "id": "9ce485a7-2965-363f-a22a-434c664c374d",
+   "titulo": "Atomic Rooster",
+   "data": "1980-01-01",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/315562dd-6282-493e-955b-dab18b2609cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "They Took Control of You",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "She's My Women",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "He Did It Again",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Where's the Show?",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Shadows",
+     "duracao": "6:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Do You Know Who's Looking for You?",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Lose Your Mind",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Watch Out!",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "I Can't Stand It",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Lost in Space",
+     "duracao": "5:38"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Atomic_Rooster_%281980_album%29",
+   "resumo_en": "Atomic Rooster is the sixth studio album by British rock band Atomic Rooster. It was recorded when the band regrouped after breaking up for five years, and they embarked on a raw muscular hard rock style, which was in marked contrast to that of their past few albums. In addition, its heavier sound fit in better with the new wave of British heavy metal scene.\nTwo tracks, \"She's My Woman\" and \"Where's the Show?\", were originally recorded by John Du Cann for his solo album, The World's Not Big Enough, in 1977. The album was not released at the time and the songs were later reworked by Atomic Rooster. Du Cann's solo album was eventually released in 1992.\n\"Do You Know Who's Looking for You?\" has been covered by Finnish rock band YUP, who recorded it with new lyrics in their native language and retitled it \"Keittoruoka\" (\"Soup Meal\"). It was included on their 2001 album Hajota ja hallitse (\"Divide and Conquer\").\nThe 2005 CD reissue, whilst being welcomed by fans of the band's latter era, is, nonetheless, unlicensed. The copyright in the recording is held by the original label, EMI. \nThe Angel Air release featured extensive sleevenotes by Record Collector magazine's Joe Geesin, which incl",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0901f3fd-a313-3be2-80f1-a14abeffcfe3",
+   "titulo": "Headline News",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/b7305df1-af23-4080-acc5-da870fffb627/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hold Your Fire",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Headline News",
+     "duracao": "5:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Taking a Chance",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Metal Minds",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Land of Freedom",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Machine",
+     "duracao": "5:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Dance of Death",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Carnival",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Time",
+     "duracao": "6:39"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Headline_News_%28album%29",
+   "resumo_en": "Headline News is the seventh studio album by British rock band Atomic Rooster.\nIt has been released on CD several times: firstly in 1994 on Voiceprint, secondly in 1997 on Blueprint and in 2002 on Eagle. In 2004 it was repackaged by Dutch label MCP as Future Shock. In addition, in 2005 the German Ambitions/Membran International label packaged it alongside The First Ten Explosive Years as a two-disc set entitled Rebel with a Clause.\nAll CD issues feature two bonus tracks not included on the original LP.\nVincent Crane's wife, Jean, contributes lyrics to three tracks, including \"Watch Out!/Reaching Out\", an adaptation of the Atomic Rooster album cut. The album was recorded at the Cranes' home in Maida Vale, with the help of a mobile studio parked outside, and the sessions engineered by Tom Newman, remembered for his production work on Mike Oldfield's Tubular Bells album. Paul Hammond used electronic Yamaha drums for the recording of the drum tracks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d354d8ad-48b9-4a22-9725-1c47a3a781ed",
+   "titulo": "Circle the Sun",
+   "data": "2025-10-10",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/7db7c2f3-6cdd-4c88-83ec-5ffa5d9b917f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fly or Die",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Circle the Sun",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Never 2 Lose",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Walk With Me",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Rebel Devil",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "No More",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Pillow",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Last Night",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "First Impression",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Blow That Mind",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,644 @@
+{
+ "id": "the-zombies",
+ "nome": "The Zombies",
+ "cena": "Descobertas do acervo",
+ "mbid": "230ca093-1d00-4c57-9235-147942f66930",
+ "wikidata": "Q1163207",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1961",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "baroque pop",
+  "psychedelic pop",
+  "beat music",
+  "british rhythm & blues",
+  "pop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/The_Zombies.jpg/500px-The_Zombies.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Zombies",
+ "resumo_pt": "The Zombies (formado em 1961 em St Albans, Inglaterra) foi uma banda britânica de rock.\nGuiado pelo piano rápido de Rod Argent e a melódica voz de Colin Blunstone, a banda emplacou alguns sucessos no final dos anos 60, como \"She's Not There\", \"Tell Her No\" e \"Time Of The Season\". Embora nunca tenham alcançado o destaque de outros grupos da Invasão Britânica, o Zombies eram os favoritos de críticos musicais por seus complexos arranjos e harmonias vocais. Seu álbum Odessey and Oracle, de 1968, é considerado hoje em dia um dos melhores de sua época.",
+ "resumo_en": "The Zombies were an English rock band formed in St Albans in 1962. Led by keyboardist/vocalist Rod Argent and lead vocalist Colin Blunstone, the group had their first British and American hit in 1964 with \"She's Not There\". In the US, two further singles—\"Tell Her No\" in 1965 and \"Time of the Season\" in 1968—were also successful.\nTheir 1968 album Odessey and Oracle was ranked number 100 on Rolling Stone's 2012 list of the 500 Greatest Albums of All Time, and number 243 on Rolling Stone's 2020 list. The Zombies were inducted into the Rock and Roll Hall of Fame in 2019.",
+ "albuns": [
+  {
+   "id": "1f9c2f54-2735-394f-911a-28918e41abf6",
+   "titulo": "Begin Here",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/c2ece7a3-d975-449c-941d-d290f4af163e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Road Runner",
+     "duracao": "2:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Summertime",
+     "duracao": "2:15"
+    },
+    {
+     "n": 3,
+     "titulo": "I Can’t Make Up My Mind",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "The Way I Feel Inside",
+     "duracao": "1:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Work ’n’ Play",
+     "duracao": "2:05"
+    },
+    {
+     "n": 6,
+     "titulo": "You’ve Really Got a Hold on Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "She’s Not There",
+     "duracao": "2:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Sticks and Stones",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t Nobody Love You",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Woman",
+     "duracao": "2:23"
+    },
+    {
+     "n": 11,
+     "titulo": "I Don’t Want to Know",
+     "duracao": "2:05"
+    },
+    {
+     "n": 12,
+     "titulo": "I Remember When I Loved Her",
+     "duracao": "1:58"
+    },
+    {
+     "n": 13,
+     "titulo": "What More Can I Do",
+     "duracao": "1:37"
+    },
+    {
+     "n": 14,
+     "titulo": "I’ve Got My Mojo Working",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Begin_Here",
+   "resumo_en": "Begin Here is the debut studio album by the English rock band the Zombies, released on 9 April 1965, by Decca Records. The American version, titled The Zombies,  was released three months earlier and featured many of the same tracks; however, as was common at the time, some were removed and substituted.\nThe 1999 CD reissue on Big Beat expands the track line-up substantially with the addition of three songs from the band's 1965 UK EP The Zombies and alternative versions of \"Sticks and Stones\" and \"It's Alright with Me\", as well as demos of \"I Know She Will\" and \"I'll Keep Trying\".\nThe song \"The Way I Feel Inside\" was used in director Wes Anderson's film The Life Aquatic and is included in the film soundtrack. It was also covered by Taron Egerton for the animated film Sing.  Additionally, the song \"She's Not There\" as covered by Santana appears in Renny Harlin's film The Long Kiss Goodnight.  The song \"Can't Nobody Love You\" was used in the opening of a season 4 episode of the HBO series Girls.",
+   "spotify": "1vWVHhniWzqyNC0UzDDGs4",
+   "youtube": null
+  },
+  {
+   "id": "ff235fe9-c6e7-367a-971d-c023798abdbd",
+   "titulo": "The Zombies",
+   "data": "1965-01",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/af7d5060-7dab-47b1-ab4c-5f1ae626317f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She’s Not There",
+     "duracao": "2:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Summertime",
+     "duracao": "2:12"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s Alright With Me",
+     "duracao": "1:49"
+    },
+    {
+     "n": 4,
+     "titulo": "You’ve Really Got a Hold on Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Sometimes",
+     "duracao": "2:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Woman",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Tell Her No",
+     "duracao": "2:08"
+    },
+    {
+     "n": 8,
+     "titulo": "I Don’t Want to Know",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Work ’n’ Play",
+     "duracao": "2:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Can’t Nobody Love You",
+     "duracao": "2:12"
+    },
+    {
+     "n": 11,
+     "titulo": "What More Can I Do",
+     "duracao": "1:36"
+    },
+    {
+     "n": 12,
+     "titulo": "I’ve Got My Mojo Working",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Zombies_%28album%29",
+   "resumo_en": "The Zombies (subtitled Featuring She's Not There Tell Her No [sic]) is the first studio album released by the English rock band the Zombies in the United States. It was released on 8 February 1965 by Parrot Records. After the success of the double-sided hit single \"She's Not There\" b/w \"You Make Me Feel Good\" reached #2 on the U.S. charts in the fall of 1964, Parrot quickly released this LP in 1965 (PA 61001). The dozen tracks were taken from material the Zombies cut for their UK debut album, Begin Here. Also included are \"It's Alright With Me\" and \"Sometimes\" from their self-titled EP. The album also included their 2nd hit single \"Tell Her No\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9a4a9ebf-f4f7-3dba-9b80-0b274cbc80f9",
+   "titulo": "Odessey and Oracle",
+   "data": "1968-04-19",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/9f1f2c31-6297-34ac-8b95-3b41ee23a658/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Care of Cell 44",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "A Rose for Emily",
+     "duracao": "2:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Maybe After He’s Gone",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Beechwood Park",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Brief Candles",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Hung Up on a Dream",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Changes",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "I Want Her She Wants Me",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "This Will Be Our Year",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Butcher’s Tale (Western Front 1914)",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Friends of Mine",
+     "duracao": "2:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Time of the Season",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 6
+   },
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Odessey_and_Oracle",
+   "resumo_en": "Odessey and Oracle is the second studio album by the English rock band the Zombies. It was released on 19 April 1968, by CBS Records in the UK and on 15 July 1968, by Date Records in the US. The album was recorded primarily between June and August 1967 at EMI (now Abbey Road Studios) and Olympic Studios in London.\nThe Zombies, having been dropped from Decca Records, financed these sessions independently. After signing with CBS, two singles and later the album itself were released to critical and commercial indifference, and the band quietly dissolved. A third single from the album, \"Time of the Season\", became a surprise hit in the United States in early 1969 after CBS staff producer Al Kooper recommended it be released on Date Records.\nThe album gradually achieved critical praise and a cult following, and has since become one of the most acclaimed albums of the 1960s. It was ranked 80th on Rolling Stone magazine's list of the \"500 Greatest Albums of All Time\" in 2003. When Rolling Stone revised its list in 2020, the album was ranked 243rd.",
+   "spotify": "54e11ifeQ7EmopoOBIyFiS",
+   "youtube": null
+  },
+  {
+   "id": "0832d1fe-4996-3990-b279-484e34240784",
+   "titulo": "New World",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/257b55cf-9f8f-4001-8215-c0a2865a2d95/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "New World",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can't Be Wrong",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Moonday Morning Dance",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Lula Lula",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Heavens Gate",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Nights on Fire",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Losing You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Time of the Season",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Knowing You",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Alone in Paradise",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/New_World_%28The_Zombies_album%29",
+   "resumo_en": "New World is the third studio album by the English rock band the Zombies, recorded in 1990.  Several tracks were released in Europe in 1990 on an album called The Return of the Zombies.  This album features numerous tracks from that release that were remixed or re-recorded, as well as new tracks, and was released in April 1991.  According to the liner notes, it was recorded primarily to protect the name of the band in response to numerous groups of imposters that were then touring the US. Original members Rod Argent and Paul Atkinson were unavailable to join them for more than one track each.\nThe album was originally issued in the UK on RCA but never obtained a US release. RCA issued it on CD and later reissued on Ace's Big Beat label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "12830992-6196-3ff8-a19f-dd1fadecaa2b",
+   "titulo": "As Far as I Can See.....",
+   "data": "2004-04-26",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/b480cce5-a699-35ae-9f82-cd2aa9648c5e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In My Mind a Miracle",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Memphis",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Southside of the Street",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "I Want to Fly",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Time to Move",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "I Don’t Believe in Miracles",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "As Far as I Can See",
+     "duracao": "4:48"
+    },
+    {
+     "n": 8,
+     "titulo": "With You Not Here",
+     "duracao": "5:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Wings Against the Sun",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Together",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Look for a Better Way",
+     "duracao": "5:13"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 2.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/As_Far_as_I_Can_See...",
+   "resumo_en": "As Far As I Can See is the fourth studio album by the British rock band the Zombies, and their first since 1991. The lineup includes three of the band's original members: Rod Argent, Colin Blunstone and Chris White, with fourth original member Paul Atkinson also serving as A&R for the record.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2148d34b-3479-49fe-aacb-1e607dab2df5",
+   "titulo": "Breathe Out, Breathe In",
+   "data": "2011-05-09",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/0f4e2c47-b464-4d14-8e9a-4f808711bd86/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breathe Out, Breathe In",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Any Other Way",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Play It for Real",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Shine On Sunshine",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Show Me the Way",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "A Moment in Time",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Christmas for the Free",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Another Day",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "I Do Believe",
+     "duracao": "5:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Let It Go",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Breathe_Out%2C_Breathe_In",
+   "resumo_en": "Breathe Out, Breathe In is the fifth studio album by the English rock band the Zombies, released on 9 May 2011.\nThe band recorded a music video for the album's song \"Any Other Way\", their first music video since the band's original formation in 1961. Two of the songs on the album are remakes of earlier recordings by the band Argent. \"Christmas for the Free\" was originally released in 1973 on the album In Deep. \"Shine on Sunshine\" was originally released in 1975 on the album Circus.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55d8b1a5-3a50-4d2a-9fe5-141d4c245b4d",
+   "titulo": "Still Got That Hunger",
+   "data": "2015-10-09",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/0385523f-873d-4adb-b230-b89112734c67/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moving On",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Chasing the Past",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Edge of the Rainbow",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "New York",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "I Want You Back Again (2015)",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "And We Were Young Again",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Maybe Tomorrow",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Now I Know I’ll Never Get Over You",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Little One",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Beyond the Borderline",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 61,
+    "media": 6.0,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Still_Got_That_Hunger",
+   "resumo_en": "Still Got That Hunger is the sixth studio album by English rock band the Zombies, released on 9 October 2015. The band funded production of the album through the crowdfunding web site PledgeMusic, receiving donations from 958 pledgers and reaching 143% of its funding goal.\nTwo of the songs on the album are remakes of earlier recordings by members of the band. \"I Want You Back Again\" was originally released by the Zombies as a single in 1965 and in the intervening time has been covered in live performances by Tom Petty, a self-professed fan of the band. \"Now I Know I'll Never Get Over You\" was originally released by Colin Blunstone on his 2009 solo album The Ghost of You and Me.\nTwo of the songs also are based on two Argent compositions included in Barbara Thompson's Ghost (1982) album with Rod Argent, both instrumental, \"Movin On\" and \"Little Girl,\" the latter renamed \"Little One.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "43b19d8f-e327-474e-a123-826543c20871",
+   "titulo": "Different Game",
+   "data": "2023-03-31",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/a09c17c2-9ffd-422c-9992-0215787aee55/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Different Game",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Dropped Reeling & Stupid",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Rediscover",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Runaway",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "You Could Be My Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Merry‐Go‐Round",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Love You While I Can",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "I Want to Fly",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Got to Move On",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "The Sun Will Rise Again",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 4,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 72,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Different_Game",
+   "resumo_en": "Different Game is the seventh & final studio album by English rock band the Zombies, released on 31 March 2023 through Cooking Vinyl.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

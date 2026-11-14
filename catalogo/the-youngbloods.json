@@ -1,0 +1,504 @@
+{
+ "id": "the-youngbloods",
+ "nome": "The Youngbloods",
+ "cena": "Descobertas do acervo",
+ "mbid": "88044f02-113a-4176-b09b-b786ef6ffbb4",
+ "wikidata": "Q1780037",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1965",
+ "fim": "1985",
+ "ativa": false,
+ "generos": [
+  "folk rock",
+  "blues rock",
+  "country rock",
+  "folk pop",
+  "psychedelic pop"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Youngbloods_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://en.wikipedia.org/wiki/The_Youngbloods",
+ "resumo_pt": "",
+ "resumo_en": "The Youngbloods were an American rock band consisting of Jesse Colin Young (vocals, bass, guitar), Jerry Corbitt (vocals, guitar, keyboards, harmonica), Lowell \"Banana\" Levinger (guitar and electric piano), and Joe Bauer (drums). Despite receiving critical acclaim, they never achieved widespread popularity. Their only U.S. Top 40 entry was Chet Powers's \"Get Together\".",
+ "albuns": [
+  {
+   "id": "143778c1-e18f-3bd5-b3ed-85a96fef421e",
+   "titulo": "The Youngbloods",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/0d30a303-b64e-4df3-93b2-8c204e109c6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Grizzly Bear",
+     "duracao": "2:20"
+    },
+    {
+     "n": 2,
+     "titulo": "All Over the World (La-La)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Statesboro Blues",
+     "duracao": "2:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Get Together",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "One Note Man",
+     "duracao": "2:24"
+    },
+    {
+     "n": 6,
+     "titulo": "The Other Side to This Life",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Tears Are Falling",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Four in the Morning",
+     "duracao": "2:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Foolin’ Around (The Waltz)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Ain’t That Lovin’ You Baby",
+     "duracao": "2:39"
+    },
+    {
+     "n": 11,
+     "titulo": "C.C. Rider",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Youngbloods_%28album%29",
+   "resumo_en": "The Youngbloods is the debut studio album by the American rock band the Youngbloods. Released in January 1967, the album peaked at number 131 on the Billboard 200. Two years later, the single \"Get Together\" reached number five and sold more than a million copies. The album was reissued in 1971 under the title Get Together.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5932ebe8-9c6a-4d7d-882e-222c23a4fe8c",
+   "titulo": "Earth Music",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/fb3725b6-1e29-43e6-bc02-c5c4677087b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Euphoria",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "All My Dreams Blue",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Monkey Business",
+     "duracao": "2:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Dreamer's Dream",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Sugar Babe",
+     "duracao": "2:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Long and Tall",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "I Can Tell",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Play Games",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "The Wine Song",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Fool Me",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Reason to Believe",
+     "duracao": "2:24"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Earth_Music",
+   "resumo_en": "Earth Music is the second studio album by the American rock band the Youngbloods, released in 1967. The album did not succeed, failing to chart.\nSimilar to their first album, the songs were a mix of originals and covers, ballads and rockers. Jesse Colin Young wrote three of the songs alone, the ballad \"All My Dreams Blue\", the hard rocking \"Long and Tall\", and the humorous \"The Wine Song\".  Jerry Corbitt contributed the ballad \"Don't Play Games\" which features a string section, and co-wrote \"Dreamer's Dream\" with Banana. \"Fool Me\", written by Banana, is a bass-heavy song more similar to \"garage rock\" of the middle 1960s than the folkier material normally associated with the Youngbloods.\nCover songs on the album include \"Euphoria\", a song originally done by the Holy Modal Rounders and written by George \"Robin\" Remailly (who later became a member of the Rounders). Other covers included two fifties classics, Chuck Berry's \"Too Much Monkey Business\" and Chuck Willis's \"I Can Tell\". Tim Hardin's \"Reason to Believe \" was one of the earliest cover versions of the popular ballad. \"Sugar Babe,\" erroneously credited to Young/Lomax, is a folk song about gambling and drinking that had been pri",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0422a9dc-4f32-4de1-8626-96d44cafaa4a",
+   "titulo": "Jesse Colin Young & The Youngbloods",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/06bc85e5-c5ea-4b26-a601-87133b676255/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rider",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Doc Geiger",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Lullabye",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Brother Can You Spare a Dime",
+     "duracao": "2:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Trouble in Mind",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Suzie",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Nobody’s Dirty Business",
+     "duracao": "2:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Green Hill Mountain Home",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Summer Rain",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Walkin’ Off the Blues",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Cotton Eyed Joe",
+     "duracao": "2:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Another Strange Town",
+     "duracao": "2:25"
+    },
+    {
+     "n": 13,
+     "titulo": "Sometimes",
+     "duracao": "2:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Hey Babe",
+     "duracao": "2:40"
+    },
+    {
+     "n": 15,
+     "titulo": "No More Pain",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "321fe6af-3eef-30b1-a5c2-7b36b0a4aae1",
+   "titulo": "Elephant Mountain",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/b537660a-3d2e-4b2c-ab3f-1d582fe5eeb7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Darkness, Darkness",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Smug",
+     "duracao": "2:13"
+    },
+    {
+     "n": 3,
+     "titulo": "On Sir Francis Drake",
+     "duracao": "6:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Sunlight",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Double Sunlight",
+     "duracao": "0:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Beautiful",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Turn It Over",
+     "duracao": "0:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Rain Song (Don’t Let The Rain Bring You Down)",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Trillium",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Quicksand",
+     "duracao": "2:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Black Mountain Breakdown",
+     "duracao": "0:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Sham",
+     "duracao": "2:44"
+    },
+    {
+     "n": 13,
+     "titulo": "Ride the Wind",
+     "duracao": "6:37"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Elephant_Mountain",
+   "resumo_en": "Elephant Mountain is the third studio album by the American rock band The Youngbloods, released in 1969. It reached number 118 on the Billboard 200 chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e1d947af-495b-4e32-9ed2-9b880d2698f9",
+   "titulo": "Good and Dusty",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/dfc45b29-a505-4d9f-8db1-afc99a193dbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stagger Lee",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "That's How Strong My Love Is",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Willie and the Hand Jive",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Circus Face",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Hippie From Olema No. 5",
+     "duracao": "2:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Good and Dusty",
+     "duracao": "1:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Let the Good Times Roll",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Drifting and Drifting",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Pontiac Blues",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "The Moonshine Is the Sunshine",
+     "duracao": "3:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Will the Circle Be Unbroken",
+     "duracao": "3:21"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm a Hog for You Baby",
+     "duracao": "3:33"
+    },
+    {
+     "n": 13,
+     "titulo": "Light Shine",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f8c3805f-b6f0-47c6-a8ac-d954766791c5",
+   "titulo": "High on a Ridge Top",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/99b217ab-7431-4e51-a435-79bace56fee4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Speedo",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "She Caught the Katy (And Left Me a Mule to Ride)",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Going by the River",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Running Bear",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "I Shall Be Released",
+     "duracao": "5:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Dreamboat",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "She Came in Through the Bathroom Window",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Donna",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "La Bamba",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Kind Hearted Woman",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

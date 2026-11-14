@@ -1,0 +1,1037 @@
+{
+ "id": "the-mission",
+ "nome": "The Mission",
+ "cena": "Descobertas do acervo",
+ "mbid": "d85e95a3-07c7-4c04-a411-234290615113",
+ "wikidata": "Q1778916",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1985",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "gothic rock",
+  "gothic",
+  "alternative rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Mission_Wave-Gotik-Treffen_2017_13.jpg/500px-The_Mission_Wave-Gotik-Treffen_2017_13.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Mission",
+ "resumo_pt": "The Mission (também creditada como The Mission UK nos Estados Unidos) é uma banda britânica de rock gótico, formada em 1986 por Wayne Hussey e Craig Adams. Inicialmente conhecida como The Sisterhood, a banda foi iniciada pelo vocalista Wayne Hussey e pelo baixista Craig Adams (ambos dos Sisters of Mercy), logo adicionando o baterista Mick Brown (Red Lorry Yellow Lorry) e o guitarrista Simon Hinkler (Artery and Pulp). Além de Hussey, a formação mudou várias vezes durante os anos e a banda esteve em hiato duas vezes.\nA discografia da banda consiste em dez álbuns de estúdio: God's Own Medicine (1986), Children (1988), Carved in Sand (1990), Masque (1992), Neverland (1995), Blue (1996), Aura (2001), God is a Bullet (2007), The Brightest Light (2013) e Another Fall from Grace (2016), com vários álbuns complementares, compilações, e outros lançamentos diversos.",
+ "resumo_en": "The Mission (known as the Mission UK in the United States) are an English gothic rock band formed in 1986.\nInitially known as the Sisterhood, the band was started by frontman Wayne Hussey and bassist Craig Adams (both from the Sisters of Mercy), soon adding drummer Mick Brown (Red Lorry Yellow Lorry) and guitarist Simon Hinkler (Artery and Pulp). Aside from Hussey, the lineup has changed several times over the years, and the band has been on hiatus twice.\nThe band's catalogue consists of ten studio albums: God's Own Medicine (1986), Children (1988), Carved in Sand (1990), Masque (1992), Neverland (1995), Blue (1996), Aura (2001), God Is a Bullet (2007), The Brightest Light (2013), and Another Fall from Grace (2016), with several live albums, compilations, and other miscellaneous releases.",
+ "albuns": [
+  {
+   "id": "09c933ae-3a2d-3aab-9bcc-492de5d53eab",
+   "titulo": "God’s Own Medicine",
+   "data": "1986-11",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/32a386ee-d830-4d16-b334-2d37c8ec589b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wasteland",
+     "duracao": "5:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Bridges Burning",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Garden of Delight (Hereafter)",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Stay With Me",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Let Sleeping Dogs Die",
+     "duracao": "5:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Sacrilege",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Dance on Glass",
+     "duracao": "5:13"
+    },
+    {
+     "n": 8,
+     "titulo": "And the Dance Goes On",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Severina",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Me to Death",
+     "duracao": "4:40"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 9.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/God%27s_Own_Medicine",
+   "resumo_en": "God's Own Medicine is the debut studio album by the English gothic rock band the Mission. It was released on 10 November 1986 by Mercury Records. The original LP version contains 10 songs. The CD and cassette versions had the songs \"Blood Brother\" and \"Island in the Stream\" added. Both had previously appeared on the \"III\" (\"Stay with Me\") single. The album peaked at number 14 on the UK Albums Chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a69bfa81-2f38-3729-8b10-cf4c4477b26d",
+   "titulo": "The First Chapter",
+   "data": "1987-06",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/4c5dbf92-9f62-473f-93f2-624491ced0ac/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tomorrow Never Knows (edited version)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Over the Hills and Far Away",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Naked and Savage",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Serpents Kiss",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Wake (RSV)",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Like a Hurricane",
+     "duracao": "4:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Garden of Delight (extended version)",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Wishing Well",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Dancing Barefoot",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "The Crystal Ocean (extended)",
+     "duracao": "7:35"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_First_Chapter_%28The_Mission_album%29",
+   "resumo_en": "The First Chapter is a compilation album by gothic rock band The Mission. It gathered the material released on the first two EPs released through the Chapter 22 label. Titled I (featuring \"Serpents Kiss\") and II (featuring the double A-side \"Like a Hurricane\" and \"Garden of Delight\") the album was released on Mercury Records in June 1987. It includes all the songs from the first EP in its entirety, but omits the original versions of \"The Crystal Ocean\" (from the 12\") and \"Garden of Delight\" (from the 7\" and limited edition 12\") from the second. The US release was augmented with the B-sides of the V (Severina) EP.  The tracks that were originally left off this compilation were included on the expanded and remastered edition. This restored (and repositioned) both the short intermissions and 'swan song' from the II EP.\nChrist True of allmusic.com called the album 'an interesting piece of history of an oft-forgotten era of English rock'.",
+   "spotify": "6xePdIgDbrR2vsq6LczubO",
+   "youtube": null
+  },
+  {
+   "id": "907acc16-7e16-3380-91fb-33791ff0cf7b",
+   "titulo": "Children",
+   "data": "1988-02",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/2647fc8b-12f3-3f34-9abf-c1aa3bd3341e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beyond the Pale",
+     "duracao": "7:49"
+    },
+    {
+     "n": 2,
+     "titulo": "A Wing and a Prayer",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Fabienne",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Heaven on Earth",
+     "duracao": "5:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Tower of Strength",
+     "duracao": "8:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Kingdom Come",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Breathe",
+     "duracao": "1:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Child’s Play",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Shamera Kye",
+     "duracao": "0:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Black Mountain Mist",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Dream On",
+     "duracao": "3:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Heat",
+     "duracao": "5:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Hymn (for America)",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 9.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Children_%28The_Mission_album%29",
+   "resumo_en": "Children is the second studio album by the English gothic rock band the Mission, released on 29 February 1988 by Mercury Records. Two singles were released from the album, \"Tower of Strength\" and \"Beyond the Pale\". A third single, \"Kingdom Come\", was scheduled but appeared only as a promotional single. The album peaked at number 2 on the UK Charts\nSinger Julianne Regan of the rock band All About Eve provided additional vocals on two tracks – \"Beyond the Pale\" and \"Black Mountain Mist\".\nChildren was re-issued in 2007 with four bonus tracks.",
+   "spotify": "101pZCdJGdRsrEULeMaPwL",
+   "youtube": null
+  },
+  {
+   "id": "ae7c651a-0997-32a3-8491-5646e7b6ff17",
+   "titulo": "Carved in Sand",
+   "data": "1990-02",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/6db6d550-e565-3c8d-9c35-eadffb4698bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Amelia",
+     "duracao": "2:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Into the Blue",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Butterfly on a Wheel",
+     "duracao": "5:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Sea of Love",
+     "duracao": "5:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Deliverance",
+     "duracao": "6:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Grapes of Wrath",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Belief",
+     "duracao": "7:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Paradise Will Shine Like the Moon",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Hungry as the Hunter",
+     "duracao": "5:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Lovely",
+     "duracao": "1:57"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Carved_in_Sand",
+   "resumo_en": "Carved in Sand is the third regular studio album by The Mission, released in 1990. It reached number 7 in the UK Albums Chart, making it the second of two top ten albums and overall best-selling album in the band's career. Four singles were released from the album: \"Butterfly on a Wheel\" (number 12, January 1990), \"Deliverance\" (number 27, March 1990), \"Into the Blue\" (number 32, June 1990), and \"Amelia\", which was released in the United States. The band had invited members of its fan club to help select the tracks for the album.\nA \"companion\" album with outtakes that were not included on Carved in Sand - entitled Grains of Sand - was released in November the same year.\nA deluxe two-disc edition of the album was released in February 2008. It included outtakes, the album Grains of Sand and some live cover songs from the 1970s, performed under the name The Metal Gurus (a reference to the song \"Metal Guru\" by T. Rex, which was one of the tracks covered).\nCarved in Sand marked the return of Tim Palmer as producer. The album was recorded at Jacobs Studios and mixed at Swanyard Studios.",
+   "spotify": "62pkk3ia1TFY68cBrvfmqC",
+   "youtube": null
+  },
+  {
+   "id": "2fd59fff-a698-361d-8e37-cbab6a7bcdf9",
+   "titulo": "Masque",
+   "data": "1992-06-22",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/faccd9f8-4541-4d0f-a0a8-eff333cc5760/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Never Again",
+     "duracao": "5:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Shades of Green (Part II)",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Even You May Shine",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Trail of Scarlet",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Spider and the Fly",
+     "duracao": "4:49"
+    },
+    {
+     "n": 6,
+     "titulo": "She Conjures Me Wings",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Sticks and Stones",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Like a Child Again",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Who Will Love Me Tomorrow?",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "You Make Me Breathe",
+     "duracao": "4:36"
+    },
+    {
+     "n": 11,
+     "titulo": "From One Jesus to Another",
+     "duracao": "3:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Until There's Another Sunrise",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Masque_%28The_Mission_album%29",
+   "resumo_en": "Masque is the fourth regular studio album by the Mission which was released in June 1992 on the Vertigo sub-label of Mercury Records.",
+   "spotify": "7EXKAgD3gkwnhqrta0B5Yl",
+   "youtube": null
+  },
+  {
+   "id": "66c67c50-c015-32d9-b427-605984cd8d3c",
+   "titulo": "Neverland",
+   "data": "1995-02-06",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/528151e8-ae12-48e6-8b91-9313db5ace3e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Raising Cain",
+     "duracao": "6:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Sway",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Lose Myself in You",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Swoon",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Afterglow (reprise)",
+     "duracao": "7:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Stars Don’t Shine Without You",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Celebration",
+     "duracao": "2:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Cry Like a Baby",
+     "duracao": "5:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Heaven Knows",
+     "duracao": "6:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Swim with the Dolphins",
+     "duracao": "3:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Neverland (vocal)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Daddy’s Going to Heaven Now",
+     "duracao": "11:08"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Neverland_%28The_Mission_album%29",
+   "resumo_en": "Neverland is the fifth regular studio album by The Mission. It was released on the 13 February 1995 by Equator Records (UK) and Sony (Europe) and reached #58 in the UK Albums Chart. It was preceded by the single 'Swoon' while a second single 'Lose Myself In You' was released in Germany only. An expanded version appeared on the 7 March 2011 through Demon Edsel Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3a4f1b51-7189-3643-8fe4-8e0a37a78fe8",
+   "titulo": "Blue",
+   "data": "1996-06-03",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/1948bd92-2ca1-4cb0-8792-1824feaa1c2d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Coming Home",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Get Back to You",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Drown in Blue",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Damaged",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "More Than This",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "That Tears Shall Drown the Wind",
+     "duracao": "5:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Black and Blue",
+     "duracao": "2:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Bang Bang",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Alpha Man",
+     "duracao": "4:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Cannibal",
+     "duracao": "4:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Dying Room",
+     "duracao": "3:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Ever More and Again",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blue_%28The_Mission_album%29",
+   "resumo_en": "Blue is the sixth studio album by The Mission. It was released in June 1996 on Equator Records (UK) and Dragnet/Sony (Germany). It reached #72 on the UK Albums Chart and #11 on the UK Independent Albums Chart. The single \"Coming Home\" appeared in Germany only.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c20fbfce-30d6-3ce4-bb30-516e0e941684",
+   "titulo": "Aura",
+   "data": "2001-12-03",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/7ed62cf1-c853-4e2f-83d9-9af7b87af1c0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Evangeline",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Shine Like the Stars",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "(Slave to) Lust",
+     "duracao": "5:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Mesmerised",
+     "duracao": "5:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Lay Your Hands on Me",
+     "duracao": "5:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Dragonfly",
+     "duracao": "5:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Happy",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "To Die by Your Hand",
+     "duracao": "1:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Trophy / It Never Rains...",
+     "duracao": "5:42"
+    },
+    {
+     "n": 10,
+     "titulo": "The Light That Pours From You",
+     "duracao": "5:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Burlesque",
+     "duracao": "4:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Cocoon",
+     "duracao": "7:33"
+    },
+    {
+     "n": 13,
+     "titulo": "In Denial",
+     "duracao": "9:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Evangeline (video clip)",
+     "duracao": "4:11"
+    },
+    {
+     "n": 15,
+     "titulo": "Deliverance (live performance Sep. 25th, 2001, Oberhausen Arena/Germany)",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aura_%28The_Mission_album%29",
+   "resumo_en": "Aura is the seventh studio album by The Mission. Released in 2001, it was their first studio album since Blue in 1996. The album was also released as a slipcased limited edition 2-CD set. The bonus disc features the original version of \"In Denial\", two videos - \"Evangeline\" and \"Deliverance\" (live), interview footage and a weblink. The album was re-released in November 2014 together with its accompanying Aural Delight.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8997e307-9aad-3610-9a97-853df157dfaa",
+   "titulo": "God Is a Bullet",
+   "data": "2007-04-27",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/088e1223-1625-4bf3-b4d4-a65877c99813/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Still Deep Waters",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Keep It in the Family",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Belladonna",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "To Love & To Kill With the Very Same Hand",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Aquarius & Gemini",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Blush",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Chinese Burn",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Father",
+     "duracao": "5:55"
+    },
+    {
+     "n": 9,
+     "titulo": "HDSHRINKEREA",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Draped in Red",
+     "duracao": "4:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Running With Scissors",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "In Sihouette",
+     "duracao": "4:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Dumb",
+     "duracao": "4:49"
+    },
+    {
+     "n": 14,
+     "titulo": "Absolution",
+     "duracao": "4:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Grotesque",
+     "duracao": "6:34"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/God_Is_a_Bullet_%28album%29",
+   "resumo_en": "God Is a Bullet is the eighth studio album by The Mission. It was released at the end of April 2007 by SPV Records in Germany and Cooking Vinyl in the UK. The album features guest appearances by Julianne Regan, Tim Bricheno and Simon Hinkler. It was preceded by the single \"Keep It in the Family\" which was followed by \"Blush\". \"Running with Scissors\" reuses the music Wayne Hussey composed for Atsushi Sakurai's 2004 song \"Sacrifice\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "db14135e-6966-4c80-9725-5de110954f6c",
+   "titulo": "The Brightest Light",
+   "data": "2013-09-17",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/bceff71d-f568-402f-b103-2d1cd8fd76c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Cat Bone",
+     "duracao": "8:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Everything but the Squeal",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Sometimes the Brightest Light Comes From the Darkest Place",
+     "duracao": "5:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Drag",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Born Under a Good Sign",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "The Girl in a Furskin Rug",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "When the Trap Clicks Shut Behind Us",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Ain’t No Prayer in the Bible Can Save Me Now",
+     "duracao": "5:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Just Another Pawn in Your Game",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "From the Oyster Comes the Pearl",
+     "duracao": "5:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Swan Song",
+     "duracao": "7:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Litany for the Faithful",
+     "duracao": "7:11"
+    },
+    {
+     "n": 13,
+     "titulo": "I’m Fallin’ Again",
+     "duracao": "5:46"
+    },
+    {
+     "n": 14,
+     "titulo": "The Long Way ’round Is Sometimes the Only Way Home",
+     "duracao": "3:54"
+    },
+    {
+     "n": 15,
+     "titulo": "The Girl in a Furskin Rug (demo)",
+     "duracao": "3:46"
+    },
+    {
+     "n": 16,
+     "titulo": "Born Under a Good Sign (demo)",
+     "duracao": "4:48"
+    },
+    {
+     "n": 17,
+     "titulo": "Black Cat Bone (demo)",
+     "duracao": "4:37"
+    },
+    {
+     "n": 18,
+     "titulo": "From the Oyster Comes the Pearl (demo)",
+     "duracao": "4:38"
+    },
+    {
+     "n": 19,
+     "titulo": "When the Trap Clicks Shut Behind Us (demo)",
+     "duracao": "4:45"
+    },
+    {
+     "n": 20,
+     "titulo": "Ain’t No Prayer in the Bible Can Save Me Now (demo)",
+     "duracao": "5:37"
+    }
+   ],
+   "duracao_min": 101,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Brightest_Light",
+   "resumo_en": "The Brightest Light is the ninth studio album by English gothic rock band The Mission released on 20 September 2013.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d31f114f-5946-4ee4-9c22-8af72f951231",
+   "titulo": "Another Fall from Grace",
+   "data": "2016-09-30",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/63c7263a-5ac4-44ea-8571-91c7b86f8fdf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Another Fall From Grace",
+     "duracao": "6:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Met-Amor-Phosis",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Within the Deepest Darkness (Fearful)",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Blood on the Road",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Can’t See the Ocean for the Rain",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Tyranny of Secrets",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Never’s Longer Than Forever",
+     "duracao": "5:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Bullets & Bayonets",
+     "duracao": "6:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Valaam",
+     "duracao": "1:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Jade",
+     "duracao": "6:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Only You & You Alone",
+     "duracao": "7:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Phantom Pain",
+     "duracao": "7:25"
+    },
+    {
+     "n": 13,
+     "titulo": "Another Fall From Grace",
+     "duracao": "6:20"
+    },
+    {
+     "n": 14,
+     "titulo": "Met-Amor-Phosis",
+     "duracao": "4:15"
+    },
+    {
+     "n": 15,
+     "titulo": "Within the Deepest Darkness (Fearful)",
+     "duracao": "5:47"
+    },
+    {
+     "n": 16,
+     "titulo": "Blood on the Road",
+     "duracao": "4:56"
+    },
+    {
+     "n": 17,
+     "titulo": "Can’t See the Ocean for the Rain",
+     "duracao": "5:12"
+    },
+    {
+     "n": 18,
+     "titulo": "Tyranny of Secrets",
+     "duracao": "4:00"
+    },
+    {
+     "n": 19,
+     "titulo": "Never’s Longer Than Forever",
+     "duracao": "5:22"
+    },
+    {
+     "n": 20,
+     "titulo": "Bullets & Bayonets",
+     "duracao": "6:01"
+    },
+    {
+     "n": 21,
+     "titulo": "Valaam",
+     "duracao": "1:24"
+    },
+    {
+     "n": 22,
+     "titulo": "Jade",
+     "duracao": "6:13"
+    },
+    {
+     "n": 23,
+     "titulo": "Only You & You Alone",
+     "duracao": "7:28"
+    },
+    {
+     "n": 24,
+     "titulo": "Phantom Pain",
+     "duracao": "7:30"
+    },
+    {
+     "n": 25,
+     "titulo": "Met-Amor-Phosis (Black Star remix)",
+     "duracao": "6:57"
+    },
+    {
+     "n": 26,
+     "titulo": "At Elland Road, Leeds, supporting U2",
+     "duracao": "20:32"
+    },
+    {
+     "n": 27,
+     "titulo": "Aston Villa Leisure Centre",
+     "duracao": "4:24"
+    },
+    {
+     "n": 28,
+     "titulo": "The Royal Court, Liverpool for the Hillsborough Benefit Gig",
+     "duracao": "36:32"
+    },
+    {
+     "n": 29,
+     "titulo": "The making of the ‘Butterfly on a Wheel’ video",
+     "duracao": "10:30"
+    },
+    {
+     "n": 30,
+     "titulo": "Producer Tim Palmer’s home footage during the recording of ‘Carved in Sand’",
+     "duracao": "22:07"
+    },
+    {
+     "n": 31,
+     "titulo": "Met-Amor-Phosis",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 235,
+   "critica": {
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Another_Fall_from_Grace",
+   "resumo_en": "Another Fall from Grace is the tenth studio album by The Mission released on 30 September 2016. Wayne Hussey has described the album as a lost link between The Sisters of Mercy's First and Last and Always album and The Mission's own first album, God's Own Medicine. He attributes this in part to his use of the 12-string guitar which he fell out of favour with after God's Own Medicine was released.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

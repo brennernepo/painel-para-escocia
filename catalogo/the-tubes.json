@@ -1,0 +1,762 @@
+{
+ "id": "the-tubes",
+ "nome": "The Tubes",
+ "cena": "Descobertas do acervo",
+ "mbid": "e5180390-dacf-49fb-a4ad-68af9ca7bb13",
+ "wikidata": "Q2165544",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1972",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "hard rock",
+  "proto-punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Tubes_1977.JPG/500px-The_Tubes_1977.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Tubes",
+ "resumo_pt": "The Tubes é uma banda de rock originalmente de São Francisco, Califórnia. As músicas \"White Punks on Dope\" e \"She's a Beauty\" são as mais conhecidas do grupo.",
+ "resumo_en": "The Tubes are a San Francisco-based rock band. Their self-titled 1975 debut album included the single \"White Punks on Dope\", while their 1983 single \"She's a Beauty\" was a top-10 U.S. hit and its music video was frequently played in the early days of MTV. The band also performed in the 1980 film Xanadu, singing the rock portion of the cross-genre song \"Dancin'\" opposite a big band.",
+ "albuns": [
+  {
+   "id": "1021bf27-c0e9-32d5-b6c0-b135b75a7eb4",
+   "titulo": "The Tubes",
+   "data": "1975-06",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/a73207c0-bd0c-4010-a9b3-910193390c0e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Up From the Deep",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Haloes",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Space Baby",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Malagueña Salerosa",
+     "duracao": "3:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Mondo Bondage",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "What Do You Want From Life",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Boy Crazy",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "White Punks on Dope",
+     "duracao": "6:46"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Tubes_%28album%29",
+   "resumo_en": "The Tubes is the first album by the Tubes. Songs which received significant airplay from this album include \"What Do You Want from Life?\" and \"White Punks on Dope\", the latter of which peaked at number 28 on the UK singles chart. The album was dedicated to Bob McIntosh and Tom Donahue, the former of whom had originally played with the band until his death in 1973.\nRe Styles, who models on the front and back covers of the record sleeve, would join the band as a vocalist for the following three studio albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c4335862-6a7c-3c3d-8822-a64ddd18aebd",
+   "titulo": "Young and Rich",
+   "data": "1976-04",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/ca949301-0831-484f-97c9-9ed1dc3a90ff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tubes World Tour",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Brighter Day",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Pimp",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Stand Up and Shout",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Touch Me There",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Slipped My Disco",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Proud to Be an American",
+     "duracao": "3:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Poland Whole / Madam I’m Adam",
+     "duracao": "6:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Young and Rich",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Young_and_Rich",
+   "resumo_en": "Young and Rich is the second studio album by The Tubes, released in 1976. It reached #46 on the Billboard 200.\nThe album is no longer available on CD, although all of its songs can be found on \"White Punks on Dope\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "48d934ab-c736-30be-9564-6c4d945ba8ff",
+   "titulo": "Now",
+   "data": "1977-05-03",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/f3b70902-1f15-4cbc-aa24-c2f1bc5788e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smoke (La Vie en Fumer)",
+     "duracao": "4:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Hit Parade",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Strung Out on Strings",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Golden Boy",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "My Head Is My Only House Unless It Rains",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "God Bird Change",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m Just a Mess",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Cathy’s Clone",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "This Town",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Pound of Flesh",
+     "duracao": "3:01"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re No Fun",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d9e76767-768a-333c-b858-b9cf5cc13d18",
+   "titulo": "Remote Control",
+   "data": "1979-03-10",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/1d7f2920-9d21-4c89-83d4-0513058ba0f3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turn Me On",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "TV Is King",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Prime Time",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "I Want It All Now",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "No Way Out",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Getoverture",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "No Mercy",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Only the Strong Survive",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Be Mine Tonight",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Love’s a Mystery",
+     "duracao": "3:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Telecide",
+     "duracao": "5:41"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a65e43da-0264-3bdd-ae16-93a23742e340",
+   "titulo": "The Completion Backward Principle",
+   "data": "1981-04-06",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/ebd6d190-797c-485c-8e4c-23dd774c7848/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Talk to Ya Later",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Sushi Girl",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Amnesia",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Mr. Hate",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Attack of the Fifty Foot Woman",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Think About Me",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "A Matter of Pride",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Want to Wait Anymore",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Power Tools",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Let’s Make Some Noise",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Completion_Backward_Principle",
+   "resumo_en": "The Completion Backward Principle is the fifth studio album by the American rock band the Tubes. It is the group's first for Capitol Records. It was accompanied by a long-form music video release of the same name, although it did not contain all of the songs from the album. It is a concept album presented as a motivational business document.  The album contains two hit singles, \"Don't Want to Wait Anymore\" and \"Talk to Ya Later.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ee64aeae-8013-3730-8102-20bbf3874282",
+   "titulo": "Outside Inside",
+   "data": "1983-04-04",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/8b11fa2f-10ac-4f67-b42f-a885348fa45b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ella es una belleza",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "No, no de nuevo",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Sin trabajo",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "La era del mono",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Casa de cristal",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Mujer salvaje de Wongo",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "En la punta de mi lengua",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Ilusión fantástica",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Tambores",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "El tema del parque",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Dentro y fuera",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Outside_Inside_%28The_Tubes_album%29",
+   "resumo_en": "Outside Inside is the sixth studio album by the Tubes, released on April 4, 1983, via Capitol Records. The album peaked at No. 18 on the US Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fb12561d-fd3d-3beb-9f0b-2849613d00cf",
+   "titulo": "Love Bomb",
+   "data": "1985-02",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/7b4483e9-5603-4190-ae79-7c62ff1ad4eb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Piece by Piece",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Stella",
+     "duracao": "4:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Come as You Are",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "One Good Reason",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Bora Bora 2000 / Love Bomb",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Night People",
+     "duracao": "2:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Say Hey",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Eyes",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Muscle Girls",
+     "duracao": "0:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Theme From a Wooly Place",
+     "duracao": "0:46"
+    },
+    {
+     "n": 11,
+     "titulo": "For a Song",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Say Hey (Part 2)",
+     "duracao": "0:33"
+    },
+    {
+     "n": 13,
+     "titulo": "Feel It",
+     "duracao": "4:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Night People (reprise)",
+     "duracao": "1:22"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Love_Bomb_%28The_Tubes_album%29",
+   "resumo_en": "Love Bomb is the seventh studio album by the Tubes, and their second to be produced by Todd Rundgren. It was released in 1985 on Capitol Records. It is the last major-label release by the Tubes.\nFollowing the release of Love Bomb, the band broke up, with keyboardist Vince Welnick joining Rundgren's touring band, and eventually also drummer Prairie Prince. Rundgren would also record his own version of \"Feel It\" for his 1989 album Nearly Human, which also featured the two musicians.\nThe track, \"Piece by Piece\" was a minor hit single, peaking at No. 87 on the USA Billboard Hot 100 chart. A music video incorporating computer and stop motion animation was also made for the track.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c9c8c392-29fc-35e1-a38a-4b85d92a4078",
+   "titulo": "Genius of America",
+   "data": "1996-10-15",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/1f9b34eb-ae31-4510-8a50-05be16441f24/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Genius of America",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Arms of the Enemy",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Say What You Want",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "How Can You Live With Yourself",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Brother’s Still Watching",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "After All You Said",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Fishhouse",
+     "duracao": "4:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Fastest Gun Alive",
+     "duracao": "5:05"
+    },
+    {
+     "n": 9,
+     "titulo": "I Never Saw It Comin’",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Who Names the Hurricanes",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "It’s Too Late",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Around the World",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Genius_of_America",
+   "resumo_en": "Genius of America is the eighth studio album by American rock band the Tubes and marked their return to the studio for the first time since 1985's Love Bomb. The band self-produced the album and is their first body of work to include Gary Cambra. The album was released on October 15, 1996.\nA CD featuring re-mixed versions of the songs plus two bonus tracks was released in Europe in 1999 as Hoods from Outer Space.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d0aeb424-78ee-4615-9197-9d4207805864",
+   "titulo": "Hoods from Outer Space",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/d2caf22d-90b7-429a-818d-91fe7687308a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hoods From Outer Space",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "I Know You",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Say What You Want",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Around the World",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Genius of America",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Who Names the Hurricanes",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s Too Late",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "How Can You Live With Yourself",
+     "duracao": "5:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Never Saw It Comin’",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Arms of the Enemy",
+     "duracao": "4:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Fishhouse",
+     "duracao": "4:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Big Brother Is Still Watching",
+     "duracao": "4:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Fastest Gun Alive",
+     "duracao": "5:02"
+    },
+    {
+     "n": 14,
+     "titulo": "After All You Said",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5c0687b0-bb1c-440d-8f9a-9352020221f2",
+   "titulo": "Alive in America",
+   "data": "2017",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/dd54969e-c569-49df-8aab-1d7720424d9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Young and Rich – Grandiose Instrumental Overture",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "What Do You Want From Life",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Tubes World Tour",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Love Will Keep Us Together",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Pimp",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Mondo Bondage",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Touch Me There",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Boy Crazy",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Stand Up and Shout",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

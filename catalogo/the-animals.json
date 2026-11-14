@@ -1,0 +1,720 @@
+{
+ "id": "the-animals",
+ "nome": "The Animals",
+ "cena": "Descobertas do acervo",
+ "mbid": "4d8afa16-4018-4ca8-8b5e-ede8f9314562",
+ "wikidata": "Q131422",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1963",
+ "fim": "1983",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "psychedelic rock",
+  "british blues",
+  "british rhythm & blues",
+  "mod"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Eric_Burdon_%26_the_Animals.jpg/500px-Eric_Burdon_%26_the_Animals.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Animals",
+ "resumo_pt": "The Animals é uma banda de rock inglesa formada em Newcastle upon Tyne por Eric Burdon (vocais), Alan Price (órgão), Hilton Valentine (guitarra), John Steel (bateria) e Chas Chandler (baixo).\nBuscavam as raízes do blues e do folk, executaram versões de Chuck Berry (com quem fizeram uma turnê), Bob Dylan, Nina Simone, Little Richard e Bo Diddley.\nEm meados dos anos setenta influenciaram vários grupos de Rock'n'Roll pela batida que conseguiam fazer, dentre os grupos, estão os Ramones, de 1974, que fizeram um cover de When I Was Young no álbum Acid eaters, de 1993.",
+ "resumo_en": "The Animals are an English rock band formed in Newcastle upon Tyne in 1962. Their original lineup consisted of singer Eric Burdon, guitarist Hilton Valentine, bass guitarist Chas Chandler, keyboardist Alan Price, and drummer John Steel. Known for their gritty, bluesy sound, they balanced tough, rock-edged pop singles against rhythm-and-blues-oriented album material, and were part of the British Invasion of the US.\nThe Animals rose to prominence with their signature song and transatlantic number-one hit single \"The House of the Rising Sun\", and continued this success with hits such as \"I'm Crying\", \"Don't Let Me Be Misunderstood\", \"Bring It On Home to Me\", \"We Gotta Get Out of This Place\", \"It's My Life\", \"Inside-Looking Out\", \"Don't Bring Me Down\", and \"See See Rider\". Price and Steel departed in mid-1965 and early 1966, respectively, while poor business management led the band to split up by the end of 1966. Burdon then assembled a mostly new lineup of musicians under the name Eric Burdon and the Animals; the much-changed act moved to California and achieved commercial success as a psychedelic and progressive rock band, with hits such as \"Help Me Girl\", \"When I Was Young\", \"San Franciscan Nights\", \"Good Times\", \"Monterey\", and \"Sky Pilot\", before disbanding at the end of the decade. \nThe original lineup of Burdon, Price, Chandler, Valentine, and Steel reunited for a one-off benefit concert in Newcastle in 1968. They later released and toured in support of two reunion albums ",
+ "albuns": [
+  {
+   "id": "6704f186-f0de-4f7a-8294-ea0469cd9667",
+   "titulo": "The Animals",
+   "data": "1964-09",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/afa79809-0393-4e48-bf4d-5eade3b6b3d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The House of the Rising Sun",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "The Girl Can’t Help It",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Feeling",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Baby Let Me Take You Home",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "The Right Time",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Talkin’ ’Bout You",
+     "duracao": "1:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Around and Around",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m in Love Again",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Gonna Send You Back to Walker",
+     "duracao": "2:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Memphis, Tennessee",
+     "duracao": "3:04"
+    },
+    {
+     "n": 11,
+     "titulo": "I’m Mad Again",
+     "duracao": "4:15"
+    },
+    {
+     "n": 12,
+     "titulo": "I’ve Been Around",
+     "duracao": "1:35"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Animals_%28American_album%29",
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "705b6eee-0c9e-43eb-8f81-260431bd2600",
+   "titulo": "The Dangerous Christmas of Red Riding Hood",
+   "data": "1965",
+   "ano": "1965",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overture",
+     "duracao": "7:15"
+    },
+    {
+     "n": 2,
+     "titulo": "We Wish the World a Happy Yule",
+     "duracao": "2:04"
+    },
+    {
+     "n": 3,
+     "titulo": "My Red Riding Hood",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Snubbed",
+     "duracao": "2:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Woodsman’s Serenade / Granny’s Gulch / Along the Way",
+     "duracao": "4:05"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Naive",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Red Riding Hood Improvisation",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m Naive (reprise)",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "We’re Gonna Howl Tonight",
+     "duracao": "1:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Ding‐A‐Ling, Ding‐A‐Ling",
+     "duracao": "2:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Poor Mouse",
+     "duracao": "4:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Granny; Along the Way",
+     "duracao": "1:55"
+    },
+    {
+     "n": 13,
+     "titulo": "We Wish the World a Happy Yule (finale)",
+     "duracao": "1:40"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3eebdd3c-62c8-30c8-b553-ab24a3064ddb",
+   "titulo": "The Animals on Tour",
+   "data": "1965-03",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/a8ab0d2f-3330-48ec-92cc-359ba9e5f213/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boom Boom",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "How You’ve Changed",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "I Believe to My Soul",
+     "duracao": "2:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Mess Around",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Bright Lights, Big City",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Worried Life Blues",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Let the Good Times Roll",
+     "duracao": "1:52"
+    },
+    {
+     "n": 8,
+     "titulo": "I Ain’t Got You",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Hallelujah, I Love Her So",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m Crying",
+     "duracao": "2:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Dimples",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "She Said Yeah",
+     "duracao": "2:19"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Animals_on_Tour",
+   "resumo_en": "The Animals on Tour is the second American studio album by British rock band The Animals. It was released by MGM Records in February 1965 (see 1965 in music).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "699a2639-e1b6-45af-91b1-dbe55e0fc41d",
+   "titulo": "Animal Tracks",
+   "data": "1965-05-07",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/967bb338-e416-46ca-a9d0-13ba72f5c240/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mess Around",
+     "duracao": "2:19"
+    },
+    {
+     "n": 2,
+     "titulo": "How You've Changed",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Hallelujah I Love Her So",
+     "duracao": "2:46"
+    },
+    {
+     "n": 4,
+     "titulo": "I Believe to My Soul",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Worried Life Blues",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Roberta",
+     "duracao": "2:04"
+    },
+    {
+     "n": 7,
+     "titulo": "I Ain't Got You",
+     "duracao": "2:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Bright Lights, Big City",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Let the Good Times Roll",
+     "duracao": "1:54"
+    },
+    {
+     "n": 10,
+     "titulo": "For Miss Caulker",
+     "duracao": "3:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Roadrunner",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Animal_Tracks_%28British_album%29",
+   "resumo_en": "Animal Tracks is the second studio album by British R&B/blues rock band the Animals. It was released in May 1965, on Columbia, and was the group's last album with the full participation of Alan Price until the release of the original quintet's 1977 reunion album, Before We Were So Rudely Interrupted. It reached number six on the Record Retailer Albums Chart and remained there for 26 weeks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "76013fef-e9a1-350c-bd6c-dbbe1acb0086",
+   "titulo": "Animalization",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/99d0a2ac-1e51-42f7-b014-c360cd0c2f5e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Bring Me Down",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "One Monkey Don’t Stop No Show",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re on My Mind",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "She'll Return It",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Cheating",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Inside Looking Out",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "See See Rider",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Gin House Blues",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Maudie",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "What Am I Living For",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Sweet Little Sixteen",
+     "duracao": "3:07"
+    },
+    {
+     "n": 12,
+     "titulo": "I Put a Spell on You",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Animalization",
+   "resumo_en": "Animalization is a studio album by the English rock band the Animals. The band's fourth American release, it was issued in August 1966 on MGM Records.",
+   "spotify": "16XqkYio48otdOsxJb0JAs",
+   "youtube": null
+  },
+  {
+   "id": "a990a881-49d7-3751-895e-3188e0eb94ff",
+   "titulo": "Animalisms",
+   "data": "1966-05",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/a390fc88-ad3a-48a7-9b0c-161e25c0cd42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Monkey Don't Stop No Show",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Maudie",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Outcast",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Sweet Little Sixteen",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "You're on My Mind",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Clapping",
+     "duracao": "1:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Gin House Blues",
+     "duracao": "4:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Squeeze Her, Tease Her",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "What Am I Living For",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "I Put a Spell on You",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "That's All I Am to You",
+     "duracao": "2:22"
+    },
+    {
+     "n": 12,
+     "titulo": "She'll Return It",
+     "duracao": "2:40"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Animalisms",
+   "resumo_en": "Animalisms is the third studio album by the English R&B/blues rock band the Animals, and was released in the United Kingdom in May 1966 on Decca Records. It was the first Animals album to be produced by Tom Wilson as well as the first to feature keyboardist Dave Rowberry after the May 1965 departure of original keyboardist Alan Price. It reached number four on the Record Retailer Albums Chart and remained there for 17 weeks.",
+   "spotify": "5owTdQnJSxKgLgnz8ZgFmc",
+   "youtube": null
+  },
+  {
+   "id": "f2689784-8a09-34a9-b53d-e49d9c3e0f23",
+   "titulo": "Animalism",
+   "data": "1966-12",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/6f0a1de3-e465-4354-b895-2fc4f6391b70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Night Long",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Shake",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The Other Side of This Life",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Rock Me Baby",
+     "duracao": "2:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Lucille",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Smokestack Lightning",
+     "duracao": "5:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Hey Gyp",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Hit the Road Jack",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Outcast",
+     "duracao": "2:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Louisiana Blues",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "That's All I Am to You",
+     "duracao": "2:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Going Down Slow",
+     "duracao": "6:12"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Animalism_%28album%29",
+   "resumo_en": "Animalism is the fifth American album by the Animals, released in November 1966.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1871f672-5c6b-3b83-a009-f090e8f1db0b",
+   "titulo": "Before We Were So Rudely Interrupted",
+   "data": "1977-08",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/7050487b-c1a6-49ba-a06b-ed050136d9ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brother Bill (The Last Clean Shirt)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s All Over Now, Baby Blue",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Fire on the Sun",
+     "duracao": "2:23"
+    },
+    {
+     "n": 4,
+     "titulo": "As the Crow Flies",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Please Send Me Someone to Love",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Many Rivers to Cross",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Just a Little Bit",
+     "duracao": "2:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Riverside County",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Lonely Avenue",
+     "duracao": "5:16"
+    },
+    {
+     "n": 10,
+     "titulo": "The Fool",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Before_We_Were_So_Rudely_Interrupted",
+   "resumo_en": "Before We Were So Rudely Interrupted is a 1977 reunion album by the Animals. They are billed on the cover as the Original Animals.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a63c9d9f-d8bb-380a-9fba-9525861c6495",
+   "titulo": "Ark",
+   "data": "1983-09",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/4ff9033f-5733-4685-b0ff-4252a9176071/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Loose Change",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Is for All Time",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "My Favorite Enemy",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Prisoner of the Light",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Being There",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Hard Times",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "The Night",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Trying to Get You",
+     "duracao": "4:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Just Can’t Get Enough",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Melt Down",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Gotta Get Back to You",
+     "duracao": "2:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Crystal Nights",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ark_%28The_Animals_album%29",
+   "resumo_en": "Ark is an album by the original members of the Animals. Released in 1983 by I.R.S. Records, it peaked at #66 on the Billboard Top 200. Ark was the second and last reunion attempt of the band's initial lineup, and the album was subsequently followed by a tour by the band. It also serves as the last Animals studio album to date.\n\"The Night\" was a moderate success in the US, reaching #48 on the Billboard Hot 100 and #34 on the Mainstream Rock Tracks. The single was followed by \"Love Is for All Time\". Both songs were written and recorded for an Eric Burdon solo album but held back once the reunion plans went further. A lot of the other songs were written by Burdon and his team. \"No John No\" was penned by Alan Price.\nThis album follows a recent trend of many veteran acts such as Fleetwood Mac, Stevie Nicks, Jackson Browne, Linda Ronstadt and Queen, where they either augmented their classic sound, or swapped it entirely, for a punk/new wave sound. The Animals were no exception with Ark displaying a prominent new wave/post-punk sound.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

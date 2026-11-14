@@ -1,0 +1,4287 @@
+{
+ "id": "neil-young",
+ "nome": "Neil Young",
+ "cena": "Descobertas do acervo",
+ "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+ "wikidata": "Q633",
+ "tipo": "Person",
+ "pais": "CA",
+ "inicio": "1945",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "folk rock",
+  "country rock",
+  "folk",
+  "classic rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/2/26/Neil_Young_1976_closeup.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Neil_Young",
+ "resumo_pt": "Neil Percival Young (Toronto, 12 de novembro de 1945) é um cantor e compositor canadense naturalizado estadunidense. Conhecido por sua voz suave e suas letras pungentes, Young é uma lenda do rock americano, mas seu estilo musical também inclui o folk e o country rock, alternando com álbuns mais \"pesados\" em que algumas músicas se aproximam do hard rock, com guitarras \"sujas\" e longos solos improvisados com muita distorção. Seus shows são verdadeiras celebrações de rock usualmente acompanhado da banda Crazy Horse desde o início de sua carreira. Foi considerado o 17º melhor guitarrista do mundo pela revista norte-americana Rolling Stone.",
+ "resumo_en": "Neil Percival Young (born November 12, 1945) is a Canadian and American singer-songwriter and musician. Young's deeply personal lyrics and signature high tenor singing voice define his long career. Young's often distorted electric guitar playing, especially with his backing band Crazy Horse, earned him the nickname \"Godfather of Grunge\" and led to his 1995 album Mirror Ball with Pearl Jam. He also plays piano and harmonica on many albums, which frequently combine folk, rock, country, and other musical genres.\nA son of journalist and author Scott Young, Young began his music career in Winnipeg in the 1960s and moved to Los Angeles in 1966 to form the rock group Buffalo Springfield. He began his solo career with Crazy Horse in 1969. Young's solo discography includes critically acclaimed albums such as Everybody Knows This Is Nowhere (1969), After the Gold Rush (1970), Harvest (1972), On the Beach (1974), and Rust Never Sleeps (1979). Young was also a part-time member of the supergroup Crosby, Stills, Nash & Young, with whom he recorded the chart-topping 1970 album Déjà Vu. More recently, he has been backed by Promise of the Real.\nYoung directed (or co-directed) films using the pseudonym \"Bernard Shakey\", including Journey Through the Past (1973), Rust Never Sleeps (1979), Human Highway (1982), Greendale (2003), CSNY/Déjà Vu (2008), and Harvest Time (2022). He also contributed to the soundtracks of the films  Philadelphia (1993) and Dead Man (1995).\nYoung has received multiple G",
+ "albuns": [
+  {
+   "id": "52418ea0-7f00-3265-92ae-485de63fcb13",
+   "titulo": "Neil Young",
+   "data": "1968-11-12",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/23758af6-284b-4756-b318-9eb6bd1b2d68/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Emperor of Wyoming",
+     "duracao": "2:20"
+    },
+    {
+     "n": 2,
+     "titulo": "The Loner",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "If I Could Have Her Tonight",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ve Been Waiting for You",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "The Old Laughing Lady",
+     "duracao": "5:58"
+    },
+    {
+     "n": 6,
+     "titulo": "String Quartet From Whiskey Boot Hill",
+     "duracao": "0:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Here We Are in the Years",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "What Did You Do to My Life?",
+     "duracao": "2:28"
+    },
+    {
+     "n": 9,
+     "titulo": "I’ve Loved Her So Long",
+     "duracao": "2:41"
+    },
+    {
+     "n": 10,
+     "titulo": "The Last Trip to Tulsa",
+     "duracao": "9:27"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Neil_Young_%28album%29",
+   "resumo_en": "Neil Young is the debut studio album by Canadian/American musician Neil Young following his departure from Buffalo Springfield in 1968, issued on Reprise Records, catalogue number RS 6317. The album was first released on November 12, 1968, in the so-called 'CSG mix'. It was then partially remixed and re-released in late summer 1969, but at no time has the album charted on the Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f61603ab-ef6b-386b-a5e0-aaefc00543f1",
+   "titulo": "Everybody Knows This Is Nowhere",
+   "data": "1969-05-14",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/e313134f-cfcb-487d-9b55-9b53ce30b8df/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cinnamon Girl",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Everybody Knows This Is Nowhere",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Round & Round (It Won't Be Long)",
+     "duracao": "5:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Down by the River",
+     "duracao": "9:13"
+    },
+    {
+     "n": 5,
+     "titulo": "The Losing End (When You're On)",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Running Dry (Requiem for the Rockets)",
+     "duracao": "5:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Cowgirl in the Sand",
+     "duracao": "10:03"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8.8,
+   "publico_votos": 13,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b6a3952b-9977-351c-a80a-73e023143858",
+   "titulo": "After the Gold Rush",
+   "data": "1970-09-19",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/95723f6f-f2e3-4a94-9ede-5d2f69932a8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tell Me Why",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "After the Gold Rush",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Only Love Can Break Your Heart",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Southern Man",
+     "duracao": "5:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Till the Morning Comes",
+     "duracao": "1:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Oh, Lonesome Me",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Let It Bring You Down",
+     "duracao": "2:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Birds",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "When You Dance I Can Really Love",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "I Believe in You",
+     "duracao": "3:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Cripple Creek Ferry",
+     "duracao": "1:34"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/After_the_Gold_Rush",
+   "resumo_en": "After the Gold Rush is the third studio album by the Canadian-American musician Neil Young, released in September 1970 on Reprise Records. It is one of four high-profile solo albums released by the members of folk rock group Crosby, Stills, Nash & Young in the wake of their chart-topping 1970 album Déjà Vu. Young's album consists mainly of country folk music along with several rock tracks, including \"Southern Man\". The material was inspired by the unproduced Dean Stockwell and Herb Bermann screenplay After the Gold Rush.\nAfter the Gold Rush entered Billboard Top Pop Albums chart on September 19, and peaked at number eight in October. Two of the three singles taken from the album, \"Only Love Can Break Your Heart\" and \"When You Dance I Can Really Love\", made it to number 33 and number 93 respectively on the Billboard Hot 100. Despite a mixed initial reaction, the album has since appeared on a number of greatest albums of all time lists.\nIn 2014, the album was inducted into the Grammy Hall of Fame.",
+   "spotify": "5EVlXlHbRQI8ybuNt4ArXI",
+   "youtube": null
+  },
+  {
+   "id": "b25419cf-71bf-3a54-8cd4-2161c61056a0",
+   "titulo": "Harvest",
+   "data": "1972-02-14",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/8f32b5e7-81e5-4d1f-8bb1-07fd307c45f7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Out on the Weekend",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Harvest",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "A Man Needs a Maid",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Heart of Gold",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Are You Ready for the Country?",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Old Man",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "There's a World",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Alabama",
+     "duracao": "4:02"
+    },
+    {
+     "n": 9,
+     "titulo": "The Needle and the Damage Done",
+     "duracao": "2:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Words (Between the Lines of Age)",
+     "duracao": "6:40"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 6
+   },
+   "publico": 8.6,
+   "publico_votos": 19,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harvest_%28Neil_Young_album%29",
+   "resumo_en": "Harvest is the fourth studio album by Canadian-American musician Neil Young, released on February 15, 1972, by Reprise Records. It featured the London Symphony Orchestra on two tracks and vocals by guests David Crosby, Graham Nash, Linda Ronstadt, Stephen Stills, and James Taylor. It topped the Billboard 200 album chart for two weeks, and spawned two hit singles, \"Old Man\", which peaked at No. 31 on the US Billboard Hot 100, and \"Heart of Gold\", which reached No. 1. It was the best-selling album of 1972 in the United States.\nThe album has been described as \"[contain[ing] some of the most arresting imagery of Young's career to date\". According to The Times' deputy features editor Burhan Wazir, the album \"evoked both the dying optimism of San Francisco's counterculture movement and the burgeoning cynicism of the Watergate generation.\"\nThe album has since remained Young's signature album as well as his best selling. In 2015, Harvest was inducted into the Grammy Hall of Fame.",
+   "spotify": "2l3QxNo4QubBNmVKxLeum0",
+   "youtube": null
+  },
+  {
+   "id": "77791ac2-c98f-3d0a-a5be-bd5827a98cb2",
+   "titulo": "Journey Through the Past",
+   "data": "1972-11-07",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/14c15e4f-7184-49f3-9687-63436f00b5b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "For What It’s Worth / Mr. Soul",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Rock & Roll Woman",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Find the Cost of Freedom",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Ohio",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Southern Man",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Are You Ready for the Country",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Let Me Call You Sweetheart",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Alabama",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Words",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Relativity Invitation",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Handel's Messiah",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "The 'King of King’s' Theme",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Soldier",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Let’s Go Away for a While",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Journey_Through_the_Past",
+   "resumo_en": "Journey Through the Past is a double LP soundtrack album from the film of the same name by Canadian / American musician Neil Young, released in November 1972 on Reprise Records, catalogue number 2XS 6480. It peaked at No. 45 on the Billboard 200. Its initial release was on vinyl, cassette tape, reel-to-reel tape, and 8-track tape cartridge. Although its follow-up Time Fades Away was finally released on CD in August 2017, Journey Through the Past remains the only 1970s Neil Young album yet to see an official CD reissue.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f4174531-b783-3786-b75f-4fe61a8f6333",
+   "titulo": "On the Beach",
+   "data": "1974-07-19",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/39fe3778-362c-4762-89fc-c03235fd8117/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walk On",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "See the Sky About to Rain",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Revolution Blues",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "For the Turnstiles",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Vampire Blues",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "On the Beach",
+     "duracao": "6:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Motion Pictures",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Ambulance Blues",
+     "duracao": "8:56"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.5,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_the_Beach_%28Neil_Young_album%29",
+   "resumo_en": "On the Beach is the fifth studio album by Canadian-American musician Neil Young, released by Reprise Records in July 1974. It is the second of the so-called \"Ditch Trilogy\" that Young recorded following the massive success of 1972's Harvest, and expresses feelings of over-exposure, alienation and melancholy.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e0207e33-af06-3862-baba-f42ca722de0d",
+   "titulo": "Tonight’s the Night",
+   "data": "1975-06-20",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/a75df175-7a8b-4b88-b04e-47cf44e9c17d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tonight’s the Night",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Speakin’ Out",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "World on a String",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Borrowed Tune",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Come On Baby Let’s Go Downtown",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Mellow My Mind",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Roll Another Number (for the Road)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Albuquerque",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "New Mama",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Lookout Joe",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Tired Eyes",
+     "duracao": "4:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Tonight’s the Night, Part II",
+     "duracao": "4:52"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tonight%27s_the_Night_%28Neil_Young_album%29",
+   "resumo_en": "Tonight's the Night is the sixth studio album by Canadian-American songwriter Neil Young. It was recorded in August–September 1973, mostly on August 26, but its release was delayed until June 1975. It peaked at No. 25 on the Billboard 200. The album is the third and final of the so-called \"Ditch Trilogy\" of albums that Young released following the major success of 1972's Harvest, whereupon the scope of his success and acclaim became so difficult for Young to handle that he subsequently experienced alienation from his music and career.\nIn 2003, the album was ranked number 331 on Rolling Stone's list of the 500 Greatest Albums of All Time, moving up to number 330 in the list's 2012 edition and climbing further to number 302 in the 2020 update.",
+   "spotify": "2wjrhhAibIUwC40oFMALtr",
+   "youtube": null
+  },
+  {
+   "id": "13b7462a-0764-3ece-946e-314aa01079cf",
+   "titulo": "Zuma",
+   "data": "1975-11-10",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/6c728f67-4bfa-3751-b891-2b2b639c7d74/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Cry No Tears",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Danger Bird",
+     "duracao": "6:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Pardon My Heart",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Lookin' for a Love",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Barstool Blues",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Stupid Girl",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Drive Back",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Cortez the Killer",
+     "duracao": "7:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Through My Sails",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8e457784-baae-3ab0-b171-da2a76bedc01",
+   "titulo": "American Stars ’n Bars",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/510c78ef-fd50-4bdb-9d84-529a650dd0aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Old Country Waltz",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Saddle Up the Palomino",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Hey Babe",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold Back the Tears",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Bite the Bullet",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Star of Bethlehem",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Will to Love",
+     "duracao": "7:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Like a Hurricane",
+     "duracao": "8:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Homegrown",
+     "duracao": "2:21"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ba744ca0-eb9b-369f-b3c9-2e4d46524135",
+   "titulo": "Chrome Dreams",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/50048a22-3935-4d3a-9268-bd07e011342d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pocahontas",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Will to Love",
+     "duracao": "7:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Star of Bethlehem",
+     "duracao": "2:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Like a Hurricane",
+     "duracao": "8:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Too Far Gone",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Hold Back the Tears",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Homegrown",
+     "duracao": "2:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Captain Kennedy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Stringman",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Sedan Delivery",
+     "duracao": "5:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Powderfinger",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Look Out for My Love",
+     "duracao": "3:57"
+    },
+    {
+     "n": 13,
+     "titulo": "Like a Hurricane – Chicago, November 15, 1976",
+     "duracao": "11:32"
+    },
+    {
+     "n": 14,
+     "titulo": "Homefires – Live 1992",
+     "duracao": "4:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Ride My Lama – Boarding House, San Francisco, May 1978",
+     "duracao": "2:48"
+    },
+    {
+     "n": 16,
+     "titulo": "River of Pride (aka White Line), November 27, 1975",
+     "duracao": "3:12"
+    },
+    {
+     "n": 17,
+     "titulo": "Campaigner – Summer 1976",
+     "duracao": "4:19"
+    },
+    {
+     "n": 18,
+     "titulo": "No One Seems to Know – Tokyo, March 10, 1976",
+     "duracao": "2:28"
+    },
+    {
+     "n": 19,
+     "titulo": "Give Me Strength – Chicago, November 15, 1976",
+     "duracao": "3:25"
+    },
+    {
+     "n": 20,
+     "titulo": "Peace of Mind – Chicago, November 15, 1976",
+     "duracao": "4:33"
+    },
+    {
+     "n": 21,
+     "titulo": "Human Highway – CSNY, April 1976",
+     "duracao": "3:01"
+    },
+    {
+     "n": 22,
+     "titulo": "Box Car",
+     "duracao": "2:17"
+    },
+    {
+     "n": 23,
+     "titulo": "Don’t Cry",
+     "duracao": "4:39"
+    },
+    {
+     "n": 24,
+     "titulo": "Heavy Love",
+     "duracao": "4:47"
+    },
+    {
+     "n": 25,
+     "titulo": "Wrecking Ball",
+     "duracao": "4:38"
+    },
+    {
+     "n": 26,
+     "titulo": "Cocaine Eyes",
+     "duracao": "4:06"
+    },
+    {
+     "n": 27,
+     "titulo": "Someday",
+     "duracao": "5:15"
+    }
+   ],
+   "duracao_min": 115,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 88,
+    "media": 8.2,
+    "fontes": 10
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chrome_Dreams",
+   "resumo_en": "Chrome Dreams is the forty-sixth studio album by Neil Young. It was first compiled as an acetate for consideration as an album for release in 1977. A copy of the acetate widely circulated as a bootleg in the decades prior to its release. The album was officially released on August 11, 2023, to universal acclaim from critics.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "51d6fa96-4a5c-3d0c-ac05-b237314122cf",
+   "titulo": "Comes a Time",
+   "data": "1978-10-21",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/8df03ab0-e703-45b1-a2e0-0a401fb1f343/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Goin' Back",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Comes a Time",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Look Out for My Love",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Lotta Love",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Peace of Mind",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Human Highway",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Already One",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Field of Opportunity",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Motorcycle Mama",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Four Strong Winds",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Comes_a_Time",
+   "resumo_en": "Comes a Time is the ninth studio album by Canadian-American singer-songwriter Neil Young, released by Reprise Records in October 1978.\nThe album is largely performed in a quiet folk and country style. It features backing harmonies sung by Nicolette Larson and additional accompaniment by musicians that had accompanied Young on his commercial pinnacle, Harvest. Like Harvest, the lyrics to many of its songs are inspired by relationships. In his memoir Waging Heavy Peace, Young describes Comes a Time as one of his best albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a710c7c7-46e6-36ca-9c3c-87c8e79f8daf",
+   "titulo": "Rust Never Sleeps",
+   "data": "1979-06-22",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/c5b00a6e-48e0-4eb3-b3c7-93a532f97554/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My My, Hey Hey (Out of the Blue)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Thrasher",
+     "duracao": "5:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Ride My Llama",
+     "duracao": "2:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Pocahontas",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Sail Away",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Powderfinger",
+     "duracao": "5:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Welfare Mothers",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Sedan Delivery",
+     "duracao": "4:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Hey Hey, My My (Into the Black)",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 8,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3b3d31fd-3cae-30b4-a827-dc1484c5dcfb",
+   "titulo": "Hawks & Doves",
+   "data": "1980-11-03",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/8ab6ea2a-239f-4802-a070-c58d599481c7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Wing",
+     "duracao": "2:12"
+    },
+    {
+     "n": 2,
+     "titulo": "The Old Homestead",
+     "duracao": "7:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Lost in Space",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Captain Kennedy",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Stayin’ Power",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Coastline",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Union Man",
+     "duracao": "2:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Comin’ Apart at Every Nail",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Hawks & Doves",
+     "duracao": "3:26"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hawks_%26_Doves",
+   "resumo_en": "Hawks & Doves is the eleventh studio album by Canadian-American musician Neil Young. It was released on October 29, 1980, through Reprise Records. It was produced by Young along with Tim Mulligan and Elliot Mazer. The first side of the album consists of previously unreleased folk-centric material recorded from 1974 through 1977, while the second side features heavily country-styled songs recorded specifically for the album in July 1980.\nBoth contemporary and retrospective reception to Hawks & Doves has been mixed. The album's short length, disjointed styles and, in some places, seemingly patriotic lyrical content was met with confusion from fans and critics alike, especially after the critical and commercial success awarded to its predecessors, Rust Never Sleeps and Live Rust (both released in 1979).\nHawks & Doves was moderately successful, reaching the top 30 in the US. However, it only reached number 50 in Canada and its two singles, the title track and \"Stayin' Power\", failed to chart in either country. The album remained unavailable on CD until it was reissued in 2003 as part of the Neil Young Archives Digital Masterpiece Series.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c6fd0515-a278-397c-a396-420c28b6f9c1",
+   "titulo": "Re·ac·tor",
+   "data": "1981-10-28",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/65300055-9822-4c32-8a2a-5133092028cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Opera Star",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Surfer Joe and Moe the Sleaze",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "T-Bone",
+     "duracao": "9:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Get Back on It",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Southern Pacific",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Motor City",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Rapid Transit",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Shots",
+     "duracao": "7:45"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "246568c5-1fe6-35b2-b056-c94d6c484eac",
+   "titulo": "Trans",
+   "data": "1982-12-29",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/345bea92-fdea-48ad-aad8-26ec382e83b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Thing Called Love",
+     "duracao": "3:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Computer Age",
+     "duracao": "5:20"
+    },
+    {
+     "n": 3,
+     "titulo": "We R in Control",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Transformer Man",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Computer Cowboy (a.k.a. Syscrusher)",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Hold on to Your Love",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Sample and Hold",
+     "duracao": "5:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Mr. Soul",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Like an Inca",
+     "duracao": "9:43"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.2,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trans_%28album%29",
+   "resumo_en": "Trans is the thirteenth studio album by Canadian and American singer-songwriter Neil Young, released on January 10, 1983. Recorded and released during his Geffen era in the 1980s, its electronic sound baffled many fans upon its initial release—a Sennheiser vocoder VSM201 features prominently in six of the nine tracks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6bf5b30b-e2c7-330e-8417-163618f14a45",
+   "titulo": "Everybody’s Rockin’",
+   "data": "1983-08",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/98af41cf-e9c9-4f30-96e2-ef912578adf5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Betty Lou’s Got a New Pair of Shoes",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Rainin’ in My Heart",
+     "duracao": "2:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Payola Blues",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Wonderin’",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Kinda Fonda Wanda",
+     "duracao": "1:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Jellyroll Man",
+     "duracao": "2:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Bright Lights, Big City",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Cry, Cry, Cry",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Mystery Train",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Everybody’s Rockin’",
+     "duracao": "1:57"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Everybody%27s_Rockin%27",
+   "resumo_en": "Everybody's Rockin' is the fourteenth studio album by Canadian-American musician Neil Young, released on July 27, 1983. The album was recorded with the Shocking Pinks, a band assembled just for the occasion, and features a selection of rockabilly songs, both covers and original material. Running at 25 minutes, it is Young's shortest album. Everybody's Rockin' is typical of his 1980s period in that it bears little or no resemblance to the album released before it (1982's Trans, a synth-heavy, electro-rock album), nor the one released after it (1985's Old Ways, which is pure country).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6c6b3e71-f1b9-3e22-b34c-17cdbd209e9e",
+   "titulo": "Old Ways",
+   "data": "1985-08-12",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/2e5b0078-d887-46f4-931a-02be458be2a6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Wayward Wind",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Get Back to the Country",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Are There Any More Real Cowboys?",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Once an Angel",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Misfits",
+     "duracao": "5:07"
+    },
+    {
+     "n": 6,
+     "titulo": "California Sunset",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Old Ways",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "My Boy",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Bound for Glory",
+     "duracao": "5:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Where Is the Highway Tonight?",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Old_Ways",
+   "resumo_en": "Old Ways is the fifteenth studio album by Canadian-American musician and singer-songwriter Neil Young, released on August 12, 1985, by Geffen Records. He recorded several songs at producer David Briggs' Nashville recording studio House of David with long-time collaborators Ben Keith, Tim Drummond, Karl T. Himmel, Spooner Oldham and Rufus Thibodeaux, in January 1983. Young went into Castle Recording Studios, Tennessee, in March 1985 with both the musicians from the earlier Harvest album and various local studio musicians, to complete the album. He duets with Waylon Jennings on \"Bound for Glory\", and with Willie Nelson on \"Are There Any More Real Cowboys?\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "968a1103-f76f-3b23-92db-a3b195b55654",
+   "titulo": "Landing on Water",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/31d20221-bf24-35aa-a51c-7f736313cb5f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Weight of the World",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Violent Side",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Hippie Dream",
+     "duracao": "4:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad News Beat",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Touch the Night",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "People on the Street",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Hard Luck Stories",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "I Got a Problem",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Pressure",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Drifter",
+     "duracao": "5:04"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.3,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Landing_on_Water",
+   "resumo_en": "Landing on Water is the sixteenth studio album by Neil Young. The album was released on July 21, 1986, by Geffen Records.\nThe album represents a return to a contemporary rock sound after the 1985 country album Old Ways and 1983 rockabilly album Everybody's Rockin'. Young's record company, Geffen famously had sued the artist for creating albums unrepresentative of his familiar style. For Landing on Water, Young employed producer Danny Kortchmar, engineer Niko Bolas and studio drummer Steve Jordan. The album is noted for its unique production and synthetic 1980s sound with prominent drums, synclavier and synthesizers, giving it a \"claustrophobic\" feel. According to Young in a 2009 interview, \"one record company president in Europe told me it was the most claustrophobic record he had ever heard, and I thought that was pretty cool. He put it on in his Porsche and would turn it up real loud. He just felt like it was all over him.\"",
+   "spotify": "14aK9wGiLXmSG6WnGnnH6U",
+   "youtube": null
+  },
+  {
+   "id": "cd3d642b-df7e-3a5f-93c2-16b6f4a4b984",
+   "titulo": "Life",
+   "data": "1987-06-30",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/741aac4d-6c72-442f-9a72-f644cf852102/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mideast Vacation",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Long Walk Home",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Around the World",
+     "duracao": "5:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Inca Queen",
+     "duracao": "8:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Too Lonely",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Prisoners of Rock ’n’ Roll",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Cryin’ Eyes",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "When Your Lonely Heart Breaks",
+     "duracao": "5:17"
+    },
+    {
+     "n": 9,
+     "titulo": "We Never Danced",
+     "duracao": "3:38"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "62810843-fe3f-3b4c-8537-182eedfad223",
+   "titulo": "This Note’s for You",
+   "data": "1988-04-12",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/7735b87f-9eb5-4326-b193-63802dd90aec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ten Men Workin’",
+     "duracao": "6:28"
+    },
+    {
+     "n": 2,
+     "titulo": "This Note’s for You",
+     "duracao": "2:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Coupe de Ville",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Life in the City",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Twilight",
+     "duracao": "5:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Married Man",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Sunny Inside",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Can’t Believe Your Lyin’",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Hey Hey",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "One Thing",
+     "duracao": "6:02"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/This_Note%27s_for_You",
+   "resumo_en": "This Note's for You is the eighteenth studio album by Canadian-American musician Neil Young, released April 11, 1988, on Reprise. The album marked Young's return to the recently reactivated Reprise Records after a rocky tenure with Geffen Records.\nIt was originally credited to \"Young and the Bluenotes\". Part of the album's concept centered on the commercialism of rock and roll, and tours in particular (the title track, specifically, is a hostile social commentary on concert sponsorship). The music is marked by the use of a horn section.\nIn 2015, Young released a live album from the album's accompanying tour, which he titled Bluenote Café.",
+   "spotify": "4gxwNSGdhbC7yPnVi1ZlAh",
+   "youtube": null
+  },
+  {
+   "id": "6ae11dfd-4dc8-3b0b-be8c-456d6254ac9f",
+   "titulo": "Freedom",
+   "data": "1989-10-02",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/c95b164e-007a-4e94-b506-cee5b52957d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockin’ in the Free World",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Crime in the City (Sixty to Zero, Part I)",
+     "duracao": "8:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Cry",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Hangin’ on a Limb",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Eldorado",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "The Ways of Love",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Someday",
+     "duracao": "5:42"
+    },
+    {
+     "n": 8,
+     "titulo": "On Broadway",
+     "duracao": "4:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Wrecking Ball",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "No More",
+     "duracao": "6:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Too Far Gone",
+     "duracao": "2:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Rockin’ in the Free World",
+     "duracao": "4:42"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.4,
+    "fontes": 8
+   },
+   "publico": 8.3,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Freedom_%28Neil_Young_album%29",
+   "resumo_en": "Freedom is the nineteenth studio album by Canadian-American musician Neil Young. Released on October 2, 1989. Freedom represented a critical and commercial comeback for Young, after a string of poorly received projects in the 1980s.",
+   "spotify": "3uOOKcr91I3Br0Rtmu4zdT",
+   "youtube": "OLAK5uy_mK22DuiRqvi4EcouP6xaKtiEXydmoVEp8"
+  },
+  {
+   "id": "91fdfd77-a868-3678-b9f2-11ad92118955",
+   "titulo": "Ragged Glory",
+   "data": "1990-09-10",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/57791a65-f0ee-46be-9c9d-e03af9fb866e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Country Home",
+     "duracao": "7:04"
+    },
+    {
+     "n": 2,
+     "titulo": "White Line",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "F*!#in' Up",
+     "duracao": "5:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Over and Over",
+     "duracao": "8:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Love to Burn",
+     "duracao": "10:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Farmer John",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Mansion on the Hill",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Days That Used to Be",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Love and Only Love",
+     "duracao": "10:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Mother Earth (Natural Anthem)",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": 8.3,
+   "publico_votos": 8,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6c153d3a-cf36-37ea-8409-0e48b428315f",
+   "titulo": "Harvest Moon",
+   "data": "1992-10-27",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/010b99d8-02eb-4ecf-808f-da24868fb7d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Unknown Legend",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "From Hank to Hendrix",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "You and Me",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Harvest Moon",
+     "duracao": "5:05"
+    },
+    {
+     "n": 5,
+     "titulo": "War of Man",
+     "duracao": "5:43"
+    },
+    {
+     "n": 6,
+     "titulo": "One of These Days",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Such a Woman",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Old King",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Dreamin' Man",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Natural Beauty",
+     "duracao": "10:23"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.4,
+    "fontes": 6
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harvest_Moon_%28album%29",
+   "resumo_en": "Harvest Moon is the twenty-first studio album by Canadian-American musician Neil Young, released on November 2, 1992. Many of its backing musicians also appeared on Young's 1972 album Harvest.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8d08ec3a-aeab-37cc-9d28-ff20040196d4",
+   "titulo": "Sleeps With Angels",
+   "data": "1994-08-16",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/1439bf3d-8e65-4216-9e27-751f04874894/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Heart",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Prime of Life",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Driveby",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Sleeps With Angels",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Western Hero",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Change Your Mind",
+     "duracao": "14:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue Eden",
+     "duracao": "6:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Safeway Cart",
+     "duracao": "6:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Train of Love",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Trans Am",
+     "duracao": "4:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Piece of Crap",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "A Dream That Can Last",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.4,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sleeps_with_Angels",
+   "resumo_en": "Sleeps with Angels is the twenty-second studio album by Canadian-American musician Neil Young, released on August 16, 1994, on Reprise as a double LP and as a single CD. Young's seventh album with Crazy Horse, it was co-produced by long-time collaborator David Briggs who died the following year. The title track was written in response to Kurt Cobain's suicide. Musician and author Ken Viola described the album as one of Young's \"top five records. It examines the nature of dreams — both the light and dark side — and how they fuel reality in the nineties. Dreams are the only thing that we've got left to hang on to.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9962e46d-d42b-3d94-a6c7-8c81cc292fdb",
+   "titulo": "Mirror Ball",
+   "data": "1995-06-23",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/1df5215b-39df-4077-b1c3-d7861dfdaf1d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Song X",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Act of Love",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm the Ocean",
+     "duracao": "7:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Big Green Country",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Truth Be Known",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Downtown",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "What Happened Yesterday",
+     "duracao": "0:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Peace and Love",
+     "duracao": "7:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Throw Your Hatred Down",
+     "duracao": "5:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Scenery",
+     "duracao": "8:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Fallen Angel",
+     "duracao": "1:16"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mirror_Ball_%28Neil_Young_album%29",
+   "resumo_en": "Mirror Ball is the twenty-third studio album by Canadian-American musician Neil Young, and features members of American rock band Pearl Jam. It was released on June 27, 1995, through Reprise Records. The album has been certified gold by the RIAA in the United States.\nIn the same year, Pearl Jam released an accompanying EP titled Merkin Ball.\nThe album was remastered and reissued in 2026 by Warner Records.",
+   "spotify": "6ae2GvnIQqf0oUf3AQiebC",
+   "youtube": null
+  },
+  {
+   "id": "cf29247d-676e-34bf-96c1-053a34ee14af",
+   "titulo": "Dead Man",
+   "data": "1996-02-26",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/0e90583f-2aff-4a6a-82a1-c573cd83cbfd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Guitar Solo 1",
+     "duracao": "5:18"
+    },
+    {
+     "n": 2,
+     "titulo": "The Round Stones Beneath the Earth...",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Guitar Solo 2",
+     "duracao": "2:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Why Does Thou Hide Thyselves, Clouds...",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Organ Solo",
+     "duracao": "1:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Do You Know How to Use This Weapon?...",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Guitar Solo 3",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Nobody's Story",
+     "duracao": "6:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Guitar Solo 4",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Stupid White Men...",
+     "duracao": "8:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Guitar Solo 5",
+     "duracao": "14:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Time for You to Leave, William Blake...",
+     "duracao": "0:51"
+    },
+    {
+     "n": 13,
+     "titulo": "Guitar Solo 6",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.3,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dead_Man_%28soundtrack%29",
+   "resumo_en": "Dead Man is the soundtrack to the 1995 Jim Jarmusch western-themed film of the same name starring Gary Farmer, and Johnny Depp as William Blake. Both the soundtrack and the film's score are written and performed by Neil Young.\nYoung recorded the soundtrack by improvising (mostly on Old Black, his famously customized electric guitar, with some acoustic guitar, piano and organ) as he watched the newly edited film alone in a recording studio. The soundtrack album consists of seven instrumental tracks by Young, with dialog excerpts from the film and Johnny Depp reading the poetry of William Blake interspersed between the music. The soundtrack differs from the film score in that it uses background noises of a driving car while the film is set in a time before automobiles were widely available.\nPitchfork ranked the soundtrack at 15 on their \"50 Best Movie Scores of All Time\" list, saying that \"Old Black is featured in its purest form on the soundtrack for Jim Jarmusch's hallucinatory western Dead Man. Young’s low, ominous notes are inseparable from Robby Müller's striking black-and-white cinematography, lending an elemental pull to the increasingly strange odyssey of William Blake (Johnn",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "65920f83-a9d1-3127-8496-ee9cada5920b",
+   "titulo": "Broken Arrow",
+   "data": "1996-07-02",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/31b1e57c-a3b2-4c3d-90f2-2bd8d44af732/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Big Time",
+     "duracao": "7:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Loose Change",
+     "duracao": "9:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Slip Away",
+     "duracao": "8:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Changing Highways",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Scattered (Let’s Think About Livin’)",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "This Town",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Music Arcade",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Baby What You Want Me to Do",
+     "duracao": "8:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Interstate",
+     "duracao": "6:24"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8467e990-ceec-3424-beec-c0d805810c57",
+   "titulo": "Silver & Gold",
+   "data": "2000-04-24",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/1a281925-cfe5-4295-a2c8-7140a5b2505c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good to See You",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Silver & Gold",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Daddy Went Walkin’",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Buffalo Springfield Again",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "The Great Divide",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Horseshoe Man",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Red Sun",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Distant Camera",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Razor Love",
+     "duracao": "6:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Without Rings",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 73,
+    "media": 6.9,
+    "fontes": 8
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Silver_%26_Gold_%28Neil_Young_album%29",
+   "resumo_en": "Silver & Gold is the twenty-fifth studio album by Canadian-American musician Neil Young, released on April 25, 2000. Like the previous albums Comes a Time and Harvest Moon and the subsequent Prairie Wind, it largely features acoustic performances with a backing band of Nashville musicians with a long history of collaboration with Young.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9d37eb02-1e98-35ef-8214-9c757b5a6084",
+   "titulo": "Are You Passionate?",
+   "data": "2002-04-09",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/17614637-d371-4b45-abb8-6376ffbd76b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You're My Girl",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr. Disappointment",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Differently",
+     "duracao": "6:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Quit (Don't Say You Love Me)",
+     "duracao": "6:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Let's Roll",
+     "duracao": "5:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Are You Passionate?",
+     "duracao": "5:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Goin' Home",
+     "duracao": "8:47"
+    },
+    {
+     "n": 8,
+     "titulo": "When I Hold You in My Arms",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Be With You",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Two Old Friends",
+     "duracao": "6:15"
+    },
+    {
+     "n": 11,
+     "titulo": "She's a Healer",
+     "duracao": "9:10"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 4.0,
+    "metacritic": 54,
+    "media": 5.8,
+    "fontes": 8
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Are_You_Passionate%3F",
+   "resumo_en": "Are You Passionate? is the twenty-sixth studio album by Canadian / American musician Neil Young, his only album to feature Booker T. & the M.G.'s, and his 9th with Crazy Horse, released on April 9, 2002 as a double LP and as a single CD. The album represents Young's foray into soul music, one of many explorations into different genres during his career. Exceptions are rocker \"Goin' Home\", recorded with Crazy Horse, and the brooding \"Let's Roll\", a response to the 9/11 terrorist attacks. The album ends with \"She's a Healer\", an extended jam.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "18ce8eaf-ac67-3bd6-ada7-75d4a46296f9",
+   "titulo": "Greendale",
+   "data": "2003-08-18",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/7b13fcb6-13a4-433d-9eb0-9cc2e220190e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Falling From Above",
+     "duracao": "7:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Double E",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Devil's Sidewalk",
+     "duracao": "5:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Leave the Driving",
+     "duracao": "7:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Carmichael",
+     "duracao": "10:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Bandit",
+     "duracao": "5:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Grandpa's Interview",
+     "duracao": "12:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Bringin' Down Dinner",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Sun Green",
+     "duracao": "12:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Be the Rain",
+     "duracao": "9:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Falling From Above",
+     "duracao": "8:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Double E",
+     "duracao": "5:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Devil's Sidewalk",
+     "duracao": "7:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Leave the Driving",
+     "duracao": "5:49"
+    },
+    {
+     "n": 15,
+     "titulo": "Carmichael",
+     "duracao": "8:53"
+    },
+    {
+     "n": 16,
+     "titulo": "Bandit",
+     "duracao": "6:55"
+    },
+    {
+     "n": 17,
+     "titulo": "Grandpa's Interview",
+     "duracao": "11:30"
+    },
+    {
+     "n": 18,
+     "titulo": "Bringin' Down Dinner",
+     "duracao": "3:30"
+    },
+    {
+     "n": 19,
+     "titulo": "Sun Green",
+     "duracao": "9:08"
+    },
+    {
+     "n": 20,
+     "titulo": "Be the Rain",
+     "duracao": "11:12"
+    }
+   ],
+   "duracao_min": 157,
+   "critica": {},
+   "publico": 7.4,
+   "publico_votos": 5,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "948ee695-112a-43ff-92dc-18e46bd3e4fe",
+   "titulo": "Greendale (A Film By Neil Young)",
+   "data": "2004-09-01",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/cac4d8ee-4581-472f-a5c6-03c3c799d995/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Falling From Above",
+     "duracao": "7:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Double E",
+     "duracao": "5:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Devil’s Sidewalk",
+     "duracao": "5:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Leave the Driving",
+     "duracao": "7:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Carmichael",
+     "duracao": "10:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Bandit",
+     "duracao": "5:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Grandpa’s Interview",
+     "duracao": "13:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Bringin’ Down Dinner",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Sun Green",
+     "duracao": "12:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Be the Rain",
+     "duracao": "7:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Credits",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 82,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "449a4ba1-f2a9-3ef2-a7a5-91e94634a854",
+   "titulo": "Prairie Wind",
+   "data": "2005-09-23",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/2915bf56-97a1-407d-ac3c-7bfc486ac9f7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Painter",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "No Wonder",
+     "duracao": "5:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Falling Off the Face of the Earth",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Far From Home",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s a Dream",
+     "duracao": "6:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Prairie Wind",
+     "duracao": "7:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Here for You",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "This Old Guitar",
+     "duracao": "5:32"
+    },
+    {
+     "n": 9,
+     "titulo": "He Was the King",
+     "duracao": "6:08"
+    },
+    {
+     "n": 10,
+     "titulo": "When God Made Me",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 73,
+    "media": 8.0,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Prairie_Wind",
+   "resumo_en": "Prairie Wind is the twenty-eighth studio album by Canadian / American musician Neil Young, released on September 27, 2005. \nAfter an album rooted in 1960s soul music, Are You Passionate?, and the musical novel Greendale,  Prairie Wind features an acoustic-based sound reminiscent of his earlier commercially successful albums Harvest and Harvest Moon. The album's songs find Young pondering his own mortality, as he was undergoing treatment for an aneurysm during the album's production. Songs were also inspired by the extended illness of his father, Canadian sportswriter and novelist Scott Young, who passed a few weeks after the album was completed. The album is dedicated in part to the elder Young.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "216257f0-a33b-3b29-b7ff-5d133fef3691",
+   "titulo": "Living With War",
+   "data": "2006-05-02",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/e5268fbf-ebf8-484c-9ceb-ee224abe0199/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "After the Garden",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Living With War",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "The Restless Consumer",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Shock and Awe",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Families",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Flags of Freedom",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Let's Impeach the President",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Lookin' for a Leader",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Roger and Out",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "America the Beautiful",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 77,
+    "media": 8.1,
+    "fontes": 8
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Living_with_War",
+   "resumo_en": "Living with War is the twenty-ninth studio album by Canadian-American musician Neil Young, released on May 2, 2006. The album's lyrics, titles, and conceptual style are highly critical of the policies of the George W. Bush administration; the CTV website described it as \"a musical critique of U.S. President George W. Bush and his conduct of the war in Iraq\". The record was written and recorded over nine days in March and April 2006.\nLiving with War was nominated for a Grammy and Juno Award.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "96c4d48d-12fc-36ec-8871-bc7ffd3af976",
+   "titulo": "Chrome Dreams II",
+   "data": "2007-10-19",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/189618aa-672c-413b-8a8f-733ba7717545/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beautiful Bluebird",
+     "duracao": "4:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Boxcar",
+     "duracao": "2:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Ordinary People",
+     "duracao": "18:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Shining Light",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "The Believer",
+     "duracao": "2:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Spirit Road",
+     "duracao": "6:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Dirty Old Man",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Ever After",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "No Hidden Path",
+     "duracao": "14:33"
+    },
+    {
+     "n": 10,
+     "titulo": "The Way",
+     "duracao": "5:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Beautiful Bluebird",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Boxcar",
+     "duracao": "2:46"
+    },
+    {
+     "n": 13,
+     "titulo": "Ordinary People",
+     "duracao": "18:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Shining Light",
+     "duracao": "4:45"
+    },
+    {
+     "n": 15,
+     "titulo": "The Believer",
+     "duracao": "2:44"
+    },
+    {
+     "n": 16,
+     "titulo": "Spirit Road",
+     "duracao": "6:34"
+    },
+    {
+     "n": 17,
+     "titulo": "Dirty Old Man",
+     "duracao": "3:20"
+    },
+    {
+     "n": 18,
+     "titulo": "Ever After",
+     "duracao": "3:34"
+    },
+    {
+     "n": 19,
+     "titulo": "No Hidden Path",
+     "duracao": "14:33"
+    },
+    {
+     "n": 20,
+     "titulo": "The Way",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 133,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 76,
+    "media": 6.8,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chrome_Dreams_II",
+   "resumo_en": "Chrome Dreams II is the thirtieth studio album by Canadian-American musician Neil Young. The album was released on October 23, 2007, as a double LP and as a single CD. The album name references Chrome Dreams, a legendary Neil Young album from 1977 that had originally been scheduled for release but was shelved in favor of American Stars 'n Bars.\nThe album debuted on the US Billboard 200 chart at number 11, selling about 54,000 copies in its first week. In addition, the song \"No Hidden Path\" was nominated for a Grammy Award for Best Solo Rock Vocal Performance at the 51st Grammy Awards, 2009.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1a008644-4e8b-3b25-af5d-cca8c6c07565",
+   "titulo": "Fork in the Road",
+   "data": "2009-04-03",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/ce5bb1e9-95f0-41d2-81fd-efd852e42b8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When Worlds Collide",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Fuel Line",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Just Singing a Song",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Johnny Magic",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Cough Up the Bucks",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Get Behind the Wheel",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Off the Road",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Hit the Road",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Light a Candle",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Fork in the Road",
+     "duracao": "5:47"
+    },
+    {
+     "n": 11,
+     "titulo": "When Worlds Collide",
+     "duracao": "4:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Fuel Line",
+     "duracao": "3:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Just Singing a Song",
+     "duracao": "3:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Johnny Magic",
+     "duracao": "4:18"
+    },
+    {
+     "n": 15,
+     "titulo": "Cough Up the Bucks",
+     "duracao": "4:37"
+    },
+    {
+     "n": 16,
+     "titulo": "Get Behind the Wheel",
+     "duracao": "3:08"
+    },
+    {
+     "n": 17,
+     "titulo": "Off the Road",
+     "duracao": "3:21"
+    },
+    {
+     "n": 18,
+     "titulo": "Hit the Road",
+     "duracao": "3:36"
+    },
+    {
+     "n": 19,
+     "titulo": "Light a Candle",
+     "duracao": "3:01"
+    },
+    {
+     "n": 20,
+     "titulo": "Fork in the Road",
+     "duracao": "5:46"
+    },
+    {
+     "n": 21,
+     "titulo": "A Day in the Life",
+     "duracao": "8:41"
+    },
+    {
+     "n": 22,
+     "titulo": "Fork in the Road (Music video)",
+     "duracao": "5:51"
+    },
+    {
+     "n": 23,
+     "titulo": "Just Singing a Song (Music video)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 24,
+     "titulo": "Light a Candle (Music video)",
+     "duracao": "3:04"
+    }
+   ],
+   "duracao_min": 99,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 61,
+    "media": 6.2,
+    "fontes": 7
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fork_in_the_Road",
+   "resumo_en": "Fork in the Road is the thirty-first studio album by Canadian / American musician Neil Young, released April 7, 2009, on Reprise Records. The album was released on vinyl on July 26, 2009.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5e99955a-e88c-45a7-9875-cac4561cc6fc",
+   "titulo": "Le Noise",
+   "data": "2010-09-24",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/1152057c-e6e9-4a3e-b4b7-8dcfc281f8af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walk With Me",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Sign of Love",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Someone’s Gonna Rescue You",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Love and War",
+     "duracao": "5:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Angry World",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Hitchhiker",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Peaceful Valley Boulevard",
+     "duracao": "7:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Rumblin’",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "End Credits",
+     "duracao": "0:35"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 80,
+    "media": 8.4,
+    "fontes": 10
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Le_Noise",
+   "resumo_en": "Le Noise is the thirty-second studio album by Canadian / American musician Neil Young, released on September 28, 2010. The album was recorded in Los Angeles and produced by Daniel Lanois, hence the titular pun. The album consists of Young performing solo, mostly on electric guitar with echo effects, distortion and feedback. The sessions coincided with the death of two of Young's longtime collaborators, filmmaker L.A. Johnson and steel guitarist Ben Keith, influencing some of the lyrics. Lanois also experienced a near-fatal motorcycle accident during recording. The album is the first collaboration between the two Canadians.",
+   "spotify": "4j9JVeEgEEiwYyYMiueTvG",
+   "youtube": null
+  },
+  {
+   "id": "ef8ed8fa-e3df-43e3-9a81-43161e1646e4",
+   "titulo": "Americana",
+   "data": "2012-06-04",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/399e3662-a559-48df-8be8-9be51c7b39b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Oh Susannah",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Clementine",
+     "duracao": "5:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Tom Dula",
+     "duracao": "8:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Gallows Pole",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Get a Job",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Travel On",
+     "duracao": "6:47"
+    },
+    {
+     "n": 7,
+     "titulo": "High Flyin’ Bird",
+     "duracao": "5:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Jesus’ Chariot",
+     "duracao": "5:38"
+    },
+    {
+     "n": 9,
+     "titulo": "This Land Is Your Land",
+     "duracao": "5:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Wayfarin’ Stranger",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "God Save the Queen",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4c5857a3-d19e-4b46-bb26-c0a972e22c66",
+   "titulo": "Psychedelic Pill",
+   "data": "2012-10-26",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/8da873e1-cf35-4a72-9470-d9cbd832f851/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Driftin’ Back",
+     "duracao": "27:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Psychedelic Pill",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Ramada Inn",
+     "duracao": "16:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Born in Ontario",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Twisted Road",
+     "duracao": "3:29"
+    },
+    {
+     "n": 6,
+     "titulo": "She’s Always Dancing",
+     "duracao": "8:33"
+    },
+    {
+     "n": 7,
+     "titulo": "For the Love of Man",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Walk Like a Giant",
+     "duracao": "16:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Psychedelic Pill (alternate mix)",
+     "duracao": "3:12"
+    }
+   ],
+   "duracao_min": 88,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7205caa1-c399-4b8c-bd2c-9711394669e2",
+   "titulo": "A Letter Home",
+   "data": "2014-04-18",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/5bd40931-bf05-4b4a-92c0-eba5f7ccbfd7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Letter Home Intro",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Changes",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Girl From the North Country",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Needle of Death",
+     "duracao": "4:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Early Morning Rain",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Crazy",
+     "duracao": "2:20"
+    },
+    {
+     "n": 7,
+     "titulo": "A Letter Home intro #2 / Reason to Believe",
+     "duracao": "2:49"
+    },
+    {
+     "n": 8,
+     "titulo": "On the Road Again",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "If You Could Read My Mind",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Since I Met You Baby",
+     "duracao": "2:13"
+    },
+    {
+     "n": 11,
+     "titulo": "My Hometown",
+     "duracao": "4:08"
+    },
+    {
+     "n": 12,
+     "titulo": "I Wonder If I Care as Much",
+     "duracao": "2:32"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 70,
+    "media": 7.3,
+    "fontes": 9
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Letter_Home",
+   "resumo_en": "A Letter Home is the thirty-fifth studio album by Canadian / American musician Neil Young. Released on April 19, 2014, on Record Store Day by Third Man Records, it was produced by Young in collaboration with Jack White of The White Stripes.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7214755f-759a-4f60-8b70-f17e4bc9b968",
+   "titulo": "Storytone",
+   "data": "2014-11-03",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/7c2d2833-dcc6-4080-89c1-aa3cacb62e6b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Plastic Flowers",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Who’s Gonna Stand Up?",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "I Want to Drive My Car",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Glimmer",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Say Hello to Chicago",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Tumbleweed",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Like You Used to Do",
+     "duracao": "2:40"
+    },
+    {
+     "n": 8,
+     "titulo": "I'm Glad I Found You",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "When I Watch You Sleeping",
+     "duracao": "5:30"
+    },
+    {
+     "n": 10,
+     "titulo": "All Those Dreams",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 60,
+    "media": 6.2,
+    "fontes": 10
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Storytone",
+   "resumo_en": "Storytone is the thirty-sixth studio album by Canadian-American musician Neil Young, released on November 4, 2014, on Reprise Records. The album was released in two formats: a single disc, which features orchestral and big band arrangements of the songs, and a deluxe edition which includes stripped-back recordings of the songs. Young subsequently released a third version of the album, Mixed Pages of Storytone, merging elements of both, later in the year.\nStorytone is the second studio album Neil Young released in 2014, following the predominantly lo-fi release A Letter Home.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0418e242-9fc7-4468-b96c-7357122e0f82",
+   "titulo": "The Monsanto Years",
+   "data": "2015-06-26",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/3ddfa83e-6bbb-4a6c-ae09-0f6365eb680b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A New Day for Love",
+     "duracao": "5:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Wolf Moon",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "People Want to Hear About Love",
+     "duracao": "6:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Big Box",
+     "duracao": "8:17"
+    },
+    {
+     "n": 5,
+     "titulo": "A Rock Star Bucks a Coffee Shop",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Workin’ Man",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Rules of Change",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Monsanto Years",
+     "duracao": "7:46"
+    },
+    {
+     "n": 9,
+     "titulo": "If I Don’t Know",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 61,
+    "media": 6.8,
+    "fontes": 9
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Monsanto_Years",
+   "resumo_en": "The Monsanto Years is the thirty-seventh studio album by Canadian-American singer-songwriter Neil Young and the American rock group Promise of the Real, released on June 29, 2015, on Reprise Records.  A concept album which criticizes the agribusiness company Monsanto, it is Young's thirty-fifth studio album and the third by Promise of the Real. The album is the first collaboration between Young and Promise of the Real. The group is fronted by Lukas Nelson and features his brother Micah, both sons of Willie Nelson.\nThe album was produced by both Young and John Hanlon, and is accompanied by a film documenting the recording process.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d45f18c5-249d-490b-83ce-efabd0f8f650",
+   "titulo": "Peace Trail",
+   "data": "2016-12-02",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/78de37a0-b7c6-49fa-8fae-066bb370af4b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Peace Trail",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Can’t Stop Workin’",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Indian Givers",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Show Me",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Texas Rangers",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Terrorist Suicide Hang Gliders",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "John Oaks",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "My Pledge",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Glass Accident",
+     "duracao": "2:52"
+    },
+    {
+     "n": 10,
+     "titulo": "My New Robot",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "metacritic": 57,
+    "media": 5.6,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Peace_Trail_%28album%29",
+   "resumo_en": "Peace Trail is the thirty-eighth studio album by Canadian / American singer-songwriter Neil Young, released on December 9, 2016, on Reprise Records. Co-produced by Young and John Hanlon, the album was recorded at record producer Rick Rubin's Shangri-La Studios.\nDescribed as a \"primarily acoustic\" album, Young recorded Peace Trail with drummer Jim Keltner and bass guitarist Paul Bushnell.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0ac81b52-8ed5-4d97-8731-cb328878d60e",
+   "titulo": "Hitchhiker",
+   "data": "2017-09-08",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/afdec6bb-1fa9-4f39-ac6f-46106c7d95bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pocahontas",
+     "duracao": "3:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Powderfinger",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Captain Kennedy",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Hawaii",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Give Me Strength",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Ride My Llama",
+     "duracao": "1:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Hitchhiker",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Campaigner",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Human Highway",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "The Old Country Waltz",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 85,
+    "media": 8.6,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hitchhiker_%28album%29",
+   "resumo_en": "Hitchhiker is the thirty-ninth studio album by Canadian / American singer-songwriter Neil Young, issued September 8, 2017, on Reprise Records. It is the ninth release in Young's ongoing archival release series and the first of the Special Release series.\nCo-produced by Young and David Briggs with post-production from John Hanlon, the album was originally recorded on August 11, 1976, at Indigo Ranch Recording Studio in Malibu, California. Young intended to release the album shortly after it was recorded, but executives at Reprise felt that it \"wasn't a real record, but a collection of demos\", with the musician saying that he \"was advised to record the songs with a band\".\nEight of the ten songs found on Hitchhiker were released on various Neil Young studio albums over the next three decades, though mostly as versions from different live or studio recordings. Three songs from the session (\"Captain Kennedy\", \"Pocahontas\" and \"Campaigner\") were released in nearly the same form as they are found on Hitchhiker. Two of the songs (\"Hawaii\" and \"Give Me Strength\") were previously unreleased in any form prior to this album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a122d799-ec7d-4c36-a593-c7c6f9a4ab6b",
+   "titulo": "The Visitor",
+   "data": "2017-12-01",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/473d5c62-2c5d-4350-ae85-52e8a0892407/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Already Great",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Fly by Night Deal",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Almost Always",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Stand Tall",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Change of Heart",
+     "duracao": "5:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Carnival",
+     "duracao": "8:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Diggin’ a Hole",
+     "duracao": "2:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Children of Destiny",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "When Bad Got Good",
+     "duracao": "2:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Forever",
+     "duracao": "10:32"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 5.0,
+    "metacritic": 68,
+    "media": 6.5,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Visitor_%28Neil_Young_and_Promise_of_the_Real_album%29",
+   "resumo_en": "The Visitor is the fortieth studio album by Canadian / American singer-songwriter Neil Young and his second studio album with American rock group Promise of the Real. The album was released on December 1, 2017, on Reprise Records. The album was preceded by the singles \"Children of Destiny\", which was released on July 4, 2017, and \"Already Great\", which was released on November 3, 2017, and is in response to President Donald Trump's campaign slogan of Make America Great Again.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2c833176-6bea-4b75-ab97-bf35237d947b",
+   "titulo": "Paradox",
+   "data": "2018-03-23",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/3e4c237f-be3d-4822-9323-1a7616b2fe89/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Many Moons Ago in the Future",
+     "duracao": "0:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Show Me",
+     "duracao": "1:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Paradox Passage 1",
+     "duracao": "2:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Hey",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Paradox Passage 2",
+     "duracao": "1:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Diggin’ in the Dirt (chorus)",
+     "duracao": "1:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Paradox Passage 3",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Peace Trail",
+     "duracao": "5:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Pocahontas",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Cowgirl Jam",
+     "duracao": "10:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Angel Flying Too Close to the Ground",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Paradox Passage 4",
+     "duracao": "0:13"
+    },
+    {
+     "n": 13,
+     "titulo": "Diggin’ in the Dirt",
+     "duracao": "3:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Paradox Passage 5",
+     "duracao": "0:23"
+    },
+    {
+     "n": 15,
+     "titulo": "Running to the Silver Eagle",
+     "duracao": "2:53"
+    },
+    {
+     "n": 16,
+     "titulo": "Baby What You Want Me to Do?",
+     "duracao": "1:22"
+    },
+    {
+     "n": 17,
+     "titulo": "Paradox Passage 6",
+     "duracao": "0:17"
+    },
+    {
+     "n": 18,
+     "titulo": "Offerings",
+     "duracao": "0:50"
+    },
+    {
+     "n": 19,
+     "titulo": "How Long?",
+     "duracao": "2:26"
+    },
+    {
+     "n": 20,
+     "titulo": "Happy Together",
+     "duracao": "0:45"
+    },
+    {
+     "n": 21,
+     "titulo": "Tumbleweed",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Paradox_%28soundtrack%29",
+   "resumo_en": "Paradox is a soundtrack album by Neil Young and Promise of the Real released on March 23, 2018, on Shakey Pictures Inc. The album serves as the soundtrack to Daryl Hannah's 2018 film, Paradox, in which Young also stars. It is the third studio album recorded by Young and Promise of the Real.",
+   "spotify": "3giccb3w6RXNQ4oKRCx20b",
+   "youtube": null
+  },
+  {
+   "id": "2925051b-6052-4ac7-ac64-465a1e5173ed",
+   "titulo": "Colorado",
+   "data": "2019-10-25",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/f16deee6-1f5c-490f-ba1f-74e0e2a84117/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Think of Me",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "She Showed Me Love",
+     "duracao": "13:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Olden Days",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Help Me Lose My Mind",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Green Is Blue",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Shut It Down",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Milky Way",
+     "duracao": "5:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Eternity",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Rainbow of Colors",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "I Do",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 79,
+    "media": 7.7,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Colorado_%28Neil_Young_and_Crazy_Horse_album%29",
+   "resumo_en": "Colorado is the forty-first studio album by Canadian-American singer-songwriter Neil Young (and his first studio album with Crazy Horse since 2012), released on October 25, 2019, by Reprise Records. The album was preceded by the singles \"Milky Way\" (released on August 30, 2019) and \"Rainbow of Colors\" (released on September 12, 2019) and is dedicated to Elliot Roberts, Young's manager since 1967, who died aged 76 on June 21, 2019. It was also the first album to feature Nils Lofgren as a member of Crazy Horse since 1971.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "de8c4624-9d37-416b-b87c-7711bd6c1743",
+   "titulo": "Homegrown",
+   "data": "2020-06-19",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/6038804d-0361-4a59-b3be-139a7c6aebbe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Separate Ways",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Try",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Mexico",
+     "duracao": "1:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Is a Rose",
+     "duracao": "2:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Homegrown",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Florida",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Kansas",
+     "duracao": "2:11"
+    },
+    {
+     "n": 8,
+     "titulo": "We Don’t Smoke It No More",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "White Line",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Vacancy",
+     "duracao": "3:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Little Wing",
+     "duracao": "2:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Star of Bethlehem",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 88,
+    "media": 8.4,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Homegrown_%28Neil_Young_album%29",
+   "resumo_en": "Homegrown is the forty-second studio album by Canadian-American Neil Young. It was released on June 19, 2020, by Reprise Records. The album consists of material recorded between June 1974 and January 1975. The album was recorded after the release of On the Beach and before the sessions for Zuma.  Like those two albums, much of the material was inspired by Young's relationship with actress Carrie Snodgress, which was deteriorating in 1974.  The album was compiled and prepared for release in 1975.  Instead, Tonight's the Night was released, and Homegrown remained unreleased for 45 years.  It was finally set for release as part of Record Store Day 2020, amid Neil Young's ongoing Archives campaign. Its release was again delayed by Record Store Day's postponement due to the COVID-19 pandemic, before finally seeing release on June 19.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f1c2f62b-60e5-4273-8365-1bf16bc61664",
+   "titulo": "Barn",
+   "data": "2021-12-10",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/1e993422-2bc4-444e-9fa9-c7f4a17abcfd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Song of the Seasons",
+     "duracao": "6:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Heading West",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Change Ain’t Never Gonna",
+     "duracao": "2:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Canerican",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Shape of You",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "They Might Be Lost",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Human Race",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Tumblin’ Thru the Years",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Welcome Back",
+     "duracao": "8:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Forget Love",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 75,
+    "media": 7.5,
+    "fontes": 9
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Barn_%28album%29",
+   "resumo_en": "Barn is the forty-third studio album by Canadian-American singer-songwriter Neil Young and his 14th with American rock band Crazy Horse. The album was released on December 10, 2021, by Reprise Records. A stand-alone film of the same name directed by Young's wife Daryl Hannah was also released for streaming and on Blu-ray.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6ec783cd-e2ac-4bc3-87a1-517fd9b943db",
+   "titulo": "Toast",
+   "data": "2022-07-08",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/7540a029-3e90-43c9-b04c-987e598d7f9f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Quit",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Standing in the Light of Love",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Goin' Home",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Timberline",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Gateway of Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "How Ya Doin' ?",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Boom Boom Boom",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d6482158-f345-42ef-a37c-553c0db8b95d",
+   "titulo": "World Record",
+   "data": "2022-11-18",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/48378232-ae2a-475e-9936-26f6002e57e8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Earth",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Overhead",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "I Walk With You (Earth Ringtone)",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "This Old Planet (Changing Days)",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "The World (Is in Trouble Now)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Break the Chain",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "The Long Day Before",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Walkin’ on the Road (To the Future)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "The Wonder Won’t Wait",
+     "duracao": "3:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Chevrolet",
+     "duracao": "15:15"
+    },
+    {
+     "n": 11,
+     "titulo": "This Old Planet (reprise)",
+     "duracao": "1:19"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 75,
+    "media": 7.7,
+    "fontes": 9
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/World_Record_%28Neil_Young_and_Crazy_Horse_album%29",
+   "resumo_en": "World Record is the forty-fifth studio album by Canadian-American singer-songwriter Neil Young and his 15th with Crazy Horse, released on November 18, 2022, through Reprise Records. The album was produced by Young and Rick Rubin, and preceded by the lead single \"Love Earth\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7a32914a-9cae-4875-97f7-8bab73e66873",
+   "titulo": "All Roads Lead Home",
+   "data": "2023-03-31",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/019db0cf-48b6-4147-8e59-836d4ae09312/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rain",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You Will Never Know",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "It’s Magical",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Song of the Seasons",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Cherish",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Fill My Cup",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Look Through the Eyes of Your Heart",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Hunter",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Go With Me",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Just for You",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0c66f1a6-edb1-42f3-b222-9b230a2ae518",
+   "titulo": "Dume",
+   "data": "2024-02-23",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/60414897-1279-4690-81bd-62058b377b5d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ride My Llama",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Cortez the Killer",
+     "duracao": "7:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Cry No Tears",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Born to Run",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Barstool Blues",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Danger Bird",
+     "duracao": "6:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Stupid Girl",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Kansas",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Powderfinger",
+     "duracao": "7:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Hawaii",
+     "duracao": "4:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Drive Back",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Lookin' for a Love",
+     "duracao": "3:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Pardon My Heart",
+     "duracao": "3:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Too Far Gone",
+     "duracao": "2:42"
+    },
+    {
+     "n": 15,
+     "titulo": "Pocahontas",
+     "duracao": "3:30"
+    },
+    {
+     "n": 16,
+     "titulo": "No One Seems to Know",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "307f6655-57db-430b-b8ce-35bead8b732c",
+   "titulo": "Early Daze",
+   "data": "2024-05-18",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/5204655b-c4b5-4660-bae0-b2e37bf68e3f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dance Dance Dance",
+     "duracao": "2:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Come On Baby Let’s Go Downtown",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Winterlong",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Everybody’s Alone",
+     "duracao": "2:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Wonderin’",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Cinnamon Girl",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Look at All the Things",
+     "duracao": "2:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Helpless",
+     "duracao": "4:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Birds",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Down by the River",
+     "duracao": "9:03"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "006fa681-d0d6-438f-b433-d397863ce61d",
+   "titulo": "Oceanside Countryside",
+   "data": "2024-09-06",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/611c7084-faf5-419f-9cb3-538716ba17b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sail Away",
+     "duracao": "3:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Lost In Space",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Captain Kennedy",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Goin’ Back",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Human Highway",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Field of Opportunity",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Dance Dance Dance",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "The Old Homestead",
+     "duracao": "7:09"
+    },
+    {
+     "n": 9,
+     "titulo": "It Might Have Been",
+     "duracao": "2:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Pocahontas",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9ac8cc05-e699-4e5e-892a-e30191981fd5",
+   "titulo": "Talkin to the Trees",
+   "data": "2025-06-13",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/527b1201-0fde-4aa7-a145-387371a11425/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Family Life",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Dark Mirage",
+     "duracao": "5:39"
+    },
+    {
+     "n": 3,
+     "titulo": "First Fire of Winter",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Silver Eagle",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Lets Roll Again",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Big Change",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Talkin to the Trees",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Movin Ahead",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Bottle of Love",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Thankful",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 71,
+    "media": 7.1,
+    "fontes": 10
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Talkin_to_the_Trees",
+   "resumo_en": "Talkin to the Trees is the forty-ninth studio album by Neil Young. It was released on June 13, 2025, through The Other Shoe Productions and Reprise Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1dd90467-9b76-41d5-8759-a96b9cc1d938",
+   "titulo": "Second Song",
+   "data": "2026-09-18",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/6317c427-c03e-4691-b0a1-7713e6f4ff43/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Foggy Edge of Time",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Day After Day",
+     "duracao": "7:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Earth Girl",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Second Song",
+     "duracao": "11:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Casting Me Away From You",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Soon I Might Be Going",
+     "duracao": "9:14"
+    },
+    {
+     "n": 7,
+     "titulo": "I’ll Love You Forever",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.3,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Second_Song",
+   "resumo_en": "Second Song is the fiftieth studio album by Neil Young, released on September 18, 2026, by Reprise Records. Recorded at Shangri La in Malibu and produced by Lou Adler, it is his second album recorded with his band the Chrome Hearts. It follows Young's previous album Talkin' to the Trees, also produced by Adler and recorded at Shangri La. The first single, the title track, released on August 7, runs for nearly 11 and a half minutes long.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

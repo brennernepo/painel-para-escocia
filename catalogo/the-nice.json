@@ -1,0 +1,226 @@
+{
+ "id": "the-nice",
+ "nome": "The Nice",
+ "cena": "Descobertas do acervo",
+ "mbid": "db301158-fdfd-49f6-be50-4909dbbc1e53",
+ "wikidata": "Q900864",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "1970",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "symphonic prog"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nice_1970.JPG/500px-Nice_1970.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Nice",
+ "resumo_pt": "The Nice foi uma banda britânica de rock progressivo dos anos 1960, conhecida pela sua mistura única de rock, jazz e música erudita. O tecladista Keith Emerson formou o grupo e lançou o álbum de estreia, The Thoughts of Emerlist Davjack, sendo considerado por muitos como o primeiro álbum de rock progressivo. Além de Emerson, o grupo ainda contava com o baixista e vocalista Lee Jackson, o baterista Brian Davison e o guitarrista David O'List.",
+ "resumo_en": "The Nice were an English progressive rock band active in the late 1960s. They blended rock, jazz and classical music and were keyboardist Keith Emerson's first commercially successful band.\nThe group was formed in 1967 by Emerson, Lee Jackson, David O'List and Ian Hague to back soul singer P. P. Arnold. After replacing Hague with Brian Davison, the group set out on their own, quickly developing a strong live following. The group's stage performances featured Emerson's Hammond organ showmanship and abuse of the instrument. Their compositions included radical rearrangements of classical music themes and Bob Dylan songs.\nThe band achieved commercial success with an instrumental rearrangement of Leonard Bernstein's \"America\", following which O'List left the group. The remaining members carried on as a trio, releasing several albums, before Emerson left the band in early 1970 in order to form Emerson, Lake & Palmer. The group briefly re-formed in 2002 for a series of concerts.",
+ "albuns": [
+  {
+   "id": "0a969444-de45-3611-baac-ddbde18cc3a4",
+   "titulo": "The Thoughts of Emerlist Davjack",
+   "data": "1968-05",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/3b202659-9251-4fa1-8166-1f486a5c6d4a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flower King of Flies",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Thoughts of Emerlist Davjack",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Bonnie K",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Rondo",
+     "duracao": "8:22"
+    },
+    {
+     "n": 5,
+     "titulo": "War and Peace",
+     "duracao": "5:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Tantalising Maggie",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Dawn",
+     "duracao": "5:17"
+    },
+    {
+     "n": 8,
+     "titulo": "The Cry of Eugene",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Thoughts_of_Emerlist_Davjack",
+   "resumo_en": "The Thoughts of Emerlist Davjack is the 1968 debut album by English psychedelic and progressive rock band the Nice.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5388c096-b8c9-3471-88a6-4d481f354223",
+   "titulo": "Ars Longa Vita Brevis",
+   "data": "1968-11",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/b8c0333e-8512-446e-9686-26863eaa3759/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Daddy, Where Did I Come From",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Little Arabella",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Happy Freuds",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Intermezzo From the Karelia Suite / Don Edito el Gruva",
+     "duracao": "8:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Ars Longa Vita Brevis",
+     "duracao": "19:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Brandenburger (single version)",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ars_Longa_Vita_Brevis_%28album%29",
+   "resumo_en": "Ars Longa Vita Brevis is the second album by the English progressive rock group the Nice.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2484765f-b1dd-3a1b-af9d-e8aebcf3c55b",
+   "titulo": "Nice",
+   "data": "1969-08",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/b4f67a6a-75ac-36fa-ba21-2542e8366ba0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Azrael Revisited",
+     "duracao": "5:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Hang on to a Dream",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Diary of an Empty Day",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "For Example",
+     "duracao": "8:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Rondo (69)",
+     "duracao": "7:54"
+    },
+    {
+     "n": 6,
+     "titulo": "She Belongs to Me",
+     "duracao": "12:15"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nice_%28The_Nice_album%29",
+   "resumo_en": "Nice is the third and final studio album by The Nice; it was titled Everything As Nice As Mother Makes It in the US after Immediate broke their distribution deal with Columbia. Nice had been initially released in the US with a slightly longer version of \"Rondo 69\" not available on the UK or on the independently distributed US versions. The first US version of Nice was briefly reissued in 1973 by Columbia Special Products.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2dec8266-2ecd-3779-83f8-d99912cbb26b",
+   "titulo": "Elegy",
+   "data": "1971-04-02",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/4fb1286d-00b0-38a3-be04-6bb04e78a25d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hang on to a Dream",
+     "duracao": "12:43"
+    },
+    {
+     "n": 2,
+     "titulo": "My Back Pages",
+     "duracao": "9:12"
+    },
+    {
+     "n": 3,
+     "titulo": "3rd Movement Pathétique Symphony (live)",
+     "duracao": "7:05"
+    },
+    {
+     "n": 4,
+     "titulo": "America 2nd Amendment (live)",
+     "duracao": "10:27"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Elegy_%28The_Nice_album%29",
+   "resumo_en": "Elegy was the final official album release by The Nice, Keith Emerson having since moved on to Emerson, Lake & Palmer, Lee Jackson to Jackson Heights and Brian Davison to Every Which Way. It consists of live versions of songs from earlier releases, a studio take of a Tchaikovsky piece (\"Pathetique\") that had been released live on the previous album and a previously unheard reinterpretation of Dylan's \"My Back Pages\". Released a year after The Nice's final show in March 1970 in an attempt to capitalize on ELP's burgeoning success, the album achieved number 5 in the UK album chart.\n\"Hang on to a Dream\" and \"America\" were recorded live at Fillmore East, New York during the group's 1969 tour. It was during this tour that The Nice shared a bill with King Crimson, which led to Keith Emerson and Greg Lake hooking up to form a new band, Emerson, Lake & Palmer. \"Hang On To A Dream\" features extensive use of Emerson striking the interior piano strings, while \"America\" closes with several minutes of Hammond organ feedback. The two studio outtakes, \"My Back Pages\" and \"Third Movement, Pathetique\" had been recorded in 1969; \"My Back Pages\" featured a section which would be requoted on ELP's \"Bl",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

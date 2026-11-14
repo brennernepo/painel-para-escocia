@@ -1,0 +1,1333 @@
+{
+ "id": "cabaret-voltaire",
+ "nome": "Cabaret Voltaire",
+ "cena": "Descobertas do acervo",
+ "mbid": "439a29ad-f4ef-4857-a7cd-3d4a551056c8",
+ "wikidata": "Q1024747",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1973",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "industrial",
+  "post-punk",
+  "electronic",
+  "electro-industrial",
+  "minimal synth"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Richard_H_Kirk_DJ_at_Music_For_Real_Airports_Project_2010-04-24.jpg/500px-Richard_H_Kirk_DJ_at_Music_For_Real_Airports_Project_2010-04-24.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Cabaret_Voltaire_%28banda%29",
+ "resumo_pt": "Cabaret Voltaire foi uma banda britânica de música industrial e experimental, criada em 1974, na cidade de Sheffield, por Richard H. Kirk (guitarra), Stephen Mallinder (baixo) e Chris Watson (efeitos especiais). O seu nome tem origem do clube suíço Cabaret Voltaire, um espaço de cultura dadaísta.\nTal como a origem do seu nome, a banda também era influenciada por aquele movimento artístico, dando-lhes uma postura em palco que juntava a música a actos teatrais.\nNo início, o estilo musical da banda era marcado por influências punk junto com samples. A partir de 1983, já sem Chris Watson, que tinha deixado o grupo, e o som dos Cabaret Voltaire torna-se menos agressivo e mais dançável.\nO último trabalho gravado foi The Conversation, (1994), após o qual a banda termina, e os seus membros seguem uma carreira a solo.\nEm 2020, o grupo lançou \"Shadow of Fear\", o seu primeiro álbum em 26 anos.",
+ "resumo_en": "Cabaret Voltaire are an English music group formed in Sheffield in 1973 and initially composed of Stephen Mallinder, Richard H. Kirk, and Chris Watson. Named after the Zürich nightclub that fostered the early Dada movement, the band are often characterised as among the most innovative and influential electronic acts of their era.\nThe band's early work consisted of experimentation with DIY electronics and tape recorders, as well as Dada-influenced performance art, helping to pioneer industrial music in the mid-1970s. Finding an audience during the post-punk era, they gradually incorporated more conventional elements of synthpop, techno, house and funk styles. After Watson's departure in 1981, the group continued as a two-piece until disbanding in 1994. Kirk revived the name as a solo project from 2009 until his death in 2021.\nWatson and Mallinder announced on 13 May 2025 they would be performing a 50th anniversary gig on 25 October 2025 as part of the Sensoria Festival in Sheffield.",
+ "albuns": [
+  {
+   "id": "2b4acc81-00bc-4529-8255-777f392a2759",
+   "titulo": "Chance Versus Causality",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/eb2e3ec9-f559-4f81-ab36-d78810ea5af2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chance Versus Causality, Part 1",
+     "duracao": "7:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Chance Versus Causality, Part 2",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Chance Versus Causality, Part 3",
+     "duracao": "12:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Chance Versus Causality, Part 4",
+     "duracao": "9:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Chance Versus Causality, Part 5",
+     "duracao": "8:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Chance Versus Causality, Part 6",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Chance Versus Causality, Part 7",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7eb4d191-c1f7-372d-89b8-fcfe8ed09abf",
+   "titulo": "Mix-Up",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/4e12b15f-3cc5-402c-a401-639517ded1e4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kirlian Photograph",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "No Escape",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Fourth Shot",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Heaven and Hell",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Eyeless Sight (live)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Photophobia",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "On Every Other Street",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Expect Nothing",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Capsules",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.0,
+    "fontes": 9
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mix-Up",
+   "resumo_en": "Mix-Up is the debut studio album by English band Cabaret Voltaire. It was released on 23 October 1979, through record label Rough Trade.",
+   "spotify": "2bLqH76ntyvu8Av1wQ4SA2",
+   "youtube": null
+  },
+  {
+   "id": "d3d93c52-3096-3582-b788-cdc1e7fefca6",
+   "titulo": "The Voice of America",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/68e8cce4-38eb-4355-ac20-281168bd7505/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Voice of America / Damage Is Done",
+     "duracao": "6:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Partially Submerged",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Kneel to the Boss",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Premonition",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "This Is Entertainment",
+     "duracao": "6:01"
+    },
+    {
+     "n": 6,
+     "titulo": "If the Shadows Could March? (1974)",
+     "duracao": "0:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Stay Out of It",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Obsession",
+     "duracao": "5:19"
+    },
+    {
+     "n": 9,
+     "titulo": "News From Nowhere",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Messages Received",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 10
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Voice_of_America_%28album%29",
+   "resumo_en": "The Voice of America is the third studio album by English band Cabaret Voltaire. It was released in July 1980, through record label Rough Trade.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ae8fc649-9fa5-3b97-a3ef-ead906f1ed74",
+   "titulo": "Red Mecca",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/6aa028a2-129b-4774-9714-633c9e7b17ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Touch of Evil",
+     "duracao": "3:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Sly Doubt",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Landslide",
+     "duracao": "2:08"
+    },
+    {
+     "n": 4,
+     "titulo": "A Thousand Ways",
+     "duracao": "10:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Red Mask",
+     "duracao": "6:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Split Second Feeling",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Mask",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Spread the Virus",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "A Touch of Evil (reprise)",
+     "duracao": "1:33"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.0,
+    "fontes": 10
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Red_Mecca",
+   "resumo_en": "Red Mecca is the fourth studio album by English industrial band Cabaret Voltaire, released in 17 August 1981 through Rough Trade Records.",
+   "spotify": "0emoji6WnpwLkvQxtoBjs9",
+   "youtube": null
+  },
+  {
+   "id": "3a7b0fd0-2fe0-38b8-91b4-d6522b5aafd0",
+   "titulo": "2×45",
+   "data": "1982-05",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/62f3cc03-3c33-4d86-8809-3f0a4b4ed9a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breathe Deep",
+     "duracao": "5:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Yashar",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Protection",
+     "duracao": "7:39"
+    },
+    {
+     "n": 4,
+     "titulo": "War of Nerves (T.E.S.)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Wait and Shuffle",
+     "duracao": "8:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Get Out of My Face",
+     "duracao": "13:10"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.0,
+    "fontes": 7
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/2x45",
+   "resumo_en": "2x45 is the fifth studio album by the English band Cabaret Voltaire. It was released in May 1982 through Rough Trade. This was the last studio album by the band to feature founding member Chris Watson, who had departed during its recording.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6774edf9-9a53-3ae1-a292-befeceac4cdf",
+   "titulo": "Johnny YesNo: The Original Soundtrack From the Motion Picture",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/a69d424c-989b-3d26-b06b-be1e5d475314/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Taxi Music",
+     "duracao": "14:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Hallucination Sequence",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "D. T.'s / Cold Turkey",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "The Quarry (In the Wilderness)",
+     "duracao": "5:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Title Sequence",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Taxi Music Dub",
+     "duracao": "8:33"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.4,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Yesno_%28soundtrack%29",
+   "resumo_en": "Johnny Yesno: The Original Soundtrack from the Motion Picture is an album by industrial band Cabaret Voltaire. It was made as a soundtrack to Peter Care's film of the same title, which in turn led to Peter Care directing the video for Cabaret Voltaire's hit song \"Sensoria\". This started a music video-making career for Peter Care, who has since then directed videos for R.E.M., Bruce Springsteen, Roy Orbison, and Depeche Mode, amongst others.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8dc2738a-a82b-316e-a699-2970e758a153",
+   "titulo": "The Crackdown",
+   "data": "1983-08",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/8b8f7569-f9a5-4380-997c-627e67cb3c83/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "24-24",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "In the Shadows",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Talking Time",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Animation",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Over and Over",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Just Fascination",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Why Kill Time (When You Can Kill Yourself)",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Haiti",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Crackdown",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Diskono",
+     "duracao": "5:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Doublevision",
+     "duracao": "4:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Moscow",
+     "duracao": "4:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Badge of Evil",
+     "duracao": "5:28"
+    }
+   ],
+   "duracao_min": 20,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Crackdown",
+   "resumo_en": "The Crackdown is the sixth studio album by English electronic band Cabaret Voltaire, released in August 1983 jointly through record labels Some Bizzare and Virgin. It was produced by the band themselves and Flood. Mixing their earlier experimental sound with more conventional dance rhythms, the album received positive reviews and was listed on NME's \"Albums of the Year\" in 1983.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "577e461e-11de-3363-a938-c3cb7744973e",
+   "titulo": "Micro‐Phonies",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/a7ad2759-13ad-40ba-8d0e-e71217eda58c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do Right",
+     "duracao": "6:43"
+    },
+    {
+     "n": 2,
+     "titulo": "The Operative",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Digital Rasta",
+     "duracao": "5:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Spies in the Wires",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Theme From Earthshaker",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "James Brown",
+     "duracao": "4:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Slammer",
+     "duracao": "5:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Heat",
+     "duracao": "4:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Sensoria",
+     "duracao": "6:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Sensoria (12″ mix)",
+     "duracao": "7:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Blue Heat (12″ mix)",
+     "duracao": "7:25"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Micro-Phonies_%28album%29",
+   "resumo_en": "Micro-Phonies is the sixth full-length studio album by British electronic band Cabaret Voltaire. Released 29 October 1984, the album was the group's most mainstream release to date, with the singles \"Sensoria\" and \"James Brown\" gaining popularity, especially the former, due to the music video finding MTV airplay. \nThe album sees Cabaret Voltaire continuing to change, pursuing the more electro and synthpop-oriented direction they had started shifting towards on The Crackdown.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b1a75bf9-6288-38d5-a022-1f64559134fc",
+   "titulo": "The Covenant, the Sword and the Arm of the Lord",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/2ee8e17e-b6d7-4578-b9f3-9e32ce91bce6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "L21ST",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Want You",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Hells Home",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Kickback",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Arm of the Lord",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Warm",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Golden Halos",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Motion Rotation",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Whip Blow",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "The Web",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 7
+   },
+   "publico": 8.7,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Covenant%2C_the_Sword%2C_and_the_Arm_of_the_Lord_%28album%29",
+   "resumo_en": "The Covenant, the Sword and the Arm of the Lord is the seventh full-length studio album by the electronic band Cabaret Voltaire. The album was released through Some Bizzare Records in November 1985. The album's title was shortened to The Arm of the Lord for the United States.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "88db2e40-9332-355a-9a21-3d64b64ac0ea",
+   "titulo": "Code",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/3454ec46-1a17-4aeb-b267-4e54554828db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Argue",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Sex, Money, Freaks",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Thank You America",
+     "duracao": "5:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Here to Go",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Trouble (Won’t Stop)",
+     "duracao": "5:07"
+    },
+    {
+     "n": 6,
+     "titulo": "White Car",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "No One Here",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Life Slips By",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Code",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Hey Hey",
+     "duracao": "3:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Here to Go (Little Dub)",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.8,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Code_%28album%29",
+   "resumo_en": "Code (stylized as C O D E) is the eighth studio album by the English electronic band Cabaret Voltaire, released in October 1987 by EMI Records.\nWhile the album itself failed to chart, it featured two songs that charted on the UK singles chart, with \"Don't Argue\" peaking at No. 69, and \"Here to Go\" peaking at No. 88.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "de9a3f18-f4ad-33b3-a245-6924a57594da",
+   "titulo": "Groovy, Laidback and Nasty",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/64d256fe-4215-4c8b-adeb-29010fa9c286/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Searchin'",
+     "duracao": "5:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Hypnotised",
+     "duracao": "5:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Minute by Minute",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Runaway",
+     "duracao": "6:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Keep On (I Got This Feeling)",
+     "duracao": "6:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Magic",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Time Beats",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Easy Life",
+     "duracao": "6:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Runaway",
+     "duracao": "7:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Magic",
+     "duracao": "6:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Searchin'",
+     "duracao": "6:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Rescue Me (City Lights)",
+     "duracao": "5:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Easy Life",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.2,
+    "fontes": 6
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Groovy%2C_Laidback_and_Nasty",
+   "resumo_en": "Groovy, Laidback and Nasty is the ninth studio album by the English electronic band Cabaret Voltaire, released in April 1990 by record label Parlophone.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f07b208a-5de9-3ae3-95ac-5e532fbd7333",
+   "titulo": "Body and Soul",
+   "data": "1991-03",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/f9de5251-00d7-4778-8303-1263f7811669/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Resistance",
+     "duracao": "6:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Shout",
+     "duracao": "6:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Happy",
+     "duracao": "6:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Decay",
+     "duracao": "2:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Chemistry",
+     "duracao": "6:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Vibration",
+     "duracao": "7:12"
+    },
+    {
+     "n": 7,
+     "titulo": "What Is Real",
+     "duracao": "7:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Western Land",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Walk Away",
+     "duracao": "5:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Alien Nation Funk",
+     "duracao": "7:07"
+    },
+    {
+     "n": 11,
+     "titulo": "What Is Real (Dreamtime mix)",
+     "duracao": "7:01"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "media": 6.7,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Body_and_Soul_%28Cabaret_Voltaire_album%29",
+   "resumo_en": "Body and Soul is the tenth studio album by English electronic band Cabaret Voltaire, released in March 1991 by Belgium-based label Les Disques du Crépuscule.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5e27adb5-c4c3-3352-8d61-10eecd706dc3",
+   "titulo": "Plasticity",
+   "data": "1992-10",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/e09c44e9-f0b5-4d7d-8f7d-fb90b5c65273/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Low Cool",
+     "duracao": "6:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Soul Vine (70 Billion People)",
+     "duracao": "7:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Resonator",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Inside the Electronic Revolution",
+     "duracao": "5:32"
+    },
+    {
+     "n": 5,
+     "titulo": "From Another Source",
+     "duracao": "6:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Deep Time",
+     "duracao": "7:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Back to Brazilia",
+     "duracao": "6:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Neuron Factory",
+     "duracao": "5:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Delmas 19",
+     "duracao": "6:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Cooled Out",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Invisible Generation",
+     "duracao": "6:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Soulenoid (Scream at the Right Time)",
+     "duracao": "8:44"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fb91b435-56e4-3062-8316-9ae7809c88e6",
+   "titulo": "International Language",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/aa7cc02a-5823-3614-90b5-952b33ea1eb9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Everything Is True",
+     "duracao": "10:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Radical Chic",
+     "duracao": "6:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Taxi Mutant",
+     "duracao": "10:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Let It Come Down",
+     "duracao": "9:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Afterglow",
+     "duracao": "8:00"
+    },
+    {
+     "n": 6,
+     "titulo": "The Root",
+     "duracao": "9:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Millenium",
+     "duracao": "6:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Belly of the Beast (Back in Babylon)",
+     "duracao": "8:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Other World",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/International_Language_%28album%29",
+   "resumo_en": "International Language is the twelfth studio album by English electronic band Cabaret Voltaire, released in October 1993 on the band's own label, Plastex.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "393b294d-f8ef-3a65-8e6b-da82d4c18d40",
+   "titulo": "The Conversation",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/08a42c26-98b5-3de7-91e6-20d4eb78be3c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Exterminating Angel (intro)",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Brutal but Clean",
+     "duracao": "11:01"
+    },
+    {
+     "n": 3,
+     "titulo": "The Message (An Original Hollywood Theme)",
+     "duracao": "8:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Let's Start",
+     "duracao": "8:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Night Rider",
+     "duracao": "9:54"
+    },
+    {
+     "n": 6,
+     "titulo": "I Think",
+     "duracao": "8:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Heat",
+     "duracao": "7:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Harmonic Parallel",
+     "duracao": "10:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Project80",
+     "duracao": "53:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Exterminating Angel (outro)",
+     "duracao": "7:57"
+    }
+   ],
+   "duracao_min": 132,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ca99acc8-7488-4f54-a9c1-f45aec12bd05",
+   "titulo": "Kora! Kora! Kora! The Cabaret Voltaire Versions",
+   "data": "2009-03-12",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/9e35d608-de19-484d-aeef-cfc152af7a4f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Skankenstein",
+     "duracao": "7:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Pop Your Bubble",
+     "duracao": "7:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Flow",
+     "duracao": "8:16"
+    },
+    {
+     "n": 4,
+     "titulo": "On My Mind",
+     "duracao": "7:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Burning",
+     "duracao": "6:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Crazy Things",
+     "duracao": "9:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Burning (reprise)",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "936c878b-c84b-4356-b42c-608f42e31eed",
+   "titulo": "Johnny Yesno Redux",
+   "data": "2011-11-14",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/2bd9ad22-4ac9-4da7-b585-42173b3dbd61/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Premonition 1",
+     "duracao": "6:40"
+    },
+    {
+     "n": 2,
+     "titulo": "News From Nowhere",
+     "duracao": "5:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Yashar (Insurgent Mix)",
+     "duracao": "6:22"
+    },
+    {
+     "n": 4,
+     "titulo": "If The Shadows Could March 1",
+     "duracao": "7:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Loosen The Clamp* 2 (Halloween Mix)",
+     "duracao": "5:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Invocation1",
+     "duracao": "5:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Partially Submerged 1",
+     "duracao": "11:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Hallucination Sequence 1",
+     "duracao": "7:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Invocation 2",
+     "duracao": "7:02"
+    },
+    {
+     "n": 10,
+     "titulo": "The Quarry 2",
+     "duracao": "6:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Taxi Music 1",
+     "duracao": "6:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Taxi Music 2",
+     "duracao": "7:13"
+    },
+    {
+     "n": 13,
+     "titulo": "Premonition 2",
+     "duracao": "5:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Hallucination Sequence 2",
+     "duracao": "6:34"
+    },
+    {
+     "n": 15,
+     "titulo": "The Quarry1",
+     "duracao": "5:18"
+    },
+    {
+     "n": 16,
+     "titulo": "Partially Submerged 2",
+     "duracao": "7:52"
+    },
+    {
+     "n": 17,
+     "titulo": "If The Shadows Could March 2",
+     "duracao": "4:16"
+    },
+    {
+     "n": 18,
+     "titulo": "Loosen The Clamp* 1",
+     "duracao": "5:42"
+    },
+    {
+     "n": 19,
+     "titulo": "Taxi Music 3",
+     "duracao": "8:12"
+    },
+    {
+     "n": 20,
+     "titulo": "Invocation 4",
+     "duracao": "7:14"
+    }
+   ],
+   "duracao_min": 135,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1c3ee426-26c8-4f9f-b8d9-472c97d82052",
+   "titulo": "Shadow of Fear",
+   "data": "2020-11-20",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/fd709a58-4429-4fb9-8295-625e0608d653/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Be Free",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The Power (of Their Knowledge)",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Night of the Jackal",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Microscopic Flesh Fragment",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Papa Nine Zero Delta United",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Universal Energy",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Vasto",
+     "duracao": "7:40"
+    },
+    {
+     "n": 8,
+     "titulo": "What’s Goin’ On",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 8,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 8.0,
+    "fontes": 7
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shadow_of_Fear_%28album%29",
+   "resumo_en": "Shadow of Fear is a studio album by Cabaret Voltaire, a project of English musician Richard H. Kirk. It was released on 20 November 2020 through Mute Records. It received generally favorable reviews from critics.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d3acf867-c359-4960-b479-bb3cc0f7e1bb",
+   "titulo": "Dekadrone",
+   "data": "2021-03-26",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/1c03bf24-19b2-45ff-a46c-5b225ff5d0b1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dekadrone",
+     "duracao": "49:55"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "56af90b2-16a0-4661-a7cb-bac43a9923dc",
+   "titulo": "BN9Drone",
+   "data": "2021-04-23",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/811bb9de-3c8f-47c5-90ff-0660418e73b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "BN9Drone",
+     "duracao": "64:01"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

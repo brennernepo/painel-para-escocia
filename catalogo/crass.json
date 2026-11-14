@@ -1,0 +1,757 @@
+{
+ "id": "crass",
+ "nome": "Crass",
+ "cena": "Descobertas do acervo",
+ "mbid": "c7437df4-6fac-4c89-99ae-f8640f268222",
+ "wikidata": "Q842336",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1977",
+ "fim": "1984",
+ "ativa": false,
+ "generos": [
+  "anarcho-punk",
+  "art punk",
+  "punk rock",
+  "experimental",
+  "experimental rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Crass2.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Crass",
+ "resumo_pt": "Crass foi uma banda anarco-punk inglesa formada em 1977 que promoveu o anarquismo como uma ideologia política, maneira de viver  e como um movimento de resistência. Crass popularizou o movimento anarco-punk seminal do movimento punk,  defendeu a ação direta, os direitos dos animais e o ambientalismo. A banda utilizou e defendeu uma abordagem  \"DIY\" (faça-você-mesmo), produziu colagens de som, gráficos, discos e filmes (Christ: The Movie) por conta própria sem apoio de outras gravadoras. Crass também criticaram e tentaram subverter a cultura dominante, promovendo o anti-racismo, a antiguerra e a antiglobalização.\nPraticaram sua filosofia de \"ação direta\" em grafitagens feitas com tinta de spray em torno do sistema de metrô de Londres e em cartazes de publicidade, coordenando squats e organizando a ação política. A banda também expressou seus ideais vestindo-se de preto, o excesso de roupas de estilo militar e a utilização de um \"backdrop\"  que amalgamou vários \"ícones da autoridade\" (incluindo a cruz cristã, a suástica e a bandeira do Reino Unido) e um ouroboros.\nA banda foi crítica do movimento punk em si, bem como a cultura mais ampla da juventude em geral. Crass promoveu o tipo de anarco-pacifismo que se tornou mais comum na cena da música punk. Eles também são considerados parte do gênero industrial, promovendo o uso de colagens de fita, gráficos, lançamentos de palavras faladas, a poesia e a improvisação.\nEles influenciaram o movimento anarquista no Reino Unido, Estados U",
+ "resumo_en": "Crass was an English art collective and punk rock band formed in Epping, Essex, in 1977 who promoted anarchism as a political ideology, a lifestyle, and a resistance movement. Crass popularised the anarcho-punk movement of the punk subculture, advocating direct action, animal rights, feminism, and environmentalism. The band employed and advocated a DIY ethic in its albums, sound collages, leaflets, and films.\nCrass spray-painted stencilled graffiti messages on the London Underground and on advertising-billboards, coordinated squats and organized political action. The band expressed its ideals by dressing in black, military-surplus-style clothing and using a stage backdrop amalgamating icons of perceived authority such as the Christian cross, the swastika, the Union Jack, and the ouroboros.\nThe band was critical of the punk subculture and youth culture in general; nevertheless, the anarchist ideas that they promoted have maintained a presence in punk. Because of their free experimentation and use of tape collages, graphics, spoken word releases, poetry, and improvisation, Crass has been associated with avant-punk and art punk.",
+ "albuns": [
+  {
+   "id": "007e8e7c-7c55-3fe6-889e-2d02c9b1f132",
+   "titulo": "Stations of the Crass",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/5f60ca6d-5080-48b2-88c0-3987692c8958/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mother Earth",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "White Punks on Hope",
+     "duracao": "2:22"
+    },
+    {
+     "n": 3,
+     "titulo": "You've Got Big Hands",
+     "duracao": "1:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Darling",
+     "duracao": "1:56"
+    },
+    {
+     "n": 5,
+     "titulo": "System",
+     "duracao": "0:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Big Man, Big M.A.N.",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Hurry Up Garry (The Parsons Farted)",
+     "duracao": "1:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Fun Going On",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Crutch of Society",
+     "duracao": "1:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Heard Too Much About",
+     "duracao": "1:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Chairman of the Bored",
+     "duracao": "1:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Tired",
+     "duracao": "3:20"
+    },
+    {
+     "n": 13,
+     "titulo": "Walls (Fun in the Oven)",
+     "duracao": "3:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Upright Citizen",
+     "duracao": "3:15"
+    },
+    {
+     "n": 15,
+     "titulo": "The Gasman Cometh",
+     "duracao": "3:17"
+    },
+    {
+     "n": 16,
+     "titulo": "Demoncrats",
+     "duracao": "3:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Contaminational Power",
+     "duracao": "2:02"
+    },
+    {
+     "n": 18,
+     "titulo": "Time Out",
+     "duracao": "2:16"
+    },
+    {
+     "n": 19,
+     "titulo": "I Ain't Thick, It's Just a Trick",
+     "duracao": "4:24"
+    },
+    {
+     "n": 20,
+     "titulo": "[untitled]",
+     "duracao": "1:21"
+    },
+    {
+     "n": 21,
+     "titulo": "System (live)",
+     "duracao": "1:10"
+    },
+    {
+     "n": 22,
+     "titulo": "Big Man, Big M.A.N. (live)",
+     "duracao": "2:39"
+    },
+    {
+     "n": 23,
+     "titulo": "Banned From the Roxy (live)",
+     "duracao": "2:05"
+    },
+    {
+     "n": 24,
+     "titulo": "Hurry Up Garry (live)",
+     "duracao": "1:06"
+    },
+    {
+     "n": 25,
+     "titulo": "Time Out (live)",
+     "duracao": "2:05"
+    },
+    {
+     "n": 26,
+     "titulo": "They've Got a Bomb (live)",
+     "duracao": "2:58"
+    },
+    {
+     "n": 27,
+     "titulo": "Fight War, Not Wars (live)",
+     "duracao": "0:49"
+    },
+    {
+     "n": 28,
+     "titulo": "Women (live)",
+     "duracao": "1:28"
+    },
+    {
+     "n": 29,
+     "titulo": "Shaved Women (live)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 30,
+     "titulo": "You Pay (live)",
+     "duracao": "1:19"
+    },
+    {
+     "n": 31,
+     "titulo": "Heard Too Much About (live)",
+     "duracao": "1:20"
+    },
+    {
+     "n": 32,
+     "titulo": "Angels (live)",
+     "duracao": "2:10"
+    },
+    {
+     "n": 33,
+     "titulo": "What a Shame (live)",
+     "duracao": "1:24"
+    },
+    {
+     "n": 34,
+     "titulo": "So What (live)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 35,
+     "titulo": "G's Song (live)",
+     "duracao": "0:49"
+    },
+    {
+     "n": 36,
+     "titulo": "Do They Owe Us a Living? (live)",
+     "duracao": "2:05"
+    },
+    {
+     "n": 37,
+     "titulo": "Punk Is Dead (live)",
+     "duracao": "1:56"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stations_of_the_Crass",
+   "resumo_en": "Stations of the Crass is the second album by Crass, released in 1979. The record, originally released as a double 12\", includes live tracks from a gig recorded at the Pied Bull pub in Islington, London, on 7 August 1979. The first three sides contain the studio tracks and play at 45 rpm, while the final side comprises the live material and plays at 33 rpm. The album's title is not only a pun on the Catholic rite of the Stations of the Cross (such jibes against the religious establishment were typical of Crass), but is also a reference to the graffiti campaign that the band had been conducting around London's underground railway system, the cover artwork depicting a wall at Bond Street tube station that had allegedly been 'decorated' by them. Although the album met mixed critical reception at first, it managed to sell at least 20,000 copies within two weeks.\nA remastered edition of the album, complete with new artwork by Gee Vaucher designed specifically for the small size of a CD case, was due to be released in March 2009, but was delayed because of contentions with former members. The remastered 'Crassical Collection' version was eventually released in October 2010, including a 64",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "98e1c658-228a-3b29-8a15-3937ff6964fe",
+   "titulo": "The Feeding of the 5000",
+   "data": "1979-02",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/fcce38d3-7b20-484f-8d59-e11d5d2a51a3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Sound of Free Speech",
+     "duracao": "2:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Do They Owe Us a Living?",
+     "duracao": "1:24"
+    },
+    {
+     "n": 3,
+     "titulo": "End Result",
+     "duracao": "2:04"
+    },
+    {
+     "n": 4,
+     "titulo": "They’ve Got a Bomb",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Punk Is Dead",
+     "duracao": "1:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Reject of Society",
+     "duracao": "1:08"
+    },
+    {
+     "n": 7,
+     "titulo": "General Bacardi",
+     "duracao": "0:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Banned From the Roxy",
+     "duracao": "2:14"
+    },
+    {
+     "n": 9,
+     "titulo": "G’s Song",
+     "duracao": "0:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Fight War, Not Wars",
+     "duracao": "0:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Women",
+     "duracao": "1:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Securicor",
+     "duracao": "2:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Sucks",
+     "duracao": "1:38"
+    },
+    {
+     "n": 14,
+     "titulo": "You Pay",
+     "duracao": "1:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Angels",
+     "duracao": "2:08"
+    },
+    {
+     "n": 16,
+     "titulo": "What a Shame",
+     "duracao": "1:11"
+    },
+    {
+     "n": 17,
+     "titulo": "So What",
+     "duracao": "3:05"
+    },
+    {
+     "n": 18,
+     "titulo": "Well?... Do They?",
+     "duracao": "1:33"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.7,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Feeding_of_the_5000_%28album%29",
+   "resumo_en": "The Feeding of the 5000 is the first album by the anarcho-punk band Crass. The album was recorded on 29 October 1978 by John Loder at Southern Studios and was released the same year. It was considered revolutionary in its time due for its extreme sound, frequently profane lyrical content and the anarchist political ideals in the lyrics. The album also saw the introduction of Crass's policy of ensuring cheap prices for their records. The album is considered as one of the first punk albums to expound serious anarchist philosophy.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "727947d2-a713-30c0-bde7-12b7c7e1c541",
+   "titulo": "Penis Envy",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/1e26fb15-490d-4363-996b-f17a5543f42d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bata Motel",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Systematic Death",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Poison in a Pretty Pill",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "What the Fuck?",
+     "duracao": "6:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Where Next Columbus?",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Berkertex Bribe",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Smother Love",
+     "duracao": "1:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Health Surface",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Dry Weather",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Our Wedding",
+     "duracao": "2:04"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Penis_Envy_%28album%29",
+   "resumo_en": "Penis Envy, released in 1981, was the third LP by the anarchist punk band Crass. The album was included at #36 on Rolling Stone's \"40 Greatest Punk Albums of All Time\" list in 2016.\nThe Crassical Collection version of this release, including new artwork by Gee Vaucher, remastered sound, liner notes by Eve Libertine and Penny Rimbaud and bonus material, was released in November 2010.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "76cf6243-beaa-360f-be01-ee046a9f08cf",
+   "titulo": "Christ: The Album",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/76c9063c-a107-4ebb-b42a-41928f08221e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Have a Nice Day",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Mother Love",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Nineteen Eighty Bore",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "I Know There Is Love",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Beg Your Pardon",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Birth Control ’n’ Rock ’n’ Roll",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Reality Whitewash",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s the Greatest Working Class Rip-off",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Deadhead",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "You Can Be Who?",
+     "duracao": "3:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Buy Now Pay as You Go",
+     "duracao": "2:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Rival Tribal Revel Rebel, Part 2",
+     "duracao": "3:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Bumhooler",
+     "duracao": "3:19"
+    },
+    {
+     "n": 14,
+     "titulo": "Sentiment (White Feathers)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 15,
+     "titulo": "Major General Despair",
+     "duracao": "4:34"
+    },
+    {
+     "n": 16,
+     "titulo": "Banned From the Roxy",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "The Sound of One Hand",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Punk Is Dead",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Nagasaki Nightmare",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Darling",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Bata Motel Blues",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Berkertex Bribe",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "Fold It in Half",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "Big Hands",
+     "duracao": null
+    },
+    {
+     "n": 25,
+     "titulo": "Hearth-Throb of the Mortuary",
+     "duracao": null
+    },
+    {
+     "n": 26,
+     "titulo": "Bumhooler",
+     "duracao": null
+    },
+    {
+     "n": 27,
+     "titulo": "Big A Little A",
+     "duracao": null
+    },
+    {
+     "n": 28,
+     "titulo": "First Woman",
+     "duracao": null
+    },
+    {
+     "n": 29,
+     "titulo": "Arlington 73",
+     "duracao": null
+    },
+    {
+     "n": 30,
+     "titulo": "Bomb Plus Bomb Tape",
+     "duracao": null
+    },
+    {
+     "n": 31,
+     "titulo": "Contaminational Power",
+     "duracao": null
+    },
+    {
+     "n": 32,
+     "titulo": "I Ain’t Thick",
+     "duracao": null
+    },
+    {
+     "n": 33,
+     "titulo": "G’s Song",
+     "duracao": null
+    },
+    {
+     "n": 34,
+     "titulo": "Securicor",
+     "duracao": null
+    },
+    {
+     "n": 35,
+     "titulo": "I Can’t Stand It",
+     "duracao": null
+    },
+    {
+     "n": 36,
+     "titulo": "Shaved Women",
+     "duracao": null
+    },
+    {
+     "n": 37,
+     "titulo": "A Part of Life",
+     "duracao": null
+    },
+    {
+     "n": 38,
+     "titulo": "Do They Owe Us a Living",
+     "duracao": null
+    },
+    {
+     "n": 39,
+     "titulo": "So What",
+     "duracao": null
+    },
+    {
+     "n": 40,
+     "titulo": "Salt ’n’ Pepper",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Christ_%E2%80%93_The_Album",
+   "resumo_en": "Christ – The Album is the fourth album by punk band Crass, released in 1982. It was released as a boxed-set, double-vinyl LP package, including one disc of new studio material and another, entitled Well Forked.. But Not Dead, a live recording of the band's June 1981 gig at the 100 Club in London along with other studio tracks, demos and tape fragments. The box also included a book, A Series of Shock Slogans and Mindless Token Tantrums (featuring Penny Rimbaud's essay \"The Last of the Hippies\", telling the story of the suspicious death of his friend Wally Hope), and a large poster painted by Gee Vaucher. The album was well received and the band considered it their best.\nIn 2011, a two-disc remastered CD edition of the album was released as a part of the band's Crassical Collection reissue series. This edition featured extra content, with the studio album (and the bonus tracks) featured on the first disc and the live album featured on the second disc. On 2 October 2020, the Crassical Collection edition was reissued, with the bonus tracks added to the second disc.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b1f229e8-ae87-358e-acfc-ecd376facae7",
+   "titulo": "Yes Sir, I Will",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/3596c819-68f2-42c3-87ee-bea49f5b3bd5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Yes Sir, I Will",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Yes Sir, I Will",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Yes_Sir%2C_I_Will",
+   "resumo_en": "Yes Sir, I Will is the fifth album by anarcho-punk band Crass. Released in March 1983, the album is a virulent attack on then-Prime Minister of the United Kingdom Margaret Thatcher and her government in the aftermath of the Falklands War and was set nearly wholly over a raging and an almost free-form improvised backing provided by the group's musicians.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a3698fa1-f26f-4e6b-8384-125a84ea7a40",
+   "titulo": "CHRIST ALIVE - The Rehearsal",
+   "data": "2021-07-17",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/acd3fd01-20cb-4f3c-a8d4-bc20c84a0775/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Have a Nice Day (rehearsal version)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Mother Love (rehearsal version)",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Nineteen Eighty Bore (rehearsal version)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "I Know There Is Love (rehearsal version)",
+     "duracao": "2:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Beg Your Pardon (rehearsal version)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Birth Control ‘N’ Rock ‘N’ Roll (rehearsal version)",
+     "duracao": "2:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Reality Whitewash (rehearsal version)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "The Greatest Working-Class Rip-Off (rehearsal version)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Deadhead (rehearsal version)",
+     "duracao": "1:42"
+    },
+    {
+     "n": 10,
+     "titulo": "You Can Be Who? (rehearsal version)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Buy Now Pay as You Go (rehearsal version)",
+     "duracao": "1:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Bumhooler (rehearsal version)",
+     "duracao": "2:53"
+    },
+    {
+     "n": 13,
+     "titulo": "First Woman (rehearsal version)",
+     "duracao": "1:01"
+    },
+    {
+     "n": 14,
+     "titulo": "Sentiment (White Feathers) (rehearsal version)",
+     "duracao": "2:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Major General Despair (rehearsal version)",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

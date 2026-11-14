@@ -1,0 +1,217 @@
+{
+ "id": "television",
+ "nome": "Television",
+ "cena": "Descobertas do acervo",
+ "mbid": "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+ "wikidata": "Q1160206",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1973",
+ "fim": "2023",
+ "ativa": false,
+ "generos": [
+  "post-punk",
+  "art punk",
+  "art rock",
+  "new wave",
+  "proto-punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Television%2C_US_rock_band_%281977_Elektra_publicity_photo%29.jpg/500px-Television%2C_US_rock_band_%281977_Elektra_publicity_photo%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Television",
+ "resumo_pt": "Television foi uma banda americana de rock formada em 1973 na cidade de Nova York, foi a primeira banda punk a tocar no CBGB abrindo a cena para outras grandes bandas como Ramones, Patti Smith, Blondie e Talking Heads. A banda é considerada influente no meio da música punk e alternativa.",
+ "resumo_en": "Television was an American rock band formed in New York City in 1973. Its most prominent lineup comprised vocalist and guitarist-keyboardist Tom Verlaine, guitarist Richard Lloyd, drummer Billy Ficca, and bassist Fred Smith, who replaced co-founder Richard Hell in 1975. An early fixture of CBGB and the 1970s New York punk rock scene, the band is considered influential in the development of punk rock, post-punk and alternative rock.\nAlthough they recorded in a stripped-down, guitar-based manner similar to their punk contemporaries, Television's music was, by comparison, clean, improvisational and technically proficient, drawing on jazz and 1960s rock and built around the interlocking guitar work of Verlaine and Lloyd. The group's debut album, Marquee Moon (1977), was widely acclaimed and is considered one of the defining releases of the punk era; it reached number 28 in the United Kingdom but sold poorly in the United States. The softer Adventure (1978) reached number 7 in the UK but was received more modestly, and the band split up that year amid creative disagreements and commercial disappointment.\nTelevision reunited in the early 1990s and released a self-titled album in 1992, then disbanded again in 1993. A second reunion began in 2001; Lloyd left in 2007 and was replaced by Jimmy Rip, and the band toured sporadically until 2019. A fourth album that began recording in 2007 was not completed or released. Verlaine died in 2023, and the band disbanded following his death. Smi",
+ "albuns": [
+  {
+   "id": "2b9f99d8-becf-3fc3-86a6-2bdd4cef93fe",
+   "titulo": "Marquee Moon",
+   "data": "1977-02-08",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/238563e4-f7d2-4cb4-9fd6-a1277058071e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "See No Evil",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Venus",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Friction",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Marquee Moon",
+     "duracao": "9:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Elevation",
+     "duracao": "5:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Guiding Light",
+     "duracao": "5:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Prove It",
+     "duracao": "5:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Torn Curtain",
+     "duracao": "7:00"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "media": 10.0,
+    "fontes": 1
+   },
+   "publico": 8.1,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marquee_Moon",
+   "resumo_en": "Marquee Moon is the debut album by the American rock band Television, released on February 8, 1977, by Elektra Records. In the years leading up to the album, Television had become a prominent act in the New York music scene and generated interest from a number of record labels, eventually signing a record deal with Elektra. The group rehearsed extensively in preparation for Marquee Moon before recording it at A & R Recording in November 1976. It was produced by the band's frontman Tom Verlaine and sound engineer Andy Johns.\nFor Marquee Moon, Verlaine and fellow guitarist Richard Lloyd abandoned contemporary punk rock's power chords in favor of rock and jazz-inspired interplay, melodic lines, and counter-melodies. The resulting music is largely hook-driven with complex instrumental parts (particularly on longer tracks such as \"Marquee Moon\"), while evoking themes of adolescence, discovery, and transcendence through imagery in urban, pastoral, and nocturnal modes, including references to the geography of Lower Manhattan. Influenced by Bohemian and French poetry, Verlaine's lyrics also feature puns and double entendres intended to give the songs an impressionistic quality in describin",
+   "spotify": "630o1rKTDsLeIPreOY1jqP",
+   "youtube": null
+  },
+  {
+   "id": "f0bec009-a58e-3984-9ea5-963f4952e0ea",
+   "titulo": "Adventure",
+   "data": "1978-04",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/7f34f5c5-559e-40ce-92b3-c7e5532ea4c2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Glory",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Days",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Foxhole",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Careful",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Carried Away",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "The Fire",
+     "duracao": "5:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain’t That Nothin’",
+     "duracao": "4:52"
+    },
+    {
+     "n": 8,
+     "titulo": "The Dream’s Dream",
+     "duracao": "6:39"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 6
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Adventure_%28Television_album%29",
+   "resumo_en": "Adventure is the second album by the American rock band Television, released in April 1978 by Elektra Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7729aaf0-b09c-3777-8200-b2248fcbc734",
+   "titulo": "Television",
+   "data": "1992-09-28",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/fc77f5a6-580b-4fd1-8a5a-a464a81deb15/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "1880 or So",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Shane, She Wrote This",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "In World",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Call Mr. Lee",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Rhyme",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "No Glamour for Willi",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Beauty Trip",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "The Rocket",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "This Tune",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Mars",
+     "duracao": "4:56"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Television_%28Television_album%29",
+   "resumo_en": "Television is the third and final studio album by the American rock band Television. It was released on September 28, 1992, 14 years after the band's second studio album and subsequent breakup in 1978. A video for \"Call Mr. Lee\" was filmed and briefly aired on MTV.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

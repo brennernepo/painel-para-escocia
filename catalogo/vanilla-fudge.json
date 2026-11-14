@@ -1,0 +1,622 @@
+{
+ "id": "vanilla-fudge",
+ "nome": "Vanilla Fudge",
+ "cena": "Descobertas do acervo",
+ "mbid": "96ad1836-0a6e-423f-a2af-0f4a64a325ca",
+ "wikidata": "Q765243",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1966",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "aor",
+  "hard rock",
+  "heavy psych",
+  "pop rock",
+  "progressive rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vanilla_Fudge_%28cropped%29.jpg/500px-Vanilla_Fudge_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Vanilla_Fudge",
+ "resumo_pt": "Vanilla Fudge é uma banda estadunidense de rock psicodélico formado em 1966 em Long Island, Nova Iorque. Os fundadores foram: Tim Bogert (vocal, baixo), Carmine Appice (bateria), Mark Stein (teclados) e Vince Martell (guitarra).\nGrandes admiradores dos Beatles, fizeram covers de \"Ticket To Ride\" e \"Eleanor Rigby\" , mas o grande sucesso veio com uma hard e psicodélica versão de \"You Keep Me Hangin'\", uma canção de  sucesso de The Supremes.\nOutro cover que lhes entregue para a história da música moderna é a \"Some Velvet Morning, uma suave canção originalmente composta por Lee Hazlewood, e realizada pelo autor em dueto com Nancy Sinatra. A Vanilla irá dar uma interpretação pessoal decididamente psicodélico e extensamente à procura de som extremamente estridente com o original e que o tornam uma espécie de manifesto do psicodélico.\nDigno de nota, também, a interpretação em uma moderna forma de famosas peças de música clássica.",
+ "resumo_en": "Vanilla Fudge is an American rock band from New York City formed in 1966 and originally active until 1970, during which time they released five albums. They became known for their hard rock arrangements of contemporary pop songs, particularly with their cover of \"You Keep Me Hangin' On\", a Motown song originally recorded by the Supremes, which became a hit single in 1968. After occasional reunions during the 1980s and early 1990s, the band reformed full time in 1999.\nThe group's foundational lineup remained consistent during 1967–1970, comprising vocalist/organist Mark Stein and bassist/vocalist Tim Bogert, who left another band to form The Pigeons (later renamed Vanilla Fudge), guitarist/vocalist Vince Martell, and drummer/vocalist Carmine Appice. Bogert retired from live music in 2010, whereafter Pete Bremy joined on bass; Bogert died from cancer in 2021. \"The Fudge\", as members call the group, with Stein, Martell, Appice, and Bremy, have scheduled concerts for September and October 2026.\nVanilla Fudge has been cited as \"one of the few American links between psychedelia and what soon became heavy metal\" and as a proto-prog band.",
+ "albuns": [
+  {
+   "id": "52863bd6-7653-3f5c-bd48-949280d35987",
+   "titulo": "Vanilla Fudge",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/1c03baab-49a1-3798-af43-8f1f6a5feb01/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ticket to Ride",
+     "duracao": "5:40"
+    },
+    {
+     "n": 2,
+     "titulo": "People Get Ready",
+     "duracao": "6:30"
+    },
+    {
+     "n": 3,
+     "titulo": "She’s Not There",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Bang Bang",
+     "duracao": "5:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Illusions of My Childhood, Part One",
+     "duracao": "0:20"
+    },
+    {
+     "n": 6,
+     "titulo": "You Keep Me Hanging On",
+     "duracao": "7:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Illusions of My Childhood, Part Two",
+     "duracao": "0:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Take Me for a Little While",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Illusions of My Childhood, Part Three",
+     "duracao": "0:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Eleanor Rigby",
+     "duracao": "8:24"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vanilla_Fudge_%28album%29",
+   "resumo_en": "Vanilla Fudge is the debut studio album by the American psychedelic rock band Vanilla Fudge. Released in summer 1967 as Atco 33-224/mono, SD 33-224/stereo, it consists entirely of half-speed covers and three short original instrumental compositions.\nThe album was Vanilla Fudge's most successful, peaking at #6 on the Billboard album charts and number #8 in Finland in November 1967. Parts of the original stereo LP were actually mixed in mono, including the entire track \"You Keep Me Hangin' On\". An edited version of \"You Keep Me Hangin' On\" was released as a single and also charted.",
+   "spotify": "4rvXyAx9phjxiU4cQS1AJh",
+   "youtube": null
+  },
+  {
+   "id": "353e8c93-ce1d-3569-b210-52fee4494265",
+   "titulo": "The Beat Goes On",
+   "data": "1968-02",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/90bbd257-280b-4e84-b81b-88273385e5dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sketch",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Intro: The Beat Goes On",
+     "duracao": "1:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Variations on a Theme by Mozart, Divertimento No. 13 in F-Major / Old Black Joe / Don’t Fence Me In / 12th Street Rag / In the Mood / Hound Dog / I Want to Hold Your Hand / I Feel Fine / Day Tripper / She Loves You",
+     "duracao": "6:59"
+    },
+    {
+     "n": 4,
+     "titulo": "The Beat Goes On",
+     "duracao": "1:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Für Elise / Moonlight Sonata",
+     "duracao": "6:37"
+    },
+    {
+     "n": 6,
+     "titulo": "The Beat Goes On",
+     "duracao": "1:07"
+    },
+    {
+     "n": 7,
+     "titulo": "The Beat Goes On",
+     "duracao": "1:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Voices in Time: Neville Chamberlain, Winston Churchill, Franklin Delano Roosevelt, Harry S. Truman, John F. Kennedy, and Other Voices",
+     "duracao": "8:17"
+    },
+    {
+     "n": 9,
+     "titulo": "The Beat Goes On",
+     "duracao": "1:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Merchant / The Game Is Over",
+     "duracao": "9:53"
+    },
+    {
+     "n": 11,
+     "titulo": "The Beat Goes On",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Beat_Goes_On_%28Vanilla_Fudge_album%29",
+   "resumo_en": "The Beat Goes On (Atco Records 33-237/mono, SD 33-237/stereo) is the second album by the American psychedelic rock band Vanilla Fudge, released in early 1968. The album doesn't contain any actual \"songs\", but rather a sound collage featuring many different elements: the voices of world leaders past and present, the band reciting pre-written mantras and reflections, and excerpts of songs (done \"Vanilla Fudge style\") by The Beatles and Sonny Bono.",
+   "spotify": "7zKEU06Ds5coSKdXjbJi4u",
+   "youtube": null
+  },
+  {
+   "id": "901b68fc-958a-3a67-a91a-a574bbbd7764",
+   "titulo": "Renaissance",
+   "data": "1968-06-14",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/c4840e42-9652-4819-9862-389b09d6ccc8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Sky Cried / When I Was a Boy",
+     "duracao": "7:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Thoughts",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Paradise",
+     "duracao": "5:59"
+    },
+    {
+     "n": 4,
+     "titulo": "That’s What Makes a Man",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "The Spell That Comes After",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Faceless People",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Season of the Witch",
+     "duracao": "8:40"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Renaissance_%28Vanilla_Fudge_album%29",
+   "resumo_en": "Renaissance (Atco Records catalog no. [SD] 33-244; originally available in both mono and stereo) is the third album by rock band Vanilla Fudge, released in June 1968. It was their first album to feature mostly original material, with five of its seven tracks penned by band members.\nIn addition to the band's original songs, Renaissance also included \"The Spell That Comes After\" (written by Frank Zappa's and Herb Cohen's protege Essra Mohawk, but erroneously credited on original pressings of the LP to Zappa's art director Cal Schenkel), and a cover version of \"Season of the Witch\", originally written and performed by Scottish folk singer Donovan. The band also interpolates lyrics from a second Essra Mohawk song, \"We Never Learn\", into their rendition of \"Season of the Witch\".\nCD reissues of Renaissance include three additional songs that were originally released as non-LP singles concurrently with the album.\nRenaissance peaked at #20 on the Billboard album charts in July 1968. It also reached #8 in Finland.\nThe single, Season Of The Witch, PT. 1, reached #52 in Canada.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "826a2dde-8ef5-3c0b-a3a8-af08fa8a9172",
+   "titulo": "Near the Beginning",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/a63447ca-b845-4b4a-b020-e0509a0761b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shotgun",
+     "duracao": "6:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Some Velvet Morning",
+     "duracao": "7:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Where Is Happiness",
+     "duracao": "7:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Break Song",
+     "duracao": "23:23"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Near_the_Beginning",
+   "resumo_en": "Near the Beginning (ATCO Records 33–278) is the fourth album by the American psychedelic rock band Vanilla Fudge. It was released early 1969 and featured a cover of the Jr. Walker & the All Stars song \"Shotgun\".\nThe album peaked at #16 on the Billboard album charts in March 1969.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "aa102846-b783-3d7c-8592-16b4ddda504e",
+   "titulo": "Rock & Roll",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/41032fab-6b77-489a-a974-1ec4c704789f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Need Love",
+     "duracao": "4:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Lord in the Country",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "I Can’t Make It Alone",
+     "duracao": "4:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Street Walking Woman",
+     "duracao": "6:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Church Bells of St. Martins",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "The Windmills of Your Mind",
+     "duracao": "8:55"
+    },
+    {
+     "n": 7,
+     "titulo": "If You Gotta Make a Fool of Somebody",
+     "duracao": "6:22"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_%26_Roll_%28Vanilla_Fudge_album%29",
+   "resumo_en": "Rock & Roll is the fifth album by American psychedelic rock band Vanilla Fudge, released in September 1969. It peaked at No. 34 on the Billboard album charts in October of that year. The album was the band's last studio album prior to their initial break-up in the spring of 1970.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "069f5922-dec1-304c-899f-72469b61729d",
+   "titulo": "Mystery",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/9fa491ab-5040-34b3-b50c-5e95b0622400/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Golden Age Dreams",
+     "duracao": "4:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Jealousy",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Mystery",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Under Suspicion",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "It Gets Stronger",
+     "duracao": "5:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Walk on By",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "My World Is Empty",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Stop Now",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Hot Blood",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "The Stranger",
+     "duracao": "4:53"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mystery_%28Vanilla_Fudge_album%29",
+   "resumo_en": "Vanilla Fudge is an American rock band from New York City formed in 1966 and originally active until 1970, during which time they released five albums. They became known for their hard rock arrangements of contemporary pop songs, particularly with their cover of \"You Keep Me Hangin' On\", a Motown song originally recorded by the Supremes, which became a hit single in 1968. After occasional reunions during the 1980s and early 1990s, the band reformed full time in 1999.\nThe group's foundational lineup remained consistent during 1967–1970, comprising vocalist/organist Mark Stein and bassist/vocalist Tim Bogert, who left another band to form The Pigeons (later renamed Vanilla Fudge), guitarist/vocalist Vince Martell, and drummer/vocalist Carmine Appice. Bogert retired from live music in 2010, whereafter Pete Bremy joined on bass; Bogert died from cancer in 2021. \"The Fudge\", as members call the group, with Stein, Martell, Appice, and Bremy, have scheduled concerts for September and October 2026.\nVanilla Fudge has been cited as \"one of the few American links between psychedelia and what soon became heavy metal\" and as a proto-prog band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7fbf150f-4903-3728-a78e-833a40688d11",
+   "titulo": "The Return",
+   "data": "2002-09-24",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/04cef2d6-90aa-47d8-8783-363433e5445f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ain’t That Peculiar",
+     "duracao": "6:10"
+    },
+    {
+     "n": 2,
+     "titulo": "You Keep Me Hangin’ On",
+     "duracao": "6:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Tearin’ Up My Heart",
+     "duracao": "7:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Shotgun",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "People Get Ready",
+     "duracao": "6:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Take Me for a Little While",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Good Good Livin’",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "I Want It That Way",
+     "duracao": "6:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Need Love",
+     "duracao": "4:49"
+    },
+    {
+     "n": 10,
+     "titulo": "She’s Not There",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Season of the Witch",
+     "duracao": "8:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Do You Think I’m Sexy",
+     "duracao": "7:13"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7efca0af-c236-3b9d-8ae6-cf1950acdaab",
+   "titulo": "Out Through the In Door",
+   "data": "2007-03-12",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/f9bb60da-c2ee-4e52-90de-f8b96ed38c10/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Immigrant Song",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Ramble On",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Trampled Under Foot",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Dazed and Confused",
+     "duracao": "5:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Mountain Side",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Fool in the Rain",
+     "duracao": "5:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Babe, I’m Gonna Leave You",
+     "duracao": "7:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Dancing Days",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Moby Dick",
+     "duracao": "6:08"
+    },
+    {
+     "n": 10,
+     "titulo": "All My Love",
+     "duracao": "6:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Rock and Roll",
+     "duracao": "4:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Your Time Is Gonna Come",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Out_Through_the_In_Door",
+   "resumo_en": "Out Through the In Door is the eighth album by Vanilla Fudge, released in June 2007, with the US finally following in August 2009. According to the band's official webpage, it originally was to be released in February 2007. The album title is a play on words of the 1979 Led Zeppelin album In Through the Out Door.\nThe following statement was taken from their website:\n\nComing in February, 2007... A New Album!\nIt's true! Mark, Vince, Tim, and Carmine were in California in July recording an album of Led Zeppelin covers. Mark said, \"Basically, we rearranged some songs — we're doing a lot of their stuff Vanilla Fudge style. Some of the arrangements are slowed down, and some speeded up but I think we've done the songs justice.\"\nIn September 2022, a remastered reissue of the album, titled Vanilla Zeppelin, was released with an altered track listing and new cover art by Australian label Golden Robot Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ffdebbfd-8517-43bd-a29e-f4b44cdf7e31",
+   "titulo": "Spirit of ’67",
+   "data": "2015-03-03",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/cfcf5133-ebd1-4eb6-b53e-980d2eda733f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Heard It Through the Grapevine",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "The Letter",
+     "duracao": "5:55"
+    },
+    {
+     "n": 3,
+     "titulo": "I Can See for Miles",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Break On Through (to the Other Side)",
+     "duracao": "5:46"
+    },
+    {
+     "n": 5,
+     "titulo": "The Tracks of My Tears",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m a Believer",
+     "duracao": "5:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Gimme Some Lovin’",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "For What It’s Worth",
+     "duracao": "6:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Ruby Tuesday",
+     "duracao": "6:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Whiter Shade of Pale",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Let’s Pray for Peace",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

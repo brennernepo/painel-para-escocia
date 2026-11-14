@@ -1,0 +1,954 @@
+{
+ "id": "midnight-oil",
+ "nome": "Midnight Oil",
+ "cena": "Descobertas do acervo",
+ "mbid": "05072650-4b05-4e8b-83d0-dba2576e306a",
+ "wikidata": "Q48284",
+ "tipo": "Group",
+ "pais": "AU",
+ "inicio": "1976",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "alternative rock",
+  "new wave",
+  "pop rock",
+  "post-punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Midnight_Oil.jpg/500px-Midnight_Oil.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Midnight_Oil",
+ "resumo_pt": "Midnight Oil é uma banda australiana de rock ativista. Suas canções tem cunho ecológico clamando pela proteção ao meio ambiente e defendendo os direitos do povo aborígene. A banda fez muito sucesso entre os surfistas.",
+ "resumo_en": "Midnight Oil (known informally as \"The Oils\") were  an Australian rock band formed in Sydney in 1972. The band was composed of founding members Peter Garrett (vocals, harmonica), Jim Moginie (guitar, keyboard), Andrew (Bear) James (bass and vocals) Martin Rotsey (guitar) and Rob Hirst (drums and vocals); with James later being replaced by Peter Gifford (1980-1987) and later Bones Hillman (1987-2020).\nMidnight Oil issued their self-titled debut album in 1978 and gained a cult following in their homeland despite a lack of mainstream media acceptance. The band achieved greater popularity throughout Australasia with the release of 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 (1982) – which spawned the singles \"Power and the Passion\" and \"US Forces\" – and also began to attract an audience in the United States. They achieved their first Australian number one album in 1984 with Red Sails in the Sunset, and topped their native country's singles chart for six weeks with the EP Species Deceases (1985).\nThe group garnered worldwide attention with 1987 album Diesel and Dust. Its singles \"The Dead Heart\" and \"Beds Are Burning\" illuminated the plight of Indigenous Australians, with the latter charting at number one in multiple countries. Midnight Oil had continued global success with Blue Sky Mining (1990) and Earth and Sun and Moon (1993) – each buoyed by an international hit single in \"Blue Sky Mine\" and \"Truganini\", respectively – and remained a formidable album chart presence in Australia until their",
+ "albuns": [
+  {
+   "id": "2acf2967-607c-3d54-8dfb-a674e0d696fd",
+   "titulo": "Midnight Oil",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/6e090764-ed63-40cd-b41d-ff2c029edd72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Powderworks",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Head Over Heels",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Dust",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Used and Abused",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Surfing With a Spoon",
+     "duracao": "5:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Run by Night",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Nothing Lost - Nothing Gained",
+     "duracao": "8:28"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Midnight_Oil_%28Midnight_Oil_album%29",
+   "resumo_en": "Midnight Oil is the debut album by Australian rock band Midnight Oil which was released in November 1978 on the band's independent Powderworks label. It reached the top 50 on the Australian Kent Music Report Albums Chart. The album was later distributed by CBS Records and issued as a CD. The LP has a blue cover, however, the CD has a black cover. Because of the blue cover, the former version is often referred to, by fans, as the \"blue album\" or \"the Blue Meanie\". The lead single, \"Run by Night\", became the band's first minor hit in Australia and appeared on the Kent Music Report Singles Chart Top 100. It also had a video clip.",
+   "spotify": "6wN0yoPTgxeRECGeMgexbt",
+   "youtube": null
+  },
+  {
+   "id": "330b9d67-ca83-35ee-8fc8-f72d7d210f84",
+   "titulo": "Head Injuries",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/a65a63c3-2ea9-4c85-aadf-82ca56d9fdda/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cold Cold Change",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Section 5 (Bus to Bondi)",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Naked Flame",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Back on the Borderline",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Koala Sprint",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "No Reaction",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Stand in Line",
+     "duracao": "4:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Profiteers",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Is It Now?",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Head_Injuries",
+   "resumo_en": "Head Injuries is the second studio album by Australian rock band Midnight Oil, released in October 1979 on their own Powderworks label and distributed by Columbia Records. The album was produced by Leszek J. Karski, recorded at 'Trafalgar Studios' in Sydney (Engineer: Peter J. Walker, Photography: Philip Morris). It was the last Midnight Oil album to feature founding bass guitarist Andrew James, who quit the band due to illness. It peaked at No. 36 on the Australian Kent Music Report and by mid-1980 had achieved gold status in Australia.\nThe iconic Midnight Oil logo with the open hand, appeared first on the back cover of the 1978 eponymous album \"Midnight Oil\" (Design: Jan Paul & Midnight Oil). It is featured on all other albums, publications, merchandise and their touring equipment. It comes from a photo of Peter Garrett's left hand on the inner sleeve of the first album. \n(On the back of \"Head Injuries\" the hand is incorrectly facing up, turned 90 degrees).\nThe album was certified platinum in Australia in 2014.",
+   "spotify": "3FWt5q5YkHZxe49ja0R8eg",
+   "youtube": null
+  },
+  {
+   "id": "e1a98fd8-adf7-36e7-a973-d73487c01e95",
+   "titulo": "Place Without a Postcard",
+   "data": "1981-11",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/9756e5aa-0bfa-4eb4-9c69-71aa88c935a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Wanna Be the One",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Brave Faces",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Armistice Day",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Someone Else to Blame",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Basement Flat",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Written in the Heart",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Burnie",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Quinella Holiday",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Loves on Sale",
+     "duracao": "2:21"
+    },
+    {
+     "n": 10,
+     "titulo": "If Ned Kelly Was King",
+     "duracao": "3:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Lucky Country",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Place_Without_a_Postcard",
+   "resumo_en": "Place Without a Postcard is the third studio album by Australian rock band Midnight Oil, released in November 1981 under Sprint Music and the Columbia Records label. It peaked at No. 12 on the Kent Music Report albums chart and the related singles \"Don't Wanna Be the One\" and \"Armistice Day\" reached the associated Top 40 chart.",
+   "spotify": "74oKegvoiMdi6V8KJZD7Zp",
+   "youtube": null
+  },
+  {
+   "id": "118442bf-531a-39fc-9e47-1a9b63dc175e",
+   "titulo": "10,9,8,7,6,5,4,3,2,1",
+   "data": "1982-11",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/5cc43513-ca58-4d30-9bb0-3aa62e68dc37/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Outside World",
+     "duracao": "4:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Only the Strong",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Short Memory",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Read About It",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Scream in Blue",
+     "duracao": "5:42"
+    },
+    {
+     "n": 6,
+     "titulo": "US Forces",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Power and the Passion",
+     "duracao": "5:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Maralinga",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Tin Legs & Tin Mines",
+     "duracao": "4:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Somebody’s Trying to Tell Me Something",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/10%2C_9%2C_8%2C_7%2C_6%2C_5%2C_4%2C_3%2C_2%2C_1",
+   "resumo_en": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1 is the fourth studio album by Australian rock band Midnight Oil, released in 1982 by Columbia Records. It hit number 3 on the Australian Kent Music Report Albums Chart during 171 total weeks. The band's first US release, it peaked at number 178 on the Billboard 200. At the Countdown Music Awards, it was nominated for Best Australian Album.\nIn October 2010, the album made the Top 40 of the book 100 Best Australian Albums. It is listed in the Triple J Hottest 100 Australian Albums of All Time, 2011, at number 21. In December 2021, it was number 19 in Rolling Stone Australia's \"200 Greatest Albums of All Time\" countdown.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bba3c2f7-f91c-366f-8914-d27c62c45636",
+   "titulo": "Red Sails in the Sunset",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/c0954e72-ae6d-43ba-a103-b1d7670736aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When the Generals Talk",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Best of Both Worlds",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Sleep",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Minutes to Midnight",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Jimmy Sharman’s Boxers",
+     "duracao": "7:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Bakerman",
+     "duracao": "0:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Who Can Stand in the Way",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Kosciusko",
+     "duracao": "4:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Helps Me Helps You",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Harrisburg",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Bells and Horns in the Back of Beyond",
+     "duracao": "3:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Shipyards of New Zealand",
+     "duracao": "5:53"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Red_Sails_in_the_Sunset_%28album%29",
+   "resumo_en": "Red Sails in the Sunset is the fifth studio album by Australian group Midnight Oil which was released in October 1984 under the Columbia Records label. It was recorded and produced in Tokyo, Japan and is significant for becoming their first No. 1 album in Australia – it also entered the United States Billboard 200. The cover image, by Japanese artist Tsunehisa Kimura, depicts Sydney Harbour after a hypothetical nuclear strike. Some of its tracks were performed live in January 1985 at a Sydney Harbour Goat Island concert to celebrate radio station Triple J's 10th birthday, which was simulcast on ABC Television and subsequently re-broadcast on their then-Tuesday night music program Rock Arena. In 2004 the film footage later became part of a DVD album, Best of Both Worlds. Red Sails in the Sunset contains the only Midnight Oil tracks with lead vocals provided by their drummer Rob Hirst, \"When the Generals Talk\" and \"Kosciusko\". The album spawned two singles, \"When the Generals Talk\" and \"Best of Both Worlds\" but neither appeared on the Australian singles chart.\nAt the 1984 Countdown Music Awards, the album was nominated for Best Australian Album.",
+   "spotify": "465TkdybdwKzJexXSdX0Lc",
+   "youtube": null
+  },
+  {
+   "id": "31627a1a-3bc8-3da1-b106-d264ea4ac339",
+   "titulo": "Diesel and Dust",
+   "data": "1987-06-22",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/2980caaf-b212-4385-b541-7605acd49626/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beds Are Burning",
+     "duracao": "4:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Put Down That Weapon",
+     "duracao": "4:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Dreamworld",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Arctic World",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Warakurna",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "The Dead Heart",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Whoah",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Bullroarer",
+     "duracao": "4:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Sell My Soul",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Sometimes",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Gunbarrel Highway",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 7
+   },
+   "publico": 7.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Diesel_and_Dust",
+   "resumo_en": "Diesel and Dust is the sixth studio album by Australian rock band Midnight Oil, released in August 1987 by SPRINT Music label under Columbia Records. Diesel and Dust was produced by Warne Livesey and the band. It is a concept album about the struggles of Indigenous Australians and environmental causes, issues important to the band. It drew inspiration from the Blackfella/Whitefella Tour of remote Indigenous communities with the Warumpi Band and Gondwanaland in 1986. The album peaked at No. 1 on the Australian Kent Music Report Albums Chart for six weeks.\nDiesel and Dust has been critically lauded since its release. Rolling Stone editors named it the best album of 1988 (the year of its United States release), and later ranked it the 13th greatest record of the 1980s. In October 2010, Diesel and Dust was listed at number 1 in the book, 100 Best Australian Albums. In December 2021, the album was listed at no. 5 in Rolling Stone Australia's \"200 Greatest Albums of All Time\" countdown.",
+   "spotify": "4tSyLb9l1xuqGBxjv1jiLn",
+   "youtube": "OLAK5uy_lAJWtP8eKS468MtLDqq-bYfWa8kQMIrSc"
+  },
+  {
+   "id": "8f76245e-6d7f-3f86-a9ce-ca6b1d724d2c",
+   "titulo": "Blue Sky Mining",
+   "data": "1990-02-25",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/57e0ce2f-95c3-40be-9aaf-6252aa887d9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Sky Mine",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Stars of Warburton",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Bedlam Bridge",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Forgotten Years",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Mountains of Burma",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "King of the Mountain",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "River Runs Red",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Shakers and Movers",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "One Country",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Antarctica",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 9
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blue_Sky_Mining",
+   "resumo_en": "Blue Sky Mining is the seventh studio album by Australian rock band Midnight Oil, released on 9 February 1990 under the Columbia Records label. This was the band's first studio album with bassist and backing vocalist Bones Hillman, who would remain in the group until his death in 2020. It peaked at number one on the ARIA albums chart. It stayed at number one for two weeks in Australia and had Top 5 chart success in Sweden, Switzerland and Norway. It peaked at number 20 on the Billboard 200 and number 28 on the UK charts. A limited release of the album featured a clear, blue vinyl.",
+   "spotify": "4dRhYCadBWc5rABmaKabFx",
+   "youtube": null
+  },
+  {
+   "id": "ed265ee7-9f3c-3bbe-a8c4-7383a9a2bf86",
+   "titulo": "Earth and Sun and Moon",
+   "data": "1993-03-22",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/6a6b1c43-6d30-4568-9ea4-14a91c770e54/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feeding Frenzy",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "My Country",
+     "duracao": "4:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Renaissance Man",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Earth and Sun and Moon",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Truganini",
+     "duracao": "5:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Bushfire",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Drums of Heaven",
+     "duracao": "5:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Outbreak of Love",
+     "duracao": "5:14"
+    },
+    {
+     "n": 9,
+     "titulo": "In the Valley",
+     "duracao": "4:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Tell Me the Truth",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Now or Never Land",
+     "duracao": "5:22"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Earth_and_Sun_and_Moon",
+   "resumo_en": "Earth and Sun and Moon is the eighth studio album by Australian rock group, Midnight Oil, that was released in April 1993 under the Columbia Records label. It peaked at No.2 on the ARIA Albums Chart.",
+   "spotify": "30bx3190mYL3J3zz5HnDEg",
+   "youtube": null
+  },
+  {
+   "id": "e8eb0dfa-2394-322a-9ea3-104b241313c8",
+   "titulo": "Breathe",
+   "data": "1996-09-27",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/eec5ac66-1322-4223-8fa7-2d8169be8918/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Underwater",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Surf’s Up Tonight",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Common Ground",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Time to Heal",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Sins of Omission",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "One Too Many Times",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Star of Hope",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Rain",
+     "duracao": "2:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Bring on the Change",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Home",
+     "duracao": "4:29"
+    },
+    {
+     "n": 11,
+     "titulo": "E‐Beat",
+     "duracao": "4:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Barest Degree",
+     "duracao": "3:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Gravelrash",
+     "duracao": "3:27"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Breathe_%28Midnight_Oil_album%29",
+   "resumo_en": "Breathe is the ninth studio album by Australian rock band, Midnight Oil, which was released on 15 October 1996 under the Columbia Records label. It peaked at No. 3 on the ARIA Albums Chart and appeared in the top 40 on the New Zealand and Swiss Albums Charts. The album was produced by Malcolm Burn and according to Australian musicologist, Ian McFarlane, it had a loose, raw style with almost a low-key sound.",
+   "spotify": "6XwJlo8IfNvsVIpcBJgjha",
+   "youtube": "OLAK5uy_mnTZ-H7IrPkjiLUKEmb2V78AN7976D7WA"
+  },
+  {
+   "id": "4e331a61-6fc1-3c1e-82f3-a8cf43455d0d",
+   "titulo": "Redneck Wonderland",
+   "data": "1998-07-06",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/327bd23f-84a7-4ee4-a399-e97449456ef5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Redneck Wonderland",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Concrete",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Cemetery in My Mind",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Comfortable Place on the Couch",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Safety Chain Blues",
+     "duracao": "4:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Return to Sender",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Blot",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "The Great Gibber Plain",
+     "duracao": "4:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Seeing Is Believing",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "White Skin Black Heart",
+     "duracao": "4:01"
+    },
+    {
+     "n": 11,
+     "titulo": "What Goes On",
+     "duracao": "2:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Drop in the Ocean",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Redneck_Wonderland",
+   "resumo_en": "Redneck Wonderland is the tenth studio album by Midnight Oil that was released in July 1998 under the Columbia Records label, which peaked at No.7 on the ARIA Albums Chart. The title of the album was inspired by a wall graffiti, a picture of which can be seen in the promotional Oil Rag Vol. VI issued along with album release.\nThe album was certified Gold in Australia in 2014. The album's eponymous song was ranked number 93 in Triple M's \"Ozzest 100\", the 'most Australian' songs of all time. The album marked a shift to an electronic influenced hard rock style.",
+   "spotify": "1Y0rfyKRdG16ntCR9iahNO",
+   "youtube": null
+  },
+  {
+   "id": "15f367dd-067c-3b17-9d72-69fc78f916f7",
+   "titulo": "Capricornia",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/7a457772-b409-4d48-ab20-fbb2d571379d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Golden Age",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Too Much Sunshine",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Capricornia",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Luritja Way",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Tone Poem",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "A Crocodile Cries",
+     "duracao": "1:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Mosquito March",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Been Away Too Long",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Under the Overpass",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "World That I See",
+     "duracao": "4:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Poets & Slaves",
+     "duracao": "5:56"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Capricornia_%28album%29",
+   "resumo_en": "Capricornia is the eleventh studio album by Australian band Midnight Oil, first released in 2001 by Columbia Records in both Australia/Europe, and Liquid 8 Records in the United States. It was their last studio album until 2020.",
+   "spotify": "5Dv4ecKSKSH1IlrHaneZXv",
+   "youtube": null
+  },
+  {
+   "id": "a36f152b-f639-41bc-9546-750dd88997cf",
+   "titulo": "The Makarrata Project",
+   "data": "2020-10-30",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/14261f85-412a-4465-b2eb-17ad42360dcc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "First Nation",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Gadigal Land",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Change the Date",
+     "duracao": "5:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Terror Australia",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Desert Man, Desert Woman",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Wind in My Head (Makarrata version)",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Uluru Statement from the Heart (read by Pat Anderson, Stan Grant, Adam Goodes, Ursula Yovich & Troy Cassar-Daley) / Come on Down",
+     "duracao": "6:40"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 80,
+    "media": 8.0,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Makarrata_Project",
+   "resumo_en": "The Makarrata Project is the twelfth studio album by Australian band Midnight Oil, released on 30 October 2020 by Sony Music Australia. The album is the first new material from the band since 2001's Capricornia, their first studio album to reach number one on the ARIA Charts since 1990's Blue Sky Mining, and one of the final releases to feature bassist and backing vocalist Bones Hillman before his death in November 2020.\nAt the 2021 ARIA Music Awards, the album was nominated for Album of the Year, Best Group and Best Rock Album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "de9da935-0612-4090-9884-93f065e386e9",
+   "titulo": "Resist",
+   "data": "2022-02-18",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/1ee343e7-4833-4d65-8496-8be9208b9988/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rising Seas",
+     "duracao": "5:50"
+    },
+    {
+     "n": 2,
+     "titulo": "The Barka-Darling River",
+     "duracao": "6:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Tarkine",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "At the Time of Writing",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Nobody’s Child",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "To the Ends of the Earth",
+     "duracao": "5:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Reef",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "We Resist",
+     "duracao": "5:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Lost at Sea",
+     "duracao": "4:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Undercover",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "We Are Not Afraid",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Last Frontier",
+     "duracao": "6:53"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Resist_%28Midnight_Oil_album%29",
+   "resumo_en": "Resist is the thirteenth studio album by Australian band Midnight Oil, released on 18 February 2022 by Sony Music Australia. The album was supported by the band's final Australian and New Zealand tour, concluding in May 2022 with guitarist Jim Moginie saying \"We've played intensely physical gigs since our humble beginnings back in 1977 and we never want to take even the slightest risk of compromising that.\" Despite this being the group's final tour, all members were as of the album's release still open to recording in the future. Resist was the band's final album with drummer Rob Hirst before his death in 2026.\nAt the 2022 ARIA Music Awards, the album was nominated for Best Group, while the tour was nominated for Best Australian Live Act.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

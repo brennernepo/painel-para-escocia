@@ -1,0 +1,1337 @@
+{
+ "id": "the-monkees",
+ "nome": "The Monkees",
+ "cena": "Descobertas do acervo",
+ "mbid": "b8549efe-f4fd-4dc0-8ef1-226e9c400233",
+ "wikidata": "Q464036",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1966",
+ "fim": "1970",
+ "ativa": false,
+ "generos": [
+  "pop",
+  "sunshine pop",
+  "country pop",
+  "pop rock",
+  "psychedelic pop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Monkees_1966.JPG/500px-The_Monkees_1966.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Monkees",
+ "resumo_pt": "The Monkees foi um grupo  pop dos Estados Unidos, formado por David Jones (voz e percussão), Micky Dolenz (voz e bateria), Peter Tork (baixo, teclado e voz) e Mike Nesmith (voz e guitarra). Seus discos venderam cerca de 75 milhões de cópias ao redor do mundo.",
+ "resumo_en": "The Monkees were an American pop rock band, formed in Los Angeles in the mid-1960s, whose lineup consisted of Micky Dolenz, Davy Jones, Michael Nesmith, and Peter Tork. One of the most commercially successful bands of the late 1960s, the group was conceived in 1965 by television producers Bob Rafelson and Bert Schneider for the NBC situation comedy series of the same name. Music credited to the band was released on LP, as well as being included in the show, which aired from 1966 to 1968.\nAt first, the band members' musical contributions were primarily limited to lead vocals and the occasional composition; the remainder was composed by professional songwriters and performed by session musicians such as the Wrecking Crew, under the music supervision of Don Kirshner and with production by figures including Boyce and Hart, Jack Keller, and Jeff Barry. From 1966 to 1967, the group enjoyed a consecutive run of four chart-topping albums: The Monkees, More of the Monkees, Headquarters, and Pisces, Aquarius, Capricorn & Jones Ltd.. During this period, they also achieved three number-one singles: \"Last Train to Clarksville\", \"I'm a Believer\", and \"Daydream Believer\".\nThe members had increasingly desired greater control over the creation of their music and, following a brief power struggle, gained full control over their recordings in 1967. Starting with Headquarters, they worked with producer Chip Douglas and mostly performed as a group; however, by the recording of The Birds, The Bees",
+ "albuns": [
+  {
+   "id": "48e8b712-4f5d-34e0-9492-22f936854662",
+   "titulo": "The Monkees",
+   "data": "1966-10-10",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/c0308e7c-8dce-4c72-b0a1-faf053005576/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Theme From) The Monkees",
+     "duracao": "2:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Saturday's Child",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "I Wanna Be Free",
+     "duracao": "2:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Tomorrow's Gonna Be Another Day",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Papa Jean's Blues",
+     "duracao": "1:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Take A Giant Step",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Last Train To Clarksville",
+     "duracao": "2:40"
+    },
+    {
+     "n": 8,
+     "titulo": "This Just Doesn't Seem To Be My Day",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Let's Dance On",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "I'll Be True To You",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Sweet Young Thing",
+     "duracao": "1:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Gonna Buy Me A Dog",
+     "duracao": "2:38"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Monkees_%28album%29",
+   "resumo_en": "The Monkees is the debut studio album by the American pop rock band the Monkees. It was released on October 10, 1966, by Colgems Records in the United States and RCA Victor in the rest of the world. It was the first of four consecutive U.S. number one albums for the group, taking the top spot on the Billboard 200 for 13 weeks, after which it was displaced by the band's second album. It also topped the UK charts in 1967. The Monkees has been certified quintuple platinum by the RIAA, with sales of over five million copies.\nThe song \"Last Train to Clarksville\" was released as a single shortly before the release of the album and went to the top of the Billboard Hot 100 chart. It was the only hit single from the album. \"I'll Be True to You\" was previously released as a single by the Hollies in January 1965 under the title \"Yes I Will\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "60d3909e-2ef6-36fa-bf36-269c5ff82566",
+   "titulo": "More of the Monkees",
+   "data": "1967-01-10",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/174b159f-0bb9-3aef-916f-447c2cfd0c2d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "When Love Comes Knockin’ (at Your Door)",
+     "duracao": "1:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Mary, Mary",
+     "duracao": "2:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold On Girl",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Your Auntie Grizelda",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "(I’m Not Your) Steppin’ Stone",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Look Out (Here Comes Tomorrow)",
+     "duracao": "2:19"
+    },
+    {
+     "n": 8,
+     "titulo": "The Kind of Girl I Could Love",
+     "duracao": "1:57"
+    },
+    {
+     "n": 9,
+     "titulo": "The Day We Fall in Love",
+     "duracao": "2:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Sometime in the Morning",
+     "duracao": "2:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Laugh",
+     "duracao": "2:29"
+    },
+    {
+     "n": 12,
+     "titulo": "I’m a Believer",
+     "duracao": "2:45"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 7.9,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/More_of_the_Monkees",
+   "resumo_en": "More of the Monkees is the second studio album by the American pop rock band the Monkees, released in 1967 on Colgems Records. It was recorded in late 1966 and displaced the band's debut album from the top of the Billboard Top LPs chart, remaining at No. 1 for 18 weeks, the longest run of any Monkees album. The first two Monkees albums were at the top of the Billboard chart for 31 combined consecutive weeks. More of the Monkees also reached No. 1 in the UK. In the U.S., it has been certified quintuple platinum by the RIAA, with sales of more than five million copies. More of the Monkees is also notable as the first pop album to become the best-selling album of the year in the U.S.",
+   "spotify": "50zHjIiTOZM232gnWvOydX",
+   "youtube": null
+  },
+  {
+   "id": "60ea3167-8594-3d42-9904-e48efaea09b3",
+   "titulo": "Headquarters",
+   "data": "1967-05-20",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/3a6b6693-db37-463a-a08f-6e8619b85050/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Told Me",
+     "duracao": "2:24"
+    },
+    {
+     "n": 2,
+     "titulo": "I’ll Spend My Life With You",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Forget That Girl",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Band 6",
+     "duracao": "0:41"
+    },
+    {
+     "n": 5,
+     "titulo": "You Just May Be the One",
+     "duracao": "2:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Shades of Gray",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "I Can’t Get Her Off My Mind",
+     "duracao": "2:24"
+    },
+    {
+     "n": 8,
+     "titulo": "For Pete’s Sake",
+     "duracao": "2:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Mr. Webster",
+     "duracao": "2:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Sunny Girlfriend",
+     "duracao": "2:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Zilch",
+     "duracao": "1:06"
+    },
+    {
+     "n": 12,
+     "titulo": "No Time",
+     "duracao": "2:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Early Morning Blues and Greens",
+     "duracao": "2:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Randy Scouse Git",
+     "duracao": "2:31"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Headquarters_%28The_Monkees_album%29",
+   "resumo_en": "Headquarters is the third studio album by the American pop rock band The Monkees, released on May 22, 1967, by Colgems Records. It was the first Monkees album on which the four band members played instruments and wrote much of the material themselves, following a struggle for creative control over their music with supervisor Don Kirshner. After winning the right to produce their own recordings, the group recorded Headquarters with producer Chip Douglas, and largely dispensed with session musicians. The album was a commercial success: it became the Monkees' third consecutive Billboard 200 number-one album in the United States, selling over two million copies within the first two months of release (earning a double platinum certification). It also reached No. 2 on the UK Albums Chart. Headquarters has since been included in the book 1001 Albums You Must Hear Before You Die.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "01b7e898-a3e2-33f5-bc93-a727eef214ed",
+   "titulo": "Pisces, Aquarius, Capricorn & Jones Ltd.",
+   "data": "1967-11",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/b9060b66-38ed-3e23-9762-a40411189dbb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Salesman",
+     "duracao": "2:03"
+    },
+    {
+     "n": 2,
+     "titulo": "She Hangs Out",
+     "duracao": "2:33"
+    },
+    {
+     "n": 3,
+     "titulo": "The Door Into Summer",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Is Only Sleeping",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Cuddly Toy",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Words",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Hard to Believe",
+     "duracao": "2:33"
+    },
+    {
+     "n": 8,
+     "titulo": "What Am I Doing Hangin’ ’round?",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Peter Percival Patterson’s Pet Pig Porky / Pleasant Valley Sunday",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Daily Nightly",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Don’t Call on Me",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Star Collector",
+     "duracao": "3:30"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pisces%2C_Aquarius%2C_Capricorn_%26_Jones_Ltd.",
+   "resumo_en": "Pisces, Aquarius, Capricorn & Jones Ltd. is the fourth album by the Monkees. It was released on November 14, 1967, during a period when the band exerted more control over their music and performed many of the instruments themselves (previously forbidden by Colgems Records). However, although the group had complete artistic control over the proceedings, they invited more outside contributions than on their previous album, Headquarters, and used session musicians to complement their sound. The album also featured one of the first uses of the Moog synthesizer in popular music. Pisces, Aquarius, Capricorn & Jones Ltd. sold over three million copies, becoming the band's fourth consecutive album to reach No. 1 on the U.S. Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b08179d6-0eca-3f51-9e09-b48ec5f867b4",
+   "titulo": "The Birds, The Bees, & The Monkees",
+   "data": "1968-04-22",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/2d8568cf-ba71-45e4-beac-63c0a59b0495/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dreamworld",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Auntie's Municipal Court",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "We Were Made for Each Other",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Tapioca Tundra",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Daydream Believer",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Writing Wrongs",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "I'll Be Back Up on My Feet",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "The Poster",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "P.O. Box 9847",
+     "duracao": "3:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Magnolia Simms",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Valleri",
+     "duracao": "2:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Zor and Zam",
+     "duracao": "2:10"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Birds%2C_the_Bees_%26_the_Monkees",
+   "resumo_en": "The Birds, the Bees & the Monkees is the fifth studio album by the American pop rock band the Monkees, released in 1968 by Colgems Records. It was the first album released after the cancellation of their TV show and subsequently was their first not to reach No. 1 on the U.S. Billboard 200, peaking at No. 3, and their first not to chart in the UK, with their four previous efforts all having reached the top ten. The album has sold over a million copies.",
+   "spotify": "2Ov6zb7NfgDh3EXSIIWrb2",
+   "youtube": null
+  },
+  {
+   "id": "f2236b30-43c0-33e2-85f4-bfca42bf36ff",
+   "titulo": "Head",
+   "data": "1968-12",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/9451c733-8cbd-4375-8ee7-54a2fc08da08/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Opening Ceremony",
+     "duracao": "1:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Porpoise Song (Theme From \"Head\")",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Ditty Diego (War Chant)",
+     "duracao": "1:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Circle Sky",
+     "duracao": "2:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Supplicio",
+     "duracao": "0:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Can You Dig It?",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Gravy",
+     "duracao": "0:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Superstitious",
+     "duracao": "0:06"
+    },
+    {
+     "n": 9,
+     "titulo": "As We Go Along",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Dandruff",
+     "duracao": "0:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Daddy's Song",
+     "duracao": "2:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Poll",
+     "duracao": "1:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Long Title: Do I Have to Do This All Over Again",
+     "duracao": "2:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Swami (Plus Strings)",
+     "duracao": "5:18"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Head_%28The_Monkees_album%29",
+   "resumo_en": "Head is the sixth studio album by the American pop rock band the Monkees, released in 1968 by Colgems Records, and the soundtrack to the film of the same name. The album primarily consists of musique concrète pieces assembled from the film's dialogue, while the six new songs encompass genres such as psychedelic music, lo-fi, acid rock and Broadway theatre.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7ebb0336-328f-31d5-8480-a7b61b1a7728",
+   "titulo": "Instant Replay",
+   "data": "1969-02-15",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/b669f708-d3ac-4f9d-a1c3-2bd69b894f2b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Through the Looking Glass",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Listen to Linda",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "I Won’t Be the Same Without Her",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Just a Game",
+     "duracao": "1:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Me Without You",
+     "duracao": "2:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Don’t Wait for Me",
+     "duracao": "2:39"
+    },
+    {
+     "n": 7,
+     "titulo": "You and I",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "While I Cry",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Tear Drop City",
+     "duracao": "2:02"
+    },
+    {
+     "n": 10,
+     "titulo": "The Girl I Left Behind Me",
+     "duracao": "2:46"
+    },
+    {
+     "n": 11,
+     "titulo": "A Man Without a Dream",
+     "duracao": "3:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Shorty Blackwell",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Instant_Replay_%28The_Monkees_album%29",
+   "resumo_en": "Instant Replay is the seventh studio album by the American pop rock band the Monkees. It was released in February 1969 by Colgems.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "849bafda-45fd-3337-8ee3-25d997e87988",
+   "titulo": "The Monkees Present",
+   "data": "1969-10-11",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/17ac9eb3-6bcd-49ea-89e8-5a5c37a438b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Girl",
+     "duracao": "2:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Good Clean Fun",
+     "duracao": "2:19"
+    },
+    {
+     "n": 3,
+     "titulo": "If I Knew",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Bye Bye Baby Bye Bye",
+     "duracao": "2:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Never Tell a Woman Yes",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Looking for the Good Times",
+     "duracao": "2:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Ladies Aid Society",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Listen to the Band",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "French Song",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Mommy and Daddy",
+     "duracao": "2:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Oklahoma Backroom Dancer",
+     "duracao": "2:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Pillow Time",
+     "duracao": "2:32"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Monkees_Present",
+   "resumo_en": "The Monkees Present (full title being The Monkees Present Micky, David, Michael, also known as simply Present) is the eighth studio album by the American pop rock band the Monkees, released in 1969 by Colgems Records. It was the second Monkees album released after the departure of Peter Tork and the last to feature Michael Nesmith until 1996's Justus.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "38de71d1-5930-385d-846c-24be302b8700",
+   "titulo": "Changes",
+   "data": "1970-06",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/d86cc6e2-aa6c-4701-87e3-b5fb68ce8405/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Oh My My",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Ticket on a Ferry Ride",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re So Good to Me",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "It’s Got to Be Love",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Acapulco Sun",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "99 Pounds",
+     "duracao": "2:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Tell Me Love",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Do You Feel It Too",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "I Love You Better",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "All Alone in the Dark",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Midnight Train",
+     "duracao": "2:10"
+    },
+    {
+     "n": 12,
+     "titulo": "I Never Thought It Peculiar",
+     "duracao": "2:29"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Changes_%28The_Monkees_album%29",
+   "resumo_en": "Changes is the ninth studio album by the American pop rock band the Monkees, released in 1970 by Colgems Records. The album was issued after Michael Nesmith's exit from the band, leaving only Micky Dolenz and Davy Jones to fulfill the recording contract they had signed in the mid-1960s. Changes was their last new album for Colgems Records and the group's last album of all new material until Pool It!, released in 1987.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "40c50b44-e413-3dcf-aaab-0fd2b4e7e67f",
+   "titulo": "Pool It!",
+   "data": "1987-08-01",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/97a19ad8-4a41-4b3a-b508-c01fb63178c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heart and Soul",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "(I’d Go the) Whole Wide World",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Long Way Home",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Secret Heart",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Gettin’ In",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "(I’ll) Love You Forever",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Every Step of the Way",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Bring Me Down",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Midnight",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "She’s Movin’ in With Rico",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Since You Went Away",
+     "duracao": "2:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Counting on You",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pool_It%21",
+   "resumo_en": "Pool It! is the tenth studio album by American pop rock band the Monkees, released in August 1987 by Rhino Records. It was the first Monkees studio album of new material since Changes in 1970 and the first Monkees album to feature Peter Tork since the 1968 Head soundtrack.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "939e48a3-ae5f-3858-aaf4-5fba042e42b4",
+   "titulo": "Justus",
+   "data": "1996-10-15",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/3558fe5c-d480-45b9-85c7-8c7b39f147db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Circle Sky",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Never Enough",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Oh, What a Night",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "You and I",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Unlucky Stars",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Admiral Mike",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Dyin’ of a Broken Heart",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Regional Girl",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Run Away From Life",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "I Believe You",
+     "duracao": "3:41"
+    },
+    {
+     "n": 11,
+     "titulo": "It’s My Life",
+     "duracao": "3:41"
+    },
+    {
+     "n": 12,
+     "titulo": "It’s Not Too Late",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Justus_%28album%29",
+   "resumo_en": "Justus is the eleventh studio album by the American rock band the Monkees, released on October 15, 1996 by Rhino Records. The album was recorded in celebration of their 30th anniversary and features the return of Michael Nesmith to the group.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "23d90e71-c4e5-4bed-87df-514370ad62a0",
+   "titulo": "Good Times!",
+   "data": "2016-05-27",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/1626ec92-0575-4b51-b0b6-69bc52ab8d5b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Times",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "You Bring the Summer",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "She Makes Me Laugh",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Our Own World",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Gotta Give It Time",
+     "duracao": "2:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Me & Magdalena",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Whatever’s Right",
+     "duracao": "2:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Love to Love",
+     "duracao": "2:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Girl",
+     "duracao": "2:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Birth of an Accidental Hipster",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Wasn’t Born to Follow",
+     "duracao": "2:53"
+    },
+    {
+     "n": 12,
+     "titulo": "I Know What I Know",
+     "duracao": "3:30"
+    },
+    {
+     "n": 13,
+     "titulo": "I Was There (and I’m Told I Had a Good Time)",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 7.5,
+    "fontes": 10
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Good_Times%21",
+   "resumo_en": "Good Times! is the twelfth studio album by the American pop rock band the Monkees, released in 2016 by Rhino Records. Produced primarily by Adam Schlesinger, the album was recorded to commemorate the band's 50th anniversary. It was the first Monkees studio album since Justus (1996) – their longest gap between releases – and the first since the death of band member Davy Jones. The album features surviving Monkees Micky Dolenz, Michael Nesmith, and Peter Tork, as well as a posthumous contribution from Jones.\nGood Times! received generally positive reviews from music critics and reached number 14 on the Billboard 200, becoming the band's highest-charting album in 48 years.",
+   "spotify": "4UwFizSE0TB6EzTfkkxlbF",
+   "youtube": "OLAK5uy_lcee1JaTCWRA-A_XC2LXwZzgCUBUsuGFc"
+  },
+  {
+   "id": "9a033477-a323-40e5-8d8c-a438c04ae8bf",
+   "titulo": "Christmas Party",
+   "data": "2018-10-12",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/11422109-0155-463a-82e0-6f7e5d4a1cc8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Unwrap You at Christmas",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "What Would Santa Do",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Mele Kalikimaka",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "House of Broken Gingerbread",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "The Christmas Song",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Christmas Party",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Jesus Christ",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "I Wish It Could Be Christmas Every Day",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Silver Bells",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Wonderful Christmastime",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Snowfall",
+     "duracao": "2:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Angels We Have Heard on High",
+     "duracao": "2:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Merry Christmas, Baby",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 72,
+    "media": 6.6,
+    "fontes": 4
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Party_%28The_Monkees_album%29",
+   "resumo_en": "Christmas Party is the thirteenth and final studio album by the American pop rock band the Monkees, released on October 12, 2018, by Rhino Records. Produced mainly by Adam Schlesinger (with Michael Nesmith's tracks produced by his sons Christian and Jonathan), the album is the Monkees' first to focus on Christmas themes. It follows on the success of their 2016 album Good Times!. The two-year gap is the shortest between albums since the 1969/1970 releases of The Monkees Present and Changes. The album features surviving Monkees Micky Dolenz, Mike Nesmith, and Peter Tork, as well as two posthumous contributions from Davy Jones.\nThe album features a mix of covers of earlier Christmas songs (from \"Angels We Have Heard on High\" and \"Wonderful Christmastime\" to the relatively obscure \"Jesus Christ\", originally by Big Star) and new holiday tunes written specifically for the album by several Good Times! contributors, including XTC's Andy Partridge, Weezer's Rivers Cuomo and Schlesinger. This is the only Monkees album on which there are no songs written by any member of the Monkees.\nThe Target store exclusive version features two additional tracks, \"Riu Chiu\" and \"Christmas Is My Time of Yea",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5938a6fb-64f7-41d1-878b-02d36c3bfe9d",
+   "titulo": "Made for TV: Official Soundtrack to Season 1 of the Monkees",
+   "data": "2026-08-14",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/c7d6a406-a0d4-42bd-8659-7945e6134e7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Theme From) The Monkees (TV version)",
+     "duracao": "0:55"
+    },
+    {
+     "n": 2,
+     "titulo": "This Just Doesn't Seem to Be My Day (mono TV version)",
+     "duracao": "2:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Take a Giant Step (mono TV version)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Saturday's Child (mono TV version)",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "All the King's Horses (mono TV version)",
+     "duracao": "2:11"
+    },
+    {
+     "n": 6,
+     "titulo": "You Just May Be the One (mono TV version)",
+     "duracao": "1:53"
+    },
+    {
+     "n": 7,
+     "titulo": "I Wanna Be Free (fast version; mono TV mix)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 8,
+     "titulo": "She (mono TV version)",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "I'll Be Back Up on My Feet",
+     "duracao": "2:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Your Auntie Grizelda (mono TV mix)",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Laugh (mono TV mix)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Valleri (first recorded version; mono TV mix)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Look Out (Here Comes Tomorrow) [mono TV mix]",
+     "duracao": "2:54"
+    },
+    {
+     "n": 14,
+     "titulo": "Words (first recorded version; mono TV mix)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 15,
+     "titulo": "(Theme From) The Monkees [original stereo version]",
+     "duracao": "2:19"
+    },
+    {
+     "n": 16,
+     "titulo": "This Just Doesn't Seem to Be My Day (original stereo version)",
+     "duracao": "2:07"
+    },
+    {
+     "n": 17,
+     "titulo": "Take a Giant Step (original stereo version)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 18,
+     "titulo": "Last Train to Clarksville (original stereo version)",
+     "duracao": "2:44"
+    },
+    {
+     "n": 19,
+     "titulo": "Tomorrow's Gonna Be Another Day (original stereo version)",
+     "duracao": "2:41"
+    },
+    {
+     "n": 20,
+     "titulo": "Saturday's Child (original stereo version)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 21,
+     "titulo": "Let's Dance On (original stereo version)",
+     "duracao": "2:29"
+    },
+    {
+     "n": 22,
+     "titulo": "(I'm Not Your) Steppin' Stone",
+     "duracao": "2:24"
+    },
+    {
+     "n": 23,
+     "titulo": "The Kind of Girl I Could Love (original stereo version)",
+     "duracao": "1:52"
+    },
+    {
+     "n": 24,
+     "titulo": "All the King's Horses",
+     "duracao": "2:17"
+    },
+    {
+     "n": 25,
+     "titulo": "I Wanna Be Free (original stereo version)",
+     "duracao": "2:24"
+    },
+    {
+     "n": 26,
+     "titulo": "Sweet Young Thing (original stereo version)",
+     "duracao": "1:56"
+    },
+    {
+     "n": 27,
+     "titulo": "Papa Gene's Blues (original stereo version)",
+     "duracao": "1:59"
+    },
+    {
+     "n": 28,
+     "titulo": "You Just May Be the One",
+     "duracao": "2:03"
+    },
+    {
+     "n": 29,
+     "titulo": "I Wanna Be Free (fast version)",
+     "duracao": "2:45"
+    },
+    {
+     "n": 30,
+     "titulo": "She (original stereo version)",
+     "duracao": "2:38"
+    },
+    {
+     "n": 31,
+     "titulo": "Gonna Buy Me a Dog (original stereo version)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 32,
+     "titulo": "Mary, Mary (original stereo version)",
+     "duracao": "2:17"
+    },
+    {
+     "n": 33,
+     "titulo": "I'm a Believer",
+     "duracao": "2:47"
+    },
+    {
+     "n": 34,
+     "titulo": "I'll Be Back Up on My Feet",
+     "duracao": "2:26"
+    },
+    {
+     "n": 35,
+     "titulo": "Your Auntie Grizelda (original stereo version)",
+     "duracao": "2:30"
+    },
+    {
+     "n": 36,
+     "titulo": "Laugh (original stereo version)",
+     "duracao": "2:29"
+    },
+    {
+     "n": 37,
+     "titulo": "Sometime in the Morning (original stereo version)",
+     "duracao": "2:30"
+    },
+    {
+     "n": 38,
+     "titulo": "Valleri",
+     "duracao": "2:20"
+    },
+    {
+     "n": 39,
+     "titulo": "Look Out (Here Comes Tomorrow) [original stereo version]",
+     "duracao": "2:16"
+    },
+    {
+     "n": 40,
+     "titulo": "The Girl I Knew Somewhere",
+     "duracao": "2:32"
+    },
+    {
+     "n": 41,
+     "titulo": "Words",
+     "duracao": "2:50"
+    },
+    {
+     "n": 42,
+     "titulo": "A Little Bit Me, a Little Bit You",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 102,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

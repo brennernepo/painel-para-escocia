@@ -1,0 +1,186 @@
+{
+ "id": "x-ray-spex",
+ "nome": "X‐Ray Spex",
+ "cena": "Descobertas do acervo",
+ "mbid": "f4c967a4-7591-4bba-8237-82e171a2fa7f",
+ "wikidata": "Q1151661",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1976",
+ "fim": "2008",
+ "ativa": false,
+ "generos": [
+  "punk rock",
+  "new wave",
+  "punk",
+  "rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Poly_Styrene_cropped.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/X-Ray_Spex",
+ "resumo_pt": "X-Ray Spex é uma banda londrina de punk rock formada em 1976.",
+ "resumo_en": "X-Ray Spex were an English punk rock band formed in 1976 in London. They were led by Poly Styrene, who formed the band after watching the Sex Pistols live. Styrene was one of the most distinctive personalities in the British punk movement, because of her singing style and atypical and unorthodox appearance, taking influences from reggae as well as punk. Her lyrics primarily dealt with anti-consumerism and anti-capitalism, and were an influence on the 1990s riot grrrl movement. The line-up also included saxophone, which was little used by other punk bands.\nDuring their first incarnation (1976–1979), X-Ray Spex released five singles and one album. Their 1977 single \"Oh Bondage Up Yours!\" and 1978 debut album Germfree Adolescents are widely acclaimed as classic punk releases. The band briefly reformed several times in the 1990s and 2000s.",
+ "albuns": [
+  {
+   "id": "02c1c972-b5a1-3b8f-be3f-83dfb9373def",
+   "titulo": "Germfree Adolescents",
+   "data": "1978-11-10",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/d9c0f4c7-add9-4c59-86bb-3a9ae336350d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Art‐I‐Ficial",
+     "duracao": "3:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Obsessed With You",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Warrior in Woolworths",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Let’s Submerge",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can’t Do Anything",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Identity",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Genetic Engineering",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "I Live Off You",
+     "duracao": "2:06"
+    },
+    {
+     "n": 9,
+     "titulo": "I Am a Poseur",
+     "duracao": "2:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Germ Free Adolescents",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Plastic Bag",
+     "duracao": "4:56"
+    },
+    {
+     "n": 12,
+     "titulo": "The Day the World Turned Dayglo",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.7,
+    "fontes": 9
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Germfree_Adolescents",
+   "resumo_en": "Germfree Adolescents is the 1978 debut album of English punk rock band X-Ray Spex. It contained the UK hit singles \"The Day the World Turned Dayglo\" (No. 23 in April 1978), \"Identity\" (No. 24 in July 1978) and \"Germ Free Adolescents\" which reached No. 18 in November 1978. Upon release, the critics noted it was not all new material: five songs on the twelve tracks had already been released on A-sides and B-sides of singles.",
+   "spotify": "6XaOF033IKilCnqlg5xbPC",
+   "youtube": null
+  },
+  {
+   "id": "6101fbc2-d059-305e-b330-da87afa2dce6",
+   "titulo": "Conscious Consumer",
+   "data": "1995-09-28",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/96fff624-d6c6-449e-930d-df612fa08fcd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cigarettes",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Junk Food Junkie",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Crystal Clear",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "India",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Dog in Sweden",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Hi Chaperone",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Good Time Girl",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Melancholy",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Sophia",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Peace Meal",
+     "duracao": "2:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Prayer for Peace",
+     "duracao": "3:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Party",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Conscious_Consumer",
+   "resumo_en": "Conscious Consumer is the second and final studio album by English punk rock band X-Ray Spex, the first new material recorded by the band in seventeen years. It was recorded in 1995 and released in September of that year by record label Receiver. The album saw the return of saxophonist Lora Logic, sacked from the original incarnation of the band but reconciled with singer Poly Styrene during the '80s, as well as original bassist Paul Dean. Original members Jak Airport and B.P. Hurding were replaced by Crispian Mills (as Red Spectre) and Paul Winterhart (as Pauli OhAirt), who would later achieve success as members of Kula Shaker.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

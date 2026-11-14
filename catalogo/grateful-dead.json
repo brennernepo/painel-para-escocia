@@ -1,0 +1,880 @@
+{
+ "id": "grateful-dead",
+ "nome": "Grateful Dead",
+ "cena": "Descobertas do acervo",
+ "mbid": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+ "wikidata": "Q212533",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1965",
+ "fim": "1995",
+ "ativa": false,
+ "generos": [
+  "rock",
+  "psychedelic rock",
+  "folk rock",
+  "jam band",
+  "country rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Grateful_Dead_%281970%29.png/500px-Grateful_Dead_%281970%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Grateful_Dead",
+ "resumo_pt": "Grateful Dead foi uma banda norte-americana de rock formada em 1965 na cidade de São Francisco, Califórnia, berço do movimento hippie. O grupo era conhecido por seu estilo único e também por seu ecletismo, já que fundia em suas composições elementos do rock, folk, country, psicodelia, jazz, blues e música experimental, além das performances que se transformavam numa longa sessão de improvisações; esta característica os fez serem caracterizados como uma jam band. \"A música deles\", escreveu Lenny Kaye, guitarrista de Patti Smith, \"alcança níveis que a maioria dos outros grupos sequer sabiam da existência.\"\nTanta singularidade deu origem a fãs que chegavam a seguir a banda de show em show durante anos. Os admiradores mais fanáticos do Grateful Dead ficaram conhecidos como \"deadheads\". A louvação é tanta e tão duradoura que leilões realizados em 2007, com objetos pessoais de um dos principais expoentes da banda, Jerry Garcia, morto em 1995, chegaram a arrecadar mais de um milhão de dólares. Banheira, pia e até mesmo o vaso sanitário do guitarrista e vocalista do Grateful Dead foram arrematados por fãs, interessados em guardar algum souvenir de uma das lendas do rock.\nEm \"Os Melhores Artistas de Todos Os Tempos\", o ranking das melhores bandas feito pela revista Rolling Stone, a banda ficou em 55º lugar.\nNo ano de 2015, a banda anunciou um projeto de supergrupo, o Dead & Company. O projeto envolveu os membros fundadores da banda, Bob Weir, Phil Lesh e Bill Kreutzmann em parceria co",
+ "resumo_en": "The Grateful Dead was an American rock band formed in Palo Alto, California, in 1965. They were known for their eclectic style which was influenced by elements of rock, blues, jazz, folk, country, bluegrass, rock and roll, gospel, reggae and world music. In their early years the band also introduced Space music psychedelia to their performances. The band became well known for their ability to improvise during their live performances. They are also known for their devoted fanbase known as \"Deadheads\".  According to the musician and writer Lenny Kaye, the music of the Grateful Dead \"touches on ground that most other groups don't even know exists\". For the range of their influences and the structure of their live performances, the Grateful Dead are considered \"the pioneering godfathers of the jam band world\".\nThe Grateful Dead was founded in the San Francisco Bay Area during the rise of the counterculture of the 1960s. The band's founding members were Jerry Garcia (lead guitar and vocals), Bob Weir (rhythm guitar and vocals), Phil Lesh (bass guitar and vocals), Bill Kreutzmann (drums), and Ron \"Pigpen\" McKernan (keyboards, harmonica, and vocals). With the exception of Pigpen, who died in 1973, the remaining founding members stayed with the band until their 1995 split, with subsequent members being Mickey Hart (drums, 1967 to 1971 and 1974 to 1995), Robert Hunter (non-performing lyricist, 1967 to 1995), Tom Constanten (keyboards, 1968 to 1970), John Perry Barlow (non-performing l",
+ "albuns": [
+  {
+   "id": "1d272cb1-f8ba-3e65-93ec-cefbbdad5514",
+   "titulo": "The Grateful Dead",
+   "data": "1967-03-17",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/47b1c1b2-3195-4621-919c-ed7ce5f600d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Golden Road (To Unlimited Devotion)",
+     "duracao": "2:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Beat It on Down the Line",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Good Mornin' Little School Girl",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Cold Rain and Snow",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Sittin' on Top of the World",
+     "duracao": "2:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Cream Puff War",
+     "duracao": "2:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Morning Dew",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "New, New Minglewood Blues",
+     "duracao": "2:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Viola Lee Blues",
+     "duracao": "10:01"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Grateful_Dead_%28album%29",
+   "resumo_en": "The Grateful Dead is the debut studio album by the American rock band the Grateful Dead, released by Warner Bros. Records on March 17, 1967. According to the biographies of both bassist Phil Lesh and drummer Bill Kreutzmann, the band released the album as San Francisco's Grateful Dead.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f15fe3a0-7771-3119-83ce-d79ca19b9be6",
+   "titulo": "Anthem of the Sun",
+   "data": "1968-07-18",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/068a5675-91ab-4ae0-a49c-257f9cd21902/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "That's It for the Other One: I. Cryptical Envelopment; II. Quadlibet for Tender Feet; III. The Faster We Go, The Rounder We Get; IV. We Leave the Castle",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "New Potato Caboose",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Born Cross-Eyed",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Alligator",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Caution (Do Not Stop on Tracks)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthem_of_the_Sun",
+   "resumo_en": "Anthem of the Sun is the second album by American rock band the Grateful Dead, released on July 18, 1968, by Warner Bros-Seven Arts. The album was assembled through a collage-like editing approach helmed by members Jerry Garcia and Phil Lesh (along with soundman Dan Healy), in which disparate studio and live performance tapes were blended together to create new hybrid recordings. The band supplemented their performances with instruments such as prepared piano, kazoo, harpsichord, timpani, trumpet, and güiro. The result was an experimental amalgam that is neither a pure studio album nor a live album. The band was joined by Tom Constanten, who contributed avant-garde instrumental and studio techniques influenced by composers John Cage and Karlheinz Stockhausen. It is the first album to feature second drummer Mickey Hart.\nIn 1972, an alternate mix of the album was released to capitalize on the band's recent success. A 2018 reissue on Rhino Records collects both the 1968 and 1972 mixes. The album was ranked number 288 on Rolling Stone magazine's list of the 500 greatest albums of all time, in both the 2003 and 2012 iterations of the list. It was voted number 376 in Colin Larkin's All T",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "504b1280-f13d-3e59-85f7-c49ff43d7de5",
+   "titulo": "Aoxomoxoa",
+   "data": "1969-06-20",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/0ae9310c-105b-4d8f-9231-3c2d2e79a93d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "St. Stephen",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Dupree’s Diamond Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Rosemary",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Doin’ That Rag",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Mountains of the Moon",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "China Cat Sunflower",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "What’s Become of the Baby",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Cosmic Charlie",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aoxomoxoa",
+   "resumo_en": "Aoxomoxoa is the third studio album by American rock band the Grateful Dead, released on June 20, 1969, by Warner Bros.-Seven Arts. It was one of the first rock albums to be recorded using 16-track technology. The title is a meaningless palindrome, usually pronounced  OK-sə-mək-SOH-ə.\nRolling Stone, upon reviewing the album, mentioned that \"no other music sustains a lifestyle so delicate and loving and lifelike\". The album was certified gold by the RIAA on May 13, 1997. In 1991 Rolling Stone selected Aoxomoxoa as having the eighth best album cover of all time. It was voted number 674 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6fdb82d8-9aee-35ed-8092-8434866bab7f",
+   "titulo": "Workingman’s Dead",
+   "data": "1970-06-14",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/085eb66a-517e-44a7-81d7-c13a5f23d994/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Uncle John's Band",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "High Time",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Dire Wolf",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "New Speedway Boogie",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Cumberland Blues",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Black Peter",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Easy Wind",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Casey Jones",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.8,
+    "fontes": 5
+   },
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Workingman%27s_Dead",
+   "resumo_en": "Workingman's Dead is the fourth studio album (and fifth overall) by American rock band the Grateful Dead. It was recorded in February 1970 and released on June 14, 1970, by Warner Bros. Records. The album and its studio follow-up, American Beauty, were recorded back-to-back using a similar style, eschewing the psychedelic experimentation of previous albums in favor of Jerry Garcia and Robert Hunter's Americana-styled songcraft.\nIn 2003, the album was ranked number 262 on Rolling Stone magazine's list of the 500 greatest albums of all time, 264 in a 2012 revised list, and 409 in the 2020 list.  It was voted number 371 in Colin Larkin's All Time Top 1000 Albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "994c2c59-d32f-304e-8f53-bda17a254f52",
+   "titulo": "American Beauty",
+   "data": "1970-11-01",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/af777b83-e9d6-43a9-b607-2314e6929079/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Box of Rain",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Friend of the Devil",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Sugar Magnolia",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Operator",
+     "duracao": "2:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Candyman",
+     "duracao": "6:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Ripple",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Brokedown Palace",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Till the Morning Comes",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Attics of My Life",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Truckin’",
+     "duracao": "5:09"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 4
+   },
+   "publico": 7.9,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/American_Beauty_%28album%29",
+   "resumo_en": "American Beauty is the fifth studio album (and sixth overall) by American rock band the Grateful Dead. Released on November 1, 1970, by Warner Bros. Records, the album continued the folk rock and country music style of their previous album Workingman's Dead, released earlier in the year.\nUpon release, American Beauty entered the Billboard 200 chart, ultimately peaking at number 30 during a nineteen-week stay in January 1971. On July 11, 1974, the album was certified Gold by the Recording Industry Association of America (RIAA), and it later achieved Platinum and double Platinum certification in 1986 and 2001, respectively. In 2003, the album was ranked number 258 on Rolling Stone magazine's list of the \"500 Greatest Albums of All Time\", 261 in a 2012 revised list, and 215 in a 2020 revised list.",
+   "spotify": "7rqgm1BnAZ8I4d6hukpkdg",
+   "youtube": null
+  },
+  {
+   "id": "6cd576c6-ab98-35fc-8bc0-4dd2b845c1be",
+   "titulo": "Wake of the Flood",
+   "data": "1973-11-15",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/6a816d70-d625-4c2f-abef-e10909521490/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mississippi Half-Step Uptown Toodleoo",
+     "duracao": "5:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Let Me Sing Your Blues Away",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Row Jimmy",
+     "duracao": "7:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Stella Blue",
+     "duracao": "6:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Here Comes Sunshine",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Eyes of the World",
+     "duracao": "5:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Weather Report Suite: Prelude / Part 1 / Part 2: Let It Grow",
+     "duracao": "12:43"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wake_of_the_Flood",
+   "resumo_en": "Wake of the Flood is the sixth studio album (and tenth album overall) by the rock band the Grateful Dead. Released on October 15, 1973, it was the first album on the band's own Grateful Dead Records label. Their first studio album in nearly three years, it was also the first without founding member Ron \"Pigpen\" McKernan, who had recently died. His absence and keyboardist Keith Godchaux's penchants for bebop and modal jazz (rather than McKernan's tendencies toward the blues and rhythm and blues) contributed to the band's musical evolution. Godchaux's wife, vocalist Donna Jean Godchaux, also joined the group and appears on the album.\nThe release fared better on the pop charts than their previous studio album (1970's American Beauty), reaching No. 18. An expanded version was released in 2004.",
+   "spotify": "4Hk6dVkfv92IilGW27aUdV",
+   "youtube": null
+  },
+  {
+   "id": "4994cbe4-228f-3f20-b519-8957d4c19ee4",
+   "titulo": "From the Mars Hotel",
+   "data": "1974-06-27",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1e0cda00-ae37-473e-b533-8992266e3176/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "U.S. Blues",
+     "duracao": "4:42"
+    },
+    {
+     "n": 2,
+     "titulo": "China Doll",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Unbroken Chain",
+     "duracao": "6:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Loose Lucy",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Scarlet Begonias",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Pride of Cucamonga",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Money Money",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Ship of Fools",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/From_the_Mars_Hotel",
+   "resumo_en": "From the Mars Hotel is the seventh studio album (eleventh overall) by rock band the Grateful Dead. It was mainly recorded in April 1974, and released on June 27, 1974. It was the second album by the band on their own Grateful Dead Records label. From the Mars Hotel came less than one year after their previous album, Wake of the Flood, and was the last before the band's then-indefinite hiatus from live touring which began in October 1974.",
+   "spotify": "0qAjw9KKLXWJAiyuO8tN2d",
+   "youtube": null
+  },
+  {
+   "id": "1b46008b-8e86-33a0-b47d-18bd3ebd23b8",
+   "titulo": "Blues for Allah",
+   "data": "1975-09-01",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/7a9415e5-3912-4c00-a6d7-7c2424592470/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Help on the Way / Slipknot!",
+     "duracao": "7:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Franklin’s Tower",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "King Solomon’s Marbles: Part I: Stronger Than Dirt / Part II: Milkin’ the Turkey",
+     "duracao": "5:16"
+    },
+    {
+     "n": 4,
+     "titulo": "The Music Never Stopped",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Crazy Fingers",
+     "duracao": "6:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Sage and Spirit",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Blues for Allah / Sand Castles and Glass Camels / Unusual Occurrences in the Desert",
+     "duracao": "12:33"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_for_Allah",
+   "resumo_en": "Blues for Allah is the eighth studio album (twelfth album overall) by the Grateful Dead. It was released on September 1, 1975, and was the band's third album released through their own Grateful Dead Records label. The album was recorded between February and May 1975 during an extended hiatus from touring. Recorded at rhythm guitarist and vocalist Bob Weir's home studio, the music on Blues for Allah further showcases the jazz fusion influence shown on the band's previous two records while also having a more experimental sound influenced by Middle Eastern scales and musical styles, which is also reflected in the album's lyrical content.\nUpon release, Blues for Allah became the band's highest-charting album up to that point, peaking at number 12 in the US during a thirteen-week chart run and becoming their third straight top 20 album. Two singles were released to promote the album—\"The Music Never Stopped\" and \"Franklin's Tower\"—with the former cracking the Billboard Hot 100. The album initially received mixed reviews, but has retrospectively been praised for its melding of new styles and increased emphasis on jamming and improvisation in comparison with the band's other studio effort",
+   "spotify": "0AsBxIBJl3UTmknC5W16ac",
+   "youtube": null
+  },
+  {
+   "id": "0750c8a7-1fe0-3e32-b303-29bf483dbb43",
+   "titulo": "Terrapin Station",
+   "data": "1977-07-27",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/65759636-3b8d-4623-816f-af833579ba1d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Estimated Prophet",
+     "duracao": "5:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Dancin' in the Streets",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Passenger",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Samson & Delilah",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Sunrise",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Terrapin Station, Part 1",
+     "duracao": "16:17"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Terrapin_Station",
+   "resumo_en": "Terrapin Station is the ninth studio album by the American rock band the Grateful Dead, released on July 27, 1977. It was the band's first release for Arista Records and their first studio effort following a two-year hiatus from full-scale touring. Produced by Keith Olsen, who was hired by Arista president Clive Davis to refine the band's sound, the album marked a significant departure from their previous improvisational and Americana styles by incorporating a polished production and orchestral arrangements by Paul Buckmaster without the band's knowledge.\nThe album is best known for its title track, \"Terrapin Part 1\", a 16-minute progressive rock suite that occupies the entire second side. Other notable tracks include the reggae-influenced \"Estimated Prophet\" and a disco-inflected cover of \"Dancing in the Street\". While the orchestral overdubs were initially controversial among band members—with lead guitarist Jerry Garcia famously remarking that Olsen had \"put the Grateful Dead in a dress\"—the album's material became a cornerstone of their live performances for the remainder of their career.\nTerrapin Station reached No. 28 on the Billboard 200 and was certified gold by the RIAA in",
+   "spotify": "0WVDqz6ty88sjpbfvMqF98",
+   "youtube": null
+  },
+  {
+   "id": "8746cc0f-cf83-3878-b7c0-89913edc5210",
+   "titulo": "Shakedown Street",
+   "data": "1978-11-15",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/ad9d1c0d-58f8-4fa6-bdf2-f7daeb058b48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Lovin'",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "France",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Shakedown Street",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Serengetti",
+     "duracao": "2:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Fire on the Mountain",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "I Need a Miracle",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "From the Heart of Me",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Stagger Lee",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "All New Minglewood Blues",
+     "duracao": "4:18"
+    },
+    {
+     "n": 10,
+     "titulo": "If I Had the World to Give",
+     "duracao": "4:52"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shakedown_Street",
+   "resumo_en": "Shakedown Street is the tenth studio album (fifteenth overall) by rock band the Grateful Dead, released November 8, 1978, by Arista Records. The album came just over a year after previous studio album Terrapin Station. It was the final album for Keith and Donna Jean Godchaux, who left the band a few months after its release. The record was produced by Lowell George (of Little Feat) and John Kahn.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dfa266ba-e606-3abd-ab29-4086634a7566",
+   "titulo": "Go to Heaven",
+   "data": "1980-04-28",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/ae746c02-42f8-4af6-843c-854bf4c0af19/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alabama Getaway",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Far From Me",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Althea",
+     "duracao": "6:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Feel Like a Stranger",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Lost Sailor",
+     "duracao": "5:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Saint of Circumstance",
+     "duracao": "5:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Antwerp's Placebo (The Plumber)",
+     "duracao": "0:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Easy to Love You",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Ease Me In",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Go_to_Heaven",
+   "resumo_en": "Go to Heaven is the eleventh studio album (sixteenth overall) by rock band the Grateful Dead, released April 28, 1980, by Arista Records. It is the band's first album with keyboardist Brent Mydland. Go to Heaven was both the third Grateful Dead studio album in a row to use an outside producer, this time Gary Lyons, and the last studio album for over seven years.",
+   "spotify": "0mbGmUyTh6BCz3uz8E7fKi",
+   "youtube": null
+  },
+  {
+   "id": "94e4d9a1-d6c0-3c16-8f35-820ca6780e4e",
+   "titulo": "In the Dark",
+   "data": "1987-07-10",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/8a722954-341c-4ebc-a1fc-66cb0fbc2f90/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Touch of Grey",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Hell in a Bucket",
+     "duracao": "5:37"
+    },
+    {
+     "n": 3,
+     "titulo": "When Push Comes to Shove",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "West L.A. Fadeaway",
+     "duracao": "6:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Tons of Steel",
+     "duracao": "5:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Throwing Stones",
+     "duracao": "7:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Muddy River",
+     "duracao": "5:58"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_the_Dark_%28Grateful_Dead_album%29",
+   "resumo_en": "In the Dark is the twelfth studio album (nineteenth overall) by American rock band the Grateful Dead. It was released on July 6, 1987, by Arista Records.\nIn the Dark was the band's first album in six years, and their first studio album since 1980's Go to Heaven. It became unexpectedly popular, achieving double platinum certification in the U.S. It reached No. 6 on the Billboard 200 chart, the Grateful Dead's only top ten album. \"Touch of Grey\" peaked at No. 9 on the Billboard Hot 100, the band's only top forty single; it also became a frequently played music video on MTV. \"Hell in a Bucket\" and \"Throwing Stones\" (for which videos were also made) also achieved significant album-oriented rock radio airplay.",
+   "spotify": "7r8iaC3oo4wZkVTxmN9lUe",
+   "youtube": null
+  },
+  {
+   "id": "8c81e42e-9022-3f66-b224-cfe564a79160",
+   "titulo": "Built to Last",
+   "data": "1989-10-31",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/4a122191-0364-413f-8780-205134849c02/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Foolish Heart",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Just a Little Light",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Victim or the Crime",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Standing on the Moon",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Blow Away",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Picasso Moon",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Built to Last",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "I Will Take You Home",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Built_to_Last",
+   "resumo_en": "Built to Last is the thirteenth and final studio album by the Grateful Dead (their twenty-first album overall). It was recorded between February 1 and October 20, 1989, and released on October 31, 1989.\nThe album was released on CD in 1989 by Arista Records before being rereleased in 2000 by BMG International. It was then remastered, expanded, and released as part of the Beyond Description (1973–1989) 12-CD box set in October 2004. The remastered version was later released separately on CD on April 11, 2006, by Rhino Records.\nThis album features the most songs by keyboard player Brent Mydland, who has four song credits, all of which are in collaboration with Dead lyricist  John Perry Barlow. This mirrored accurately Mydland's increasing vocal presence in the band over the decade he spent with the Dead. This album was Mydland's last album to be released during his lifetime, before his death a year later.",
+   "spotify": "4ooc1hJ0cE0eCJrL25wCBE",
+   "youtube": null
+  },
+  {
+   "id": "5d35851d-affd-3afc-b7b1-0c957f9a5e6c",
+   "titulo": "The Twilight Zone, Volume One",
+   "data": "1998-09",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/691fc24d-34b6-4c14-a642-4c0265123e41/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Twilight Zone ’85 Main Title",
+     "duracao": "0:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Suite From “Nightcrawlers”",
+     "duracao": "8:12"
+    },
+    {
+     "n": 3,
+     "titulo": "I of Newton",
+     "duracao": "1:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Children’s Zoo",
+     "duracao": "1:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Can She Type?",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Suite From “Shadow Man”",
+     "duracao": "8:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Suite From “The Misfortune Cookie”",
+     "duracao": "9:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Kentucky Rye, Part 1",
+     "duracao": "2:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Kentucky Rye, Part 2",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Kentucky Rye, Part 3",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "The Twilight Zone ’85 End Credits",
+     "duracao": "0:44"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

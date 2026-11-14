@@ -1,0 +1,875 @@
+{
+ "id": "blue-cheer",
+ "nome": "Blue Cheer",
+ "cena": "Descobertas do acervo",
+ "mbid": "523b52d7-a819-4111-9085-69fc269c9638",
+ "wikidata": "Q804567",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1966",
+ "fim": "2009",
+ "ativa": false,
+ "generos": [
+  "hard rock",
+  "acid rock",
+  "blues rock",
+  "heavy psych",
+  "country rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Blue_Cheer_Amstelveen_1968.jpg/500px-Blue_Cheer_Amstelveen_1968.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Blue_Cheer",
+ "resumo_pt": "Blue Cheer foi uma banda americana de rock  que inicialmente tocou e gravou durante o fim dos anos 1960 e início dos anos 1970, tendo-se reunido esporadicamente até 2009. O grupo formado em São Francisco, Califórnia, tocava num estilo blues/rock psicodélico e também é creditado por ser um dos pioneiros no heavy metal, com seu cover de \"Summertime Blues\" citado como uma das primeiras canções do gênero. Eles também são notáveis por influenciar o desenvolvimento de variados estilos como punk rock, stoner rock, doom metal, rock experimental e  grunge.\nDesde sua formação o Blue Cheer aliava em suas músicas o desenrolar do blues, juntamente à poderosas sessões ritmicas combinadas de baixo e bateria, além de efeitos pesadíssimos de guitarra assemelhando-se muito com as primeiras bandas do  gênero que veio a se chamar heavy metal, em que os guitarristas cada vez mais inventavam efeitos e jeitos diferentes de tocar, experimentando dissonâncias e escalas sobrepostas em suas composições. A estética fuzzy das guitarras com distorções pesadas, típicas dos equipamentos da época, fizeram a gênese do hard rock psicodélico assim como os grupos Black Sabbath e Pentagram (que inclusive produziu tributos especiais para a banda).",
+ "resumo_en": "Blue Cheer was an American rock band that initially performed and recorded in the late 1960s and early 1970s and was sporadically active until 2009. Based in San Francisco, Blue Cheer played in a psychedelic blues rock or acid rock style. They are also credited as being some of the earliest pioneers of heavy metal, with their cover of \"Summertime Blues\" sometimes cited as the first in the genre. They have also been noted as influential in the development of genres as disparate as stoner rock, experimental rock, and grunge.",
+ "albuns": [
+  {
+   "id": "753ba620-4fb2-3ecd-931f-b86bb0c14c8d",
+   "titulo": "Outsideinside",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/fde47bcf-fe19-46c8-901d-859b9d1253d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feathers From Your Tree",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Sun Cycle",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Just a Little Bit",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Gypsy Ball",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Come and Get It",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "(I Can't Get No) Satisfaction",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "The Hunter",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Magnolia Caboose Babyfinger",
+     "duracao": "1:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Babylon",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Outsideinside",
+   "resumo_en": "Outsideinside is the second album by American rock trio Blue Cheer.  Philips Records released the album in August 1968, only seven months after their debut LP, Vincebus Eruptum.\nThe album was recorded both outdoors and indoors—hence the title of the album. The songs include contributions from all members, along with two covers: \"Satisfaction\" by the Rolling Stones and \"The Hunter\" by Albert King.\nOutsideinside reached number 90 on the Billboard 200 album chart. \"Just a Little Bit\" was the first single from the album; it peaked at number 92 on the Billboard Hot 100 singles chart.",
+   "spotify": "5gAHiqi7t8K6fFDtrvfdnT",
+   "youtube": null
+  },
+  {
+   "id": "97fd4dc6-6a19-3ae1-b063-6fcdcc061e6b",
+   "titulo": "Vincebus Eruptum",
+   "data": "1968-01-16",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/ebaf7553-82c7-4532-847e-5e23b98c4cf1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Summertime Blues",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock Me Baby",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Doctor Please",
+     "duracao": "8:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Out of Focus",
+     "duracao": "3:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Parchment Farm",
+     "duracao": "5:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Second Time Around",
+     "duracao": "6:18"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vincebus_Eruptum",
+   "resumo_en": "Vincebus Eruptum (; pseudo-Latin) is the debut album of American rock band Blue Cheer. Released on January 16, 1968, the album features a heavy-thunderous blues sound, which would later be known as heavy metal.\nA commercial and critical success, Vincebus Eruptum peaked at number 11 on the Billboard 200 albums chart and spawned the number 14 hit cover of Eddie Cochran's \"Summertime Blues\". Being an example of hard rock, it is also lauded as one of the first heavy metal albums. Spin magazine placed it at number 22 on their list of the 40 greatest metal albums, declaring the album, \"Proto-metal, but also the birthplace of grunge.\"",
+   "spotify": "3dAjO3dyUP7edWoE1OeB7b",
+   "youtube": null
+  },
+  {
+   "id": "90702c3f-1825-41e2-9439-909a1a5ea38c",
+   "titulo": "New! Improved!",
+   "data": "1969-03",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/94f6a8a8-b8fa-4f6e-8d84-16f8cb5bf0f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When It All Gets Old",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "West Coast Child of Sunshine",
+     "duracao": "2:42"
+    },
+    {
+     "n": 3,
+     "titulo": "I Want My Baby Back",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Aces ’n’ Eights",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "As Long as I Live",
+     "duracao": "2:22"
+    },
+    {
+     "n": 6,
+     "titulo": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Peace of Mind",
+     "duracao": "7:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Fruit & Iceburgs",
+     "duracao": "6:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Honey Butter Lover",
+     "duracao": "1:14"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/New%21_Improved%21",
+   "resumo_en": "New! Improved! is the third album by American rock group Blue Cheer. Released in March 1969 by Philips Records, it is their first without original guitarist Leigh Stephens.  The album features songs recorded by two different group lineups: in addition to bassist and vocalist Dickie Peterson and drummer Paul Whaley, side one includes Bruce Stephens (no relation to Leigh) on guitar and Burns Kellogg on keyboards; while side two includes Randy Holden on guitar and vocals.\nThe two lineups contribute very different material. With Holden, the approach is closer to the previous psychedelic hard rock of Blue Cheer albums; with Kellogg and Peterson, they explore more understated blues rock and country rock styles.  Also, unlike their earlier albums, Peterson plays a smaller role. Holden wrote and sings the songs on side two, while Kellogg and Stephens contribute most of the material on side one.\nNew! Improved! was slightly more successful than the group's previous album, Outsideinside, and reached number 84 on the Billboard 200 album chart. One single \"West Coast Child of Sunshine\", backed with \"When It All Gets Old\", was released, but did not reach the charts. The album has been reissued s",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "82ec94af-28c3-3f1e-a2bd-2f86bfc8e13f",
+   "titulo": "Blue Cheer",
+   "data": "1969-12",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/f8058e68-00e2-45bd-b7b9-306a6d12919a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fool",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "You're Gonna Need Someone",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Hello L.A., Bye-Bye Birmingham",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Saturday Freedom",
+     "duracao": "5:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Ain't That the Way (Love's Supposed to Be)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock and Roll Queens",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Better When We Try",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Natural Man",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Lovin' You's Easy",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "The Same Old Story",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blue_Cheer_%28album%29",
+   "resumo_en": "Blue Cheer is the fourth album by American rock band Blue Cheer. It was recorded at Wally Heider Studios in San Francisco and released in December 1969 by Philips Records. Gary Lee Yoder contributed songwriting for the opening and closing tracks and would later join the group as guitarist on their next album The Original Human Being.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b2de58c3-0cce-308c-bb76-3880fe9942d2",
+   "titulo": "BC #5 The Original Human Being",
+   "data": "1970-11-03",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/e4d4219a-a907-4a29-82db-dd31717461c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Times Are So Hard to Find",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Love of a Woman",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Make Me Laugh",
+     "duracao": "5:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Pilot",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Babaji (Twilight Raga)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Preacher",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Sun",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Tears by My Bed",
+     "duracao": "2:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Man on the Run",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Sandwich",
+     "duracao": "5:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Rest at Ease",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Original_Human_Being",
+   "resumo_en": "The Original Human Being is Blue Cheer's fifth album. It was released in 1970 and shows Blue Cheer exploring a more psychedelic and laid‑back rock and roll with horn sections on a few of the songs. This album features a very unusual, and different, song for Blue Cheer: \"Babaji (Twilight Raga)\", which features extensive use of sitar and synthesizer. These instruments were only used one other time in the song \"I'm the Light\" on the album Oh! Pleasant Hope.\nThe Original Human Being peaked at No. 188 on the Billboard Top LPs chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ae4bfc7c-a6b9-38ce-8c97-1bd5bc18c45d",
+   "titulo": "Oh! Pleasant Hope",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/b29ebda8-c439-4731-a91c-9ed1c1ea457a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hiway Man",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Believer",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Money Troubles",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Traveling Man",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Oh! Pleasant Hope",
+     "duracao": "2:41"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm the Light",
+     "duracao": "5:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Ecological Blues",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Lester the Arrester",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Heart Full of Soul",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Oh%21_Pleasant_Hope",
+   "resumo_en": "Oh! Pleasant Hope is the sixth album by American rock group Blue Cheer, and their final album until 1984's The Beast Is Back. It features less psychedelia and hard rock and includes more folk rock elements. This is an unusual Blue Cheer album in that Dickie Peterson only sings lead on three songs. Another unusual aspect is that the song \"I'm the Light\" features extensive use of the sitar and synthesizer, although on the previous album The Original Human Being the song \"Babaji (Twilight Raga)\" also featured extensive use of the aforementioned instruments.",
+   "spotify": "69AS8eUNOsDrrPVfJMl8CB",
+   "youtube": null
+  },
+  {
+   "id": "6580a107-a1fa-3585-b424-37ff50a97301",
+   "titulo": "The Beast Is Back",
+   "data": "1985-02",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/838fc6d6-8ab8-4bc4-9dc3-35788618c0de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nightmares",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Summertime Blues",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Ride With Me",
+     "duracao": "5:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Girl Next Door",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Babylon",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Heart of the City",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Out of Focus",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Parchment Farm",
+     "duracao": "6:55"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Beast_Is_Back",
+   "resumo_en": "The Beast Is Back is the seventh album by a newly reformed Blue Cheer, 13 years after their previous album, Oh! Pleasant Hope (1971). It contains re-recorded versions of some of the band's most popular songs from their late-1960s heyday as well as new material. The album features founding members Dickie Peterson and Paul Whaley. Original guitarist Leigh Stephens did not participate in the reunion.\nThe Beast Is Back has been released with three different album covers.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "764615a1-a99d-4a27-8eec-d1fce52f0777",
+   "titulo": "Highlights and Lowlives",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/bd30581b-e6cb-46e7-b0b1-059417992dcd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Urban Soldiers",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Hunter of Love",
+     "duracao": "5:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Girl From London",
+     "duracao": "5:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Blue Steel Dues",
+     "duracao": "6:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Trouble in Paradise",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Flight of the Enola Gay",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Hoochie Coochie Man",
+     "duracao": "5:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Down and Dirty",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Blues Cadillac",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Highlights_and_Lowlives",
+   "resumo_en": "Highlights and Lowlives is the eighth studio album by American rock band Blue Cheer, released in 1990 and produced by Jack Endino. The bonus track Blues Cadillac is on some versions/releases and can be hidden on some of the CDs.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e9f64708-facf-3ff6-a874-9ca6fd8c460d",
+   "titulo": "Dining With the Sharks",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/d4408239-478c-4432-97ed-c3debf226d33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Big Noise",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Outrider",
+     "duracao": "6:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Child of the Reeperbahn",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Gunfight",
+     "duracao": "6:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Audio Whore",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Cut the Costs",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Sex Soldier",
+     "duracao": "5:05"
+    },
+    {
+     "n": 8,
+     "titulo": "When Two Spirits Touch",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Pull the Trigger",
+     "duracao": "5:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Foxy Lady",
+     "duracao": "3:51"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dining_with_the_Sharks",
+   "resumo_en": "Dining With the Sharks is the ninth studio album by American rock band Blue Cheer. It features a cover of Jimi Hendrix's classic \"Foxy Lady\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a56c90c3-2554-4dc1-9c00-845017ef232e",
+   "titulo": "Live & Unreleased '68/'74",
+   "data": "1996",
+   "ano": "1996",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Summertime Blues",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Out Of Focus",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Doctor Please",
+     "duracao": "9:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Fighting Star",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Adventures",
+     "duracao": "2:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Make It To The Party",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "New Orleans",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Ace In The Hole",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Punk",
+     "duracao": "5:26"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cb438078-e147-3ffb-868b-0b3ad811bfb0",
+   "titulo": "What Doesn't Kill You...",
+   "data": "2007-08-21",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/d4caafe3-0163-4131-b86a-47e63586b92d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rollin' Dem Bones",
+     "duracao": "4:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Piece O' the Pie",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Born Under a Bad Sign",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Gypsy Rider",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Young Lions in Paradise",
+     "duracao": "6:50"
+    },
+    {
+     "n": 6,
+     "titulo": "I Don't Know About You",
+     "duracao": "5:01"
+    },
+    {
+     "n": 7,
+     "titulo": "I'm Gonna Get to You",
+     "duracao": "6:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Malajusted Child",
+     "duracao": "5:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Just a Little Bit (Redux)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "No Relief",
+     "duracao": "9:31"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/What_Doesn%27t_Kill_You..._%28Blue_Cheer_album%29",
+   "resumo_en": "What Doesn't Kill You... is the tenth and final studio album recorded by American rock band Blue Cheer. It includes a remake of their song \"Just a Little Bit\" originally from their album Outsideinside and a cover of the classic blues song \"Born Under a Bad Sign.\" David Fricke has called the album \"a strong studio calling card.\" The album features Pentagram drummer Joe Hasselvander on half of the album's tracks while the other half features original drummer, Paul Whaley. The title alludes to Nietzsche's aphorism \"What does not kill me makes me stronger\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "04e92b5b-a1d0-4b03-9110-92547b50f373",
+   "titulo": "7",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/65f9c6e9-cb77-469f-a6f9-fc96377bd076/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Summertime Blues",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Route 66",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Take Me Away",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "I Want You Once Again",
+     "duracao": "6:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Out Of Focus",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Starlight",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Child Of The Darkness",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Blues Cadillac",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Lies",
+     "duracao": "2:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Feelin' OK",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c9ba90e5-9560-4d9f-bfa0-2e9fe10e5891",
+   "titulo": "Junk",
+   "data": "2025-04-18",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/5c96def4-4d8c-495a-b70e-36ad423403f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Easy Rider",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "All the Girls in the World",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Foxy Lady - Cover",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Piece of My Heart - Cover",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Sympathy for the Devil - Cover",
+     "duracao": "8:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Roadhouse Blues - Cover",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "No Relief - (demo)",
+     "duracao": "6:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Summertime Blues - Live Final Performance 12-22-2008",
+     "duracao": "9:09"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

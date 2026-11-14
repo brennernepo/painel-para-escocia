@@ -1,0 +1,702 @@
+{
+ "id": "budgie",
+ "nome": "Budgie",
+ "cena": "Descobertas do acervo",
+ "mbid": "517566c5-3d43-4a81-8f78-9a78f3209e09",
+ "wikidata": "Q508678",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "2010",
+ "ativa": false,
+ "generos": [
+  "heavy metal",
+  "hard rock",
+  "progressive rock",
+  "metal",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Burke_Shelley_of_Budgie%2C_1981.jpg/500px-Burke_Shelley_of_Budgie%2C_1981.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Budgie_%28banda%29",
+ "resumo_pt": "Budgie foi uma banda de hard rock/heavy metal de Cardiff, País de Gales. Eles são descritos pelo autor Garry Sharpe-Young como uma das primeiras bandas de heavy metal e uma influência seminal para muitos este sub-estilo, com rock rápido e pesado (uma influência na nova onda do heavy metal britânico (NWOBHM) e atos como o Metallica). A atual formação é composta por Simon Lees (guitarra), Burke Shelley (baixo e vocal) e Steve Williams (bateria).",
+ "resumo_en": "Budgie were a Welsh heavy metal band from Cardiff. The band formed in 1967, and recorded a demo the following year. Bass player and lead vocalist Burke Shelley was the only permanent member of the band throughout their history. Original guitarist Tony Bourge left the band in 1978 following the release of their seventh album. \nIn 1971, their first album was blues-oriented hard rock / heavy metal and produced by Rodger Bain, released by MCA. Later records found Budgie gradually moving into a harder and more aggressive sound. The band, usually a classic power trio with the occasional keyboard player, released ten albums, with MCA, A&M, and RCA, between 1971 and 1982, attracting a fair number of fans and achieving modest commercial success.\nBudgie were one of the earliest heavy metal bands, and according to Garry Sharpe-Young they influenced many acts of that scene, particularly the new wave of British heavy metal, and later acts such as Metallica. The band have been noted as \"among the heaviest metal of its day\".",
+ "albuns": [
+  {
+   "id": "966ca955-3513-3b72-b66b-3916a9dd757e",
+   "titulo": "Budgie",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/7e2f6db3-0b13-43aa-be93-5f4276555168/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Guts",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Everything in My Heart",
+     "duracao": "0:52"
+    },
+    {
+     "n": 3,
+     "titulo": "The Author",
+     "duracao": "6:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Nude Disintegrating Parachutist Woman",
+     "duracao": "8:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Rape of the Locks",
+     "duracao": "6:12"
+    },
+    {
+     "n": 6,
+     "titulo": "All Night Petrol",
+     "duracao": "5:57"
+    },
+    {
+     "n": 7,
+     "titulo": "You and I",
+     "duracao": "1:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Homicidal Suicidal",
+     "duracao": "6:41"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Budgie_%28album%29",
+   "resumo_en": "Budgie is the debut album by the Welsh heavy metal band Budgie. It was released on 30 July 1971, through MCA Records. The US version on Kapp Records includes \"Crash Course in Brain Surgery\", originally released as a single and covered by Metallica on their 1987 EP The $5.98 E.P. - Garage Days Re-Revisited. \"Homicidal Suicidal\" has also been covered by the Seattle grunge band Soundgarden. Canadian band Thrush Hermit covered \"Nude Disintegrating Parachutist Woman\" on the album All Technology Aside, included on the 2010 The Complete Recordings box set.",
+   "spotify": "0oUP2gjHQLjfAXWZVQh05n",
+   "youtube": null
+  },
+  {
+   "id": "c25c1785-5c9c-3a74-b683-ff449865b877",
+   "titulo": "Squawk",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/a435f720-fcbd-4ab1-84ca-8cf3edf45561/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Whiskey River",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Rocking Man",
+     "duracao": "5:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Rolling Home Again",
+     "duracao": "1:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Make Me Happy",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Hot as a Docker's Armpit",
+     "duracao": "5:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Drugstore Woman",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Bottled",
+     "duracao": "1:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Young Is a World",
+     "duracao": "8:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Stranded",
+     "duracao": "6:17"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Squawk_%28album%29",
+   "resumo_en": "Squawk is the second Rodger Bain produced studio album by the heavy metal power trio band, Budgie. It was released in September 1972 on Kapp Records. The album was certified Gold in 1973. The cover art was done by Roger Dean.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "58ea61fb-af46-3af2-88fd-e1743afc8064",
+   "titulo": "Never Turn Your Back on a Friend",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/0dca847c-613e-40dd-8d59-f5b81ff7c63d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breadfan",
+     "duracao": "6:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Baby Please Don't Go",
+     "duracao": "5:30"
+    },
+    {
+     "n": 3,
+     "titulo": "You Know I'll Always Love You",
+     "duracao": "2:15"
+    },
+    {
+     "n": 4,
+     "titulo": "You're the Biggest Thing Since Powdered Milk",
+     "duracao": "8:50"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Grip of a Tyrefitter's Hand",
+     "duracao": "6:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Riding My Nightmare",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Parents",
+     "duracao": "10:25"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Never_Turn_Your_Back_on_a_Friend",
+   "resumo_en": "Never Turn Your Back on a Friend is the third studio album by Welsh heavy metal band Budgie, released on 30 June 1973. This was drummer Ray Phillips' final appearance on a Budgie recording date. The album shows the band continuing the successful heavy metal formula of their previous album Squawk, adding a hint of speed metal in the single \"Breadfan\", one of the band's best known songs.\nRoger Dean created the artwork for the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2efaddc9-beec-3a30-8b97-ca645b91a4e0",
+   "titulo": "In for the Kill",
+   "data": "1974-06",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/f7135abb-de7f-456f-8e90-57e0488fe94a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In for the Kill",
+     "duracao": "6:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Crash Course in Brain Surgery",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Wondering What Everyone Knows",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Zoom Club",
+     "duracao": "9:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Hammer and Tongs",
+     "duracao": "7:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Running From My Soul",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Living on Your Own",
+     "duracao": "8:54"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_for_the_Kill%21",
+   "resumo_en": "In for the Kill! is the fourth studio album by Welsh heavy metal band Budgie. It was released through MCA Records in May 1974. The album includes the song \"Crash Course in Brain Surgery,\" originally released in 1971 as a single and was included on their self-titled debut album. The song was covered by Metallica for their 1987 EP The $5.98 E.P. - Garage Days Re-Revisited, while the album's title track was covered by Van Halen during the group's club days.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55cf5b66-38b9-388d-b4a4-0509eac30826",
+   "titulo": "Bandolier",
+   "data": "1975-09",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/803634fe-c257-4c75-8b48-0e7473648286/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breaking All the House Rules",
+     "duracao": "7:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Slipaway (A Parrot Fashion Ball)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Do You Want for Your Love?",
+     "duracao": "6:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I Can't See My Feelings",
+     "duracao": "5:55"
+    },
+    {
+     "n": 5,
+     "titulo": "I Ain't No Mountain",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Napoleon Bona, Parts One & Two",
+     "duracao": "7:15"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bandolier_%28album%29",
+   "resumo_en": "Bandolier is the fifth album by Welsh heavy metal band Budgie, released on 5 September 1975 through MCA Records. It reached No. 36 in the UK. The album was released in the US on A&M Records in late 1975. The cover art was created by artist Patrick Woodroffe. This was the first LP to feature drummer Steve Williams, who thereafter would play on all of Budgie's releases, along with Burke Shelley.\nThe song \"I Can't See My Feelings\" was covered by Iron Maiden on the B-side of their 1992 single \"From Here to Eternity\".\n'Bandolier – Budgie', a free iTunes app for iPad, iPhone and iPod touch, was released in December 2011. It tells the story of the making of Bandolier in the band's own words, including an extensive audio interview with Burke Shelley.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "530446f8-3275-318e-9202-ea480bd79783",
+   "titulo": "If I Were Brittania I'd Waive the Rules",
+   "data": "1976-04-23",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/35ef3158-aa5f-426f-aa94-6b637d083ba9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anne Neggen",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "If I Were Brittania I'd Waive the Rules",
+     "duracao": "5:53"
+    },
+    {
+     "n": 3,
+     "titulo": "You're Opening Doors",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Quacktor and Bureaucats",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Sky High Percentage",
+     "duracao": "5:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Heaven Knows Our Name",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Velvet Stallion",
+     "duracao": "8:07"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/If_I_Were_Brittania_I%27d_Waive_the_Rules",
+   "resumo_en": "If I Were Brittania I'd Waive the Rules  is the sixth album by the Welsh heavy metal band Budgie, released in April 1976.\nThe album is the band's first new release with A&M Records, having signed with them in late 1975 to distribute the US pressings of Bandolier. Musically, the band's usual hard rock / heavy metal style is augmented on this album with funk elements in two songs, and progressive rock in two others.\nThe title is a pun on the concept of Britannia ruling the waves. Professor Irene Morra of Cardiff University wrote that Budgie used this title to \"declare an essential lack of agency within Britain\" which helped portray a countercultural identity, lacking in national ambition.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "455dd3c0-fa03-3a70-b321-07614061fd19",
+   "titulo": "Impeckable",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/c7a3fe10-2e2b-4daf-8b1d-8184e70b4de5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Melt the Ice Away",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Love for You and Me",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "All at Sea",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Dish It Up",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Pyramids",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Smile Boy Smile",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "I'm a Faker Too",
+     "duracao": "4:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Go Away",
+     "duracao": "4:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Dilute the Water",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Impeckable",
+   "resumo_en": "Impeckable  is the seventh album by the Welsh heavy metal band Budgie. It was released in February 1978 on A&M Records. Guitarist Tony Bourge left the band after the album was released.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "951a5455-1f58-3759-bef6-ce18fe66e07e",
+   "titulo": "Power Supply",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/2798b420-b4c2-4652-b711-e14776fbb5a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Forearm Smash",
+     "duracao": "5:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Hellbender",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Heavy Revolution",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Gunslinger",
+     "duracao": "5:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Power Supply",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Secrets in My Head",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Time to Remember",
+     "duracao": "5:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Crime Against the World",
+     "duracao": "5:37"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Power_Supply_%28album%29",
+   "resumo_en": "Power Supply  is the eighth album by the Welsh heavy metal power trio, Budgie, released in October 1980 on Active Records, a sublabel of RCA Records (which was the distributor of A&M Records — Budgie's previous label — at the time). This is the first album without original guitarist Tony Bourge, who left the band in 1978 after the album Impeckable. Power Supply showcases a more straight forward blues-influenced raw heavy metal sound that dispenses entirely with the experimental approach of the previous two albums, an approach that matched the zeitgeist of the time, reflecting the renewed and revitalised surge of interest in classic heavy metal brought about by the younger NWOBHM bands.  \nNew guitarist John Thomas, from the Southern rock outfit the George Hatcher Band, ventured away from the sometime progressive rock, psychedelic minor chord focused inclinations of the previous guitarist, Tony Bourge, to replace it with a more direct heavy metal blues rock rhythm and blues sound that took the band in new directions with this and subsequent albums, which appealed to the older fans of the band as well as attracting new audiences.\nDave Charles, who had previously worked with Dr. Feelgo",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b62f1bcd-f4b2-3c81-ae1a-cf81851e381f",
+   "titulo": "Nightflight",
+   "data": "1981-10",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/f8af4f1c-6953-4c9e-b7b0-3cfde7a9cf45/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Turned to Stone",
+     "duracao": "6:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Keeping a Rendezvous",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Reaper of the Glory",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "She Used Me Up",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Lay Down and Die",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Apparatus",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Superstar",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Change Your Ways",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Untitled Lullaby",
+     "duracao": "1:15"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nightflight_%28Budgie_album%29",
+   "resumo_en": "Nightflight  is the ninth album by the Welsh heavy metal band Budgie, released on 2 October 1981 on RCA Records. A remastered version, with two live tracks from 1981, was released in 2013.\nThe illustration on the cover is by Derek Riggs.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "98a42683-4e95-33c0-9bae-67c618ecabf2",
+   "titulo": "Deliver Us From Evil",
+   "data": "1982-10",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/3bd68eae-0a34-4ef0-95ac-c579f74654d1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bored With Russia",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Cry",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Truth Drug",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Young Girl",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Flowers in the Attic",
+     "duracao": "5:14"
+    },
+    {
+     "n": 6,
+     "titulo": "N.O.R.A.D. (Doomsday City)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Give Me the Truth",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Alison",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Finger on the Button",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Hold on to Love",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Deliver_Us_from_Evil_%28Budgie_album%29",
+   "resumo_en": "Deliver Us from Evil  is the tenth album by the Welsh heavy metal band Budgie, released in October 1982 on RCA Records, and according to Burke Shelley its theme \"attacks the power structures of East and West and the balance of terror\"; it also \"refers to all kinds of evil, not just The Bomb and war, but the main theme calls for world peace\". One reviewer suggested that the album's lyrics were influenced by Shelley becoming a born-again Christian.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bafde6ab-6221-3e7a-bc13-212b05d5d5ec",
+   "titulo": "You're All Living in Cuckooland",
+   "data": "2006-11-09",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/2463f39c-d791-4855-8925-682af72e6a54/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Justice",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Dead Men Don't Talk",
+     "duracao": "6:08"
+    },
+    {
+     "n": 3,
+     "titulo": "We're All Living in Cuckooland",
+     "duracao": "6:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Falling",
+     "duracao": "5:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Is Enough",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Tell Me Tell Me",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "(Don't Want to) Find That Girl",
+     "duracao": "6:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Captain",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don't Want to Throw You",
+     "duracao": "5:31"
+    },
+    {
+     "n": 10,
+     "titulo": "I'm Compressing the Comb on a Cockerel's Head",
+     "duracao": "8:17"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/You%27re_All_Living_in_Cuckooland",
+   "resumo_en": "You're All Living in Cuckooland  is the eleventh and final album by the Welsh heavy metal band Budgie. Released in November 2006, it was their first official studio album in 24 years. It was accompanied by a UK tour.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

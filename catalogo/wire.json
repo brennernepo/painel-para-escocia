@@ -1,0 +1,1436 @@
+{
+ "id": "wire",
+ "nome": "Wire",
+ "cena": "Descobertas do acervo",
+ "mbid": "7f2a8098-50e3-451c-8696-c5d9f64f4762",
+ "wikidata": "Q1135620",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1976",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "post-punk",
+  "art punk",
+  "punk rock",
+  "new wave",
+  "industrial rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wire_june_2008.jpg/500px-Wire_june_2008.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Wire",
+ "resumo_pt": "Wire é uma banda britânica de rock formada em 1976 em Londres, Inglaterra, por Graham Lewis (baixo, voz), Bruce Gilbert (guitarra), Colin Newman (voz, guitarra) e Robert Gotobed (bateria). Foi uma das primeiras bandas de punk rock a misturar seus sons com profundos conceitos artísticos. Também é conhecida por fazer músicas cruas e curtas, além de letras extremamente enigmáticas, com críticas aos atuais modelos do mundo. Foi um dos precursores do pós-punk. Artistas que influenciaram Wire: Velvet Underground, Brian Eno e Marcel Duchamp.",
+ "resumo_en": "Wire are an English rock band. They were formed in London in October 1976 by Colin Newman (vocals, guitar), Graham Lewis (bass, vocals), Bruce Gilbert (guitar), George Gill (lead guitar) and Robert Grey (aka Robert Gotobed; drums). They were originally associated with the punk rock scene, appearing on The Roxy London WC2 album, and were instrumental in the development of post-punk, while their debut album, Pink Flag, was influential for hardcore punk.\nWire are regarded as an influential band within the art punk and post-punk genres. Their sound evolved from an early noise rock style into a more complex and atmospheric approach characterized by the increased use of guitar effects and synthesizers, particularly on Chairs Missing (1978) and 154 (1979). Throughout their career the band have been noted for experimentation with song structures and arrangements.",
+ "albuns": [
+  {
+   "id": "9facb8b5-4b02-3f28-9f4a-61cb9b8fd7aa",
+   "titulo": "Pink Flag",
+   "data": "1977-11",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/80d0a4c9-ce91-4a15-bf15-1bb9913b814c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reuters",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Field Day for the Sundays",
+     "duracao": "0:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Three Girl Rhumba",
+     "duracao": "1:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Ex Lion Tamer",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Lowdown",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Start to Move",
+     "duracao": "1:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Brazil",
+     "duracao": "0:41"
+    },
+    {
+     "n": 8,
+     "titulo": "It's So Obvious",
+     "duracao": "0:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Surgeon's Girl",
+     "duracao": "1:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Pink Flag",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "The Commercial",
+     "duracao": "0:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Straight Line",
+     "duracao": "0:42"
+    },
+    {
+     "n": 13,
+     "titulo": "106 Beats That",
+     "duracao": "1:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Mr. Suit",
+     "duracao": "1:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Strange",
+     "duracao": "3:56"
+    },
+    {
+     "n": 16,
+     "titulo": "Fragile",
+     "duracao": "1:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Mannequin",
+     "duracao": "2:36"
+    },
+    {
+     "n": 18,
+     "titulo": "Different to Me",
+     "duracao": "0:42"
+    },
+    {
+     "n": 19,
+     "titulo": "Champs",
+     "duracao": "1:47"
+    },
+    {
+     "n": 20,
+     "titulo": "Feeling Called Love",
+     "duracao": "1:20"
+    },
+    {
+     "n": 21,
+     "titulo": "1 2 X U",
+     "duracao": "1:55"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.6,
+    "fontes": 10
+   },
+   "publico": 8.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pink_Flag",
+   "resumo_en": "Pink Flag is the debut album by the British post-punk band Wire. It was released on 25 November 1977 through Harvest Records. It was produced by Mike Thorne, recorded from September to October, 1977, in Advision Studios, London. The album was acclaimed on release, and has since been highly influential; today it is regarded as a landmark in the development of post-punk music.",
+   "spotify": "2XypKUg8tyn0ZRxxJwrxnP",
+   "youtube": null
+  },
+  {
+   "id": "3e60a576-5bd0-3028-a0db-558c4a9845c7",
+   "titulo": "Chairs Missing",
+   "data": "1978-10",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/67ddba60-c6bb-49bf-8fa2-1f948ec82ba9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Practice Makes Perfect",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "French Film Blurred",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Another the Letter",
+     "duracao": "1:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Men 2nd",
+     "duracao": "1:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Marooned",
+     "duracao": "2:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Sand in My Joints",
+     "duracao": "1:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Being Sucked In Again",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Heartbeat",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Mercy",
+     "duracao": "5:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Outdoor Miner",
+     "duracao": "1:45"
+    },
+    {
+     "n": 11,
+     "titulo": "I Am the Fly",
+     "duracao": "3:06"
+    },
+    {
+     "n": 12,
+     "titulo": "I Feel Mysterious Today",
+     "duracao": "1:56"
+    },
+    {
+     "n": 13,
+     "titulo": "From the Nursery",
+     "duracao": "3:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Used To",
+     "duracao": "2:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Too Late",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 10
+   },
+   "publico": 7.6,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chairs_Missing",
+   "resumo_en": "Chairs Missing is the second studio album by the English rock band Wire. It was released on 8 September 1978 through Harvest Records. It uses more developed song structures than the minimalist punk rock of the group's first album. The record was met with widespread critical acclaim.\nThe album peaked at number 48 in the UK Albums Chart. The single \"Outdoor Miner\" was a minor hit, peaking at number 51 in the UK singles chart.",
+   "spotify": "2l8C0BLbfbJM5YuoYottko",
+   "youtube": null
+  },
+  {
+   "id": "30e3a3dc-f544-3bc0-b574-c680cfeb64fe",
+   "titulo": "154",
+   "data": "1979-09-21",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/98357e15-1fb0-4926-ad4a-d6fbd0d858dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Should Have Known Better",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Two People in a Room",
+     "duracao": "2:10"
+    },
+    {
+     "n": 3,
+     "titulo": "The 15th",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "The Other Window",
+     "duracao": "2:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Single K.O.",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "A Touching Display",
+     "duracao": "6:55"
+    },
+    {
+     "n": 7,
+     "titulo": "On Returning",
+     "duracao": "2:06"
+    },
+    {
+     "n": 8,
+     "titulo": "A Mutual Friend",
+     "duracao": "4:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Blessed State",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Once Is Enough",
+     "duracao": "3:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Map Ref. 41°N 93°W",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Indirect Enquiries",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "40 Versions",
+     "duracao": "3:28"
+    },
+    {
+     "n": 14,
+     "titulo": "Song 1",
+     "duracao": "3:02"
+    },
+    {
+     "n": 15,
+     "titulo": "Get Down, Parts I & II",
+     "duracao": "4:27"
+    },
+    {
+     "n": 16,
+     "titulo": "Let’s Panic Later",
+     "duracao": "3:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Small Electric Piece",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.9,
+    "fontes": 9
+   },
+   "publico": 7.5,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/154_%28album%29",
+   "resumo_en": "154 is the third studio album by the English post-punk band Wire, released in 1979 \non EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America. Branching out even further from the minimalist punk rock style of their earlier work, 154 is considered a progression of the sounds displayed on Wire's previous album Chairs Missing, with the group experimenting with slower tempos, fuller song structures and a more prominent use of guitar effects, synthesizers and electronics.\nThe album is so named because the band had played 154 gigs in their career at the time of the album's release. The unusual title of the track \"Map Ref 41°N 93°W\" was based on a guess of the centre of the American Midwest by bassist and singer Graham Lewis; the location of these coordinates is coincidentally close to Centerville, Iowa.\nFollowing the album's release, a falling out with the band's record label, EMI, as well as creative differences led to their breaking up in 1980, making 154 the band's last album up until their eventual reunion in 1985 and subsequent release of The Ideal Copy in 1987.",
+   "spotify": "54csKoPnQbDk0dh2Un2gl4",
+   "youtube": null
+  },
+  {
+   "id": "e7bcef26-34c6-31da-80d1-8859deb78b00",
+   "titulo": "The Ideal Copy",
+   "data": "1987-04-27",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/c7a6f78e-d1a7-403d-9633-23f2ca1b54b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Point of Collapse",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Ahead",
+     "duracao": "4:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Madman’s Honey",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Feed Me",
+     "duracao": "5:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Ambitious",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Cheeking Tongues",
+     "duracao": "2:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Still Shows",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Over Theirs",
+     "duracao": "5:18"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 6
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Ideal_Copy",
+   "resumo_en": "The Ideal Copy is the fourth studio album by the English rock group Wire, released in April 1987 by Mute Records. It was the first full-length recording following the band's hiatus of 1980–1985  (The band had also recorded and released the Snakedrill EP in 1986 after reuniting). The Ideal Copy peaked at number 87 in the UK albums chart.",
+   "spotify": "5w0WNo3kTP5UWH77EFWTCs",
+   "youtube": null
+  },
+  {
+   "id": "39e9d58d-3b25-3bf2-b157-2724642f6814",
+   "titulo": "A Bell Is a Cup Until It Is Struck",
+   "data": "1988-05-16",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/73ec420c-0248-3272-b46f-e1812a7b4faa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silk Skin Paws",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "The Finest Drops",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "The Queen of Ur and the King of Um",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Free Falling Divisions",
+     "duracao": "3:34"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s a Boy",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Boiling Boy",
+     "duracao": "6:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Kidney Bingos",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Come Back in Two Halves",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Follow the Locust",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "A Public Place",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.2,
+    "fontes": 8
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Bell_Is_a_Cup",
+   "resumo_en": "A Bell Is a Cup... Until It Is Struck is the fifth studio  album by the British post-punk group Wire.",
+   "spotify": "37cKeKtyPeT6AwlNL9hQfs",
+   "youtube": null
+  },
+  {
+   "id": "2c87a3d0-7b13-3b0c-83ee-05d1c8b18425",
+   "titulo": "It’s Beginning to and Back Again",
+   "data": "1989-05",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/48a4a39f-fba2-4b8f-8d8a-9d55b96b0fdf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Finest Drops",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Eardrum Buzz",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "German Shepherds",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Public Place",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s a Boy",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Illuminated",
+     "duracao": "6:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Boiling Boy",
+     "duracao": "8:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Over Theirs",
+     "duracao": "9:24"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/It%27s_Beginning_To_And_Back_Again",
+   "resumo_en": "It's Beginning To And Back Again, also known by its acronym IBTABA, is the sixth studio album by the British post-punk group Wire, released in May 1989 by Mute Records.\nThe title of the album derives from the lyrics of the third song, \"German Shepherds\". Half of the album consists of reinterpretations of live performances of material from the band's previous record, A Bell Is a Cup...Until It Is Struck. The recordings are \"based on performances in Chicago, Portugal and London.\" Live tracks were deconstructed in the studio and remixed by Wire. The album contains the single \"Eardrum Buzz\", which was the band's most successful single in their history, charting at No. 2 on the Billboard Modern Rock Tracks chart and No. 68 in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2de1845c-1479-388b-9d1e-950f1278546d",
+   "titulo": "Manscape",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/5506e712-4395-46f0-8ebf-c4489c3fef42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Life in the Manscape",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Stampede",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Patterns of Behaviour",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Other Moments",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Small Black Reptile",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Torch It",
+     "duracao": "7:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Morning Bell",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Where’s the Deputation?",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "What Do You See?",
+     "duracao": "6:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Goodbye Ploy",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Sixth Sense",
+     "duracao": "4:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Children of Groceries",
+     "duracao": "3:03"
+    },
+    {
+     "n": 13,
+     "titulo": "You Hung Your Lights in the Trees / A Craftman’s Touch",
+     "duracao": "10:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Who Has Nine",
+     "duracao": "6:03"
+    },
+    {
+     "n": 15,
+     "titulo": "It Can’t Be True, Can It?",
+     "duracao": "4:06"
+    },
+    {
+     "n": 16,
+     "titulo": "Gravity Worship",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Manscape",
+   "resumo_en": "Manscape is the seventh studio album by the British post-punk group Wire, released in May 1990 by Mute Records. It was produced by David M. Allen, mostly recorded and mixed at RAK Studios, engineered by Roy Spong, and published by Dying Art Ltd.",
+   "spotify": "2Z7nvsVB25DYkINLOw2yjd",
+   "youtube": null
+  },
+  {
+   "id": "83d74e97-aa0e-330e-a5f8-00829abf7c2c",
+   "titulo": "The Drill",
+   "data": "1991-04-22",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/ecc93c41-ed90-3009-89f6-2422ca0e746a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In Every City?",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Whats Your Desire?",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Arriving/Staying/Going?",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "(A Berlin) Drill",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Do You Drive? (Turn Your Coat)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Jumping Mint?",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Did You Dugga?",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Where Are You Now?",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Drill_%28album%29",
+   "resumo_en": "The Drill is the eighth studio album by the British post-punk group Wire, released in April 1991 by Mute Records. The album comprises rerecorded and remixed versions of the same song, \"Drill\", with some versions featuring new lyrics. It is officially listed as an EP rather than an album despite its length of almost one hour.",
+   "spotify": "1faCYvg9ecHDv2lQgZs4Wn",
+   "youtube": null
+  },
+  {
+   "id": "965dd523-e0f5-337e-95b8-2eb723ddd339",
+   "titulo": "The First Letter",
+   "data": "1991-10-29",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/bce9efc6-2b79-4217-bc81-f9577207b612/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take It (for Greedy)",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "So and Slow It Grows (single mix)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "A Bargain at 3 and 20 Yeah!",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Footsi‐Footsi",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Ticking Mouth",
+     "duracao": "6:31"
+    },
+    {
+     "n": 6,
+     "titulo": "It Continues",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Looking at Me (Stop!)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Naked, Whooping and Such‐Like (extended On and On)",
+     "duracao": "7:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Tailor Made",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "No Cows on the Ice",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "A Big Glue Canal",
+     "duracao": "4:09"
+    },
+    {
+     "n": 12,
+     "titulo": "So and Slow It Grows",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_First_Letter",
+   "resumo_en": "The First Letter is the ninth studio album and the last album released by Wire before their second extended hiatus. It was released in October 1991 by Mute Records. It was one of only three releases credited to \"Wir\", the others being the \"So and Slow It Grows\" single, and a limited edition two-song EP entitled Vien. The band changed their name to \"Wir\" after drummer Robert Gotobed's departure; he quit the band because the musical direction increasingly relied on drum machines and loops. Other than an Erasure remix in 1995, the band would not reform until 1999, and not release any new material until 2002's Read & Burn 01 and Read & Burn 02 EPs and 2003's subsequent Send album. The First Letter produced the single \"So and Slow It Grows.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f5402b59-94fe-31b2-b973-f801c80cfe9e",
+   "titulo": "Send",
+   "data": "2003-04-28",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/78045ff2-d676-4b4f-9720-0ac30248f3b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In the Art of Stopping",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr Marx's Table",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Being Watched",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Comet",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "The Agfers of Kodack",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Nice Streets Above",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Spent",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Read and Burn",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "You Can't Leave Now",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Half Eaten",
+     "duracao": "1:58"
+    },
+    {
+     "n": 11,
+     "titulo": "99.9",
+     "duracao": "7:42"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 84,
+    "media": 7.6,
+    "fontes": 8
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Send_%28album%29",
+   "resumo_en": "Send is the tenth studio album by the English rock group Wire, released in May 2003 through their own Pinkflag label. It was their first recording as a four-piece since Manscape (1990) and the first full-length release by any incarnation of the group since 1991. The album contains seven songs previously released in 2002 on the EPs Read & Burn 01 and Read & Burn 02, and four songs exclusive to this release.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f960ca7b-4519-3944-a1f6-cb62737dcfcb",
+   "titulo": "Object 47",
+   "data": "2008-07-07",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/46af4a3c-4be4-492e-8b2c-f9a357787a6b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One of Us",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Circumspect",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Mekon Headman",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Perspex Icon",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Four Long Years",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Hard Currency",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Patient Flees",
+     "duracao": "5:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Are You Ready?",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "All Fours",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 77,
+    "media": 7.7,
+    "fontes": 9
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Object_47",
+   "resumo_en": "Object 47 (Object Forty-Seven) is the eleventh studio album by the English post punk band Wire, named so because it is the 47th item in the Wire discography – a methodology harking back to the name of their 1979 album, 154, which was named after the number of concerts they had played to that point. It is the first Wire album without the participation of guitarist Bruce Gilbert. It was released on 7 July 2008 in the UK and on 15 July in the US through the band's own Pinkflag label.",
+   "spotify": "1hxLe975qGYhzosF74wLxC",
+   "youtube": null
+  },
+  {
+   "id": "eb00d616-3994-421c-94d5-bbaafff80885",
+   "titulo": "Red Barked Tree",
+   "data": "2010-12-20",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/be773215-f8bb-42a4-bad5-fecb40b52c33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Please Take",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Now Was",
+     "duracao": "2:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Adapt",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Two Minutes",
+     "duracao": "2:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Clay",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Bad Worn Thing",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Moreover",
+     "duracao": "4:34"
+    },
+    {
+     "n": 8,
+     "titulo": "A Flat Tent",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Smash",
+     "duracao": "3:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Down to This",
+     "duracao": "4:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Red Barked Trees",
+     "duracao": "5:35"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 77,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Red_Barked_Tree",
+   "resumo_en": "Red Barked Tree is the twelfth studio album by the English post-punk band Wire, digitally released on 20 December 2010, and as a CD on 10 January 2011 on the Pinkflag label. Featuring eleven tracks covering a diverse range of musical styles, the record was well received by critics, who found the record representing \"the essence of their best work\", covering \"virtually all aspects of Wire's varied history\" to create \"a stylistic best-of composed of new material\".",
+   "spotify": "3Tm6OMfXk7PffAEt4NAkmX",
+   "youtube": null
+  },
+  {
+   "id": "cbb9fdb8-2455-4faa-99c7-91321dc0a796",
+   "titulo": "Change Becomes Us",
+   "data": "2013-03-18",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/0e81a4fd-a412-48f5-b29e-f0fa0b24973d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Doubles & Trebles",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Keep Exhaling",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Adore Your Island",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Re‐Invent Your Second Wheel",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Stealth of a Stork",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "B/W Silence",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Time Lock Fog",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Magic Bullet",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Eels Sang",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Love Bends",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "As We Go",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "& Much Besides",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Attractive Space",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 78,
+    "media": 7.9,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Change_Becomes_Us",
+   "resumo_en": "Change Becomes Us is the thirteenth studio album by British post-punk band Wire. It was released on 25 March 2013 through the band's own label, Pinkflag. It is the first studio album to feature guitarist Matthew Simms, who initially joined Wire as a touring guitarist in 2010.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "08dfc91b-962c-4111-95fd-b1e54a9c36af",
+   "titulo": "Wire",
+   "data": "2015-04-13",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/3b73ab8a-3595-4ab6-a16b-7de98919ac40/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blogging",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Shifting",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Burning Bridges",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "In Manchester",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "High",
+     "duracao": "1:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Sleep-Walking",
+     "duracao": "7:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Joust & Jostle",
+     "duracao": "2:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Swallow",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Split Your Ends",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Octopus",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Harpooned",
+     "duracao": "8:23"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 75,
+    "media": 7.4,
+    "fontes": 8
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wire_%28Wire_album%29",
+   "resumo_en": "Wire is the self-titled fourteenth studio album by British post-punk band Wire. It was released on 13 April 2015 through the band's Pinkflag label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "416ffb32-0565-4d4f-8f8d-d53fe775c96a",
+   "titulo": "Nocturnal Koreans",
+   "data": "2016-04-22",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/07c53ab4-d9ff-4e82-a0d1-e5be9226abcc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nocturnal Koreans",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Internal Exile",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Weight",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Forward Position",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Numbered",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Still",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Pilgrim Trade",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Fishes Bones",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 78,
+    "media": 7.5,
+    "fontes": 11
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nocturnal_Koreans",
+   "resumo_en": "Nocturnal Koreans is a mini-album and the fifteenth studio album by British post-punk band Wire. It was released on 22 April 2016 through the band's own Pinkflag label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "965743d9-de2c-4970-9d1a-77f2e185f047",
+   "titulo": "Silver/Lead",
+   "data": "2017-03-31",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/13ce533f-7a9f-484c-8177-435caa7cec98/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Playing Harp for the Fishes",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Short Elevated Period",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Diamonds in Cups",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Forever and a Day",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "An Alibi",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Sonic Lens",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "This Time",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Brio",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Sleep on the Wing",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Silver/Lead",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "metacritic": 77,
+    "media": 7.8,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Silver/Lead",
+   "resumo_en": "Silver/Lead is the sixteenth studio album by British post-punk band Wire. It was released on 31 March 2017.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "859f203b-dc96-4b41-b96f-cb128fa03eed",
+   "titulo": "Mind Hive",
+   "data": "2020-01-24",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/7b5b3530-d815-488a-aced-520979c6a31e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Be Like Them",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Cactused",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Primed and Ready",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Off the Beach",
+     "duracao": "2:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Unrepentant",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadows",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Oklahoma",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Hung",
+     "duracao": "7:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Humming",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 84,
+    "media": 8.0,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mind_Hive",
+   "resumo_en": "Mind Hive is the seventeenth studio album from English art punk band Wire, released on 24 January 2020 by Pinkflag. The release was preceded by a music video for \"Cactused\" made up of clips from the forthcoming documentary People in a Film and streaming audio for \"Primed and Ready\". They also announced a brief tour of North America to promote the recording.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "faab8bb1-78d8-467c-9872-ac8fe69b947c",
+   "titulo": "10:20",
+   "data": "2020-06-19",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/5ba2c494-8994-4a5f-8558-0902eb149dff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boiling Boy (10:20 version)",
+     "duracao": "6:21"
+    },
+    {
+     "n": 2,
+     "titulo": "German Shepherds (10:20 version)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "He Knows",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Underwater Experiences (10:20 version)",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "The Art of Persistence",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Small Black Reptile (10:20 version)",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Wolf Collides",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Over Theirs (10:20 version)",
+     "duracao": "8:51"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 76,
+    "media": 7.6,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/10%3A20_%28Wire_album%29",
+   "resumo_en": "10:20 is a compilation album by English art punk band Wire, released on 19 June 2020 through their own Pinkflag label.\nThe band considers it a collection of \"stray\" tracks that didn't fit on previous albums, including rerecorded songs dating back to the 1980s that evolved substantially through live performance, and which the band felt deserved a new life on an album. 10:20 was originally planned for the cancelled Record Store Day in April 2020 as vinyl-only, but was eventually released in multiple formats. The album title alludes to the recording dates of the album and its release (2010–2020), and also ten years of guitarist Matthew Simms being in the band.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

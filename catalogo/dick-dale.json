@@ -1,0 +1,834 @@
+{
+ "id": "dick-dale",
+ "nome": "Dick Dale",
+ "cena": "Pioneiros do rock'n'roll",
+ "mbid": "cc6115aa-379c-4133-9f46-5743a4a341d0",
+ "wikidata": "Q346785",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1937",
+ "fim": "2019",
+ "ativa": false,
+ "generos": [
+  "surf rock",
+  "rock and roll",
+  "instrumental rock",
+  "surf"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Dick_Dale_Middle_East_May_2005.jpg/500px-Dick_Dale_Middle_East_May_2005.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Dick_Dale",
+ "resumo_pt": "Dick Dale (Boston, 4 de maio de 1937 - Loma Linda, 16 de março de 2019), nome artístico de Richard Anthony Monsour, foi um guitarrista de surf rock, sendo aclamado como o criador deste gênero musical. Ele foi o pioneiro no uso de efeitos de reverberação portáteis, criando uma assinatura de textura sonora para instrumentais de surf, dando a nítida sensação de que a música flui em ondas, como se estivesse a surfar pelo ar.\nFoi considerado o 74º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.\nSeu maior sucesso é a versão que fez da canção Misirlou\", presente na trilha sonora do filme Pulp Fiction e também na do jogo Guitar Hero II. O grupo Black Eyed Peas usou samples na música no hit Pump It. Ele atende por \"The King of Surf Guitar\". É considerado o \"Pai do surf rock\". Além do acima citado, Dick Dale, é também o indireto responsável pela existência dos cabeçotes de 100 Watts RMS e pela presença de uma unidade de reverb neles. E nada disso seria possível sem a fúria do que se conhece por \"The Beast\", a one-of-a-kind Flying V dourada de Dick Dale.",
+ "resumo_en": "Richard Anthony Monsour (May 4, 1937 – March 16, 2019), known professionally as Dick Dale, was an American rock guitarist. He was a pioneer of surf music, drawing on Middle Eastern music scales and experimenting with reverb. Dale was known as \"The King of the Surf Guitar,\" which was also the title of his second studio album.\nDale was one of the most influential guitarists of all time and especially of the early 1960s. Most of the leading bands in surf music, such as the Beach Boys, Jan and Dean and the Trashmen, were influenced by Dale's music, and often included recordings of Dale's songs in their albums. His style and music influenced guitarists such as Jimi Hendrix, Pete Townshend, Eddie Van Halen and Brian May.\nHe has been credited with popularizing tremolo picking on electric guitar, a technique that is now widely used in many musical genres (such as extreme metal, jazz fusion, etc.). His speedy single-note staccato picking technique was unrivaled until guitarists like Eddie Van Halen entered the music scene.\nHe is cited as one of the fathers of heavy metal for pushing the limits of amplification. Working together with Leo Fender, Dale helped to develop new equipment that was capable of producing thick and previously unheard volumes including the first-ever 100-watt guitar amplifier. Dale also pioneered the use of portable reverb effects.\nThe use of his recording of \"Misirlou\" by Quentin Tarantino in the film Pulp Fiction led to his return in the 1990s, marked by four al",
+ "albuns": [
+  {
+   "id": "443df80b-63fc-3585-9b38-4c75f2561943",
+   "titulo": "Tribal Thunder",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/810a0525-8457-4184-973d-0ea2370faa76/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nitro",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "The New Victor",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Esperanza",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Shredded Heat",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Trail of Tears",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Caravan",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "The Eliminator",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Speardance",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Hot Links: A. Caterpillar Crawl B. Rumble",
+     "duracao": "5:59"
+    },
+    {
+     "n": 10,
+     "titulo": "The Long Ride",
+     "duracao": "3:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Tribal Thunder",
+     "duracao": "6:21"
+    },
+    {
+     "n": 12,
+     "titulo": "[Misirlou]",
+     "duracao": "2:29"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.9,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tribal_Thunder",
+   "resumo_en": "Tribal Thunder is an album by surf guitarist Dick Dale, released in 1993. It was his first album of new material in almost three decades.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63ec23a3-fcfc-37b9-bad8-12b9cfb438c0",
+   "titulo": "Unknown Territory",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/f2674024-e465-459e-97dd-952f5f3bda81/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Scalped",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Mexico",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "F Groove",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Terra Dicktyl",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Take It or Leave It",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Ghostriders in the Sky",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Fish Taco",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "California Sun",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Maria Elena",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Hava Nagila",
+     "duracao": "4:03"
+    },
+    {
+     "n": 11,
+     "titulo": "The Beast",
+     "duracao": "3:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Unknown Territory",
+     "duracao": "7:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Ring of Fire",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.9,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Unknown_Territory_%28Dick_Dale_album%29",
+   "resumo_en": "Unknown Territory is a studio album by the American surf guitarist Dick Dale, released in 1994. Dale supported the album with a North American tour. The cover of \"Ring of Fire\" was a tribute to Dale's childhood love of country music.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "407b7120-9ae5-4d77-880c-c0d1fedf705c",
+   "titulo": "The Phantom Surfers & Dick Dale",
+   "data": "1996",
+   "ano": "1996",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stop That Cedric",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Rhe Tell Tale Couch",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Rochambeau",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Tic-Toc-Rock",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Battle of Little Big Hand",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Skirfir",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Fairest of Them All",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Wow!",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Lonely Matress",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Gas Chamber",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Try to Hide Me",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Pretty Little Lisa",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Sloth in Molasses",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "We'll Never Hear the End of It",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "43811a3c-63cf-3ed5-b3fc-c09f412e1cac",
+   "titulo": "Calling Up Spirits",
+   "data": "1996-05-21",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/639d154a-51ef-4e11-bdf9-9f094d28975a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nitrus",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "The Wedge Paradiso",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "The Pit",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Fever",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Doom Box",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Catamount",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Window",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Calling Up Spirits",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Temple of Gizeh",
+     "duracao": "6:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Bandito",
+     "duracao": "5:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Third Stone From the Sun",
+     "duracao": "6:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Peppermint Man",
+     "duracao": "4:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Gypsy Fire",
+     "duracao": "3:13"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 5.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Calling_Up_Spirits",
+   "resumo_en": "Calling Up Spirits is an album by the surf guitarist Dick Dale, released in 1996. It was dedicated to the American Indians.\nDale supported the album by playing the 1996 Warped Tour.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "124fce0a-5162-3c25-9c63-b7a3662f2daa",
+   "titulo": "Spacial Disorientation",
+   "data": "2001-11-13",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/e1d7d161-d216-3f04-9dd3-349bf6191148/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "HMFIC",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "The Eliminator",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Haji (electric)",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "3013DD",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Smoke on the Water",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Belo Horizonte",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Walkin'",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Spacial Disorientation",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Oasis of Mara",
+     "duracao": "4:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Belo Horizonte (vocal)",
+     "duracao": "5:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Haji (acoustic)",
+     "duracao": "3:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Front Porch Blues",
+     "duracao": "4:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Baby Left Me",
+     "duracao": "3:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Mexico/Esperanza",
+     "duracao": "4:02"
+    },
+    {
+     "n": 15,
+     "titulo": "Yours",
+     "duracao": "5:02"
+    },
+    {
+     "n": 16,
+     "titulo": "Silent Night",
+     "duracao": "5:28"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "194db482-d7be-444b-bda8-4e26aabb4df8",
+   "titulo": "Misirlou",
+   "data": "2012-09-19",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/d797a95e-eb7a-4325-8236-426f53274e7c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Misirlou",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Surfing Drums",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Surf Beat",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Take It Off",
+     "duracao": "2:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Shake 'N' Stomp",
+     "duracao": "2:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Miserlou Twist",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Fanny Mae",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Death of a Gremmie",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Jungle Fever",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Lovey Dovey",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Let's Go Trippin'",
+     "duracao": "2:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Night Owl",
+     "duracao": "2:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Peppermint Man",
+     "duracao": "2:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Sloop John B",
+     "duracao": "2:19"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4043f70c-b87d-44c5-9fb4-448ea4f3a53d",
+   "titulo": "At the Drags",
+   "data": "2012-10-30",
+   "ano": "2012",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mag Wheels",
+     "duracao": "1:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Taco Wagon",
+     "duracao": "2:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Nitro Fuel",
+     "duracao": "2:00"
+    },
+    {
+     "n": 4,
+     "titulo": "The Lonesome Road",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "The Scavenger",
+     "duracao": "1:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Hot Rod Racer",
+     "duracao": "2:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Black Cad",
+     "duracao": "1:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Ho‐Dad Machine",
+     "duracao": "2:05"
+    },
+    {
+     "n": 9,
+     "titulo": "426 Super Stock",
+     "duracao": "1:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Night Rider",
+     "duracao": "1:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Mr. Eliminator",
+     "duracao": "2:00"
+    },
+    {
+     "n": 12,
+     "titulo": "The Victor",
+     "duracao": "3:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Surf Buggy",
+     "duracao": "2:06"
+    },
+    {
+     "n": 14,
+     "titulo": "50 Miles to Go",
+     "duracao": "2:14"
+    },
+    {
+     "n": 15,
+     "titulo": "Flashing Eyes",
+     "duracao": "1:45"
+    },
+    {
+     "n": 16,
+     "titulo": "Blond in the 406",
+     "duracao": "1:56"
+    },
+    {
+     "n": 17,
+     "titulo": "Firing Up",
+     "duracao": "2:35"
+    },
+    {
+     "n": 18,
+     "titulo": "My X‐ke",
+     "duracao": "1:50"
+    },
+    {
+     "n": 19,
+     "titulo": "Hot Rod Alley",
+     "duracao": "2:11"
+    },
+    {
+     "n": 20,
+     "titulo": "Wild, Wild Mustang",
+     "duracao": "1:51"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ae5d6b34-d980-4b80-849d-926e4891ac15",
+   "titulo": "Surfer’s Paradise, Vol. 1",
+   "data": "2013-01-01",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/4826228c-49c7-4ab4-80c6-f753f8377049/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Surf Beat",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Misirlou",
+     "duracao": "2:15"
+    },
+    {
+     "n": 3,
+     "titulo": "We’ll Never Hear the End of It",
+     "duracao": "2:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Stop Teasin",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Peppermint Man",
+     "duracao": "2:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Ooh‐Whee‐Marie",
+     "duracao": "2:16"
+    },
+    {
+     "n": 7,
+     "titulo": "St. Louis Blues",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Jungle Fever",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Jessie Pearl",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Lets Go Trippin",
+     "duracao": "2:12"
+    },
+    {
+     "n": 11,
+     "titulo": "The Fairest of Them All",
+     "duracao": "1:55"
+    },
+    {
+     "n": 12,
+     "titulo": "DelTone Rock",
+     "duracao": "2:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Eight ’Til Midnight",
+     "duracao": "2:08"
+    },
+    {
+     "n": 14,
+     "titulo": "Shake n Stomp",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "411bd806-c0e0-4204-acff-1e0a10a1c717",
+   "titulo": "King of Surf Guitar Live!",
+   "data": "2022-03-30",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/c8a656e2-9598-4349-8152-e6f4fd9397be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shredded Heat",
+     "duracao": "1:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Nitro",
+     "duracao": "2:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Miserlou",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Caravan",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Third Stone From the Sun",
+     "duracao": "6:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Take It or Leave It",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Rumble",
+     "duracao": "6:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Taco Wagon",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Trail of Tear",
+     "duracao": "2:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Scalped",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Fever",
+     "duracao": "2:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Peter Gunn Theme",
+     "duracao": "6:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Ghost Riders in the Sky",
+     "duracao": "6:26"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,1635 @@
+{
+ "id": "dr-feelgood",
+ "nome": "Dr. Feelgood",
+ "cena": "Descobertas do acervo",
+ "mbid": "fcc0e623-435b-4a46-b9b3-73823e22e1ec",
+ "wikidata": "Q1253897",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1971",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "pub rock",
+  "british rhythm & blues",
+  "british blues",
+  "proto-punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dr_feelgood_verviers_belgium_2009_03_26.jpg/500px-Dr_feelgood_verviers_belgium_2009_03_26.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Dr._Feelgood",
+ "resumo_pt": "Dr. Feelgood é uma banda britânica de pub rock formada em 1971. O nome da banda é uma gíria da droga heroína ou para o médico disposto a sobrescrever drogas.\nTambém é referência para uma gravação feita em 1962 pelo pianista americano de blues Willie Perryman (também conhecido como \"Piano Red\") chamada \"Dr. Feel-Good\", a qual Perryman gravou sob o nome de \"Dr. Feelgood & The Interns\". Algumas bandas britânicas fizeram versões da música nos anos 60, incluindo Johnny Kidd & The Pirates.",
+ "resumo_en": "Dr. Feelgood are an English pub rock band formed in 1971. Hailing from Canvey Island, Essex, they are best known for early singles such as \"She Does It Right\", \"Roxette\", \"Back in the Night\" and \"Milk and Alcohol\". Their original and distinctively British R&B sound was centred on Wilko Johnson's choppy guitar style. Along with Johnson, the initial band line-up included singer Lee Brilleaux and the rhythm section of John B. Sparks, known as \"Sparko\", on bass guitar and John Martin, known as \"The Big Figure\", on drums. Although their most commercially productive years were the mid to late-1970s, and in spite of Brilleaux's death in 1994, a version of the band (featuring none of the original members) continues to tour and record.",
+ "albuns": [
+  {
+   "id": "4ace42ba-ec42-3640-9e6e-b5c82c206c18",
+   "titulo": "Down by the Jetty",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/174cf5ae-bad4-359a-9d2d-1256a72f1568/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She Does It Right",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Boom, Boom",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "The More I Give",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Roxette",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "One Weekend",
+     "duracao": "2:16"
+    },
+    {
+     "n": 6,
+     "titulo": "That Ain't the Way to Behave",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Mind",
+     "duracao": "2:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Twenty Yards Behind",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Keep It Out of Sight",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "All Through the City",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Cheque Book",
+     "duracao": "4:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Oyeh!",
+     "duracao": "2:30"
+    },
+    {
+     "n": 13,
+     "titulo": "Bonie Moronie/Tequila",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Down_by_the_Jetty",
+   "resumo_en": "Down by the Jetty is the debut album by English rock band Dr. Feelgood, released in January 1975.\nThe band's Johnny Kidd & the Pirates-influenced originals (\"Keep It Out of Sight\") appear alongside covers material like \"Bonie Moronie\" and \"Tequila\".\nThe album was re-released as a double CD in 2006 (EMI 0946 363951 2 8).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "02e96a91-e6e6-3431-935b-fc66e7e6b2ed",
+   "titulo": "Malpractice",
+   "data": "1975-10",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/5fe8854b-f37b-3a7c-a269-d8ead1ce9d94/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Can Tell",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Going Back Home",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Back in the Night",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Another Man",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Rolling and Tumbling",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Don’t Let Your Daddy Know",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Watch Your Step",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t You Just Know It",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Riot in Cell Block No.9",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Because You’re Mine",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "You Shouldn’t Call the Doctor (If You Can’t Afford the Bills)",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Malpractice_%28Dr._Feelgood_album%29",
+   "resumo_en": "Malpractice is the second album by English rock band Dr. Feelgood, released in October 1975.\nMalpractice saw Dr. Feelgood break into the UK Top 20, the success of the release a gauge of a change in the musical climate. With their drainpipe suits, short hair, and surly demeanour, they were as influential as any at the inception of punk rock.\nThe album was re-issued in August 1990 on the Grand Records label in both vinyl and CD formats.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "da94bd07-c79c-341a-81c7-3689a277b185",
+   "titulo": "Sneakin’ Suspicion",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/cd24af04-60cd-4fa3-8b53-b364924eefcd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sneakin’ Suspicion",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Paradise",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Nothin’ Shakin’ (but the Leaves on the Trees)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Time and the Devil",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Lights Out",
+     "duracao": "1:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Lucky Seven",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "All My Love",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "You’ll Be Mine",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Walking on the Edge",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Hey Mama, Keep Your Big Mouth Shut",
+     "duracao": "3:57"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sneakin%27_Suspicion",
+   "resumo_en": "Sneakin' Suspicion is the fourth album by the English band Dr. Feelgood, released in 1977. During recording of Sneakin' Suspicion, the band nearly disbanded following the departure of guitarist, songwriter and focal point, Wilko Johnson.\nThe album reached number 10 in the UK Albums Chart in June 1977, and remained in that chart for six  weeks. It also spawned their first single to enter the corresponding UK Singles Chart - \"Sneakin' Suspicion\".\nDespite its thriving British success, Dr. Feelgood was unable to find an audience in the United States. After Sneakin' Suspicion they did not release another record in the U.S. until 1980.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a63db364-ea13-386a-9dc3-1bded229b640",
+   "titulo": "Be Seeing You",
+   "data": "1977-10",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/03a99543-4208-4e6f-a094-79982be19071/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ninety-Nine and a Half (Won’t Do)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "She’s a Wind Up",
+     "duracao": "2:02"
+    },
+    {
+     "n": 3,
+     "titulo": "I Thought I Had It Made",
+     "duracao": "2:16"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don’t Wanna Know",
+     "duracao": "2:43"
+    },
+    {
+     "n": 5,
+     "titulo": "That’s It, I Quit",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "As Long As the Price Is Right",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Hi-Rise",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "My Buddy Buddy Friends",
+     "duracao": "2:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby Jane",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "The Blues Had a Baby and They Named It Rock ’n’ Roll",
+     "duracao": "2:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Looking Back",
+     "duracao": "2:01"
+    },
+    {
+     "n": 12,
+     "titulo": "60 Minutes of Your Love",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Be_Seeing_You",
+   "resumo_en": "Be Seeing You was the fifth album by Dr. Feelgood, released in October 1977. After the departure of Wilko Johnson, this was Dr. Feelgood's first album with guitarist Gypie Mayo.\nThe album reached number 55 in the UK Albums Chart in October 1977, and remained in that chart for only three weeks. It spawned their second single to enter the corresponding UK Singles Chart - \"She's A Wind Up\".\nThe album's title was a catchphrase, used by the band, taken from the cult TV series, The Prisoner, which was enjoying a revival at the time.  This theme continued on the album sleeve with the line \"produced by Number 2 for Number 6\", and included photos of the band in piped blazers and scarves, similar to those used in the series, and some \"penny farthing\" badges, although the album's front cover was photographed in the band's local pub, the Admiral Jellicoe.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fb87e947-9530-3860-a72a-8d0d8b7e23ac",
+   "titulo": "Private Practice",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/6a3c7895-c2c3-4518-bfc0-2fa942a3b060/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down at the Doctors",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Every Kind of Vice",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Things Get Better",
+     "duracao": "2:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Milk and Alcohol",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Night Time",
+     "duracao": "5:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Let's Have a Party",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Take a Tip",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "It Wasn't Me",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Greaseball",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Sugar Shaker",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Private_Practice_%28album%29",
+   "resumo_en": "Private Practice was the sixth album by Dr. Feelgood, and was released in October 1978. The album spawned the top-ten hit single (the only one of their career) \"Milk and Alcohol\". Their preceding single release, \"Down at the Doctors\", which also appeared on Private Practice 's track listing, topped out at number 48 in the same UK Singles Chart.\nThe album peaked at number 41 in the UK Albums Chart on 7 October 1978, and remained in that chart for five weeks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2eb6f646-2334-4b29-acca-6d5df594e593",
+   "titulo": "A Case of the Shakes",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/57983c01-3f5f-444f-89c4-377ed16b3c5b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jumping From Love to Love",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Going Some Place Else",
+     "duracao": "2:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Best in the World",
+     "duracao": "2:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Punch Drunk",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "King for a Day",
+     "duracao": "2:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Violent Love",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "No Mo Do Yakamo",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Hound",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Coming to You",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Who’s Winning",
+     "duracao": "2:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Drives Me Wild",
+     "duracao": "2:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Case of the Shakes",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a1eaeb01-ab6f-44ad-b2cc-6c6f34aab106",
+   "titulo": "Doctors Orders",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/b7e013d4-ac61-4d1b-bf26-a8de6753e83e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Close but No Cigar",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "So Long",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "You Don’t Love Me",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "My Way",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Neighbour, Neighbour",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Talk of the Devil",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Hit, Git and Split",
+     "duracao": "2:33"
+    },
+    {
+     "n": 8,
+     "titulo": "I Can’t Be Satisfied",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Saturday Night Fish Fry",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Drivin’ Wheel",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "It Ain’t Right",
+     "duracao": "2:30"
+    },
+    {
+     "n": 12,
+     "titulo": "I Don’t Worry About a Thing",
+     "duracao": "2:50"
+    },
+    {
+     "n": 13,
+     "titulo": "She’s in the Middle",
+     "duracao": "2:45"
+    },
+    {
+     "n": 14,
+     "titulo": "Dangerous",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e4785f6a-eb0b-3cfd-84b6-40c1f46261e5",
+   "titulo": "Mad Man Blues",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/6e6f0b5b-1014-4dd6-889d-881ed7120f65/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dust My Broom",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Something You Got",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Dimples",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Living on the Highway",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Tore Down",
+     "duracao": "2:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Mad Man Blues",
+     "duracao": "2:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I've Got News for You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "My Babe",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Can't Find the Lady",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock Me Baby",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9525af70-1eb1-4cce-bcd4-449b48e709e1",
+   "titulo": "Brilleaux",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/4e09577f-bea3-4d1e-a93e-edf098f7fd84/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Love You, So You’re Mine",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "You Got My Number",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Enough",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Wait Up",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Get Rhythm",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Where Is the Next One?",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Play Dirty",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Grow Too Old",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Rough Ride",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m a Real Man",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Over Here",
+     "duracao": "1:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Take What You Can Get",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c96d1aed-54fa-3540-983b-e813986dc00d",
+   "titulo": "Classic",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/dee0b6e1-1d7c-4d78-94fc-504786ba3804/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hunting Shooting Fishing",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Break These Chains",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Heartbeat",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "(I Wanna) Make Love to You",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Highway 61",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Hurricane",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Quit While You're Behind",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "See You Later Alligator",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Nothing Like It",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Spy vs Spy",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Crack Me Up",
+     "duracao": "5:21"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "69241ca3-dc41-30a9-b0b9-822b2048a9c9",
+   "titulo": "Fast Women Slow Horses",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/10166c41-598f-424e-8b24-4d1c0316be5b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She’s the One",
+     "duracao": "2:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Monkey",
+     "duracao": "2:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Sweet Lovin’",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Trying to Live My Life Without You",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Rat Race",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Baby Jump",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Crazy About Girls",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Sugar Bowl",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Educated Fool",
+     "duracao": "2:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Bums Rush",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Baby Why Do You Treat Me This Way",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Beautiful Delilah",
+     "duracao": "2:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Living On The Highway",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a25ccb5e-ab98-3f6a-ad2e-0a8e63a70019",
+   "titulo": "Doctors Order",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/08e69759-4731-4b8d-aff2-94ab274173f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Close but No Cigar",
+     "duracao": "3:11"
+    },
+    {
+     "n": 2,
+     "titulo": "So Long",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "My Way",
+     "duracao": "2:34"
+    },
+    {
+     "n": 4,
+     "titulo": "You Don't Love Me",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Neighbour Neighbour",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Talk of the Devil",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Hit Git and Split",
+     "duracao": "2:34"
+    },
+    {
+     "n": 8,
+     "titulo": "I Can't Be Satisfied",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Saturday Night Fish Fry",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Drivin' Wheel",
+     "duracao": "3:35"
+    },
+    {
+     "n": 11,
+     "titulo": "It Ain't Right",
+     "duracao": "2:31"
+    },
+    {
+     "n": 12,
+     "titulo": "I Don't Worry About a Thing",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "She's in the Middle",
+     "duracao": "2:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Dangerous",
+     "duracao": "4:10"
+    },
+    {
+     "n": 15,
+     "titulo": "Untitled (Hidden Track)",
+     "duracao": "2:38"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "83cf05bd-6031-3768-89fe-eb53a38d5420",
+   "titulo": "Let It Roll",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/c5c2545a-2870-4f4d-b6a6-7dbbf77eb755/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Java Blue",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Feels Good",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Put Him Out of Your Mind",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Bend Your Ear",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Hong Kong Money",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Keeka Smeeka",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Shotgun",
+     "duracao": "6:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Pretty Face",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Riding on the L. & N.",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Drop Everything and Run",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "784477a5-31ed-4f7b-8ec7-7342402fbbd5",
+   "titulo": "Primo",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/76646de1-c959-41ea-b7a7-c9a6016e04e2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heart of the City",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "My Sugar Turns to Alcohol",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Going Down",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "No Time",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "World in a Jug",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "If My Baby Quit Me",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Primo Blues",
+     "duracao": "1:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Standing at the Crossroads Again",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Been Down So Long",
+     "duracao": "4:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Worry Baby",
+     "duracao": "2:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Down by the Jetty Blues",
+     "duracao": "5:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Two Times Nine",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d908d63c-20d6-36f1-b1b2-8ce5ebf737ed",
+   "titulo": "The Feelgood Factor",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/9db9e653-989c-4677-a034-1e72a6cb5070/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Feelgood Factor",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Tanqueray",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Me No Lies",
+     "duracao": "3:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Styrofoam",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "I'm in the Mood for You",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Double Crossed",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Lying About the Blues",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "She Moves Me",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Wolfman Calling",
+     "duracao": "5:51"
+    },
+    {
+     "n": 10,
+     "titulo": "One Step Forward",
+     "duracao": "4:47"
+    },
+    {
+     "n": 11,
+     "titulo": "One to Ten",
+     "duracao": "3:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Fool for You",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c7c37fd0-8fd2-40b8-9070-c17e477f399c",
+   "titulo": "On the Road Again",
+   "data": "1996-07-15",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/1c7ad25a-dc40-47a6-a074-2c40af39497f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wine, Women & Whisky",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Sweet Louise",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "World Keeps Turning",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "On the Road Again",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Instinct to Survive",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Mellow Down Easy",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Going Out West",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Cheap at Half the Price",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Second Opinion",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "What Am I to Believe",
+     "duracao": "2:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Repo Man",
+     "duracao": "2:59"
+    },
+    {
+     "n": 12,
+     "titulo": "You Got Me",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2084146e-2048-300c-96ff-43b1fa8aabfa",
+   "titulo": "Chess Masters",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/b6e9ba33-238b-46ff-a108-d8d2a35996da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nadine",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Date Bait",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "You Gotta Help Me",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Talkin’ About You",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "The Walk",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "29 Ways",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Who Do You Love",
+     "duracao": "2:58"
+    },
+    {
+     "n": 8,
+     "titulo": "If Walls Could Talk",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Send For The Doctor",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Killing Floor",
+     "duracao": "4:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Suzie Q",
+     "duracao": "3:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Don’t Start Me Talking",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Gimme One More Shot",
+     "duracao": "2:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Hoochie Coochie Man",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33641a68-8534-30d9-99a1-81ec0f80c2a8",
+   "titulo": "Repeat Prescription",
+   "data": "2006-09-06",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/7b483690-4e3a-4230-b1f1-d9b4853a968b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Milk & Alcohol",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can Tell",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Baby Jane",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "All Through The City",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Roxette",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Looking Back",
+     "duracao": "1:52"
+    },
+    {
+     "n": 7,
+     "titulo": "She's A Wind Up",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "She Does It Right",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Back In The Night",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Take A Tip",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Down At The Doctors",
+     "duracao": "4:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Route 66",
+     "duracao": "3:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Run Rudolph Run",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "953a3bc1-8b57-4492-875d-5c9c543d64fc",
+   "titulo": "Oil City Confidential",
+   "data": "2010-02-01",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/850c0782-e7e8-46cd-9129-c818cd74b2d5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Going Back Home (live)",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "(Get Your Kicks On) Route 66 (live)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Roxette",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Cheque Book",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can Tell",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "She Does It Right (live)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Twenty Yards Behind (live)",
+     "duracao": "2:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Shakin' All Over",
+     "duracao": "2:21"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don't Mind (live)",
+     "duracao": "2:26"
+    },
+    {
+     "n": 10,
+     "titulo": "All Through the City (live)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Poison Ivy",
+     "duracao": "2:10"
+    },
+    {
+     "n": 12,
+     "titulo": "You Shouldn't Call the Doctor (If You Can't Afford the Bills)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 13,
+     "titulo": "I'm a Hog for You Baby (live)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 14,
+     "titulo": "Keep It Out of Sight (live)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 15,
+     "titulo": "A Shot of Rhythm and Blues",
+     "duracao": "1:59"
+    },
+    {
+     "n": 16,
+     "titulo": "I'm a Man (live)",
+     "duracao": "5:37"
+    },
+    {
+     "n": 17,
+     "titulo": "Back in the Night (live)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 18,
+     "titulo": "Riot in Cell Number Nine",
+     "duracao": "3:53"
+    },
+    {
+     "n": 19,
+     "titulo": "Time and the Devil",
+     "duracao": "2:59"
+    },
+    {
+     "n": 20,
+     "titulo": "Sneakin' Suspicion",
+     "duracao": "3:50"
+    },
+    {
+     "n": 21,
+     "titulo": "Paradise",
+     "duracao": "4:03"
+    },
+    {
+     "n": 22,
+     "titulo": "Lucky Seven",
+     "duracao": "2:45"
+    },
+    {
+     "n": 23,
+     "titulo": "Milk and Alcohol",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "89e7f2b0-d081-4177-821f-693f6e441541",
+   "titulo": "Damn Right!",
+   "data": "2022-11-04",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/bad2e569-1a56-4062-b82d-c22e30152626/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Pull Your Punches",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Put the Blame on Me",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Put Your Money Where Your Mouth Is",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Damn Right I Do!",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Take a Second Look",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Blues Me",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Keep It Under Cover",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "I Need a Doctor",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Mary Ann",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Inside Out",
+     "duracao": "2:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Last Call",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

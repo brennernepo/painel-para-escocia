@@ -1,0 +1,548 @@
+{
+ "id": "moby-grape",
+ "nome": "Moby Grape",
+ "cena": "Descobertas do acervo",
+ "mbid": "bf014765-46f0-4cd9-b658-c79c5c0166f8",
+ "wikidata": "Q669759",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1966",
+ "fim": "1990",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "country rock",
+  "folk rock",
+  "jam band",
+  "psychedelic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jerry_Miller_68th_of_all_time_guitarists.._Roll_Stone_Magazine.jpg/500px-Jerry_Miller_68th_of_all_time_guitarists.._Roll_Stone_Magazine.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Moby_Grape",
+ "resumo_pt": "Moby Grape é um banda de rock estadunidense da década de 1960, conhecida pela contribuição de todos os seu integrantes nos vocais e composições e que mesclava elementos de folk music, blues, country e jazz com rock. \nDevido à força de seu álbum de estréia, vários críticos consideram o Moby Grape como a melhor banda de rock a emergir do cenário musical de São Francisco no final dos anos 1960. Apesar de não lançar mais álbuns inéditos, o grupo continua a se apresentar ocasionalmente.",
+ "resumo_en": "Moby Grape is an American rock band founded in 1966. Part of San Francisco's psychedelic music scene, the band merged elements of rock and roll, folk music, pop, blues, and country. They were one of the few groups of which all members were lead vocalists and songwriters. The group's first incarnation ended in 1969, in part due to members Bob Mosley and Skip Spence suffering from mental illness. The group has reformed many times afterwards and continues to perform occasionally.\nMoby Grape's success was accompanied by decades-long legal disputes with their former manager, Matthew Katz. Legal difficulties originated shortly after the group's formation, when Katz insisted on ownership of the group name. The dispute with Katz became more acute after the group members' rights to their songs were signed away in 1973, in a settlement made without their knowledge.\nAs described by Jeff Tamarkin, \"The Grape's saga is one of squandered potential, absurdly misguided decisions, bad luck, blunders and excruciating heartbreak, all set to the tune of some of the greatest rock and roll ever to emerge from San Francisco. Moby Grape could have had it all, but they ended up with nothing, and less.\"",
+ "albuns": [
+  {
+   "id": "483f15b5-e784-3c78-ba40-1988f5f9c6a4",
+   "titulo": "Moby Grape",
+   "data": "1967-06-01",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/fd9a6095-bc44-4032-86ca-e42d900e7943/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hey Grandma",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr. Blues",
+     "duracao": "2:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Fall on You",
+     "duracao": "1:56"
+    },
+    {
+     "n": 4,
+     "titulo": "8:05",
+     "duracao": "2:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Come in the Morning",
+     "duracao": "2:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Omaha",
+     "duracao": "2:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Naked, If I Want To",
+     "duracao": "0:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Someday",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Ain’t No Use",
+     "duracao": "1:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Sitting by the Window",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Changes",
+     "duracao": "3:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Lazy Me",
+     "duracao": "1:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Indifference",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moby_Grape_%28album%29",
+   "resumo_en": "Moby Grape is the 1967 debut studio album by rock band Moby Grape. Coming from the San Francisco scene, their reputation quickly grew to immense proportions, leading to a bidding war and a contract with Columbia Records. The album peaked at #24 on the Billboard 200 albums chart in September 1967.",
+   "spotify": "5MTUjDTUWFuyhWW7oRqqmi",
+   "youtube": null
+  },
+  {
+   "id": "9258708f-345d-418b-a678-d59884e36205",
+   "titulo": "Grape Jam",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/d983a67f-5f30-4477-9b1b-888bc946c4a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Never",
+     "duracao": "6:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Boysenberry Jam",
+     "duracao": "6:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Currant Jam",
+     "duracao": "7:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Marmalade",
+     "duracao": "13:51"
+    },
+    {
+     "n": 5,
+     "titulo": "The Lake",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0574251d-5e15-3176-b173-e37f235e7e27",
+   "titulo": "Wow",
+   "data": "1968-04-03",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/5db05cb0-b52e-4048-8b4c-8587f354715e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Murder in My Heart for the Judge",
+     "duracao": "2:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Bitter Wind",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Can't Be So Bad",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Three-Four",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "The Place and the Time",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Motorcycle Irene",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Rose Colored Eyes",
+     "duracao": "2:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Funky-Tunk",
+     "duracao": "5:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Miller's Blues",
+     "duracao": "2:11"
+    },
+    {
+     "n": 10,
+     "titulo": "He",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Just Like Gene Autry: A Foxtrot",
+     "duracao": "5:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Naked, If I Want To",
+     "duracao": "0:48"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wow/Grape_Jam",
+   "resumo_en": "Wow/Grape Jam is the second album by the rock band Moby Grape. It was first released in April 1968.  It is different from most double album releases in that it was released as two different albums in separate covers, but packaged together and sold for only one dollar more than price of a single LP.\nThis was Moby Grape's highest charting release in the U.S., peaking at #20 on the Billboard 200 album chart.\nWow had a color gatefold sleeve, while Grape Jam had a color non-gatefold sleeve. Early copies of Wow omit the band's name from the record label, for unknown reasons.\nOriginal US copies of the two-album package had a large blue sticker on the front of shrink wrap which identified the albums and showed the songs of Wow in the correct order. The song titles for Grape Jam were only shown on the back of that album and were not visible on the outside of the sealed package. The back cover of Wow also showed the song titles in an incorrect order, and again, this was not visible on the sealed package.\nGuitarist Mike Bloomfield and keyboardist Al Kooper recorded on several songs on the album, most notably, \"Never\", which has been cited as a source for the Led Zeppelin song \"Since I've Been",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b47a3b75-2111-3441-8441-ffd0776f17e2",
+   "titulo": "Moby Grape '69",
+   "data": "1969-01-30",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/81181d3a-8c54-41b6-a4f2-5699199d2b48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ooh Mama Ooh",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Ain't That a Shame",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "I Am Not Willing",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "It's a Beautiful Day Today",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Hoochie",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Trucking Man",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "If You Can't Learn From Your Mistakes",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Captain Nemo",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "What's to Choose",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Going Nowhere",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Seeing",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moby_Grape_%2769",
+   "resumo_en": "Moby Grape '69 is the third album by the psychedelic rock band Moby Grape, released on January 30, 1969.\nIt is the first album after the departure of co-founder Skip Spence. Spence nonetheless is heard on one song, \"Seeing\", presumably from the Wow/Grape Jam sessions, and positioned as the final song on Moby Grape '69. As Peter Lewis describes the album, \"We made Moby Grape '69, in an attempt to rebound from the Wow album, which was over-produced. And it's a cool album. Although we could have rehearsed it a little more, we still believed in it. But I think we were waiting for Skippy to come back, and he never did\".\nThe album peaked at number 113 on the Billboard chart. Nevertheless, it is noteworthy as an early endeavor into country rock.\nThe album was re-released on CD and Vinyl in 2007 by Sundazed, but as with their previous albums, it has been pulled.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9a70122a-be8a-305e-9691-62fc45378865",
+   "titulo": "Truly Fine Citizen",
+   "data": "1969-07-30",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/63268075-6466-4f0b-963a-4de7feef8dd3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Changes, Circles Spinning",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Looper",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Truly Fine Citizen",
+     "duracao": "1:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Beautiful Is Beautiful",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Song",
+     "duracao": "2:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Right Before My Eyes",
+     "duracao": "2:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Open Up Your Heart",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Now I Know High",
+     "duracao": "6:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Treat Me Bad",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Tongue-Tied",
+     "duracao": "2:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Song, Part 2",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Truly_Fine_Citizen",
+   "resumo_en": "Truly Fine Citizen is the fourth studio album by American rock band Moby Grape. It was released on July 30, 1969, by Columbia Records. After completing the album, the band went on hiatus until 1971 when they reunited with Skip Spence and Bob Mosley to record the reunion album, 20 Granite Creek.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f98ceb7e-d3a3-36d2-bf71-bd4721723723",
+   "titulo": "20 Granite Creek",
+   "data": "1971-09",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/ca504518-e92f-43e1-b98e-414b57a63799/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gypsy Wedding",
+     "duracao": "2:23"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm the Kind of Man That Baby You Can Trust",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "About Time",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Goin' Down to Texas",
+     "duracao": "1:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Road to the Sun",
+     "duracao": "2:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Apocalypse",
+     "duracao": "2:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Chinese Song",
+     "duracao": "5:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Roundhouse Blues",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Ode to the Man at the End of the Bar",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Wild Oats Moan",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Horse Out in the Rain",
+     "duracao": "2:16"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/20_Granite_Creek",
+   "resumo_en": "20 Granite Creek is the rock band Moby Grape's fifth album. After recording their last album for Columbia Records, Truly Fine Citizen, the band went on hiatus until 1971 when they reunited with Skip Spence and Bob Mosley and recorded this reunion album for Reprise Records; their only album for the label. David Rubinson, who produced most of the band's Columbia albums, was back as producer here, as well as serving as the band's manager.. The album title refers to an address near Santa Cruz, CA but there is no record that any band member ever lived there. The rights to this album are now owned by the band after previous manager, Matthew Katz, lost them when the band successfully sued him in 2007.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "86a3006b-5026-4ce0-a816-6cdf3747a8f6",
+   "titulo": "Moby Grape \"1984 Reunion\"",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/3b685f44-1f12-49cd-9235-ae8a375b226c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silver Wheels",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Better Day",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Hard Road to Follow",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Sitting and Watching",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "City Lights",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Queen of the Crow",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Lost Horizon",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "I Didn’t Lie to You",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Suzzam",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Too Old to Boogie",
+     "duracao": "3:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Think It Over",
+     "duracao": "3:33"
+    },
+    {
+     "n": 12,
+     "titulo": "American Dream",
+     "duracao": "4:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Reprise",
+     "duracao": "1:48"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moby_Grape_%2784",
+   "resumo_en": "Moby Grape '84 is a 1984 album released by Moby Grape on the San Francisco Sound label.  It is also known as \"Silver Wheels\" album, after the introductory song on the album, and as the \"Heart Album\", as referenced to the album cover.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,748 @@
+{
+ "id": "manfred-mann",
+ "nome": "Manfred Mann",
+ "cena": "Descobertas do acervo",
+ "mbid": "06b6f280-8787-4a3d-8ab6-c6487b465320",
+ "wikidata": "Q319265",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1962",
+ "fim": "1969",
+ "ativa": false,
+ "generos": [
+  "pop rock",
+  "psychedelic pop",
+  "beat music",
+  "british blues",
+  "british rhythm & blues"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Manfred_Mann.png/500px-Manfred_Mann.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Manfred_Mann",
+ "resumo_pt": "Manfred Mann foi uma banda britânica de R&B, formada por Mike Vickers, guitarra; Dave Richmond, baixo; e Paul Jones, vocal.\nOs Manfred Mann originalmente classificam-se como uma banda de rhythm and blues. Foi fundada na Grã-Bretanha, em 1962, pelo próprio Manfred Mann, nascido em 21 de outubro de 1940, em Joanesburgo, África do Sul,. Com Manfred Mann (nas teclas) estava o seu amigo Mike Hugg (na bateria). O vocalista era Paul Jones (que se tornaria mais tarde num actor de sucesso). Os outros membros foram Tom McGuinness (baixo) e Mike Vickers (flauta, sax, guitarra).",
+ "resumo_en": "Manfred Mann was an English-based rock band formed in London in 1962. They were named after their keyboardist Manfred Mann. The group had two lead vocalists: Paul Jones from 1962 to 1966 and Mike d'Abo from 1966 to 1969. Other members of various group line-ups were Mike Hugg, Mike Vickers, Dave Richmond, Tom McGuinness, Jack Bruce, Lyn Dobson, Henry Lowther and Klaus Voormann.\nProminent in the Swinging London scene of the 1960s, the group regularly appeared in the UK singles chart. Their breakthrough hit \"5-4-3-2-1\" (1964) was the theme tune for the ITV pop music show Ready Steady Go!. The band achieved a UK and US No. 1 hit with \"Do Wah Diddy Diddy\" (1964) and two further UK No. 1 singles, \"Pretty Flamingo\" (1966) and \"Mighty Quinn\" (1968).\nAfter the band split in 1969, Mann went on to form Manfred Mann Chapter Three (1969–1971) and Manfred Mann's Earth Band (1971–present).",
+ "albuns": [
+  {
+   "id": "108bfd49-285f-363f-9088-a9f295e538a4",
+   "titulo": "The Manfred Mann Album",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/081916e5-0c4b-485c-88b7-320e9d31a157/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do Wah Diddy Diddy",
+     "duracao": "2:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Ask Me What I Say",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Sack o’ Woe",
+     "duracao": "2:06"
+    },
+    {
+     "n": 4,
+     "titulo": "What You Gonna Do?",
+     "duracao": "2:34"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Your Hoochie Cooche Man",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Smokestack Lightning",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Got My Mojo Working",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s Gonna Work Out Fine",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Down the Road Apiece",
+     "duracao": "2:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Untie Me",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Bring It to Jerome",
+     "duracao": "3:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Without You",
+     "duracao": "2:16"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Manfred_Mann_Album",
+   "resumo_en": "The Manfred Mann Album is the debut American studio album by Manfred Mann, released in September 1964 on Ascot Records. It contains the hit single \"Do Wah Diddy Diddy\", as well as covers of well-known R&B hits such as \"Smokestack Lightning\" by Howlin' Wolf, \"I'm Your Hoochie Coochie Man\" by Muddy Waters, and \"Down the Road Apiece\" by Will Bradley. Modern reviews of the album are generally positive and consider The Manfred Mann Album an important piece during the heyday of the British Invasion.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c460c582-7463-38bd-8bdd-9d0c5352c5cc",
+   "titulo": "The Five Faces of Manfred Mann",
+   "data": "1964-09-11",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/29dc2757-ddf0-49e4-a931-41d2333739a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smokestack Lightning",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Ask Me What I Say",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Sack O' Woe",
+     "duracao": "2:09"
+    },
+    {
+     "n": 4,
+     "titulo": "What You Gonna Do?",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Hoochie Coochie Man",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Your Kingpin",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Down the Road Apiece",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "I've Got My Mojo Working",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "It's Gonna Work Out Fine",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Mr. Angelo",
+     "duracao": "2:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Untie Me",
+     "duracao": "3:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Bring It to Jerome",
+     "duracao": "3:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Without You",
+     "duracao": "2:21"
+    },
+    {
+     "n": 14,
+     "titulo": "You've Got to Take It",
+     "duracao": "2:16"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Five_Faces_of_Manfred_Mann",
+   "resumo_en": "The Five Faces of Manfred Mann is the debut British and second American studio album by Manfred Mann. It was first released in the United Kingdom on 11 September 1964 by His Master's Voice. In late October/early November, the album was released in Canada by Capitol Records. The Canadian track listing was almost the same as the UK version, except it included the hit \"Do Wah Diddy Diddy\" instead of \"I've Got My Mojo Working\". The record has been called \"one of the great blues-based British Invasion albums; it's a hot, rocking record that benefits from some virtuoso playing as well\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "512f154c-683c-3eb9-989a-86409ad47595",
+   "titulo": "My Little Red Book of Winners!",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/739137c6-debe-4d13-ae71-f9f09c24d5bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Little Red Book (All I Do Is Talk About You)",
+     "duracao": "2:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Oh, No, Not My Baby",
+     "duracao": "2:21"
+    },
+    {
+     "n": 3,
+     "titulo": "What Am I to Do",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "The One in the Middle",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "You Gave Me Somebody to Love",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "You’re for Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Poison Ivy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Without You",
+     "duracao": "2:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Brother Jack",
+     "duracao": "2:27"
+    },
+    {
+     "n": 10,
+     "titulo": "A Love Like Yours (Don’t Come Knocking Every Day)",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "I Can’t Believe What You Say",
+     "duracao": "2:17"
+    },
+    {
+     "n": 12,
+     "titulo": "With God on Our Side",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "62ca21a6-4e4f-3991-9851-c4d4f2745c38",
+   "titulo": "Mann Made",
+   "data": "1965-10",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/3f8ddb56-aedf-455b-b74e-26346fb0fe3d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Since I Don’t Have You",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You’re for Me",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Look Away",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Abominable Snowmann",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Watch Your Step",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Stormy Monday Blues",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I Really Do Believe",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Hi Lili, Hi Lo",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Way You Do the Things You Do",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Bare Hugg",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "You Don’t Know Me",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "L.S.D.",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "I’ll Make It Up to You",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mann_Made",
+   "resumo_en": "Mann Made is the second British and fourth American studio album by Manfred Mann, released in October 1965 on His Master's Voice in the United Kingdom, and November 1965 on Ascot Records in the United States. It was the group's final recording project with original members Mike Vickers and Paul Jones, as well as their last to be recorded at Abbey Road Studios, London, England, before switching to Fontana Records.\nThe album was reduced to twelve songs by Capitol Records in the Canadian market, where \"You're for Me\", \"I Really Do Believe\", and \"Hi Lili, Hi Lo\" were excluded, and replaced by \"She Needs Company\" along with the hit single \"Pretty Flamingo\" for the June 1966 release.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2670bdca-d43d-4c18-9482-064c49181bfe",
+   "titulo": "As Is",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/be7dc4e4-2d9d-4afc-bf73-e3fbf071d090/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trouble And Tea",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "A Now And Then Thing",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Each Other's Company",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Box Office Draw",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Dealer Dealer",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Morning After The Party",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Another Kind Of Music",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "As Long As I Have Lovin'",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Autumn Leaves",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Superstitious Guy",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "You're My Girl",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Just Like A Woman",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e4184dfa-7074-38a9-b7bf-41e2357a3262",
+   "titulo": "Pretty Flamingo",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/30b5e160-c756-409f-b078-6239b81f2664/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pretty Flamingo",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Let’s Go Get Stoned",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Tired of Trying, Bored With Living, Scared of Dying",
+     "duracao": "2:53"
+    },
+    {
+     "n": 4,
+     "titulo": "I Put a Spell on You",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s Getting Late",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "You’re Standing By",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Machines",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Stay Around",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Tennessee Waltz",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Driva Man",
+     "duracao": "2:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Do You Have to Do That",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Flamingo",
+   "resumo_en": "\"Pretty Flamingo\" is a song written by Mark Barkan, which became a hit in 1966 when Manfred Mann's recording of it was released as a single. This single reached number one in the UK Singles Chart on 5 May 1966, and was a minor hit in the United States where it spent eight weeks on Billboard's Hot 100 chart, peaking at number 29 during the week of 6 August 1966. It was also successful in Ireland; it was number one there for four weeks, keeping the Rolling Stones' \"Paint It Black\" at number two.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "214c70b2-5445-3611-b473-172deeba65b8",
+   "titulo": "Up the Junction",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/933801a0-cb41-4fe5-8039-2625a4aef95f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Up the Junction (vocal)",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Sing Songs of Love",
+     "duracao": "2:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Walking 'round",
+     "duracao": "2:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Up the Junction (instrumental)",
+     "duracao": "1:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Theme (instrumental)",
+     "duracao": "2:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Up the Junction (vocal & instrumental)",
+     "duracao": "1:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Just for Me",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Theme (instrumental)",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Sheila's Dance",
+     "duracao": "2:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Belgravia",
+     "duracao": "2:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Wailing Horn",
+     "duracao": "2:24"
+    },
+    {
+     "n": 12,
+     "titulo": "I Need Your Love",
+     "duracao": "1:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Up the Junction (vocal)",
+     "duracao": "2:16"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Up_the_Junction_%28soundtrack%29",
+   "resumo_en": "Up the Junction is a 1968 British \"kitchen sink\" drama film, directed by Peter Collinson and starring Dennis Waterman, Suzy Kendall, Adrienne Posta, Maureen Lipman and Liz Fraser. It is based on the 1963 book of the same name by Nell Dunn and was adapted by Roger Smith. The soundtrack was by Manfred Mann. The film followed Ken Loach's BBC TV adaptation of 1965, but returned to the original book. It generated less controversy and impact than the Loach version.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6752654c-f903-310e-ba6a-5abb404107cf",
+   "titulo": "Mighty Garvey!",
+   "data": "1968-05-06",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/77bcc530-0019-4103-8095-34a2263d781b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Happy Families (with Eddie “Fingers” Garvey)",
+     "duracao": "2:18"
+    },
+    {
+     "n": 2,
+     "titulo": "No Better No Worse",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Every Day Another Hair Turns Grey",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Country Dancing",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s So Easy Falling",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Happy Families (with Ed. Garvey & the Trio)",
+     "duracao": "2:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Mighty Quinn",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Big Betty",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "The Vicar’s Daughter",
+     "duracao": "2:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Each and Every Day",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Cubist Town",
+     "duracao": "3:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Ha! Ha! Said the Clown",
+     "duracao": "2:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Harry the One‐Man‐Band",
+     "duracao": "3:11"
+    },
+    {
+     "n": 14,
+     "titulo": "Happy Families (with Edwin O’Garvey and His Showband)",
+     "duracao": "2:16"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mighty_Garvey%21",
+   "resumo_en": "Mighty Garvey! is the fifth and final studio album by Manfred Mann, released on 28 June 1968 by Fontana Records. In North America, Mercury Records issued the album under the title The Mighty Quinn with an altered track listing and different cover art. The album included the band's last number one single, a cover of Bob Dylan's \"Mighty Quinn\", as well as Tony Hazzard's song \"Ha! Ha! Said the Clown\", which was a top ten hit in the U.K. Despite the success of these two singles, the album met with limited commercial success upon release.",
+   "spotify": "2ulbH9WpDb68HcBgAKH29P",
+   "youtube": null
+  },
+  {
+   "id": "5ce7fc6f-7a28-48cd-88ed-2217fd48ef89",
+   "titulo": "The Best of Manfred Mann",
+   "data": "1987",
+   "ano": "1987",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sha-La-La",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "5, 4, 3, 2, 1",
+     "duracao": "1:59"
+    },
+    {
+     "n": 3,
+     "titulo": "With God On Our Side",
+     "duracao": "4:24"
+    },
+    {
+     "n": 4,
+     "titulo": "If You Gotta Go, Go Now",
+     "duracao": "2:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Do Wah Diddy Diddy",
+     "duracao": "2:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Pretty Flamingo",
+     "duracao": "2:36"
+    },
+    {
+     "n": 7,
+     "titulo": "The One In The Middle",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Oh No, Not My Baby",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "John Hardy",
+     "duracao": "2:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Come Tomorrow",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

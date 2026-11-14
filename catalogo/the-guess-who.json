@@ -1,0 +1,1129 @@
+{
+ "id": "the-guess-who",
+ "nome": "The Guess Who",
+ "cena": "Descobertas do acervo",
+ "mbid": "4c567499-3a26-40e3-9471-20feb6c73767",
+ "wikidata": "Q1141238",
+ "tipo": "Group",
+ "pais": "CA",
+ "inicio": "1962",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "rock",
+  "pop rock",
+  "garage rock",
+  "hard rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Guess_Who.png/500px-The_Guess_Who.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Guess_Who",
+ "resumo_pt": "The Guess Who é uma banda de rock canadense, formada em 1962 em Winnipeg. Foi o primeiro grupo canadense a ter uma canção no topo da parada musical dos Estados Unidos, emplacando vários sucessos no final da década de 1960, como \"American Woman\", \"These Eyes\" e \"Share the Land\".",
+ "resumo_en": "The Guess Who is a Canadian rock band formed in Winnipeg, Manitoba, in 1958. The band found their greatest success from 1969 to 1972, with hit songs including \"American Woman\", \"These Eyes\", \"No Time\", \"No Sugar Tonight\", \"Laughing\", \"Share the Land\" and \"Clap for the Wolfman\".\nDuring their most successful period, the Guess Who released eleven studio albums, all of which reached the charts in Canada and the United States. Their 1970 album American Woman reached number 1 in Canada and the United States, while five other albums reached the top ten in Canada. The Guess Who charted fourteen Top-40 singles in the United States, and more than thirty in Canada.\nThe Guess Who officially disbanded in 1975, though several periodic reunions took place over the years. Former bassist Jim Kale began touring and recording under the Guess Who name in 1977, sometimes with other former members but often performing without any original band members on stage. After a lengthy legal dispute, the band's primary songwriters, guitarist Randy Bachman and frontman Burton Cummings, regained control of the Guess Who name in a 2024 settlement, and toured in 2026 with a new lineup.",
+ "albuns": [
+  {
+   "id": "3c84f874-95f6-37a3-ade1-edddba87c663",
+   "titulo": "Hey Ho (What You Do to Me!)",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/57f67279-883b-4394-a392-052097257c4e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hey Ho",
+     "duracao": "2:11"
+    },
+    {
+     "n": 2,
+     "titulo": "I Should Have Realized",
+     "duracao": "2:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Hurting Each Other",
+     "duracao": "2:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Made in England",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "I'll Keep Comin' Back",
+     "duracao": "1:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Stop Teasing Me",
+     "duracao": "2:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Could This Be Love",
+     "duracao": "2:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Theme From a Music Box",
+     "duracao": "2:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Be Scared",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Inside Out",
+     "duracao": "2:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Goodnight Goodnight",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hey_Ho_%28What_You_Do_to_Me%21%29",
+   "resumo_en": "Hey Ho (What You Do to Me!) is the second studio album by the Canadian rock band The Guess Who. This album is also the last to feature Bob Ashley on keyboards. This album was originally released on Quality Records in 1965.  The cover gave credit to \"Chad Allan & the Expressions (Guess Who?)\". It is regarded as a garage rock album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d18eba3a-cd9b-3d9d-9de2-ac3de2b38044",
+   "titulo": "Shakin' All Over",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/7779e41d-8b97-4a2f-8aa8-77947aa2078b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Miss Frizzy",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Take the Long Way Home",
+     "duracao": "5:38"
+    },
+    {
+     "n": 3,
+     "titulo": "American Woman",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "No Sugar Tonight",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock 'n' Roll Classic",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Shakin' All Over",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Tossin' and Turnin'",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Shot of Rhythm and Blues",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Tuff E Nuff",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "C'mon Little Mama",
+     "duracao": "3:57"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shakin%27_All_Over_%28album%29",
+   "resumo_en": "Shakin' All Over is the debut studio album by the Canadian rock band The Guess Who, although at the time they were known as \"Chad Allan & the Expressions\". It is regarded as a garage rock album and features their hit version of Johnny Kidd & the Pirates hit song \"Shakin' All Over\".\nThe 2001 release of Shakin' All Over is actually a collection of tracks from the band's first three albums.",
+   "spotify": "4MiiEjLiUWLUDNSbubCNyK",
+   "youtube": null
+  },
+  {
+   "id": "0851e6a6-cedb-3973-8a35-63826a2fd41d",
+   "titulo": "It’s Time",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/27ffd792-2f5a-4002-89c4-2a0808f4d1c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Right",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "And She’s Mine",
+     "duracao": "2:42"
+    },
+    {
+     "n": 3,
+     "titulo": "As",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "You Know He Did",
+     "duracao": "2:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby Feelin’",
+     "duracao": "2:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Clock on the Wall",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Act So Bad",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Believe Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Seven Long Years",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "One Day",
+     "duracao": "2:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Gonna Search",
+     "duracao": "2:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Guess I’ll Find a Place",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/It%27s_Time_%28The_Guess_Who_album%29",
+   "resumo_en": "It's Time is the third studio album by the Canadian rock band The Guess Who. It's the last to feature original lead singer Chad Allan, who left before the release of the album, and the first to include vocalist/keyboard player Burton Cummings. Bruce Decker (of the Deverons) is shown on the cover, but does not appear on the album. \"It's Time\" was a turning point for the group, moving towards the garage rock style of their later albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e36d7491-8d33-4832-88d8-3aad5c0f2fb4",
+   "titulo": "A Wild Pair",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/d47abe4d-56e5-4340-ab15-c22958c28b37/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Song the City Sings",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Where Did Holly Go",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Her for Me",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Runnin' Back to You",
+     "duracao": "2:11"
+    },
+    {
+     "n": 5,
+     "titulo": "She Is Tomorrow",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "I Need Your Company",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Mr. Nothin'",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Very Far From Near",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Heygoode Hardy",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Somewhere Up High",
+     "duracao": "2:06"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "edb642d7-4087-32f8-8bfd-49b6912e89b0",
+   "titulo": "Wheatfield Soul",
+   "data": "1969-03",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/5c8a57aa-3174-4355-8abd-9cf5947a27de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "These Eyes",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Pink Wine Sparkles in the Glass",
+     "duracao": "2:13"
+    },
+    {
+     "n": 3,
+     "titulo": "I Found Her in a Star",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Friends of Mine",
+     "duracao": "10:08"
+    },
+    {
+     "n": 5,
+     "titulo": "When You Touch Me",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "A Wednesday in Your Garden",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Lightfoot",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Love and a Yellow Rose",
+     "duracao": "5:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Maple Fudge",
+     "duracao": "1:52"
+    },
+    {
+     "n": 10,
+     "titulo": "We're Coming to Dinner",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wheatfield_Soul",
+   "resumo_en": "Wheatfield Soul is the fourth studio album by the Canadian rock band the Guess Who, released in March 1969. Their first RCA Records release, the album is also notable for being the first full-length Guess Who album to feature Burton Cummings exclusively on lead vocals, without original lead singer Chad Allan. Featuring the US top 10 hit \"These Eyes\", it marked the beginning of the band's international success.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7759eef8-cc0b-36dd-aae7-122f77dd73da",
+   "titulo": "Canned Wheat",
+   "data": "1969-09",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/defe4c69-38a5-43cb-8671-5b5be82aed4c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Time",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Minstrel Boy",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Laughing",
+     "duracao": "2:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Undun",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "6 A.M. or Nearer",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Old Joe",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Of a Dropping Pin",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Key",
+     "duracao": "11:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Fair Warning",
+     "duracao": "1:54"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Canned_Wheat",
+   "resumo_en": "Canned Wheat is the fifth studio album by Canadian rock band the Guess Who, released in September 1969. It peaked at number 91 on the Billboard Pop Albums chart.  Two of the band's hits were taken from the album: \"Laughing\" and \"Undun\". The album also includes the original version of \"No Time\" which would later be re-recorded for their American Woman album and released as a single. The album is regarded as a rock classic.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b51242a1-d51e-365f-8b9b-0ecb29e0f540",
+   "titulo": "American Woman",
+   "data": "1970-03",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/7f4d473b-187e-489a-ae25-a3ef2100c862/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "American Woman",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "No Time",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Talisman",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "No Sugar Tonight / New Mother Nature",
+     "duracao": "4:53"
+    },
+    {
+     "n": 5,
+     "titulo": "969 (The Oldest Man)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "When Friends Fall Out",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "8:15",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Proper Stranger",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Humpty's Blues / American Woman (Epilogue)",
+     "duracao": "6:10"
+    },
+    {
+     "n": 10,
+     "titulo": "American Woman (7\" Single Version)",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "No Sugar Tonight (7\" Single Version)",
+     "duracao": "2:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Got to Find Another Way",
+     "duracao": "2:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Close Up the Honky-Tonks (Take 1)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 14,
+     "titulo": "Not to Return (Takes 1 & 2)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 15,
+     "titulo": "Talisman (Take 1)",
+     "duracao": "4:29"
+    },
+    {
+     "n": 16,
+     "titulo": "Talisman Chatter",
+     "duracao": "2:03"
+    },
+    {
+     "n": 17,
+     "titulo": "No Sugar Tonight / New Mother Nature (Takes 1 & 2)",
+     "duracao": "6:58"
+    },
+    {
+     "n": 18,
+     "titulo": "American Woman (Take 1)",
+     "duracao": "4:44"
+    },
+    {
+     "n": 19,
+     "titulo": "Silver Bird (Outtake - 1970)",
+     "duracao": "2:41"
+    },
+    {
+     "n": 20,
+     "titulo": "Species Hawk (Outtake - 1970)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 21,
+     "titulo": "Runnin' Down the Street (Outtake - 1970)",
+     "duracao": "4:16"
+    },
+    {
+     "n": 22,
+     "titulo": "Miss Frizzy (Outtake - 1970)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 23,
+     "titulo": "Palmyra (Outtake - 1970)",
+     "duracao": "5:50"
+    },
+    {
+     "n": 24,
+     "titulo": "The Answer (Outtake - 1970)",
+     "duracao": "3:54"
+    },
+    {
+     "n": 25,
+     "titulo": "Take the Long Way Home (Outtake - 1970)",
+     "duracao": "5:43"
+    }
+   ],
+   "duracao_min": 104,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/American_Woman_%28album%29",
+   "resumo_en": "American Woman is the sixth studio album by Canadian rock band the Guess Who, released in January 1970. It was the last to feature lead guitarist Randy Bachman, though he has returned to the band on many occasions since then. \nThe album was one of their most successful releases, receiving Gold certification in the United States.\nThe album contains several of the group's most popular hits, including the title cut and \"No Sugar Tonight\", which together reached number one in Canada and the US, and a remake of \"No Time\", a song the group previously recorded for Canned Wheat. The newer version was released as a single and is the one most familiar to listeners. The album's musical styles consists of psychedelic rock and hard rock.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c8fb6a76-3e7b-3e6d-b6dd-d1115216b247",
+   "titulo": "Share the Land",
+   "data": "1970-10-05",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/48815f27-923f-4f6e-8dd1-a5fda869b28e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bus Rider",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Do You Miss Me Darlin'?",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Hand Me Down World",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Moan for You Joe",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Share the Land",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Hang on to Your Life",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Coming Down Off the Money Bag / Song of the Dog",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Three More Days",
+     "duracao": "8:59"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Share_the_Land",
+   "resumo_en": "Share the Land is the seventh studio album by Canadian rock band The Guess Who, released by RCA Records in October, 1970. It was their first album following the departure of Randy Bachman, and the band brought in two new guitarists, Kurt Winter and Greg Leskiw. The album was another international success for the band, reaching number seven in Canada and number fourteen in the US, and spawned three hit singles in the title track, \"Hand Me Down World\" and \"Hang On to Your Life\".",
+   "spotify": "3zlRX163Z3F9H0MWPmtiBV",
+   "youtube": null
+  },
+  {
+   "id": "16b8dc5a-9cdc-38b7-bfa1-68b1a7c673c9",
+   "titulo": "So Long, Bannatyne",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/43b269f5-b5cc-4f19-9065-f73abe57e3d9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rain Dance",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "She Might Have Been a Nice Girl",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Goin' a Little Crazy",
+     "duracao": "6:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Fiddlin'",
+     "duracao": "1:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Pain Train",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "One Divided",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Grey Day",
+     "duracao": "4:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Life in the Bloodstream",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "One Man Army",
+     "duracao": "3:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Sour Suite",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "So Long Bannatyne",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/So_Long%2C_Bannatyne",
+   "resumo_en": "So Long, Bannatyne is the eighth studio album by the Canadian rock band The Guess Who, released in 1971 by RCA Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e86efdbf-4a16-3740-a0a4-68c00913ef53",
+   "titulo": "Rockin’",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/f3d4a224-045a-4f32-9cd3-745ad72df38e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heartbroken Bopper",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Get Your Ribbons On",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Smoke Big Factory",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Arrivederci Girl",
+     "duracao": "2:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Guns, Guns, Guns",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Running Bear",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Back to the City",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Your Nashville Sneakers",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Herbert’s a Loser",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Hi, Rockers!",
+     "duracao": "6:48"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rockin%27_%28The_Guess_Who_album%29",
+   "resumo_en": "Rockin' is the ninth album by the Canadian rock band the Guess Who. It was originally released by RCA Records in 1972. It is the last album by the group to feature rhythm guitarist Greg Leskiw and the last studio album to feature bassist Jim Kale (though the latter would later form an unofficial version of the Guess Who).\nTwo charting singles were released from the album. \"Heartbroken Bopper\" spent seven weeks on the Billboard Hot 100 peaking at number 47 and \"Guns, Guns, Guns\" spent six weeks on the Billboard Hot 100 peaking at number 70.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9137e4b4-f540-3299-aa08-27290ae86ad9",
+   "titulo": "#10",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/5b5eecd7-a4cc-4be5-b7e2-149d8340e06d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take It Off My Shoulders",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Musicione",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Miss Frizzy",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Glamour Boy",
+     "duracao": "5:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Self Pity",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Lie Down",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Cardboard Empire",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Let Me Sing",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/No._10_%28The_Guess_Who_album%29",
+   "resumo_en": "#10 is the eleventh album by the Canadian rock band the Guess Who. It was first released in 1973. The title comes from the fact that it was the band's tenth release for RCA Records. This number series includes both a live album and a best-of compilation, but not the band's early studio recordings (prior to 1969) which were not recorded for RCA.",
+   "spotify": "5Bl1vecpMRkLAa3dIwAbdL",
+   "youtube": null
+  },
+  {
+   "id": "9472ad62-9e88-3b6a-8807-b514caa270c7",
+   "titulo": "Artificial Paradise",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/b216d4cf-e4d3-4bf3-96a8-c4da5c78341a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bye Bye Babe",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Samantha's Living Room",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock and Roller Steam",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Follow Your Daughter Home",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Those Show Biz Shoes",
+     "duracao": "6:51"
+    },
+    {
+     "n": 6,
+     "titulo": "All Hashed Out",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Orly",
+     "duracao": "2:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Lost and Found Town",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Hamba Gahle-Usalang Gahle",
+     "duracao": "4:57"
+    },
+    {
+     "n": 10,
+     "titulo": "The Watcher",
+     "duracao": "3:09"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Artificial_Paradise_%28The_Guess_Who_album%29",
+   "resumo_en": "Artificial Paradise is the tenth album by the Canadian rock band the Guess Who. It was released by RCA Records in 1973. This was the first album by the group to feature bassist Bill Wallace.\nMusically, Artificial Paradise finds the Guess Who showcasing a variety of styles: rockers (\"Orly\", \"All Hashed Out\", \"Rock and Roller Steam\"), ballads (\"Samantha's Living Room\", \"Lost and Found Town\"), and even world music (\"Hamba Gahle-Usalang Gahle\").\nThe album is likely best remembered for its record jacket and inner sleeve, which is an extensive lampoon of direct mail advertising. The cover mentions The Guess Who only in passing.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "32e60abd-d7bb-31c1-8beb-5e3eb6db0480",
+   "titulo": "Road Food",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/fef37031-4ef0-45e3-a852-a46357472731/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Star Baby",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Attila's Blues",
+     "duracao": "4:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Straighten Out",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Don't You Want Me",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "One Way Road to Hell",
+     "duracao": "5:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Clap for the Wolfman",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Pleasin' for Reason",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Road Food",
+     "duracao": "3:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Ballad of the Last Five Years",
+     "duracao": "7:06"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Road_Food",
+   "resumo_en": "Road Food is the twelfth studio album by the Canadian rock band the Guess Who, originally released in 1974 by RCA Records. It was the last album by the group to feature guitarists Kurt Winter and Donnie McDougall.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f8717aa7-c2c8-478e-9760-4c18ae62fa1e",
+   "titulo": "Flavours",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/4ed4c93e-843a-4415-86c4-4ae14ba57bd2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dancin' Fool",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Hoe Down Time",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Nobody Knows His Name",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Diggin' Yourself",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Seems Like I Can't Live With You, but I Can't Live Without You",
+     "duracao": "5:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Dirty",
+     "duracao": "5:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Eye",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Loves Me Like a Brother",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Long Gone",
+     "duracao": "7:58"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Flavours_%28album%29",
+   "resumo_en": "Flavours is the thirteenth studio album by the Canadian rock band the Guess Who. This was the first album by the group to feature Domenic Troiano on guitar.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4fab83ba-f37c-329e-8684-d1f139be48e8",
+   "titulo": "Power in the Music",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/610f49f7-6bc1-4300-a260-b79ee1e825d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down and Out Woman",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Women",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "When the Band Was Singin' 'Shakin' All Over'",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Dreams",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Rich World - Poor World",
+     "duracao": "6:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Rosanne",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Coors for Sunday",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Shopping Bag Lady",
+     "duracao": "5:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Power in the Music",
+     "duracao": "6:39"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Power_in_the_Music",
+   "resumo_en": "Power in the Music is the fourteenth studio album by the Canadian rock band the Guess Who. The album was released in 1975 by RCA Records. It is their last album, before their disbandment in 1975. \nSubsequent studio recordings following this album were released by an unauthorized version of the band, led by bassist Jim Kale, and are not considered part of their official discography.\nThe album features two singles: \"Rosanne\" (U.S. #105, Canada #55) and \"When the Band Was Singin' 'Shakin' All Over'\" (U.S. #102). The lyrics of this 1975 song reference the Guess Who's 1965 hit \"Shakin' All Over\".",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

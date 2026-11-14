@@ -1,0 +1,3629 @@
+{
+ "id": "bob-dylan",
+ "nome": "Bob Dylan",
+ "cena": "Descobertas do acervo",
+ "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+ "wikidata": "Q392",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1941",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "folk rock",
+  "folk",
+  "rock",
+  "blues rock",
+  "singer-songwriter"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/500px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bob_Dylan",
+ "resumo_pt": "Bob Dylan (legalmente Robert Dylan; nascido Robert Allen Zimmerman, Duluth, 24 de maio de 1941) é um cantor e compositor norte-americano. Descrito como um dos maiores compositores de todos os tempos, Dylan tem sido uma figura de destaque na cultura popular ao longo de sua carreira de 69 anos. Dylan acrescentou técnicas líricas cada vez mais sofisticadas à música folk do início da década de 1960, impregnando-a \"com o intelectualismo da literatura clássica e da poesia\". Suas letras incorporaram influências políticas, sociais e filosóficas, desafiando as convenções da música pop e atraindo a emergente contracultura.\nDylan nasceu no Condado de St. Louis, Minnesota. Mudou-se para a cidade de Nova York em 1961 para seguir carreira musical. Seu álbum de estreia de 1962, Bob Dylan, que continha material tradicional de folk e blues, foi seguido pelo álbum que marcou sua consagração, The Freewheelin' Bob Dylan (1963), que incluía \"Girl from the North Country\" e \"A Hard Rain's a-Gonna Fall\", adaptações de canções folk mais antigas. Suas canções \"Blowin' in the Wind\" (1963) e \"The Times They Are a-Changin'\"\" (1964) tornaram-se hinos dos movimentos pelos direitos civis e contra a guerra. Dylan provocou controvérsia ao utilizar instrumentação de rock eletricamente amplificada nos álbuns Bringing It All Back Home, Highway 61 Revisited (ambos de 1965) e Blonde on Blonde (1966). Seu single de seis minutos \"Like a Rolling Stone\" (1965) ampliou os limites comerciais e criativos da música popula",
+ "resumo_en": "Bob Dylan (legally Robert Dylan; born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.\nBorn and raised in Minnesota, Dylan moved to New York City in 1961 to pursue a music career. His  eponymous debut, containing traditional folk and blues material, was followed by his breakthrough album, The Freewheelin' Bob Dylan (1963), which included \"A Hard Rain's a-Gonna Fall\". His \"Blowin' in the Wind\" (1963) and \"The Times They Are a-Changin' (1964) became anthems for the civil rights and antiwar movements. Dylan sparked controversy when he used electrically amplified rock instrumentation on Bringing It All Back Home, Highway 61 Revisited (both 1965), and Blonde on Blonde (1966). His six-minute single \"Like a Rolling Stone\" (1965) expanded commercial and creative boundaries in popular music.\nAfter a motorcycle crash in 1966, Dylan ceased touring for seven years. During this period, he recorded a large body of songs with  the Band, released as The Basement Tapes (1975). Dylan explored country music and rural themes on J",
+ "albuns": [
+  {
+   "id": "6ac612a5-e815-3fed-b341-8b3faa351df4",
+   "titulo": "Bob Dylan",
+   "data": "1962-03-19",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/4b5db958-0948-4151-8e1f-2d5b8cc35975/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You’re No Good",
+     "duracao": "1:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Talkin’ New York",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "In My Time of Dyin’",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Man of Constant Sorrow",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Fixin’ to Die",
+     "duracao": "2:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Pretty Peggy‐O",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Highway 51",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Gospel Plow",
+     "duracao": "1:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby, Let Me Follow You Down",
+     "duracao": "2:35"
+    },
+    {
+     "n": 10,
+     "titulo": "House of the Risin’ Sun",
+     "duracao": "5:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Freight Train Blues",
+     "duracao": "2:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Song to Woody",
+     "duracao": "2:42"
+    },
+    {
+     "n": 13,
+     "titulo": "See That My Grave Is Kept Clean",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 7.8,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bob_Dylan_%28album%29",
+   "resumo_en": "Bob Dylan is the debut studio album by the American singer-songwriter Bob Dylan, released on March 19, 1962, by Columbia Records. The album was produced by Columbia talent scout John H. Hammond, who had earlier signed Dylan to the label, a controversial decision at the time. The album primarily features folk standards but also includes two original compositions, \"Talkin' New York\" and \"Song to Woody\". The latter was an ode to Woody Guthrie, a significant influence in Dylan's early career.\nThe album received little attention at first, but began to sell as Dylan's career progressed. Three years after its release, it charted in the UK, reaching No. 13.",
+   "spotify": "5k63xxy9YcKM0H9GS3vP1K",
+   "youtube": null
+  },
+  {
+   "id": "169b62aa-c3a5-3ed9-bed1-cc47c4bc51ad",
+   "titulo": "The Freewheelin’ Bob Dylan",
+   "data": "1963-05-27",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/0a730b81-69a3-4064-9c2b-29d890275165/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blowin' In The Wind",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Girl From The North Country",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Masters Of War",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Down The Highway",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Bob Dylan's Blues",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "A Hard Rain's A-Gonna Fall",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Think Twice, It's All Right",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Bob Dylan's Dream",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Oxford Town",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Talking World War III Blues",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Corrina, Corrina",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Honey, Just Allow Me One More Chance",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "I Shall Be Free",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.8,
+    "fontes": 4
+   },
+   "publico": 8.3,
+   "publico_votos": 21,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Freewheelin%27_Bob_Dylan",
+   "resumo_en": "The Freewheelin' Bob Dylan is the second studio album by the American singer-songwriter Bob Dylan. It was released on May 27, 1963, through Columbia Records. The record marks the beginning of Dylan's writing contemporary lyrics to traditional melodies. His debut album Bob Dylan contains only two original songs, whereas eleven of the thirteen songs on Freewheelin' are Dylan's compositions. It opens with \"Blowin' in the Wind\", which became an anthem of the 1960s, and an international hit for folk trio Peter, Paul and Mary soon after the release of the album. The album featured several other songs which came to be regarded as among Dylan's best compositions and classics of the 1960s folk scene: \"Girl from the North Country\", \"Masters of War\", \"A Hard Rain's a-Gonna Fall\" and \"Don't Think Twice, It's All Right\".\nDylan's lyrics embraced news stories drawn from headlines about the ongoing civil rights movement and he articulated anxieties about the fear of nuclear warfare. Balancing this political material were love songs, sometimes bitter and accusatory, and material that features surreal humor. Freewheelin' showcased Dylan's songwriting talent for the first time, propelling him to nati",
+   "spotify": "0o1uFxZ1VTviqvNaYkTJek",
+   "youtube": "OLAK5uy_nRCt4gFW7BLDywYA08F5t7lXqzRmgTXFg"
+  },
+  {
+   "id": "846f8032-9a85-3f4f-b7f5-28c86573d044",
+   "titulo": "The Times They Are A‐Changin’",
+   "data": "1964-02-10",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/0442def1-1c4b-40a7-adfb-83ca09e047bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Times They Are A‐Changin’",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Ballad of Hollis Brown",
+     "duracao": "5:05"
+    },
+    {
+     "n": 3,
+     "titulo": "With God on Our Side",
+     "duracao": "7:08"
+    },
+    {
+     "n": 4,
+     "titulo": "One Too Many Mornings",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "North Country Blues",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Only a Pawn in Their Game",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Boots of Spanish Leather",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "When the Ship Comes In",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "The Lonesome Death of Hattie Carroll",
+     "duracao": "5:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Restless Farewell",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": 8.6,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Times_They_Are_a-Changin%27_%28Bob_Dylan_album%29",
+   "resumo_en": "The Times They Are a-Changin' is the third studio album by the American singer-songwriter Bob Dylan. It was released on February 10, 1964, through Columbia Records. Whereas his previous albums, Bob Dylan (1962) and The Freewheelin' Bob Dylan (1963), combined original material and cover songs, this was the   first to feature only original compositions. The album consists mostly of stark, sparsely arranged ballads concerning issues such as racism, poverty, and social change. The title track is one of Dylan's most famous; many feel that it captures the spirit of social and political upheaval that characterized the 1960s.\nWhile it was still acclaimed, some critics and fans were not quite as taken with the album as a whole, relative to his previous work, for its lack of humor or musical diversity. Still, The Times They Are a-Changin' peaked at No. 20 on the US chart, eventually going gold, and belatedly reaching No. 4 in the UK in 1965.",
+   "spotify": "7DZeLXvr9eTVpyI1OlqtcS",
+   "youtube": null
+  },
+  {
+   "id": "b18ef710-0e47-3c10-ab0b-6631533549ee",
+   "titulo": "Another Side of Bob Dylan",
+   "data": "1964-08-08",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/2ffaba3d-840c-4e46-aa66-a3beaf6723eb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All I Really Want to Do",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Black Crow Blues",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Spanish Harlem Incident",
+     "duracao": "2:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Chimes of Freedom",
+     "duracao": "7:10"
+    },
+    {
+     "n": 5,
+     "titulo": "I Shall Be Free No. 10",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "To Ramona",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Motorpsycho Nitemare",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "My Back Pages",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don’t Believe You (She Acts Like We Never Have Met)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Ballad in Plain D",
+     "duracao": "8:16"
+    },
+    {
+     "n": 11,
+     "titulo": "It Ain’t Me, Babe",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.8,
+    "fontes": 4
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Another_Side_of_Bob_Dylan",
+   "resumo_en": "Another Side of Bob Dylan is the fourth studio album by the American singer and songwriter Bob Dylan, released on August 8, 1964, by Columbia Records.\nThe album deviates from the more socially conscious style which Dylan had developed with his previous LP, The Times They Are A-Changin' (1964). The change prompted criticism from some influential figures in the folk community – Sing Out! editor Irwin Silber complained that Dylan had \"somehow lost touch with people\" and was caught up in \"the paraphernalia of fame\".\nDespite the album's thematic shift, Dylan performed the entirety of Another Side of Bob Dylan solo, as he had previous records. In addition to his usual acoustic guitar and harmonica, Dylan provides piano on one track, \"Black Crow Blues\". Another Side of Bob Dylan reached No. 43 in the United States (although it eventually went gold), and peaked at No. 8 on the UK charts in 1965.\nA high-definition 5.1 surround sound edition of the album was released on SACD by Columbia in 2003.",
+   "spotify": "3q1W9iVdyuwVOGKn696Oh0",
+   "youtube": null
+  },
+  {
+   "id": "6cadda7c-fbd0-3b19-9546-56915e3305d8",
+   "titulo": "Bringing It All Back Home",
+   "data": "1965-03-22",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/ca754c1d-8254-4516-84b6-cb91559196e7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Subterranean Homesick Blues",
+     "duracao": "2:24"
+    },
+    {
+     "n": 2,
+     "titulo": "She Belongs to Me",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Maggie's Farm",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Minus Zero/No Limit",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Outlaw Blues",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "On the Road Again",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Bob Dylan's 115th Dream",
+     "duracao": "6:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Mr. Tambourine Man",
+     "duracao": "5:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Gates of Eden",
+     "duracao": "5:43"
+    },
+    {
+     "n": 10,
+     "titulo": "It's Alright, Ma (I'm Only Bleeding)",
+     "duracao": "7:32"
+    },
+    {
+     "n": 11,
+     "titulo": "It's All Over Now, Baby Blue",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.8,
+    "fontes": 5
+   },
+   "publico": 8.6,
+   "publico_votos": 20,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bringing_It_All_Back_Home",
+   "resumo_en": "Bringing It All Back Home is the fifth studio album by the American singer-songwriter Bob Dylan. Released by Columbia Records in April 1965, the album was Dylan's first to incorporate electric instrumentation. It was so different from his earlier work that it caused controversy and divided the contemporary folk scene.\nOn the first half of the album—the songs on side one of the original LP—Dylan is backed by an electric rock and roll band. The second half features mainly acoustic songs. The album abandons the protest music of Dylan's previous records for more surreal, complex lyrics.\nThe album reached No. 6 on Billboard's Pop Albums chart, the first of Dylan's LPs to break into the US Top 10. It topped the UK charts later that spring. The first track, \"Subterranean Homesick Blues\", became Dylan's first single to chart in the US, peaking at No. 39. Bringing It All Back Home has been described as one of the greatest albums of all time by multiple publications. In 2003, it was ranked number 31 on Rolling Stone's list of the \"500 Greatest Albums of All Time\"; it was ranked number 181 in the 2020 edition.",
+   "spotify": "1lPoRKSgZHQAYXxzBsOQ7v",
+   "youtube": null
+  },
+  {
+   "id": "fb48b1dc-412f-36aa-8820-1023c08c46c6",
+   "titulo": "Highway 61 Revisited",
+   "data": "1965-08-30",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/263a8ba4-cbc2-4fbd-9aa3-1de457c717a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Like a Rolling Stone",
+     "duracao": "6:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Tombstone Blues",
+     "duracao": "5:58"
+    },
+    {
+     "n": 3,
+     "titulo": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "From a Buick 6",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Ballad of a Thin Man",
+     "duracao": "5:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Queen Jane Approximately",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Highway 61 Revisited",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Like Tom Thumb’s Blues",
+     "duracao": "5:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Desolation Row",
+     "duracao": "11:20"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 8
+   },
+   "publico": 8.4,
+   "publico_votos": 27,
+   "wikipedia": "https://en.wikipedia.org/wiki/Highway_61_Revisited",
+   "resumo_en": "Highway 61 Revisited is the sixth studio album by the American singer-songwriter Bob Dylan, released on August 30, 1965, by Columbia Records. Dylan continued the musical approach of his previous album Bringing It All Back Home (1965), using rock musicians as his backing band on every track of the album in a further departure from his initial acoustic folk sound, except for the closing track, the 11-minute ballad \"Desolation Row\". Critics have focused on Dylan's innovative use of driving, blues-based music and subtle poetry to create songs that captured the political and cultural climate of contemporary America. Author Michael Gray argued that, in an important sense, the 1960s \"started\" with this album.\nLed off by \"Like a Rolling Stone\", a hit single released ahead of the album, Highway 61 Revisited includes songs that Dylan has continued to perform live over his long career, including \"Ballad of a Thin Man\" and the title track. He named the album after the major American highway that connected his birthplace of Duluth, Minnesota, to southern cities famed for their musical heritage, including St. Louis, Memphis, New Orleans, and the Delta blues area of Mississippi.\nHighway 61 Revisi",
+   "spotify": "6YabPKtZAjxwyWbuO9p4ZD",
+   "youtube": null
+  },
+  {
+   "id": "329fb554-2a81-3d8a-8e22-ec2c66810019",
+   "titulo": "Blonde on Blonde",
+   "data": "1966-05-16",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rainy Day Women #12 & 35",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Pledging My Time",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Visions of Johanna",
+     "duracao": "7:33"
+    },
+    {
+     "n": 4,
+     "titulo": "One of Us Must Know (Sooner or Later)",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "I Want You",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Stuck Inside of Mobile With the Memphis Blues Again",
+     "duracao": "7:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Leopard-Skin Pill-Box Hat",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Like a Woman",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Most Likely You Go Your Way and I'll Go Mine",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Temporary Like Achilles",
+     "duracao": "5:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Absolutely Sweet Marie",
+     "duracao": "4:57"
+    },
+    {
+     "n": 12,
+     "titulo": "4th Time Around",
+     "duracao": "4:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Obviously Five Believers",
+     "duracao": "3:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Sad-Eyed Lady of the Lowlands",
+     "duracao": "11:20"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 5
+   },
+   "publico": 8.4,
+   "publico_votos": 22,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blonde_on_Blonde",
+   "resumo_en": "Blonde on Blonde is the seventh studio album by the American singer-songwriter Bob Dylan, released as a double album on June 20, 1966, by Columbia Records. Recording sessions began in New York in October 1965 with numerous backing musicians, including members of Dylan's live backing band, the Hawks. Though sessions continued until January 1966, they yielded only one track that made it onto the final album—\"One of Us Must Know (Sooner or Later)\". At producer Bob Johnston's suggestion, Dylan, keyboardist Al Kooper, and guitarist Robbie Robertson moved to the CBS studios in Nashville, Tennessee. These sessions, augmented by some of Nashville's top session musicians, were more fruitful, and in February and March all the remaining songs for the album were recorded.\nBlonde on Blonde completed a trilogy of Dylan rock albums that began with 1965's Bringing It All Back Home and Highway 61 Revisited. Critics often rank Blonde on Blonde as one of the greatest albums of all time. Combining the expertise of Nashville session musicians with a modernist literary sensibility, the album's songs have been described as operating on a grand scale musically, while featuring lyrics one critic called \"a ",
+   "spotify": "4NP1rhnsPdYpnyJP0p0k0L",
+   "youtube": null
+  },
+  {
+   "id": "32981714-597a-32dd-9f29-b2f7566fed89",
+   "titulo": "John Wesley Harding",
+   "data": "1967-12-27",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/8e7e12b2-46ff-4e6b-8384-2ce538d90dcc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "John Wesley Harding",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "As I Went Out One Morning",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "I Dreamed I Saw St. Augustine",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "All Along the Watchtower",
+     "duracao": "2:32"
+    },
+    {
+     "n": 5,
+     "titulo": "The Ballad of Frankie Lee and Judas Priest",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Drifter’s Escape",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Dear Landlord",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "I Am a Lonesome Hobo",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "I Pity the Poor Immigrant",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "The Wicked Messenger",
+     "duracao": "2:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Down Along the Cove",
+     "duracao": "2:23"
+    },
+    {
+     "n": 12,
+     "titulo": "I’ll Be Your Baby Tonight",
+     "duracao": "2:36"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 8.7,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley_Harding",
+   "resumo_en": "John Wesley Harding is the eighth studio album by the American singer-songwriter Bob Dylan, released on December 27, 1967, by Columbia Records.   Produced by Bob Johnston, the album marked Dylan's return to semi-acoustic instrumentation and folk-influenced songwriting after three albums of lyrically abstract, blues-indebted rock music. John Wesley Harding was recorded around the same time as the home recording sessions with the Band known as The Basement Tapes.\nJohn Wesley Harding was well received by critics and sold well, reaching No. 2 on the U.S. charts and topping the UK charts. Less than three months after its release, John Wesley Harding was certified gold by the RIAA. \"All Along the Watchtower\" became one of his most popular songs after Jimi Hendrix's rendition was released in the autumn of 1968.\nThe album was included in Robert Christgau's \"Basic Record Library\" of 1950s and 1960s recordings, published in Christgau's Record Guide: Rock Albums of the Seventies (1981). In 2003, it was ranked number 301 on Rolling Stone magazine's list of the 500 greatest albums of all time, moving to 303 in the 2012 version of that list, then to 337 in the 2020 version. It was voted number 2",
+   "spotify": "2KzCDxKpgLqBffHu1IZ7Kn",
+   "youtube": null
+  },
+  {
+   "id": "2ca28746-8987-3015-b54c-75b3aa8ca1a1",
+   "titulo": "Nashville Skyline",
+   "data": "1969-04-09",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/33be9ca6-eb95-44bc-874b-41d8392c53ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Girl From the North Country",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Nashville Skyline Rag",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "To Be Alone With You",
+     "duracao": "2:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I Threw It All Away",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Peggy Day",
+     "duracao": "2:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Lay Lady Lay",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "One More Night",
+     "duracao": "2:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Tell Me That It Isn't True",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Country Pie",
+     "duracao": "1:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Tonight I'll Be Staying Here With You",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": 7.1,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nashville_Skyline",
+   "resumo_en": "Nashville Skyline is the ninth studio album by the American singer-songwriter Bob Dylan, released on April 9, 1969, by Columbia Records as LP record, reel-to-reel tape, and audio cassette.\nBuilding on the rustic style he experimented with on John Wesley Harding, Nashville Skyline displayed a complete immersion into country music. Along with the more basic lyrical themes, simple songwriting structures, and charming domestic feel, it introduced audiences to a radically new singing voice from Dylan, who had temporarily quit smoking—a soft, affected country croon.\nThe result received a generally positive reaction from critics, and was a commercial success. The album scored Dylan his fourth UK No. 1 album and reached No. 3 in the U.S.",
+   "spotify": "5WBx64FIN04CvM2T1MGrUN",
+   "youtube": null
+  },
+  {
+   "id": "6163aa70-d97f-34e5-a5bf-54b7d85a7ea0",
+   "titulo": "Self Portrait",
+   "data": "1970-06-08",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/3f2f83f9-3548-4154-85be-47b378f7767b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All the Tired Horses",
+     "duracao": "3:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Alberta #1",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "I Forgot More Than You’ll Ever Know",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Days of 49",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Early Mornin’ Rain",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "In Search of Little Sadie",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Let It Be Me",
+     "duracao": "2:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Sadie",
+     "duracao": "1:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Woogie Boogie",
+     "duracao": "2:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Belle Isle",
+     "duracao": "2:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Living the Blues",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Like a Rolling Stone (live)",
+     "duracao": "5:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Copper Kettle",
+     "duracao": "3:32"
+    },
+    {
+     "n": 14,
+     "titulo": "Gotta Travel On",
+     "duracao": "3:04"
+    },
+    {
+     "n": 15,
+     "titulo": "Blue Moon",
+     "duracao": "2:26"
+    },
+    {
+     "n": 16,
+     "titulo": "The Boxer",
+     "duracao": "2:45"
+    },
+    {
+     "n": 17,
+     "titulo": "The Mighty Quinn (Quinn the Eskimo) (live)",
+     "duracao": "2:54"
+    },
+    {
+     "n": 18,
+     "titulo": "Take Me as I Am (or Let Me Go)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 19,
+     "titulo": "Take a Message to Mary",
+     "duracao": "2:44"
+    },
+    {
+     "n": 20,
+     "titulo": "It Hurts Me Too",
+     "duracao": "3:16"
+    },
+    {
+     "n": 21,
+     "titulo": "Minstrel Boy (live)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 22,
+     "titulo": "She Belongs to Me (live)",
+     "duracao": "2:42"
+    },
+    {
+     "n": 23,
+     "titulo": "Wigwam",
+     "duracao": "3:08"
+    },
+    {
+     "n": 24,
+     "titulo": "Alberta #2",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.0,
+    "fontes": 4
+   },
+   "publico": 6.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Self_Portrait_%28Bob_Dylan_album%29",
+   "resumo_en": "Self Portrait is the tenth studio album by American singer-songwriter Bob Dylan. It was released on June 8, 1970, through Columbia Records. The album was produced by Bob Johnston and was Dylan's second double album, after Blonde on Blonde (1966). The record is compiled of cover songs, live recordings, and new originals, while the arrangements and vocal performances continue in the country vein of the preceding Nashville Skyline (1969).\nSelf Portrait was released to negative reviews and confusion from critics and fans alike. Criticism was directed at the album's production, performances, and the lack of new material. Dylan himself has since referred to the album as having been released with the purpose of confounding the public's expectations of him, and to counter the \"spokesman of a generation\" tag which had been placed on him throughout the 1960s.\nDespite the critical reception, the album was a commercial success, reaching number four in the US and topping the chart in the UK. In 2013, Dylan released The Bootleg Series Vol. 10: Another Self Portrait (1969–1971), which resulted in further positive critical revaluation.",
+   "spotify": "3bXEPGWxOplvbLwyasRSW3",
+   "youtube": null
+  },
+  {
+   "id": "4f2b915f-cc82-3c18-ac9b-05f3d4df622d",
+   "titulo": "New Morning",
+   "data": "1970-10-21",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/454fa3bf-d2f3-4cae-a933-9efdf71d1765/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If Not for You",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Day of the Locusts",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Passes Slowly",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Went to See the Gypsy",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Winterlude",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "If Dogs Run Free",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "New Morning",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Sign on the Window",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "One More Weekend",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "The Man in Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Three Angels",
+     "duracao": "2:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Father of Night",
+     "duracao": "1:31"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/New_Morning",
+   "resumo_en": "New Morning is the eleventh studio album by the American singer-songwriter Bob Dylan, released on October 21, 1970 by Columbia Records.\nComing only four months after the controversial Self Portrait, the more concise New Morning received a much warmer reception from fans and critics. Most welcome was the return of Dylan's familiar, nasal singing voice. While he has a slightly nasal tone to his voice on \"Alberta #1\" from Self Portrait, this was the first full album with his familiar voice since John Wesley Harding in 1967, after which he began singing with a country croon.\nNew Morning reached No. 7 in the United States, quickly going gold, and gave Dylan his sixth and last UK number 1 album until Together Through Life in 2009. The album's most commercially successful song is \"If Not for You\", which was also recorded by George Harrison, who played guitar on a version of the song released on 1991's The Bootleg Series Volumes 1–3, and was also an international hit for Olivia Newton-John in 1971.",
+   "spotify": "48efaobqOTbvnlxbETstey",
+   "youtube": null
+  },
+  {
+   "id": "443726be-82e0-3d6d-ab2a-2de3099b0dde",
+   "titulo": "Pat Garrett & Billy the Kid",
+   "data": "1973-07-13",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/fcf16c46-1b7c-4c98-b4e4-32295dce3639/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Main Title Theme (Billy)",
+     "duracao": "6:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Cantina Theme (Workin’ for the Law)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Billy 1",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Bunkhouse Theme",
+     "duracao": "2:15"
+    },
+    {
+     "n": 5,
+     "titulo": "River Theme",
+     "duracao": "1:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Turkey Chase",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Knockin’ on Heaven’s Door",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Final Theme",
+     "duracao": "5:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Billy 4",
+     "duracao": "5:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Billy 7",
+     "duracao": "2:07"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 4.2,
+    "fontes": 4
+   },
+   "publico": 9.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pat_Garrett_%26_Billy_the_Kid_%28album%29",
+   "resumo_en": "Pat Garrett & Billy the Kid is the twelfth studio album and first soundtrack album by American singer-songwriter Bob Dylan, released on July 13, 1973, by Columbia Records for the Sam Peckinpah film Pat Garrett and Billy the Kid. Dylan himself appeared in the film as the character \"Alias\". The soundtrack consists mainly of instrumental music and was inspired by the movie itself. The album includes \"Knockin' on Heaven's Door\", which became a trans-Atlantic Top 20 hit.\nCertified gold by RIAA, Pat Garrett & Billy the Kid reached No. 16 in the US and No. 29 in the UK.",
+   "spotify": "2Pj2kZM5XpyIeyFBTAVulL",
+   "youtube": null
+  },
+  {
+   "id": "a876f1e5-9a1a-32ef-a7f2-8971511bd19f",
+   "titulo": "Dylan",
+   "data": "1973-11-16",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/68550b82-2290-4bab-b8d3-7c7dd75fa328/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lily of the West",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Can't Help Falling in Love",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Sarah Jane",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Mr. Bojangles",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Ballad of Ira Hayes",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Mary Ann",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Big Yellow Taxi",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "A Fool Such as I",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Spanish Is the Loving Tongue",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 2.0,
+    "media": 2.0,
+    "fontes": 3
+   },
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dylan_%281973_album%29",
+   "resumo_en": "Dylan is the thirteenth studio album by singer-songwriter Bob Dylan, compiled from outtakes recorded for the two earlier albums, Self Portrait (June 1970) and New Morning (October 1970). Columbia Records compiled it with no input from Dylan, who had changed record companies to Asylum Records. It was released on November 16, 1973, the same month as the first news broke of the Bob Dylan and the Band 1974 Tour, Dylan's first major tour since 1966. The album consists of six cover songs and three traditional songs, with no original Dylan songs. It was poorly received, and is largely considered one of Dylan's weakest albums.\nIn Europe the album was re-released in January 1991 with the title Dylan (A Fool Such as I).",
+   "spotify": "08D6t1zCh2Csoyw92xmo7p",
+   "youtube": null
+  },
+  {
+   "id": "aedd518d-d7e0-3595-80c7-54d2aad292f8",
+   "titulo": "Planet Waves",
+   "data": "1974-01-17",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1bf441ee-1d09-4bf4-b1db-d84b9a603c48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "On a Night Like This",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Going, Going, Gone",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Tough Mama",
+     "duracao": "4:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Hazel",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Something There Is About You",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Forever Young",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Forever Young",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Dirge",
+     "duracao": "5:37"
+    },
+    {
+     "n": 9,
+     "titulo": "You Angel You",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Never Say Goodbye",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Wedding Song",
+     "duracao": "4:40"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 7.6,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Planet_Waves",
+   "resumo_en": "Planet Waves is the fourteenth studio album by American singer-songwriter Bob Dylan, released on January 17, 1974,  by Asylum Records in the United States and Island Records in the United Kingdom. \nDylan is supported on the album by longtime collaborators the Band, with whom he embarked on a major reunion tour (documented on the 1974 live album Before the Flood, and then The Live 1974 Recordings box set and sampler, released in 2024). With a successful tour and a host of publicity, Planet Waves was a hit, enjoying a brief stay at No. 1 on the US Billboard charts—a first for the artist—and No. 7 in the UK. Reviews were generally positive; critics were not as negative as they had been with some then-recent Bob Dylan albums (namely Self Portrait and Dylan) but some were still not enthusiastic for the album's brand of laid-back roots rock, but it was nevertheless considered a significant improvement over those albums.\nThe album was originally set to be titled Ceremonies of the Horsemen, a reference to the song \"Love Minus Zero/No Limit\", from the 1965 album Bringing It All Back Home; the release was delayed two weeks when Dylan decided to change the title at the last minute. Another, e",
+   "spotify": "3gYbjd76d8T5Ct5WxCxX5R",
+   "youtube": null
+  },
+  {
+   "id": "9c1b8072-eb1d-33d2-af8c-984d46e40902",
+   "titulo": "Blood on the Tracks",
+   "data": "1975-01-20",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/b13937fa-2737-3d31-a40d-45f5bc21e850/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tangled Up in Blue",
+     "duracao": "5:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Simple Twist of Fate",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re a Big Girl Now",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Idiot Wind",
+     "duracao": "7:49"
+    },
+    {
+     "n": 5,
+     "titulo": "You’re Gonna Make Me Lonesome When You Go",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Meet Me in the Morning",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Lily, Rosemary and the Jack of Hearts",
+     "duracao": "8:53"
+    },
+    {
+     "n": 8,
+     "titulo": "If You See Her, Say Hello",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Shelter From the Storm",
+     "duracao": "5:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Buckets of Rain",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 9
+   },
+   "publico": 8.4,
+   "publico_votos": 21,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blood_on_the_Tracks",
+   "resumo_en": "Blood on the Tracks is the fifteenth studio album by the American singer-songwriter Bob Dylan, released on January 20, 1975, by Columbia Records. The album marked Dylan's return to Columbia after two albums with Asylum Records. Dylan began recording the album at an A & R studio in New York City in September 1974. In December, shortly before Columbia was due to release the album, Dylan abruptly re-recorded much of the material in Sound 80 studio in Minneapolis. The final album contains five tracks recorded in New York and five from Minneapolis. The songs have been linked to tensions in Dylan's personal life, including his estrangement from his then-wife Sara. One of their children, Jakob Dylan, described the songs as \"my parents talking\". Dylan has denied that the songs were autobiographical.\nBlood on the Tracks initially received mixed reviews, but has since been acclaimed by critics and fans as one of Dylan's best albums; various publications have listed it as one of the greatest albums of all time. It was a commercial success, peaking at No. 1 on the Billboard 200 and No. 4 on the UK Albums Chart; the single \"Tangled Up in Blue\" peaked at No. 31 on the Billboard Hot 100. It remai",
+   "spotify": "4WD4pslu83FF6oMa1e19mF",
+   "youtube": null
+  },
+  {
+   "id": "47873729-6db0-3431-99e7-0292e939dadf",
+   "titulo": "The Basement Tapes",
+   "data": "1975-06-26",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/3144217a-2c44-441c-a211-2bbbc906068f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Odds and Ends",
+     "duracao": "1:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Orange Juice Blues (Blues for Breakfast)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Million Dollar Bash",
+     "duracao": "2:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Yazoo Street Scandal",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Goin’ to Acapulco",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Katie’s Been Gone",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Lo and Behold!",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Bessie Smith",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Clothes Line Saga",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Apple Suckling Tree",
+     "duracao": "2:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Please, Mrs. Henry",
+     "duracao": "2:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Tears of Rage",
+     "duracao": "4:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Much of Nothing",
+     "duracao": "3:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Yea! Heavy and a Bottle of Bread",
+     "duracao": "2:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Ain’t No More Cane",
+     "duracao": "3:58"
+    },
+    {
+     "n": 16,
+     "titulo": "Crash on the Levee (Down in the Flood)",
+     "duracao": "2:05"
+    },
+    {
+     "n": 17,
+     "titulo": "Ruben Remus",
+     "duracao": "3:16"
+    },
+    {
+     "n": 18,
+     "titulo": "Tiny Montgomery",
+     "duracao": "2:47"
+    },
+    {
+     "n": 19,
+     "titulo": "You Ain’t Goin’ Nowhere",
+     "duracao": "2:43"
+    },
+    {
+     "n": 20,
+     "titulo": "Don’t Ya Tell Henry",
+     "duracao": "3:14"
+    },
+    {
+     "n": 21,
+     "titulo": "Nothing Was Delivered",
+     "duracao": "4:24"
+    },
+    {
+     "n": 22,
+     "titulo": "Open the Door, Homer",
+     "duracao": "2:50"
+    },
+    {
+     "n": 23,
+     "titulo": "Long Distance Operator",
+     "duracao": "3:40"
+    },
+    {
+     "n": 24,
+     "titulo": "This Wheel’s on Fire",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.4,
+    "fontes": 5
+   },
+   "publico": 8.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Basement_Tapes",
+   "resumo_en": "The Basement Tapes is the sixteenth studio album by the American singer-songwriter Bob Dylan and his second with the Band. It was released on June 26, 1975, by Columbia Records. Two-thirds of the album's 24 tracks feature Dylan on lead vocals backed by the Band, and were recorded in 1967, eight years before the album's release, in the lapse between the release of Blonde on Blonde and the subsequent recording and release of John Wesley Harding, during sessions that began at Dylan's house in Woodstock, New York, then moved to the basement of a house nicknamed Big Pink. While most of these songs had appeared on bootleg albums, The Basement Tapes marked their first official release. The remaining eight songs, all previously unavailable, feature the Band without Dylan and were recorded between 1967 and 1975.\nDuring his 1965–1966 world tour, Dylan was backed by the Hawks, a five-member rock group who would later become famous as the Band. After Dylan was injured in a motorcycle accident in July 1966, four members of the Hawks came to Dylan's home in the Woodstock area to collaborate with him on music and film projects. While Dylan was out of the public's eye during an extended period of ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fc325dd3-73ed-36aa-9c77-6b65a958e3cf",
+   "titulo": "Desire",
+   "data": "1976-01-05",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/085ab0ae-23a6-4b4f-9642-59850fca4eb8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hurricane",
+     "duracao": "8:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Isis",
+     "duracao": "6:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Mozambique",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Cup of Coffee",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Oh, Sister",
+     "duracao": "4:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Joey",
+     "duracao": "11:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Romance in Durango",
+     "duracao": "5:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Black Diamond Bay",
+     "duracao": "7:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Sara",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.3,
+    "fontes": 3
+   },
+   "publico": 8.2,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Desire_%28Bob_Dylan_album%29",
+   "resumo_en": "Desire is the seventeenth studio album by American singer-songwriter Bob Dylan, released on January 5, 1976, through Columbia Records. It is one of Dylan's most collaborative efforts, featuring the same caravan of musicians as the acclaimed Rolling Thunder Revue tours the previous year (later documented on The Bootleg Series Vol. 5). Many of the songs also featured backing vocals by Emmylou Harris and Ronee Blakley. Most of the album was co-written by Jacques Levy, and is composed of lengthy story-songs, two of which quickly generated controversy: the 11-minute-long \"Joey\", which is seen as glorifying the violent gangster \"Crazy Joey\" Gallo, and \"Hurricane\", the opening track that tells a passionate account of the murder case against boxer Rubin \"Hurricane\" Carter, whom the song asserts was framed. Carter was released in 1985, after a judge overturned his conviction on appeal.\nA well-received follow-up to Blood on the Tracks, Desire reached No. 1 on the Billboard Pop Albums chart for five weeks, becoming one of Dylan's best-selling studio albums, and was certified double Platinum; the album reached No. 3 in the UK. It claimed the No. 1 slot on NME Album of the Year. Rolling Stone n",
+   "spotify": "1T8usYsiGEMPMQOLFgJEbE",
+   "youtube": "OLAK5uy_kBIpgpJaKC06pQVrsJod0rdgMinr--1aE"
+  },
+  {
+   "id": "5883c91a-43ea-34e6-922d-1dc12fd48467",
+   "titulo": "Street‐Legal",
+   "data": "1978-06-15",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/5570d8fa-24b7-4450-a35c-fb86233cf609/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Changing of the Guards",
+     "duracao": "6:34"
+    },
+    {
+     "n": 2,
+     "titulo": "New Pony",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "No Time to Think",
+     "duracao": "8:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Baby Stop Crying",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Is Your Love in Vain?",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Señor (Tales of Yankee Power)",
+     "duracao": "5:43"
+    },
+    {
+     "n": 7,
+     "titulo": "True Love Tends to Forget",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "We Better Talk This Over",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Where Are You Tonight? (Journey Through Dark Heat)",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.7,
+    "fontes": 5
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Street-Legal_%28album%29",
+   "resumo_en": "Street-Legal is the eighteenth studio album by American singer-songwriter Bob Dylan. It was released on June 15, 1978, through Columbia Records. The album was produced by Don DeVito and recorded at Rundown Studios, Dylan's own makeshift recording space. A diversion from the sound of previous albums, the record features the use of a large pop rock band including backing vocalists and horns.\nUpon release, Street-Legal received harsh reviews from the American press, but critics in the UK were more positive. Retrospective reviews are also much more positive, though it continues to receive criticism for its production. In the US, the album was less commercially successful than Dylan's past few releases, though it still reached the top 10. The lead single, \"Baby, Stop Crying\", failed to chart in America but was a top 15 hit in the UK. DeVito remixed the album in 1999, which has led to further positive critical reevalution.",
+   "spotify": "4y8vIJGe0TYV4OI7CJIP1V",
+   "youtube": null
+  },
+  {
+   "id": "84b2989d-4364-3882-9570-30d4a048c487",
+   "titulo": "Slow Train Coming",
+   "data": "1979-08-20",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/5f96435f-df41-4d29-a4c6-eac86206ed50/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gotta Serve Somebody",
+     "duracao": "5:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Precious Angel",
+     "duracao": "6:30"
+    },
+    {
+     "n": 3,
+     "titulo": "I Believe in You",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Slow Train",
+     "duracao": "5:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Gonna Change My Way of Thinking",
+     "duracao": "5:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Do Right to Me Baby (Do Unto Others)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "When You Gonna Wake Up",
+     "duracao": "5:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Man Gave Names to All the Animals",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "When He Returns",
+     "duracao": "4:29"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Slow_Train_Coming",
+   "resumo_en": "Slow Train Coming is the nineteenth studio album by American singer-songwriter Bob Dylan, released on August 20, 1979, by Columbia Records.  It was Dylan's first album following his conversion to Christianity, and the songs either express personal faith, or stress the importance of Christian teachings and philosophy. The evangelical nature of the record alienated many of Dylan's existing fans; at the same time, many Christians were drawn into his fan base. Slow Train Coming was listed at No. 16 in the 2001 book CCM Presents: The 100 Greatest Albums in Christian Music.\nThe album was generally well-reviewed by music critics, and the single \"Gotta Serve Somebody\" became his first hit in three years, winning Dylan the inaugural Grammy Award for Best Male Rock Vocal Performance in 1980. The album peaked at No. 2 on the charts in the UK and went platinum in the US, where it reached No. 3.\nA high-definition 5.1 surround sound edition of the album was released on SACD by Columbia in 2003.",
+   "spotify": "5k4z33VjpVmkOB18IgOD8E",
+   "youtube": null
+  },
+  {
+   "id": "a11f33bf-1573-3b99-bcc6-d0c6e6592bcd",
+   "titulo": "Saved",
+   "data": "1980-06-19",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/a133d452-f424-3593-829c-7b0450c43b28/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Satisfied Mind",
+     "duracao": "1:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Saved",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Covenant Woman",
+     "duracao": "6:05"
+    },
+    {
+     "n": 4,
+     "titulo": "What Can I Do for You?",
+     "duracao": "5:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Solid Rock",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Pressing On",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "In the Garden",
+     "duracao": "5:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Saving Grace",
+     "duracao": "5:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Are You Ready",
+     "duracao": "4:40"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.5,
+    "fontes": 4
+   },
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Saved_%28Bob_Dylan_album%29",
+   "resumo_en": "Saved is the twentieth studio album by American singer-songwriter Bob Dylan, released on June 23, 1980, by Columbia Records. Saved was the second album of Dylan's \"Christian trilogy\". It expanded on themes explored on its predecessor Slow Train Coming, with gospel arrangements and lyrics extolling the importance of a strong personal faith.",
+   "spotify": "6ytk4mtIgQP7F67XL1nozV",
+   "youtube": null
+  },
+  {
+   "id": "4491344e-1ffd-339d-a2c5-e6a369b4708e",
+   "titulo": "Shot of Love",
+   "data": "1981-08-10",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/35080863-a7bf-4e70-9464-2e757745d1f3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shot of Love",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Heart of Mine",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Property of Jesus",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Lenny Bruce",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Watered‐Down Love",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "The Groom's Still Waiting at the Altar",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Dead Man, Dead Man",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Summertime",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Trouble",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Every Grain of Sand",
+     "duracao": "6:12"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shot_of_Love",
+   "resumo_en": "Shot of Love is the twenty-first studio album by American singer-songwriter Bob Dylan, released on August 12, 1981, by Columbia Records. It is considered to be Dylan's last of a trilogy of Christian albums.\nAt the time of its release, Shot of Love received mixed reviews; Paul Nelson of Rolling Stone criticized the album, though he did single out the last track, \"Every Grain of Sand\", as a standout. Shot of Love, while reaching UK No. 6, selling more than 60,000 copies, continued Dylan's US commercial decline, reaching No. 33 and selling around 300,000 copies, during a brief chart stay. Bono of Irish band U2 described Shot of Love as one of his favorites, particularly due to Dylan's singing ability.",
+   "spotify": "14cScWsd0lPdSlNFfr9AmA",
+   "youtube": null
+  },
+  {
+   "id": "60f27712-263a-348c-8eda-b5315a67e8c2",
+   "titulo": "Infidels",
+   "data": "1983-10-27",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/51210570-1f99-47bc-abfa-a53998e583fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jokerman",
+     "duracao": "6:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Sweetheart Like You",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Neighborhood Bully",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "License to Kill",
+     "duracao": "3:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Man of Peace",
+     "duracao": "6:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Union Sundown",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I and I",
+     "duracao": "5:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Fall Apart on Me Tonight",
+     "duracao": "5:56"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 5
+   },
+   "publico": 8.2,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Infidels_%28album%29",
+   "resumo_en": "Infidels is the twenty-second studio album by American singer-songwriter Bob Dylan, released on October 27, 1983, by Columbia Records.\nProduced by Mark Knopfler and Dylan himself, Infidels is seen as his return to secular music, following a conversion to Christianity, three evangelical records and a subsequent return to a less religious lifestyle. Though he has never entirely abandoned religious imagery, Infidels gained much attention for its focus on more personal themes of love and loss, in addition to commentary on the environment and geopolitics. Christopher Connelly of Rolling Stone called those gospel albums just prior to Infidels \"lifeless\", and considered Infidels to be Dylan's best poetic and melodic work since Blood on the Tracks.\nThe critical reaction was the strongest for Dylan in years, almost universally hailed for its songwriting and performances. The album also fared well commercially, reaching No. 20 in the US and going gold, and No. 9 in the UK. The album's highest chart position worldwide was in Norway, where it peaked at No. 1. Fans and critics were disappointed that several songs were inexplicably cut from the album just prior to mastering—primarily \"Blind Will",
+   "spotify": "66zadu7BtUnpbkT4iAkaHy",
+   "youtube": null
+  },
+  {
+   "id": "a90b32b2-c84d-35ad-bab3-07e6799cde5b",
+   "titulo": "Empire Burlesque",
+   "data": "1985-05-30",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/d9cdb4b1-f553-461a-a89e-cc73d6cbf68e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tight Connection to My Heart (Has Anybody Seen My Love)",
+     "duracao": "5:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Seeing the Real You at Last",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "I'll Remember You",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Clean Cut Kid",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Never Gonna Be the Same Again",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Trust Yourself",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Emotionally Yours",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "When the Night Comes Falling From the Sky",
+     "duracao": "7:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Something's Burning, Baby",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Dark Eyes",
+     "duracao": "5:09"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 5.2,
+    "fontes": 4
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Empire_Burlesque",
+   "resumo_en": "Empire Burlesque is the twenty-third studio album by American singer-songwriter Bob Dylan, released on June 8, 1985, on Columbia Records. Self-produced, the album peaked at No. 33 in the U.S. and No. 11 in the UK.\nAccompanied by multiple session musicians—including Mike Campbell, Benmont Tench, and Howie Epstein, members of Tom Petty and the Heartbreakers—the album has a distinct \"'80s style\" aesthetic.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "423bf65a-6e28-3a14-8ea7-08912eb15e29",
+   "titulo": "Knocked Out Loaded",
+   "data": "1986-07-14",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/f414a2b8-7aa3-4dc7-83ec-37ee7e5823ff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Wanna Ramble",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "They Killed Him",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Driftin' Too Far From Shore",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Precious Memories",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Maybe Someday",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Brownsville Girl",
+     "duracao": "11:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Got My Mind Made Up",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Under Your Spell",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.8,
+    "fontes": 5
+   },
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Knocked_Out_Loaded",
+   "resumo_en": "Knocked Out Loaded is the twenty-fourth studio album by American singer-songwriter Bob Dylan, released on July 14, 1986 by Columbia Records.\nThe album was received poorly upon release, and is still considered by some critics to be one of Dylan's least-engaging efforts. However, the 11-minute epic \"Brownsville Girl\", co-written by Sam Shepard, has been cited as one of his best songs by some critics. Sales for Knocked Out Loaded were weak, as it peaked at No. 53 on U.S. charts and No. 35 in the UK. The album's highest chart position was in Norway, where it peaked at No. 9.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce8a72cf-10c7-3dea-b9e7-3dd260a9ed5c",
+   "titulo": "Down in the Groove",
+   "data": "1988-05-19",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/010a2b9f-3cce-3bf6-b52c-001a8178f0d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let's Stick Together",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "When Did You Leave Heaven?",
+     "duracao": "2:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Sally Sue Brown",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Death Is Not the End",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Had a Dream About You, Baby",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Ugliest Girl in the World",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Silvio",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Ninety Miles an Hour (Down a Dead End Street)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Shenandoah",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Rank Strangers to Me",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 5
+   },
+   "publico": 6.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Down_in_the_Groove",
+   "resumo_en": "Down in the Groove is the twenty-fifth studio album by American singer-songwriter Bob Dylan. It was released on May 30, 1988, through Columbia Records. The album was recorded over a period of five years, spanning the sessions for Infidels (1983) to recordings made specifically for the album in 1987. The record, which is made up of both originals and covers, features multiple guest musicians including Ronnie Wood, hip-hop group Full Force, and members of the Grateful Dead, while two of the album's four originals were co-written with Grateful Dead lyricist Robert Hunter.\nFollowing up on the poorly-received Knocked Out Loaded (1986), Down in the Groove was released to similarly negative reviews and low sales. The album stalled at number 61 in the US and number 32 in the UK, while its only single, \"Silvio\", failed to chart in either territory. Both contemporary and retrospective reviews criticize the album as having an incohesive and scattered nature, and rankings of Dylan's work tend to place the album near the bottom of his discography.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "36675813-6c3c-33fa-8eaf-b1cd66d4f006",
+   "titulo": "Oh Mercy",
+   "data": "1989-09-12",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/0ca2e6a7-587a-477f-8567-ee98afa6d35d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Political World",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Where Teardrops Fall",
+     "duracao": "2:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Everything Is Broken",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Ring Them Bells",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Man in the Long Black Coat",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Most of the Time",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "What Good Am I?",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Disease of Conceit",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "What Was It You Wanted",
+     "duracao": "5:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Shooting Star",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 8.2,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Oh_Mercy",
+   "resumo_en": "Oh Mercy is the twenty-sixth studio album by American singer-songwriter Bob Dylan, released on September 12, 1989, by Columbia Records. Produced by Daniel Lanois, it was hailed by critics as a triumph for Dylan, after a string of poorly reviewed albums. Oh Mercy gave Dylan his best chart showing in years, reaching No. 30 on the Billboard charts in the United States and No. 6 in Norway and the UK.",
+   "spotify": "18ue4s9PsV3WBw7kkzD689",
+   "youtube": null
+  },
+  {
+   "id": "8d231aa3-4a4e-306a-a3f9-4421e846bb1a",
+   "titulo": "Under the Red Sky",
+   "data": "1990-09-10",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/078b20db-c52f-4b64-b902-e06885daf688/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wiggle Wiggle",
+     "duracao": "2:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Under the Red Sky",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Unbelievable",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Born in Time",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "T.V. Talkin' Song",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "10,000 Men",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "2 X 2",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "God Knows",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Handy Dandy",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Cat's in the Well",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 5
+   },
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Under_the_Red_Sky",
+   "resumo_en": "Under the Red Sky is the twenty-seventh studio album by American singer-songwriter Bob Dylan. It was released on September 10, 1990, through Columbia Records. The album was produced by Don Was, David Was, and Dylan himself (under the pseudonym Jack Frost).\nThe album was largely greeted as a disappointing follow-up to 1989's critically acclaimed Oh Mercy. Most of the criticism was directed at the slick sound of rock producer Don Was, as well as a handful of tracks that seem rooted in children's nursery rhymes. It is a rarity in Dylan's catalog for its inclusion of celebrity cameos by Jimmie Vaughan, Slash, Elton John, George Harrison, David Crosby, Stevie Ray Vaughan, and Bruce Hornsby. The album was released to middling sales, peaking at number thirteen in the UK and number thirty-eight in the US.",
+   "spotify": "1547Y52sCDrYWW0iGJlLmT",
+   "youtube": null
+  },
+  {
+   "id": "43f420f8-44ca-3ff2-92c2-c6f285cb163b",
+   "titulo": "Good as I Been to You",
+   "data": "1992-10-30",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/cd4767e3-53e1-3b4d-9c47-c7163c15c83d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Frankie & Albert",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Jim Jones",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Blackjack Davey",
+     "duracao": "5:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Canadee-i-o",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Sittin’ on Top of the World",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Maggie",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Hard Times",
+     "duracao": "4:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Step It Up and Go",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Tomorrow Night",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Arthur McBride",
+     "duracao": "6:22"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re Gonna Quit Me",
+     "duracao": "2:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Diamond Joe",
+     "duracao": "3:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Froggie Went a Courtin’",
+     "duracao": "6:24"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 5
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Good_as_I_Been_to_You",
+   "resumo_en": "Good as I Been to You is the twenty-eighth studio album by American singer-songwriter Bob Dylan, released on November 3, 1992, by Columbia Records. The title comes from the second line of \"You're Gonna Quit Me,” which is the eleventh track of the album. \nIt is composed entirely of traditional folk songs and covers, and is Dylan's first entirely solo, acoustic album since Another Side of Bob Dylan in 1964. It is also his first collection not to feature any original compositions since Dylan in 1973.\nOn the charts, Good as I Been to You reached No. 51 in the US and No. 18 in the UK, and helped to restore Dylan's critical standing following the disappointing Under the Red Sky. The album's highest chart position worldwide was in Norway, where it peaked at No. 11.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fb0d0547-c8ec-3300-8f70-6f45361578f3",
+   "titulo": "World Gone Wrong",
+   "data": "1993-10-22",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/520acf8f-9144-34ad-9823-c11b891d0e00/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "World Gone Wrong",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Henry",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Ragged & Dirty",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Blood in My Eyes",
+     "duracao": "5:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Broke Down Engine",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Delia",
+     "duracao": "5:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Stack a Lee",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Two Soldiers",
+     "duracao": "5:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Jack‐a‐Roe",
+     "duracao": "4:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Lone Pilgrim",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.4,
+    "fontes": 5
+   },
+   "publico": 7.8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/World_Gone_Wrong",
+   "resumo_en": "World Gone Wrong is the twenty-ninth studio album by American singer-songwriter Bob Dylan, released on October 26, 1993, by Columbia Records.\nIt was Dylan's second consecutive collection of only traditional folk songs, performed acoustically with guitar and harmonica. The songs tend to deal with darker and more tragic themes than the previous outing, Good as I Been to You.\nThe album received generally positive reviews from critics and won a Grammy award for Best Traditional Folk Album. It peaked at number 70 in the U.S., and at number 35 in the UK.",
+   "spotify": "18In1Kf4950tlxRh2RQM3l",
+   "youtube": null
+  },
+  {
+   "id": "dad1dada-1fda-3186-beb7-3bc80e90f9e0",
+   "titulo": "Time Out of Mind",
+   "data": "1997-09-26",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/06248c52-902b-4bd1-a5b6-529723295277/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Sick",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Dirt Road Blues",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Standing In The Doorway",
+     "duracao": "7:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Million Miles",
+     "duracao": "5:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Tryin' To Get To Heaven",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "'Til I Fell In Love With You",
+     "duracao": "5:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Not Dark Yet",
+     "duracao": "6:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Cold Irons Bound",
+     "duracao": "7:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Make You Feel My Love",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Can't Wait",
+     "duracao": "5:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Highlands",
+     "duracao": "16:27"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.6,
+    "fontes": 8
+   },
+   "publico": 8.4,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Time_Out_of_Mind_%28Bob_Dylan_album%29",
+   "resumo_en": "Time Out of Mind is the thirtieth studio album by American singer-songwriter Bob Dylan, released on September 30, 1997, through Columbia Records. It was released as a single CD as well as a double studio album on vinyl, his first since The Basement Tapes in 1975.\nFor many fans and critics, the album marked Dylan's artistic comeback after he appeared to struggle with his musical identity throughout the 1980s; he had not released any original material since the poorly received Under the Red Sky in 1990. Time Out of Mind is one of Dylan's most acclaimed albums, and it went on to win three Grammy Awards, including Album of the Year in 1998. It was also ranked number 410 on Rolling Stone's 500 Greatest Albums of All Time in 2012.\nThe album has an atmospheric sound, the work of producer (and past Dylan collaborator) Daniel Lanois, whose innovative work with carefully placed microphones and strategic mixing was detailed by Dylan in his memoir, Chronicles: Volume One. Although Dylan has spoken positively of Lanois' production style, he expressed dissatisfaction with the sound of Time Out of Mind. Dylan has self-produced his subsequent albums.",
+   "spotify": "185DHT5SvszXRrezx3lOjt",
+   "youtube": null
+  },
+  {
+   "id": "9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca",
+   "titulo": "“Love and Theft”",
+   "data": "2001-09-10",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/74a39d20-43aa-4d51-8056-72e1293308c7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tweedle Dee & Tweedle Dum",
+     "duracao": "4:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Mississippi",
+     "duracao": "5:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Summer Days",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Bye and Bye",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Lonesome Day Blues",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Floater (Too Much to Ask)",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "High Water (For Charley Patton)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Moonlight",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Honest With Me",
+     "duracao": "5:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Po' Boy",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Cry a While",
+     "duracao": "5:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Sugar Baby",
+     "duracao": "6:40"
+    },
+    {
+     "n": 13,
+     "titulo": "I Was Young When I Left Home",
+     "duracao": "5:24"
+    },
+    {
+     "n": 14,
+     "titulo": "The Times They Are A-Changin' (alternate version)",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 93,
+    "media": 8.8,
+    "fontes": 8
+   },
+   "publico": 8.2,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Love_and_Theft_%28Bob_Dylan_album%29",
+   "resumo_en": "\"Love and Theft\" is the thirty-first studio album by American singer-songwriter Bob Dylan, released on September 11, 2001, by Columbia Records. It featured backing by his touring band of the time, with keyboardist Augie Meyers added for the sessions. It peaked at No. 5 on the Billboard 200, and has been certified Gold by the RIAA. The album's highest chart positions worldwide were in Norway and Sweden, where it peaked at No. 1, giving Dylan his first No. 1 album in Norway since Infidels, and his first No. 1 album ever in Sweden. A limited edition release included a separate disc with two bonus tracks recorded in the early 1960s, and two years later, on September 16, 2003, this album was remixed into 5.1 surround sound and became one of 15 Dylan titles reissued and remastered for SACD playback.",
+   "spotify": "5OokwFyEXPnD71rQdhqRQL",
+   "youtube": null
+  },
+  {
+   "id": "3d1e0f14-a3c3-3107-9884-c900aa7f6a08",
+   "titulo": "The Bootleg Series, Vol. 7: No Direction Home: The Soundtrack",
+   "data": "2005-08-30",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/3b928956-6a2b-4b25-9f9a-271e98424fb4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When I Got Troubles",
+     "duracao": "1:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Rambler, Gambler (home recording)",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "This Land Is Your Land (live)",
+     "duracao": "5:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Song to Woody",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Dink’s Song (home recording)",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "I Was Young When I Left Home (home recording)",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Sally Gal (alternate take)",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Think Twice, It’s All Right (demo)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Man of Constant Sorrow",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Blowin’ in the Wind (live)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Masters of War (live)",
+     "duracao": "4:43"
+    },
+    {
+     "n": 12,
+     "titulo": "A Hard Rain's A‐Gonna Fall (live)",
+     "duracao": "8:22"
+    },
+    {
+     "n": 13,
+     "titulo": "When the Ship Comes In (live)",
+     "duracao": "3:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Mr. Tambourine Man (alternate take)",
+     "duracao": "6:43"
+    },
+    {
+     "n": 15,
+     "titulo": "Chimes of Freedom (live)",
+     "duracao": "8:03"
+    },
+    {
+     "n": 16,
+     "titulo": "It’s All Over Now, Baby Blue (alternate take)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 17,
+     "titulo": "She Belongs to Me (alternate take)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 18,
+     "titulo": "Maggie’s Farm (live)",
+     "duracao": "5:03"
+    },
+    {
+     "n": 19,
+     "titulo": "It Takes a Lot to Laugh, It Takes a Train to Cry (alternate take)",
+     "duracao": "3:34"
+    },
+    {
+     "n": 20,
+     "titulo": "Tombstone Blues (alternate take)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 21,
+     "titulo": "Just Like Tom Thumb’s Blues (alternate take)",
+     "duracao": "5:44"
+    },
+    {
+     "n": 22,
+     "titulo": "Desolation Row (alternate take)",
+     "duracao": "11:44"
+    },
+    {
+     "n": 23,
+     "titulo": "Highway 61 Revisited (alternate take)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 24,
+     "titulo": "Leopard‐Skin Pill‐Box Hat (alternate take)",
+     "duracao": "6:25"
+    },
+    {
+     "n": 25,
+     "titulo": "Stuck Inside of Mobile With the Memphis Blues Again (alternate take)",
+     "duracao": "5:44"
+    },
+    {
+     "n": 26,
+     "titulo": "Visions of Johanna (alternate take)",
+     "duracao": "6:38"
+    },
+    {
+     "n": 27,
+     "titulo": "Ballad of a Thin Man (live)",
+     "duracao": "7:45"
+    },
+    {
+     "n": 28,
+     "titulo": "Like a Rolling Stone (live)",
+     "duracao": "8:12"
+    }
+   ],
+   "duracao_min": 145,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.9,
+    "fontes": 6
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Bootleg_Series_Vol._7%3A_No_Direction_Home%3A_The_Soundtrack",
+   "resumo_en": "The Bootleg Series Vol. 7: No Direction Home: The Soundtrack is a compilation album by Bob Dylan. The fifth installment in the ongoing Bob Dylan Bootleg Series, it was released in 2005 in conjunction with the Martin Scorsese PBS television documentary on Dylan, No Direction Home, and was compiled with Scorsese's input. It features mostly previously unreleased material from Dylan's formative years to his rise as an international figure, from 1959 to his 1966 world tour.\nThe Bootleg Series Vol. 7: No Direction Home: The Soundtrack fared well commercially, debuting on the Billboard 200 album chart on September 17, 2005 at number 16, with sales of 50,987 copies. It remained on the chart for 11 weeks. It was certified a gold record on October 21, 2005 by the RIAA. It also reached number 21 in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d300b74b-02b4-33e3-998e-e4405e8e6580",
+   "titulo": "Modern Times",
+   "data": "2006-08-06",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/8d08d62f-ac61-31f5-aab8-e762dd7a3c6b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thunder on the Mountain",
+     "duracao": "5:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Spirit on the Water",
+     "duracao": "7:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Rollin’ and Tumblin’",
+     "duracao": "6:01"
+    },
+    {
+     "n": 4,
+     "titulo": "When the Deal Goes Down",
+     "duracao": "5:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Someday Baby",
+     "duracao": "4:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Workingman’s Blues #2",
+     "duracao": "6:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Beyond the Horizon",
+     "duracao": "5:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Nettie Moore",
+     "duracao": "6:52"
+    },
+    {
+     "n": 9,
+     "titulo": "The Levee’s Gonna Break",
+     "duracao": "5:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Ain’t Talkin’",
+     "duracao": "8:48"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 89,
+    "media": 8.8,
+    "fontes": 7
+   },
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Modern_Times_%28Bob_Dylan_album%29",
+   "resumo_en": "Modern Times is the thirty-second studio album by American singer-songwriter Bob Dylan, released on August 29, 2006, by Columbia Records. The album was the third work (following Time Out of Mind and \"Love and Theft\") in a string of critically acclaimed albums by Dylan. It continued its predecessors' tendencies toward blues, rockabilly and pre-rock balladry, and was self-produced by Dylan under the pseudonym \"Jack Frost\". Despite the acclaim, the album sparked some debate over its uncredited use of choruses and arrangements from older songs, as well as many lyrical lines taken from the work of 19th-century poet Henry Timrod and Roman poet Ovid.\nModern Times became Dylan's first No. 1 album in the U.S. since 1976's Desire. It was also his first album to debut at the summit of the Billboard 200, selling 191,933 copies in its first week. At age 65, Dylan became the oldest living person at the time to have an album enter the Billboard charts at No. 1. It also reached No. 1 in Canada, Australia, New Zealand, Ireland, Denmark, Norway and Switzerland, debuted No. 2 in Germany, Austria and Sweden. It reached No. 3 in the UK and the Netherlands, respectively, and has sold over four million c",
+   "spotify": "4drWnugFs0DYk6UIA0r3QA",
+   "youtube": null
+  },
+  {
+   "id": "2202f7cc-6ce1-3aea-85b0-163347528402",
+   "titulo": "Together Through Life",
+   "data": "2009-04-23",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/611c75fd-fb12-4d80-9d31-bb2cf35a1733/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beyond Here Lies Nothin'",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Life Is Hard",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "My Wife's Home Town",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "If You Ever Go to Houston",
+     "duracao": "5:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Forgetful Heart",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Jolene",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "This Dream of You",
+     "duracao": "5:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Shake Shake Mama",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "I Feel a Change Comin' On",
+     "duracao": "5:25"
+    },
+    {
+     "n": 10,
+     "titulo": "It's All Good",
+     "duracao": "5:27"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 76,
+    "media": 8.2,
+    "fontes": 9
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Together_Through_Life",
+   "resumo_en": "Together Through Life is the thirty-third studio album by singer-songwriter Bob Dylan, released on April 28, 2009, by Columbia Records. The release of the album, which reached number 1 in multiple countries, was unexpected and surprised fans. Dylan co-wrote most of the songs with Robert Hunter and recorded with musicians including Mike Campbell of Tom Petty and the Heartbreakers, and David Hidalgo of Los Lobos. The album was recorded at Jackson Browne's Groove Masters studio in Santa Monica, California and produced by Dylan under the pseudonym Jack Frost.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "16d64d01-6d92-40b2-86ba-7f76c018ab9c",
+   "titulo": "Christmas in the Heart",
+   "data": "2009-10-09",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/21a128c8-9d86-3fbd-8aca-9f66226b7687/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Here Comes Santa Claus",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Do You Hear What I Hear?",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Winter Wonderland",
+     "duracao": "1:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Hark the Herald Angels Sing",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "I'll Be Home for Christmas",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Drummer Boy",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "The Christmas Blues",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "O' Come All Ye Faithful (Adeste Fideles)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Have Yourself a Merry Little Christmas",
+     "duracao": "4:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Must Be Santa",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Silver Bells",
+     "duracao": "2:35"
+    },
+    {
+     "n": 12,
+     "titulo": "The First Noel",
+     "duracao": "2:30"
+    },
+    {
+     "n": 13,
+     "titulo": "Christmas Island",
+     "duracao": "2:27"
+    },
+    {
+     "n": 14,
+     "titulo": "The Christmas Song",
+     "duracao": "3:56"
+    },
+    {
+     "n": 15,
+     "titulo": "O' Little Town of Bethlehem",
+     "duracao": "2:17"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 62,
+    "media": 7.2,
+    "fontes": 8
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Christmas_in_the_Heart",
+   "resumo_en": "Christmas in the Heart is the thirty-fourth studio album and first Christmas album by American singer-songwriter Bob Dylan, released on October 13, 2009, by Columbia Records. The album comprises a collection of hymns, carols, and popular Christmas songs. All Dylan's royalties from the sale of this album benefit the charities Feeding America in the US, Crisis in the UK, and the World Food Programme in perpetuity.\nDylan said that, although he was born and raised Jewish he never felt left out of Christmas during his childhood in Minnesota. Regarding the popularity of Christmas music, he said, \"... it's so worldwide and everybody can relate to it in their own way\".\nThe album opened at No. 1 on the Billboard Holiday Album chart, No. 5 on the Folk Album chart, No. 10 on the Rock Album chart and No. 23 on the overall album charts. As with most of Dylan's 21st century output, he produced it himself under the pseudonym Jack Frost.",
+   "spotify": "6Ylr6c6snKHzMBaZHXHEWm",
+   "youtube": null
+  },
+  {
+   "id": "42555dd2-d671-4c96-85c3-3939232ffc4b",
+   "titulo": "Tempest",
+   "data": "2012-09-07",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/6eb84813-1355-4f3d-85e0-9f56ba6b1e1e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Duquesne Whistle",
+     "duracao": "5:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Soon After Midnight",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Narrow Way",
+     "duracao": "7:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Long and Wasted Years",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Pay in Blood",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Scarlet Town",
+     "duracao": "7:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Early Roman Kings",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Tin Angel",
+     "duracao": "9:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Tempest",
+     "duracao": "13:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Roll on John",
+     "duracao": "7:25"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 83,
+    "media": 8.3,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tempest_%28Bob_Dylan_album%29",
+   "resumo_en": "Tempest is the thirty-fifth studio album by American singer-songwriter Bob Dylan, released on September 10, 2012, by Columbia Records. The album was recorded at Jackson Browne's Groove Masters Studios in Santa Monica, California. Dylan wrote all of the songs himself with the exception of \"Duquesne Whistle\", which he co-wrote with longtime Grateful Dead associate Robert Hunter.\nTempest  was released to acclaim from music critics, who praised its traditional music influences and Dylan's dark lyrics. The album peaked at number 1 in Norway, and at number 3 on the Billboard 200. Tempest was Dylan's last album to feature original material until his 2020 album Rough and Rowdy Ways.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5e3e123f-0746-49fa-ac3a-1acf0dc254a0",
+   "titulo": "Shadows in the Night",
+   "data": "2015-02-02",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/4b1923d9-4d38-49fc-b005-398ef7f2f83b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m a Fool to Want You",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "The Night We Called It a Day",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Stay With Me",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Autumn Leaves",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Why Try to Change Me Now",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Some Enchanted Evening",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Full Moon and Empty Arms",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Where Are You?",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "What I’ll Do",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "That Lucky Old Sun",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 82,
+    "media": 8.4,
+    "fontes": 8
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shadows_in_the_Night",
+   "resumo_en": "Shadows in the Night is the thirty-sixth studio album by Bob Dylan, released by Columbia Records on February 3, 2015. The album consists of covers of traditional pop standards made famous by Frank Sinatra, chosen by Dylan. Like most of his 21st century output, Dylan produced the album himself under the pseudonym Jack Frost.\nSpeaking of his intention behind the album, Dylan stated:\n\nI don't see myself as covering these songs in any way. They've been covered enough. Buried, as a matter a fact. What me and my band are basically doing is uncovering them. Lifting them out of the grave and bringing them into the light of day.\nThe album garnered acclaim from critics, who praised its song selections as well as Dylan and his band's performance and arrangements. The album debuted at No. 1 on the UK Albums Chart, making Dylan the oldest male solo artist to chart at No. 1 in the UK. The album also debuted at No. 1 on the Norwegian and Swedish Album Charts. At the 2016 Grammys, it was nominated for Best Traditional Pop Vocal Album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3e9553c6-786a-4f85-8a2a-1b70cd166742",
+   "titulo": "Fallen Angels",
+   "data": "2016-05-20",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/536c98a9-ccf1-431a-abbc-eeb3a3aaf4de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Young at Heart",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Maybe You'll Be There",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Polka Dots and Moonbeams",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "All the Way",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Skylark",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Nevertheless",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "All or Nothing at All",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "On a Little Street in Singapore",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "It Had to Be You",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Melancholy Mood",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "That Old Black Magic",
+     "duracao": "3:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 77,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fallen_Angels_%28Bob_Dylan_album%29",
+   "resumo_en": "Fallen Angels is the thirty-seventh studio album by Bob Dylan, released by Columbia Records on May 20, 2016.\nThe album consists of cover versions of twelve classic American songs chosen by Dylan from a diverse array of writers such as Johnny Mercer, Harold Arlen, Sammy Cahn, and Carolyn Leigh. Much like the album's predecessor, Shadows in the Night, every song on the album, except for \"Skylark\", was once recorded by Frank Sinatra.\nThe album received generally favorable reviews from critics, with particular praise for Dylan's vocal performance, production quality, and the arrangements of his band. Fallen Angels received a nomination for Best Traditional Pop Vocal Album at the 59th Annual Grammy Awards, held in February 2017.",
+   "spotify": "3wjymdW6uOqrgCLWBb6ph4",
+   "youtube": null
+  },
+  {
+   "id": "f490ca6a-ff96-4132-b235-71640f51d9d0",
+   "titulo": "Triplicate",
+   "data": "2017-03-13",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/b1d3ec30-10d3-4be1-8653-c6fc5a18a482/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Guess I’ll Have to Change My Plans",
+     "duracao": "2:27"
+    },
+    {
+     "n": 2,
+     "titulo": "September of My Years",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "I Could Have Told You",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Once Upon a Time",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Stormy Weather",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "This Nearly Was Mine",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "That Old Feeling",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "It Gets Lonely Early",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "My One and Only Love",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Trade Winds",
+     "duracao": "2:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Braggin’",
+     "duracao": "2:44"
+    },
+    {
+     "n": 12,
+     "titulo": "As Time Goes By",
+     "duracao": "3:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Imagination",
+     "duracao": "2:34"
+    },
+    {
+     "n": 14,
+     "titulo": "How Deep Is the Ocean",
+     "duracao": "3:23"
+    },
+    {
+     "n": 15,
+     "titulo": "P.S. I Love You",
+     "duracao": "4:17"
+    },
+    {
+     "n": 16,
+     "titulo": "The Best Is Yet to Come",
+     "duracao": "2:57"
+    },
+    {
+     "n": 17,
+     "titulo": "But Beautiful",
+     "duracao": "3:22"
+    },
+    {
+     "n": 18,
+     "titulo": "Here’s That Rainy Day",
+     "duracao": "3:27"
+    },
+    {
+     "n": 19,
+     "titulo": "Where Is the One",
+     "duracao": "3:14"
+    },
+    {
+     "n": 20,
+     "titulo": "There’s a Flaw in My Flue",
+     "duracao": "2:47"
+    },
+    {
+     "n": 21,
+     "titulo": "Day In, Day Out",
+     "duracao": "3:01"
+    },
+    {
+     "n": 22,
+     "titulo": "I Couldn’t Sleep a Wink Last Night",
+     "duracao": "3:15"
+    },
+    {
+     "n": 23,
+     "titulo": "Sentimental Journey",
+     "duracao": "3:11"
+    },
+    {
+     "n": 24,
+     "titulo": "Somewhere Along the Way",
+     "duracao": "3:18"
+    },
+    {
+     "n": 25,
+     "titulo": "When the World Was Young",
+     "duracao": "3:47"
+    },
+    {
+     "n": 26,
+     "titulo": "These Foolish Things",
+     "duracao": "4:11"
+    },
+    {
+     "n": 27,
+     "titulo": "You Go to My Head",
+     "duracao": "3:06"
+    },
+    {
+     "n": 28,
+     "titulo": "Stardust",
+     "duracao": "2:34"
+    },
+    {
+     "n": 29,
+     "titulo": "It’s Funny to Everyone but Me",
+     "duracao": "2:38"
+    },
+    {
+     "n": 30,
+     "titulo": "Why Was I Born",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 96,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 80,
+    "media": 8.3,
+    "fontes": 10
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Triplicate_%28Bob_Dylan_album%29",
+   "resumo_en": "Triplicate is the thirty-eighth studio album by Bob Dylan, released by Columbia Records on March 31, 2017. As with most of Dylan's 21st century output, he produced the album himself under the pseudonym Jack Frost.\nLike Dylan's previous two studio albums, Triplicate features covers of classic American songs recorded live in the studio with his touring band and without the use of overdubs. The album is Dylan's first three-disc album, featuring thirty songs across its three discs, each individually titled and presented in a thematically-arranged 10-song sequence.\nAs with his previous two albums of American pop standards, Triplicate received widespread critical acclaim. It was nominated at the 60th Annual Grammy Awards in the category of Best Traditional Pop Vocal Album. Despite the favorable reviews, it peaked at number 37 on the Billboard 200 and number 17 on the UK Albums Chart.",
+   "spotify": "5coSubIBt21W8V40Po41pY",
+   "youtube": null
+  },
+  {
+   "id": "f3aeda7c-4075-446c-9bb5-f8614fc39cc1",
+   "titulo": "Girl From the North Country",
+   "data": "2017-09-29",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/588a062c-c3e5-402c-81fc-1bfe37c44ef5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sign on the Window",
+     "duracao": "2:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Went to See the Gypsy",
+     "duracao": "2:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Tight Connection to My Heart",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Slow Train Coming / License to Kill",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Ballad of a Thin Man (instrumental)",
+     "duracao": "1:15"
+    },
+    {
+     "n": 6,
+     "titulo": "I Want You",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Blind Willie McTell (instrumental)",
+     "duracao": "2:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Like a Rolling Stone / To Make You Feel My Love",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Like a Rolling Stone (reprise) / I Want You",
+     "duracao": "1:28"
+    },
+    {
+     "n": 10,
+     "titulo": "You Ain't Goin' Nowhere / Jokerman",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Sweetheart Like You / True Love Tends to Forget",
+     "duracao": "4:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Girl From the North Country",
+     "duracao": "2:03"
+    },
+    {
+     "n": 13,
+     "titulo": "Hurricane / All Along the Watchtower / Idiot Wind",
+     "duracao": "5:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Lay Down Your Weary Tune (instrumental)",
+     "duracao": "1:19"
+    },
+    {
+     "n": 15,
+     "titulo": "Duquesne Whistle / Señor (Tales of Yankee Power) / Is Your Love in Vain? / License to Kill",
+     "duracao": "7:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Tight Connection to My Heart (underscore / reprise)",
+     "duracao": "2:12"
+    },
+    {
+     "n": 17,
+     "titulo": "Lay Lady Lay / Jokerman (reprise) / Clair de Lune",
+     "duracao": "2:50"
+    },
+    {
+     "n": 18,
+     "titulo": "Forever Young",
+     "duracao": "4:01"
+    },
+    {
+     "n": 19,
+     "titulo": "My Back Pages",
+     "duracao": "1:09"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "43b12592-d808-44de-a5df-ebd7c6b2b75c",
+   "titulo": "Rough and Rowdy Ways",
+   "data": "2020-06-19",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/2d274b79-ca34-4a99-9447-b1e57fc27338/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Contain Multitudes",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "False Prophet",
+     "duracao": "6:00"
+    },
+    {
+     "n": 3,
+     "titulo": "My Own Version of You",
+     "duracao": "6:41"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ve Made Up My Mind to Give Myself to You",
+     "duracao": "6:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Rider",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Goodbye Jimmy Reed",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Mother of Muses",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Crossing the Rubicon",
+     "duracao": "7:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Key West (Philosopher Pirate)",
+     "duracao": "9:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Murder Most Foul",
+     "duracao": "16:54"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 95,
+    "media": 9.1,
+    "fontes": 9
+   },
+   "publico": 8.9,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rough_and_Rowdy_Ways",
+   "resumo_en": "Rough and Rowdy Ways is the thirty-ninth studio album by American singer-songwriter Bob Dylan, released on June 19, 2020, through Columbia Records. It is Dylan's first album of original songs since his 2012 album Tempest, following three releases that covered traditional pop standards. The album was recorded at Sound City Studios from January to early March 2020. The session musicians included all of the then-current members of Dylan's Never Ending Tour band alongside other musicians, such as Blake Mills and Fiona Apple. The album's sound was described by critics as Americana, folk, blues, and rhythm and blues.\nRough and Rowdy Ways was preceded by the singles \"Murder Most Foul\", \"I Contain Multitudes\" and \"False Prophet\"; \"Murder Most Foul\" became Dylan's first song to top any US Billboard chart. The album was universally praised by critics, described as being one of Dylan's best works and placing highly in many year-end album lists, including the top spot on four lists. It peaked at No. 1 in more than ten countries and No. 2 in the United States and Australia.",
+   "spotify": "1Qht64MPvWTWa0aMsqxegB",
+   "youtube": null
+  },
+  {
+   "id": "6b074aba-bbfb-42be-8079-b434d5d9712f",
+   "titulo": "Shadow Kingdom",
+   "data": "2021",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/1dcff232-1b83-4839-94ba-c367a0b92dd6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When I Paint My Masterpiece",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Most Likely You Go Your Way (and I’ll Go Mine)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Queen Jane Approximately",
+     "duracao": "5:14"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ll Be Your Baby Tonight",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Just Like Tom Thumb’s Blues",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Tombstone Blues",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "To Be Alone With You",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "What Was It You Wanted",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Forever Young",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Pledging My Time",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "The Wicked Messenger",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Watching the River Flow",
+     "duracao": "3:00"
+    },
+    {
+     "n": 13,
+     "titulo": "It’s All Over Now, Baby Blue",
+     "duracao": "2:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Sierra’s Theme",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 84,
+    "media": 8.3,
+    "fontes": 10
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shadow_Kingdom",
+   "resumo_en": "Shadow Kingdom is the fortieth studio album and second soundtrack album by American singer-songwriter Bob Dylan, released on June 2, 2023, through Columbia Records. The songs were recorded at Village Recorder in West Los Angeles in early 2021 to accompany Alma Har'el's film Shadow Kingdom: The Early Songs of Bob Dylan, which was shot later. Although no musicians are listed in the credits, various sources have identified the session players as consisting of veterans such as T Bone Burnett and Don Was. It is the first album in which Dylan plays with a band that features no drums or percussion.\nShadow Kingdom consists of new recordings of 13 songs from the first half of Dylan's career plus a new instrumental track titled \"Sierra's Theme\". The album was preceded by a single for \"Watching the River Flow\", which was released on streaming platforms and as a YouTube video on April 13, 2023. The performance of \"Forever Young\" from Har'el's film was released as a standalone video on June 2, 2023. The album received universal praise from critics.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dc3c2878-8be0-4a70-9de4-a8724be7eb94",
+   "titulo": "Girl From the North Country: Original Broadway Cast Recording",
+   "data": "2021-08-20",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/91bf9dc0-9116-49e0-b965-15725dc1665e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sign on the Window",
+     "duracao": "1:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Went to See the Gypsy",
+     "duracao": "1:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Tight Connection to My Heart (Has Anybody Seen My Love)",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Slow Train / License to Kill",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Ballad of a Thin Man (instrumental)",
+     "duracao": "1:06"
+    },
+    {
+     "n": 6,
+     "titulo": "I Want You",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Blind Willie McTell (instrumental)",
+     "duracao": "1:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Like a Rolling Stone / Make You Feel My Love",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Like a Rolling Stone (reprise) / I Want You (reprise)",
+     "duracao": "1:37"
+    },
+    {
+     "n": 10,
+     "titulo": "What Can I Do for You?",
+     "duracao": "2:08"
+    },
+    {
+     "n": 11,
+     "titulo": "You Ain't Goin' Nowhere / Jokerman",
+     "duracao": "2:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Sweetheart Like You / True Love Tends to Forget",
+     "duracao": "5:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Lay Down Your Weary Tune (instrumental)",
+     "duracao": "1:13"
+    },
+    {
+     "n": 14,
+     "titulo": "Girl From the North Country",
+     "duracao": "2:04"
+    },
+    {
+     "n": 15,
+     "titulo": "Ballad of a Thin Man (radio)",
+     "duracao": "0:39"
+    },
+    {
+     "n": 16,
+     "titulo": "Hurricane / All Along the Watchtower / Idiot Wind",
+     "duracao": "4:52"
+    },
+    {
+     "n": 17,
+     "titulo": "Tonight I'll Be Staying Here With You (instrumental)",
+     "duracao": "1:54"
+    },
+    {
+     "n": 18,
+     "titulo": "Duquesne Whistle / Señor (Tales of Yankee Power) / Is Your Love in Vain? / License to Kill",
+     "duracao": "7:32"
+    },
+    {
+     "n": 19,
+     "titulo": "Lay, Lady, Lay (instrumental) / Jokerman (reprise)",
+     "duracao": "1:13"
+    },
+    {
+     "n": 20,
+     "titulo": "Clair de lune (instrumental)",
+     "duracao": "1:22"
+    },
+    {
+     "n": 21,
+     "titulo": "Forever Young",
+     "duracao": "3:26"
+    },
+    {
+     "n": 22,
+     "titulo": "Pressing On",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

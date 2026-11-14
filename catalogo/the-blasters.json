@@ -1,0 +1,503 @@
+{
+ "id": "the-blasters",
+ "nome": "The Blasters",
+ "cena": "Descobertas do acervo",
+ "mbid": "ce0a5b20-7485-4074-85c8-bdb6a3668d12",
+ "wikidata": "Q2004533",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1979",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "americana",
+  "rock and roll",
+  "rockabilly",
+  "blues rock",
+  "cowpunk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Dave_Alvin.jpg/500px-Dave_Alvin.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Blasters",
+ "resumo_pt": "The Blasters é uma banda de rock and roll formada em 1979 em Downey, California pelos irmãos Phil Alvin (vocal e guitarra) e Dave Alvin (guitarra), com John Bazz no (baixo) e Bill Bateman na (bateria). Phil ‘tirou’ o nome da banda de um grupo que ele supunha chamar-se Blues Blasters (que apoiavam Joe Lynn Turner). A banda diz seu estilo é \"Americana\" é uma mistura de rockabilly, rock and roll , punk rock, mountain music, rhythm and blues e country.\nO crítico Mark Deming escreveu sobre eles: \"Os Blasters exibiam estilos musicais variados [e] eram uma banda extremamente forte e diplomática com fogo, inteligência e paixão suficientes para dois ou três grupos.\" Nunca tiveram um sucesso estrondoso, mas sempre obtiveram críticas positivas. São criativos no estilo simples e básico do rock & roll.",
+ "resumo_en": "The Blasters are an American rock band formed in 1979 in Downey, California, by brothers Phil Alvin (vocals and guitar) and Dave Alvin (guitar), with bass guitarist John Bazz and drummer Bill Bateman. Their self-described \"American Music\" is a blend of rockabilly, early rock and roll, punk rock, mountain music, and rhythm and blues and country.",
+ "albuns": [
+  {
+   "id": "28a5f2b1-1c7c-3115-b538-d9f9ac9df0be",
+   "titulo": "American Music",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/b0610c2a-e9cf-42b2-91a9-38b7aad10856/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "American Music",
+     "duracao": "2:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Real Rock Drive",
+     "duracao": "2:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Barefoot Rock",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don’t Want To",
+     "duracao": "1:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Marie Marie",
+     "duracao": "2:00"
+    },
+    {
+     "n": 6,
+     "titulo": "I Wish You Would",
+     "duracao": "2:40"
+    },
+    {
+     "n": 7,
+     "titulo": "She Ain’t Got the Beat",
+     "duracao": "1:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Flat Top Joint",
+     "duracao": "2:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Crazy Baby",
+     "duracao": "2:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Never No More Blues",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Buzz Buzz Buzz",
+     "duracao": "2:05"
+    },
+    {
+     "n": 12,
+     "titulo": "She’s Gone Away",
+     "duracao": "2:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Barn Burning",
+     "duracao": "3:38"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/American_Music_%28album%29",
+   "resumo_en": "American Music is the debut album by American rock band the Blasters, released in 1980.\nThe song \"Marie Marie\" became a breakthrough hit for Shakin' Stevens in 1980 (from This Ole House). Matchbox recorded the song for their 1980 album Midnite Dynamos. In 1997, the album was released on CD by Hightone Records.\n\"American Music\" became title track of the early 1980s music television series New Wave Theatre.\nThe tracks \"Marie Marie,\" \"American Music,\" and \"Never No Mo' Blues\" were rerecorded for the Blasters' second album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3a1a4ee4-ca3f-3b46-8bbc-dc2ae3ad9c70",
+   "titulo": "The Blasters",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/bf70257b-67b3-4661-abba-466cc1628419/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Marie Marie",
+     "duracao": "2:03"
+    },
+    {
+     "n": 2,
+     "titulo": "No Other Girl",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m Shakin’",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Border Radio",
+     "duracao": "2:43"
+    },
+    {
+     "n": 5,
+     "titulo": "American Music",
+     "duracao": "2:07"
+    },
+    {
+     "n": 6,
+     "titulo": "So Long Baby Goodbye",
+     "duracao": "2:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Hollywood Bed",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Never No More Blues",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "This Is It",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Highway 61",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "I Love You So",
+     "duracao": "2:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Stop the Clock",
+     "duracao": "1:53"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Blasters_%28album%29",
+   "resumo_en": "The Blasters is the second album by American rock band the Blasters. Originally released in the United States by the independent label Slash Records, its strong sales performance required a deal for wider distribution with Warner Bros. Records. \nThe album was well received, being ranked among the top 10 albums of 1982 by Time magazine and peaking at number 36 on Billboard's Pop Albums chart. \nThe album was issued in the United Kingdom via F-Beat Records. The British album featured different artwork from the American version, which depicts lead singer Phil Alvin in what was later described as \"the way he contorts his face between almost every verse in his trademark grinning-skull grimace.\"\nThree of the songs were re-recorded versions of material that first appeared on American Music. The band became a quintet on this album, with Gene Taylor joining on piano. Saxophone was supplied on several songs by guests Steve Berlin and Lee Allen.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a865feac-41fa-437e-b3b3-73e06f54cf7c",
+   "titulo": "Non Fiction",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/4073291a-d6ec-4e00-a6ce-247a8b1ca8d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Red Rose",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Barefoot Rock",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Bus Station",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Dance",
+     "duracao": "2:26"
+    },
+    {
+     "n": 5,
+     "titulo": "It Must Be Love",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Jubilee Train",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Long White Cadillac",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Fool's Paradise",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Boomtown",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Leaving",
+     "duracao": "3:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Tag Along",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Non_Fiction_%28The_Blasters_album%29",
+   "resumo_en": "Non Fiction is the third album by the American band the Blasters, released in 1983. \nThe album peaked at No. 95 on the Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a9437dea-26a4-4d1b-b9f2-6a6dc5319ac8",
+   "titulo": "Hard Line",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/6517789d-068b-4fd9-b9c5-01c3e9344259/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trouble Bound",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Another Sunday",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Hey, Girl",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Dark Night",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Little Honey",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Samson and Delilah",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Colored Lights",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Help You Dream",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Common Man",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock and Roll Will Stand",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hard_Line_%28album%29",
+   "resumo_en": "Hard Line is the fourth album by the American roots rock band the Blasters, released in 1985. Dave Alvin quit the band shortly after the album's release. The album peaked at No. 86 on the Billboard 200.\nThe song \"Dark Night\" was featured in the film From Dusk till Dawn.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fd88b762-b40c-4dca-b76d-f950155c8abb",
+   "titulo": "4-11-44",
+   "data": "2005-08-16",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/77f3a7a7-dd33-4411-a4e2-b84114fd292b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Daddy Rollin' Stone",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "4-11-44",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Rebound",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "It's All Your Fault",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Julie",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Dry River",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Your Kind of Love",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is My Business",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Slip of the Tongue",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Precious Memories (The Only Hell My Mama Ever Raised)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Boneyard (Dick Tracy Theme)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Window Up Above",
+     "duracao": "3:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Just to Be With You",
+     "duracao": "3:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Fire of Love",
+     "duracao": "2:45"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5ac494d4-a5b8-4362-8647-44afdf4479a0",
+   "titulo": "Fun on Saturday Night",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/4204df7b-c2d3-40f5-8443-4a4b034113fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Well Oh Well",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Jackson",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Breath of My Love",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Fun on Saturday Night",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "No More Nights by Myself",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Me With a Feeling",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Want Cha",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Please Please Please",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock My Blues Away",
+     "duracao": "2:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Penny",
+     "duracao": "3:29"
+    },
+    {
+     "n": 11,
+     "titulo": "The Yodeling Mountaineer",
+     "duracao": "2:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Maria Maria",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

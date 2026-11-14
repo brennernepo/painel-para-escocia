@@ -1,0 +1,525 @@
+{
+ "id": "brujeria",
+ "nome": "Brujería",
+ "cena": "Descobertas do acervo",
+ "mbid": "53f5c37f-8516-46d4-b66e-bf008cea9433",
+ "wikidata": "Q795030",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1989",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "death metal",
+  "deathgrind",
+  "grindcore"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sziget_festival_2009_-_Brujeria.jpg/500px-Sziget_festival_2009_-_Brujeria.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Brujeria",
+ "resumo_pt": "Brujeria é uma banda de deathgrind formada em Tijuana por músicos estadunidenses de origem latina. Seu nome vem da palavra espanhola que significa \"bruxaria\". Suas canções, que são inteiramente cantadas em espanhol, são focadas no satanismo, anticristianismo, sexo, imigração, tráfico de drogas, política.\nO Brujeria é um projeto paralelo do membro fundador Asesino (Dino Cazares), e já contou com artistas como Billy Gould, Nicholas Barker, Raymond Herrera, Jeff Walker, e Shane Embury. Eles tocam sob pseudônimos, e assumem-se como uma banda latina, supostamente constituída por traficantes de drogas, razão pela qual esconderiam seus verdadeiros nomes (por serem procurados pelo FBI). A formação foi mudada diversas vezes.\nDino Cazares e Nicholas Barker deixaram a banda em 26 de janeiro de 2004.\nNo dia 16 de setembro de 2024, o vocalista de longa data Juan Brujo sofreu um ataque cardíaco após um dia de folga da turnê Mexorcista em Saint Clairsville, Ohio, dois meses após a morte de outro membro da banda, Pinche Peach. Ele foi levado às pressas para o hospital mais próximo do local em Wheeling, no estado de West Virginia, mas ele não resistiu e faleceu dois dias depois. A sua morte foi comunicada pelos canais oficiais da banda nas redes sociais.",
+ "resumo_en": "Brujeria (Spanish pronunciation: [bɾuxeˈɾi.a]) is an American extreme metal band formed in Los Angeles, California in 1989. The band's Spanish lyrics deal with immigration, narcotics smuggling, and politics. Brujeria portrays Mexican imagery, with several members being Hispanic and Latino Americans, while the band's name derives from brujería (Spanish for \"witchcraft\"). \nFormer Brujeria members include Raymond Herrera, Billy Gould, Nick Barker, Jeff Walker and Shane Embury. They perform under pseudonyms and portray themselves as a Latino band consisting of drug lords, concealing their identities due to being wanted by the FBI. In videos and photographs of the band, they are shown wearing bandanas, balaclavas, serapes, and are often shown wielding machetes.",
+ "albuns": [
+  {
+   "id": "18a877ce-88c0-3e2b-8020-fd9366e5ce5d",
+   "titulo": "Matando güeros",
+   "data": "1993-07-06",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/5a30b65b-b76f-4e02-965e-7c9a0dae2bd6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pura de venta",
+     "duracao": "0:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Leyes narcos",
+     "duracao": "1:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Sacrificio",
+     "duracao": "1:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Santa Lucía",
+     "duracao": "0:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Matando güeros",
+     "duracao": "2:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Seis seis seis",
+     "duracao": "1:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Cruza la frontera",
+     "duracao": "1:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Greñudos locos",
+     "duracao": "1:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Chingo de mecos",
+     "duracao": "1:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Narcos-satánicos",
+     "duracao": "1:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Desperado",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Culeros",
+     "duracao": "0:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Misas negras (Sacrificio III)",
+     "duracao": "1:19"
+    },
+    {
+     "n": 14,
+     "titulo": "Chinga tu madre",
+     "duracao": "3:11"
+    },
+    {
+     "n": 15,
+     "titulo": "Verga del brujo / Están chingados",
+     "duracao": "3:42"
+    },
+    {
+     "n": 16,
+     "titulo": "Molestando niños muertos",
+     "duracao": "2:57"
+    },
+    {
+     "n": 17,
+     "titulo": "Machetazos (Sacrificio II)",
+     "duracao": "1:27"
+    },
+    {
+     "n": 18,
+     "titulo": "Castigo del brujo",
+     "duracao": "1:43"
+    },
+    {
+     "n": 19,
+     "titulo": "Cristo de la roca",
+     "duracao": "1:11"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Matando_G%C3%BCeros",
+   "resumo_en": "Matando Güeros (Killing Whites) is the debut album by the band Brujeria. \"Güero\" is a Mexican-Spanish slang term for a blonde or light skinned/haired person. The album talks mostly about controversial topics in Mexico like drug trafficking, satanic rituals, sexuality, migration,  illegal border crossing, and Anti-Americanism (like the title song, that talks about a revenge killing-spree against the White Americans that mistreated the indigenous Mexican narrator).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "21195b91-6531-3e38-beb1-e4fc10ad8e52",
+   "titulo": "Raza odiada",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/01048d6e-e76f-4c44-97ef-b2ee30c836d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Raza odiada",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Colas de rata",
+     "duracao": "1:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Hechando chingasos",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "La migra",
+     "duracao": "1:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Revolución",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Consejos narcos",
+     "duracao": "2:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Almas de venta",
+     "duracao": "2:11"
+    },
+    {
+     "n": 8,
+     "titulo": "La ley de plomo",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Los tengo colgando",
+     "duracao": "1:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Sesos humanos",
+     "duracao": "1:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Primer meco",
+     "duracao": "1:15"
+    },
+    {
+     "n": 12,
+     "titulo": "El patrón",
+     "duracao": "3:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Hermanos Menéndez",
+     "duracao": "2:05"
+    },
+    {
+     "n": 14,
+     "titulo": "Padre nuestro",
+     "duracao": "2:07"
+    },
+    {
+     "n": 15,
+     "titulo": "Ritmos satánicos",
+     "duracao": "6:51"
+    },
+    {
+     "n": 16,
+     "titulo": "Pura de venta",
+     "duracao": "0:41"
+    },
+    {
+     "n": 17,
+     "titulo": "Leyes narcos",
+     "duracao": "1:08"
+    },
+    {
+     "n": 18,
+     "titulo": "Sacrificio",
+     "duracao": "1:17"
+    },
+    {
+     "n": 19,
+     "titulo": "Matando güeros",
+     "duracao": "2:23"
+    },
+    {
+     "n": 20,
+     "titulo": "Castigo del brujo",
+     "duracao": "1:45"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 9.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Raza_Odiada",
+   "resumo_en": "Raza Odiada (English: Hated Race) is the second album by Brujeria. Brujeria's main concepts are Satanism, revolution, pro-illegal immigration, narcotics, drug smuggling, and other related themes.",
+   "spotify": "6hPPg6F8fvtaXbOyTPzKMv",
+   "youtube": null
+  },
+  {
+   "id": "4ec0c612-b891-3237-8922-e54ec9fa6a44",
+   "titulo": "Brujerizmo",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/32ea3ee7-715e-4314-9149-25f447c775d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brujerizmo",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Vayan sin miedo",
+     "duracao": "2:16"
+    },
+    {
+     "n": 3,
+     "titulo": "La traición",
+     "duracao": "1:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Pititis, te invoco",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Laboratorio cristalitos",
+     "duracao": "1:31"
+    },
+    {
+     "n": 6,
+     "titulo": "División del norte",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Marcha de odio",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Anti-Castro",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Cuiden a los niños",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "El bajón",
+     "duracao": "1:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Mecosario",
+     "duracao": "2:45"
+    },
+    {
+     "n": 12,
+     "titulo": "El desmadre",
+     "duracao": "1:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Sida de la mente",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brujerizmo",
+   "resumo_en": "Brujerizmo is the third studio album by American metal band Brujeria. It features a more groove-oriented style, with a clear and refined sound as opposed to the deathgrind style of the previous albums. It also marked the last release composed of new material by the band released by Roadrunner Records. It is also the last release with founding members Asesino and Güero Sin Fe.",
+   "spotify": "2BstFXsuzI3r77aXXsCAoO",
+   "youtube": null
+  },
+  {
+   "id": "075be56b-89ba-4c8a-bd0c-a8b56a86a8f1",
+   "titulo": "Pocho Aztlan",
+   "data": "2016-09-16",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/09090a82-80f5-4095-b436-1a996a4d2155/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pocho Aztlan",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "No aceptan imitaciones",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Profecía del Anticristo",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Ángel de la frontera",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Plata o plomo",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Satongo",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Isla de la fantasía",
+     "duracao": "2:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Bruja-",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "México campeón",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Culpan la mujer",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Códigos",
+     "duracao": "5:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Debilador",
+     "duracao": "3:20"
+    },
+    {
+     "n": 13,
+     "titulo": "California über Aztlan",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.8,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pocho_Aztlan",
+   "resumo_en": "Pocho Aztlan is the fourth studio album by American extreme metal band Brujeria, released on September 16, 2016, through Nuclear Blast. This is the first full-length studio album by Brujeria since Brujerizmo, marking the longest gap between the band's studio albums. It is also the first release featuring El Cynico, El Sangrón and Cuernito.\nPocho Aztlan marks the return of their older grindcore sound from early releases, like Matando Güeros, while maintaining the groove-oriented sound the band explored in Brujerizmo.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3f589b74-ea41-424d-8d9a-393330368c35",
+   "titulo": "Esto es Brujeria",
+   "data": "2023-09-15",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/05cb0d15-e24a-4853-baf5-ee4332d11f52/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Esto es Brujeria",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "El Patrón del reventón",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Estado profundo",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Bruja encabronada",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "G-A-K",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Tu vida loca",
+     "duracao": "2:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Mexorcista",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Bestia de la muerte",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Políticamente correctos",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Mochado",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Perdido en el espacio",
+     "duracao": "3:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Odio que amo",
+     "duracao": "2:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Testamento 3.0",
+     "duracao": "6:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Covid-666",
+     "duracao": "3:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Lord nazi ruso",
+     "duracao": "3:08"
+    },
+    {
+     "n": 16,
+     "titulo": "Cocaína",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

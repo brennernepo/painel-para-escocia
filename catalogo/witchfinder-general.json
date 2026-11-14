@@ -1,0 +1,202 @@
+{
+ "id": "witchfinder-general",
+ "nome": "Witchfinder General",
+ "cena": "Descobertas do acervo",
+ "mbid": "89618a45-ff4a-4e5f-942e-3ef93c8c555c",
+ "wikidata": "Q1814408",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1979",
+ "fim": "2008",
+ "ativa": false,
+ "generos": [
+  "heavy metal",
+  "nwobhm",
+  "doom metal"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/Witchfinder_General",
+ "resumo_pt": "Witchfinder General é uma banda de doom metal da Inglaterra formada em 1979. Fez parte da New Wave of British Heavy Metal (NWOBHM), que durou toda a década de 80. Eles tem forte influência de Black Sabbath, e é reconhecida como uma das percursoras do estilo doom metal. Sua importância foi reconhecida apenas depois da banda se separar. A banda (menos o vocalista Zeeb Parkes, que era um personagem inventado) se reuniram em novembro de 2006 com o novo vocalista Gary Martin. Planejam gravar um novo álbum, chamado Resurrected, para ser lançado em 2007. A banda declarou que não irá fazer mais shows.",
+ "resumo_en": "Witchfinder General was an English heavy/doom metal band from Stourbridge. They were named after the 1968 British horror film Witchfinder General, itself based upon the infamous witchhunter known as Matthew Hopkins. \nThe band's sound has been described as a \"raw, post-Sabbath grind.\" They were part of the new wave of British heavy metal movement and have been cited as a major influence on the doom metal genre. AllMusic assessed that while Witchfinder General did not achieve the commercial or critical success of other bands from the new wave of British heavy metal, their influence on the emergence of doom metal could not be ignored. The band's influence has been observed in the music of Christian Mistress by VPM Media Corporation.",
+ "albuns": [
+  {
+   "id": "203ec0db-f89d-39bb-9b22-7095cfc0ebf1",
+   "titulo": "Death Penalty",
+   "data": "1982-10",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/f4544ba5-939f-4cbc-9485-9e860cf19f77/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Invisible Hate",
+     "duracao": "6:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Free Country",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Death Penalty",
+     "duracao": "5:35"
+    },
+    {
+     "n": 4,
+     "titulo": "No Stayer",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Witchfinder General",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Burning a Sinner",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "R.I.P.",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_Penalty_%28album%29",
+   "resumo_en": "Death Penalty is the debut studio album by the English heavy metal band Witchfinder General. It was released in 1982 on Heavy Metal Records. The album received some criticism for the cover photograph, which featured topless model Joanne Latham. The photograph had been taken in the yard of St Mary the Blessed Virgin Church in Enville, Staffordshire, without the permission of the local Reverend. The album was originally released on LP and picture disc and was later reissued on CD. Pictured on the cover is Phil Cope, Zeeb Parkes, Graham Ditchfield and a member of their road crew. While Peter Hinton is credited with producing this recording, the writers Phil Cope and Zeeb Parkes always felt the credit should have gone to the engineer Robin George.",
+   "spotify": "0ZcT2WLVCx2jKs1SIlpmm6",
+   "youtube": null
+  },
+  {
+   "id": "5ea12894-0b55-3916-9bf5-542970ea0859",
+   "titulo": "Friends of Hell",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/b3eee98f-233e-4016-b643-b8ac86aa74eb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love on Smack",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Last Chance",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Music",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Friends of Hell",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Requiem for Youth",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadowed Images",
+     "duracao": "4:20"
+    },
+    {
+     "n": 7,
+     "titulo": "I Lost You",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Quietus",
+     "duracao": "6:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Reprise",
+     "duracao": "0:38"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Friends_of_Hell",
+   "resumo_en": "Friends of Hell is the second studio album by the English doom metal band Witchfinder General. It was released in November 1983 on Heavy Metal Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "53eee1c1-7bee-3c5d-8f22-2cf652cd8f4b",
+   "titulo": "Resurrected",
+   "data": "2008-08-30",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/5fe66bb7-c937-4d9e-8823-45bd747091f7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Living Hell",
+     "duracao": "7:50"
+    },
+    {
+     "n": 2,
+     "titulo": "The Gift of Life",
+     "duracao": "5:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Final Justice",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Bryn-y-Mor",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Brutal Existence",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Euthanasia",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "A Night to Remember",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "The Funeral / Beyond the Grave",
+     "duracao": "7:03"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Resurrected_%28album%29",
+   "resumo_en": "Resurrected is the third and final full-length album by British doom metal band Witchfinder General. It was released on 30 August 2008 in the US on 2 September 2008 in the UK.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

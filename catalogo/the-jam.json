@@ -1,0 +1,496 @@
+{
+ "id": "the-jam",
+ "nome": "The Jam",
+ "cena": "Descobertas do acervo",
+ "mbid": "23228f18-01d5-493e-94ce-cfcde82a8db2",
+ "wikidata": "Q916461",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1976",
+ "fim": "1982",
+ "ativa": false,
+ "generos": [
+  "mod revival",
+  "new wave",
+  "power pop",
+  "punk rock",
+  "mod"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Thejam.gif?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Jam",
+ "resumo_pt": "The Jam foi uma banda de punk rock/mod revival britânica formada em 1972 por Bruce Foxton (baixo), Steve Brookes (guitarra), Rick Buckler (bateria) e Paul Weller (vocais). A banda se valeu de uma variedade de influências estilísticas ao longo de sua carreira, incluindo influências dos anos 1960 como música beat, soul, rhythm and blues e rock psicodélico, bem como o punk rock e a new wave dos anos 1970. Entre suas influências estavam bandas como The Beatles, The Kinks e The Who. Especialmente no primeiro álbum, havia uma certa semelhança musical com o The Clash.",
+ "resumo_en": "The Jam were  an English rock band formed in 1972 in Woking, Surrey, consisting of Paul Weller, Bruce Foxton and Rick Buckler. They released 18 consecutive top 40 singles in the United Kingdom, from their debut in 1977 to their break-up in December 1982, including four number one hits. As of 2007, \"That's Entertainment\" and \"Just Who Is the 5 O'Clock Hero?\" remain the best-selling import singles of all time in the UK. They released one live album and six studio albums, the last of which, The Gift, reached number one on the UK Albums Chart. When the group disbanded in 1982, their first 15 singles were re-released and 12 of them placed within the top 100.\nThe band drew upon a variety of stylistic influences over the course of their career, including 1970s punk and new wave and 1960s beat music, soul and rhythm and blues. The trio were known for their melodic pop songs, their distinctly English take on social commentary, and their mod image. The band launched the career of Paul Weller, who went on to form the Style Council and later started a solo career. Weller wrote and sang most of the Jam's original compositions and played lead guitar, using a Rickenbacker 330. Bruce Foxton provided backing vocals and prominent basslines, which were the foundation of many of the band's songs, including the hits \"Down in the Tube Station at Midnight\", \"The Eton Rifles\", \"Going Underground\" and \"Town Called Malice\".",
+ "albuns": [
+  {
+   "id": "5cdc81f5-29a3-3866-8e13-9f271d3615eb",
+   "titulo": "In the City",
+   "data": "1977-05-20",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/1f3da996-1ec8-47a5-843d-c1be850f1f17/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Art School",
+     "duracao": "2:01"
+    },
+    {
+     "n": 2,
+     "titulo": "I’ve Changed My Address",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Slow Down",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "I Got By in Time",
+     "duracao": "2:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Away From the Numbers",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Batman Theme",
+     "duracao": "1:30"
+    },
+    {
+     "n": 7,
+     "titulo": "In the City",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Sounds From the Street",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Non‐Stop Dancing",
+     "duracao": "2:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Time for Truth",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Takin’ My Love",
+     "duracao": "2:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Bricks and Mortar",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 7
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_the_City_%28The_Jam_album%29",
+   "resumo_en": "In the City is the debut studio album by the English band the Jam. Released in May 1977 by Polydor Records, the album reached No. 20 on the UK Albums Chart.\nThe album features the band's debut single and title track \"In the City\". In addition, the album includes two cover versions, \"Slow Down\" and the theme to the 1960s television series, Batman, the latter of which had also been previously covered by the Who, the Kinks and Link Wray.",
+   "spotify": "5DD8e6UAxYd8f1f7j94hWp",
+   "youtube": null
+  },
+  {
+   "id": "e43cbbad-4ad7-355a-af3b-f5d87c400b00",
+   "titulo": "This Is the Modern World",
+   "data": "1977-11-18",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/ddb34ab8-cd0f-4262-9cb5-744ecaa83cf2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Modern World",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "All Around the World",
+     "duracao": "2:21"
+    },
+    {
+     "n": 3,
+     "titulo": "I Need You (For Someone)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 4,
+     "titulo": "London Traffic",
+     "duracao": "1:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Standards",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Life From a Window",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "In the Midnight Hour",
+     "duracao": "1:51"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Street, Today",
+     "duracao": "1:30"
+    },
+    {
+     "n": 9,
+     "titulo": "London Girl",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Here Comes the Weekend",
+     "duracao": "3:30"
+    },
+    {
+     "n": 11,
+     "titulo": "The Combine",
+     "duracao": "2:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Tonight at Noon",
+     "duracao": "2:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Don’t Tell Them You’re Sane",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 7
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/This_Is_the_Modern_World",
+   "resumo_en": "This Is the Modern World is the second studio album by the English band the Jam, released on 18 November 1977 by Polydor Records. The album was released six months after their debut album In the City, and reached No. 22 on the UK Albums Chart.\nAlthough generally met with negative reviews by music critics upon release, This Is the Modern World has been described as being an album \"with far more light and shade\" than In the City.\nThe only single from This Is the Modern World was the censored version of \"The Modern World\", which peaked at No. 36 on the UK singles chart.",
+   "spotify": "1ofMLjpy6bhkxpOcD5y436",
+   "youtube": null
+  },
+  {
+   "id": "68a97464-1449-331a-b32c-89e0b4658aa9",
+   "titulo": "All Mod Cons",
+   "data": "1978-11-03",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/8a1e5d8a-778d-4b08-b87a-c38000c9a85d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Mod Cons",
+     "duracao": "1:18"
+    },
+    {
+     "n": 2,
+     "titulo": "To Be Someone (Didn’t We Have a Nice Time)",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Mr. Clean",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "David Watts",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "English Rose",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Crowd",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Billy Hunt",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s Too Bad",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Fly",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "The Place I Love",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "‘A’ Bomb in Wardour Street",
+     "duracao": "2:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Down in the Tube Station at Midnight",
+     "duracao": "4:43"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 8
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_Mod_Cons",
+   "resumo_en": "All Mod Cons is the third studio album by the English band the Jam, released on 3 November 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for \"all modern conveniences\" and is a pun on the band's association with the mod revival. The cover is a visual joke showing the band in a bare room. The album reached No. 6 in the UK Albums Chart.\nThe album was reissued in the United States in 1979, with the song \"The Butterfly Collector\" replacing \"Billy Hunt\".",
+   "spotify": "5b533EfxPpiYtk0MmilEJO",
+   "youtube": null
+  },
+  {
+   "id": "1cddac1c-c285-3140-8eb0-79fff2e176e1",
+   "titulo": "Setting Sons",
+   "data": "1979-11-17",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/9c493189-824f-4cc7-a91e-14798c75b0d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Girl on the Phone",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Thick as Thieves",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Private Hell",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Boy Soldiers",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Wasteland",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Burning Sky",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Smithers‐Jones",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Saturday’s Kids",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "The Eton Rifles",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Heat Wave",
+     "duracao": "2:24"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.0,
+    "fontes": 8
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Setting_Sons",
+   "resumo_en": "Setting Sons is the fourth studio album by the English rock band the Jam, released on 16 November 1979 by Polydor Records. It reached No. 4 in the UK Albums Chart upon the first week of release, continuing the commercial (and critical) favour that had begun with their previous album All Mod Cons (1978).\nThe sole single from Setting Sons, \"The Eton Rifles\", became the group's first top 10 UK hit, peaking at No. 3.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "720d64da-e200-3bea-ae34-9cc0ea83c66e",
+   "titulo": "Sound Affects",
+   "data": "1980-11-28",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/30338dce-6ef8-45ad-a9e2-0ef20a8145ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pretty Green",
+     "duracao": "2:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Monday",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "But I’m Different Now",
+     "duracao": "1:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Set the House Ablaze",
+     "duracao": "5:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Start!",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "That’s Entertainment",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Dream Time",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Man in the Corner Shop",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Music for the Last Couple",
+     "duracao": "3:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Boy About Town",
+     "duracao": "2:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Scrape Away",
+     "duracao": "3:59"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 10
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sound_Affects",
+   "resumo_en": "Sound Affects is the fifth studio album by the English rock band the Jam. The album was released on 28 November 1980 by Polydor Records. It is the only Jam album to be co-produced by the band themselves, and contains the only album track co-written by the entire band, \"Music for the Last Couple\".\nThe cover art is a pastiche of the artwork used on various Sound Effects records produced by the BBC during the 1970s.\nJam frontman Paul Weller has opined that Sound Affects is the Jam's best album.",
+   "spotify": "22fr5eq3nh5n7MS69kN2wx",
+   "youtube": null
+  },
+  {
+   "id": "e7a85358-7f79-3f02-b8e4-971b5f88af2f",
+   "titulo": "The Gift",
+   "data": "1982-03-12",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/34a4c94b-9e08-47fc-8b63-df0f52ef6b50/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Happy Together",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Ghosts",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Precious",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Just Who Is the 5 O’Clock Hero?",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "“Trans‐Global Express”",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Running on the Spot",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Circus",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Planner’s Dream Goes Wrong",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Carnation",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Town Called Malice",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "The Gift",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Gift_%28The_Jam_album%29",
+   "resumo_en": "The Gift is the sixth and final studio album by the English rock band the Jam. It was originally released on 12 March 1982 by Polydor as the follow-up to the Jam's critically and commercially successful studio album Sound Affects (1980). The songs were largely recorded during 1981 to 1982, at George Martin's AIR Studios, assisted by Peter Wilson. Generally regarded as the culmination of the smoother sound of the band's later work, it was one of their most successful studio albums, reaching No. 1 in the UK Albums Chart.\nThe song \"Carnation\" was later covered by Liam Gallagher of Oasis in collaboration with Steve Cradock of Ocean Colour Scene (OCS).\nA 2-disc deluxe edition of The Gift was released in 2012 to mark the 30th anniversary of the album's release.",
+   "spotify": "3GrWDe1D3ScuU8Ya90r6VN",
+   "youtube": null
+  }
+ ]
+}

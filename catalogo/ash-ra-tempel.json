@@ -1,0 +1,616 @@
+{
+ "id": "ash-ra-tempel",
+ "nome": "Ash Ra Tempel",
+ "cena": "Descobertas do acervo",
+ "mbid": "7e62de5d-1cc6-4779-a588-8923cf9fe09d",
+ "wikidata": "Q700817",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1970",
+ "fim": "2001",
+ "ativa": false,
+ "generos": [
+  "krautrock",
+  "progressive rock",
+  "space rock",
+  "electronic",
+  "psychedelic rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/Ash_Ra_Tempel",
+ "resumo_pt": "Ash Ra Tempel foi um grupo alemão ligado à cena krautrock, ativo entre 1970 e 1976. Foi a primeira produção musical proeminente de Manuel Göttsching. Ash Ra Tempel teve várias formações, sendo Göttsching o único membro a figurar em todas elas.  Göttsching veio a aposentar o nome Ash Ra Tempel quando este se tornou o único membro. Seu primeiro álbum solo Inventions for Electric Guitar foi o último disco a ser lançado sob o nome do grupo - Ash Ra Tempel. Foi batizado de \"Ash Ra Tempel VI\" funcionando como o sexto e último álbum. Göttsching mais tarde começou a utilizar o nome artístico Ashra para sua produção solo como uma homenagem ao seu antigo grupo. Ashra teve uma evolução em número de membros, tornando-se um grupo completa, vindo a permanecer com Göttsching até 1998.",
+ "resumo_en": "Ash Ra Tempel was a German krautrock group led by guitarist Manuel Göttsching that was active from 1970 to 1976. Their debut album Ash Ra Tempel was released in 1971. Following the band's demise, Göttsching released music under the name Ashra.",
+ "albuns": [
+  {
+   "id": "10820a4e-dcae-3c9a-aace-39105ed30047",
+   "titulo": "Ash Ra Tempel",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/7e964b19-62ce-4ab4-a67c-e183586560a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Amboss",
+     "duracao": "19:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Traummaschine",
+     "duracao": "25:32"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ash_Ra_Tempel_%28album%29",
+   "resumo_en": "Ash Ra Tempel is the debut studio album by German Krautrock band Ash Ra Tempel. Engineered by Conny Plank, it was recorded in March 1971 and released in June 1971 on Ohr. It features guitarist Manuel Göttsching, drummer Klaus Schulze and bassist Hartmut Enke.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "046bf50a-56c9-3fcf-8511-6be3c639159e",
+   "titulo": "Seven Up",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/5e2015ca-4d7f-4a09-a05b-632fe5d97fe5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Space",
+     "duracao": "16:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Time",
+     "duracao": "21:36"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Seven_Up_%28album%29",
+   "resumo_en": "Seven Up is the third studio album by German krautrock band Ash Ra Tempel and their only album recorded in collaboration with American psychologist/drug advocate Timothy Leary. It was first released in 1973.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "62ea2fdf-ebcc-3ca5-af22-cad1da0a0269",
+   "titulo": "Schwingungen",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/e7bb588f-6e71-4df7-ac15-9a97d6f3763b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Light: Look at Your Sun",
+     "duracao": "6:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Darkness: Flowers Must Die",
+     "duracao": "12:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Suche & Liebe",
+     "duracao": "19:23"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Schwingungen",
+   "resumo_en": "Schwingungen is the second album by the Krautrock band Ash Ra Tempel. It was released in 1972 on Ohr. It has been re-released four times, most recently in 2011 on MG Art Records.\nThe album's first song \"Light\" is heavily inspired by Peter Green's playing on Fleetwood Mac's \"Albatross\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cf546384-c949-3bb2-b037-8a1a25a2721a",
+   "titulo": "Join Inn",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/198af3c0-3cd2-4947-9116-0911f43e0812/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Freak ’n’ Roll",
+     "duracao": "19:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Jenseits",
+     "duracao": "24:13"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Join_Inn",
+   "resumo_en": "Join Inn is the fourth album by Krautrock band Ash Ra Tempel. It was recorded at Studio Dierks by Dieter Dierks during breaks in the sessions for the Walter Wegmüller album Tarot. It was originally released on LP by Ohr in Berlin, catalogue number OMM 556032. Each side of the LP comprises one long track.\nJoin Inn marks the end of the collaboration with Klaus Schulze. However, together with Ash Ra Tempel, their eponymous first album, it is considered a highlight of the Krautrock movement.",
+   "spotify": "49Bxr4VdiFa1GKK1tXVesN",
+   "youtube": null
+  },
+  {
+   "id": "d5169ace-c0a6-3a8f-8096-b690285b9b4e",
+   "titulo": "Starring Rosi",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/a6e38f26-e682-4392-bc7d-8c3f1c96fa6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Laughter Loving",
+     "duracao": "8:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Day-Dream",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Schizo",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Cosmic Tango",
+     "duracao": "2:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Interplay of Forces",
+     "duracao": "8:59"
+    },
+    {
+     "n": 6,
+     "titulo": "The Fairy Dance",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Bring Me Up",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Starring_Rosi",
+   "resumo_en": "Starring Rosi is the fifth and technically final album released by Ash Ra Tempel, as it is the last to feature Manuel Göttsching. It was recorded at Studio Dierks, Stommeln by Dieter Dierks. It was originally released on LP by Ohr under their 'Kosmische Musik' imprint, catalogue number KM 58.007.\nGenerally regarded as something of a turning point for Göttsching, this album to some extent dispenses with the lengthy jams of previous albums and adopts a tighter song-structure. The line-up is a reduced one following the departure of Hartmut Enke; Göttsching plays most of the instruments, with Wallenstein's Harald Großkopf guesting on drums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "07403de3-6f30-3882-8d42-db92bef2d32a",
+   "titulo": "Inventions for Electric Guitar",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/5feea898-fd21-36b0-9f9c-3303ba85e98a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Echo Waves",
+     "duracao": "17:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Quasarsphere",
+     "duracao": "6:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Pluralis",
+     "duracao": "21:35"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "498baec3-4011-32c8-97a5-cbe42f7afc17",
+   "titulo": "New Age of Earth",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/60c9c74c-98e6-4dbb-ac97-bbb725e49c9e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sunrain",
+     "duracao": "7:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Ocean of Tenderness",
+     "duracao": "12:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Deep Distance",
+     "duracao": "5:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Nightdust",
+     "duracao": "21:50"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "db9a621f-d7ec-3e4a-9209-fc7a9d8e0086",
+   "titulo": "Le Berceau de Cristal",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/19e0172e-c313-48fb-9eac-d76a4e603311/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Le Berceau de Cristal",
+     "duracao": "14:15"
+    },
+    {
+     "n": 2,
+     "titulo": "L'hiver Doux",
+     "duracao": "12:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Silence Sauvage",
+     "duracao": "5:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Le Sourire Volé",
+     "duracao": "6:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Deux Enfants Sous la Lune",
+     "duracao": "6:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Le Songe D'or",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Le Diable Dans la Maison",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "... et les Fantômes Rêvent Aussi",
+     "duracao": "7:06"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b4f0713-b843-33ae-b070-73b1fabb52e3",
+   "titulo": "The Private Tapes, Volume 3",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/14786411-309d-4ff2-bb17-d5a130087ded/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Whoopee",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Der Lauf der Giraffen",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Schwerer Dino",
+     "duracao": "27:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Halensee",
+     "duracao": "12:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Le bruit des origines (live)",
+     "duracao": "32:03"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "59f5f8aa-15f6-3704-bd91-50f8a2bb643d",
+   "titulo": "The Private Tapes, Volume 2",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/2ac6426d-4e1f-4d54-b491-320250159f0e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Deep Distance (live)",
+     "duracao": "21:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Shuttle Cock (live)",
+     "duracao": "18:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Wall of Sound",
+     "duracao": "12:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Soirée Académique (live)",
+     "duracao": "24:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Interview (Klaus Schulze)",
+     "duracao": "0:22"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6aa35900-9b3d-3976-aaa6-381a44f9d57c",
+   "titulo": "The Private Tapes, Volume 4",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/43a20f95-f4c5-460f-96ef-d2828f156cd6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Club Cannibal (live)",
+     "duracao": "14:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Sausalito (live)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Ain't No Time for Tears (live)",
+     "duracao": "7:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Niemand lacht rückwärts",
+     "duracao": "12:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Dédié à Hartmut (live)",
+     "duracao": "39:59"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "76174e8d-d427-3f72-9d72-9a9401dad424",
+   "titulo": "The Private Tapes, Volume 1",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/6da2ea2a-cc49-49aa-a00c-0285eed70a28/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bois de soleil",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Eloquentes Wiesel",
+     "duracao": "28:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Begleitmusik zu einem Hörspiel",
+     "duracao": "24:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Bois de la lune",
+     "duracao": "7:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Chicken Maladie",
+     "duracao": "9:52"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "90379659-a224-3b4d-b9b4-6ed59a2e3cd7",
+   "titulo": "The Private Tapes, Volume 5",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/b8e6a803-1f15-4bd4-9a29-7f01db14a2d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ultramarine",
+     "duracao": "22:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Lotus (live)",
+     "duracao": "19:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Ivresse de lune",
+     "duracao": "2:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Ivresse de soleil",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Ooze Away (live)",
+     "duracao": "28:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Interview",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b05d8ac1-1554-338d-afd7-227044dffa45",
+   "titulo": "The Private Tapes, Volume 6",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/308940e1-d0f3-45c1-b848-8151d869ecfe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hausaufgabe",
+     "duracao": "11:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Ice Train (live)",
+     "duracao": "6:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Phantasus (live)",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Ein würdiger Abschluß (live)",
+     "duracao": "54:16"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c24d78cc-3a4a-3a35-aba2-ed401167eaef",
+   "titulo": "Friendship",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/070c1dbe-036c-4e66-b552-21e6c579d38f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reunion",
+     "duracao": "30:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Pikant",
+     "duracao": "21:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Friendship",
+     "duracao": "26:29"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

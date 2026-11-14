@@ -1,0 +1,575 @@
+{
+ "id": "traffic",
+ "nome": "Traffic",
+ "cena": "Descobertas do acervo",
+ "mbid": "9fadfba9-ecae-4383-a4d8-47b043cea19a",
+ "wikidata": "Q1048439",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "1994",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "psychedelic rock",
+  "rock",
+  "blues rock",
+  "psychedelic pop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Traffic_band_original_lineup.jpg/500px-Traffic_band_original_lineup.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Traffic_%28banda%29",
+ "resumo_pt": "Traffic foi uma banda britânica de rock formada em Birmingham, Inglaterra, em 1967 por Steve Winwood, Jim Capaldi, Chris Wood e Dave Mason. O grupo desenvolveu uma sonoridade eclética que combinava elementos de rock psicodélico, folk, jazz e rock progressivo, destacando-se pelo uso de instrumentos como órgão, flauta e saxofone, além da instrumentação tradicional do rock.\nApós uma primeira fase marcada por temas como «Paper Sun», «Hole in My Shoe» e «Feelin' Alright?», e pelos álbuns Mr. Fantasy (1967) e Traffic (1968), a banda dissolveu-se em 1969. Winwood integrou posteriormente os Blind Faith, mas os Traffic regressaram em 1970, inicialmente como um trio constituído por Winwood, Capaldi e Wood, gravando John Barleycorn Must Die. Durante os primeiros anos da década de 1970, a formação foi sucessivamente alargada e o grupo editou álbuns como The Low Spark of High Heeled Boys (1971) e Shoot Out at the Fantasy Factory (1973), antes de se dissolver novamente em 1974.\nEm 1994, Winwood e Capaldi retomaram o nome Traffic para o álbum Far from Home e uma nova digressão. Em 2004, a formação original - Winwood, Capaldi, Wood e Mason - foi introduzida no Rock and Roll Hall of Fame.",
+ "resumo_en": "Traffic were an English rock band formed in Birmingham in April 1967 by Steve Winwood (formerly of the Spencer Davis Group), Jim Capaldi, Chris Wood and Dave Mason. They began as a psychedelic rock group and diversified their sound through the use of instruments such as keyboards (the Mellotron and harpsichord), sitar, and various reed instruments, and by incorporating jazz and improvisational techniques in their music.\nThe band had early success in the UK with their debut album Mr. Fantasy and non-album singles \"Paper Sun\", \"Hole in My Shoe\", and \"Here We Go Round the Mulberry Bush\". Their follow-up self-titled 1968 album was their most successful in Britain and featured one of their most popular songs, the widely covered \"Feelin' Alright?\". Mason left the band shortly after the album's release, moving on to a solo career that produced a few minor hit songs in the 1970s. Traffic disbanded at the beginning of 1969, when Winwood co-formed the supergroup Blind Faith. An album compiled from studio and live recordings, Last Exit, was released that May.\nBy 1970, Blind Faith had also broken up and Winwood, Capaldi and Wood reformed Traffic (minus Mason), with John Barleycorn Must Die being the band's comeback album. It became the band's biggest success in the United States to that point, reaching number 5. Their next LP, The Low Spark of High Heeled Boys (1971), went platinum in the US and became popular on FM radio, establishing Traffic as a leading progressive rock band. 1973's S",
+ "albuns": [
+  {
+   "id": "7527bd60-1df3-3f43-8d12-b7a5e8ee265c",
+   "titulo": "Mr. Fantasy",
+   "data": "1967-12",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/4b4b757b-f7ee-4ddc-b523-e974bb010639/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Paper Sun",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Dealer",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Coloured Rain",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Hole in My Shoe",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "No Face, No Name and No Number",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "House for Everyone",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Berkshire Poppies",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Giving to You",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Smiling Phases",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Dear Mr Fantasy",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8.8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mr._Fantasy",
+   "resumo_en": "Mr. Fantasy is the debut studio album by English rock band Traffic, released in December 1967. The recording included group members Jim Capaldi, Steve Winwood, Chris Wood, and Dave Mason; however, Mason temporarily left the band shortly after the album was released. The album reached the number 16 position in the UK Albums Chart, and number 88 on the Billboard Top LPs chart in the United States.",
+   "spotify": "72NDF3rQoUhxgIxJ14k4Oq",
+   "youtube": null
+  },
+  {
+   "id": "b2871840-e164-3bf2-ab68-7aacba0a3285",
+   "titulo": "Here We Go 'Round the Mulberry Bush",
+   "data": "1968-03",
+   "ano": "1968",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Here We Go 'Round the Mulberry Bush",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Taking Out Time",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Every Little Thing",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Virginals Dream",
+     "duracao": "2:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Utterly Simple",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "It's Been a Long Time",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Looking Back",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Picture of Her",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Just Like Me",
+     "duracao": "1:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Waltz for Caroline",
+     "duracao": "4:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Posession",
+     "duracao": "2:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Am I What I Was or Was I What I Am",
+     "duracao": "2:42"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7d426408-10e5-3c3b-b119-a72e81be8eba",
+   "titulo": "Traffic",
+   "data": "1968-10",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/5414db91-00db-3fb8-8fb6-4d1dc7299529/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Can All Join In",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Pearly Queen",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Be Sad",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Who Knows What Tomorrow May Bring",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Feelin’ Alright?",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Vagabond Virgin",
+     "duracao": "5:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Forty Thousand Headmen",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Cryin’ to Be Heard",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "No Time to Live",
+     "duracao": "5:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Means to an End",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Traffic_%28Traffic_album%29",
+   "resumo_en": "Traffic is the self-titled second studio album by the English rock band Traffic, released on 20 September 1968 on Island Records in the United Kingdom as ILPS 9081T (stereo), and United Artists in the United States, as UAS 6676 (stereo). The album peaked at number 9 in the UK Albums Chart and at number 17 on the Billboard Top LPs chart. It was the last album recorded by the group before their initial breakup.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "36aec2ea-0fa2-33c0-b30c-ac650b7eb62a",
+   "titulo": "Last Exit",
+   "data": "1969-05",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/8c245bd1-f107-4f36-b960-4e73fbb06fbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just for You",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Shanghai Noodle Factory",
+     "duracao": "5:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Something’s Got a Hold of My Toe",
+     "duracao": "2:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Withering Tree",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Medicated Goo",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Feelin’ Good (live)",
+     "duracao": "10:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Blind Man (live)",
+     "duracao": "7:14"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Last_Exit_%28Traffic_album%29",
+   "resumo_en": "Last Exit is the third album release by English rock band Traffic. Released in May 1969, it is a collection of odds and ends packaged by Island Records after the initial breakup of the band. The first half of the album consists predominantly of previously released A-sides and B-sides, while the second half were recordings taken from a March 1968 concert at the Fillmore Auditorium. The album reached number 19 in the American Billboard Top LPs chart.",
+   "spotify": "2aPmaxarbjD0lSAXw9xdu3",
+   "youtube": null
+  },
+  {
+   "id": "3770d5ce-e0e1-3389-9acf-cd38f0722baf",
+   "titulo": "John Barleycorn Must Die",
+   "data": "1970-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/397bdb5f-62d9-40b3-9bbe-ebc16404e0eb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Glad",
+     "duracao": "6:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Freedom Rider",
+     "duracao": "5:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Empty Pages",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Stranger to Himself",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "John Barleycorn",
+     "duracao": "6:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Every Mother’s Son",
+     "duracao": "7:06"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Barleycorn_Must_Die",
+   "resumo_en": "John Barleycorn Must Die is the fourth studio album by English rock band Traffic, released in 1970. It marked the band's comeback after a brief disbandment, and peaked at number 5 on the Billboard Top LPs chart, making it their highest-charting album in the US, and has been certified a gold record by the RIAA. In addition, the single \"Empty Pages\" spent eight weeks on the Billboard Hot 100, peaking at number 74. The album was marginally less successful in the UK, reaching number 11 on the UK Albums Chart.\nThe album was released as Island ILPS 9116 in the United Kingdom, United Artists UAS 5504 in the United States, and as Polydor 2334 013 in Canada.",
+   "spotify": "1eu2FaH7pFa5rS41kvNock",
+   "youtube": null
+  },
+  {
+   "id": "12980c27-0af8-36eb-91a8-808b26b30a79",
+   "titulo": "The Low Spark of High Heeled Boys",
+   "data": "1971-11",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/2935c135-12f7-3a1c-b349-be60a9b83cfa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hidden Treasure",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "The Low Spark of High Heeled Boys",
+     "duracao": "11:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Light Up or Leave Me Alone",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Rock and Roll Stew",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Many a Mile to Freedom",
+     "duracao": "7:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Rainmaker",
+     "duracao": "7:39"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Low_Spark_of_High_Heeled_Boys",
+   "resumo_en": "The Low Spark of High Heeled Boys is the fifth studio album by English rock band Traffic, released in 1971. The album was Traffic's most successful in the United States, reaching number 7 on the Billboard Top LPs chart and becoming their only platinum-certified album there, indicating sales in excess of one million. However, it failed to chart in the United Kingdom. The album features the minor hit \"Rock & Roll Stew\" and the title track, which received heavy FM airplay.",
+   "spotify": "6DUa06cy7WWvhba9Jiheyg",
+   "youtube": null
+  },
+  {
+   "id": "5eafbe29-d380-3299-ae69-08f3cf9581fe",
+   "titulo": "Shoot Out at the Fantasy Factory",
+   "data": "1973-02",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/9c48af89-3c57-3137-bd5e-0a5f79d5f9ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shoot Out at the Fantasy Factory",
+     "duracao": "6:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Roll Right Stones",
+     "duracao": "11:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Evening Blue",
+     "duracao": "5:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Tragic Magic",
+     "duracao": "6:43"
+    },
+    {
+     "n": 5,
+     "titulo": "(Sometimes I Feel So) Uninspired",
+     "duracao": "7:19"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shoot_Out_at_the_Fantasy_Factory",
+   "resumo_en": "Shoot Out at the Fantasy Factory is the sixth studio album by English rock band Traffic released in 1973. It followed their 1971 album The Low Spark of High Heeled Boys and contained five songs. Shoot Out, while achieving poorer reviews than its predecessor, did reach number six on the Billboard Pop Albums chart, one space higher than Low Spark had peaked in 1972. Like its predecessor, the original jacket for the Shoot Out LP had its top right and bottom left corners clipped. The album was remastered for CD in 2003.\nThe album was recorded with four members of the Muscle Shoals Rhythm Section (bassist David Hood, drummer Roger Hawkins, keyboardist Barry Beckett, and guitarist Jimmy Johnson). Hood and Hawkins appear on all the songs, and are listed as members of Traffic on the album sleeve. Beckett and Johnson only play on \"Tragic Magic\". Hood, Hawkins & Beckett would go on tour with the band as evidenced by the subsequent On the Road album.",
+   "spotify": "0tqUBv266CzB38g4JhueaD",
+   "youtube": null
+  },
+  {
+   "id": "d5a65706-c978-37bb-a83f-bee533539546",
+   "titulo": "When the Eagle Flies",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/99a87b79-2876-37f6-a879-727f37415d07/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Something New",
+     "duracao": "3:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Dream Gerrard",
+     "duracao": "11:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Graveyard People",
+     "duracao": "6:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Walking in the Wind",
+     "duracao": "6:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Memories of a Rock n’ Rolla",
+     "duracao": "4:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Love",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "When the Eagle Flies",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/When_the_Eagle_Flies",
+   "resumo_en": "When the Eagle Flies is the seventh studio album by English rock band Traffic, released in 1974. The album featured Jim Capaldi, Steve Winwood and Chris Wood, with Rosko Gee on bass guitar. Percussionist Rebop Kwaku Baah was sacked prior to the album's completion, but two tracks feature his playing. Winwood plays a broader variety of keyboard instruments than most previous Traffic albums, adding Moog and Mellotron to their repertoire. This was the last Traffic album for 20 years, when Winwood and Capaldi reunited for Far from Home in 1994.\nWhen the Eagle Flies was the band's fourth consecutive studio album to reach the American Top Ten and have gold album status. It was far less successful in the United Kingdom, where it entered the charts at number 31 only to drop off the following week. Traffic toured to support the release, but they disbanded in the middle of the tour in 1974.\nThe Chris Wood composition \"Moonchild Vulcan\" was recorded for the album, but ultimately left off in favour of \"Memories of a Rock n' Rolla\". The song was played on the supporting tour for the album, however, and a live recording by Traffic was later released on the posthumous Chris Wood CD Vulcan, release",
+   "spotify": "7IyvLhbXhg0dOiro66o04t",
+   "youtube": null
+  },
+  {
+   "id": "53a4dc0e-47ad-4c36-b022-c02a28686d31",
+   "titulo": "Far From Home",
+   "data": "1994-05-03",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/177011d3-4a6a-4885-b98f-3e50562126ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Riding High",
+     "duracao": "5:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Here Comes a Man",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Far From Home",
+     "duracao": "8:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Nowhere Is Their Freedom",
+     "duracao": "7:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Holy Ground",
+     "duracao": "7:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Some Kinda Woman",
+     "duracao": "5:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Every Night, Every Day",
+     "duracao": "5:32"
+    },
+    {
+     "n": 8,
+     "titulo": "This Train Won’t Stop",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "State of Grace",
+     "duracao": "7:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Mozambique",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Far_from_Home_%28album%29",
+   "resumo_en": "Far from Home is the eighth and final studio album by the English rock band Traffic. The project began as a revival of the writing collaboration between Steve Winwood and Jim Capaldi, but soon blossomed into the first Traffic project since 1974. The album is dedicated to Chris Wood (Traffic’s founding woodwind player) who died in 1983.",
+   "spotify": "3D80ZfwCM7wbRrZKshEVHg",
+   "youtube": null
+  }
+ ]
+}

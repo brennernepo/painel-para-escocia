@@ -1,0 +1,566 @@
+{
+ "id": "mountain",
+ "nome": "Mountain",
+ "cena": "Descobertas do acervo",
+ "mbid": "295ad371-45d3-4370-8504-68c92ca2948d",
+ "wikidata": "Q1255792",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "blues rock",
+  "heavy psych",
+  "jam band",
+  "psychedelic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Corky_Laing%27s_Mountain_%E2%80%93_Markthalle_Hamburg_2016_10.JPG/500px-Corky_Laing%27s_Mountain_%E2%80%93_Markthalle_Hamburg_2016_10.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Mountain",
+ "resumo_pt": "Mountain foi uma banda de blues-rock/hard rock norte-americana fundada em 1969 pelo guitarrista Leslie West e pelo produtor do Cream, o baixista Felix Pappalardi.\nO grupo era um trio composto de Leslie West na guitarra, Felix Pappalardi no baixo e Corky Laing na bateria. O vocal cru de West, a bateria fluente de Laing e as linhas de baixo pesadas de Pappalardi formavam o som distintivo do Mountain.\nA banda se apresentou no Festival de Woodstock mas não foi incluída no filme ou na trilha sonora. O Mountain recebeu uma certa aclamação da crítica mas nunca conseguiu alcançar sucesso comercial. A faixa título de seu álbum Nantucket Sleighrid foi usada como tema do programa britânico Weekend World, que foi transmitido entre 1972 e 1986. Mountain tocava em alto volume, o que acabou prejudicando o ouvido de Felix Pappalardi.\nEntre 1972 e 1974 Leslie West e Corky Laing, juntamente com o baixista Jack Bruce, formaram um power trio -West, Bruce & Laing- e lançaram três álbuns (Why Dontcha, Whatever Turns You On e Live'N'Kickin').\nO estilo musical do grupo consistia principalmente em hard rock, blues rock e heavy metal.",
+ "resumo_en": "Mountain was an American rock band formed on Long Island, New York, in 1969. Originally consisting of vocalist-guitarist Leslie West, bassist-vocalist Felix Pappalardi, keyboardist Steve Knight, and drummer N. D. Smart (soon replaced by Corky Laing), the group disbanded in 1972, but reunited on several occasions prior to West's death in 2020. They are best known for their 1970 smash hit song \"Mississippi Queen\", which remains a staple of classic rock radio, as well as the heavily sampled song \"Long Red\", and their performance at Woodstock Festival in 1969. Mountain is one of many bands commonly credited with influencing the development of heavy metal music during the 1970s. The group's musical style primarily consisted of hard rock, blues rock, and heavy metal.\nThe beginning of the live recording of their song \"Long Red\" has become one of the most sampled drum breaks in hip hop, sampled in over 700 songs by artists such as EPMD, Pete Rock & CL Smooth, A Tribe Called Quest, Nas, Kanye West, the Game, among many others. Songs using the sample include Jay-Z's \"99 Problems\" and Kanye West's \"The Glory\".",
+ "albuns": [
+  {
+   "id": "37223bd3-9b5f-362e-8d8c-c471099bb679",
+   "titulo": "Climbing!",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/994836f7-a237-4085-b4f4-973fe389f2c4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mississippi Queen",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Theme for an Imaginary Western",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Never in My Life",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Silver Paper",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "For Yasgur's Farm",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "To My Friend",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "The Laird",
+     "duracao": "4:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Sittin' on a Rainbow",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Boys in the Band",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Climbing%21",
+   "resumo_en": "Climbing! (also known as Mountain Climbing!) is the debut studio album by American hard rock band Mountain. The album was released on March 7, 1970, by Windfall Records. It peaked at No. 17 on the Billboard 200 chart, and spent 39 weeks on the chart.\nThe album included the group's best-known song, \"Mississippi Queen\", which became a hit, and \"Never in My Life\", which was regularly aired on contemporary FM radio. Both were sung by West, while Pappalardi supplied the vocal on another radio favorite, \"Theme for an Imaginary Western\".\nThe album was recorded at the Record Plant in New York City. Felix Pappalardi produced the album, while Bob d'Orleans engineered it.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ac1c143e-02d2-32d3-936f-f961429f1aa2",
+   "titulo": "Nantucket Sleighride",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/0c1055ad-2f39-4c3c-a1be-b2ea2d5f8ee8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Look Around",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Taunta (Sammy's Tune)",
+     "duracao": "1:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Nantucket Sleighride (To Owen Coffin)",
+     "duracao": "5:49"
+    },
+    {
+     "n": 4,
+     "titulo": "You Can't Get Away",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Tired Angels (To J.M.H.)",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "The Animal Trainer And The Toad",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "My Lady",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Travelin' In The Dark (To E.M.P.)",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "The Great Train Robbery",
+     "duracao": "5:43"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nantucket_Sleighride_%28album%29",
+   "resumo_en": "Nantucket Sleighride is the second studio album by American hard rock band Mountain, released in January 1971 by Windfall Records in the US and by Island in the UK. It reached number 16 on the Billboard Hot 200 Album Chart in 1971.\nThe album included the song \"Nantucket Sleighride (to Owen Coffin),\" a song about a young seaman who was shot and eaten by his shipmates after their ship, the Nantucket whaler Essex, was sunk by a sperm whale. The album also features the song \"The Animal Trainer and the Toad,\" their second and final song to make it onto the charts.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "66c11e15-a90c-3256-b105-a37530dd3edc",
+   "titulo": "Flowers of Evil",
+   "data": "1971-12-11",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/294a463d-9db3-4bf2-a563-5b38f25b051d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flowers of Evil",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "King's Chorale",
+     "duracao": "1:04"
+    },
+    {
+     "n": 3,
+     "titulo": "One Last Cold Kiss",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Crossroader",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Pride and Passion",
+     "duracao": "7:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Dream Sequence: Guitar Solo / Roll Over Beethoven / Dreams of Milk and Honey / Variations / Swan Theme",
+     "duracao": "24:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Mississippi Queen",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Flowers_of_Evil_%28Mountain_album%29",
+   "resumo_en": "Flowers of Evil is the third studio album and first live album by American hard rock band Mountain. The title track concerns drug abuse in Vietnam. The first side of the album includes new studio material, while the second consists of live material recorded on 27 June 1971 at the Fillmore East in New York City. It was released in November 1971 by Windfall. This was the band's only album to chart in Norway, where it peaked at #17; the highest chart position for this album internationally.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9dd0b044-8eb9-3347-b0d3-4ffecba0ff6c",
+   "titulo": "Avalanche",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/b3cb52b9-a0ed-4d28-a1c5-bf601e039ce3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Whole Lotta Shakin' Goin' On",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Sister Justice",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Alisan",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Swamp Boy",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Satisfaction",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Thumbsucker",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "You Better Believe It",
+     "duracao": "5:43"
+    },
+    {
+     "n": 8,
+     "titulo": "I Love to See You Fly",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Back Where I Belong",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Last of the Sunshine Days",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "391d8a5d-8254-3d0b-999f-c12f4ab1aaf9",
+   "titulo": "Go For Your Life",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/345bc8ab-02a2-4290-855a-d9165d610a03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Times",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Spark",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "She Loves Her Rock (And She Loves It Hard)",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Bardot Damage",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Shimmy on the Footlights",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "I Love Young Girls",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Makin' It in Your Car",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Babe in the Woods",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Bit of Insanity",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Go_for_Your_Life_%28album%29",
+   "resumo_en": "Go for Your Life is the fifth studio album by American hard rock band Mountain, released in March 1985. It was their first studio album since 1974's Avalanche.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a0b82256-aaf5-35c2-b926-13b0bc82b710",
+   "titulo": "Man's World",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/e5b93b7b-4005-4667-b658-335c32d99bbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In Your Face",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Thunder",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Man's World",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "So Fine",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Hotel Happiness",
+     "duracao": "5:21"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Sorry",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "I Look (Power mix)",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Is That Okay?",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Crest of a Slump",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "You'll Never Be Alone",
+     "duracao": "2:11"
+    },
+    {
+     "n": 11,
+     "titulo": "I Look (Hit mix)",
+     "duracao": "3:38"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Man%27s_World_%28album%29",
+   "resumo_en": "Man's World is the sixth studio album by American hard rock band Mountain. It was released on April 2, 1996. It was their first album in over 10 years.\nThe album features a cover of the James Brown song \"It's a Man's Man's Man's World\", from which it takes its title. The album also features former Uriah Heep and Colosseum bassist Mark Clarke, and musician Eddie Black, the latter of which sings lead vocals on \"I Look\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33f291b4-c894-3144-9165-4d46516e61f5",
+   "titulo": "Mystic Fire",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/70c3f7d7-5c22-47fe-aec9-483bb433cdd6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Immortal",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Mystic Fire",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Fever",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "The Sea",
+     "duracao": "5:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Mutant X",
+     "duracao": "5:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Beter Off With the Blues",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Mountain Express (Oh Boy)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Marble Peach/Rotten Peach",
+     "duracao": "5:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Johnny Comes Marching Home",
+     "duracao": "2:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Nantucket Sleighride Redux",
+     "duracao": "7:29"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mystic_Fire",
+   "resumo_en": "Mystic Fire is the seventh studio album by American hard rock band Mountain, released on July 30, 2002. It is their final album of original material, as their following album, Masters of War, would consist solely of covers. In Europe, the album was released as Mountain High.\nThe financing for the album came from Europe, and the album was written and recorded to help the band promotionally in that region. The band toured Europe and the United States to promote the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "56883814-ffa5-400c-ad68-7a70d7eea9a5",
+   "titulo": "Masters of War",
+   "data": "2007-07-24",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/ed24e9e3-7f17-4c1b-b62a-86443c65f636/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Masters of War",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Serve Somebody",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Blowin' in the Wind (Heavy)",
+     "duracao": "5:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Everything Is Broken",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Highway 61 Revisited",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "This Heart of Mine",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Subterranean Homesick Blues",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "The Times They Are A-Changin'",
+     "duracao": "4:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Seven Days",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Mr. Tambourine Man",
+     "duracao": "5:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Like a Rolling Stone",
+     "duracao": "3:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Blowin' in the Wind",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Masters_of_War_%28album%29",
+   "resumo_en": "Masters of War is the eighth and final studio album by American hard rock band Mountain, released in 2007. The album consists entirely of Bob Dylan covers.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}
