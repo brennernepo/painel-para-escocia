@@ -13,8 +13,8 @@ sys.path.insert(0, str(RAIZ))
 
 from banco import _ler_tabela  # noqa: E402
 
-for tabela in ("avaliacoes", "bandas_usuario"):
-    linhas = sorted(_ler_tabela(tabela), key=lambda l: l.get("album_id") or l.get("banda_id"))
+for tabela in ("avaliacoes", "bandas_usuario", "pedidos"):
+    linhas = sorted(_ler_tabela(tabela), key=lambda l: l.get("album_id") or l.get("banda_id") or l.get("nome"))
     (RAIZ / "backup" / f"{tabela}.json").write_text(json.dumps(linhas, ensure_ascii=False, indent=1) + "\n",
                                                    encoding="utf-8")
     print(f"{tabela}: {len(linhas)} linhas")

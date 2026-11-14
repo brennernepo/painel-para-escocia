@@ -127,7 +127,8 @@ def albuns_de_estudio(mbid: str) -> list[dict]:
             break
     vistos, albuns = set(), []
     for g in sorted(grupos, key=lambda g: g.get("first-release-date") or "9999"):
-        if g.get("primary-type") != "Album" or g.get("secondary-types") or not g.get("first-release-date"):
+        extras = set(g.get("secondary-types") or []) - {"Soundtrack"}  # trilhas da própria banda contam (Help!, Purple Rain)
+        if g.get("primary-type") != "Album" or extras or not g.get("first-release-date"):
             continue
         if slug(g["title"]) in vistos:
             continue
@@ -174,23 +175,25 @@ def ano_da_claim(entidade: dict, prop: str) -> str | None:
 
 
 def albuns_na_wikidata(qids: list[str]) -> dict:
-    """rgid do MusicBrainz → títulos dos artigos do álbum na Wikipedia (en e pt)."""
+    """rgid do MusicBrainz → títulos dos artigos do álbum na Wikipedia (en e pt) e ids no Spotify e no YouTube."""
     saida = {}
     for i in range(0, len(qids), 15):
         valores = " ".join(f"wd:{q}" for q in qids[i:i + 15])
-        consulta = f"""SELECT ?rgid ?en ?pt WHERE {{
+        consulta = f"""SELECT ?rgid ?en ?pt ?spotify ?youtube WHERE {{
           VALUES ?artista {{ {valores} }}
           ?album wdt:P175 ?artista; wdt:P436 ?rgid.
           OPTIONAL {{ ?a schema:about ?album; schema:isPartOf <https://en.wikipedia.org/>; schema:name ?en. }}
           OPTIONAL {{ ?b schema:about ?album; schema:isPartOf <https://pt.wikipedia.org/>; schema:name ?pt. }}
+          OPTIONAL {{ ?album wdt:P2205 ?spotify. }}
+          OPTIONAL {{ ?album wdt:P4300 ?youtube. }}
         }}"""
         res = baixar("https://query.wikidata.org/sparql", {"query": consulta, "format": "json"}, intervalo=1.0) or {}
         for linha in res.get("results", {}).get("bindings", []):
             rgid = linha["rgid"]["value"]
             atual = saida.setdefault(rgid, {})
-            for lang in ("en", "pt"):
-                if lang in linha:
-                    atual.setdefault(lang, linha[lang]["value"])
+            for campo in ("en", "pt", "spotify", "youtube"):
+                if campo in linha:
+                    atual.setdefault(campo, linha[campo]["value"])
     return saida
 
 
@@ -299,7 +302,7 @@ def completar(ficha: dict, antigo: dict) -> None:
     velhos = {a["id"]: a for a in antigo.get("albuns", [])}
     for a in ficha["albuns"]:
         velho = velhos.get(a["id"], {})
-        for campo in ("critica", "wikipedia", "resumo_en"):
+        for campo in ("critica", "wikipedia", "resumo_en", "spotify", "youtube"):
             if not a.get(campo) and velho.get(campo):
                 a[campo] = velho[campo]
 
@@ -384,10 +387,32 @@ def montar(bandas: list[dict]) -> None:
                 "publico_votos": rating.get("votes-count", 0),
                 "wikipedia": f"https://en.wikipedia.org/wiki/{quote(wd['en'].replace(' ', '_'))}" if "en" in wd else None,
                 "resumo_en": res_album.get(wd.get("en", ""), {}).get("texto", "")[:1200],
+                "spotify": wd.get("spotify"), "youtube": wd.get("youtube"),
             })
         completar(ficha, f["antigo"])
         (SAIDA / f"{ficha['id']}.json").write_text(json.dumps(ficha, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"OK: {len(fichas)} bandas gravadas em {SAIDA}", flush=True)
+
+
+def incluir_pedidos(caminho: Path) -> None:
+    """Acrescenta a bandas.txt as bandas pedidas no app (tabela pedidos do Supabase) que ainda não estão na lista."""
+    sys.path.insert(0, str(RAIZ))
+    from banco import CHAVE, URL  # noqa: E402  (a chave publicável, a mesma do app)
+    try:
+        r = requests.get(f"{URL}/pedidos", params={"select": "nome", "order": "criado_em"}, headers={"apikey": CHAVE},
+                         timeout=30)
+        r.raise_for_status()
+        pedidos = [p["nome"].strip() for p in r.json()]
+    except Exception as erro:  # noqa: BLE001
+        print(f"Pedidos: não consegui ler ({erro})", flush=True)
+        return
+    existentes = {slug(b["nome"]) for b in ler_lista(caminho)}
+    novos = list({slug(n): n for n in reversed(pedidos) if n and slug(n) not in existentes}.values())[::-1]
+    if novos:
+        texto = caminho.read_text(encoding="utf-8").rstrip("\n")
+        bloco = "\n\n[Pedidos do app]\n" + "\n".join(novos) + "\n"
+        caminho.write_text(texto + bloco, encoding="utf-8")
+        print(f"Pedidos incluídos: {', '.join(novos)}", flush=True)
 
 
 if __name__ == "__main__":
@@ -395,8 +420,11 @@ if __name__ == "__main__":
     ap.add_argument("--lista", default=str(RAIZ / "bandas.txt"))
     ap.add_argument("--so")
     ap.add_argument("--renovar", action="store_true", help="busca de novo as discografias (álbuns novos)")
+    ap.add_argument("--pedidos", action="store_true", help="inclui antes as bandas pedidas no app")
     args = ap.parse_args()
     RENOVAR = args.renovar
+    if args.pedidos:
+        incluir_pedidos(Path(args.lista))
     lista = ler_lista(Path(args.lista))
     if args.so:
         lista = [b for b in lista if b["nome"].lower() == args.so.lower()]

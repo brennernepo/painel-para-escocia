@@ -51,6 +51,10 @@ html, body, .stApp, .stMarkdown, p, label, input, textarea, button { font-family
 .links { font-size:12.5px; margin-top:8px; }
 .links a { color:var(--ambar) !important; text-decoration:none; margin-right:12px; }
 .links a:hover { text-decoration:underline; }
+.links.compacto { font-size:12px; margin-top:3px; }
+.links.compacto a { margin-right:9px; }
+a.capa-link { display:block; flex:none; }
+a.capa-link:hover .moldura { outline:2px solid var(--ambar); }
 .faixas { font-size:13px; color:var(--txt2); columns:2; column-gap:24px; }
 .faixas div { break-inside:avoid; padding:1px 0; }
 .faixas b { color:var(--txt3); font-weight:500; display:inline-block; width:24px; }
@@ -89,16 +93,24 @@ def iniciais(nome: str) -> str:
     return "".join(p[0] for p in partes[:2]).upper() or "♪"
 
 
+def _imagens(*urls: str | None) -> str:
+    """Imagens empilhadas: a última fica por cima; se ela não carregar, aparece a de baixo (e, no fim, o fundo)."""
+    return "".join(f'<img src="{escape(u)}" loading="lazy" alt="">' for u in urls if u)
+
+
 def foto_banda(b: dict, classe: str = "foto") -> str:
-    """Foto sobre um fundo com as iniciais: se a imagem não carregar, fica o fundo."""
-    img = f'<img src="{escape(b["foto"])}" loading="lazy" alt="">' if b.get("foto") else ""
-    return f'<div class="moldura {classe}"><span>{escape(iniciais(b["nome"]))}</span>{img}</div>'
+    """Foto quadrada do Deezer por cima da foto da Wikipedia, sobre um fundo com as iniciais."""
+    return (f'<div class="moldura {classe}"><span>{escape(iniciais(b["nome"]))}</span>'
+            f'{_imagens(b.get("foto"), b.get("foto_deezer"))}</div>')
 
 
-def capa(a: dict, classe: str = "capa") -> str:
-    """Capa sobre um fundo de vinil: se a imagem não carregar, fica o vinil."""
-    img = f'<img src="{escape(a["capa"])}" loading="lazy" alt="">' if a.get("capa") else ""
-    return f'<div class="moldura vinil {classe}"><span>💿</span>{img}</div>'
+def capa(a: dict, classe: str = "capa", link: str | None = None) -> str:
+    """Capa do Cover Art Archive (a edição certa) por cima da do Deezer (mais rápida), sobre um fundo de vinil.
+    Com link, a capa abre o álbum para ouvir."""
+    moldura = f'<div class="moldura vinil {classe}"><span>💿</span>{_imagens(a.get("capa_reserva"), a.get("capa"))}</div>'
+    if not link:
+        return moldura
+    return f'<a class="capa-link" href="{escape(link)}" target="_blank" title="Ouvir">{moldura}</a>'
 
 
 def chips(itens: list[tuple[str, str]]) -> str:
@@ -121,14 +133,23 @@ def situacao(b: dict) -> tuple[str, str]:
     return "", ""
 
 
-def links_ouvir(banda: str, album: str, wikipedia: str | None) -> str:
-    q = quote(f"{banda} {album}")
-    partes = [f'<a href="https://open.spotify.com/search/{q}" target="_blank">Spotify</a>',
-              f'<a href="https://music.youtube.com/search?q={q}" target="_blank">YouTube Music</a>',
-              f'<a href="https://www.deezer.com/search/{q}" target="_blank">Deezer</a>']
-    if wikipedia:
-        partes.append(f'<a href="{escape(wikipedia)}" target="_blank">Wikipedia</a>')
-    return '<div class="links">▶ Ouvir: ' + "".join(partes) + "</div>"
+def enderecos(banda: str, a: dict) -> dict:
+    """Onde ouvir o álbum: direto na página do álbum quando há o id; senão, na busca do serviço."""
+    q = quote(f"{banda} {a['titulo']}")
+    return {
+        "Spotify": f"https://open.spotify.com/album/{a['spotify']}" if a.get("spotify") else f"https://open.spotify.com/search/{q}",
+        "YouTube Music": (f"https://music.youtube.com/playlist?list={a['youtube']}" if a.get("youtube")
+                          else f"https://music.youtube.com/search?q={q}"),
+        "Deezer": f"https://www.deezer.com/album/{a['deezer']}" if a.get("deezer") else f"https://www.deezer.com/search/{q}",
+    }
+
+
+def links_ouvir(banda: str, a: dict, compacto: bool = False) -> str:
+    partes = [f'<a href="{escape(url)}" target="_blank">{nome.removesuffix(" Music") if compacto else nome}</a>'
+              for nome, url in enderecos(banda, a).items()]
+    if a.get("wikipedia") and not compacto:
+        partes.append(f'<a href="{escape(a["wikipedia"])}" target="_blank">Wikipedia</a>')
+    return f'<div class="links{" compacto" if compacto else ""}">▶ Ouvir: ' + "".join(partes) + "</div>"
 
 
 def data_br(data: str) -> str:

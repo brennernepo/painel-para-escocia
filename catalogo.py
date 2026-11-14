@@ -1,8 +1,10 @@
-"""Leitura do catálogo (catalogo/*.json, gerado por scripts/montar_catalogo.py) e dos textos em português
-(textos/*.json). Os textos são opcionais: sem eles, a bio usa o resumo da Wikipedia."""
+"""Leitura do catálogo (catalogo/*.json, gerado por scripts/montar_catalogo.py), dos textos em português
+(textos/*.json) e dos dados do Deezer (deezer/*.json, de scripts/enriquecer_deezer.py). Textos e Deezer são
+opcionais: sem textos, a bio usa o resumo da Wikipedia; sem Deezer, não há player nem bandas parecidas."""
 
 import json
 import re
+import unicodedata
 from datetime import date
 from pathlib import Path
 
@@ -41,6 +43,9 @@ def carregar() -> dict:
     textos = {}
     for f in (RAIZ / "textos").glob("*.json"):
         textos[f.stem] = json.loads(f.read_text(encoding="utf-8"))
+    deezer = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (RAIZ / "deezer").glob("*.json")}
+    arq_extras = RAIZ / "extras.json"  # listas famosas e prêmios (scripts/listas_e_premios.py)
+    extras = json.loads(arq_extras.read_text(encoding="utf-8")) if arq_extras.exists() else {}
     hoje = date.today().isoformat()
     bandas = {}
     for f in sorted((RAIZ / "catalogo").glob("*.json")):
@@ -53,19 +58,35 @@ def carregar() -> dict:
         b["bio_em_ingles"] = not t.get("bio") and not b.get("resumo_pt")
         b["curiosidade"] = t.get("curiosidade")
         b["pais_nome"] = PAISES.get(b.get("pais") or "", b.get("pais") or "")
+        dz = deezer.get(b["id"], {})
+        artista = dz.get("artista") or {}
+        b["deezer"], b["fas"], b["foto_deezer"] = artista.get("id"), artista.get("fas"), artista.get("foto")
+        b["parecidas"] = dz.get("parecidas", [])
+        b["premios"] = extras.get("bandas", {}).get(b["id"], {})
+        dz_albuns = dz.get("albuns", {})
         curiosidades = t.get("albuns", {})
         for a in b["albuns"]:
             a["banda_id"] = b["id"]
             a["futuro"] = (a.get("data") or "") > hoje  # anunciado, ainda não lançado
             a["curiosidade"] = curiosidades.get(a["id"])
+            a["deezer"] = (dz_albuns.get(a["id"]) or {}).get("id")
+            a["capa_reserva"] = (dz_albuns.get(a["id"]) or {}).get("capa")
+            a["listas"] = extras.get("albuns", {}).get(a["id"], [])
             a["nota_critica"] = nota_critica(a.get("critica") or {})
         notas = [a["nota_critica"] for a in b["albuns"] if a["nota_critica"] is not None]
         melhor = max([a for a in b["albuns"] if not a["futuro"]], key=lambda a: (a["nota_critica"] or a.get("publico") or 6)
-                     + 0.25 * min(a.get("publico_votos") or 0, 12), default=None)  # crítica + popularidade
+                     + 0.25 * min(a.get("publico_votos") or 0, 12) + 0.6 * len(a["listas"]),
+                     default=None)  # crítica + popularidade + listas famosas
         b["porta_de_entrada"] = melhor["id"] if melhor else None
         b["critica_media"] = round(sum(notas) / len(notas), 1) if notas else None
         bandas[b["id"]] = b
     return bandas
+
+
+def slug(texto: str) -> str:
+    """Mesmo id que scripts/montar_catalogo.py dá às bandas."""
+    t = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
 
 
 def albuns_por_id(bandas: dict) -> dict:

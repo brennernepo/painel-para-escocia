@@ -1,8 +1,8 @@
 """Suas marcações e notas, guardadas no Supabase (projeto "Discoteca").
 
 A chave publicável abaixo é feita para ficar visível: as regras do banco só deixam ler e gravar as tabelas
-avaliacoes e bandas_usuario, e nunca apagar. Uma rotina do GitHub copia as duas tabelas para backup/ todo dia;
-se o banco sair do ar, o app mostra essa cópia sem deixar editar.
+avaliacoes e bandas_usuario, incluir pedidos de bandas, e nunca apagar. Uma rotina do GitHub copia as tabelas para
+backup/ todo dia; se o banco sair do ar, o app mostra essa cópia sem deixar editar.
 """
 
 import json
@@ -14,7 +14,8 @@ import streamlit as st
 URL = "https://ljzhxubvksxwdzgiuzqt.supabase.co/rest/v1"
 CHAVE = "sb_publishable_FS11DmFxOt9BTTxhcRVjTA_LCPxswey"
 BACKUP = Path(__file__).parent / "backup"
-CAMPOS_ALBUM = ("conheco", "escutei", "nota", "quero_ouvir", "favorito", "faixa_favorita", "comentario", "escutado_em")
+CAMPOS_ALBUM = ("conheco", "escutei", "nota", "quero_ouvir", "favorito", "faixa_favorita", "comentario", "escutado_em",
+                "em_rotacao")
 
 
 def _cabecalho() -> dict:
@@ -40,14 +41,16 @@ def iniciar() -> None:
         return
     try:
         albuns, bandas = _ler_tabela("avaliacoes"), _ler_tabela("bandas_usuario")
+        pedidos = _ler_tabela("pedidos")
         st.session_state.somente_leitura = False
     except Exception:
         def copia(nome):
             arq = BACKUP / f"{nome}.json"
             return json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else []
-        albuns, bandas = copia("avaliacoes"), copia("bandas_usuario")
+        albuns, bandas, pedidos = copia("avaliacoes"), copia("bandas_usuario"), copia("pedidos")
         st.session_state.somente_leitura = True
-    st.session_state.estado = {"albuns": {a["album_id"]: a for a in albuns}, "bandas": {b["banda_id"]: b for b in bandas}}
+    st.session_state.estado = {"albuns": {a["album_id"]: a for a in albuns}, "bandas": {b["banda_id"]: b for b in bandas},
+                               "pedidos": {p["nome"] for p in pedidos}}
 
 
 def album(album_id: str) -> dict:
@@ -82,5 +85,25 @@ def salvar_album(album_id: str, banda_id: str, **campos) -> bool:
 
 
 def salvar_banda(banda_id: str, **campos) -> bool:
-    campos = {k: v for k, v in campos.items() if k in ("conheco", "gosto")}
+    campos = {k: v for k, v in campos.items() if k in ("conheco", "gosto", "quero_ouvir")}
     return _gravar("bandas_usuario", "banda_id", {"banda_id": banda_id, **campos})
+
+
+def pedidos() -> set[str]:
+    return st.session_state.estado.get("pedidos", set())
+
+
+def pedir_banda(nome: str, origem: str = "") -> bool:
+    """Pede uma banda que ainda não está no acervo. A rotina semanal do GitHub inclui os pedidos no catálogo."""
+    if st.session_state.get("somente_leitura"):
+        st.toast("O banco está fora do ar agora; o pedido não foi salvo.", icon="⚠️")
+        return False
+    try:
+        r = requests.post(f"{URL}/pedidos", json={"nome": nome[:120], "origem": origem[:120] or None}, timeout=15,
+                          headers={**_cabecalho(), "Prefer": "resolution=ignore-duplicates,return=minimal"})
+        r.raise_for_status()
+    except Exception:
+        st.toast("Não consegui salvar o pedido. Tente de novo em instantes.", icon="⚠️")
+        return False
+    st.session_state.estado.setdefault("pedidos", set()).add(nome)
+    return True

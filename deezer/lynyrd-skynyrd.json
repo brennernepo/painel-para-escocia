@@ -1,0 +1,183 @@
+{
+ "artista": {
+  "id": 816,
+  "fas": 1053001,
+  "foto": "https://cdn-images.dzcdn.net/images/artist/d5dfdbe7783133afa602a591bbe6c4e3/500x500-000000-80-0-0.jpg"
+ },
+ "parecidas": [
+  {
+   "nome": "Deep Purple",
+   "deezer": 864,
+   "fas": 2026018,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/7e0f1ed0bd551dd9d8941bd9f21271b2/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "ZZ Top",
+   "deezer": 2703,
+   "fas": 1514557,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/683b6ea36dced9f6719cf5ac7e92b146/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Molly Hatchet",
+   "deezer": 73502,
+   "fas": 14383,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ba488f946639e8da5fa6c772ff9d9160/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Aerosmith",
+   "deezer": 1005,
+   "fas": 5349167,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ccf17d65bed9b9809b556debb10fc3a3/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Rolling Stones",
+   "deezer": 11,
+   "fas": 7130031,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/cac467bef484959b4ad503c4cb7ef83d/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "George Thorogood & The Destroyers",
+   "deezer": 820,
+   "fas": 32509,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ef3a5ad96dd91f588ab17af83267579c/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Who",
+   "deezer": 817,
+   "fas": 2178815,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/70cab291e726920ad9fcf7573cb9736d/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Black Crowes",
+   "deezer": 2168,
+   "fas": 81068,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/706af33605b63bd4dc5ee8ad7747ebac/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Bad Company",
+   "deezer": 3613,
+   "fas": 101944,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/bf978db1b094a5ca1efe4a4894d0a803/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Status Quo",
+   "deezer": 694,
+   "fas": 160811,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/bd4e39803b43e53f70a3fe3a8300db7c/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Tom Petty and the Heartbreakers",
+   "deezer": 2110,
+   "fas": 234763,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/76a12d46d557f75b9676c6ae2729ed3c/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "John Fogerty",
+   "deezer": 2140,
+   "fas": 52432,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/0161c167e39b159255729718189a2258/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Creedence Clearwater Revival",
+   "deezer": 2468,
+   "fas": 1606006,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/3854c0eca16431e26987bf515f83d364/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Outlaws",
+   "deezer": 7531,
+   "fas": 9408,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/16f497b8533dd57675d82f84d007b1ec/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jimi Hendrix",
+   "deezer": 849,
+   "fas": 4273442,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2deec542fc75d5691434c407ee077ff7/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Free",
+   "deezer": 7525,
+   "fas": 51913,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/e40f9f4e27f806178dbaf72f29369293/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Steppenwolf",
+   "deezer": 1172,
+   "fas": 245949,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/9fd3e94857f8ce52f44d1facadfd3709/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Led Zeppelin",
+   "deezer": 848,
+   "fas": 5561841,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2cf138b96a63da677ac6fb79846607c8/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Thin Lizzy",
+   "deezer": 2139,
+   "fas": 166092,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/32779c7e1946ab7027e1f74535c70d61/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Doors",
+   "deezer": 847,
+   "fas": 3815823,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/94d0bdcebb2840d36ccf63e9edde540a/250x250-000000-80-0-0.jpg"
+  }
+ ],
+ "albuns": {
+  "33446893-8c9f-30b6-aa73-d719df371430": {
+   "id": 320928987,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/d1d9c86697131fc5b4aeddc8bd62a4dc/250x250-000000-80-0-0.jpg"
+  },
+  "cbff20dc-1ed7-3579-9a60-c705e88bdf19": {
+   "id": 259213,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/cb598b74c472e3489c2d8773886295a6/250x250-000000-80-0-0.jpg"
+  },
+  "0174d5c3-5c7a-330f-aafe-ac7f0eef58d5": {
+   "id": 258894,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/6af6b0619b8cfe90f158319ad0e9e590/250x250-000000-80-0-0.jpg"
+  },
+  "4401bb2f-ca47-3091-9655-b5494a9b891b": {
+   "id": 122368,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/986c8030d3dfd463b7061a0acc0d2a2e/250x250-000000-80-0-0.jpg"
+  },
+  "b4592c16-10ff-38b1-8d56-16db4c0c0627": {
+   "id": 70469052,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/c7763b06696bf2bf60f806fb094e7f35/250x250-000000-80-0-0.jpg"
+  },
+  "9e07e583-4e1d-3efc-85e8-60ed0f15afda": {
+   "id": 512498,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5c88066433d2a962dc7138e6b6c00c82/250x250-000000-80-0-0.jpg"
+  },
+  "69d38d03-61b3-34ea-baf1-3b44dfe79c07": {
+   "id": 364432,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5fdfd27722a9f41543209af84b50090f/250x250-000000-80-0-0.jpg"
+  },
+  "91ed07ef-f1c7-3fa7-8235-608cdb13c0b1": {
+   "id": 11675066,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5afe4df46d422d8489d1196c2341483b/250x250-000000-80-0-0.jpg"
+  },
+  "075d9516-7725-3e61-bf57-a22053ae9948": {
+   "id": 901424562,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/58916087e114e472811028d915b23e5d/250x250-000000-80-0-0.jpg"
+  },
+  "ce139d5a-012a-3091-a1af-5f44909eaf72": {
+   "id": 901424422,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/7d91ce6131bf8e2b3c79eee0fbd3042e/250x250-000000-80-0-0.jpg"
+  },
+  "ad845b39-e68c-3ddc-8938-1ce0f2304226": {
+   "id": 904925472,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/bdea67d1eefc3aaac05efc32ea703af5/250x250-000000-80-0-0.jpg"
+  },
+  "54509acd-3e77-48da-ab6b-32875576ac71": {
+   "id": 398795,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/c910e80025c6ab6e6de65d5aa8ef2d84/250x250-000000-80-0-0.jpg"
+  },
+  "aa9b21e4-dc12-424f-89f2-9ab63b5e619c": {
+   "id": 3853031,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/dbbc0e563182a7947fe14473b80049f4/250x250-000000-80-0-0.jpg"
+  }
+ }
+}

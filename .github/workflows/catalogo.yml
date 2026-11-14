@@ -1,4 +1,4 @@
-name: Catálogo semanal (álbuns novos)
+name: Catálogo semanal (álbuns novos e bandas pedidas)
 
 on:
   schedule:
@@ -23,11 +23,19 @@ jobs:
           path: .cache
           key: respostas-${{ github.run_id }}
           restore-keys: respostas-
-      - run: python scripts/montar_catalogo.py --renovar
+      - name: Discografias (e bandas pedidas no app)
+        run: python scripts/montar_catalogo.py --renovar --pedidos
+      - name: Deezer (player, capas reserva, parecidas)
+        run: python scripts/enriquecer_deezer.py
+      - name: Listas famosas e prêmios
+        run: python scripts/listas_e_premios.py
       - name: Grava se mudou
         run: |
           git config user.name "discoteca-bot"
           git config user.email "discoteca-bot@users.noreply.github.com"
+          git add catalogo deezer extras.json bandas.txt
+          git stash
           git pull --rebase
-          git add catalogo
-          git diff --cached --quiet || (git commit -m "Catálogo: álbuns novos" && git push)
+          git stash pop
+          git add catalogo deezer extras.json bandas.txt
+          git diff --cached --quiet || (git commit -m "Catálogo: álbuns e bandas novas" && git push)
