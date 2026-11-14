@@ -9,7 +9,7 @@ import streamlit as st
 import streamlit.components.v1 as componentes
 
 import banco
-from catalogo import albuns_por_id, carregar, slug
+from catalogo import albuns_por_id, carregar, slug, versao_dos_dados
 from estilo import CSS, anos, capa, chips, data_br, enderecos, foto_banda, html, links_ouvir, nota_fmt, situacao
 
 st.set_page_config(page_title="Discoteca", page_icon="💿", layout="wide")
@@ -43,7 +43,7 @@ def pedir_senha() -> None:
 
 pedir_senha()
 banco.iniciar()
-BANDAS = carregar()
+BANDAS = carregar(versao_dos_dados())
 ALBUNS = albuns_por_id(BANDAS)
 POR_DEEZER = {b["deezer"]: b["id"] for b in BANDAS.values() if b.get("deezer")}
 if st.session_state.get("somente_leitura"):

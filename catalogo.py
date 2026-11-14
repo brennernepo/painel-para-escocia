@@ -2,7 +2,9 @@
 (textos/*.json) e dos dados do Deezer (deezer/*.json, de scripts/enriquecer_deezer.py). Textos e Deezer são
 opcionais: sem textos, a bio usa o resumo da Wikipedia; sem Deezer, não há player nem bandas parecidas."""
 
+import hashlib
 import json
+import os
 import re
 import unicodedata
 from datetime import date
@@ -38,8 +40,21 @@ def nota_critica(critica: dict) -> float | None:
     return None
 
 
-@st.cache_data(show_spinner="Abrindo a discoteca…", ttl="6h")
-def carregar() -> dict:
+def versao_dos_dados() -> str:
+    """Impressão digital dos arquivos de dados (nome, tamanho e data). Muda a cada publicação no GitHub, e com ela
+    o cache do carregar() se renova na hora, sem esperar o app reiniciar."""
+    partes = []
+    for pasta in ("catalogo", "textos", "deezer"):
+        if (RAIZ / pasta).exists():
+            partes += [f"{pasta}/{e.name}:{e.stat().st_size}:{e.stat().st_mtime_ns}" for e in os.scandir(RAIZ / pasta)]
+    extras = RAIZ / "extras.json"
+    if extras.exists():
+        partes.append(f"extras:{extras.stat().st_size}:{extras.stat().st_mtime_ns}")
+    return hashlib.md5("|".join(sorted(partes)).encode()).hexdigest()
+
+
+@st.cache_data(show_spinner="Abrindo a discoteca…", ttl="6h", max_entries=2)
+def carregar(versao: str = "") -> dict:  # noqa: ARG001  (versao só serve de chave do cache)
     textos = {}
     for f in (RAIZ / "textos").glob("*.json"):
         textos[f.stem] = json.loads(f.read_text(encoding="utf-8"))
