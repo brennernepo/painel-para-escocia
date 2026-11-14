@@ -1,0 +1,211 @@
+{
+ "artista": {
+  "id": 10462,
+  "fas": 190023,
+  "foto": "https://cdn-images.dzcdn.net/images/artist/519b6a5550a4e36a87190a7953ef3df0/500x500-000000-80-0-0.jpg"
+ },
+ "parecidas": [
+  {
+   "nome": "Chuck Berry",
+   "deezer": 2833,
+   "fas": 733374,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/640aee5b55b61120ea1bcaa1f2cfc216/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Muddy Waters",
+   "deezer": 5414,
+   "fas": 1463244,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/183c51b2b94b0e67a4d47cb9682c9ba1/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Slim Harpo",
+   "deezer": 134184,
+   "fas": 47453,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/83506275e41ffc9e9e66d9ec2099064a/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "John Lee Hooker",
+   "deezer": 1159,
+   "fas": 1379233,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/af4168fa8b9d597e243d911d432a9736/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Howlin' Wolf",
+   "deezer": 8987,
+   "fas": 407381,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/6a71751430f807e0edf44bb31b1aac7a/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Little Richard",
+   "deezer": 4237,
+   "fas": 311771,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/c53b7d18669a0fef856fc2ef5b6cb8f5/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Freddy King",
+   "deezer": 94115,
+   "fas": 3861,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/cac73428907079f38c58ccf0fcb3f4eb/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Lightnin' Hopkins",
+   "deezer": 9521,
+   "fas": 241470,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/c8b13e536c65b0f2b0cb529885e65ee1/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Magic Sam",
+   "deezer": 61695,
+   "fas": 6138,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/5e39152670cf1ac46d045ca73f9bcf5b/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Koko Taylor",
+   "deezer": 8992,
+   "fas": 58938,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d9b0ce2755cf5ac14632b2c320f93447/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "B.B. King",
+   "deezer": 3614,
+   "fas": 1707314,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/973c19d3b87d4f253c0df8f1808f3705/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Elmore James",
+   "deezer": 9522,
+   "fas": 114169,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/6a93582084d8e53a49e837fe66b6375b/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Junior Wells",
+   "deezer": 73559,
+   "fas": 102911,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/9063f505f8710b75a56d3818a6f9de11/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Big Mama Thornton",
+   "deezer": 8989,
+   "fas": 68322,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/297fa72a25e555521318ec8e73f30bda/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Little Walter",
+   "deezer": 5426,
+   "fas": 163072,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d17f0a612b0ba165c3cb59e6e2ba77d6/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Hound Dog Taylor",
+   "deezer": 54289,
+   "fas": 6228,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/0860fe8fda8eea2c3898e34ffc568bc0/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jimmy Reed",
+   "deezer": 62359,
+   "fas": 117327,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/69c60219a64ad170c77bf32294502348/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Professor Longhair",
+   "deezer": 6412,
+   "fas": 6834,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/7bae0933a580024d0c5c780b733ea2f8/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Dr. John",
+   "deezer": 91189,
+   "fas": 36031,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ca2deb3ac6478bbc9b8c373e6e188b41/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Albert King",
+   "deezer": 4192,
+   "fas": 253417,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/9a24bbbdc1b386210f92c12657c81e27/250x250-000000-80-0-0.jpg"
+  }
+ ],
+ "albuns": {
+  "f1cedb26-816f-3815-8489-c317ede4cae0": {
+   "id": 72056882,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/93982fe0471c8a6cd1461ccb23f6c671/250x250-000000-80-0-0.jpg"
+  },
+  "5aff3ef3-68f5-3043-8399-4569b9a3466b": {
+   "id": 84923032,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/75f43130faaa4d25855a9b8873cf75f4/250x250-000000-80-0-0.jpg"
+  },
+  "c1019c55-6e8e-342e-afdc-627ae8ee2fe4": {
+   "id": 11076590,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/73c1bd0697d0656d0f9d4e9d2fb436e9/250x250-000000-80-0-0.jpg"
+  },
+  "ac9ec195-745a-3e3a-bd5f-816942118c6d": {
+   "id": 13030058,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/75293c6aa1c64c8a23f408918ee33ef6/250x250-000000-80-0-0.jpg"
+  },
+  "618df694-d172-327a-8b6e-a695dff37ab0": {
+   "id": 11990696,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/211da2f07941c27dc8cc733983ac7d32/250x250-000000-80-0-0.jpg"
+  },
+  "a450b6c7-2abe-379d-9680-1db92f053f73": {
+   "id": 680465,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/0cc9a866075b09a59467d15fcf89016d/250x250-000000-80-0-0.jpg"
+  },
+  "810e06a0-40e8-4f36-8b17-9f6a94cfc3ff": {
+   "id": 66488432,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/2182500b561d607e044ed83e247903cf/250x250-000000-80-0-0.jpg"
+  },
+  "4427094a-7807-4995-b1d3-3b08b84038b5": {
+   "id": 11990700,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/0bb4790e44b1b4a9fdcad1fb22638887/250x250-000000-80-0-0.jpg"
+  },
+  "68e37d0a-da3a-4804-bc04-b1baca7607f7": {
+   "id": 7519929,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/1fad4aad019af3491df0e60bbfec2bce/250x250-000000-80-0-0.jpg"
+  },
+  "c9c7c4be-bcaa-4879-9c98-c906d81ecb21": {
+   "id": 714866771,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/9078bbd64e17e7b44e408fac319d4e1e/250x250-000000-80-0-0.jpg"
+  },
+  "10b45add-7b9e-37ee-8dc3-11839f329e46": {
+   "id": 71595292,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/3069748b6b618181fa57f23adf4dd507/250x250-000000-80-0-0.jpg"
+  },
+  "cecc7a47-5057-3407-830e-7e5d61de6a77": {
+   "id": 77653492,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/20a47a89e79a68bd2f1d954eab7b7fc0/250x250-000000-80-0-0.jpg"
+  },
+  "87ffcf17-602c-4262-ac13-f6f6da323db0": {
+   "id": 11990706,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/a404deb019e3510be602646a39afc786/250x250-000000-80-0-0.jpg"
+  },
+  "28268b5e-53c5-475a-a68b-4134b42cfaf1": {
+   "id": 11990710,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/f8dee9cbdf02f20af931577df787901e/250x250-000000-80-0-0.jpg"
+  },
+  "a4930bbe-5888-4541-9b39-2a97bba8f8eb": {
+   "id": 11994158,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/8e7f9b3b632f965abbf6e5d524e470f3/250x250-000000-80-0-0.jpg"
+  },
+  "022ef855-b8bf-3644-9e90-18b9c6012653": {
+   "id": 11148776,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/3fe0c74ff62bb4110f2abd7c2d210c13/250x250-000000-80-0-0.jpg"
+  },
+  "77f55ee4-b34a-388e-8354-b622d0b38bc9": {
+   "id": 11990714,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/0ba27253e18bc5f1b2d9a27585161c7d/250x250-000000-80-0-0.jpg"
+  },
+  "714c7d76-28e6-4c57-a9c4-80707afb2098": {
+   "id": 497474,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/8bf5441d3f5eb8f0b700c6949c14a09d/250x250-000000-80-0-0.jpg"
+  },
+  "0c56bb81-a546-4410-9566-2425ef19e06f": {
+   "id": 497473,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5d9b87607dabcf32c663f57c0d053919/250x250-000000-80-0-0.jpg"
+  },
+  "96b0b2d1-f3e4-3935-a9f9-99d9646c94e9": {
+   "id": 611652,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/b3fe95352c2c7c64110a568f298521de/250x250-000000-80-0-0.jpg"
+  }
+ }
+}
