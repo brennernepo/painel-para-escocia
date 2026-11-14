@@ -105,9 +105,9 @@ def foto_banda(b: dict, classe: str = "foto") -> str:
 
 
 def capa(a: dict, classe: str = "capa", link: str | None = None) -> str:
-    """Capa do Cover Art Archive (a edição certa) por cima da do Deezer (mais rápida), sobre um fundo de vinil.
+    """Capa do Deezer (rápida) por cima da do Cover Art Archive (reserva), sobre um fundo de vinil.
     Com link, a capa abre o álbum para ouvir."""
-    moldura = f'<div class="moldura vinil {classe}"><span>💿</span>{_imagens(a.get("capa_reserva"), a.get("capa"))}</div>'
+    moldura = f'<div class="moldura vinil {classe}"><span>💿</span>{_imagens(a.get("capa"), a.get("capa_reserva"))}</div>'
     if not link:
         return moldura
     return f'<a class="capa-link" href="{escape(link)}" target="_blank" title="Ouvir">{moldura}</a>'

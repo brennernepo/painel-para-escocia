@@ -68,6 +68,20 @@ def abrir_banda(banda_id: str) -> None:
     st.switch_page(PAGINAS["banda"])
 
 
+def abrir_album(album_id: str) -> None:
+    st.session_state.album_id = album_id
+    st.switch_page(PAGINAS["album"])
+
+
+def album_sugerido(b: dict) -> dict | None:
+    """Por onde começar a banda; se você já ouviu esse, o melhor que ainda falta."""
+    porta = ALBUNS.get(b.get("porta_de_entrada") or "")
+    if porta and not banco.album(porta["id"]).get("escutei"):
+        return porta
+    faltam = [a for a in b["albuns"] if not a["futuro"] and not banco.album(a["id"]).get("escutei")]
+    return max(faltam, key=lambda a: (a["nota_critica"] or 0) + 0.7 * len(a.get("listas", [])), default=None)
+
+
 def iniciar_chave(chave: str, valor) -> None:
     if chave not in st.session_state:
         st.session_state[chave] = valor
@@ -190,6 +204,7 @@ def bloco_album(a: dict, banda: dict, com_banda: bool = False) -> None:
         meta = " · ".join(x for x in (a.get("data", "")[:4], f"{len(a['faixas'])} faixas" if a["faixas"] else "",
                                        f"{a['duracao_min']} min" if a.get("duracao_min") else "") if x)
         nome_banda = f'<div class="album-meta" style="color:var(--ambar)">{escape(banda["nome"])}</div>' if com_banda else ""
+        c_capa.button("Página do álbum", key=f"pag_{a['id']}", on_click=abrir_album, args=(a["id"],), width="stretch")
         curio = f'<div class="album-curio">💡 {escape(a["curiosidade"])}</div>' if a.get("curiosidade") else ""
         c_info.html(f'{nome_banda}<div class="album-titulo">{escape(a["titulo"])}</div>'
                     f'<div class="album-meta">{escape(meta)}</div>{chips_album(a)}{curio}'
@@ -226,8 +241,13 @@ def cartao_banda(b: dict, col, contexto: str, porque: str = "", acoes: bool = Fa
         f'<div class="barra"><i style="width:{(e["escutados"] / total * 100) if total else 0:.0f}%"></i></div>'
         f'<div class="meta">{e["escutados"]} de {total} escutados</div>{porque_html}</div></div>'
     )
+    sugerido = album_sugerido(b)
+    if sugerido:
+        titulo = sugerido["titulo"] if len(sugerido["titulo"]) <= 26 else sugerido["titulo"][:25] + "…"
+        col.button(f"💿 {titulo}", key=f"sug_{contexto}_{b['id']}", on_click=abrir_album, args=(sugerido["id"],),
+                   width="stretch", help="Abrir o álbum sugerido para começar (ou o próximo que falta)")
     c1, c2 = col.columns(2)
-    c1.button("Abrir", key=f"abrir_{contexto}_{b['id']}", on_click=abrir_banda, args=(b["id"],), width="stretch")
+    c1.button("Banda", key=f"abrir_{contexto}_{b['id']}", on_click=abrir_banda, args=(b["id"],), width="stretch")
     c2.button("✓ Na lista" if e["lista"] else "＋ Lista", key=f"lista_{contexto}_{b['id']}", on_click=alternar_lista,
               args=(b["id"],), width="stretch", help="Coloca a banda em Minhas bandas, para ouvir")
     if acoes:
@@ -422,6 +442,59 @@ def pagina_minhas() -> None:
             grade_bandas(sorted(lista, key=lambda b: b["nome"].lower().removeprefix("the ")), f"minhas_{titulo}")
 
 
+def pagina_album() -> None:
+    aid = st.session_state.get("album_id") or st.query_params.get("id")
+    if aid not in ALBUNS:
+        opcoes = sorted(ALBUNS, key=lambda i: (BANDAS[ALBUNS[i]["banda_id"]]["nome"].lower(), ALBUNS[i]["data"]))
+        aid = st.selectbox("Álbum", opcoes, index=None, placeholder="Busque um álbum pelo nome ou pela banda",
+                           format_func=lambda i: f"{ALBUNS[i]['titulo']} · {BANDAS[ALBUNS[i]['banda_id']]['nome']} ({ALBUNS[i]['ano']})")
+        if not aid:
+            st.caption("Ou use o botão “Álbum” em qualquer sugestão.")
+            return
+    st.session_state.album_id = aid
+    st.query_params["id"] = aid  # o endereço da página fica guardável
+    a = ALBUNS[aid]
+    b = BANDAS[a["banda_id"]]
+    links = enderecos(b["nome"], a)
+    c_capa, c_info = st.columns([1.15, 2.6], gap="large")
+    c_capa.html(capa(a, link=links["Spotify"]))
+    c_capa.button(f"🎸 {b['nome']}", key="alb_banda", on_click=abrir_banda, args=(b["id"],), width="stretch")
+    meta = " · ".join(x for x in (data_br(a.get("data", "")), f"{len(a['faixas'])} faixas" if a["faixas"] else "",
+                                   f"{a['duracao_min']} min" if a.get("duracao_min") else "") if x)
+    curio = f'<div class="curiosidade">💡 {escape(a["curiosidade"])}</div>' if a.get("curiosidade") else ""
+    c_info.html(f'<div class="album-meta" style="color:var(--ambar);font-size:15px">{escape(b["nome"])}</div>'
+                f'<div class="cabeca" style="margin:0"><div class="nome" style="font-size:52px">{escape(a["titulo"])}</div></div>'
+                f'<div class="album-meta">{escape(meta)}</div>{chips_album(a)}{curio}{links_ouvir(b["nome"], a)}')
+    player(a, c_info)
+    if a.get("resumo_en"):
+        with c_info.expander("Sobre o disco (Wikipedia, em inglês)"):
+            st.write(a["resumo_en"])
+    c_faixas, c_meu = st.columns([2.2, 1.6], gap="large")
+    with c_faixas:
+        html('<div class="rotulo">Faixas</div>')
+        if a["faixas"]:
+            fav = banco.album(a["id"]).get("faixa_favorita")
+            st.html('<div class="faixas" style="columns:1">' + "".join(
+                f'<div><b>{f["n"]}</b>{"❤ " if f["titulo"] == fav else ""}{escape(f["titulo"])} <span>{f["duracao"] or ""}</span></div>'
+                for f in a["faixas"]) + "</div>")
+        else:
+            st.caption("Sem a lista de faixas no MusicBrainz.")
+    with c_meu:
+        html('<div class="rotulo">Para você</div>')
+        controles_album(a)
+    outros = [x for x in b["albuns"] if x["id"] != a["id"] and not x["futuro"]]
+    if outros:
+        html(f'<div class="rotulo">Mais de {escape(b["nome"])}</div>')
+        outros.sort(key=lambda x: (bool(banco.album(x["id"]).get("escutei")),
+                                   -((x["nota_critica"] or 0) + 0.7 * len(x.get("listas", [])))))
+        grade_mini(outros[:6], "alb_mais")
+    vizinhos = [BANDAS[i] for i in dict.fromkeys(no_acervo(p) for p in b["parecidas"]) if i and i != b["id"]]
+    sugestoes = [x for x in (album_sugerido(v) for v in vizinhos) if x][:6]
+    if sugestoes:
+        html('<div class="rotulo">Se você curtir, experimente</div>')
+        grade_mini(sugestoes, "alb_viz", {x["id"]: "de uma banda parecida" for x in sugestoes})
+
+
 def gosto_por_banda() -> dict:
     """Quanto você gosta de cada banda: a marcação explícita, senão a média das suas notas."""
     saida = {}
@@ -441,10 +514,12 @@ def mini_album(a: dict, col, contexto: str, extra: str = "") -> None:
     col.html(f'<div class="mini">{capa(a, "", ouvir)}<div><div class="t">{escape(a["titulo"])}</div>'
              f'<div class="s">{escape(b["nome"])} · {a["ano"]}</div><div class="s">{critica}{escape(extra)}</div>'
              f'{links_ouvir(b["nome"], a, compacto=True)}</div></div>')
-    c1, c2 = col.columns(2)
+    c0, c1, c2 = col.columns(3)
+    c0.button("Álbum", key=f"alb_{contexto}_{a['id']}", on_click=abrir_album, args=(a["id"],), width="stretch",
+              type="primary", help="Ver tudo sobre o álbum")
     chave = f"fila_{contexto}_{a['id']}"
     na_fila = bool(banco.album(a["id"]).get("quero_ouvir"))
-    if c1.button("✓ Na fila" if na_fila else "+ Fila", key=chave, width="stretch", disabled=na_fila):
+    if c1.button("✓ Fila" if na_fila else "+ Fila", key=chave, width="stretch", disabled=na_fila):
         banco.salvar_album(a["id"], a["banda_id"], quero_ouvir=True)
         st.session_state[f"quero_ouvir_{a['id']}"] = True
         st.rerun()
@@ -671,7 +746,8 @@ PAGINAS = {
     "minhas": st.Page(pagina_minhas, title="Minhas bandas", icon="⭐", url_path="minhas"),
     "acervo": st.Page(pagina_acervo, title="Acervo", icon="🗂️", url_path="acervo"),
     "descobrir": st.Page(pagina_descobrir, title="Descobrir", icon="🧭", url_path="descobrir"),
-    "banda": st.Page(pagina_banda, title="Banda", icon="💿", url_path="banda"),
+    "banda": st.Page(pagina_banda, title="Banda", icon="🎸", url_path="banda"),
+    "album": st.Page(pagina_album, title="Álbum", icon="💿", url_path="album"),
     "numeros": st.Page(pagina_numeros, title="Números", icon="📊", url_path="numeros"),
 }
 st.navigation(list(PAGINAS.values()), position="top").run()
