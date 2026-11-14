@@ -1,0 +1,167 @@
+{
+ "artista": {
+  "id": 3509,
+  "fas": 73352,
+  "foto": "https://cdn-images.dzcdn.net/images/artist/8826d7e991d30584735f44ad8f481678/500x500-000000-80-0-0.jpg"
+ },
+ "parecidas": [
+  {
+   "nome": "Grateful Dead",
+   "deezer": 1785,
+   "fas": 137050,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d51feb526a4e24158e969118a04b761d/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Byrds",
+   "deezer": 2939,
+   "fas": 71389,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/8b9c6dc5a1e9a8cb0d37048de50e7f78/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Van Morrison",
+   "deezer": 2798,
+   "fas": 206566,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/3deb1cc413dc54461e712dd1bf55b8ec/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Buffalo Springfield",
+   "deezer": 905,
+   "fas": 47820,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ff49b8faff6041f9ec089df561c361f7/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Leon Russell",
+   "deezer": 211312,
+   "fas": 8527,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/f22e9dbf482f680b4514f4ce2b22890f/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Little Feat",
+   "deezer": 65998,
+   "fas": 12329,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/8e28b9306bd67ac20261c6a82d800805/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jefferson Airplane",
+   "deezer": 1723,
+   "fas": 220902,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/b73c40ef4033305a6a6c89b5cca87f8e/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Neil Young",
+   "deezer": 1379,
+   "fas": 837127,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/bdcc1dcee778e55db22c7d0ab011f964/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Stephen Stills",
+   "deezer": 13627,
+   "fas": 15004,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/1320242cdea9e9649ce3eb4b9ace4408/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Arlo Guthrie",
+   "deezer": 4341,
+   "fas": 5457,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ed7e9ab96f3d36e4b40cc715535a8cda/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Crosby, Stills, Nash & Young",
+   "deezer": 5367,
+   "fas": 169383,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/b5666d41952a635930fc860448067c7b/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jackson Browne",
+   "deezer": 12892,
+   "fas": 48745,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/9e8b25ace385cfa418da8557e9543f48/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Steve Miller Band",
+   "deezer": 3351,
+   "fas": 101803,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/5c2dba9849a0f03e1eb03461d8f54bca/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Crosby, Stills & Nash",
+   "deezer": 6205,
+   "fas": 85602,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/05c358fce0a2e154b9eb46fc128601a5/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Traffic",
+   "deezer": 6126,
+   "fas": 29750,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/5d7eba5ee4c9ef95a7aa1950a3cfc257/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Faces",
+   "deezer": 2444,
+   "fas": 21752,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/445c0caf2b9c874e07af682e2c4e7b0c/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Flying Burrito Brothers",
+   "deezer": 81173,
+   "fas": 4602,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/6d020881e5c7773cd10fc7e348bcf698/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Kinks",
+   "deezer": 1415,
+   "fas": 677935,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/72b207adbd41f6ae13b84c041e8f965f/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Tom Petty and the Heartbreakers",
+   "deezer": 2110,
+   "fas": 234766,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/76a12d46d557f75b9676c6ae2729ed3c/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Canned Heat",
+   "deezer": 2105,
+   "fas": 231648,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/da7df1dae1f0af4d94c1200e2bfdc626/250x250-000000-80-0-0.jpg"
+  }
+ ],
+ "albuns": {
+  "466fddac-8006-3e71-bbe7-7aa0f587aa88": {
+   "id": 65988822,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/7468be4342899b7aa14d87b575185f49/250x250-000000-80-0-0.jpg"
+  },
+  "ea337405-285f-3846-9049-5e3addf149fc": {
+   "id": 118372932,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/00fe65585fab893557a9c6d0bf75c959/250x250-000000-80-0-0.jpg"
+  },
+  "37643e8a-5494-3004-be73-de57a34cd45b": {
+   "id": 300119,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/2b27775c44f8a8832c72ca22817aa6ac/250x250-000000-80-0-0.jpg"
+  },
+  "7aba7905-7196-3583-b2c5-3e19a2b334c8": {
+   "id": 277270792,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/087262a6452251eec0e61068a46e563f/250x250-000000-80-0-0.jpg"
+  },
+  "e6ea8405-8677-3aa2-bfe2-c3ea3a4c3b89": {
+   "id": 309378,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/b0d0f461cefc15df13bcc1b0d81f2a7c/250x250-000000-80-0-0.jpg"
+  },
+  "47873729-6db0-3431-99e7-0292e939dadf": {
+   "id": 6710434,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/0c6802d32171f912466e1450998bbe78/250x250-000000-80-0-0.jpg"
+  },
+  "ca1fec34-23ea-37d6-ab70-5aa238224e09": {
+   "id": 309377,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/6a93182f13e115a6ae4138ad4c46c080/250x250-000000-80-0-0.jpg"
+  },
+  "44679673-e336-3f32-b441-a1565aa8545c": {
+   "id": 309379,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/cd0cf5ade82d205303270c281273149e/250x250-000000-80-0-0.jpg"
+  },
+  "91ddd51a-522d-3bc9-a94f-82dfc88a495a": {
+   "id": 6457462,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5c26c8f5854299737ab737507a759fe7/250x250-000000-80-0-0.jpg"
+  }
+ }
+}

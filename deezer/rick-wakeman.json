@@ -1,0 +1,379 @@
+{
+ "artista": {
+  "id": 16090,
+  "fas": 20750,
+  "foto": "https://cdn-images.dzcdn.net/images/artist/415e9d61e3fcdc4db8b916db204dc1c3/500x500-000000-80-0-0.jpg"
+ },
+ "parecidas": [
+  {
+   "nome": "Emerson, Lake & Palmer",
+   "deezer": 3612,
+   "fas": 136189,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jethro Tull",
+   "deezer": 2888,
+   "fas": 281170,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Yes",
+   "deezer": 2711,
+   "fas": 314616,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/000bf505abef3d1d34a19502f2609bda/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Camel",
+   "deezer": 12826,
+   "fas": 52384,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Renaissance",
+   "deezer": 64346,
+   "fas": 14014,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/a560436962f51f513ab6b5d01645d218/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Triumvirat",
+   "deezer": 215161,
+   "fas": 4992,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/0e94e1abdd88ebb35694b50860b85801/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Greg Lake",
+   "deezer": 182961,
+   "fas": 7302,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/47501f80a94b8afe3e6feced898bcaa5/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Steve Hackett",
+   "deezer": 3406,
+   "fas": 30496,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/7601d5d03abaac52edab24bc8d6f9e6b/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Marillion",
+   "deezer": 2893,
+   "fas": 132965,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jon Anderson",
+   "deezer": 16251,
+   "fas": 13668,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ba432bd6930117921e5c06f883c29d4b/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Manfred Mann's Earth Band",
+   "deezer": 1929,
+   "fas": 24391,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2f978a163db5580883f569a4835dc79a/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Kansas",
+   "deezer": 1385,
+   "fas": 377920,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/0f08bbef7a986ec1a26e8207949e2132/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Barclay James Harvest",
+   "deezer": 3328,
+   "fas": 32536,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/27d37a399e25fc6ce2662cfa69f45105/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Eloy",
+   "deezer": 9629058,
+   "fas": 8962,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/5d67561b2c9c767a5ca6d1c168ee887d/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Moody Blues",
+   "deezer": 4212,
+   "fas": 96847,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/fe377c495aa733b37416728a9d2efc2d/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Alan Parsons Project",
+   "deezer": 3702,
+   "fas": 300621,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/af46e70955352ba02b2b30da3c9cc754/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Chris Squire",
+   "deezer": 266649,
+   "fas": 6237,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/f73cfadfaafb846d8a9c238b41189803/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Pete Townshend",
+   "deezer": 5432,
+   "fas": 18260,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/8135ae1dd11186e5e3c2a518139838fd/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "America",
+   "deezer": 108459562,
+   "fas": 111,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d41d8cd98f00b204e9800998ecf8427e/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "John Wetton",
+   "deezer": 201896,
+   "fas": 1806,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/3f4cb136f7512ca98ad57a052d95da29/250x250-000000-80-0-0.jpg"
+  }
+ ],
+ "albuns": {
+  "8bf143fb-36fe-360e-87f4-3e715a8450a3": {
+   "id": 138421872,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/fc13a480824629489d50daf870f7234e/250x250-000000-80-0-0.jpg"
+  },
+  "cb14fed2-62ab-352e-98d9-8ad5f866df65": {
+   "id": 321120977,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/afa0caa149cfdefb35da6fe5054f8f84/250x250-000000-80-0-0.jpg"
+  },
+  "a3601b23-ff56-32fb-bc39-bf6e666779b2": {
+   "id": 9640570,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/a43f9eb9af8f314003521d09314ff2ad/250x250-000000-80-0-0.jpg"
+  },
+  "e3b82e3f-b3cf-3665-8f78-0699456c63a5": {
+   "id": 14780667,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/27f396aa8f8c05a68a20fbf61e8458df/250x250-000000-80-0-0.jpg"
+  },
+  "06c537c8-311b-3c6d-a570-587420542358": {
+   "id": 321186217,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/098b5e4fa4cd9023470e400cd1f79fbb/250x250-000000-80-0-0.jpg"
+  },
+  "51c9bc79-235e-368b-9c64-b50adc506074": {
+   "id": 11603336,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/4829c89cf926b1f98de2baeb3e72ddf2/250x250-000000-80-0-0.jpg"
+  },
+  "056a58d1-a3b9-34f8-abf7-c55ce2da9cb6": {
+   "id": 6023702,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/d6144465a2a7ba25d97b5390a6d55e44/250x250-000000-80-0-0.jpg"
+  },
+  "98699988-0cfa-35a8-a12c-034d0f4e11b4": {
+   "id": 139728492,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/d0b0ce9c86f0aca89318fb557862c2ac/250x250-000000-80-0-0.jpg"
+  },
+  "ff9cca19-cabb-3155-995e-7c6b71cd203d": {
+   "id": 144057652,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/e6722faa9a5ed22922984cace5501a47/250x250-000000-80-0-0.jpg"
+  },
+  "59c8fde5-6d5d-3e51-b90c-499de1ff724b": {
+   "id": 142269752,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/cee7dbabcdaa2b2ffaa2e38c60c9a097/250x250-000000-80-0-0.jpg"
+  },
+  "94290d7b-3eac-3776-b378-2324d3adee94": {
+   "id": 1042919,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/82dc8ae85c08736a32896887cf0e1dc3/250x250-000000-80-0-0.jpg"
+  },
+  "ab9a477f-58d4-3d53-826e-c22f54f74bf4": {
+   "id": 6268874,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/131073d349e470d3625863a84c7c5ce6/250x250-000000-80-0-0.jpg"
+  },
+  "06f78feb-8ff9-389b-a88a-d6d8418189be": {
+   "id": 6261956,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/1b214a14aed860ad02f3b802cfa80d54/250x250-000000-80-0-0.jpg"
+  },
+  "90341eb7-8dce-4150-a369-cc7b49913db8": {
+   "id": 231934,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/833e2f308eec01a420c379e80e6fa682/250x250-000000-80-0-0.jpg"
+  },
+  "ca9a067d-5135-32ab-9f4e-7f309a5471a5": {
+   "id": 6284505,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/fb36cb3c66310426e2967e9b8c1411ad/250x250-000000-80-0-0.jpg"
+  },
+  "f842f5ed-2278-3d89-9013-18012678b321": {
+   "id": 382274257,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/248640b61b4bbe9275b3089b20e95921/250x250-000000-80-0-0.jpg"
+  },
+  "f4d17cb8-1923-327f-904b-bef11343296c": {
+   "id": 6252370,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/f7732cc217394a6a8c9db7bc849d7915/250x250-000000-80-0-0.jpg"
+  },
+  "002e87fe-b2be-3580-bd02-f491ac824977": {
+   "id": 145782892,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/537e7c153720b5b1a4739e1b27bd6a2e/250x250-000000-80-0-0.jpg"
+  },
+  "03da860b-4d6e-313e-9ddb-9e0ee15e79d2": {
+   "id": 145782832,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/3bacb5e5b6fb7f1413fce101ba32d4ec/250x250-000000-80-0-0.jpg"
+  },
+  "9c0f110c-7dba-3189-b5c2-d91af09cb7a3": {
+   "id": 6251705,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/f1915fff67fabc8382f0644fc6d2899c/250x250-000000-80-0-0.jpg"
+  },
+  "21dfc34a-0b35-30ea-971f-d4665859d784": {
+   "id": 140422512,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/02eb561609f4fcc267f5d462f20a7435/250x250-000000-80-0-0.jpg"
+  },
+  "846691af-421e-3795-b23d-b48197a4923f": {
+   "id": 145777872,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/4631a26599a5e05739e79431739bbf3d/250x250-000000-80-0-0.jpg"
+  },
+  "08160ec4-c7a7-338b-b41f-f3cc0365dae6": {
+   "id": 1042924,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/851aab0c2554a82185cf657ebdb45ba7/250x250-000000-80-0-0.jpg"
+  },
+  "e64bcb0d-1028-36db-bbca-3d24dfd39108": {
+   "id": 141148132,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/e6413b1e169ec11f72aadcb40b61d00f/250x250-000000-80-0-0.jpg"
+  },
+  "9b438d0c-1152-3bff-b1fa-e9c325d6986e": {
+   "id": 151013682,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/b0c3d045075c8fa572cb425cd93e25ca/250x250-000000-80-0-0.jpg"
+  },
+  "0bcbb124-6fcb-3ca2-8624-14eb0a936f6f": {
+   "id": 1042928,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/e8ad8701d0b18a7bed4301d63a2ed810/250x250-000000-80-0-0.jpg"
+  },
+  "b52e431c-461b-3d0f-8643-903f2a1222bf": {
+   "id": 145777972,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/c29621c819a9a75ad239147632a995ce/250x250-000000-80-0-0.jpg"
+  },
+  "c9d480df-4b5f-3ffc-873f-bc7ee5594889": {
+   "id": 6286201,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/909e71c576b60230388eb5c4b4637bd9/250x250-000000-80-0-0.jpg"
+  },
+  "ef8220ae-548b-32d0-9377-459cbc5efe1f": {
+   "id": 15167113,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/ac6aacc364f914a048db689151429f2f/250x250-000000-80-0-0.jpg"
+  },
+  "b1010980-ad2e-4da8-a572-beba997299fe": {
+   "id": 159845672,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/eb529adad197925f9cbf6fa8464b7704/250x250-000000-80-0-0.jpg"
+  },
+  "cf298549-ab18-44f4-b364-45b61117a57b": {
+   "id": 159837952,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/18296e7a44513f10e3b1edb379a75860/250x250-000000-80-0-0.jpg"
+  },
+  "febea56a-de92-4af8-bf2b-72ab37ff87fa": {
+   "id": 142539282,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/fea57cf84100f64a916b18445f16aaf8/250x250-000000-80-0-0.jpg"
+  },
+  "74917485-af32-3fbf-b907-909f82f45e1b": {
+   "id": 151052412,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/6fd88947d3e05a0b91cb8a1fcabc67ab/250x250-000000-80-0-0.jpg"
+  },
+  "f21ef433-48bc-329d-8389-9300c479618c": {
+   "id": 158471512,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/36445dba4a6802344702c67a9b121cf1/250x250-000000-80-0-0.jpg"
+  },
+  "34a7a5fc-28de-33dc-8795-3765111242a8": {
+   "id": 1042930,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/79787149387a11bcb33e5b0835e1bb57/250x250-000000-80-0-0.jpg"
+  },
+  "a7d1faf2-6ca8-3e23-95a5-bf83ea96b2b6": {
+   "id": 159130392,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/902b33e7eb3550f998ac38c14bb8959c/250x250-000000-80-0-0.jpg"
+  },
+  "b5899b0b-7deb-32ee-a43e-8a7261ac4cff": {
+   "id": 299672,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/a74d01ba38a9c0a06e38c24de3f7318f/250x250-000000-80-0-0.jpg"
+  },
+  "96f1c225-3d3f-3649-83fe-8184bc27dad9": {
+   "id": 158153862,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/ff8e697d07334a30060471ebda2da254/250x250-000000-80-0-0.jpg"
+  },
+  "09313d5d-9833-43e9-9957-3c070635e43d": {
+   "id": 150001322,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/6edaf284e7f528733d1c695e07106efc/250x250-000000-80-0-0.jpg"
+  },
+  "7ef0e763-6caa-3914-9800-eb5b73cb57fe": {
+   "id": 6259419,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/190e09b4e5e424ae1aa519777369c7a1/250x250-000000-80-0-0.jpg"
+  },
+  "b5e8c4a0-d358-30b3-b233-3f81af58e391": {
+   "id": 190471,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/bd9b5445062a0c1947180d15eb63fd6c/250x250-000000-80-0-0.jpg"
+  },
+  "6d88a8f7-a322-309f-af3f-869020f61311": {
+   "id": 6284507,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/a792dfa4f03e4b4fde4e4778f4055706/250x250-000000-80-0-0.jpg"
+  },
+  "9bc72346-0318-4756-9b61-6cff64c527a7": {
+   "id": 1042931,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/032aa2d430fa22929cbe98f086904a1d/250x250-000000-80-0-0.jpg"
+  },
+  "a4c7bb7d-5dfb-32e8-b42e-f9a1a221292b": {
+   "id": 136810902,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/2944b3bea604a0eac6e77106f543cdb2/250x250-000000-80-0-0.jpg"
+  },
+  "8a88052d-1c90-489b-9018-c1c806158b89": {
+   "id": 74115732,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/966178cd3467f6215b3dc3cb601bf0a2/250x250-000000-80-0-0.jpg"
+  },
+  "fc57c3fd-a67c-3111-be60-e2e12772eddf": {
+   "id": 84305902,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/6aea2a7d74945851988786f8dc6d5985/250x250-000000-80-0-0.jpg"
+  },
+  "db9862b8-df20-4a56-b93d-f372112d42b8": {
+   "id": 145782882,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/813091487c0c3a80464f0e94cd535a53/250x250-000000-80-0-0.jpg"
+  },
+  "a49a84c9-f46d-3d24-98d4-24fa5ac44303": {
+   "id": 142271112,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/821163440f59d68a4e20d100e650f0be/250x250-000000-80-0-0.jpg"
+  },
+  "02b1af0f-465f-3576-8d48-4181c3ef45fc": {
+   "id": 1042932,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/07feb44c42aa35d9545d706d46ae6bed/250x250-000000-80-0-0.jpg"
+  },
+  "59e0eacc-8906-43a6-9da7-bc85a02c4176": {
+   "id": 381685587,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/3a8a8ca24084050e796081b6f3d58399/250x250-000000-80-0-0.jpg"
+  },
+  "f6d3f9f1-9628-3408-a083-33ed63d7283e": {
+   "id": 6290144,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/ac39803087d5f0f5135d412feb136bb4/250x250-000000-80-0-0.jpg"
+  },
+  "13012986-0147-4a41-80fb-b0cbb8a5f906": {
+   "id": 12659364,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/3d092b05b4b6034dba5750e518806e76/250x250-000000-80-0-0.jpg"
+  },
+  "0e8630b2-a5d5-46ce-8fd3-428b3d7bd653": {
+   "id": 151013622,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5f013e397d737661486a591ee6ca4358/250x250-000000-80-0-0.jpg"
+  },
+  "fb7b200b-2bf8-4825-9924-986868bf119c": {
+   "id": 15048077,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/22434b5f65511cd61fd45cbab2edc88e/250x250-000000-80-0-0.jpg"
+  },
+  "157a618f-b057-42c7-988e-244c55ded432": {
+   "id": 139751282,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/55e000f59b314f0b99180b7cce758436/250x250-000000-80-0-0.jpg"
+  },
+  "71ca8a5a-99c1-4795-a5f6-7000ce9f6e5c": {
+   "id": 75108082,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/e5b215045cb33edd35ac6e1083490547/250x250-000000-80-0-0.jpg"
+  },
+  "69b2dfe0-04b2-4ddf-a19d-facb3d7de670": {
+   "id": 118480892,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/f82ee8ce023e03cf4e1f212378186982/250x250-000000-80-0-0.jpg"
+  },
+  "dfacc89c-2268-4803-b6de-cba16157808e": {
+   "id": 159531672,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/059612baa023ec4461a10722083442a7/250x250-000000-80-0-0.jpg"
+  },
+  "e4634518-b82b-4f9d-ae01-a4a1234d93c8": {
+   "id": 386827297,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/f6ecc5765311836f67bdb13419e72f73/250x250-000000-80-0-0.jpg"
+  },
+  "dd881f81-3856-4a01-8349-b3b46f655b4d": {
+   "id": 663256321,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/4d9098c679146f2e6b5903cb14b212a9/250x250-000000-80-0-0.jpg"
+  },
+  "302d180a-b9bb-42bd-a744-7fe4202c344d": {
+   "id": 817907621,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/e3978ed69bc348361d17a3cbfe7d2c9a/250x250-000000-80-0-0.jpg"
+  },
+  "376051aa-5a38-4113-a05b-532698fe653e": {
+   "id": 1027894742,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/1a6c5a72445dcd20c0244d2c40a1c2ef/250x250-000000-80-0-0.jpg"
+  }
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "artista": {
+  "id": 10543,
+  "fas": 123969,
+  "foto": "https://cdn-images.dzcdn.net/images/artist/f79d993f8ad2828c1939b3eed731d89c/500x500-000000-80-0-0.jpg"
+ },
+ "parecidas": [
+  {
+   "nome": "Johnny Winter",
+   "deezer": 4191,
+   "fas": 149229,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d6c03fde3330148ffa56708ba4e295d8/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Ten Years After",
+   "deezer": 7217,
+   "fas": 102291,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/eb83814263eafdf6cd77bb58b1e58fe0/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Derek & The Dominos",
+   "deezer": 149013,
+   "fas": 76622,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d9ae75207ec365d0ac04b30023673885/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "ZZ Top",
+   "deezer": 2703,
+   "fas": 1514576,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/683b6ea36dced9f6719cf5ac7e92b146/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "The Allman Brothers Band",
+   "deezer": 6471,
+   "fas": 133782,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2b7ab923ce200915d782ab21b8bfe24e/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Cream",
+   "deezer": 1796,
+   "fas": 335076,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/4f30efbbba383f4e32f65fc138c12406/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jeff Beck",
+   "deezer": 3084,
+   "fas": 220617,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/d393fa9cb02450280cf22b3cbb33ac78/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Jimi Hendrix",
+   "deezer": 849,
+   "fas": 4273464,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2deec542fc75d5691434c407ee077ff7/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Robin Trower",
+   "deezer": 16403,
+   "fas": 19387,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/dcc15e5100971bd45f4a88e7ddc21731/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Stevie Ray Vaughan & Double Trouble",
+   "deezer": 184546,
+   "fas": 273403,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/afd78634a551d9a71654121b5ea793ec/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Roy Buchanan",
+   "deezer": 66009,
+   "fas": 18249,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/533033fbf3e81bef1f1f679d15841b04/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "John Mayall & The Bluesbreakers",
+   "deezer": 819,
+   "fas": 107564,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/2235e0d30a18cfac4e9e6a6eceabd249/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Taste",
+   "deezer": 13417,
+   "fas": 6555,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/c854fb7f8f8f1832b1c0ee1063986f19/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Alvin Lee",
+   "deezer": 97124,
+   "fas": 42919,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/0767a936ff959c9b9de34c282677e90a/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Humble Pie",
+   "deezer": 5233,
+   "fas": 15791,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/cba8a8e9d5bcc3c7bde15f3bdefe4149/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Free",
+   "deezer": 7525,
+   "fas": 51913,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/e40f9f4e27f806178dbaf72f29369293/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Hot Tuna",
+   "deezer": 5336,
+   "fas": 16162,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/b5ea8a475d7587eef11e7162d55fb718/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Gary Moore",
+   "deezer": 666,
+   "fas": 327775,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/ace1cac32e6c087bdf6498189968e091/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Canned Heat",
+   "deezer": 2105,
+   "fas": 231648,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/da7df1dae1f0af4d94c1200e2bfdc626/250x250-000000-80-0-0.jpg"
+  },
+  {
+   "nome": "Popa Chubby",
+   "deezer": 1793,
+   "fas": 91288,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/cf471d349b073f936a1d3fb187831201/250x250-000000-80-0-0.jpg"
+  }
+ ],
+ "albuns": {
+  "4cc2fc96-c8ec-369d-8db9-b51fa44529f9": {
+   "id": 58738212,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/b2fe5f544fb368c4f1f9b5066942ea64/250x250-000000-80-0-0.jpg"
+  },
+  "a3ad04c2-d906-374b-a080-2a632482572c": {
+   "id": 58736522,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/797a029b811aa13e4b1205ce84634ab0/250x250-000000-80-0-0.jpg"
+  },
+  "99802cfc-8ba3-3047-9a02-a69345dfbb52": {
+   "id": 58737802,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/9c44d2392f803e4989d56ff5f980515f/250x250-000000-80-0-0.jpg"
+  },
+  "a44b1687-4787-36ca-b34e-71ce4dce2cc1": {
+   "id": 58735692,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/fcb8df5d57dda1269a063553a5f1b8d1/250x250-000000-80-0-0.jpg"
+  },
+  "e5e6adaf-eed2-3339-8019-bdbd24be1474": {
+   "id": 58736822,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/de7ebc87a263df0f32e378e9e7dcf8f4/250x250-000000-80-0-0.jpg"
+  },
+  "3a822c2a-924f-3f9a-ba29-f1f02d3c971b": {
+   "id": 58738082,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/01b2cdc44243a9a8a1aa93fdb93408cf/250x250-000000-80-0-0.jpg"
+  },
+  "8ce7000d-2dcd-3fa5-85a7-bbd556b59d43": {
+   "id": 58738892,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/41cfe12cb2cb49d7a6028f3f08906059/250x250-000000-80-0-0.jpg"
+  },
+  "f2695e61-591e-33e7-b705-bcc1cd4e9c64": {
+   "id": 58736402,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/52e15f5c42cffa3af17ab209acb0728a/250x250-000000-80-0-0.jpg"
+  },
+  "496f533b-6311-3f50-98cf-2b2a69a53887": {
+   "id": 58735572,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/5113e90fee5be5ea79f9d7edb777b343/250x250-000000-80-0-0.jpg"
+  },
+  "96dc33d0-5641-3e0b-bd31-1ffb15feda61": {
+   "id": 58737912,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/6d0024badf3566186ff651da10d54276/250x250-000000-80-0-0.jpg"
+  }
+ }
+}

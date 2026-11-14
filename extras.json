@@ -10258,14 +10258,33 @@
   ]
  },
  "bandas": {
+  "abba": {
+   "hall_da_fama": 2010
+  },
   "ac-dc": {
    "hall_da_fama": 2003
   },
   "aerosmith": {
    "hall_da_fama": 2001
   },
+  "albert-king": {
+   "hall_da_fama": 2013
+  },
   "alice-cooper": {
    "hall_da_fama": 2011
+  },
+  "aretha-franklin": {
+   "grammys": 18,
+   "hall_da_fama": 1987
+  },
+  "b-b-king": {
+   "hall_da_fama": 1987
+  },
+  "bee-gees": {
+   "hall_da_fama": 1997
+  },
+  "billie-holiday": {
+   "hall_da_fama": 2000
   },
   "black-sabbath": {
    "hall_da_fama": 2006
@@ -10273,8 +10292,28 @@
   "bon-jovi": {
    "hall_da_fama": 2018
   },
+  "bonnie-raitt": {
+   "grammys": 2,
+   "hall_da_fama": 2000
+  },
+  "brian-eno": {
+   "hall_da_fama": true
+  },
+  "buddy-guy": {
+   "grammys": 1,
+   "hall_da_fama": 2005
+  },
+  "buddy-holly": {
+   "hall_da_fama": 1986
+  },
+  "buffalo-springfield": {
+   "hall_da_fama": 1997
+  },
   "charlie-brown-jr": {
    "grammys": 2
+  },
+  "chuck-berry": {
+   "hall_da_fama": 1986
   },
   "cpm-22": {
    "grammys": 1
@@ -10285,6 +10324,9 @@
   "creedence-clearwater-revival": {
    "hall_da_fama": 1993
   },
+  "david-bowie": {
+   "hall_da_fama": 1996
+  },
   "deep-purple": {
    "hall_da_fama": 2016
   },
@@ -10294,14 +10336,51 @@
   "dire-straits": {
    "hall_da_fama": 2018
   },
+  "duke-ellington": {
+   "grammys": 1
+  },
   "eagles": {
    "hall_da_fama": 1998
+  },
+  "elmore-james": {
+   "hall_da_fama": 1992
+  },
+  "elton-john": {
+   "hall_da_fama": 1994
+  },
+  "elvis-presley": {
+   "hall_da_fama": 1986
+  },
+  "erasmo-carlos": {
+   "grammys": 1
+  },
+  "eric-clapton": {
+   "hall_da_fama": 2000
+  },
+  "etta-james": {
+   "hall_da_fama": 1993
   },
   "evanescence": {
    "grammys": 2
   },
+  "fleetwood-mac": {
+   "grammys": 1,
+   "hall_da_fama": 1998
+  },
   "foo-fighters": {
    "hall_da_fama": 2021
+  },
+  "freddie-king": {
+   "hall_da_fama": 2012
+  },
+  "gary-clark-jr": {
+   "grammys": 2
+  },
+  "genesis": {
+   "hall_da_fama": 2010
+  },
+  "george-michael": {
+   "hall_da_fama": 2023
   },
   "gojira": {
    "grammys": 1
@@ -10312,7 +10391,32 @@
   "guns-n-roses": {
    "hall_da_fama": 2012
   },
+  "herbie-hancock": {
+   "grammys": 14
+  },
+  "howlin-wolf": {
+   "hall_da_fama": 1991
+  },
   "iron-maiden": {
+   "grammys": 1
+  },
+  "janis-joplin": {
+   "hall_da_fama": 1995
+  },
+  "jeff-beck": {
+   "grammys": 1,
+   "hall_da_fama": 2009
+  },
+  "jefferson-airplane": {
+   "hall_da_fama": 1996
+  },
+  "john-lee-hooker": {
+   "hall_da_fama": 1991
+  },
+  "john-lennon": {
+   "hall_da_fama": 1994
+  },
+  "johnny-winter": {
    "grammys": 1
   },
   "judas-priest": {
@@ -10327,8 +10431,24 @@
   "linkin-park": {
    "grammys": 3
   },
+  "little-richard": {
+   "hall_da_fama": 1986
+  },
+  "lou-reed": {
+   "hall_da_fama": 2015
+  },
+  "louis-armstrong": {
+   "hall_da_fama": 1990
+  },
   "lynyrd-skynyrd": {
    "hall_da_fama": 2006
+  },
+  "madonna": {
+   "grammys": 7,
+   "hall_da_fama": 2008
+  },
+  "marvin-gaye": {
+   "hall_da_fama": 1987
   },
   "mastodon": {
    "grammys": 1
@@ -10337,6 +10457,19 @@
    "grammys": 1,
    "hall_da_fama": 2009
   },
+  "michael-jackson": {
+   "grammys": 13,
+   "hall_da_fama": 2001
+  },
+  "mike-oldfield": {
+   "grammys": 1
+  },
+  "miles-davis": {
+   "hall_da_fama": 2006
+  },
+  "muddy-waters": {
+   "hall_da_fama": 1987
+  },
   "nirvana": {
    "grammys": 1,
    "hall_da_fama": 2014
@@ -10344,6 +10477,13 @@
   "ozzy-osbourne": {
    "grammys": 5,
    "hall_da_fama": 2024
+  },
+  "patti-smith": {
+   "hall_da_fama": 2007
+  },
+  "paul-mccartney": {
+   "grammys": 1,
+   "hall_da_fama": 1999
   },
   "pearl-jam": {
    "grammys": 1,
@@ -10355,6 +10495,9 @@
   },
   "planet-hemp": {
    "grammys": 2
+  },
+  "prince": {
+   "hall_da_fama": 2004
   },
   "queen": {
    "hall_da_fama": 2001
@@ -10377,27 +10520,58 @@
    "grammys": 3,
    "hall_da_fama": 2012
   },
+  "roberto-carlos": {
+   "grammys": 1
+  },
+  "roxy-music": {
+   "hall_da_fama": 2019
+  },
   "rush": {
    "hall_da_fama": 2013
+  },
+  "santana": {
+   "grammys": 4,
+   "hall_da_fama": 1998
   },
   "sex-pistols": {
    "hall_da_fama": 2006
   },
+  "stevie-wonder": {
+   "hall_da_fama": 1989
+  },
   "system-of-a-down": {
    "grammys": 1
+  },
+  "tedeschi-trucks-band": {
+   "grammys": 1
+  },
+  "the-allman-brothers-band": {
+   "hall_da_fama": 1995
+  },
+  "the-band": {
+   "hall_da_fama": 1994
   },
   "the-beatles": {
    "grammys": 4,
    "hall_da_fama": 1986
   },
+  "the-black-keys": {
+   "grammys": 4
+  },
   "the-clash": {
    "hall_da_fama": 2003
+  },
+  "the-cure": {
+   "hall_da_fama": 2019
   },
   "the-doors": {
    "hall_da_fama": 1993
   },
   "the-jimi-hendrix-experience": {
    "hall_da_fama": 1992
+  },
+  "the-moody-blues": {
+   "hall_da_fama": 2018
   },
   "the-rolling-stones": {
    "grammys": 2,
@@ -10409,14 +10583,30 @@
   "the-stooges": {
    "hall_da_fama": 2010
   },
+  "the-velvet-underground": {
+   "hall_da_fama": 1996
+  },
   "the-who": {
    "hall_da_fama": 1990
+  },
+  "the-yardbirds": {
+   "hall_da_fama": 1992
+  },
+  "tina-turner": {
+   "grammys": 8,
+   "hall_da_fama": 2021
   },
   "u2": {
    "hall_da_fama": 2005
   },
   "van-halen": {
    "hall_da_fama": 2007
+  },
+  "whitney-houston": {
+   "hall_da_fama": 2020
+  },
+  "yes": {
+   "hall_da_fama": 2017
   },
   "zz-top": {
    "hall_da_fama": 2004
