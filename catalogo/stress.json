@@ -2,90 +2,135 @@
  "id": "stress",
  "nome": "Stress",
  "cena": "Descobertas do acervo",
- "mbid": "19eaf341-f14b-4a28-b18b-28943e05a206",
- "wikidata": "Q1291958",
+ "mbid": "6f99537b-a4b4-422a-a45e-c7afe94931bc",
+ "wikidata": "Q1607904",
  "tipo": "Group",
- "pais": "HU",
+ "pais": "BR",
  "inicio": "1977",
  "fim": null,
  "ativa": true,
- "generos": [
-  "heavy metal"
- ],
- "foto": null,
- "wikipedia": null,
- "resumo_pt": "",
- "resumo_en": "",
+ "generos": [],
+ "foto": "https://upload.wikimedia.org/wikipedia/pt/0/07/STRESS-logo.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Stress_%28banda%29",
+ "resumo_pt": "O Stress é uma banda de heavy metal tradicional de origem na região amazônica de Belém, Pará. É considerada a primeira banda a lançar um álbum de metal do Brasil.",
+ "resumo_en": "Stress is a Brazilian heavy metal band. They were among the earliest Brazilian metal bands, and recorded what is considered to be the first Brazilian heavy metal album, Stress.",
  "albuns": [
   {
-   "id": "d1812a17-9500-4590-a237-5275de56fb10",
-   "titulo": "Kísértet kastély",
-   "data": "1991",
-   "ano": "1991",
-   "capa": "https://coverartarchive.org/release/e3e89ff7-8d7d-4122-bf88-f76c0415077b/front-250",
+   "id": "78888f7d-390c-436c-8fff-7d9cccf168b2",
+   "titulo": "Stress",
+   "data": "1982-11-14",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/cb8f5eb4-9a48-4117-82e7-90dabc144d60/front-250",
    "faixas": [
     {
      "n": 1,
-     "titulo": "Intro",
-     "duracao": "1:40"
+     "titulo": "Sodoma e Gomorra",
+     "duracao": "4:09"
     },
     {
      "n": 2,
-     "titulo": "Nukleáris világ",
-     "duracao": "3:12"
+     "titulo": "A Chacina",
+     "duracao": "4:19"
     },
     {
      "n": 3,
-     "titulo": "Rockváros",
-     "duracao": "4:21"
+     "titulo": "2031",
+     "duracao": "4:17"
     },
     {
      "n": 4,
-     "titulo": "Neonlovagok",
-     "duracao": "5:09"
+     "titulo": "Oráculo do Judas",
+     "duracao": "5:53"
     },
     {
      "n": 5,
-     "titulo": "Hagyjatok élnem",
-     "duracao": "2:38"
+     "titulo": "Stressencefalodrama",
+     "duracao": "5:33"
     },
     {
      "n": 6,
-     "titulo": "Sötétség birodalma",
-     "duracao": "3:46"
+     "titulo": "O Viciado",
+     "duracao": "4:06"
     },
     {
      "n": 7,
-     "titulo": "Meglovagolva a világot",
-     "duracao": "3:50"
+     "titulo": "Mate o Réu",
+     "duracao": "3:54"
     },
     {
      "n": 8,
-     "titulo": "Gonoszság gyermeke",
-     "duracao": "4:05"
+     "titulo": "O Lixo",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stress_%28Stress_album%29",
+   "resumo_en": "Stress is a Brazilian heavy metal band. They were among the earliest Brazilian metal bands, and recorded what is considered to be the first Brazilian heavy metal album, Stress.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "13d4b056-4ad5-4a2d-abcd-e69419068838",
+   "titulo": "Flor Atômica",
+   "data": "1985-08",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/b405d78b-c645-487b-a88e-613ccebe2586/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heavy Metal",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Não Desista",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Mate o Réu",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Flor Atômica",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Esperando o Messias",
+     "duracao": "4:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Forças do Mal",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Inferno Nuclear",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Sodoma e Gomorra",
+     "duracao": "4:13"
     },
     {
      "n": 9,
-     "titulo": "Lelketlen fazonok",
-     "duracao": "3:24"
+     "titulo": "Tributo ao Prazer",
+     "duracao": "3:02"
     },
     {
      "n": 10,
-     "titulo": "Motoros fiúk",
-     "duracao": "2:47"
-    },
-    {
-     "n": 11,
-     "titulo": "Éjszakai fények",
-     "duracao": "3:50"
-    },
-    {
-     "n": 12,
-     "titulo": "Kísértet kastély",
-     "duracao": "3:53"
+     "titulo": "Jennie",
+     "duracao": "4:22"
     }
    ],
-   "duracao_min": 43,
+   "duracao_min": 39,
    "critica": {},
    "publico": null,
    "publico_votos": 0,
@@ -95,84 +140,141 @@
    "youtube": null
   },
   {
-   "id": "7f3f6abc-226e-4e59-804d-f14209476e84",
-   "titulo": "A Tűz Még Ég",
-   "data": "2016",
-   "ano": "2016",
-   "capa": "https://coverartarchive.org/release/e1a9631e-8173-4a9d-80aa-d4965e1ddec9/front-250",
+   "id": "54fecc3f-4283-3873-be5a-857cb6a2c3be",
+   "titulo": "III",
+   "data": "1996-01-01",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/a26e8da0-ce9a-4084-9692-d2ffa818c2ce/front-250",
    "faixas": [
     {
      "n": 1,
-     "titulo": "Intro",
-     "duracao": null
+     "titulo": "Estrela Azul",
+     "duracao": "3:39"
     },
     {
      "n": 2,
-     "titulo": "A Félelem Városa",
-     "duracao": null
+     "titulo": "Sexo Anual",
+     "duracao": "4:48"
     },
     {
      "n": 3,
-     "titulo": "Romlott Világ",
-     "duracao": null
+     "titulo": "Nada A Perder",
+     "duracao": "3:51"
     },
     {
      "n": 4,
-     "titulo": "Tűz Még Ég",
-     "duracao": null
+     "titulo": "Dança do Trem",
+     "duracao": "4:06"
     },
     {
      "n": 5,
-     "titulo": "Törvények Nélkül",
-     "duracao": null
+     "titulo": "Folha no Vento",
+     "duracao": "6:31"
     },
     {
      "n": 6,
-     "titulo": "Száz Év Vagy Egy",
-     "duracao": null
+     "titulo": "Maria Mentira",
+     "duracao": "4:41"
     },
     {
      "n": 7,
-     "titulo": "Tűzvezér",
-     "duracao": null
+     "titulo": "Dor e Prazer",
+     "duracao": "3:09"
     },
     {
      "n": 8,
-     "titulo": "Kutya",
-     "duracao": null
+     "titulo": "Aventura",
+     "duracao": "4:51"
     },
     {
      "n": 9,
-     "titulo": "Utolsó Ítélet",
-     "duracao": null
+     "titulo": "A Tua Mãe é Moça?",
+     "duracao": "3:34"
     },
     {
      "n": 10,
-     "titulo": "Menj Hát El",
-     "duracao": null
+     "titulo": "Vigília",
+     "duracao": "1:42"
     },
     {
      "n": 11,
-     "titulo": "Utolsó Reményig",
-     "duracao": null
-    },
-    {
-     "n": 12,
-     "titulo": "Acélkerék",
-     "duracao": null
-    },
-    {
-     "n": 13,
-     "titulo": "Séta Éjfélkor",
-     "duracao": null
-    },
-    {
-     "n": 14,
-     "titulo": "Rettenetes Éjszaka",
-     "duracao": null
+     "titulo": "Fe em Procissão",
+     "duracao": "8:43"
     }
    ],
-   "duracao_min": null,
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "df4875d3-d0ba-49c5-a7dc-da428553eb2d",
+   "titulo": "Devastação",
+   "data": "2019-02-16",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/ce6d75d3-e64f-4084-a460-729b18e113ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Devastação",
+     "duracao": "6:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Fogo e Fúria",
+     "duracao": "9:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Soldados da Fé",
+     "duracao": "4:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Motorocker, a Lenda",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Mudo Cão",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Sintonia",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Anjo Perdido",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Heavy Metal é a Lei",
+     "duracao": "4:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Coração de Metal",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Brasil Heavy Metal",
+     "duracao": "4:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Bhm Sinfonia",
+     "duracao": "1:44"
+    }
+   ],
+   "duracao_min": 56,
    "critica": {},
    "publico": null,
    "publico_votos": 0,

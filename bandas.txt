@@ -1,4 +1,5 @@
-# Bandas do catálogo. Uma por linha: Nome | dica opcional para desambiguar (país ou estilo).
+# Bandas do catálogo. Uma por linha: Nome | dica opcional para desambiguar (país ou estilo, ou o id do artista
+# no MusicBrainz quando a busca insiste no homônimo errado).
 # As seções viram o campo "cena" de cada banda. Para incluir uma banda, acrescente uma linha e rode
 # python scripts/montar_catalogo.py
 
@@ -488,7 +489,7 @@ Great White | hard rock
 Gov't Mule | Southern rock
 Exciter | speed metal
 Captain Beyond | progressive rock
-Riot | speed metal
+Riot | ca04e657-2ffc-4949-9150-cb43d9f231e2
 Nashville Pussy | hard rock
 Lucifer's Friend | progressive rock
 It's A Beautiful Day | psychedelic rock
@@ -533,7 +534,7 @@ Pescado Rabioso | folk rock
 Capital Inicial | alternative rock
 Vox Dei | doom metal
 The Godfathers | alternative rock
-Stress | speed metal
+Stress | 6f99537b-a4b4-422a-a45e-c7afe94931bc
 La Maquina de Hacer Pajaros | progressive rock
 El Mato A Un Policia Motorizado | indie rock
 Bacamarte | progressive rock

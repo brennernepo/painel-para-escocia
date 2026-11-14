@@ -1,174 +1,1416 @@
 {
  "id": "riot",
- "nome": "RIOT",
+ "nome": "Riot V",
  "cena": "Descobertas do acervo",
- "mbid": "7d48f4c1-80b5-41f3-af5a-b0d5410b44f7",
- "wikidata": null,
+ "mbid": "ca04e657-2ffc-4949-9150-cb43d9f231e2",
+ "wikidata": "Q1408267",
  "tipo": "Group",
  "pais": "US",
- "inicio": "2015",
+ "inicio": "1975",
  "fim": null,
  "ativa": true,
  "generos": [
-  "dubstep",
-  "electronic"
+  "heavy metal",
+  "power metal",
+  "speed metal",
+  "hard rock",
+  "metal"
  ],
- "foto": null,
- "wikipedia": null,
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Riot_V_-_Wacken_Open_Air_2018_00.jpg/500px-Riot_V_-_Wacken_Open_Air_2018_00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/Riot_V",
  "resumo_pt": "",
- "resumo_en": "",
+ "resumo_en": "Riot V, formerly known as Riot, is an American heavy metal band formed in New York City in 1975 by guitarist Mark Reale. Achieving peak success and popularity during the early 1980s, the band has continued a long-running successful career. Riot started out as straightforward heavy metal, but since their 1988 release Thundersteel, their style has shifted towards power metal.\nIn 2013, surviving members of Riot reformed the band as Riot V, after the death of founder, guitarist, primary songwriter and leader Mark Reale. The group uses a baby seal face as a logo on its album covers.",
  "albuns": [
   {
-   "id": "3137f9ef-c6e6-4e27-890f-7813e871388a",
-   "titulo": "Dogma Resistance",
-   "data": "2019-11-07",
-   "ano": "2019",
-   "capa": "https://coverartarchive.org/release/53182ac5-9f7a-434b-be24-db764c5e6dab/front-250",
+   "id": "7034ac67-cd6a-3ae0-bbe6-6e936a537e54",
+   "titulo": "Rock City",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/32b8f728-d5c6-46c6-98a0-9cff527c0bc7/front-250",
    "faixas": [
     {
      "n": 1,
-     "titulo": "Overture 1990",
-     "duracao": "3:06"
+     "titulo": "Desperation",
+     "duracao": "2:43"
     },
     {
      "n": 2,
-     "titulo": "Jungle Fury",
-     "duracao": "5:09"
+     "titulo": "Warrior",
+     "duracao": "3:50"
     },
     {
      "n": 3,
-     "titulo": "Disorder (Rebirth)",
-     "duracao": "3:09"
+     "titulo": "Rock City",
+     "duracao": "3:27"
     },
     {
      "n": 4,
-     "titulo": "Blackwater",
-     "duracao": "4:50"
+     "titulo": "Overdrive",
+     "duracao": "4:10"
     },
     {
      "n": 5,
-     "titulo": "Desert to Desert (interlude)",
-     "duracao": "1:04"
+     "titulo": "Angel",
+     "duracao": "3:36"
     },
     {
      "n": 6,
-     "titulo": "Aiwa",
-     "duracao": "4:38"
+     "titulo": "Tokyo Rose",
+     "duracao": "4:19"
     },
     {
      "n": 7,
-     "titulo": "The Mob",
-     "duracao": "5:27"
+     "titulo": "Heart of Fire",
+     "duracao": "3:00"
     },
     {
      "n": 8,
-     "titulo": "Last Stand (interlude)",
-     "duracao": "1:12"
+     "titulo": "Gypsy Queen",
+     "duracao": "3:55"
     },
     {
      "n": 9,
-     "titulo": "Overkill",
-     "duracao": "5:42"
-    },
-    {
-     "n": 10,
-     "titulo": "Take That",
-     "duracao": "3:15"
+     "titulo": "This Is What I Get",
+     "duracao": "4:12"
     }
    ],
-   "duracao_min": 38,
-   "critica": {},
-   "publico": null,
-   "publico_votos": 0,
-   "wikipedia": null,
-   "resumo_en": "",
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_City_%28Riot_album%29",
+   "resumo_en": "Rock City is the debut studio album by American heavy metal band Riot; it was released in 1977.\nThe album was first released independently by Fire Sign Records, run by the band's producers, Billy Arnell and Steve Loeb, who also owned the Greene Street Recording Studio, before the album was picked up for wider distribution by Canada's Attic Records and by Victor Entertainment in Japan. Vinyl copies of Rock City can be differentiated by the color that frames the front cover artwork.  The original Fire Sign pressing is framed in white; later editions are framed in black or lack this feature altogether.\nAmerican label Metal Blade Records re-issued the album on CD in early 1993 and again in 2015.\nRock City is the only Riot album to feature writing and recording contributions by original bassist Phil Feit who went on to join acts such as Billy Idol, playing on his hits Hot in the City and White Wedding, Joan Jett & The Blackhearts, and Adam Bomb, where he briefly crossed paths with another Riot member, drummer Sandy Slavin.",
    "spotify": null,
    "youtube": null
   },
   {
-   "id": "fbe151ef-9cf5-4e09-9ce5-b27628f77639",
-   "titulo": "The Machine",
-   "data": "2025-08-01",
-   "ano": "2025",
-   "capa": "https://coverartarchive.org/release/540c31b1-0f78-4b9b-b006-0c23c40a3410/front-250",
+   "id": "040729b8-34a6-4d96-a43f-8126fe6bc87a",
+   "titulo": "Narita",
+   "data": "1979-10",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/16035006-4eea-44f5-a733-09e6f314457b/front-250",
    "faixas": [
     {
      "n": 1,
-     "titulo": "Genesis 710",
-     "duracao": "2:09"
+     "titulo": "Waiting for the Taking",
+     "duracao": "5:01"
     },
     {
      "n": 2,
-     "titulo": "Back To Back",
-     "duracao": "4:11"
+     "titulo": "49er",
+     "duracao": "4:36"
     },
     {
      "n": 3,
-     "titulo": "Try Again",
-     "duracao": "4:04"
+     "titulo": "Kick Down the Wall",
+     "duracao": "4:32"
     },
     {
      "n": 4,
-     "titulo": "Everynight",
+     "titulo": "Born to Be Wild",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Narita",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Here We Come Again",
+     "duracao": "5:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Do It Up",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Hot for Love",
+     "duracao": "5:00"
+    },
+    {
+     "n": 9,
+     "titulo": "White Rock",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Road Racin'",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Narita_%28album%29",
+   "resumo_en": "Narita is the second studio album by the American heavy metal band Riot. The album was initially released  in 1979. It became out of print in the late 1980s and was only being pressed in CD format in Japan in 1989 until the early 1990s. It was finally issued on CD outside Japan in 2005 by UK-based Rock Candy Records, run by former Kerrang! writers Derek Oliver and Dante Bonutto.\n'Narita' was also the name of a short-lived San Antonio, Texas-based Riot offshoot, featuring guitarist Mark Reale along with former S.A. Slayer members vocalist Steve Cooper, drummer Dave McClain, and bassist Don Van Stavern, who would later appear on the Thundersteel and The Privilege of Power albums and is a member of Riot V. They recorded a three-song demo in 1985, including an early version of \"Thundersteel\", before Reale reformed Riot in 1986.\nDespite the overall positive reception, various outlets criticized the album cover due to its absurd imagery, with Noisecreep putting it as the second worst cover from otherwise well received musicians.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6b8dc2ae-5383-3f66-b440-ca1ae4c13195",
+   "titulo": "Fire Down Under",
+   "data": "1981-02-09",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/344cf3e9-d817-4c3c-ad16-9045a20eb021/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Swords and Tequila",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Fire Down Under",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Feel the Same",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Outlaw",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Bring Me Down",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Don't Hold Back",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Altar of the King",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "No Lies",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Run for Your Life",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Flashbacks",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fire_Down_Under",
+   "resumo_en": "Fire Down Under is the third studio album by American heavy metal band Riot, released in 1981, it is the last album to feature original vocalist Guy Speranza. The song \"Flashbacks\" is dedicated to Neal Kay, a British DJ who supported heavy metal in the UK during the new wave of British heavy metal.\nThe album was re-issued on CD in 1997 by the German-based High Vaultage label, utilizing a new, controversial remix by former Riot producer Steve Loeb, and in 1999 by Metal Blade Records in the U.S., this time featuring the original Elektra mix. The album was reissued in 2014 courtesy of Varèse Sarabande. All three versions contain various bonus tracks recorded for the original Capitol Records version of Fire Down Under which the band were unhappy with. Capitol dropped the band for being \"too heavy\" after hearing the final version subsequently released by Elektra Records. In 2018 the album was reissued, remastered and with six bonus tracks, by Rock Candy Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c6fc8890-0846-3f43-b02d-60ef85dab751",
+   "titulo": "Restless Breed",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/05a7e019-4bd6-4d78-9a5f-e5e77a8cdb79/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Lovin' Man",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "CIA",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Restless Breed",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "When I Was Young",
      "duracao": "3:25"
     },
     {
      "n": 5,
-     "titulo": "Hurricane",
-     "duracao": "4:03"
+     "titulo": "Loanshark",
+     "duracao": "4:10"
     },
     {
      "n": 6,
-     "titulo": "High Altar",
-     "duracao": "2:33"
+     "titulo": "Loved by You",
+     "duracao": "5:42"
     },
     {
      "n": 7,
-     "titulo": "Click Clack",
-     "duracao": "4:00"
+     "titulo": "Over to You",
+     "duracao": "3:42"
     },
     {
      "n": 8,
-     "titulo": "Deadshot",
-     "duracao": "1:34"
+     "titulo": "Showdown",
+     "duracao": "3:49"
     },
     {
      "n": 9,
-     "titulo": "March of the Machine",
-     "duracao": "4:07"
+     "titulo": "Dream Away",
+     "duracao": "3:43"
     },
     {
      "n": 10,
-     "titulo": "Alien Threat",
-     "duracao": "3:59"
+     "titulo": "Violent Crimes",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Restless_Breed",
+   "resumo_en": "Restless Breed is the fourth studio album by American heavy metal band Riot, released on May 21, 1982. It was the band's first record with vocalist Rhett Forrester. \"When I Was Young\" is an Eric Burdon and the Animals' cover.\nRestless Breed was first re-issued on CD in 1997 by Germany's High Vaultage label, including the Riot Live six-song EP as bonus tracks. A stateside re-issue followed in 1999 on Metal Blade Records, albeit sans the EP bonus tracks.\nMetal Blade would re-issue the album a second time in 2016, this time including the Riot Live EP as bonus tracks. Rock Candy Records reissued a remastered CD of the album in 2019\nMetal Hammer included the album cover on their list of \"50 most hilariously ugly rock and metal album covers ever\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6c63bba0-2046-32ec-b650-564a29abfc22",
+   "titulo": "Born in America",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/2dd8880f-6c9d-416a-965d-40305307a140/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Born in America",
+     "duracao": "4:33"
     },
     {
-     "n": 11,
-     "titulo": "Get Down",
-     "duracao": "2:37"
+     "n": 2,
+     "titulo": "You Burn in Me",
+     "duracao": "3:38"
     },
     {
-     "n": 12,
-     "titulo": "Sad Breaks",
-     "duracao": "3:11"
+     "n": 3,
+     "titulo": "Wings of Fire",
+     "duracao": "4:40"
     },
     {
-     "n": 13,
-     "titulo": "Nebula",
-     "duracao": "5:08"
+     "n": 4,
+     "titulo": "Running From the Law",
+     "duracao": "4:24"
     },
     {
-     "n": 14,
-     "titulo": "Metalicious",
+     "n": 5,
+     "titulo": "Devil Woman",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Vigilante Killer",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Heavy Metal Machine",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Where Soldiers Rule",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Gunfighter",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Promised Land",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Born_in_America",
+   "resumo_en": "Born in America is the fifth studio album released by the American heavy metal band Riot, released in 1983. After getting dropped by Elektra Records the band signed with Canadian indie label Quality Records for what was to be the second and last record with Rhett Forrester on vocals. This was also the last album for guitarist Rick Ventura, bassist Kip Leming, and drummer Sandy Slavin.\nGermany's ZYX Music released the album in Europe, accompanied by a 12\" single, \"Warrior (live) b/w Born in America\".\nBorn In America was re-issued in 1989 by Grand Slamm Records in the U.S. and CBS/Sony Records in Japan, both with different artwork. A further U.S. re-issue followed in 1999 through Metal Blade Records, utilizing the original cover artwork.\nBorn In America was re-issued again in 2015.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a15d3e84-a798-38a1-8fca-634b36d4b90a",
+   "titulo": "Thundersteel",
+   "data": "1988-03-24",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/50f21498-f454-4bbc-b9ff-218a12319482/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thundersteel",
+     "duracao": "3:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Fight or Fall",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Sign of the Crimson Storm",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Flight of the Warrior",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "On Wings of Eagles",
+     "duracao": "5:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny's Back",
+     "duracao": "5:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Bloodstreets",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Run for Your Life",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Buried Alive (Tell Tale Heart)",
+     "duracao": "8:56"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thundersteel",
+   "resumo_en": "Thundersteel is the sixth studio album by the American heavy metal band Riot, released after coming back from a period of inactivity in the mid-1980s. It features a totally different line-up from that of the previous work, with guitarist Mark Reale being the only remaining member.\nIt was re-issued in 2003 by Collectables Records with slightly amended artwork and re-issued on 180g vinyl as a 2-LP set with The Privilege of Power by SPV on February 25, 2013. The album originally charted at No. 150 on Billboard 200\nThe song \"Thundersteel\" was originally written by Mark Reale and Don Van Stavern for 'Narita', a short-lived project Reale formed with members of S.A. Slayer following the demise of Riot in 1984. A demo released by Narita exists, with \"Thundersteel\" and two other tracks: \"Liar\" and \"The Feeling Is Gone\". The record's title song appears as a bonus track on 2013 album \"Possession\" by the Polish heavy metal band Crystal Viper.\nThe song \"Flight of the Warrior\" was covered by the Swedish heavy metal band HammerFall on their 2008 album Masterpieces.  A cover of \"Flight of the Warrior\" also appears as a bonus track on the 2013 album Beneath the Surface by German metal band Alpha Ti",
+   "spotify": "0zmiGhL8QcuAY5cbet7XbM",
+   "youtube": null
+  },
+  {
+   "id": "16413330-aca9-3fdb-a018-a6bacbae6d17",
+   "titulo": "The Privilege of Power",
+   "data": "1990-02-16",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/9a14b1a3-3af7-3011-a97a-714acac64f43/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "On Your Knees",
+     "duracao": "6:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Metal Soldiers",
+     "duracao": "6:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Runaway",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Killer",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Dance of Death",
+     "duracao": "7:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Storming the Gates of Hell",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Maryanne",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Miss Death",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Leather and Glittering Steel",
+     "duracao": "7:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Racing With the Devil on a Spanish Highway (Revisited)",
+     "duracao": "7:16"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Privilege_of_Power",
+   "resumo_en": "The Privilege of Power is the seventh studio album by American heavy metal band Riot. It was more experimental than their previous work, being an attempt at a concept album and also including a horn section on some of the tracks.\n\"Racing with the Devil on a Spanish Highway\" is a cover of an Al Di Meola instrumental track from the album Elegant Gypsy (1977). \"Killer\" is about convicted killer Jeffrey R. MacDonald and features a guest vocal appearance by Joe Lynn Turner (ex-Rainbow, Yngwie Malmsteen).\nThe album was re-issued in 2003 by Collectables Records with slightly amended artwork and re-issued on 180g vinyl as a 2-LP set with Thundersteel by SPV on February 25, 2013.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8987b5af-a2d6-31ef-bc2c-d08bce0f2a04",
+   "titulo": "Nightbreaker",
+   "data": "1993-07-22",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/21e111b3-68f9-451e-9e1d-3306bfd6375d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Soldier",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Destiny",
+     "duracao": "4:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Burn",
      "duracao": "6:00"
     },
     {
-     "n": 15,
-     "titulo": "Slide",
-     "duracao": "2:39"
+     "n": 4,
+     "titulo": "In Your Eyes",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Night Breaker",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Medicine Man",
+     "duracao": "5:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Silent Scream",
+     "duracao": "5:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Magic Maker",
+     "duracao": "5:07"
+    },
+    {
+     "n": 9,
+     "titulo": "A Whiter Shade of Pale",
+     "duracao": "4:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Babylon",
+     "duracao": "5:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Outlaw",
+     "duracao": "6:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Black Mountain Woman",
+     "duracao": "5:08"
     }
    ],
-   "duracao_min": 54,
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nightbreaker",
+   "resumo_en": "Nightbreaker is the eighth studio album by American heavy metal band Riot. It was the band's first release with vocalist Mike DiMeo, as well as the studio debut of guitarist Mike Flyntz and bassist Pete Perez.\nThe album was released in Japan by Sony Music in 1993, in Europe by Rising Sun Productions in 1994, and finally re-issued in the United States by Metal Blade Records in 1999, all with different cover artwork. A very limited run of CDs, bearing the Combat Pay Music label and utilizing the Japanese artwork, was also produced in 1993 by the band's management.\n\"Burn\" is a cover of the title track of Deep Purple's album of 1974; \"A Whiter Shade of Pale\" is a cover Procol Harum's hit single of 1967; \"Outlaw\" is a re-recorded song from Riot's 1981 album Fire Down Under.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c6945cdd-508a-3768-89b2-ea560f64d726",
+   "titulo": "The Brethren of the Long House",
+   "data": "1995-11-11",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/63d1b02e-3aaf-4733-9997-c3ea3ea06994/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Last of the Mohicans (intro)",
+     "duracao": "1:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Glory Calling",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Rolling Thunder",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Rain",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Wounded Heart",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "The Brethren of the Long House",
+     "duracao": "5:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Out in the Fields",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Santa Maria",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Blood of the English",
+     "duracao": "5:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Ghost Dance",
+     "duracao": "5:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Shenandoah",
+     "duracao": "3:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Holy Land",
+     "duracao": "4:47"
+    },
+    {
+     "n": 13,
+     "titulo": "The Last of the Mohicans",
+     "duracao": "6:26"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Brethren_of_the_Long_House",
+   "resumo_en": "The Brethren of the Long House is Riot's ninth studio album. It was first released in Japan on November 11, 1995, in Germany in 1996, and eventually in the United States in 1999. The album is dedicated to the lost culture of American Indians.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "346aab77-f550-3192-bf2f-1febdcc1d5c8",
+   "titulo": "Inishmore",
+   "data": "1997-11-12",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/6b8099d7-c123-429d-b32e-8dfb53381ef4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Water",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Angel Eyes",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Liberty",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Kings Are Falling",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "The Man",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Watching the Signs",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Should I Run",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Cry for the Dying",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Gypsy",
+     "duracao": "5:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Inishmore (Forsaken Heart)",
+     "duracao": "1:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Inishmore",
+     "duracao": "4:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Danny Boy",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inishmore_%28album%29",
+   "resumo_en": "Inishmore is the tenth studio album by American heavy metal band Riot. It was originally released in Japan on November 11, 1997, two months before it was eventually released in the US on January 27, 1998. The album is based on conceptual sagas of Celtic and Irish myths.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a8b385b2-8944-3b57-ae3b-aae11203fa31",
+   "titulo": "Sons of Society",
+   "data": "1999-07-16",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/d9261b2c-5924-4bf0-88a1-4f31a4b95d9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Snake Charmer",
+     "duracao": "1:04"
+    },
+    {
+     "n": 2,
+     "titulo": "On the Wings of Life",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Sons of Society",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Twist of Fate",
+     "duracao": "5:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Machine",
+     "duracao": "5:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Cover Me",
+     "duracao": "6:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Dragonfire",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "The Law",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Time to Bleed",
+     "duracao": "4:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Queen",
+     "duracao": "4:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Somewhere",
+     "duracao": "4:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Promises",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sons_of_Society",
+   "resumo_en": "Sons of Society is the eleventh studio album by American heavy metal band Riot, released in Japan on July 15, 1999, and in the US on September 7, 1999, with a missing track.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4a0ec176-c264-30f6-85c1-b154367ed347",
+   "titulo": "Through the Storm",
+   "data": "2002-08-26",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/be0af891-6cdc-4292-8de2-b1e20649e6e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turn the Tables",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Lost Inside This World",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Chains (Revolving)",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Through the Storm",
+     "duracao": "6:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Let It Show",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Burn the Sun",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "To My Head",
+     "duracao": "5:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Essential Enemies",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Only You Can Rock Me",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Isle of Shadows",
+     "duracao": "4:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Here Comes the Sun",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Through_the_Storm_%28Riot_album%29",
+   "resumo_en": "Through the Storm is the twelfth studio album by American heavy metal band Riot. It was released on August 26, 2002.\nIt is the only Riot album to feature drummer Bobby Rondinelli, best known for his work with Rainbow and Black Sabbath.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4034440f-a62e-32b0-8a2c-d2cf3303b129",
+   "titulo": "Army of One",
+   "data": "2006-07-12",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/97fb188c-4565-4764-85f0-88496f07ef91/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Army of One",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Knockin' at My Door",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Blinded",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Alibi",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "It All Falls Down",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Helpin' Hand",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "The Mystic",
+     "duracao": "5:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Still Alive",
+     "duracao": "5:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Alive in the City",
+     "duracao": "7:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Shine",
+     "duracao": "6:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Stained Mirror",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Darker Side of Light",
+     "duracao": "6:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Road Racin' (live)",
+     "duracao": "6:50"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Army_of_One_%28album%29",
+   "resumo_en": "Army of One is the thirteenth studio album by the American heavy metal band Riot. It was released on July 12, 2006.\nAccording to the official website, the album was recorded in 2003 and Mike DiMeo was effectively out of the band by the time it was released. This would be his last studio album with the band.  It is the last Riot album to feature long time bassist Pete Perez and the first to feature drummer Frank Gilchriest, primarily known for his work with the band Virgin Steele.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8fca9155-e2d2-48c6-a1f8-654ecb108b2d",
+   "titulo": "Immortal Soul",
+   "data": "2011-10-19",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/747b4b35-a99a-43e3-a69d-b83358a3d06a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Riot",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Still Your Man",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Crawling",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Wings Are for Angels",
+     "duracao": "5:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Fall Before Me",
+     "duracao": "4:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Sins of the Father",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Majestica",
+     "duracao": "0:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Immortal Soul",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Insanity",
+     "duracao": "4:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Whiskey Man",
+     "duracao": "4:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Believe",
+     "duracao": "4:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Echoes",
+     "duracao": "4:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Fight or Fall (live)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "media": 7.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Immortal_Soul",
+   "resumo_en": "Immortal Soul is the fourteenth studio album by American heavy metal band Riot, released in Japan on October 21, 2011, through Marquee/Avalon, with Steamhammer Records handling releases in Europe (October 26–31, 2011) and the United States and Canada (November 22, 2011). It marked the short-lived return of the Thundersteel touring line-up featuring vocalist Tony Moore, guitarists Mark Reale and Mike Flyntz, bassist Don Van Stavern, and drummer Bobby Jarzombek. It is the last Riot album to feature Moore, Jarzombek and long-time guitarist Mark Reale, who at the time was the only original member left in the band, before his death in January 2012.\nAfter Reale's death, Van Stavern and Flyntz decided to carry on touring the world and releasing new studio material, under the name Riot V.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "448dae96-8175-4302-af78-92960ee3e86d",
+   "titulo": "Unleash the Fire",
+   "data": "2014-08-27",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/6f887ea9-91ea-4d1f-bb1b-4778f6af27b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ride Hard Live Free",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Metal Warrior",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Fall From the Sky",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Bring the Hammer Down",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Unleash the Fire",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Land of the Rising Sun",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Kill to Survive",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Return of the Outlaw",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Immortal",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Take Me Back",
+     "duracao": "4:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Fight Fight Fight",
+     "duracao": "4:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Until We Meet Again",
+     "duracao": "6:33"
+    },
+    {
+     "n": 13,
+     "titulo": "Thundersteel (live)",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "media": 7.2,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Unleash_the_Fire",
+   "resumo_en": "Unleash the Fire is the fifteenth studio album by the American heavy metal band Riot, now called Riot V, released on August 27, 2014 through Steamhammer Records in Europe. It is Riot's first album not featuring longtime guitarist Mark Reale.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8580505b-78d3-4b7c-9f3a-2c2acce2e1c9",
+   "titulo": "Armor of Light",
+   "data": "2018-04-25",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/4d5461b3-f99d-4cfe-82ed-82eedbfa6d7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Victory",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "End of the World",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Messiah",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Angel's Thunder, Devil's Reign",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Burn the Daylight",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Heart of a Lion",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Armor of Light",
+     "duracao": "4:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Set the World Alight",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "San Antonio",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Caught in the Witches Eye",
+     "duracao": "4:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Ready to Shine",
+     "duracao": "5:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Raining Fire",
+     "duracao": "4:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Unbelief",
+     "duracao": "6:12"
+    },
+    {
+     "n": 14,
+     "titulo": "Thundersteel (2018)",
+     "duracao": "4:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Ride Hard Live Free",
+     "duracao": "4:59"
+    },
+    {
+     "n": 16,
+     "titulo": "Fight or Fall",
+     "duracao": "4:28"
+    },
+    {
+     "n": 17,
+     "titulo": "On Your Knees",
+     "duracao": "4:23"
+    },
+    {
+     "n": 18,
+     "titulo": "Johnny's Back",
+     "duracao": "5:41"
+    },
+    {
+     "n": 19,
+     "titulo": "Metal Warrior",
+     "duracao": "4:49"
+    },
+    {
+     "n": 20,
+     "titulo": "Wings Are for Angels",
+     "duracao": "5:16"
+    },
+    {
+     "n": 21,
+     "titulo": "Sign of the Crimson Storm",
+     "duracao": "4:52"
+    },
+    {
+     "n": 22,
+     "titulo": "Bloodstreets",
+     "duracao": "4:47"
+    },
+    {
+     "n": 23,
+     "titulo": "Take Me Back",
+     "duracao": "4:30"
+    },
+    {
+     "n": 24,
+     "titulo": "Warrior",
+     "duracao": "4:45"
+    },
+    {
+     "n": 25,
+     "titulo": "Road Racin'",
+     "duracao": "5:04"
+    },
+    {
+     "n": 26,
+     "titulo": "Swords and Tequila",
+     "duracao": "3:39"
+    },
+    {
+     "n": 27,
+     "titulo": "Thundersteel",
+     "duracao": "4:42"
+    }
+   ],
+   "duracao_min": 128,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Armor_of_Light",
+   "resumo_en": "Armor of Light is the sixteenth studio album by the American heavy metal band Riot, now called Riot V, released on April 27, 2018, through Nuclear Blast Records. It is Riot's second album not featuring long-time guitarist and founder, Mark Reale who died in 2012.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f2bdf33f-0f19-459c-8d49-ce97ba25ae6a",
+   "titulo": "Mean Streets",
+   "data": "2024-05-10",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/350a3c9d-d555-496e-aebf-f182de249749/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hail to the Warriors",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Feel the Fire",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Beyond the Grave",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "High Noon",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Before This Time",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Higher",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Mean Streets",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Open Road",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Mortal Eyes",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Lost Dreams",
+     "duracao": "4:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Lean into It",
+     "duracao": "3:57"
+    },
+    {
+     "n": 12,
+     "titulo": "No More",
+     "duracao": "4:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Killer (Joe Lynn Turner Vocal 1990)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Outlaw (Live In Sweden 2009)",
+     "duracao": "4:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Sign Of The Crimson Storm (Rhett Forrester Vocal 1986)",
+     "duracao": "4:13"
+    },
+    {
+     "n": 16,
+     "titulo": "Tokyo Rose/Rock City Medley (Live In Japan 2009)",
+     "duracao": "6:58"
+    },
+    {
+     "n": 17,
+     "titulo": "Live at Metal Weekend 2018 in Japan",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 70,
    "critica": {},
    "publico": null,
    "publico_votos": 0,

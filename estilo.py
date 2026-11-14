@@ -118,6 +118,9 @@ def chips(itens: list[tuple[str, str]]) -> str:
 
 
 def anos(b: dict) -> str:
+    if b.get("tipo") == "Person":  # para artistas solo, o MusicBrainz guarda nascimento e morte
+        return " · ".join(x for x in (f"nasceu em {b['inicio']}" if b.get("inicio") else "",
+                                       f"morreu em {b['fim']}" if b.get("fim") else "") if x)
     if b.get("inicio") and b.get("fim"):
         return f"{b['inicio']}–{b['fim']}"
     if b.get("inicio"):
@@ -129,7 +132,7 @@ def situacao(b: dict) -> tuple[str, str]:
     if b.get("ativa") is True:
         return "na ativa", "verde"
     if b.get("ativa") is False:
-        return "encerrada", "vermelho"
+        return ("in memoriam" if b.get("tipo") == "Person" else "encerrada"), "vermelho"
     return "", ""
 
 

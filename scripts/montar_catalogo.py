@@ -324,7 +324,9 @@ def montar(bandas: list[dict]) -> None:
     fichas = []
     for i, b in enumerate(bandas, 1):
         antigo = ler_antigo(b["nome"]) if RENOVAR else {}
-        cand = {"id": antigo["mbid"]} if antigo.get("mbid") else achar_artista(b["nome"], b["dica"])
+        fixo = b["dica"] if re.fullmatch(r"[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}", b["dica"]) else None
+        cand = ({"id": fixo} if fixo else {"id": antigo["mbid"]} if antigo.get("mbid")
+                else achar_artista(b["nome"], b["dica"]))
         if not cand:
             print(f"[{i}/{len(bandas)}] NÃO ACHEI: {b['nome']}", flush=True)
             continue
