@@ -1,0 +1,587 @@
+{
+ "id": "cazuza",
+ "nome": "Cazuza",
+ "cena": "Rock brasileiro",
+ "mbid": "e554daf4-4ad0-438f-a7f9-832519451fd2",
+ "wikidata": "Q731775",
+ "tipo": "Person",
+ "pais": "BR",
+ "inicio": "1958",
+ "fim": "1990",
+ "ativa": false,
+ "generos": [
+  "mpb",
+  "rock",
+  "singer-songwriter"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Cazuza_em_1987.jpg/500px-Cazuza_em_1987.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Cazuza",
+ "resumo_pt": "Agenor de Miranda Araújo Neto OMC (Rio de Janeiro, 4 de abril de 1958 – Rio de Janeiro, 7 de julho de 1990), mais conhecido como Cazuza, foi um cantor, compositor e poeta brasileiro. Além do reconhecimento por sua aclamada carreira musical, tornou-se um símbolo da luta contra a síndrome da imunodeficiência adquirida (AIDS), que o acometeu e causou sua morte precoce em 1990. Inicialmente conhecido como vocalista e principal letrista da banda Barão Vermelho, na qual fez uma bem-sucedida parceria com Frejat, posteriormente seguiu carreira solo, sendo aclamado pela crítica como um dos principais letristas da música brasileira. \nExagerado, primeiro álbum do artista fora do Barão Vermelho, foi lançado em novembro de 1985. Dois anos depois, em 1987, Cazuza lançou Só Se For a Dois. Entre 1988 e 1989, o cantor lançou outros dois álbuns, O Tempo Não Para (1988) e Burguesia (1989) — este último gravado por Cazuza já debilitado, em decorrência do vírus HIV, descoberto dois anos antes. Em 1989, revelou ser soropositivo, termo usado para descrever a presença do vírus HIV, causador da AIDS. Em entrevistas, o cantor assumiu sua bissexualidade. Nos últimos períodos de sua vida, Cazuza fez um segundo tratamento em Boston e retornou ao Rio de Janeiro. Morreu em 1990, aos 32 anos, no seu apartamento em Ipanema.\nCazuza destacou-se como um ídolo de sua geração e um dos principais astros jovens da década de 1980, ficando conhecido também por seu estilo rebelde, boêmio, autêntico, hedonista e, por m",
+ "resumo_en": "Agenor de Miranda Araújo Neto, better known as Cazuza (Portuguese pronunciation: [kaˈzuzɐ]; April 4, 1958 – July 7, 1990), was a Brazilian singer-songwriter, born in Rio de Janeiro. Along with Raul Seixas, Renato Russo and Os Mutantes, Cazuza, both while fronting Barão Vermelho and at solo career, is considered one of the best exponents of Brazilian rock music. In his 9-year career, he sold more than 5 million albums and achieved 11 number one singles and 18 Top 10 singles in Brazil.",
+ "albuns": [
+  {
+   "id": "3f291c71-58f7-38be-b8ad-41205b9c6f66",
+   "titulo": "Exagerado",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Exagerado",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Medieval",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Cúmplice",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Mal nenhum",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Balada de um vagabundo",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Codinome Beija-flor",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Desastre mental",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Boa vida",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Só as mães são felizes",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock da descerebração",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e8d7671f-ade6-3c25-aa14-6e4afa5aa523",
+   "titulo": "Só se for a 2",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/18117cdd-294b-43fe-bc69-4d188b9c473b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Só se for a 2",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Ritual",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "O nosso amor a gente inventa (Estória romântica)",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Culpa de estimação",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Solidão, que nada",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Completamente blue",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Vai à luta",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Quarta-feira",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Heavy love",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "O lobo mau da Ucrânia",
+     "duracao": "2:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Balada do Esplanada",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": "3oDvGnTi4xDQujcc8v8mrs",
+   "youtube": null
+  },
+  {
+   "id": "dbfd7205-5d07-365c-bd27-f3fe9f2ea2b9",
+   "titulo": "Ideologia",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/55ddf8e9-aa31-4a43-a1a0-8a6c9641a61e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ideologia",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Boas novas",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "O assassinato da flor",
+     "duracao": "2:44"
+    },
+    {
+     "n": 4,
+     "titulo": "A orelha de Eurídice",
+     "duracao": "1:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Guerra civil",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Brasil",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Um trem para as estrelas",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Vida fácil",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Blues da piedade",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Obrigado (Por ter se mandado)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Minha flor, meu bebê",
+     "duracao": "3:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Faz parte do meu show",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ideologia_%28Cazuza_album%29",
+   "resumo_en": "Ideologia is a 1988 album recorded by Cazuza, the third in his solo career. It won the Sharp Awards for best album in 1988 and sold more than 2 million copies.\nMany of Cazuza's hits are from this album, such as \"Ideologia\", \"Brasil\" and \"Faz Parte do Meu Show\".\nThe album cover tried to create some controversy. It mixes swastika and star of David. It is a picture taken by Flavio Colker of an art work by Barrão, who gathered objects found in São Conrado Beach following a rainstorm and some illustrations.\nIdeologia is considered one of the main albums in Cazuza's solo career as it is the first recording in which the singer tells about his relation with AIDS and death, as it was his first album after the discovery that he was infected with HIV virus.\nThe opening and title track \"Ideologia\" was voted by the Brazilian edition of Rolling Stone to be the 83rd-greatest Brazilian song.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33e057f7-d63e-3801-8876-dea689b206fb",
+   "titulo": "Burguesia",
+   "data": "1989-08-21",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/cf215880-0c19-4076-8a87-a3bdca343d5f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Burguesia",
+     "duracao": "5:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Nabucodonosor",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Tudo é amor",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Garota de Bauru",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Eu agradeço",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Eu quero alguém",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Babylonest",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Como já dizia Djavan",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Perto do fogo",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Cobaias de Deus",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Mulher sem razão",
+     "duracao": "3:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Por quase um segundo",
+     "duracao": "2:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Filho único",
+     "duracao": "3:26"
+    },
+    {
+     "n": 14,
+     "titulo": "Preconceito",
+     "duracao": "3:12"
+    },
+    {
+     "n": 15,
+     "titulo": "Esse cara",
+     "duracao": "1:54"
+    },
+    {
+     "n": 16,
+     "titulo": "Azul e amarelo",
+     "duracao": "3:06"
+    },
+    {
+     "n": 17,
+     "titulo": "Cartão postal",
+     "duracao": "3:24"
+    },
+    {
+     "n": 18,
+     "titulo": "Manhatã",
+     "duracao": "3:38"
+    },
+    {
+     "n": 19,
+     "titulo": "Bruma",
+     "duracao": "2:52"
+    },
+    {
+     "n": 20,
+     "titulo": "Quando eu estiver cantando",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c79155c-0797-397e-a75e-ae5f31a510e6",
+   "titulo": "Por aí",
+   "data": "1991-04",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/230a4e72-44ac-460a-8109-db47664bb0d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Não há perdão para o chato",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Paixão",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Portuga",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Hei rei!",
+     "duracao": "2:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Camila, Camila",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Por aí",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Andróide sem par",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Cavalos calados",
+     "duracao": "1:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Summertime",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Oriental II",
+     "duracao": "5:30"
+    },
+    {
+     "n": 11,
+     "titulo": "O Brasil vai ensinar o mundo",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f708335b-774c-4c19-aa8e-e12a71a2398e",
+   "titulo": "Coleção obras-primas",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/51c8640a-d524-4043-9b30-7270acca2c42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Maior Abandonado",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Camila, Camila",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Quase um Segundo",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Azul e Amarelo",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Quando Eu Estiver Cantando",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Hei, Rei",
+     "duracao": "2:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Vida Fácil",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Filho Único",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Preconceito",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Pro Dia Nascer Feliz",
+     "duracao": "4:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Solidão que Nada",
+     "duracao": "3:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Boas Novas",
+     "duracao": "2:46"
+    },
+    {
+     "n": 13,
+     "titulo": "Minha Flor, Meu Bebê",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "Completamente Blue",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3d1581b5-1499-418e-898b-b34a453caef3",
+   "titulo": "Exagerado (Remasterizado - 40 Anos)",
+   "data": "2025-11-18",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/c8da2d2d-1eb5-470e-a991-653bd5112a0f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Exagerado",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Medieval II",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Cúmplice",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Mal Nenhum",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Balada de um Vagabundo",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Codinome Beija-Flor",
+     "duracao": "2:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Desastre Mental",
+     "duracao": "3:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Boa Vida",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Só As Mães São Felizes",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock da Descerebração",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Exagerado (Versão Especial - 40 anos)",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

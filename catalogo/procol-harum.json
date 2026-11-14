@@ -1,0 +1,845 @@
+{
+ "id": "procol-harum",
+ "nome": "Procol Harum",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "44119570-4d53-46e7-a447-bd18608c28d8",
+ "wikidata": "Q214486",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "2022",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "crossover prog",
+  "psychedelic pop",
+  "rock",
+  "art rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Procol_Harum.jpg/500px-Procol_Harum.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Procol_Harum",
+ "resumo_pt": "Procol Harum foi uma banda britânica de rock progressivo formada na década de 1960. Eles são mais conhecidos por seu compacto \"A Whiter Shade of Pale\", considerado um clássico na música popular e um dos poucos singles a ter vendido mais de 10 milhões de cópias. Por esta canção, foram indicados ao Grammy Award para melhor performance pop por uma dupla ou grupo em 1968 e ganharam um Brit Award por melhor single britânico em 1977.\nO nome da banda foi escolhido por seu empresário, inspirado no nome do gato de um amigo seu. Traduzido do latim, significa algo como \"Através dessas coisas\".\nEm julho de 2009, Matthew Fisher ganhou um julgamento na corte britânica concedendo 40% dos direitos autorais de 2005 em diante por \"A Whiter Shade of Pale\", que já havia passado 50% para Brooker pela música e 50% para Reid pela letras.\nEm 2018, a banda foi homenageada pelo Hall da Fama do Rock and Roll quando \"A Whiter Shade of Pale\" foi introduzida na categoria singles. Antes disso, em 1998, a canção já havia entrado para o Hall da Fama do Grammy.",
+ "resumo_en": "Procol Harum () were an English rock band formed in Southend-on-Sea, Essex, in 1967. Their best-known recording is the 1967 hit single \"A Whiter Shade of Pale\", one of the few singles to have sold more than 10 million copies. Although noted for their baroque and classical influence, Procol Harum's music is described as psychedelic rock and proto-prog with hints of the blues, R&B, and soul.\nIn 2018, the band was honoured by the Rock and Roll Hall of Fame when \"A Whiter Shade of Pale\" was inducted into the new Singles category. They had previously been nominated as performers in 2012.",
+ "albuns": [
+  {
+   "id": "59c4b156-e1f6-374c-a5e6-ea0ccd51d433",
+   "titulo": "A Whiter Shade of Pale",
+   "data": "1967-09-01",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/b2849add-bea5-4314-8511-ef3698218b1f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Conquistador",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "She Wandered Through the Garden Fence",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Something Following Me",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Mabel",
+     "duracao": "1:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Cerdes (Outside the Gates of)",
+     "duracao": "5:07"
+    },
+    {
+     "n": 6,
+     "titulo": "A Christmas Camel",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Kaleidoscope",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Salad Days (Are Here Again)",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Good Captain Clack",
+     "duracao": "1:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Repent Walpurgis",
+     "duracao": "5:05"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Procol_Harum_%28album%29",
+   "resumo_en": "Procol Harum is the debut studio album by the English rock band Procol Harum. It was released in September 1967 by record label Deram in the US, following their breakthrough and immensely popular single \"A Whiter Shade of Pale\". The track does not appear on the UK version of the album, but was included on the US issue. The UK version of the album was released in December 1967 by record label Regal Zonophone.",
+   "spotify": "6OLClv70DOXi5XxmNR0jk2",
+   "youtube": null
+  },
+  {
+   "id": "63b88b90-71f4-3ca9-86a4-3de315734e13",
+   "titulo": "Shine On Brightly",
+   "data": "1968-09",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/c33d923d-fd64-3734-b086-4c3e5d6a26fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Quite Rightly So",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Shine On Brightly",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Skip Softly (My Moonbeams)",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Wish Me Well",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Rambling On",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Magdalene (My Regal Zonophone)",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "In Held ’Twas In I: Glimpses of Nirvana – ’Twas Teatime at the Circus – In the Autumn of My Madness – Look to Your Soul – Grand Finale",
+     "duracao": "17:31"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shine_On_Brightly",
+   "resumo_en": "Shine On Brightly is the second studio album by English rock band Procol Harum, released in 1968 by record labels Regal Zonophone and A&M.\nIt is considered an early example of progressive rock.\nThe album's single, \"Quite Rightly So\", failed to repeat the success of Procol Harum's first two singles (\"A Whiter Shade of Pale\" and \"Homburg\"), but the album itself was a commercial success in the United States, outperforming their first album, though it failed to chart in their home country. In Canada, the album reached #26.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4eebdc43-00e0-3463-b7f8-206622427feb",
+   "titulo": "A Salty Dog",
+   "data": "1969-03-01",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/c6ebc669-8406-4f80-b03e-2aeb0c1dc485/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Salty Dog",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "The Milk of Human Kindness",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Too Much Between Us",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "The Devil Came From Kansas",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Boredom",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Juicy John Pink",
+     "duracao": "2:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Wreck of the Hesperus",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "All This and More",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Crucifiction Lane",
+     "duracao": "5:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Pilgrims Progress",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Salty_Dog",
+   "resumo_en": "A Salty Dog is the third studio album by English rock band Procol Harum, released in 1969 by record labels Regal Zonophone and A&M.",
+   "spotify": "1IIiA6WGb5XGb9qZpvCQKK",
+   "youtube": null
+  },
+  {
+   "id": "cf2d7697-b6c2-3e8e-9a42-59153daa2ec1",
+   "titulo": "Home",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/33fb77c4-bb07-3fe8-a62c-401beb795ae2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Whiskey Train",
+     "duracao": "4:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Dead Man's Dream",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Still There'll Be More",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Nothing That I Didn't Know",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "About to Die",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Barnyard Story",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Piggy Pig Pig",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Whaling Stories",
+     "duracao": "7:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Your Own Choice",
+     "duracao": "3:09"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Home_%28Procol_Harum_album%29",
+   "resumo_en": "Home is Procol Harum's fourth album, released in 1970. With the departure of organist Matthew Fisher and bassist David Knights, and the addition of bassist/organist Chris Copping to the remaining core roster of players (lead singer and pianist Gary Brooker, drummer B. J. Wilson and lead guitarist Robin Trower), Procol Harum became the Paramounts again in all but name. The purpose of bringing in Copping was to return some of the R&B sound to the band that they had had with their previous incarnation.\nThe initial sessions were performed in London at Trident Studios in the autumn of 1969 under the supervision of former organist Matthew Fisher, who had also produced the band's previous album. Unhappy with the sound and performances, the band scrapped the Trident sessions and began again in February 1970 with producer Chris Thomas and engineer Jeff Jarratt at Abbey Road Studios. Once the album was completed, it was decided that the cover would be a parody of a British edition of the board game snakes and ladders, featuring members of the band.\nWhen the album was released in June 1970 it charted at No. 34 in the U.S. and No. 49 in the UK; it made the Danish Top 10, peaking at No. 6. The ",
+   "spotify": "2vl4X7qVKG5MK3TyvToTRQ",
+   "youtube": "OLAK5uy_mzSJ6IeNy35VxQBY7gNhZycvtBfYOA8t4"
+  },
+  {
+   "id": "b75183bf-267a-3446-ad12-3c4459dd0d6f",
+   "titulo": "Broken Barricades",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/72faff03-425a-4d15-893b-1beecb38aa95/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Simple Sister",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Broken Barricades",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Memorial Drive",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Luskus Delph",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Power Failure",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Song for a Dreamer",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Playmate of the Mouth",
+     "duracao": "5:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Poor Mohammed",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Broken_Barricades",
+   "resumo_en": "Broken Barricades is the fifth album by the English rock band Procol Harum, released the same week they began their U.S. tour, in April 1971. The UK release was on 11 June 1971. It was guitarist Robin Trower's last recording with the group until The Prodigal Stranger (1991).\n\"Song for a Dreamer\" is a tribute to Jimi Hendrix from Trower, who was stunned by Hendrix's death in September 1970.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b3a77032-e766-3a66-956f-1aeb10403d43",
+   "titulo": "Grand Hotel",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/5923b585-9f49-4472-ad15-d2d76d0806e7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Grand Hotel",
+     "duracao": "6:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Toujours l'amour",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "A Rum Tale",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "T.V. Caesar",
+     "duracao": "5:55"
+    },
+    {
+     "n": 5,
+     "titulo": "A Souvenir of London",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Bringing Home the Bacon",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "For Liquorice John",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Fires (Which Burnt Brightly)",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Robert's Box",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Grand_Hotel_%28album%29",
+   "resumo_en": "Grand Hotel is the sixth studio album by Procol Harum. Released in 1973, it signalled a change of direction for the band. Guitarist Dave Ball, who had joined the band for their live album the previous year, left shortly after the photo shoot for the proposed album's cover, to be replaced by Mick Grabham. Grabham's head was superimposed on the front and back cover of the album on Ball's body (far left on the cover). Although the band had gone through significant personnel changes in previous years, the band would enter its most stable phase with this lineup.\nThe album reached No. 21 on the Billboard album charts. It peaked at No. 4 in Denmark, where the group was always well received.\nAlthough Grand Hotel appears on the surface to be a concept album, the \"concept\", according to lyricist Keith Reid, doesn't extend beyond the title tune.\nThe single \"A Souvenir of London\" was banned by the BBC for the reference to venereal disease in its lyrics. Reid claimed that the song was really inspired (regardless of how it turned out and was interpreted) by a visit to a souvenir shop near George Martin's AIR Studios where the album was recorded. \"Almost every album has had at least one comic son",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5c50e1f1-32c5-303a-a271-63b6cfcdce3e",
+   "titulo": "Exotic Birds and Fruit",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/05d9ff2f-ea82-4269-a947-b9ae406c924f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nothing but the Truth",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Beyond the Pale",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "As Strong as Samson",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "The Idol",
+     "duracao": "6:44"
+    },
+    {
+     "n": 5,
+     "titulo": "The Thin End of the Wedge",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Monsieur R. Monde",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Fresh Fruit",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Butterfly Boys",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "New Lamps for Old",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Exotic_Birds_and_Fruit",
+   "resumo_en": "Exotic Birds and Fruit is the seventh studio album by British progressive rock band Procol Harum.  It was released in 1974. The cover artwork for the album is by Jakob Bogdani, a noted Hungarian artist whose paintings centered on exotic birds and fruit.\nIn Argentina, the album was titled Pájaros Y Frutas Exóticas (literally translated as \"Birds and Exotic Fruit\").",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "859b5b4a-2059-371c-815c-7814e10c2a51",
+   "titulo": "Procol’s Ninth",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/a9dc1b92-c006-4453-8048-3d1b17db29a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pandora’s Box",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Fool’s Gold",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Taking the Time",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "The Unquiet Zone",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "The Final Thrust",
+     "duracao": "4:41"
+    },
+    {
+     "n": 6,
+     "titulo": "I Keep Forgetting",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Without a Doubt",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "The Piper’s Tune",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Typewriter Torment",
+     "duracao": "4:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Eight Days a Week",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Procol%27s_Ninth",
+   "resumo_en": "Procol's Ninth is the eighth studio album (ninth including Live) by Procol Harum, and was released in August 1975. Produced by songwriters Jerry Leiber and Mike Stoller, Procol's Ninth featured a slightly different direction from the previous album, with a much starker sound than Chris Thomas's more elaborate productions. According to an interview with guitarist Mick Grabham, conducted by Roland Clare for the 2009 reissue, Leiber and Stoller focused less on the production sound and more on \"the structure of the songs\". The band appeared on the cover of the album in a straightforward unassuming photograph, mirroring the sound of the album itself. The cover featured simulations of each band member's signature.\nProcol's Ninth was the first release from the band to feature non-original songs: a remake of The Beatles' \"Eight Days a Week\" and Leiber & Stoller's own \"I Keep Forgetting\". \"Eight Days a Week\" was put on the album by the producers, initially against the band's wishes. The album also featured \"Pandora's Box\", a track that had been composed by Gary Brooker and Keith Reid early in the band's career.  Cash Box said of \"Pandora's Box\" that \"we guarantee you’ll be humming this Proc",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d59a46fd-d08d-4342-8a4e-b2b9e4081bde",
+   "titulo": "Something Magic",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/835d8b4b-3f48-42f7-92a3-b25812804782/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Something Magic",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Skating on Thin Ice",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Wizard Man",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "The Mark of the Claw",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Strangers in Space",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "The Worm & The Tree, Part 1",
+     "duracao": "7:50"
+    },
+    {
+     "n": 7,
+     "titulo": "The Worm & The Tree, Part 2",
+     "duracao": "5:29"
+    },
+    {
+     "n": 8,
+     "titulo": "The Worm & The Tree, Part 3",
+     "duracao": "5:22"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Something_Magic",
+   "resumo_en": "Something Magic is the ninth studio album by Procol Harum, and was released in 1977.\nElecting to work with producers Ron and Howie Albert when Leiber and Stoller (who had produced the band's preceding album) were not available, Procol Harum flew into Miami with more than enough material for their album. However, the Alberts rejected more than five of these tracks, leaving only four from the material the group had intended to use. Vocalist/composer/piano player Gary Brooker then offered up the epic \"The Worm and The Tree\", a piece by lyricist Keith Reid that Brooker had been toying with on and off for several years. Under mounting pressure to complete the musical composition and orchestral arrangements for the 19-minute epic (which according to Reid was about \"how the press tried to break up the band\") Brooker turned to local Miami arranger Mike Lewis to complete the orchestral arrangements for the title track \"Something Magic\", and band member Chris Copping to complete the woodwind arrangement for \"Skating on Thin Ice\".\nWith work completed on \"The Worm and The Tree\", Brooker previewed it for co-producers Ron and Howie Albert who approved of the piece (a surprise, given that it had ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0f4dcff8-288f-374f-b980-b1d4d3d36c3e",
+   "titulo": "The Prodigal Stranger",
+   "data": "1991-08-27",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/18a9b614-6b78-417f-8190-faed837fd10e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Truth Won’t Fade Away",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Holding On",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Man With a Mission",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "(You Can’t) Turn Back the Page",
+     "duracao": "4:00"
+    },
+    {
+     "n": 5,
+     "titulo": "One More Time",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "A Dream in Ev’ry Home",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "The Hand That Rocks the Cradle",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "The King of Hearts",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "All Our Dreams Are Sold",
+     "duracao": "5:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Perpetual Motion",
+     "duracao": "4:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Learn to Fly",
+     "duracao": "4:25"
+    },
+    {
+     "n": 12,
+     "titulo": "The Pursuit of Happiness",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Prodigal_Stranger",
+   "resumo_en": "The Prodigal Stranger is the tenth studio album by Procol Harum, released in 1991. Recorded after a 14-year break, it met with an underwhelming response from listeners but served to kick off a largely successful reunion for the band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "106ea374-c87d-3279-803d-d3eb8956b218",
+   "titulo": "The Well’s on Fire",
+   "data": "2003-03-03",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/85a7102f-5869-4014-ac5e-bcb6b3cf35b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "An Old English Dream",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Shadow Boxed",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "A Robe of Silk",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "The Blink of an Eye",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "The VIP Room",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "The Question",
+     "duracao": "5:01"
+    },
+    {
+     "n": 7,
+     "titulo": "This World Is Rich (for Stephen Maboe)",
+     "duracao": "5:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Fellow Travellers",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Wall Street Blues",
+     "duracao": "4:26"
+    },
+    {
+     "n": 10,
+     "titulo": "The Emperor’s New Clothes",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "So Far Behind",
+     "duracao": "3:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Every Dog Will Have His Day",
+     "duracao": "5:20"
+    },
+    {
+     "n": 13,
+     "titulo": "Weisselklenzenacht (The Signature)",
+     "duracao": "5:24"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Well%27s_on_Fire",
+   "resumo_en": "The Well's on Fire is the eleventh studio album by Procol Harum, released in 2003. The album was Matthew Fisher's last studio album with the band (his last live release with them was Live at Union Chapel, recorded in December 2003 and including many of the songs from the studio album). It was also their last studio album to feature lyrics from Keith Reid.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "eaf227f9-6953-4389-8fc1-e26420d6b08e",
+   "titulo": "Novum",
+   "data": "2017-04-21",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/68771a10-b70e-4e9d-b1bc-c150f41a499c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Told on You",
+     "duracao": "5:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Last Chance Motel",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Image of the Beast",
+     "duracao": "4:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Soldier",
+     "duracao": "5:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Get Caught",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Neighbour",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Sunday Morning",
+     "duracao": "5:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Businessman",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t Say That",
+     "duracao": "7:13"
+    },
+    {
+     "n": 10,
+     "titulo": "The Only One",
+     "duracao": "6:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Somewhen",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Novum_%28album%29",
+   "resumo_en": "Novum is the twelfth and final studio album by Procol Harum, released on 21 April 2017. It is their first album in 14 years, and their only one not to feature lyrics by Keith Reid.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,917 @@
+{
+ "id": "groundhogs",
+ "nome": "The Groundhogs",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "e7cab571-1fa7-4ccc-8fb5-b4f1093df973",
+ "wikidata": "Q682021",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1963",
+ "fim": "2014",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "hard rock",
+  "british blues",
+  "heavy psych",
+  "blues"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Tony_McPhee_of_The_Groundhogs_at_The_Sir_George_Robey%2C_North_London_1991.jpg/500px-Tony_McPhee_of_The_Groundhogs_at_The_Sir_George_Robey%2C_North_London_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/The_Groundhogs",
+ "resumo_pt": "",
+ "resumo_en": "The Groundhogs were an English blues and rock band founded in late 1963 in London. Named after John Lee Hooker's song \"Ground Hog Blues\", they were part of the burgeoning British rhythm and blues scene, backing Hooker on his album ...And Seven Nights. \nThey were predominantly a power trio of Tony McPhee (singer, guitarist, song-writer), Peter Cruickshank (bass) and Ken Pustelnik (drums), with Clive Brooks replacing Pustelnik in 1972 until the band split in 1974. They issued seven albums via Liberty/UA, including the UK Top 10 Thank Christ for the Bomb (1970, #9), Split (1971, #5) and Who Will Save the World? (1972, #8). These albums were rooted in blues rock, but occasionally showed touches of progressive and psychedelic rock.\nMcPhee resurrected the name with a different rhythm section in 1975 for two more studio albums, and again from 1982 to 2003 for a further two studio albums. A reunion of the early 1970s trio in 2003 featured McPhee, with Cruickshank and Pustelnik continuing afterwards as The Groundhogs Rhythm Section.\nMcPhee resurrected the name again in 2007 through to 2014, although only for live performances.",
+ "albuns": [
+  {
+   "id": "f564e7d1-b683-3e4a-8880-91fa7bcbee09",
+   "titulo": "…and Seven Nights",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/eee9610c-5425-49b0-b16f-c76687cec48c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mai Lee",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Losing You",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Girl Go Back to School",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Dreamer",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Be Messin’ With My Bread",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Bad Luck and Trouble",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Waterfront",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "No One Pleases Me But You",
+     "duracao": "2:24"
+    },
+    {
+     "n": 9,
+     "titulo": "It’s Rainin’ Here",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "It’s a Crazy Mixed Up World",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Seven Days and Seven Nights",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "995cbf67-02da-3623-a73c-e96b53535b6d",
+   "titulo": "Scratching the Surface",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/cbd859ec-f362-4752-91d0-ae7f25205708/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rocking Chair",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Early in the Morning",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Waking Blues",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Married Men",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "No More Doggin’",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Man Trouble",
+     "duracao": "6:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Come Back Baby",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "You Don’t Love Me",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Still a Fool",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scratching_the_Surface_%28Groundhogs_album%29",
+   "resumo_en": "Scratching the Surface is the debut album by English band Groundhogs, released in 1968 by Liberty Records.\nDave Thompson at AllMusic commented \"... if you want to hear the blues sluicing straight out of the Southern England Delta, there are precious few better introductions\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4fcf1133-0c66-396e-bd85-9c280bd5b154",
+   "titulo": "Blues Obituary",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/cc64eeae-53ee-478c-b5af-b0041b4253c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "B.D.D.",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Daze of the Weak",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Times",
+     "duracao": "5:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Mistreated",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Express Man",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Natchez Burning",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Light Was the Day",
+     "duracao": "6:53"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fdbc0db5-e065-3069-a85d-1da016f956ec",
+   "titulo": "Thank Christ for the Bomb",
+   "data": "1970-06",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/b69b1079-38b3-433b-87b8-540c9e1e6a6d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Strange Town",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Darkness Is No Friend",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Soldier",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Thank Christ for the Bomb",
+     "duracao": "7:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Ship on the Ocean",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Garden",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Status People",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Rich Man, Poor Man",
+     "duracao": "3:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Eccentric Man",
+     "duracao": "4:56"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thank_Christ_for_the_Bomb",
+   "resumo_en": "Thank Christ for the Bomb is the third studio album recorded by The Groundhogs, originally released by Liberty Records in 1970. It was engineered by Martin Birch, who had previously worked on albums by Deep Purple, Jeff Beck, Fleetwood Mac and Peter Green. It entered the UK Melody Maker album charts at number 27 on 20 June 1970, and had a total of 3 entries in that chart.\nThe album is a concept album, or to be exact, has two concepts. Side 1 (tracks 1–4) addresses what McPhee termed \"alienness\" while side 2 is, according to the sleeve notes, \"the story of a man who lived in Chelsea all his life; first in a mansion then on the benches of the embankment\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4c5b390f-b60b-3edf-aefc-6e63dcffc06b",
+   "titulo": "Split",
+   "data": "1971-04",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/870e9ebe-1396-4459-9918-c3a04314d8db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Split-Part One",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Split-Part Two",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Split-Part Three",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Split-Part Four",
+     "duracao": "5:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Cherry Red",
+     "duracao": "5:43"
+    },
+    {
+     "n": 6,
+     "titulo": "A Year in the Life",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Junkman",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Groundhog",
+     "duracao": "5:49"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Split_%28Groundhogs_album%29",
+   "resumo_en": "Split is a studio album recorded by English blues and rock band Groundhogs in November 1970 and released in March 1971.\nIt was originally released by Liberty Records with catalogue number LBG 83401. It was reissued on CD reissue in 2003 by Liberty / EMI Records, with catalogue number 07243-584819-2-1. In September 2020, it was released on limited-edition red vinyl (as well as CD) from Fire Records, including a second disc containing a number of outtakes and new sleeve notes by Dave Henderson of Mojo magazine.\nAccording to Tony McPhee's sleeve notes for the 2003 CD reissue, the lyrics for Split were inspired by a panic attack he experienced in May 1970, and the studio version of \"Cherry Red\" was recorded live in a single take.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f797e119-8d71-372f-b58e-25bb33ab4b07",
+   "titulo": "Hogwash",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/27e7bb78-bc17-4921-9239-0d9b93c7a637/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Love Miss Ogyny",
+     "duracao": "5:20"
+    },
+    {
+     "n": 2,
+     "titulo": "You Had A Lesson",
+     "duracao": "5:45"
+    },
+    {
+     "n": 3,
+     "titulo": "The Ringmaster",
+     "duracao": "1:25"
+    },
+    {
+     "n": 4,
+     "titulo": "3744 James Road",
+     "duracao": "7:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Sad Is The Hunter",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "S'one Song",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Earth Shanty",
+     "duracao": "6:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Mr. Hooker, Sir John",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ff04f33c-f335-3914-8006-12def69e6be8",
+   "titulo": "Who Will Save the World? The Mighty Groundhogs",
+   "data": "1972-03",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/f4c0227d-64c1-4d24-9987-e00c1126075e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Earth Is Not Room Enough",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Wages of Peace",
+     "duracao": "4:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Body in Mind",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Music Is the Food of Thought",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Bog Roll Blues",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Death of the Sun",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Amazing Grace",
+     "duracao": "2:20"
+    },
+    {
+     "n": 8,
+     "titulo": "The Grey Maze",
+     "duracao": "10:05"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Who_Will_Save_the_World%3F",
+   "resumo_en": "Who Will Save the World? The Mighty Groundhogs is a 1972 album recorded by The Groundhogs, originally released by United Artists Records in 1972, catalogue number UAS-5570. The most recent CD reissue is that of 2003 by EMI Records, catalogue number 07243-584815-2-5.\nThe sleeve artwork takes the form of a comic book featuring the Groundhogs depicted as superheroes, drawn by comic book artist Neal Adams. In the story they fight the personified evils of Over-Population, Pollution, War, \"Pig Business\" and \"Sacred Cow\" (Religion), and the Junkie Monkey. Each of the band members takes on a different evil thwarting them to begin with only to have them spin off and wreak havoc on another portion of the globe. The lyrics of each song deal with these themes and despite the comic-book nature of the cover, the lyrics are quite serious being politically and socially motivated.\nThis was the first Groundhogs album to venture beyond guitar/bass/drums instrumentation, with McPhee utilising keyboards (mellotron and harmonium) on a number of the tracks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "21e6efa8-54cf-317f-812f-4fdd6f557641",
+   "titulo": "Solid",
+   "data": "1974-06",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/dd6dd2da-f25a-435d-b351-49fab9773fb9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Light My Light",
+     "duracao": "6:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Free From All Alarm",
+     "duracao": "5:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Sins of the Father",
+     "duracao": "5:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Sad Go Round",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Corn Cob",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Plea Sing, Plea Song",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Snowstorm",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Joker’s Grave",
+     "duracao": "8:40"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "56c154f1-d2b7-35e9-90a9-a2b850a8370f",
+   "titulo": "Black Diamond",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/11ff3843-afd1-48d6-8a54-9f05a9d79625/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Body Talk",
+     "duracao": "4:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Fantasy Partner",
+     "duracao": "5:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Live Right",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Country Blues",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Your Love Keeps Me Alive",
+     "duracao": "5:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Friendzy",
+     "duracao": "5:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Pastoral Future",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Black Diamond",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "850ce9da-854a-38c5-8691-af44b57871de",
+   "titulo": "Crosscut Saw",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/bbca75df-428d-41cb-bc4b-9b18f423228f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crosscut Saw",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Promiscuity",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Boogie With Us",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Fulfilment",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Live a Little Lady",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Three Way Split",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Mean Mistreater",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Eleventh Hour",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce077721-836e-32ae-bbdc-6b6ced2a42fe",
+   "titulo": "Razors Edge",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/5b07072e-9931-4059-8d63-548da4845385/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Razors Edge",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "I Confess",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Born to Be With You",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Chance",
+     "duracao": "7:11"
+    },
+    {
+     "n": 5,
+     "titulo": "The Protector",
+     "duracao": "4:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Superseded",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Moving Fast Standing Still",
+     "duracao": "5:25"
+    },
+    {
+     "n": 8,
+     "titulo": "I Want You to Love Me",
+     "duracao": "6:38"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "74b1cd46-51b0-3aec-9c7a-2dbed9be44d1",
+   "titulo": "Back Against the Wall",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/ab600f4d-9aec-4efd-b925-ea3e7ab3e1f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Back Against the Wall",
+     "duracao": "5:26"
+    },
+    {
+     "n": 2,
+     "titulo": "No to Submission",
+     "duracao": "4:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Boar Blues",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Waiting in Shadows",
+     "duracao": "6:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Ain’t No Slaver",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Stick to Your Guns",
+     "duracao": "5:56"
+    },
+    {
+     "n": 7,
+     "titulo": "In the Meantime",
+     "duracao": "5:15"
+    },
+    {
+     "n": 8,
+     "titulo": "54146",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b077547-69ab-3b9b-a64d-4c3c8d45ffe4",
+   "titulo": "Hogs in Wolf’s Clothing",
+   "data": "1998-11-09",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/a5be6273-c2dc-45a6-bf47-5552a5bef78f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smokestack Lightnin’",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Baby, How Long",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Commit a Crime",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Forty Four",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "No Place to Go",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain’t Superstitious",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Evil",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "So Glad",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "My Life",
+     "duracao": "5:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Sittin’ on Top of the World",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Shake for Me",
+     "duracao": "3:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Wang Dang Doodle",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "How Many More Years",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "Nature",
+     "duracao": "4:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Down in the Bottom",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "35e6fd1b-d6f0-3024-a7fd-1eb5639ce3a8",
+   "titulo": "Muddy Waters Songbook",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/9ffcc89a-6d2e-40c5-8459-2fa1d87a848c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stuff You Gotta Watch",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "She’s Alright",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "I’ve Got a Rich Man’s Woman",
+     "duracao": "2:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Can’t Call Her Sugar",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Forty Days and Forty Nights",
+     "duracao": "2:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Mean Ole Frisco",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m Ready",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Young Fashioned Ways",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Hoochie Coochie Man",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "I Feel So Good",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Mean Red Spider",
+     "duracao": "2:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Tiger in Your Tank",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Mannish Boy",
+     "duracao": "3:27"
+    },
+    {
+     "n": 14,
+     "titulo": "Got My Mojo Workin’",
+     "duracao": "4:36"
+    },
+    {
+     "n": 15,
+     "titulo": "Country Blues",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

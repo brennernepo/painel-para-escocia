@@ -1,0 +1,1225 @@
+{
+ "id": "caravan",
+ "nome": "Caravan",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "82dd3f5d-4c36-4dbe-981d-6845c91445f8",
+ "wikidata": "Q767871",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1968",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive rock",
+  "canterbury scene"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/PyeHastings.jpg/500px-PyeHastings.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Caravan",
+ "resumo_pt": "Caravan é uma banda britânica de rock e jazz. O grupo alcançou sucesso depois de anos fazendo parte do movimento musical de Canterbury, junto com o Camel, Soft Machine, National Health e Hatfield And The North (o que caracteriza o som das bandas desse movimento é a mistura de psicodelia, jazz e o que mais vier à cabeça). O Caravan ainda existe, trabalhando principalmente em apresentações ao vivo.\nAtualmente, a banda conta com Pye Hastings nos vocais e guitarra; Richard Coughlan na percussão; Geoffrey Richardson na viola, flauta, guitarra, e outros; Jan Schelhaas nos teclados; Jim Leverton no baixo e Mark Walker na bateria e percussão.",
+ "resumo_en": "Caravan are an English rock band from the Canterbury area, founded by former Wilde Flowers members David Sinclair, Richard Sinclair, Pye Hastings, and Richard Coughlan in 1968. The band have never achieved the great commercial success that was widely predicted for them at the beginning of their career, but are nevertheless considered a key part of the Canterbury scene of progressive rock acts, blending psychedelic rock, jazz, and classical influences to create a distinctive sound.\nThe band were originally based in Whitstable, Kent, near Canterbury, but moved to London when briefly signed to Verve Records. After being dropped by Verve, the band signed to Decca Records, where they released their most critically acclaimed album, In the Land of Grey and Pink, in 1971. Dave Sinclair left after the album's release and the group split up the following year. Hastings and Coughlan added new members, notably viola player Geoffrey Richardson, continuing on before splitting in 1978.\nThe band re-formed several times in the following decades, and Caravan still remain active as a live band in the 21st century, despite Coughlan's death in December 2013.",
+ "albuns": [
+  {
+   "id": "f5ee86bf-e172-3514-856f-ee47f3d21bec",
+   "titulo": "Caravan",
+   "data": "1969-03",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/3ed747c3-27e9-40e8-88f9-e4e6fa48e634/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Place of My Own",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Ride",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Policeman",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Song With Flute",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Cecil Runs",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Magic Man",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Grandma’s Lawn",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Where but for Caravan Would I",
+     "duracao": "9:02"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Caravan_%28Caravan_album%29",
+   "resumo_en": "Caravan is the debut album by the British Canterbury scene and progressive rock band Caravan. It was released by Verve Forecast in January (UK) and March 1969 (US) and was the group's only album for the label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8cf5e0fc-2728-3269-9ab9-64e9e38f5633",
+   "titulo": "If I Could Do It All Over Again, I’d Do It All Over You",
+   "data": "1970-09-04",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/41e4e378-9123-439b-99bc-cc69e034fae0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If I Could Do It All Over Again, I’d Do It All Over You",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "And I Wish I Were Stoned",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Worry",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "As I Feel I Die",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "With an Ear to the Ground You Can Make It",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Martinian",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Only Cox",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Reprise",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Hello Hello",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Asforteri 25",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Can’t Be Long Now",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Françoise",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "For Richard",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Warlock",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Limits",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.9,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/If_I_Could_Do_It_All_Over_Again%2C_I%27d_Do_It_All_Over_You",
+   "resumo_en": "If I Could Do It All Over Again, I'd Do It All Over You is the second album by Canterbury scene band Caravan, released on 4 September 1970. The album is representative of the Canterbury scene genre, featuring representative organ solos and melodic vocals typical of the band's style. The album was released on Decca Records, as was the title track as a single release.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "291c5ab1-5c4e-3898-993c-0416f9b38a65",
+   "titulo": "In the Land of Grey and Pink",
+   "data": "1971-04-08",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/bf398ab4-721e-46e6-b70c-588da8523278/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Golf Girl",
+     "duracao": "5:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Winter Wine",
+     "duracao": "7:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Love to Love You (And Tonight Pigs Will Fly)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "In the Land of Grey and Pink",
+     "duracao": "4:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Nine Feet Underground: Nigel Blows a Tune / Love’s a Friend / Make It 76 / Dance of the Seven Paper Hankies / Hold Grandad by the Nose / Honest I Did! / Disassociation / 100% Proof",
+     "duracao": "22:39"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8.3,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_the_Land_of_Grey_and_Pink",
+   "resumo_en": "In the Land of Grey and Pink is the third album by English progressive rock band Caravan, released in April 1971 on Deram Records. It was produced by David Hitchcock and was the last album to feature the original lineup of Richard Coughlan, Pye Hastings, Richard Sinclair and Dave Sinclair until 1982's Back to Front.\nThe album was written and recorded during late 1970 and early 1971, and featured more material from Richard Sinclair. Hastings, who had been the main songwriter on the previous two releases, contributed only one track. Instrumentally, the music is dominated by David Sinclair's keyboard solos, and side two is taken up by a 22-minute suite of songs, \"Nine Feet Underground\". The cover features a Tolkien-influenced painting.\nThe album was critically well received but was not a chart success, which led to frustration within the band and David Sinclair's departure. Nevertheless, it has remained in print and sold steadily, and been recommended by critics as a good introduction to the Canterbury Scene genre. The band look back favourably on the album and several of its tracks have remained fixtures in Caravan's live repertoire. It has been reissued several times, including a co",
+   "spotify": "3ey3MCD8D6RRMK0LXMpltW",
+   "youtube": null
+  },
+  {
+   "id": "fd4ce682-00e7-32af-9253-c1347f57d0d6",
+   "titulo": "Waterloo Lily",
+   "data": "1972-05",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/3e91aab3-4dcd-44ce-91a3-a4d13cd01ba2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Waterloo Lily",
+     "duracao": "6:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Nothing at All / It’s Coming Soon / Nothing at All (reprise)",
+     "duracao": "10:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Songs and Signs",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Aristocracy",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "The Love in Your Eye / To Catch Me a Brother / Subsultus / Debouchement / Tilbury Kecks",
+     "duracao": "12:32"
+    },
+    {
+     "n": 6,
+     "titulo": "The World Is Yours",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waterloo_Lily",
+   "resumo_en": "Waterloo Lily is the fourth album by Caravan, released in 1972 on the Deram label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cb851b6d-30c2-3cf3-81ad-9a20a232e050",
+   "titulo": "For Girls Who Grow Plump in the Night",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/072bc4ae-07dd-4f78-951a-898408068b11/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Memory Lain, Hugh / Headloss",
+     "duracao": "9:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Hoedown",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Surprise, Surprise",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "C’Thlu Thlu",
+     "duracao": "6:15"
+    },
+    {
+     "n": 5,
+     "titulo": "The Dog, the Dog, He’s at It Again",
+     "duracao": "5:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Be All Right / Chance of a Lifetime",
+     "duracao": "6:37"
+    },
+    {
+     "n": 7,
+     "titulo": "L’Auberge du Sanglier / A Hunting We Shall Go / Pengola / Backwards / A Hunting We Shall Go (reprise)",
+     "duracao": "10:07"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/For_Girls_Who_Grow_Plump_in_the_Night",
+   "resumo_en": "For Girls Who Grow Plump in the Night is the fifth studio album released by the Canterbury scene band Caravan. Richard Sinclair and Steve Miller left the band prior to the recording of this album. They were replaced by John G. Perry and the returning Dave Sinclair. Viola player Geoff Richardson was added to the band.\nThe name of the album is a pun on the phrase \"things that go bump in the night\". The full cover photo depicts a sleeping pregnant woman.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3524edd0-241a-3238-a596-02a27eb28c86",
+   "titulo": "Cunning Stunts",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/0c9cbe60-23ad-44c3-af35-9b7e2930538e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Show of Our Lives",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Stuck in a Hole",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Lover",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "No Backstage Pass",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Welcome the Day",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Dabsong Conshirtoe Part 1. The Mad Dabsong Part2. Ben Karratt Rides Again Part 3. Pro's and Con's Part 4. Wraiks and Ladders Part 5. Sneaking Out the Bare Quare Part 6. All Sort of Unmentionable Things",
+     "duracao": "18:01"
+    },
+    {
+     "n": 7,
+     "titulo": "The Fear and Loathing in Tollington Park Rag",
+     "duracao": "1:09"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cunning_Stunts_%28Caravan_album%29",
+   "resumo_en": "Cunning Stunts is the sixth studio album by the progressive rock band Caravan, released in 1975. It was their first album with the  bass guitarist, vocalist and songwriter Mike Wedgwood. The title of the album is a spoonerism for \"Stunning Cunts\", which is typical of their cheeky use of language. Three previous Caravan albums with titles that are also sexual plays on words are If I Could Do It All Over Again, I'd Do It All Over You (1970), In the Land of Grey and Pink (1971) and For Girls Who Grow Plump in the Night (1973).",
+   "spotify": "3JUX7aD27mjSoOLS1vZMpc",
+   "youtube": null
+  },
+  {
+   "id": "f9c83a65-73c5-3955-a081-ba73e15a77bc",
+   "titulo": "Blind Dog at St. Dunstans",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/c61555c4-ecd2-459c-9005-bb51e64f6de5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Here Am I",
+     "duracao": "6:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Chiefs and Indians",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "A Very Smelly, Grubby Little Oik",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Bobbing Wide",
+     "duracao": "2:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Come on Back",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Oik (reprise)",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Jack and Jill",
+     "duracao": "6:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Can You Hear Me?",
+     "duracao": "6:19"
+    },
+    {
+     "n": 9,
+     "titulo": "All the Way (with John Wayne’s Single-Handed Liberation of Paris)",
+     "duracao": "8:52"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blind_Dog_at_St._Dunstans",
+   "resumo_en": "Blind Dog at St. Dunstans is the seventh studio album by Canterbury Scene rock band Caravan. It was released in 1976.\nThis album has a lighter feel than Caravan's previous releases, shifting toward shorter, \"poppier\" songs. The lighter feel is due in part to the prominence of Pye Hastings on the album. He wrote and sang eight of nine songs. Moreover, Jan Schelhaas had replaced Dave Sinclair on keyboards, moving away from lengthy organ-based instrumentals toward piano and synthesizer.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3428f274-371c-3f4e-b66e-9f0c1e999b09",
+   "titulo": "Better by Far",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/94eab04f-4611-3fd2-914d-885753951598/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feelin' Alright",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Behind You",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Better by Far",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Silver Strings",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "The Last Unicorn",
+     "duracao": "5:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Give Me More",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Man in a Car",
+     "duracao": "5:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Let It Shine",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Nightmare",
+     "duracao": "6:21"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Better_by_Far",
+   "resumo_en": "Better by Far is the eighth studio album by Canterbury scene rock band Caravan.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "30ef725e-8fb6-3483-a310-dd8df3678beb",
+   "titulo": "The Album",
+   "data": "1980-11",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/cd0b9cdd-6cad-32d1-94cc-69bff864434c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heartbreaker",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Corner of Me Eye",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Watcha Gonna Tell Me",
+     "duracao": "5:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Piano Player",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Make Yourself at Home",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Golden Mile",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Bright Shiny Day",
+     "duracao": "6:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Clear Blue Sky",
+     "duracao": "6:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Keepin' Up De Fences",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Album_%28Caravan_album%29",
+   "resumo_en": "The Album is the ninth album released by English progressive rock band Caravan. It was recorded at Farmyard Studios, Little Chalfont, Buckinghamshire in July 1980.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "26188eb0-7d5f-3474-857a-ab4a99d04973",
+   "titulo": "Back to Front",
+   "data": "1982-07",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/7a04c6a3-c74c-4957-88d7-30f184259787/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Back to Herne Bay Front",
+     "duracao": "5:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Bet You Wanna Take It All / Hold on Hold On",
+     "duracao": "5:22"
+    },
+    {
+     "n": 3,
+     "titulo": "A.A. Man",
+     "duracao": "5:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Videos of Hollywood",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Sally Don’t Change It",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "All Abroad",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Taken by Breath Away",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Proper Job / Back to Front",
+     "duracao": "8:19"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Back_to_Front_%28Caravan_album%29",
+   "resumo_en": "Back to Front is the tenth album by English progressive rock band Caravan, released in 1982. Back to Front featured the original lineup of Richard Coughlan, Pye Hastings, Richard Sinclair and David Sinclair after 1971's In the Land of Grey and Pink and is the last studio album to feature that lineup.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "821e3abf-acce-379e-ab9a-69a23f63f730",
+   "titulo": "The Battle of Hastings",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/161ce5e0-1e55-4877-ae61-435a435cde20/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It's a Sad, Sad Affair",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Somewhere in Your Heart",
+     "duracao": "5:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Cold as Ice",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Liar",
+     "duracao": "6:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Want Love",
+     "duracao": "6:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Travelling Ways",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "This Time",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "If It Wasn't for Your Ego",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "It's Not Real",
+     "duracao": "5:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Wendy Wants Another 6' Mole",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "I Know Why You're Laughing",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Battle_of_Hastings_%28album%29",
+   "resumo_en": "The Battle of Hastings is the twelfth album by the British Canterbury scene progressive rock band Caravan, released in 1995.",
+   "spotify": "1zFp7u42HFMh5qdKlfd4jq",
+   "youtube": null
+  },
+  {
+   "id": "2a1ec523-b3ec-35af-a5bf-93b7fb3d0ca1",
+   "titulo": "Cool Water",
+   "data": "1995-10-17",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/1044338e-f906-4561-841f-c0bfb853b23f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cool Water",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Just the Way You Are",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Tuesday Is Rock and Roll Nite",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "The Crack of the Willow",
+     "duracao": "5:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Ansaphone",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Cold Fright",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Side by Side",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "You Won't Get Me Up in One of Those",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "To the Land of My Fathers",
+     "duracao": "4:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Poor Molly",
+     "duracao": "5:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Send Reinforcements",
+     "duracao": "4:47"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cool_Water_%28album%29",
+   "resumo_en": "Cool Water is the eleventh album by English progressive rock band Caravan, released in 1994. It is a compilation of old recordings, including their unreleased second Arista album shelved in 1978.",
+   "spotify": "1dbt0KfnwUuiwZjgBojuKL",
+   "youtube": null
+  },
+  {
+   "id": "c0122d29-d919-38ab-b9d0-9a0aae7b45cb",
+   "titulo": "All Over You",
+   "data": "1996",
+   "ano": "1996",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If I Do It All Over Again, I’d Do It Over You",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Place of My Own",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "The Love in Your Eyes / To Catch Me a Brother",
+     "duracao": "4:16"
+    },
+    {
+     "n": 4,
+     "titulo": "In the Land of Grey and Pink",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Golf Girl",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Disassociation (Nine Feet Underground)",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Hello Hello",
+     "duracao": "3:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Asforteri 25",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "For Richard: Can’t Be Long Now / Françoise / For Richard / Warlock",
+     "duracao": "8:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Memory Lain, Hugh",
+     "duracao": "5:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Headloss",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e9152550-531f-38dc-aa03-e063b9dfc312",
+   "titulo": "All Over You… Too",
+   "data": "2000-06-20",
+   "ano": "2000",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hoedown",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Very Smelly Grubby Little Oik",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Bobbing Wide",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "The Dog, the Dog, He’s at It Again",
+     "duracao": "6:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Stuck in a Hole",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Ride",
+     "duracao": "7:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Nightmare",
+     "duracao": "7:00"
+    },
+    {
+     "n": 8,
+     "titulo": "C’thlu Thlu",
+     "duracao": "7:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Bobbing Wide (reprise)",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_Over_You_Too",
+   "resumo_en": "All Over You...Too is the second compilation album volume of the 1990s reformation of the progressive rock band Caravan released in 2000.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "01e95c8c-ff4d-382d-9c17-2139c95e175e",
+   "titulo": "The Unauthorised Breakfast Item",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/413e96f0-33f0-407d-89ef-08ea7e7af09f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smoking Gun (Right for Me)",
+     "duracao": "5:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Revenge",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "The Unauthorised Breakfast Item",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Tell Me Why",
+     "duracao": "6:16"
+    },
+    {
+     "n": 5,
+     "titulo": "It's Getting a Whole Lot Better",
+     "duracao": "8:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Head Above the Clouds",
+     "duracao": "7:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Straight Through the Heart",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Wild West Street",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Nowhere to Hide",
+     "duracao": "8:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Linders Field",
+     "duracao": "3:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Smoking Gun (Right for Me) (live)",
+     "duracao": "7:56"
+    },
+    {
+     "n": 12,
+     "titulo": "The Unauthorised Breakfast Item (live)",
+     "duracao": "6:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Tell Me Why (live)",
+     "duracao": "5:45"
+    },
+    {
+     "n": 14,
+     "titulo": "Revenge (live)",
+     "duracao": "5:42"
+    },
+    {
+     "n": 15,
+     "titulo": "For Richard (live)",
+     "duracao": "14:22"
+    }
+   ],
+   "duracao_min": 100,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Unauthorised_Breakfast_Item",
+   "resumo_en": "The Unauthorised Breakfast Item is the thirteenth studio album by progressive rock band Caravan, released in 2003.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2c420728-01e6-4fe4-8863-ff533eb0f8a2",
+   "titulo": "Paradise Filter",
+   "data": "2013-12-20",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/fa5b1faf-490c-46dc-bd9d-d8568f4e7c11/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All This Could Be Yours",
+     "duracao": "4:30"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m on My Way",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Fingers in the Till",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "This Is What We Are",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Dead Man Walking",
+     "duracao": "5:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Farewell My Old Friend",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Pain in the Arse",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Trust Me I Am a Doctor",
+     "duracao": "4:28"
+    },
+    {
+     "n": 9,
+     "titulo": "I’ll Be There for You",
+     "duracao": "6:14"
+    },
+    {
+     "n": 10,
+     "titulo": "The Paradise Filter",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bcc3b47a-27b6-444d-8b2c-e879d293667e",
+   "titulo": "It’s None of Your Business",
+   "data": "2021-10-08",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/cb26c075-c77f-4019-b59c-8f41ae5098c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down From London",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Wishing You Were Here",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s None of Your Business",
+     "duracao": "9:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Ready or Not",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Spare a Thought",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Every Precious Little Thing",
+     "duracao": "4:27"
+    },
+    {
+     "n": 7,
+     "titulo": "If I Was to Fly",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ll Reach Out for You",
+     "duracao": "8:09"
+    },
+    {
+     "n": 9,
+     "titulo": "There Is You",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Luna’s Tuna",
+     "duracao": "3:14"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1b7d84fe-5cd8-4fde-841f-9a6e4443bd3d",
+   "titulo": "Amougies",
+   "data": "2023-05-07",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/0996c9cb-3484-4ecb-bc00-f8e1a75ff413/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Place of My Own",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "If I Could Do It All Over Again, I'd Do It All Over You",
+     "duracao": "7:36"
+    },
+    {
+     "n": 3,
+     "titulo": "As I Feel I Die",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Break Away",
+     "duracao": "7:26"
+    },
+    {
+     "n": 5,
+     "titulo": "And I Wish I Were Stoned / Don't Worry",
+     "duracao": "7:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Standing",
+     "duracao": "6:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Magic Man",
+     "duracao": "6:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Feelin' Reelin' Squealin'",
+     "duracao": "8:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Where but for Caravan Would I",
+     "duracao": "11:33"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

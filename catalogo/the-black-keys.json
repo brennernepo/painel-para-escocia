@@ -1,0 +1,1256 @@
+{
+ "id": "the-black-keys",
+ "nome": "The Black Keys",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "d15721d8-56b4-453d-b506-fc915b14cba2",
+ "wikidata": "Q606226",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "2001",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "rock",
+  "blues",
+  "garage rock",
+  "alternative rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blackkeys022011.jpg/500px-Blackkeys022011.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Black_Keys",
+ "resumo_pt": "The Black Keys é uma dupla americana de blues-rock e indie rock formada pelo vocalista/guitarrista Dan Auerbach e pelo baterista/produtor Patrick Carney no ano de 2001 em Akron, Ohio.",
+ "resumo_en": "The Black Keys are an American rock duo formed in Akron, Ohio, in 2001. The group consists of Dan Auerbach (guitar, vocals) and Patrick Carney (drums). The duo began as an independent act, recording music in basements and self-producing their records, before they eventually emerged as one of the most popular garage rock artists during a second wave of the genre's revival in the 2000s. The band's raw blues rock sound draws heavily from Auerbach's blues influences, including Junior Kimbrough, R.L. Burnside, Howlin' Wolf, and Robert Johnson.\nFriends since childhood, Auerbach and Carney formed the group after dropping out of college. After signing with the independent record label Alive, they released their debut album, The Big Come Up, in 2002, which earned them a new deal with Fat Possum Records. Over the next decade, the Black Keys built an underground fanbase through extensive touring of small clubs, frequent album releases and music festival appearances, and broad licensing of their songs. Their third album, Rubber Factory (2004), received critical acclaim and boosted the band's profile, eventually leading to a record deal with the major label Nonesuch Records in 2006. After self-producing and recording their first four records in makeshift studios, the duo recorded Attack & Release (2008) in a professional studio and hired producer Danger Mouse, who subsequently became a frequent collaborator of the group.\nThe group's commercial breakthrough came in 2010 with the album Brot",
+ "albuns": [
+  {
+   "id": "3a86c3c3-d57e-3647-830a-ab5db036126b",
+   "titulo": "The Big Come Up",
+   "data": "2002-05-14",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/a2bcf290-56a4-4919-ba8b-6db8d48d7229/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Busted",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Do the Rump",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "I’ll Be Your Man",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Countdown",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "The Breaks",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Run Me Down",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Leavin’ Trunk",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Heavy Soul",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "She Said, She Said",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Them Eyes",
+     "duracao": "2:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Yearnin’",
+     "duracao": "1:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Brooklyn Bound",
+     "duracao": "3:11"
+    },
+    {
+     "n": 13,
+     "titulo": "240 Years Before Your Time (Ghost Track)",
+     "duracao": "23:20"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 5
+   },
+   "publico": 8.2,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Big_Come_Up",
+   "resumo_en": "The Big Come Up is the debut studio album by the American rock duo the Black Keys, released on May 14, 2002, on Alive Records.",
+   "spotify": "769QgaY3ERCY0mqoTVw3jg",
+   "youtube": null
+  },
+  {
+   "id": "35bacad8-4327-33f2-9e7a-3a69721ca707",
+   "titulo": "Thickfreakness",
+   "data": "2003-04-08",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/f6627aaa-1336-4048-881c-b2e718c5a444/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thickfreakness",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Hard Row",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Set You Free",
+     "duracao": "2:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Midnight in Her Eyes",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Have Love Will Travel",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Hurt Like Mine",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Everywhere I Go",
+     "duracao": "5:40"
+    },
+    {
+     "n": 8,
+     "titulo": "No Trust",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "If You See Me",
+     "duracao": "2:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Hold Me in Your Arms",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "I Cry Alone",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 74,
+    "media": 7.5,
+    "fontes": 9
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thickfreakness",
+   "resumo_en": "Thickfreakness is the second studio album by American rock duo The Black Keys, released in 2003. It is their debut release for the Fat Possum record label, although in the UK and Europe it was co-released by Epitaph Records.",
+   "spotify": "1BicwqogYc0pnMIH3tr0cM",
+   "youtube": null
+  },
+  {
+   "id": "dc7f0c9d-fd57-33a2-bfd9-b345315c2258",
+   "titulo": "Rubber Factory",
+   "data": "2004-09-07",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/4a5af121-dd4d-432e-848e-02a26afdde13/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When the Lights Go Out",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "10 A.M. Automatic",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Just Couldn't Tie Me Down",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "All Hands Against His Own",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "The Desperate Man",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Girl Is on My Mind",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "The Lengths",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Grown So Ugly",
+     "duracao": "2:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Stack Shot Billy",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Act Nice and Gentle",
+     "duracao": "2:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Aeroplane Blues",
+     "duracao": "2:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Keep Me",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Till I Get My Way",
+     "duracao": "2:31"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 81,
+    "media": 7.6,
+    "fontes": 8
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rubber_Factory",
+   "resumo_en": "Rubber Factory is the third studio album by American rock duo the Black Keys. It was self-produced by the band and was released on September 7, 2004, on Fat Possum Records. The album was recorded in an abandoned tire factory in the group's hometown of Akron, Ohio. Rubber Factory received positive reviews and was the band's first album to chart on the Billboard 200 in the United States, reaching number 143.",
+   "spotify": "6OphQUjIBIZHXzugkjMjxz",
+   "youtube": null
+  },
+  {
+   "id": "0df23c7f-bc3f-39dd-805a-c4de489bd569",
+   "titulo": "Magic Potion",
+   "data": "2006-09-02",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/9bfb8987-a619-399c-876d-0184b7932a31/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just Got to Be",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Your Touch",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re the One",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Just a Little Heat",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Give Your Heart Away",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Strange Desire",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Modern Times",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "The Flame",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Goodbye Babylon",
+     "duracao": "5:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Black Door",
+     "duracao": "3:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Elevator",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 69,
+    "media": 6.5,
+    "fontes": 8
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Magic_Potion_%28album%29",
+   "resumo_en": "Magic Potion is the fourth studio album by American rock duo the Black Keys. It was released in 2006 and was their first record released on Nonesuch Records, the band's current label. This album marks the first time they wrote and composed entirely original material, unlike on previous albums and EPs.",
+   "spotify": "4jFfuHyKmhGeipjRmKIh8O",
+   "youtube": null
+  },
+  {
+   "id": "11344dd5-7739-3cf9-9a9c-7328362e2892",
+   "titulo": "Attack & Release",
+   "data": "2008-03-31",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/84b39ce5-9890-425b-a85a-a4e752693839/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All You Ever Wanted",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "I Got Mine",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Strange Times",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Psychotic Girl",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Lies",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Remember When (Side A)",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Remember When (Side B)",
+     "duracao": "2:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Same Old Thing",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "So He Won’t Break",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Oceans and Streams",
+     "duracao": "3:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Things Ain’t Like They Used to Be",
+     "duracao": "4:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Same Old Thing",
+     "duracao": "3:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Girl Is on My Mind",
+     "duracao": "4:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Set You Free",
+     "duracao": "3:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Thickfreakness",
+     "duracao": "3:42"
+    },
+    {
+     "n": 16,
+     "titulo": "Stack Shot Billy",
+     "duracao": "4:34"
+    },
+    {
+     "n": 17,
+     "titulo": "Busted",
+     "duracao": "4:44"
+    },
+    {
+     "n": 18,
+     "titulo": "You’re the One",
+     "duracao": "3:10"
+    },
+    {
+     "n": 19,
+     "titulo": "Remember When (Side B)",
+     "duracao": "2:27"
+    },
+    {
+     "n": 20,
+     "titulo": "Your Touch",
+     "duracao": "2:48"
+    },
+    {
+     "n": 21,
+     "titulo": "Oceans and Streams",
+     "duracao": "3:34"
+    },
+    {
+     "n": 22,
+     "titulo": "Strange Times",
+     "duracao": "2:49"
+    },
+    {
+     "n": 23,
+     "titulo": "Psychotic Girl",
+     "duracao": "4:29"
+    },
+    {
+     "n": 24,
+     "titulo": "10 AM Automatic",
+     "duracao": "3:08"
+    },
+    {
+     "n": 25,
+     "titulo": "No Trust",
+     "duracao": "4:37"
+    },
+    {
+     "n": 26,
+     "titulo": "I Got Mine",
+     "duracao": "4:32"
+    },
+    {
+     "n": 27,
+     "titulo": "All You Ever Wanted",
+     "duracao": "3:47"
+    },
+    {
+     "n": 28,
+     "titulo": "Till I Get My Way",
+     "duracao": "3:18"
+    },
+    {
+     "n": 29,
+     "titulo": "Your Touch",
+     "duracao": "3:20"
+    },
+    {
+     "n": 30,
+     "titulo": "Just Got to Be",
+     "duracao": "3:16"
+    },
+    {
+     "n": 31,
+     "titulo": "Strange Times",
+     "duracao": "3:40"
+    },
+    {
+     "n": 32,
+     "titulo": "The Making of the 'Your Touch' Video",
+     "duracao": "7:29"
+    },
+    {
+     "n": 33,
+     "titulo": "Sessions for the 'Attack and Release' Album",
+     "duracao": "6:20"
+    }
+   ],
+   "duracao_min": 126,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 76,
+    "media": 7.3,
+    "fontes": 8
+   },
+   "publico": 8.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Attack_%26_Release",
+   "resumo_en": "Attack & Release is the fifth studio album by American rock duo The Black Keys. It was produced by Danger Mouse and was released on April 1, 2008. The sessions saw the band transitioning away from their \"homemade\" ethos to record-making; not only was it the first time that the band completed an album in a professional studio, but it was also the first time they hired an outside producer to work on a record.\nLeading up to the recording sessions, drummer Patrick Carney wanted to change the sound of his drums and envisioned two approaches to doing so. He said, \"I had one of the Bonham reissue kits and I set that up in a live room. And then I knew I wanted a kind of '70s dead sound too, so I did the whole 'towels on the drums' thing.\" Attack & Release features a guest appearance by Marc Ribot, who used to play alongside Carney's uncle in Tom Waits' band.\nAttack & Release debuted at number 14 on the Billboard 200. The album was ranked 83rd on Rolling Stone's list of the greatest albums of the 2000s. The song \"I Got Mine\" was number 23 on Rolling Stone's list of the 100 Best Songs of 2008. In 2012, the album was certified gold in Canada, and gold in the U.S. in 2016.",
+   "spotify": "1YHS3Fw8THvsKVVQ1znAqi",
+   "youtube": null
+  },
+  {
+   "id": "2a2b851c-bba6-4584-80c0-19af4a55e286",
+   "titulo": "Brothers",
+   "data": "2010-05-14",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/07addaa9-24d6-4631-9eeb-9e92a961e37f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Everlasting Light",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Next Girl",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Tighten Up",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Howlin’ for You",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "She’s Long Gone",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Black Mud",
+     "duracao": "2:09"
+    },
+    {
+     "n": 7,
+     "titulo": "The Only One",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Too Afraid to Love You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Ten Cent Pistol",
+     "duracao": "4:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Sinister Kid",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "The Go Getter",
+     "duracao": "3:37"
+    },
+    {
+     "n": 12,
+     "titulo": "I’m Not the One",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Unknown Brother",
+     "duracao": "4:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Never Gonna Give You Up",
+     "duracao": "3:39"
+    },
+    {
+     "n": 15,
+     "titulo": "These Days",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 82,
+    "media": 7.8,
+    "fontes": 8
+   },
+   "publico": 8.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brothers_%28The_Black_Keys_album%29",
+   "resumo_en": "Brothers is the sixth studio album by American rock duo the Black Keys, released on May 18, 2010, through Nonesuch Records. It served as the follow-up to Attack & Release (2008), the band's first professionally-recorded and non-self-produced studio album. Brothers was largely produced by the band alongside Mark Neill, with the exception of \"Tighten Up\" produced by Danger Mouse. The album was recorded in late 2009 at Muscle Shoals Sound Studio in Sheffield, Alabama, Neill's Soil of the South studio in La Mesa, California, the Black Keys' home studio in Akron, Ohio, and the Bunker on Apple in Portland, Oregon.\nPrior to recording Brothers, the Black Keys' singer and guitarist Dan Auerbach released Keep It Hid, his first solo studio album, in early 2009. The band's drummer, Patrick Carney, was upset by the release, leading to a brief strife within the band; a tense recent divorce had been the primary source for Carney's anger and depression. After reconciling, the band teamed up with Neill to begin recording a new album. The band continued utilizing a rhythmic approach to songwriting, with recording conditions at the slightly derelict Muscle Shoals leading to minimalistic compositions ",
+   "spotify": "7qE6RXYyz5kj5Tll7mJU0v",
+   "youtube": null
+  },
+  {
+   "id": "c2eed4c1-5cd9-469a-9075-b82077093967",
+   "titulo": "El Camino",
+   "data": "2011-12-01",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/f10badef-094b-48b1-b345-cddfc3d41673/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lonely Boy",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Dead and Gone",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Gold on the Ceiling",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Black Submarines",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Money Maker",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Run Right Back",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Sister",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Hell of a Season",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Stop Stop",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Nova Baby",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Mind Eraser",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 84,
+    "media": 8.3,
+    "fontes": 8
+   },
+   "publico": 9.0,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/El_Camino_%28The_Black_Keys_album%29",
+   "resumo_en": "El Camino is the seventh studio album by the American rock duo the Black Keys, released on December 6, 2011, through Nonesuch Records. Co-produced by Danger Mouse and the Black Keys, it was the follow-up to the band's commercial breakthrough, Brothers (2010), and was their third collaboration with Danger Mouse. El Camino draws from popular genres of the 1950s to the 1970s, such as rock and roll, glam rock, rockabilly, surf rock and soul.  Danger Mouse contributed as a co-writer on each of the 11 songs alongside guitarist Dan Auerbach and drummer Patrick Carney.\nThe album was recorded from March to May 2011 in Nashville, Tennessee, at Easy Eye Sound Studio, which Auerbach opened the year prior. The band approached writing and recording differently than on previous albums, as they entered the studio without having written any material and deliberated longer on how to structure songs. After struggling to translate the slower songs from Brothers to a live setting, the band wrote more uptempo, hook-laden tracks for El Camino. The album's cover art depicts a minivan similar to one the group toured in early in their career, but in an inside joke, they named the record after the El Camino ",
+   "spotify": "5DLhV9yOvZ7IxVmljMXtNm",
+   "youtube": "OLAK5uy_nmEXRQ4KQiAqn9UByVX4gdnFNMWFeYvBw"
+  },
+  {
+   "id": "d0f34ec7-9608-4302-98c5-8dbda869857b",
+   "titulo": "Turn Blue",
+   "data": "2014-05-09",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/be2d97f7-6111-4926-b5cc-9085c6172394/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Weight of Love",
+     "duracao": "6:50"
+    },
+    {
+     "n": 2,
+     "titulo": "In Time",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn Blue",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Fever",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Year in Review",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Bullet in the Brain",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s Up to You Now",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Waiting on Words",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "10 Lovers",
+     "duracao": "4:33"
+    },
+    {
+     "n": 10,
+     "titulo": "In Our Prime",
+     "duracao": "4:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Gotta Get Away",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 72,
+    "media": 7.6,
+    "fontes": 9
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Turn_Blue_%28album%29",
+   "resumo_en": "Turn Blue is the eighth studio album by American rock duo the Black Keys. It was released through Nonesuch Records on May 12, 2014, and co-produced by Danger Mouse and the duo. The record was their fourth collaboration with Danger Mouse, following their previous studio album, El Camino (2011), which was their biggest commercial and critical success to that point. For Turn Blue, Danger Mouse reprised his role from El Camino as an equal songwriting partner alongside guitarist Dan Auerbach and drummer Patrick Carney.\nThe Black Keys recorded the majority of Turn Blue at Sunset Sound in Hollywood, California, from July to August 2013, with additional recording taking place at Key Club in Benton Harbor, Michigan, and Auerbach's Easy Eye Sound Studio in Nashville, Tennessee, in early 2014. The sessions coincided with Auerbach's divorce from his wife, which inspired much of the album's lyrics. The resulting material was more melancholy and slower paced than the uptempo, hook-laden songs from El Camino. The album exhibits influences from psychedelic rock and soul, while also including the band's usual blues and garage rock sound. In addition to representing the record's moody tone, the titl",
+   "spotify": "6TvxpBzf9c8H1fsrAaQ8t3",
+   "youtube": null
+  },
+  {
+   "id": "fe8578f8-0e93-4b54-bedf-fac877514383",
+   "titulo": "“Let’s Rock”",
+   "data": "2019-06-28",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/d6c4fca5-780a-4569-81e1-9df7f31ed678/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shine a Little Light",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Eagle Birds",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Lo/Hi",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Walk Across the Water",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Tell Me Lies",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Every Little Thing",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Get Yourself Together",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Sit Around and Miss You",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Go",
+     "duracao": "2:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Breaking Down",
+     "duracao": "3:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Under the Gun",
+     "duracao": "3:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Fire Walk With Me",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 73,
+    "media": 7.4,
+    "fontes": 9
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Let%27s_Rock_%28The_Black_Keys_album%29",
+   "resumo_en": "Let's Rock (stylized with single quotation marks) is the ninth studio album by American rock duo the Black Keys. It was released on June 28, 2019, through Easy Eye Sound/Nonesuch Records. It was their first release since Turn Blue (2014), marking the longest gap between studio albums in their career. After collaborating with producer Danger Mouse for their previous four records, the duo decided to self-produce Let's Rock and to eschew keyboards in favor of a basic recording approach of guitar, drums, and vocals. Drummer Patrick Carney called the album \"an homage to electric guitar\".\nLet's Rock was preceded by the singles \"Lo/Hi\", \"Eagle Birds\", and \"Go\". \"Lo/Hi\" topped Billboard's Mainstream Rock, Adult Alternative Songs, Rock Airplay, and Alternative Songs charts in the US simultaneously, making it the first song ever to do so. Let's Rock received generally positive reviews, with many critics calling it a well-crafted if unoriginal album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1299df7b-411d-4fa7-9f19-5c1001a69eb5",
+   "titulo": "Delta Kream",
+   "data": "2021-05-14",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/63ab2cca-dfe5-4a32-b48e-b091472a7c99/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crawling Kingsnake",
+     "duracao": "6:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Louise",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Poor Boy a Long Way From Home",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Stay All Night",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Going Down South",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Coal Black Mattie",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Do the Romp",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Sad Days, Lonely Nights",
+     "duracao": "5:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Walk With Me",
+     "duracao": "5:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Mellow Peaches",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Come On and Go With Me",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 75,
+    "media": 6.4,
+    "fontes": 4
+   },
+   "publico": 8.8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Delta_Kream",
+   "resumo_en": "Delta Kream is the tenth studio album by American rock duo the Black Keys, released through Easy Eye Sound and Nonesuch Records on May 14, 2021. It is a cover album of hill country blues songs. It was preceded by the April 15 release of a cover of \"Crawling Kingsnake\", based on Junior Kimbrough's rendition.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "eb6bf6ce-0b50-4967-9c91-e15283472973",
+   "titulo": "Dropout Boogie",
+   "data": "2022-05-13",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/32b379d0-7bb9-46cf-8abd-383d42bb4c92/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wild Child",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "It Ain’t Over",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "For the Love of Money",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Your Team Is Looking Good",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Good Love",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "How Long",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Burn the Damn Thing Down",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Happiness",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby I’m Coming Home",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Didn’t I Love You",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 73,
+    "media": 7.0,
+    "fontes": 7
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dropout_Boogie",
+   "resumo_en": "Dropout Boogie is the eleventh studio album by American rock duo the Black Keys. It was released on May 13, 2022, by Easy Eye Sound and Nonesuch Records. The album was preceded by the release of two singles: the lead single \"Wild Child\", which was released on March 10, 2022, in conjunction with the album announcement, and \"It Ain't Over\", which was released on April 27, 2022.\nDropout Boogie received favorable reviews from music critics and was nominated for Best Rock Album and Best Rock Performance for lead single \"Wild Child\" at the 65th Annual Grammy Awards.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2ae819fe-673e-4227-96df-ad5505d9294e",
+   "titulo": "Ohio Players",
+   "data": "2024-04-05",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/014df657-9389-4439-997f-dd2d832f435c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Is Nowhere",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Let Me Go",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Beautiful People (Stay High)",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "On the Game",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Only Love Matters",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Candy and Her Friends",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I Forgot to Be Your Lover",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Please Me (Till I’m Satisfied)",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "You’ll Pay",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Paper Crown",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Live Till I Die",
+     "duracao": "2:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Read Em and Weep",
+     "duracao": "3:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Fever Tree",
+     "duracao": "3:05"
+    },
+    {
+     "n": 14,
+     "titulo": "Everytime You Leave",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "metacritic": 76,
+    "media": 6.4,
+    "fontes": 5
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ohio_Players_%28album%29",
+   "resumo_en": "Ohio Players is the twelfth studio album by American rock duo the Black Keys. It was released on April 5, 2024, by Easy Eye Sound and Nonesuch Records. It was preceded by lead single \"Beautiful People (Stay High)\" on January 12, 2024, and the second single \"I Forgot to Be Your Lover\", a cover of William Bell's 1968 song of the same title. \"Beautiful People (Stay High)\" received nominations for Best Rock Performance and Best Rock Song at the 67th Annual Grammy Awards.\nA deluxe version of the album, subtitled \"Trophy Edition\", was released on November 15, 2024. It has a different track order and contains four new songs each with new guest appearances: \"Mi Tormenta\" with DannyLux, \"I'm with the Band\" and \"Sin City\" with Beck and \"Stay in Your Grave\" with Alice Cooper.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f90def2a-bf2e-453d-bd51-658d96050034",
+   "titulo": "No Rain, No Flowers",
+   "data": "2025-08-08",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/19f26a0e-11d8-4474-b93f-cb016690d937/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Rain, No Flowers",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "The Night Before",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Babygirl",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Down to Nothing",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "On Repeat",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Make You Mine",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Man on a Mission",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Kiss It",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "All My Life",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "A Little Too High",
+     "duracao": "3:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Neon Moon",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 71,
+    "media": 6.7,
+    "fontes": 11
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/No_Rain%2C_No_Flowers",
+   "resumo_en": "No Rain, No Flowers is the thirteenth studio album by the American rock duo the Black Keys, released through Easy Eye Sound and Warner Records on August 8, 2025.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "08921ee0-c9f0-4435-adad-89c9ae25be9a",
+   "titulo": "Peaches!",
+   "data": "2026-05-01",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/39a96f4a-e419-4ff2-a880-923962b007d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Where There’s Smoke, There’s Fire",
+     "duracao": "5:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Stop Arguing Over Me",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Who’s Been Foolin’ You",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "It’s a Dream",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Tomorrow Night",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "You Got to Lose",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Tell Me You Love Me",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "She Does It Right",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Fireman Ring the Bell",
+     "duracao": "5:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Nobody but You Baby",
+     "duracao": "7:14"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Peaches%21",
+   "resumo_en": "Peaches! is the fourteenth studio album by the American rock duo the Black Keys, released on May 1, 2026, by Easy Eye Sound and Warner Records. It is a covers album. Pitchfork stated it was \"billed as the Black Keys at their 'most natural' since their 2002 debut, The Big Come Up\".",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

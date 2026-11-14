@@ -1,0 +1,2879 @@
+{
+ "id": "billie-holiday",
+ "nome": "Billie Holiday",
+ "cena": "Jazz essencial",
+ "mbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+ "wikidata": "Q104358",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1915",
+ "fim": "1959",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "blues",
+  "vocal jazz",
+  "swing",
+  "soul"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg/500px-Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Billie_Holiday",
+ "resumo_pt": "Eleanora Fagan Gough, conhecida pelo nome artístico Billie Holiday e também como Lady Day (Filadélfia, 7 de abril de 1915 — Nova Iorque, 17 de julho de 1959) foi uma cantora e compositora estadunidense. É considerada pelos críticos de música como uma das maiores e melhores cantoras de jazz da história, ao lado de grandes nomes do gênero como Ella Fitzgerald, Sarah Vaughan e Dinah Washington.",
+ "resumo_en": "Billie Holiday (born Eleanora Fagan; April 7, 1915 – July 17, 1959) was an American jazz and swing music singer. Nicknamed \"Lady Day\" by her friend and music partner, Lester Young, Holiday made significant contributions to jazz music and pop singing. Her vocal style, strongly influenced by jazz instrumentalists, inspired a new way of manipulating phrasing and tempo. Holiday was known for her vocal delivery and improvisational skills.\nAfter a turbulent childhood, Holiday began singing in nightclubs in Harlem where she was heard by producer John Hammond, who liked her voice. Holiday signed a recording contract with Brunswick in 1935. Her collaboration with Teddy Wilson produced the hit \"What a Little Moonlight Can Do\", which became a jazz standard. Throughout the 1930s and 1940s, Holiday had mainstream success on labels such as Columbia and Decca. However, by the late 1940s, she was beset with legal troubles and drug abuse. After a short prison sentence, Holiday performed a sold-out concert at Carnegie Hall. She was a successful concert performer throughout the 1950s, with two further sold-out shows at Carnegie Hall. Because of personal struggles and an altered voice, Holiday's final recordings were met with mixed reaction, but were mild commercial successes. Her final album, Billie Holiday, was released shortly before her death, in July 1959 and changed to Last Recording after her death. Holiday died of cirrhosis and heart failure on July 17, 1959, at age 44.\nHoliday won four ",
+ "albuns": [
+  {
+   "id": "588af5e9-52cb-406e-860c-896b41776056",
+   "titulo": "Billie Holiday",
+   "data": "1947-06",
+   "ano": "1947",
+   "capa": "https://coverartarchive.org/release/95db85cc-2905-4870-9119-56f753e67897/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Yesterdays",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "I Gotta Right To Sing The Blues",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "I'll Be Seeing You",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "I'll Get By",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "I Cover The Waterfront",
+     "duracao": "3:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Lover, Come Back To Me",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "She's Funny That Way",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "How Am I To Know?",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "01ca1df8-32b5-4f32-baef-3f8273fdd3d5",
+   "titulo": "Lover Man",
+   "data": "1951",
+   "ano": "1951",
+   "capa": "https://coverartarchive.org/release/fc4227de-c4d6-4f60-b9be-10056469e48e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lover Man (Oh, Where Can You Be?)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "That Ole Devil Called Love",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "You're My Thrill",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Crazy He Calls Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "My Man (Mon Homme)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Porgy",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "There Is No Greater Love",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Solitude",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "903d2146-9b9e-40d0-b771-d147bc0e20bf",
+   "titulo": "Billie Holiday Sings",
+   "data": "1952",
+   "ano": "1952",
+   "capa": "https://coverartarchive.org/release/04130a7b-7fdd-42f2-b716-3fc5f5c0f2a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Only Have Eyes for You",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "You Turned the Tables on Me",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Moon",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Solitude",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "These Foolish Things",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "You'd Be So Easy to Love",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "You Go to My Head",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "East of the Sun",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": "3bm05lsTq51rc9fuev1XY6",
+   "youtube": null
+  },
+  {
+   "id": "ecfcf28e-ec0e-3f88-906b-5544d898521d",
+   "titulo": "Solitude",
+   "data": "1952-03-26",
+   "ano": "1952",
+   "capa": "https://coverartarchive.org/release/85a20729-d19e-4128-a278-b5a9a0ff8616/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "East of the Sun (and West of the Moon)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Moon",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "You Go to My Head",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "You Turned the Tables on Me",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Easy to Love",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "These Foolish Things (Remind Me of You)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "I Only Have Eyes for You",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Solitude",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Everything I Have Is Yours",
+     "duracao": "3:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Love for Sale",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Moonglow",
+     "duracao": "3:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Tenderly",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Billie_Holiday_Sings",
+   "resumo_en": "Billie Holiday Sings (MGC-118) is the debut studio album by jazz singer Billie Holiday, released in the United States on Mercury Records in 1952 and on Clef Records in 1953. It was her first album for Clef, and her first album of original material, following several compilations of previously released 78-rpm sides on the Columbia, Commodore, and Decca record labels.\nIn 1956, when the 10-inch format was phased out, the album was reissued by Clef Records as Solitude (MG C-690), with four extra tracks recorded at a second session sometime in April 1952 (exact date unknown), with the same musicians. The final track, \"Tenderly\", had been previously released on her second 10-inch LP, An Evening with Billie Holiday (MG C-144). The other three new songs had been previously released on her third 10-inch LP, simply titled Billie Holiday (MG C-161).\nThere is a compilation album with the same title, Billie Holiday Sings, released in 1950 by Columbia Records as a 10-inch LP (CL 6129). It includes old 78-rpm sides from the mid 1930s to the early 1940s, with Holiday accompanied by Lester Young, Teddy Wilson, Buck Clayton and Claude Thornhill among others.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7226ee5a-1215-4aff-9622-c2ca6bd86d33",
+   "titulo": "An Evening With Billie Holiday",
+   "data": "1953",
+   "ano": "1953",
+   "capa": "https://coverartarchive.org/release/53df3b06-663a-4863-a5d9-d43ba96c3c80/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stormy Weather",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Lover Come Back to Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "My Man",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "He's Funny That Way",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Yesterdays",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Tenderly",
+     "duracao": "3:23"
+    },
+    {
+     "n": 7,
+     "titulo": "I Can't Face the Music",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Remember",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/An_Evening_with_Billie_Holiday",
+   "resumo_en": "An Evening with Billie Holiday (MG C-144) is the second studio album by jazz singer Billie Holiday, released by Clef Records in 1953.\nIn 1956, when the 10-inch format was phased out, the album was reissued by Clef with the same artwork, and seven of the eight tracks, as a 12-inch LP called A Recital by Billie Holiday (MG C-686). The track \"Tenderly\", was moved to another 12-inch compilation called Solitude. Five additional tracks were added that had been previously released on her third 10-inch LP, simply titled Billie Holiday.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "79513b8d-ae9d-4f8b-bd5b-23fc4cbfb236",
+   "titulo": "Billie and Stan",
+   "data": "1954",
+   "ano": "1954",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Them There Eyes",
+     "duracao": "1:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Ain't Nobody's Business if I Do",
+     "duracao": "2:20"
+    },
+    {
+     "n": 3,
+     "titulo": "He's Funny That Way",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "You're Driving Me Crazy",
+     "duracao": "1:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Strange Fruit",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "I Love You, Porgy",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Lover Come Back to Me",
+     "duracao": "2:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Billie's Blues",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Miss Brown to You",
+     "duracao": "1:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Detour Ahead",
+     "duracao": "2:18"
+    },
+    {
+     "n": 11,
+     "titulo": "I Cover the Waterfront",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Crazy he Calls me",
+     "duracao": "2:12"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8bcacecc-7fa4-4604-ac5f-d7493ff24741",
+   "titulo": "Music for Torching",
+   "data": "1955-10",
+   "ano": "1955",
+   "capa": "https://coverartarchive.org/release/ef4aa861-d45a-403b-8e37-b07883ed86b1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It Had to Be You",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "I Don't Want to Cry Anymore",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don't Stand a Ghost of a Chance With You",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "A Fine Romance",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Gone With the Wind",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "5:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Isn't This a Lovely Day?",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.7,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Music_for_Torching_with_Billie_Holiday",
+   "resumo_en": "Music for Torching with Billie Holiday is the fourth studio album by jazz singer Billie Holiday. A collection of torch songs, it was released in 1955 by Clef Records. It is her first 12-inch LP for the label, after four 10 inch LPs.\nThe music was recorded over the course of two sessions in Los Angeles, two days apart, which also resulted in all the material for her follow-up album Velvet Mood (MG C-713).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "77f721d9-1f36-493a-84c5-d52469bebc10",
+   "titulo": "Velvet Mood",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/02ddba1a-5a07-4510-bbb4-1f2faf028204/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "When Your Lover Has Gone",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Please Don't Talk About Me When I'm Gone",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Nice Work If You Can Get It",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "I Gotta Right to Sing the Blues",
+     "duracao": "5:51"
+    },
+    {
+     "n": 6,
+     "titulo": "What's New",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "I Hadn't Anyone Till You",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Everything I Have Is Yours",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Velvet_Mood",
+   "resumo_en": "Velvet Mood: Songs by Billie Holiday is the fifth studio album by jazz singer Billie Holiday, released in 1956 on Clef Records.  The music was recorded over the course of two sessions in Los Angeles, two days apart, which also resulted in all the material for her previous album Music for Torching (MG C-669).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "97116717-fdf1-45f7-a03a-24d57c29a6ba",
+   "titulo": "Jazz Recital",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/b59dcb42-9891-4edb-992f-2074248769d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Body and Soul",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Strange Fruit",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Trav'lin' Light",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "He's Funny That Way",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Man I Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Gee Baby Ain't I Good to You",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "All of Me",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Terresita",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Lileth",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Vignette at Verney's",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Cameo",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Places Please",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Tantallon",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Spring Is",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Someday, Somewhere",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e723ff31-ea1c-3747-914e-f2ea221159f3",
+   "titulo": "Lady Sings the Blues",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/83d2dc24-6029-3483-b843-83382d17e5c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lady Sings the Blues",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Trav'lin' Light",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "I Must Have That Man",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Some Other Spring",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Strange Fruit",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "No Good Man",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "God Bless the Child",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Good Morning Heartache",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Me or Leave Me",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Too Marvelous for Words",
+     "duracao": "2:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Willow Weep for Me",
+     "duracao": "3:14"
+    },
+    {
+     "n": 12,
+     "titulo": "I Thought About You",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.9,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lady_Sings_the_Blues_%28Billie_Holiday_album%29",
+   "resumo_en": "Lady Sings the Blues is the sixth studio album by the jazz singer Billie Holiday, released in December 1956. It was Holiday's last album released on Clef Records; the following year, the label would be absorbed by Verve Records. Lady Sings the Blues was taken from sessions taped during 1954 and 1956. It was released simultaneously with her autobiography of the same name.",
+   "spotify": "4tmNWRD3TCcEX3JFxaFV2b",
+   "youtube": null
+  },
+  {
+   "id": "85dcbd74-e8f6-31be-a2e3-1c322a5d1f7b",
+   "titulo": "Body and Soul",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/a250e05f-6e92-4cf3-b16a-005bf7491167/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Body and Soul",
+     "duracao": "6:24"
+    },
+    {
+     "n": 2,
+     "titulo": "They Can't Take That Away From Me",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Darn That Dream",
+     "duracao": "6:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Let's Call the Whole Thing Off",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Comes Love",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Gee, Baby, Ain't I Good to You",
+     "duracao": "5:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Embraceable You",
+     "duracao": "6:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Moonlight in Vermont",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Body_and_Soul_%28Billie_Holiday_album%29",
+   "resumo_en": "Body and Soul is the seventh studio album by jazz singer Billie Holiday, released in 1957.",
+   "spotify": "0u2CA4sQvrTlZQvEgnPy69",
+   "youtube": null
+  },
+  {
+   "id": "16696277-f28c-3333-8c15-455a3e1fb898",
+   "titulo": "Songs for Distingué Lovers",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/0f90a307-37f2-4a77-a31b-1bbb2784b084/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Day in Day Out",
+     "duracao": "6:51"
+    },
+    {
+     "n": 2,
+     "titulo": "A Foggy Day",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Stars Fell on Alabama",
+     "duracao": "4:32"
+    },
+    {
+     "n": 4,
+     "titulo": "One for My Baby (and One More for the Road)",
+     "duracao": "5:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Just One of Those Things",
+     "duracao": "5:35"
+    },
+    {
+     "n": 6,
+     "titulo": "I Didn’t Know What Time It Was",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_for_Distingu%C3%A9_Lovers",
+   "resumo_en": "Songs for Distingué Lovers is the eighth studio album by jazz singer Billie Holiday, released in 1958 on Verve Records. It was originally available in both mono (catalogue number MGV 8257) and stereo (catalog number MGVS 6021). It was recorded at Capitol Studios in Los Angeles from January 3 to January 9, 1957, and produced by Norman Granz.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e9d61d62-fb2a-4320-b67e-6fc4a2755ab3",
+   "titulo": "Stay With Me",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/a5caf05f-c714-4b1f-a532-374ae57fb5ef/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Wished on the Moon",
+     "duracao": "6:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Ain't Misbehavin'",
+     "duracao": "4:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Everything Happens to Me",
+     "duracao": "6:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Say It Isn't So",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "I've Got My Love to Keep Me Warm",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Always",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Do Nothing Till You Hear From Me",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stay_with_Me_%28Billie_Holiday_album%29",
+   "resumo_en": "Stay with Me (MGV 8302) is the ninth studio album by jazz singer Billie Holiday, accompanied by Tony Scott and his Orchestra. It contains all the material from a session recorded on February 14, 1955, in New York City, and released in 1958 on producer Norman Granz's Verve label.\nFor the CD reissue in 1991 another session was appended, that Granz had previously issued as part of the self-titled Billie Holiday LP on his Clef record label (10-inch LP, Clef EPC 224/Verve MGC 690). The recording from April 14, 1954, at the same studio with \"Billie Holliday and Her Band\", consisted of the Oscar Peterson Trio, Ed Shaughnessy on drums, and trumpeter Charlie Shavers as the only members of both sessions beside Holiday. Beyond that, all tracks were part of many compilations and the complete recording issues of Billie Holiday.",
+   "spotify": null,
+   "youtube": "OLAK5uy_nUWTwX3huwVZqkNoElDIrOyxjXneOyqFc"
+  },
+  {
+   "id": "fe44ca66-a7e2-449b-9de4-740377b1dc8f",
+   "titulo": "The Blues Are Brewin’",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/8dae00a4-764b-47ca-b517-1e44d15a6c33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Keeps On Rainin’",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Gimme a Pigfoot and a Bottle of Beer",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Baby, I Don’t Cry Over You",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "My Sweet Hunk o’ Trash",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Somebody’s on My Mind",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Guilty",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "The Blues Are Brewin’",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Do Your Duty",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Baby Get Lost",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "You Can’t Lose a Broken Heart",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Now or Never",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Big Stuff",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cf7bc239-a3ba-3d87-80e5-261f750cb560",
+   "titulo": "Lady in Satin",
+   "data": "1958-06",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/26de5031-ba05-4f29-a4b5-72b634a56434/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I´m a Fool to Want You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "For Heaven’s Sake",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "You Don’t Know What Love Is",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "I Get Along Without You Very Well",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "For All We Know",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Violets for Your Furs",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "You’ve Changed",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s Easy to Remember",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "But Beautiful",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Glad to Be Unhappy",
+     "duracao": "4:09"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ll Be Around",
+     "duracao": "3:26"
+    },
+    {
+     "n": 12,
+     "titulo": "The End of a Love Affair",
+     "duracao": "4:48"
+    },
+    {
+     "n": 13,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "5:35"
+    },
+    {
+     "n": 14,
+     "titulo": "A Ghost of a Chance",
+     "duracao": "4:26"
+    },
+    {
+     "n": 15,
+     "titulo": "Gone With the Wind",
+     "duracao": "3:23"
+    },
+    {
+     "n": 16,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "4:22"
+    },
+    {
+     "n": 17,
+     "titulo": "What’s New?",
+     "duracao": "4:16"
+    },
+    {
+     "n": 18,
+     "titulo": "Fine and Mellow",
+     "duracao": "6:21"
+    },
+    {
+     "n": 19,
+     "titulo": "When Your Lover Has Gone",
+     "duracao": "2:30"
+    },
+    {
+     "n": 20,
+     "titulo": "Don’t Explain",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.6,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lady_in_Satin",
+   "resumo_en": "Lady in Satin is the eleventh studio album by jazz singer Billie Holiday, released in 1958 on Columbia Records, catalogue CL 1157 in mono and CS 8048 in stereo. It is the penultimate album completed by the singer. Her final album, \"Billie Holiday\" was released just before her death; the album was retitled Last Recording, and re-released just after her death. Lady in Satin was produced by Irving Townsend and engineered by Fred Plaut.",
+   "spotify": "4LrLP7DM1KBj8r2Sc098JA",
+   "youtube": null
+  },
+  {
+   "id": "2cf5b1a1-423f-3ada-a445-eb78302a5c3d",
+   "titulo": "All or Nothing at All",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/856cfe04-abf4-4528-af11-19609a8dd77a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do Nothin' Till You Hear From Me",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Cheek to Cheek",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Ill Wind (You're Blowin' Me No Good)",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Speak Low",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "I Wished on the Moon",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "But Not For Me",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "All or Nothing at All",
+     "duracao": "5:41"
+    },
+    {
+     "n": 8,
+     "titulo": "We'll Be Together Again",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Sophisticated Lady",
+     "duracao": "4:51"
+    },
+    {
+     "n": 10,
+     "titulo": "April in Paris",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Say It Isn't So",
+     "duracao": "3:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Love Is Here To Stay",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_or_Nothing_at_All_%28album%29",
+   "resumo_en": "All or Nothing at All is the tenth studio album by jazz singer Billie Holiday, released in 1958 on Verve Records, catalog MGV8329. There are 12 songs on the LP taken from five different recording sessions that took place in 1956 and 1957.  Holiday was backed by a \"relaxed and understanding\" small combo which included the trumpeter Harry \"Sweets\" Edison and the saxophonist Ben Webster. A 1959 New York Times article noted that Holiday's voice \"had become a very limited instrument which she used with the craft and guile of an aging pitcher who can no longer pour his fast one across the plate.\"\nAlbum cover art is by David Stone Martin.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b265d7c1-d4ad-3dd7-a295-1579ce3f4258",
+   "titulo": "Last Recording",
+   "data": "1959-07",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/eb14b3e5-9fcf-4af8-a5eb-e56766ec5d13/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All of You",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Sometimes I’m Happy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "You Took Advantage of Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "When It’s Sleepy Time Down South",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "There’ll Be Some Changes Made",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "’Deed I Do",
+     "duracao": "2:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Worry ’bout Me",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "All the Way",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Just One More Chance",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "It’s Not for Me to Say",
+     "duracao": "2:29"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ll Never Smile Again",
+     "duracao": "3:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Baby, Won’t You Please Come Home",
+     "duracao": "3:03"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 5.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Last_Recording",
+   "resumo_en": "Billie Holiday is the twelfth and final studio album by jazz singer Billie Holiday, released on MGM Records in 1959. It was retitled after her death as Last Recording.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2f8a87a9-ac2f-41ed-8005-cbd1cd287492",
+   "titulo": "Songs & Conversations",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/1c09b13d-4495-4493-a63d-bc608354b132/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got It Bad and That Ain’t Good",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Friends",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m Walking Through Heaven With You",
+     "duracao": "2:05"
+    },
+    {
+     "n": 4,
+     "titulo": "(I Don’t Stand) A Ghost of a Chance With You",
+     "duracao": "1:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Please Don’t Talk About Me (When I’m Gone)",
+     "duracao": "1:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Medley: I’m Restless, Moonlight in Vermount",
+     "duracao": "5:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Everything Happens to Me",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Please Don’t Talk About Me (When I’m Gone)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don’t Want to Cry Anymore",
+     "duracao": "5:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Medley: Prelude to a Kiss / I Must Have That Man",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Jeepers Creepers",
+     "duracao": "3:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Rappin’ About Jimmie Rowles",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4ba60e37-bbe9-4ed9-8d00-c706b57f5c11",
+   "titulo": "On The Sentimental Side",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/e68013b3-512b-4291-aa46-38a94ea6039b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Practice Makes Perfect",
+     "duracao": "2:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Night And Day",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "More Than You Know",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "All Of Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Them There Eyes",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "I Must Have That Man",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Time On My Hands",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Let's Do It",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Until The Real Thing Comes Along",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "This Year's Kisses",
+     "duracao": "3:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Georgia On My Mind",
+     "duracao": "3:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Sugar",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "I've Got My Love To Keep Me Warm",
+     "duracao": "3:01"
+    },
+    {
+     "n": 14,
+     "titulo": "When A Woman Loves A Man",
+     "duracao": "2:29"
+    },
+    {
+     "n": 15,
+     "titulo": "The Man I Love",
+     "duracao": "3:09"
+    },
+    {
+     "n": 16,
+     "titulo": "If Dreams Come True",
+     "duracao": "3:10"
+    },
+    {
+     "n": 17,
+     "titulo": "You Go To My Head",
+     "duracao": "2:58"
+    },
+    {
+     "n": 18,
+     "titulo": "I'll Get By",
+     "duracao": "3:13"
+    },
+    {
+     "n": 19,
+     "titulo": "I Can't Get Started",
+     "duracao": "2:53"
+    },
+    {
+     "n": 20,
+     "titulo": "On The Sentimental Side",
+     "duracao": "3:07"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7e87bfd6-5c4a-4fad-8490-bd20173c5830",
+   "titulo": "Love Me or Leave Me",
+   "data": "1995-01-01",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/bbdaedaa-9344-4c7d-9284-dcd07ecc497a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let's Do It",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Mandy Is Two",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Until The Real Thing Comes Along",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "I Cover the Waterfront",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Am I Blue?",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "I Hear Music",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Loveless Love",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Gloomy Sunday",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "I'm in a Low Down Groove",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "God Bless the Child",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "All of Me",
+     "duracao": "3:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Romance in the Dark",
+     "duracao": "2:19"
+    },
+    {
+     "n": 13,
+     "titulo": "Wherever You Are",
+     "duracao": "3:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Love Me or Leave Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 15,
+     "titulo": "Jim",
+     "duracao": "3:11"
+    },
+    {
+     "n": 16,
+     "titulo": "It's a Sin to Tell a Lie",
+     "duracao": "3:06"
+    },
+    {
+     "n": 17,
+     "titulo": "Solitude",
+     "duracao": "3:17"
+    },
+    {
+     "n": 18,
+     "titulo": "St. Louis Blues",
+     "duracao": "2:56"
+    },
+    {
+     "n": 19,
+     "titulo": "Practice Makes Perfect",
+     "duracao": "2:42"
+    },
+    {
+     "n": 20,
+     "titulo": "Georgia on My Mind",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "794df662-5052-416e-8393-786668e9e0ec",
+   "titulo": "Billie Holiday: Star Power",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/601b3a20-92d2-45f5-9e80-2f13cdfa46af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "God Bless the Child",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Lover Man",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Swing Brother Swing",
+     "duracao": "1:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Strange Fruit",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Billie’s Blues",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Georgia on My Mind",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "What a Little Moonlight Can Do",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Miss Brown to You",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "If You Were Mine",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Spreadin’ Rhythm Around",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re So Desirable",
+     "duracao": "2:51"
+    },
+    {
+     "n": 12,
+     "titulo": "My Man",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d3fa46e-c6bd-43fa-997b-d5670c3002fc",
+   "titulo": "Body & Soul",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/c09afd5d-730f-4413-ac51-2dfd51ca6864/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Of Me",
+     "duracao": "1:41"
+    },
+    {
+     "n": 2,
+     "titulo": "That Ole Devil Called Love",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Let's Do It",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Georgia On My Mind",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "I Got A Right To Sing The Blues",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Love For Sale",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Did I Remember",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Can't Help Loving' Dat Man",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Body & Soul",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Ghost Of Yesterday",
+     "duracao": "2:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Hello My Darlin'",
+     "duracao": "2:38"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm Pulling Through",
+     "duracao": "3:07"
+    },
+    {
+     "n": 13,
+     "titulo": "The Mood That I'm In",
+     "duracao": "3:01"
+    },
+    {
+     "n": 14,
+     "titulo": "Gloomy Sunday",
+     "duracao": "3:14"
+    },
+    {
+     "n": 15,
+     "titulo": "How Deep Is The Ocean",
+     "duracao": "2:56"
+    },
+    {
+     "n": 16,
+     "titulo": "If Dreams Come True",
+     "duracao": "3:03"
+    },
+    {
+     "n": 17,
+     "titulo": "Billie's Blues",
+     "duracao": "2:52"
+    },
+    {
+     "n": 18,
+     "titulo": "Strange Fruit",
+     "duracao": "3:03"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "572aba47-23fe-46d0-9062-b447f37e44b7",
+   "titulo": "Les Plus Beaux Moments Jazz",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/5e0e256d-b3e0-4194-8b2f-1f1045b05f5b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Strange Fruit",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "God bless the child",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "My man",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Solitude",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Gloomy sunday",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Don't explain",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue moon",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "I'm a fool to want you",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Storrmy weather",
+     "duracao": "3:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Lover man",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Body & soul",
+     "duracao": "6:24"
+    },
+    {
+     "n": 12,
+     "titulo": "The man i love",
+     "duracao": "3:07"
+    },
+    {
+     "n": 13,
+     "titulo": "Crazy he calls me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 14,
+     "titulo": "I'll be seeing you",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a2d4c61c-f478-4114-a859-ec7fc9a6658f",
+   "titulo": "You Go to My Head / Blue Moon / Tenderly",
+   "data": "2003-01-01",
+   "ano": "2003",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Me or Leave Me - 2002 Remastered Version",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "I'll Be Seeing You - 2002 Remastered Version",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "You're My Thrill - 2002 Remastered Version",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "You Go to My Head - 2002 Remastered Version",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Georgia on my Mind - 2002 Remastered Version",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Night and Day - 2002 Remastered Version",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "When You're Smiling - 2002 Remastered Version",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "The Man I Love - 2002 Remastered Version",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "If I Were You - 2002 Remastered Version",
+     "duracao": "2:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Strange Fruit - 2002 Remastered Version",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "I've Got My Love to Keep Me Warm - 2002 Remastered Version",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Am I Blue - 2002 Remastered Version",
+     "duracao": "2:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Let's Call the Whole Thing Off - 2002 Remastered Version",
+     "duracao": "2:35"
+    },
+    {
+     "n": 14,
+     "titulo": "Body and Soul - 2002 Remastered Version",
+     "duracao": "2:58"
+    },
+    {
+     "n": 15,
+     "titulo": "They Can't Take That Away from Me - 2002 Remastered Version",
+     "duracao": "3:01"
+    },
+    {
+     "n": 16,
+     "titulo": "I've Got a Date with a Dream - 2002 Remastered Version",
+     "duracao": "2:41"
+    },
+    {
+     "n": 17,
+     "titulo": "Jim - 2002 Remastered Version",
+     "duracao": "3:07"
+    },
+    {
+     "n": 18,
+     "titulo": "Crazy He Calls Me - 2002 Remastered Version",
+     "duracao": "3:02"
+    },
+    {
+     "n": 19,
+     "titulo": "Do Nothing Till You Hear From Me / I'll Get By - 2002 Remastered Version",
+     "duracao": "4:59"
+    },
+    {
+     "n": 20,
+     "titulo": "I Love My Man (Billie's Blues) - 2002 Remastered Version",
+     "duracao": "4:07"
+    },
+    {
+     "n": 21,
+     "titulo": "Blue Moon - 2003 Remastered Version",
+     "duracao": "3:28"
+    },
+    {
+     "n": 22,
+     "titulo": "Autumn in New York - 2003 Remaster",
+     "duracao": "3:41"
+    },
+    {
+     "n": 23,
+     "titulo": "I Only Have Eyes for You - 2003 Remastered Version",
+     "duracao": "2:53"
+    },
+    {
+     "n": 24,
+     "titulo": "These Foolish Things - 2003 Remastered Version",
+     "duracao": "3:35"
+    },
+    {
+     "n": 25,
+     "titulo": "East of the Sun - 2003 Remastered Version",
+     "duracao": "2:53"
+    },
+    {
+     "n": 26,
+     "titulo": "My Man - 2003 Remastered Version",
+     "duracao": "2:36"
+    },
+    {
+     "n": 27,
+     "titulo": "Lover Come Back to Me - 2003 Remastered Version",
+     "duracao": "3:35"
+    },
+    {
+     "n": 28,
+     "titulo": "Solitude - 2003 Remastered Version",
+     "duracao": "3:30"
+    },
+    {
+     "n": 29,
+     "titulo": "Stormy Weather - 2003 Remastered Version",
+     "duracao": "3:42"
+    },
+    {
+     "n": 30,
+     "titulo": "Do Your Duty - 2003 Remastered Version",
+     "duracao": "3:14"
+    },
+    {
+     "n": 31,
+     "titulo": "He's Funny That Way - 2003 Remastered Version",
+     "duracao": "3:10"
+    },
+    {
+     "n": 32,
+     "titulo": "Moonglow - 2003 Remastered Version",
+     "duracao": "2:58"
+    },
+    {
+     "n": 33,
+     "titulo": "What Is This Thing Called Love - 2003 Remastered Version",
+     "duracao": "3:04"
+    },
+    {
+     "n": 34,
+     "titulo": "Love for Sale - 2003 Remastered Version",
+     "duracao": "2:57"
+    },
+    {
+     "n": 35,
+     "titulo": "You Better Go Now - 2003 Remastered Version",
+     "duracao": "2:34"
+    },
+    {
+     "n": 36,
+     "titulo": "Everything I Have Is Yours - 2003 Remastered Version",
+     "duracao": "3:46"
+    },
+    {
+     "n": 37,
+     "titulo": "You Turned the Tables on Me - 2003 Remastered Version",
+     "duracao": "3:26"
+    },
+    {
+     "n": 38,
+     "titulo": "T'ain't Nobody's Business If I Do - 2003 Remastered Version",
+     "duracao": "3:18"
+    },
+    {
+     "n": 39,
+     "titulo": "Yesterdays - 2003 Remastered Version",
+     "duracao": "3:27"
+    },
+    {
+     "n": 40,
+     "titulo": "If the Moon Turns Green - 2003 Remastered Version",
+     "duracao": "2:46"
+    },
+    {
+     "n": 41,
+     "titulo": "Easy to Love - 2003 Remastered Version",
+     "duracao": "3:00"
+    },
+    {
+     "n": 42,
+     "titulo": "Tenderly - 2003 Remastered Version",
+     "duracao": "3:23"
+    },
+    {
+     "n": 43,
+     "titulo": "That Old Devil Called Love - 2003 Remastered Version",
+     "duracao": "2:56"
+    },
+    {
+     "n": 44,
+     "titulo": "On the Sunny Side of the Street - 2003 Remastered Version",
+     "duracao": "3:03"
+    },
+    {
+     "n": 45,
+     "titulo": "You Go to My Head - 2003 Remastered Version",
+     "duracao": "2:54"
+    },
+    {
+     "n": 46,
+     "titulo": "Please Tell Me Now - 2003 Remastered Version",
+     "duracao": "3:14"
+    },
+    {
+     "n": 47,
+     "titulo": "No More - 2003 Remastered Version",
+     "duracao": "2:49"
+    },
+    {
+     "n": 48,
+     "titulo": "Baby Get Lost - 2003 Remastered Version",
+     "duracao": "3:14"
+    },
+    {
+     "n": 49,
+     "titulo": "He's Funny That Way - 2003 Remastered Version",
+     "duracao": "3:17"
+    },
+    {
+     "n": 50,
+     "titulo": "The Blues Are Brewin' - 2003 Remastered Version",
+     "duracao": "3:02"
+    },
+    {
+     "n": 51,
+     "titulo": "If Dreams Come True - 2003 Remastered Version",
+     "duracao": "3:06"
+    },
+    {
+     "n": 52,
+     "titulo": "Gloomy Sunday - 2003 Remastered Version",
+     "duracao": "3:15"
+    },
+    {
+     "n": 53,
+     "titulo": "Deep Song - 2003 Remastered Version",
+     "duracao": "3:10"
+    },
+    {
+     "n": 54,
+     "titulo": "Back in Your Own Backyard - 2002 Remastered Version",
+     "duracao": "2:41"
+    },
+    {
+     "n": 55,
+     "titulo": "Somebody's on my Mind - 2003 Remastered Version",
+     "duracao": "2:56"
+    },
+    {
+     "n": 56,
+     "titulo": "Remember - 2003 Remastered Version",
+     "duracao": "2:35"
+    },
+    {
+     "n": 57,
+     "titulo": "There Is No Greater Love - 2003 Remastered Version",
+     "duracao": "2:57"
+    },
+    {
+     "n": 58,
+     "titulo": "I Can't Face the Music - 2002 Remastered Version",
+     "duracao": "3:14"
+    },
+    {
+     "n": 59,
+     "titulo": "Now or Never - 2003 Remastered Version",
+     "duracao": "3:15"
+    },
+    {
+     "n": 60,
+     "titulo": "I Cover the Waterfront - 2003 Remastered Version",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 190,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2424cce4-80d0-499c-b424-9d08a4b64fcb",
+   "titulo": "The Love Songs",
+   "data": "2004",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/18530f0a-ca46-44f1-a6c5-eebfd9e524ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Body and Soul",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "All of Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Mean to Me",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "He's Funny That Way",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "The Very Thought of You",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "What Is This Going to Get Us",
+     "duracao": "2:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Sun Showers",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Them There Eyes",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "I've Got My Love to Keep Me Warm",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Trav'lin' All Alone",
+     "duracao": "2:15"
+    },
+    {
+     "n": 11,
+     "titulo": "You Let Me Down",
+     "duracao": "2:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Ghost of Yesterday",
+     "duracao": "2:39"
+    },
+    {
+     "n": 13,
+     "titulo": "Carelessly",
+     "duracao": "3:09"
+    },
+    {
+     "n": 14,
+     "titulo": "Gloomy Sunday",
+     "duracao": "3:14"
+    },
+    {
+     "n": 15,
+     "titulo": "More That You Know",
+     "duracao": "3:06"
+    },
+    {
+     "n": 16,
+     "titulo": "I'll Never Be the Same",
+     "duracao": "3:04"
+    },
+    {
+     "n": 17,
+     "titulo": "The Way You Look Tonight",
+     "duracao": "3:06"
+    },
+    {
+     "n": 18,
+     "titulo": "What a Night, What a Moon, What a Boy",
+     "duracao": "2:54"
+    },
+    {
+     "n": 19,
+     "titulo": "Easy Living",
+     "duracao": "3:06"
+    },
+    {
+     "n": 20,
+     "titulo": "These Foolish Things",
+     "duracao": "3:19"
+    },
+    {
+     "n": 21,
+     "titulo": "They Say",
+     "duracao": "3:05"
+    },
+    {
+     "n": 22,
+     "titulo": "How Could You",
+     "duracao": "2:31"
+    },
+    {
+     "n": 23,
+     "titulo": "Foollin' Myself",
+     "duracao": "3:01"
+    },
+    {
+     "n": 24,
+     "titulo": "Let's Do It",
+     "duracao": "2:57"
+    },
+    {
+     "n": 25,
+     "titulo": "The Man I Love",
+     "duracao": "3:06"
+    },
+    {
+     "n": 26,
+     "titulo": "Night and Day",
+     "duracao": "3:01"
+    },
+    {
+     "n": 27,
+     "titulo": "This Year's Kisses",
+     "duracao": "3:08"
+    },
+    {
+     "n": 28,
+     "titulo": "You Showed Me the Way",
+     "duracao": "3:00"
+    },
+    {
+     "n": 29,
+     "titulo": "A Sailboat in the Moonlight",
+     "duracao": "2:54"
+    },
+    {
+     "n": 30,
+     "titulo": "The Mood That I'm In",
+     "duracao": "3:02"
+    },
+    {
+     "n": 31,
+     "titulo": "Me, Myself and I",
+     "duracao": "2:39"
+    },
+    {
+     "n": 32,
+     "titulo": "Let's Call the Whole Thing Off",
+     "duracao": "2:39"
+    },
+    {
+     "n": 33,
+     "titulo": "I Can't Believe That You're in Love with Me",
+     "duracao": "2:47"
+    },
+    {
+     "n": 34,
+     "titulo": "You're Just a No Account",
+     "duracao": "2:59"
+    },
+    {
+     "n": 35,
+     "titulo": "Without Your Love",
+     "duracao": "2:53"
+    },
+    {
+     "n": 36,
+     "titulo": "Pennies from Heaven",
+     "duracao": "3:18"
+    },
+    {
+     "n": 37,
+     "titulo": "If You Were Mine",
+     "duracao": "3:15"
+    },
+    {
+     "n": 38,
+     "titulo": "Falling in Love Again",
+     "duracao": "2:51"
+    },
+    {
+     "n": 39,
+     "titulo": "Romance in the Dark",
+     "duracao": "2:18"
+    },
+    {
+     "n": 40,
+     "titulo": "It's Like Reaching for the Moon",
+     "duracao": "3:21"
+    },
+    {
+     "n": 41,
+     "titulo": "Moanin' Low",
+     "duracao": "3:05"
+    },
+    {
+     "n": 42,
+     "titulo": "You Go to My Head",
+     "duracao": "2:52"
+    },
+    {
+     "n": 43,
+     "titulo": "I'll Get By",
+     "duracao": "3:10"
+    },
+    {
+     "n": 44,
+     "titulo": "It's Too Hot for Words",
+     "duracao": "2:45"
+    },
+    {
+     "n": 45,
+     "titulo": "My Man",
+     "duracao": "3:04"
+    },
+    {
+     "n": 46,
+     "titulo": "Sugar",
+     "duracao": "2:47"
+    },
+    {
+     "n": 47,
+     "titulo": "I Must Have That Man",
+     "duracao": "2:58"
+    },
+    {
+     "n": 48,
+     "titulo": "Getting Some Fun out of Life",
+     "duracao": "3:04"
+    },
+    {
+     "n": 49,
+     "titulo": "I'm Gonna Lock My Heart and Throw Away the Key",
+     "duracao": "2:10"
+    },
+    {
+     "n": 50,
+     "titulo": "Miss Brown to You",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 147,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5a4faa9f-c325-44ef-8d00-cbbbf73d98ca",
+   "titulo": "Romance in the Dark, Vol. 1",
+   "data": "2005-09-01",
+   "ano": "2005",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Same Old Story",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Practise Makes Perfect",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "St. Louis Blues",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Loveless Love",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Let's Do It",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Georgia On My Mind",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Romance In The Dark",
+     "duracao": "2:15"
+    },
+    {
+     "n": 8,
+     "titulo": "All Of Me",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m In A Low-Down Groove",
+     "duracao": "3:09"
+    },
+    {
+     "n": 10,
+     "titulo": "God Bless The Child",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Am I Blue?",
+     "duracao": "2:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Solitude",
+     "duracao": "3:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Jim",
+     "duracao": "3:09"
+    },
+    {
+     "n": 14,
+     "titulo": "I Cover The Waterfront",
+     "duracao": "2:57"
+    },
+    {
+     "n": 15,
+     "titulo": "Love Me Or Leave Me",
+     "duracao": "3:20"
+    },
+    {
+     "n": 16,
+     "titulo": "Gloomy Sunday",
+     "duracao": "3:13"
+    },
+    {
+     "n": 17,
+     "titulo": "Wherever You Are",
+     "duracao": "3:02"
+    },
+    {
+     "n": 18,
+     "titulo": "Mandy Is Two",
+     "duracao": "3:02"
+    },
+    {
+     "n": 19,
+     "titulo": "It's a Sin To Tell A Lie",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "342259b2-9ef2-4d64-9126-ed7e41f3b4a2",
+   "titulo": "All Of Me (The Columbia Singles 1940 - 1941)",
+   "data": "2015-01-01",
+   "ano": "2015",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "St. Louis Blues",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Loveless Love",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "St. Louis Blues (alt Take 1)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Loveless Love (alt Take 2)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Let's Do It",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Georgia On My Mind",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Romance In The Dark",
+     "duracao": "2:17"
+    },
+    {
+     "n": 8,
+     "titulo": "All Of Me",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Let's Do It (Take 143 a)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Georgia On My Mind (Take 144 a)",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Georgia On My Mind (Take 144 b)",
+     "duracao": "3:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Romance In The Dark (Take 145a)",
+     "duracao": "2:20"
+    },
+    {
+     "n": 13,
+     "titulo": "Romance In The Dark (Take 145b)",
+     "duracao": "2:16"
+    },
+    {
+     "n": 14,
+     "titulo": "Romance In The Dark (Take 145c)",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c4332a6b-bc7d-41e5-b16e-4d75a0c5a20a",
+   "titulo": "New Orleans Original Film Soundtrack",
+   "data": "2018",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/24445fa8-00b1-4105-9cc2-d8dbb193e808/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flee as a Bird/When the Saints Go Marching In",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "West End Blues",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Do You Know What It Means to Miss New Orleans?",
+     "duracao": "2:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Brahms’ Lullaby",
+     "duracao": "0:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Tiger Rag",
+     "duracao": "2:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Buddy Bolden Blues",
+     "duracao": "0:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Buddy Bolden Blues",
+     "duracao": "0:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Basin St. Blues",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Raymond St. Blues",
+     "duracao": "0:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Milenberg Joys",
+     "duracao": "1:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Where the Blues Were Born in New Orleans",
+     "duracao": "4:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Farewell to Storyville",
+     "duracao": "3:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Beale Street Stomp",
+     "duracao": "1:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Dippermouth Blues (Slow version)",
+     "duracao": "1:24"
+    },
+    {
+     "n": 15,
+     "titulo": "Dippermouth Blues (Fast version)",
+     "duracao": "1:36"
+    },
+    {
+     "n": 16,
+     "titulo": "Shimme‐Sha‐Wabble",
+     "duracao": "2:06"
+    },
+    {
+     "n": 17,
+     "titulo": "Ballin’ the Jack",
+     "duracao": "2:11"
+    },
+    {
+     "n": 18,
+     "titulo": "King Porter Stomp",
+     "duracao": "2:35"
+    },
+    {
+     "n": 19,
+     "titulo": "Mahogany Hall Stomp (Slow version)",
+     "duracao": "3:31"
+    },
+    {
+     "n": 20,
+     "titulo": "Mahogany Hall Stomp (Fast version)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 21,
+     "titulo": "The Blues Are Brewin’",
+     "duracao": "3:43"
+    },
+    {
+     "n": 22,
+     "titulo": "Endie",
+     "duracao": "2:22"
+    },
+    {
+     "n": 23,
+     "titulo": "Do You Know What It Means to Miss New Orleans?",
+     "duracao": "1:45"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ef4b6c73-3a72-497b-b8dd-b343f50cf015",
+   "titulo": "BILLIE: The Original Soundtrack",
+   "data": "2020-11-13",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/304e2643-0da2-40eb-9af0-ed5229980439/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Now or Never",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "God Bless the Child",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Hoppin’ Around",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "The Blues Are Brewin’",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Funeral in New Orleans",
+     "duracao": "2:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Fine and Mellow",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Strange Fruit",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Just One More Chance",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "My Man",
+     "duracao": "2:58"
+    },
+    {
+     "n": 10,
+     "titulo": "I Only Have Eyes for You",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ll Never Smile Again",
+     "duracao": "3:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Don’t Explain (live at Carnegie Hall / 1956)",
+     "duracao": "2:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Porgy",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "65aa1124-94b0-4f3c-9565-5bbd4433d22b",
+   "titulo": "Misty & Blue",
+   "data": "2023-11-10",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/8e310f2f-503d-4627-9dc3-0fd8e92fc243/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You’re Driving Me Crazy",
+     "duracao": "1:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Miss Brown to You",
+     "duracao": "1:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Billie’s Blues",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Can There Be a Detour Ahead",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Charlie’s Cavern",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Zig Zag",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Oriental Blues",
+     "duracao": "4:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Peanuts",
+     "duracao": "4:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Ben’s Blues",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

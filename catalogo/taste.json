@@ -1,0 +1,247 @@
+{
+ "id": "taste",
+ "nome": "Taste",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "e48d590f-1352-46a0-9da1-2ce4ec6196b5",
+ "wikidata": "Q602247",
+ "tipo": "Group",
+ "pais": "IE",
+ "inicio": "1966",
+ "fim": "1971",
+ "ativa": false,
+ "generos": [
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/The_Taste_1970.jpg/500px-The_Taste_1970.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Taste",
+ "resumo_pt": "Taste é uma banda irlandesa de rock e blues formada em 1966. Seu fundador foi o músico e compositor Rory Gallagher.",
+ "resumo_en": "Taste are an Irish blues rock band that was founded by songwriter and guitarist Rory Gallagher in Cork in 1966. Gallagher left the band in 1970.",
+ "albuns": [
+  {
+   "id": "95a3b75e-2541-3ffe-8849-7f2b6a805a72",
+   "titulo": "Taste",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/d1551d81-48f3-4f10-8cd7-e87b922fcd4f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blister on the Moon",
+     "duracao": "3:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Leaving Blues",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Sugar Mama",
+     "duracao": "7:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Hail",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Born on the Wrong Side of Time",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Dual Carriageway Pain",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Same Old Story",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Catfish",
+     "duracao": "8:04"
+    },
+    {
+     "n": 9,
+     "titulo": "I'm Moving On",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Taste_%28Taste_album%29",
+   "resumo_en": "Taste is the debut album by the Irish blues rock band Taste, released in 1969. The album was produced by Tony Colton (1942-2020), a singer, songwriter and producer who was the singer in the band Heads Hands & Feet.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0e20b5c5-442b-3005-a9a7-a51d9199807b",
+   "titulo": "On the Boards",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/cc5f1f40-d517-46ee-90f2-17fcc9e125a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What’s Going On",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Railway and Gun",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s Happened Before, It’ll Happen Again",
+     "duracao": "6:33"
+    },
+    {
+     "n": 4,
+     "titulo": "If the Day Was Any Longer",
+     "duracao": "2:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Morning Sun",
+     "duracao": "2:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Eat My Words",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "On the Boards",
+     "duracao": "6:02"
+    },
+    {
+     "n": 8,
+     "titulo": "If I Don’t Sing I’ll Cry",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "See Here",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "I’ll Remember",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_the_Boards_%28album%29",
+   "resumo_en": "On the Boards is the second album by Irish rock band Taste. It was recorded in London in September/October 1969 and released on 9 January 1970. It is their final studio album and the release that brought Rory Gallagher to prominence, reaching number 18 on the UK Albums Chart. Reviewers have praised its variety and the precision of its ensemble playing, and noted the jazz inflections of Gallagher's guitar and his unaffected vocals. Lester Bangs dubbed it \"impressive ... progressive blues\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "999fd70c-af30-49eb-8411-fab28c06d245",
+   "titulo": "Wall to Wall",
+   "data": "2009",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/2d8c0011-b280-49ac-a03d-45dc9992732e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Going Home",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Daytona Dreaming",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "The Drifter",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Wall",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Devils Woman",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Home Blues",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Big Ship",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Pretty Woman of Mine",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Lucy May",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "The Wall (instrumental)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6da4fd57-e3cf-4555-b828-3f3041430abe",
+   "titulo": "Teenage Kicks",
+   "data": "2014-04-16",
+   "ano": "2014",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blister on the Moon",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 5,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

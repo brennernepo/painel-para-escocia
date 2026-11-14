@@ -1,0 +1,894 @@
+{
+ "id": "humble-pie",
+ "nome": "Humble Pie",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "696989bc-c9a8-4ba8-a99b-b8015dba577f",
+ "wikidata": "Q664459",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1969",
+ "fim": "2002",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "hard rock",
+  "rock",
+  "classic rock",
+  "boogie rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Humble_Pie_%281971%29.png/500px-Humble_Pie_%281971%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Humble_Pie",
+ "resumo_pt": "Humble Pie é uma banda de rock inglesa formada pelo guitarrista e cantor Steve Marriott em Moreton, Essex, em 1969.\nEles são conhecidos como um dos primeiros supergrupos do final dos anos 1960 e fizeram sucesso no início dos anos 1970 com canções como \"Black Coffee\", \"30 Days in the Hole\", \"I Don't Need No Doctor\", \"Hot 'n' Nasty\" e \"Natural Born Bugie\".\nA formação original apresentava o vocalista e guitarrista Steve Marriott do Small Faces, o vocalista e guitarrista Peter Frampton do Herd, o baixista Greg Ridley e um baterista de 17 anos, Jerry Shirley, do Apostolic Intervention.",
+ "resumo_en": "Humble Pie are an English rock band formed by former Small Faces vocalist and guitarist Steve Marriott and former Herd vocalist and guitarist Peter Frampton in Moreton, Essex, in 1969. The original line-up was completed by former Spooky Tooth bassist Greg Ridley and former Apostolic Intervention drummer Jerry Shirley. They are known as one of the first supergroups of the late 1960s and enjoyed success in the early 1970s with songs such as \"Black Coffee\", \"30 Days in the Hole\", \"I Don't Need No Doctor\", \"Hot 'n' Nasty\" and \"Natural Born Bugie\". Frampton left the band in 1971 and was replaced by Clem Clempson.",
+ "albuns": [
+  {
+   "id": "1bb93373-a777-330c-af49-0a785ff9ca99",
+   "titulo": "Town and Country",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/5a97f7fe-76e2-4889-b663-cb29083dc3e8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take Me Back",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "The Sad Bag of Shaky Jake",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "The Light of Love",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Cold Lady",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Down Home Again",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Ollie Ollie",
+     "duracao": "0:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Every Mother’s Son",
+     "duracao": "5:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Heartbeat",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Only You Can See",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Silver Tongue",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Home and Away",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Town_and_Country_%28album%29",
+   "resumo_en": "Town and Country is the second studio album by rock band Humble Pie, released in November 1969. It was released only in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "310ca8d3-c935-3a78-b60c-6c565fbd0e46",
+   "titulo": "As Safe as Yesterday Is",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/00882542-d974-4646-ae10-0d0eec9f4cf0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Desperation",
+     "duracao": "6:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Stick Shift",
+     "duracao": "2:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Buttermilk Boy",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Growing Closer",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "As Safe as Yesterday Is",
+     "duracao": "6:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Bang!",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Alabama ’69",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ll Go Alone",
+     "duracao": "6:22"
+    },
+    {
+     "n": 9,
+     "titulo": "A Nifty Little Number Like You",
+     "duracao": "6:17"
+    },
+    {
+     "n": 10,
+     "titulo": "What You Will",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.9,
+    "fontes": 6
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/As_Safe_as_Yesterday_Is",
+   "resumo_en": "As Safe as Yesterday Is is the debut studio album by English rock band Humble Pie, released in August 1969. The band had been formed by singer/guitarists Steve Marriott and Peter Frampton. The album features a blend of heavy blues, hard rock, pastoral folk, and post-mod pop music. It peaked at number 32 in the UK Albums Chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6f44a5fd-8aa7-3df3-b823-71828cded819",
+   "titulo": "Humble Pie",
+   "data": "1970-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/a0c01251-dcfb-32b2-b5b3-e0d996ed7cfc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Live With Me",
+     "duracao": "7:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Only a Roach",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "One Eyed Trouser-Snake Rumba",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Earth and Water Song",
+     "duracao": "6:19"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Ready",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Theme from Skint (See You Later Liquidator)",
+     "duracao": "5:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Red Light Mama, Red Hot!",
+     "duracao": "6:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Sucking on the Sweet Vine",
+     "duracao": "5:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Humble_Pie_%28album%29",
+   "resumo_en": "Humble Pie is the third studio album by English rock band Humble Pie. Released in 1970, it was their first album with A&M Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c47d05ef-f665-371c-90b0-c22efc4ae1a4",
+   "titulo": "Rock On",
+   "data": "1971-03",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/d9261716-68ac-40d4-89cd-1d2a6ffa82b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shine On",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Sour Grain",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "79th and Sunset",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Stone Cold Fever",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Rolling Stone",
+     "duracao": "5:57"
+    },
+    {
+     "n": 6,
+     "titulo": "A Song for Jenny",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "The Light",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Big George",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Strange Days",
+     "duracao": "6:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Red Neck Jump",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_On_%28Humble_Pie_album%29",
+   "resumo_en": "Rock On is the fourth album by the English rock group Humble Pie, released in March 1971. It reached #118 on the Billboard 200. It is the last Humble Pie studio album to feature guitarist/singer Peter Frampton, who left the band towards the end of the year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b3a4b7c-41c5-3eb0-9f35-9015c8fda8a1",
+   "titulo": "Smokin’",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/3ece83ed-dc6c-4b1e-a468-14f856362103/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hot ’n’ Nasty",
+     "duracao": "3:21"
+    },
+    {
+     "n": 2,
+     "titulo": "The Fixer",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re So Good for Me",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "C’mon Everybody",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Old Time Feelin’",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "30 Days in the Hole",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Road Runner / Road Runner’s ’G’ Jam",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "I Wonder",
+     "duracao": "8:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Peace and Time",
+     "duracao": "5:49"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Smokin%27_%28Humble_Pie_album%29",
+   "resumo_en": "Smokin' is the fifth studio album by English rock band Humble Pie, released in 1972 by A&M Records. It was the band's international commercial breakthrough, peaking at number 6 on the US Billboard 200 album chart, and hit number 20 in the UK and number 9 in Australia.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "892f1c2d-a417-3494-b3ea-0df6538c8323",
+   "titulo": "Eat It",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/2f2c4291-b074-4d69-b903-805884e3b2cd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get Down to It",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Good Booze and Bad Women",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Is It for Love",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Drugstore Cowboy",
+     "duracao": "5:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Coffee",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "I Believe to My Soul",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Shut Up and Don't Interrupt Me",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "That's How Strong My Love Is",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Say No More",
+     "duracao": "1:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Oh, Bella (All That's Hers)",
+     "duracao": "3:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Summer Song",
+     "duracao": "2:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Beckton Dumps",
+     "duracao": "3:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Up Your Sleeves",
+     "duracao": "4:55"
+    },
+    {
+     "n": 14,
+     "titulo": "Honky Tonk Women",
+     "duracao": "3:46"
+    },
+    {
+     "n": 15,
+     "titulo": "(I'm a) Road Runner",
+     "duracao": "12:27"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b6285d9f-f5e1-3466-904d-9184d2e9bbc3",
+   "titulo": "Thunderbox",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/7b633ed7-36d4-4210-a903-b270b24fe8e4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thunderbox",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Groovin’ with Jesus",
+     "duracao": "2:18"
+    },
+    {
+     "n": 3,
+     "titulo": "I Can’t Stand the Rain",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Anna (Go to Him)",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "No Way",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Rally With Ali",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Worry, Be Happy",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Ninety-Nine Pounds",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Every Single Day",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "No Money Down",
+     "duracao": "4:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Drift Away",
+     "duracao": "3:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Oh La-De-Da",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thunderbox_%28album%29",
+   "resumo_en": "Thunderbox is the seventh studio album by English hard rock group Humble Pie, released in 1974. It reached number 52 on the US Billboard 200 album chart. The planned UK release was cancelled.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "48482e2c-d8fb-31d9-bc44-11f59266ca9e",
+   "titulo": "Street Rats",
+   "data": "1975-02",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/a707b7e2-6c08-3ebf-8ff9-e7db8cf3cd8b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Street Rat",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock and Roll Music",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "We Can Work It Out",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Scored Out",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Road Hog",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Rain",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "There 'Tis",
+     "duracao": "3:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Let Me Be Your Lovemaker",
+     "duracao": "5:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Countryman Stomp",
+     "duracao": "2:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Drive My Car",
+     "duracao": "3:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Queens and Nuns",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Street_Rats",
+   "resumo_en": "Street Rats is the eighth studio album by the English rock group Humble Pie, released in 1975. The album went to number 100 on the US Billboard 200 album chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d5dd7f23-d445-3ddd-baf0-3ca40edb2aca",
+   "titulo": "On to Victory",
+   "data": "1980-03",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/39135435-766e-4aed-9843-cb251a235e48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fool for a Pretty Face",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "You Soppy Pratt",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Infatuation",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Take It From Here",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Savin’ It",
+     "duracao": "4:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Baby Don't You Do It",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Get It in the End",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "My Lover’s Prayer",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Further Down the Road",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Over You",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_to_Victory_%28album%29",
+   "resumo_en": "On to Victory is a studio album recorded by the English rock band Humble Pie. It was the first with a new lineup including vocalist and guitarist Steve Marriott, drummer Jerry Shirley, vocalist and guitarist Bobby Tench from the Jeff Beck Group, and American bassist Anthony \"Sooty\" Jones.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c0f9d563-48f9-3700-b3db-36da420725c3",
+   "titulo": "Go for the Throat",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/b42ff555-2e41-409a-a0d1-60a4ae01ae14/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Shook Up",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Teenage Anxiety",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Tin Soldier",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Keep It on the Island",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Driver",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Restless Blood",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Go for the Throat",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Lottie and the Charcoal Queen",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Chip Away (The Stone)",
+     "duracao": "4:55"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 2.0,
+    "media": 2.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Go_for_the_Throat",
+   "resumo_en": "Go for the Throat is the tenth studio  album recorded by the English rock band Humble Pie and the second with the new lineup including, guitarist and vocalist Steve Marriott, drummer Jerry Shirley, American bassist Anthony \"Sooty\" Jones and  vocalist and guitarist,  Bobby Tench from The Jeff Beck Group. Marriott also brought in backing vocalists Marge Raymond, Dana Kral and Robin Beck, once again looking for  a more authenthic and refined R&B sound and feel. Go For The Throat was released by Atco in 1981 and the new version of \"Tin Soldier\" reached #58 in the US single charts.\nThe band toured the album after it had been released. At the beginning of the tour scheduled appearances by the band were delayed when Marriott damaged his hand. He then later became ill, forcing the cancellation of all further tour dates. Soon afterwards Humble Pie disbanded after being dropped by their record label due to contractual differences.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dccfa394-7a2a-4ceb-bd02-ae9aacce8e16",
+   "titulo": "Back on Track",
+   "data": "2002-01-13",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/5d6ba99a-b6ad-4282-bbc7-e3f51ac6faf1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dignified",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Real Thing",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Trouble",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain't No Big Thing",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Stay One More Night",
+     "duracao": "5:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Still Got a Story to Tell",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "All I Ever Needed",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "This Time",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Flat Busted",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Between Old Teddy & Your Mom",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Back_on_Track_%28Humble_Pie_album%29",
+   "resumo_en": "Back on Track is the eleventh studio album by Humble Pie recorded after Jerry Shirley re-formed the band in 2001 with a line-up including their original bassist Greg Ridley,  guitarist and vocalist Bobby Tench and the new addition of guitarist Dave \"Bucket\" Colwell, who wrote or co-wrote seven of the ten tracks on this album. Back on Track was released by Sanctuary in UK and Europe on 19 February 2002. Keyboard players Zoot Money and Victor Martin were brought in for the Back on Track recording sessions. The album was recorded at Jacobs Studios and Astoria Studios and the CD cover cites special thanks to David Gilmour.\nThe album and band line up had many of the elements which had contributed to Humble Pie's musical chemistry, with two of the original sidemen to Steve Marriott, Shirley and Ridley re-united with well respected former band member Tench. The promotional Back on Track tour of UK and then Germany with Company of Snakes followed and the response to the live shows was encouraging, but Greg Ridley fell ill late in 2002 and the band split up. Back on Track was another example of a Humble Pie album whose sales were limited by the curtailment of tour schedules due to illness.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e8441089-0f48-40e5-af78-bbc28c9c76b4",
+   "titulo": "Joint Effort",
+   "data": "2019-01-23",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/22be10ed-ce94-4498-a1b6-d491e8c11fdb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Think",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "This Ol’ World",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Midnight of My Life",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Let Me Be Your Lovemaker",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Rain",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Snakes & Ladders",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Good Thing",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "A Minute of Your Time",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Charlene",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Think 2",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

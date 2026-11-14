@@ -1,0 +1,563 @@
+{
+ "id": "leo-jaime",
+ "nome": "Léo Jaime",
+ "cena": "Rock brasileiro",
+ "mbid": "9dabd663-3d69-43db-8791-c380bf12f999",
+ "wikidata": null,
+ "tipo": "Person",
+ "pais": "BR",
+ "inicio": "1960",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "pop rock",
+  "singer-songwriter"
+ ],
+ "foto": null,
+ "wikipedia": null,
+ "resumo_pt": "",
+ "resumo_en": "",
+ "albuns": [
+  {
+   "id": "2d821f7f-73d3-46f8-a7d3-41a339fb1ec4",
+   "titulo": "Phodas “C”",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/d987b04e-9c99-4c91-8dc6-8b85bc8a3b40/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock’n’Roll (Rock and Roll music)",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Sem ilusões",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Ora bolas!",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Volta pra mim!",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Vem ficar comigo",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "É, eu sei",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "AIDS",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Sonia (Sunny)",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Já foi papai",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "94ab7313-f682-4d81-95bd-40e87df3b61d",
+   "titulo": "Sessão da Tarde",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/b868dce9-a908-4a4c-be92-aa5adc726428/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O pobre",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "A fórmula do amor",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "A vida não presta",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "As sete vampiras",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Só",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "O regime",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Amor colegial",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Solange (So Lonely)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "O crime compensa",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Abaixo a depressão",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "60f2a183-4551-423c-a5f3-e6ab5061a225",
+   "titulo": "Vida Difícil",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/064799c1-dc00-4cea-ba27-ad831393a48d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nada mudou",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Briga",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Contos de fada",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Prisioneiro do futuro",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Amor",
+     "duracao": "4:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Sem futuro",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Mensagem de amor",
+     "duracao": "4:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Vida difícil",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Um telefone é muito pouco",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Cobra venenosa",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a10b32a3-9ded-40a8-a198-6d00f87cd8ba",
+   "titulo": "Direto do meu coração pro seu",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/b00f62fa-45d0-4ace-a7bc-809182471648/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Direto do meu coração pro seu (Directly From My Heart to You)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Adoro",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Gatinha manhosa",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Sob o domínio da paixão",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Coração vagabundo",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Na estrada",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Todas as honras do presidente",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Hot dog (Hound Dog)",
+     "duracao": "1:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Tutti frutti",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Conquistador barato",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Junto",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f913c24b-3374-4a2c-b979-1f39b1d44a43",
+   "titulo": "Avenida das Desilusões",
+   "data": "1989",
+   "ano": "1989",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Avenida das desilusões",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Sucesso sexual",
+     "duracao": "6:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Frio",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Agora",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Bobagem • Primavera (vai chuva) • Gostava tanto de você",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Índios",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Você e eu",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Eu perco o rumo sem você",
+     "duracao": "3:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Eterno enquanto duro",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2665bf26-a473-39b6-8e00-9402ad24e171",
+   "titulo": "Sexo drops & rock n roll",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/614e40a9-892a-426a-8f9c-f0214aa65083/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eu vou comer a Madonna",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Só fico em pé pra cair",
+     "duracao": "2:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Mina",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "O rei da noite",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Tempo",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Reprise de solidão",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Ninguém é de ninguém",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Imoral, ilegal ou engorda",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Devo",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Shirley",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Mulheres",
+     "duracao": "2:38"
+    },
+    {
+     "n": 12,
+     "titulo": "Shirley (versão a cappella)",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0020cdd2-d418-3f13-853f-330cfe4e0d28",
+   "titulo": "Todo Amor",
+   "data": "1995",
+   "ano": "1995",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Começo",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Esse brilho em teu olhar",
+     "duracao": "5:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Preciso dizer que te amo",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Outono",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Minha mulher",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Eu amo você",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Sete mil vezes",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Infiel",
+     "duracao": "5:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Tola foi você",
+     "duracao": "4:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Extravios",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bd0ddada-2b00-35c2-b74c-66154520e83c",
+   "titulo": "Interlúdio",
+   "data": "2008",
+   "ano": "2008",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mesmo assim",
+     "duracao": "4:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Fotografia",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Se ela soubesse o que quer",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Pode ser",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Interlúdio",
+     "duracao": "4:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Tudo",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Nos arredores do amor",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Pelo Rio",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Silêncio",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Hoje e sempre",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

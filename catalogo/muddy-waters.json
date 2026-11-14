@@ -1,0 +1,1266 @@
+{
+ "id": "muddy-waters",
+ "nome": "Muddy Waters",
+ "cena": "Blues essencial",
+ "mbid": "f86f1f07-d182-45ce-ae93-ef610880ca72",
+ "wikidata": "Q220707",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1913",
+ "fim": "1983",
+ "ativa": false,
+ "generos": [
+  "blues",
+  "chicago blues",
+  "electric blues",
+  "delta blues",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Muddy_Waters_%28cropped%29.jpg/500px-Muddy_Waters_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Muddy_Waters",
+ "resumo_pt": "McKinley Morganfield ou Muddy Waters (Condado de Issaquena, 4 de abril de 1913 – Westmont, 30 de abril de 1983) foi um músico de blues norte-americano, considerado o pai do Chicago blues. Foi considerado o 49.º melhor guitarrista da história, em enquete da revista norte-americana Rolling Stone.",
+ "resumo_en": "McKinley Morganfield (April 4, 1913 – April 30, 1983), better known as Muddy Waters, was an American blues singer-songwriter and musician who was an important figure in the post-World War II blues scene, and is often cited as the \"father of modern Chicago blues\".\nMuddy Waters grew up on Stovall Plantation near Clarksdale, Mississippi, and by the age of 17 was playing the guitar and the harmonica, copying local blues artists Son House and Robert Johnson. In 1941, Alan Lomax and professor John W. Work III of Fisk University recorded him in Mississippi for the Library of Congress. In 1943, he moved to Chicago to become a full-time professional musician. In 1946, he recorded his first records for Columbia Records and then for Aristocrat Records, a newly formed label run by brothers Leonard and Phil Chess.\nIn the early 1950s, Muddy Waters and his band—Little Walter Jacobs on harmonica, Jimmy Rogers on guitar, Elga Edmonds (also known as Elgin Evans) on drums and Otis Spann on piano—recorded several songs that became blues classics, some with the bassist and songwriter Willie Dixon. These songs included \"Hoochie Coochie Man\", \"I Just Want to Make Love to You\" and \"I'm Ready\". In 1958, he traveled to England, laying the foundations of the resurgence of interest in the blues there. His performance at the Newport Jazz Festival in 1960 was recorded and released as his first live album, At Newport 1960.\nMuddy Waters' music laid the foundation for various American music genres, including",
+ "albuns": [
+  {
+   "id": "c6402c54-a774-440e-92e9-8f921719aaf3",
+   "titulo": "Muddy Waters Sings Big Bill Broonzy",
+   "data": "1960-06",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/72dda285-7b73-4409-a609-e75c00d70dd5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tell Me Baby",
+     "duracao": "2:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Southbound Train",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "When I Get to Thinking",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Just a Dream (on My Mind)",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Double Trouble",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "I Feel So Good",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "I Done Got Wise",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Mopper’s Blues",
+     "duracao": "2:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Lonesome Road Blues",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Hey, Hey",
+     "duracao": "2:41"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Muddy_Waters_Sings_%22Big_Bill%22",
+   "resumo_en": "Muddy Waters Sings \"Big Bill\" is the first studio album, but second overall album, by blues musician Muddy Waters, featuring songs by Big Bill Broonzy, released by the Chess label in 1960.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7cd640e8-7009-3217-a085-08384da9e49a",
+   "titulo": "Folk Singer",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/4f4a2e6c-109a-46df-801c-dacd46ad4c97/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Home Is in the Delta",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Long Distance",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "My Captain",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Good Morning Little Schoolgirl",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "You Gonna Need My Help",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Cold Weather Blues",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Leg Woman",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Country Boy",
+     "duracao": "3:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Feel Like Going Home",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.2,
+    "fontes": 8
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Folk_Singer_%28album%29",
+   "resumo_en": "Folk Singer is the second studio album and fourth album overall by Muddy Waters, released in January 1964 by Chess Records. The album features Waters on acoustic guitar, backed by Willie Dixon on string bass, Clifton James on drums, and Buddy Guy on acoustic guitar. It is Waters's only all-acoustic album. Numerous reissues of Folk Singer include bonus tracks from two subsequent sessions, in April 1964 and October 1964.\nDespite not charting in any country, Folk Singer received critical acclaim; most reviewers praised its high-quality sound, especially on remastered versions, as well as the instrumentation. In 2003, the album was ranked number 280 on Rolling Stone's list of \"The 500 Greatest Albums of All Time\".",
+   "spotify": "5cLWh6nwcLUX2H4oGfW9Rx",
+   "youtube": null
+  },
+  {
+   "id": "afbcfb50-e0f9-3ecd-8d39-468590d6f2b4",
+   "titulo": "Muddy, Brass and the Blues",
+   "data": "1966-10-26",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/76ea04f9-0411-4ea6-9c66-58b3eb06170f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Corine, Corina",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Piney Brown Blues",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Night",
+     "duracao": "2:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Trouble in Mind",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Going Back to Memphis",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Betty and Dupree",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Sweet Little Angel",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Take My Advice",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Trouble",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Hard Loser",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 3.8,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Muddy%2C_Brass_%26_the_Blues",
+   "resumo_en": "Muddy, Brass & the Blues, sometimes referred to as Brass and the Blues, is an album by the blues musician Muddy Waters, released by Chess Records in 1966.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f60ea2bf-9e89-397b-87d6-a3ca162e7637",
+   "titulo": "Down on Stovall’s Plantation",
+   "data": "1966-12-01",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/da453b03-1f73-4d6f-ac45-a9fd090cf4fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Be’s Troubled",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Rambling Kid Blues",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "You Got to Take Sick and Die Some of These Days",
+     "duracao": "2:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Burr Clover Blues",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Pearlie Mae Blues",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Country Blues, No. 1",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Why Don’t You Live So God Can Use You",
+     "duracao": "2:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Rosalie",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Take a Walk With Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Joe Turner",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re Gonna Miss Me When I’m Dead and Gone",
+     "duracao": "3:14"
+    },
+    {
+     "n": 12,
+     "titulo": "I Be Bound to Write to You",
+     "duracao": "3:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Country Blues No. 2",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "10b45add-7b9e-37ee-8dc3-11839f329e46",
+   "titulo": "Super Blues",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/403f0709-84bc-4a93-a307-eea6bd3a2c8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Distance Call",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Who Do You Love",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm a Man",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Bo Diddley",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "You Can't Judge a Book by the Cover",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "I Just Want to Make Love to You",
+     "duracao": "6:07"
+    },
+    {
+     "n": 7,
+     "titulo": "My Babe",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "You Don't Love Me",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Super_Blues",
+   "resumo_en": "Super Blues is a 1967 studio album by a blues supergroup consisting of Bo Diddley, Muddy Waters, and Little Walter. The album was released in both mono and stereo formats by Checker Records in June 1967. A follow-up album The Super Super Blues Band was released later that year and featured Howlin' Wolf replacing Little Walter.",
+   "spotify": "2lal1dUF4SNuSwYwJHat6s",
+   "youtube": null
+  },
+  {
+   "id": "cecc7a47-5057-3407-830e-7e5d61de6a77",
+   "titulo": "The Super Super Blues Band",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/d93820f9-ba76-4976-9346-2cfa74806b9a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Distance Call",
+     "duracao": "9:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Ooh Baby / Wrecking My Love Life",
+     "duracao": "6:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Little Angel",
+     "duracao": "6:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Spoonful",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Diddley Daddy",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "The Red Rooster",
+     "duracao": "7:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Goin' Down Slow",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Super_Super_Blues_Band",
+   "resumo_en": "The Super Super Blues Band is an album by blues musicians Howlin' Wolf, Muddy Waters, and Bo Diddley, released on the Checker label in 1968. It is one of several Chess albums of the 1960s to document an informal jam session between several of the label's artists, alongside Two Great Guitars (1964) and Super Blues (1967).",
+   "spotify": "3hYDvg91x5TuC0G7m7Ubyc",
+   "youtube": null
+  },
+  {
+   "id": "a32e40fb-6d50-3596-ae27-c8fdbe9ddcd8",
+   "titulo": "Electric Mud",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/f345a38e-b9fa-3ad2-8a43-32c9424c6630/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Just Want to Make Love to You",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm Your Hoochie Coochie Man",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Let's Spend the Night Together",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "She's Alright",
+     "duracao": "6:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Mannish Boy",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Herbert Harper's Free Press News",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Tom Cat",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "The Same Thing",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Electric_Mud",
+   "resumo_en": "Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it presents Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.\nThe album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a45c8097-6280-4779-994a-a9b3c34a0297",
+   "titulo": "After the Rain",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/ece11094-6655-4ff8-aa94-5e9bf0d06468/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Am the Blues",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Ramblin' Mind",
+     "duracao": "4:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Rollin' and Tumblin'",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Bottom of the Sea",
+     "duracao": "5:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Honey Bee",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Blues and Trouble",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Hurtin' Soul",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Screamin' and Cryin'",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/After_the_Rain_%28Muddy_Waters_album%29",
+   "resumo_en": "After the Rain is the sixth studio album by Muddy Waters. It is the follow-up to the previous year's Electric Mud, and shares many of the same musicians. Unlike Electric Mud, After the Rain contained mostly Waters's own compositions; the songs, while still distorted, are less overtly psychedelic.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "090d6fe1-8a36-3107-be4c-dd776c0653a2",
+   "titulo": "Fathers and Sons",
+   "data": "1969-08-18",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/f4e3b5af-6f5a-487d-a066-eb4e1ac66913/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Aboard",
+     "duracao": "2:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Mean Disposition",
+     "duracao": "5:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Blow Wind Blow",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Can't Lose What You Ain't Never Had",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Walkin' Thru the Park",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Forty Days and Forty Nights",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Standin' Round Crying",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "I'm Ready",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Twenty Four Hours",
+     "duracao": "4:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Sugar Sweet",
+     "duracao": "2:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Long Distance Call",
+     "duracao": "6:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Baby Please Don't Go",
+     "duracao": "3:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Honey Bee",
+     "duracao": "3:57"
+    },
+    {
+     "n": 14,
+     "titulo": "The Same Thing",
+     "duracao": "6:00"
+    },
+    {
+     "n": 15,
+     "titulo": "Got My Mojo Working (Part One)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 16,
+     "titulo": "Got My Mojo Working (Part Two)",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.1,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fathers_and_Sons_%28album%29",
+   "resumo_en": "Fathers and Sons is the seventh studio album by the American blues musician Muddy Waters, released as a double LP by Chess Records in August 1969.\nThe album contains both studio and live recordings recorded in April 1969 in Chicago, Illinois, with an all-star band, including Michael Bloomfield and Paul Butterfield of the Paul Butterfield Blues Band, Donald \"Duck\" Dunn of Booker T. & the M.G.'s, Otis Spann, and Sam Lay.\nThe album was Waters's biggest mainstream success, reaching #70 on the Billboard 200, which was his only appearance in the top half of the chart. Waters would not make another appearance on the 200 until Hard Again in 1977.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d4235f37-fdc1-3cbd-bd6e-271f769cdbc5",
+   "titulo": "The London Muddy Waters Sessions",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/d8575cc7-5b6b-4727-9308-23b8c5e234b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blind Man Blues",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Key to the Highway",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Young Fashioned Ways",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm Gonna Move to the Outskirts of Town",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Who's Gonna Be Your Sweet Man When I'm Gone",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Walkin' Blues",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "I'm Ready",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Sad Sad Day",
+     "duracao": "5:20"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don't Know Why",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "media": 7.1,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_London_Muddy_Waters_Sessions",
+   "resumo_en": "The London Muddy Waters Sessions is a studio album by Muddy Waters, released in 1972 on Chess Records. A follow-up to 1971's The London Howlin' Wolf Sessions, the concept was to combine American bluesmen with British and Irish blues/rock stars. The album was an attempt to capitalise on the increasing popularity of traditional blues music and blues artists in Britain.\nThe London Muddy Waters Sessions won the 1972 Grammy Award for Best Ethnic or Traditional Folk Recording; it marked the second of six times that Muddy Waters would win that award.",
+   "spotify": "3TkwYJJO9Q6aE4pNcEF1NC",
+   "youtube": null
+  },
+  {
+   "id": "10f351a5-4d0b-4a68-8693-85604f2936ba",
+   "titulo": "Can’t Get No Grindin’",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/fa44552a-5efa-4b1b-878b-e2155e260e99/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Can't Get No Grindin' (What's the Matter with the Meal)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Mother's Bad Luck Child",
+     "duracao": "5:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Funky Butt",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Sad Letter",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Someday I'm Gonna Ketch You",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Weapon",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Garbage Man",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "After Hours",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Whiskey Ain't No Good",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Muddy Waters' Shuffle",
+     "duracao": "2:19"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Can%27t_Get_No_Grindin%27",
+   "resumo_en": "Can't Get No Grindin' is an album by blues musician Muddy Waters, released by the Chess label in 1973.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3f7e1b7a-cc0a-384f-80f8-037e37cd304f",
+   "titulo": "“Unk” in Funk",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/d35ab1df-0758-438f-9974-5789945457d5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rollin' and Tumblin'",
+     "duracao": "7:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Just to Be With You",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Electric Man",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Trouble No More",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "\"Unk\" in Funk",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Drive My Blues Away",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Katie",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Waterboy Waterboy",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Everything Gonna Be Alright",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/%22Unk%22_in_Funk",
+   "resumo_en": "\"Unk\" in Funk is an album by blues musician Muddy Waters, released by the Chess label in 1974.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "856e1133-13f5-40a4-bcb5-09c285688ac4",
+   "titulo": "London Revisited",
+   "data": "1974-01",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1dd1e133-22d1-4a70-9d96-6b66cc088cba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Days",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Highway 41",
+     "duracao": "7:19"
+    },
+    {
+     "n": 3,
+     "titulo": "I Almost Lost My Mind",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Lovin' Man",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Goin' Down Slow",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "The Killing Floor",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "I Want To Have A Word With You",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d76e9aca-a54f-37f1-ad1d-126692ec2151",
+   "titulo": "The Muddy Waters Woodstock Album",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/a46f6892-afb9-4983-83d8-977171313581/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Why Are People Like That",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Going Down to Main Street",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Born With Nothing",
+     "duracao": "5:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Caledonia",
+     "duracao": "6:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Funny Sounds",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Love, Deep as the Ocean",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Let the Good Times Roll",
+     "duracao": "5:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Kansas City",
+     "duracao": "5:09"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.6,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Muddy_Waters_Woodstock_Album",
+   "resumo_en": "The Muddy Waters Woodstock Album is an album by blues musician Muddy Waters, released by the Chess label in 1975. The album features Levon Helm and Garth Hudson, from the Band, and Paul Butterfield.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a77c72ce-c6d9-3ebd-a4c1-ced5d4ec0b4b",
+   "titulo": "Hard Again",
+   "data": "1977-01-10",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/c0003285-e8a5-468a-b9b3-eda895d91cb6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mannish Boy",
+     "duracao": "5:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Bus Driver",
+     "duracao": "7:45"
+    },
+    {
+     "n": 3,
+     "titulo": "I Want To Be Loved",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Jealous Hearted Man",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can't Be Satisfied",
+     "duracao": "3:29"
+    },
+    {
+     "n": 6,
+     "titulo": "The Blues Had A Baby And They Named It Rock & Roll (#2)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Deep Down In Florida",
+     "duracao": "5:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Crosseyed Cat",
+     "duracao": "6:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Girl",
+     "duracao": "7:07"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.5,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hard_Again",
+   "resumo_en": "Hard Again is a studio album by American blues singer Muddy Waters.  Released on January 10, 1977, it was the first of his albums produced by Johnny Winter. Hard Again was Waters's first album on Blue Sky Records after leaving Chess Records and was well received by critics.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6a203ff2-595a-3215-93e8-4d10f49dff5f",
+   "titulo": "I’m Ready",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/cd5070b0-7282-42fc-bf24-11ed17cba5c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Ready",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "33 Years",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Do You Trust",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Copper Brown",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Your Hoochie Coochie Man",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Mamie",
+     "duracao": "5:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Rock Me",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Screamin’ and Cryin’",
+     "duracao": "5:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Good Morning Little Schoolgirl",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 5
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/I%27m_Ready_%28Muddy_Waters_album%29",
+   "resumo_en": "I'm Ready is a studio album by the Chicago blues musician Muddy Waters.  The second of his Johnny Winter-produced albums for the Blue Sky Records label, I'm Ready was issued one year after he found renewed commercial and critical success with Hard Again. The album earned Waters a Grammy Award in 1978.  It was reissued in 2004 by the Epic/Legacy, with three additional songs.",
+   "spotify": "4mh3XUBkBiIpCCriJ4mYNP",
+   "youtube": null
+  },
+  {
+   "id": "71d1b67f-b7e5-351f-bb07-ecd2735043ea",
+   "titulo": "King Bee",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/f9f1b17f-913e-4600-9f42-8c625fd386db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m a King Bee",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Too Young to Know",
+     "duracao": "4:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Mean Old Frisco Blues",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Forever Lonely",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "I Feel Like Going Home",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Champagne & Reefer",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Sad Sad Day",
+     "duracao": "5:25"
+    },
+    {
+     "n": 8,
+     "titulo": "(My Eyes) Keep Me in Trouble",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Deep Down in Florida #2",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "No Escape From the Blues",
+     "duracao": "2:05"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/King_Bee_%28album%29",
+   "resumo_en": "King Bee is the fourteenth and final studio album by blues singer and guitarist Muddy Waters. Released in 1981, it is third in a series of records done for the label Blue Sky Records under producer/guitarist Johnny Winter. Recorded in three days (and in the wake of Muddy's failing health) some of the band members, namely Winter and guitarist Bob Margolin, were not happy with the result. As his health deteriorated, Muddy was forced to cancel an increasing number of shows and never performed after early December 1981. He died of a heart attack on April 30, 1983.\nThe album was recorded in May 1980. A salary dispute between the band and Muddy Waters's manager, Scott Cameron, halted the session. Eventually the album was completed by using a couple of outtakes from 1977's Hard Again.\nDavid Michael Kennedy was the photographer for the King Bee, providing photos for the front cover, back cover, and the inside album sleeve.  The photo for the inside album sleeve was a picture of Muddy and his large family sitting in the living room of his home in Westmont, Illinois.",
+   "spotify": "3Q28BXVOlFF5HIloe4BP5U",
+   "youtube": null
+  },
+  {
+   "id": "258a7183-3541-4989-a140-1da82d0c1988",
+   "titulo": "Live the Life",
+   "data": "2008",
+   "ano": "2008",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Been a Long, Long Time",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Look Under My Bed",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Tribute to Martin Luther King",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Sarah Street",
+     "duracao": "6:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Worried Life Blues",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Kansas City",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Tin Pan Alley",
+     "duracao": "7:29"
+    },
+    {
+     "n": 8,
+     "titulo": "5 Long Years",
+     "duracao": "7:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Live the Life I Love",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "I Wanna Go Home",
+     "duracao": "5:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Can't Lose What You Ain't Never Had",
+     "duracao": "3:37"
+    },
+    {
+     "n": 12,
+     "titulo": "High Rising",
+     "duracao": "4:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Everything's Gonna Be Alright",
+     "duracao": "2:09"
+    },
+    {
+     "n": 14,
+     "titulo": "What's on Your Worried Mind",
+     "duracao": "2:27"
+    },
+    {
+     "n": 15,
+     "titulo": "Mean Old Train",
+     "duracao": "3:03"
+    },
+    {
+     "n": 16,
+     "titulo": "My Baby Left Me",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

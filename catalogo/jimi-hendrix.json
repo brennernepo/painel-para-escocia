@@ -1,0 +1,831 @@
+{
+ "id": "jimi-hendrix",
+ "nome": "Jimi Hendrix",
+ "cena": "Clássicos do rock",
+ "mbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
+ "wikidata": "Q5928",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1942",
+ "fim": "1970",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "psychedelic rock",
+  "rock",
+  "acid rock",
+  "hard rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg/500px-Jimi_Hendrix_%281967%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Jimi_Hendrix",
+ "resumo_pt": "James Marshall \"Jimi\" Hendrix (nascido Johnny Allen Hendrix; Seattle, 27 de novembro de 1942 – Londres, 18 de setembro de 1970) foi um guitarrista, cantor e compositor norte-americano. Na grande maioria das listas já publicadas de melhores guitarristas da história, ocupa o primeiro lugar, é um dos mais influentes músicos de sua era, em diversos gêneros musicais.\nDepois de obter sucesso inicial na Europa, conquistou fama nos Estados Unidos depois de seu desempenho em 1967 no Festival Pop de Monterey. Hendrix foi a principal atração, dois anos mais tarde, do icônico Festival de Woodstock e do Festival da Ilha de Wight, em 1969 e 1970 respetivamente. Hendrix preferia amplificadores valvulados de alta potência, com os quais tirava um som saturado e seco, e frequentemente aproximava-se com a guitarra de frente para os altofalantes para produzir um efeito chamado \"feedback\", em que o som vai-se realimentando, agregando harmônicos e sustentação. Esse efeito agradável e musical é às vezes confundido com outro, desagradável, a microfonia. Hendrix foi um dos músicos que popularizaram o pedal wah-wah, que ele utilizava frequentemente para dar uma expressividade quase vocal a seus solos, particularmente com o uso de bends e legato baseados na escala pentatônica. Foi influenciado por artistas de blues como T-Bone Walker, B.B. King, Muddy Waters, Howlin' Wolf, Albert King e Elmore James, guitarristas de rhythm and blues e soul como Curtis Mayfield, Steve Cropper, assim como de alguns artis",
+ "resumo_en": "James Marshall \"Jimi\" Hendrix (born Johnny Allen Hendrix; November 27, 1942 – September 18, 1970) was an American guitarist and singer-songwriter. He is widely regarded as one of the greatest and most influential guitarists of all time. He was inducted into the Rock and Roll Hall of Fame in 1992 as a part of his band, the Jimi Hendrix Experience; the institution describes him as \"arguably the greatest instrumentalist in the history of rock music\".\nHendrix began playing guitar at age 15. In 1961, he enlisted in the US Army, but was discharged the following year. Soon afterward, he moved to Clarksville, then Nashville, Tennessee, and began playing gigs on the Chitlin' Circuit, earning a place in the Isley Brothers' backing band and later with Little Richard, with whom he continued to work through mid-1965. He then played with Curtis Knight and the Squires.\nHendrix moved to England in late 1966, after bassist Chas Chandler of the Animals became his manager. Within months, he formed the Jimi Hendrix Experience (with its rhythm section consisting of bassist Noel Redding and drummer Mitch Mitchell) and achieved three UK top-ten hits: \"Hey Joe\", \"Purple Haze\", and \"The Wind Cries Mary\". He achieved fame in the US after his performance at the Monterey Pop Festival in 1967. His third and final studio album, Electric Ladyland (1968), became his most successful release and his only number-one album on the US Billboard 200 chart. The world's highest-paid rock musician, Hendrix headlined ",
+ "albuns": [
+  {
+   "id": "50955100-d3eb-4eff-a177-991f85fa9d0d",
+   "titulo": "Strange Things",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/4f7cf5e0-4392-4135-b2a4-711893460dba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get That Feeling",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Strange Things",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Odd Ball",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Love Love",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Simon Says",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Gloomy Monday",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Welcome Home",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cd5fb8d2-90d6-4ef8-a471-9eaffaa6e8c5",
+   "titulo": "Flashing",
+   "data": "1968-08",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/082a7a6b-1c0f-4d40-adf0-aa3ab448a75f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gloomy Monday",
+     "duracao": "2:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Hornet Nest",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Fool for You Baby",
+     "duracao": "1:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Happy Birthday",
+     "duracao": "2:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Flashing",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Day Tripper",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Odd Ball",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Love",
+     "duracao": "8:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Accuse Me",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "54c6a0b2-863b-48ce-8ef0-90953604c260",
+   "titulo": "Original Sound Track ‘Experience’",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/0ed1c838-b0e7-40de-9839-d3ca9b90a5b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Sunshine of Your Love",
+     "duracao": "6:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Room Full of Mirrors",
+     "duracao": "8:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Bleeding Heart",
+     "duracao": "8:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Smashing of Amps",
+     "duracao": "6:20"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7ab9cb52-d9d1-3dd1-b678-45e0d6f98cc6",
+   "titulo": "The Cry of Love",
+   "data": "1971-03-05",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/185f07c5-aa3f-4712-9b0b-b55ddfb844c4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Freedom",
+     "duracao": "3:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Drifting",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Ezy Ryder",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Night Bird Flying",
+     "duracao": "3:52"
+    },
+    {
+     "n": 5,
+     "titulo": "My Friend",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Straight Ahead",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Astro Man",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Angel",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "In From the Storm",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Belly Button Window",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.1,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Cry_of_Love",
+   "resumo_en": "The Cry of Love is the first posthumous album of music by the American rock singer-songwriter and guitarist Jimi Hendrix. Recorded primarily in 1970, it features new material that Hendrix was working on for his planned fourth studio album before his death later that year. While most of the songs were included on proposed track listings by Hendrix, the final selection was made by recording engineer Eddie Kramer and drummer Mitch Mitchell, with input from manager Michael Jeffery.  Hendrix, Kramer, and Mitchell are credited as the album's producers, with Jeffery as the executive producer.\nReleased on March 5, 1971, six months after his death on September 18, 1970, by Reprise Records in the United States and Track Records in the United Kingdom, The Cry of Love was successful on the record charts in both countries and was certified platinum by the Recording Industry Association of America (RIAA) in 1998. Critics responded favorably to the album, viewing it as an impressive tribute to Hendrix. Several of its songs were later featured on other efforts to recreate the album Hendrix had been working on, including Voodoo Soup in 1995 and First Rays of the New Rising Sun in 1997.",
+   "spotify": "7ykAHaoptbCYaO0HAjpgcL",
+   "youtube": null
+  },
+  {
+   "id": "020ef5ad-aa39-3e0f-8529-bcedde8c04d5",
+   "titulo": "Rainbow Bridge",
+   "data": "1971-10",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/025fc494-437f-4f61-b527-515320644f2a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dolly Dagger",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Earth Blues",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Pali Gap",
+     "duracao": "5:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Room Full of Mirrors",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Star Spangled Banner",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Look Over Yonder",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Hear My Train A-Comin'",
+     "duracao": "11:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Hey Baby (New Rising Sun)",
+     "duracao": "6:05"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.8,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rainbow_Bridge_%28album%29",
+   "resumo_en": "Rainbow Bridge (subtitled Original Motion Picture Sound Track) is a posthumous album by the American musician Jimi Hendrix. It was released in October 1971 through Reprise Records, and was produced by Mitch Mitchell, Eddie Kramer, and John Jansen, with Hendrix receiving a production credit as well. The album was the second released after Hendrix's death to consist primarily of previously unreleased studio material, much of which was intended for a potential fourth studio album.\nDespite being labeled as a soundtrack, the album is generally regarded as a compilation. While tracks included do appear as incidental music within the Rainbow Bridge film, the album does not include music from Hendrix's Maui performance which comprised his appearance in the movie. Five of the album's tracks–\"Dolly Dagger\", \"Earth Blues\", \"Room Full of Mirrors\", \"Hear My Train A Comin'\" and \"Hey Baby (New Rising Sun)\"—were potential inclusions for Hendrix's fourth album. The majority of the album sees Hendrix backed by Billy Cox on bass and Mitchell on drums.\nUpon release, Rainbow Bridge was met with positive reviews by critics and was a commercial success. The album peaked at number 15 on the Billboard 200,",
+   "spotify": "2et0fTgbRp3w4Izzs4uVtz",
+   "youtube": null
+  },
+  {
+   "id": "2c987541-2e0b-355c-ab2e-a2420d9bf46b",
+   "titulo": "War Heroes",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/18519193-9e7c-4515-baab-bed88265a51d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bleeding Heart",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Highway Chile",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Tax Free",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Peter Gunn Catastrophe",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Stepping Stone",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Midnight",
+     "duracao": "5:35"
+    },
+    {
+     "n": 7,
+     "titulo": "3 Little Bears",
+     "duracao": "4:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Beginning",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Izabella",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/War_Heroes",
+   "resumo_en": "War Heroes is a compilation album by American guitarist Jimi Hendrix.  Released in the UK in October 1972, and in December 1972 in the US, it was the third album of mostly unreleased studio recordings to be issued after Hendrix's death. The album was engineered, mixed and compiled by Eddie Kramer and John Jansen, although biographer and later Hendrix producer John McDermott also identifies Hendrix as a producer.\nWar Heroes contains three songs that Hendrix proposed for his fourth studio album: \"Stepping Stone\", \"Izabella\", and \"Beginnings\" (listed as \"Beginning\"). Some vinyl versions contain the song \"Catastrophe\" between \"Peter Gunn\" and Stepping Stone\". These and songs from the two 1971 albums, The Cry of Love and Rainbow Bridge,  were included on First Rays of the New Rising Sun (1997).  War Heroes reached number 23 in the UK Albums Chart, number 48 on the US Billboard 200, and number 51 in Canada.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5ec6b0ec-4be2-436f-8414-b16ca13cd05f",
+   "titulo": "Sound Track Recordings from the Film “Jimi Hendrix”",
+   "data": "1973-07",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/035f4fdc-aaaa-42fb-8f5d-efb79113ab3d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock Me Baby",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Wild Thing",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Machine Gun I",
+     "duracao": "7:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Interviews I",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Johnny B. Goode",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Hey Joe",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Purple Haze",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Like a Rolling Stone",
+     "duracao": "6:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Interviews II",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "The Star Spangled Banner (traditional)",
+     "duracao": "3:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Machine Gun II",
+     "duracao": "12:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Hear My Train A Comin’",
+     "duracao": "3:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Interviews III",
+     "duracao": "2:36"
+    },
+    {
+     "n": 14,
+     "titulo": "Red House",
+     "duracao": "11:18"
+    },
+    {
+     "n": 15,
+     "titulo": "In From the Storm",
+     "duracao": "4:27"
+    },
+    {
+     "n": 16,
+     "titulo": "Interviews IV",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 84,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9e7caa48-9665-4d7e-9bd8-9481bfd3edd9",
+   "titulo": "Musique originale du film Jimi Plays Berkeley",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/7432fa3f-5c0b-489e-bac5-b6679f1cd448/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Johnny B. Goode",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Purple Haze",
+     "duracao": "2:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Star Spangled Banner",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Wings",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Woodoo Chile",
+     "duracao": "7:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Machine Gun",
+     "duracao": "11:57"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don’t Live Today",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Lover Man",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jimi_Plays_Berkeley_%28soundtrack%29",
+   "resumo_en": "Jimi Hendrix (1942–1970) was an American guitarist whose career spanned the years between 1962 and 1970. His posthumous discography includes recordings released after September 18, 1970. Hendrix left behind many recordings in varying stages of completion. This material, along with reissues of his career catalogue, has been released over the years in several formats by various producers and record companies. Since Experience Hendrix, a company owned and operated by members of the Hendrix family, took control of his recording legacy in 1995, over 15 Hendrix albums have appeared on the main US albums chart. Several of these have also placed on charts in more than 18 countries around the world.\nAt the time of his death, Hendrix was recording songs for a fourth studio album. He was working on enough material for a double album and had sketched out possible track lists. However, only about six songs were nearing completion, with an additional twenty or so in different stages of development. The first attempt at presenting Hendrix's fourth studio album, a single LP record titled The Cry of Love, was released in 1971 and reached number three on Billboard's album chart. A second attempt tit",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ee86146e-ab9b-33b0-9bf7-65bc75e244fb",
+   "titulo": "Crash Landing",
+   "data": "1975-03",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/2c6d1541-9b64-49bd-85d6-1e7e4b86faea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Message to Love",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Somewhere Over the Rainbow",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Crash Landing",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Come Down Hard on Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Peace in Mississippi",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "With the Power",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Stone Free Again",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Captain Coconut",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Crash_Landing_%28Jimi_Hendrix_album%29",
+   "resumo_en": "Crash Landing is a posthumous compilation album by American guitarist Jimi Hendrix.  It was released in March and August 1975 in the US and the UK respectively. It was the first Hendrix album to be produced by Alan Douglas.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4d7d8bad-5b92-3ca8-ab5e-4af450e6eca2",
+   "titulo": "Midnight Lightning",
+   "data": "1975-11",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/df0b92e9-9302-4694-a054-f8d0811d1043/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trashman",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Midnight Lightning",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Hear My Train A Coming",
+     "duracao": "5:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Gypsy Boy",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Machine Gun",
+     "duracao": "7:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Once I Had a Woman",
+     "duracao": "5:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Beginnings (Jam Back at the House)",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Midnight_Lightning",
+   "resumo_en": "Midnight Lightning is a posthumous compilation album by American rock guitarist Jimi Hendrix. It was released in November 1975 by Reprise Records in the US and Polydor Records in the UK. It was the second to be produced by Alan Douglas and Tony Bongiovi and contains demo-type recordings that were overdubbed with musicians who had never played with Hendrix. Despite including reworkings of the popular live songs \"Hear My Train\" and \"Machine Gun\", the album was not as well received as its predecessor, peaking at numbers 43 in the US and 46 in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d779da07-606c-3818-a485-bea4a96c2eae",
+   "titulo": "Nine to the Universe",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/4e40416f-10a6-4b9a-94bd-9fa807a5e7ff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nine to the Universe",
+     "duracao": "8:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Jimi/Jimmy Jam",
+     "duracao": "8:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Young/Hendrix",
+     "duracao": "10:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Easy Blues",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Drone Blues",
+     "duracao": "6:15"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nine_to_the_Universe",
+   "resumo_en": "Nine to the Universe is a posthumous compilation album by American guitarist Jimi Hendrix. It was released in March 1980 in the US and in June 1980 in the UK. It was the third album of Hendrix recordings to be produced by Alan Douglas.\nThe album contains five jam sessions, edited by Douglas. It reached number 127 on the Billboard 200 chart. Although the album has never been reissued or released on compact disc, four of the tracks have been re-released without Douglas's edits.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "123f0085-a4d5-4f3f-9a81-729584b1e482",
+   "titulo": "Welcome to the Electric Circus",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/65320eef-8766-4f31-b06d-5147e48a52be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fire",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Foxy Lady",
+     "duracao": "5:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Tax Free",
+     "duracao": "13:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Spanish Castle Magic",
+     "duracao": "9:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Red House",
+     "duracao": "15:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Sunshine of Your Love",
+     "duracao": "9:24"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don't Live Today / Star Spangled Banner",
+     "duracao": "8:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Purple Haze",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "36dcb4f4-7efe-4f3a-943e-75c7ac232f83",
+   "titulo": "Both Sides of the Sky",
+   "data": "2018-03-09",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/f5a9acfc-2c2e-43cb-8cbc-7a12e5cfac55/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mannish Boy",
+     "duracao": "5:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Lover Man",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Hear My Train a Comin’",
+     "duracao": "7:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Stepping Stone",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "$20 Fine",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Power of Soul",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Jungle",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Things I Used to Do",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Georgia Blues",
+     "duracao": "7:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Angel",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Woodstock",
+     "duracao": "5:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Send My Love to Linda",
+     "duracao": "4:37"
+    },
+    {
+     "n": 13,
+     "titulo": "Cherokee Mist",
+     "duracao": "7:01"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Both_Sides_of_the_Sky",
+   "resumo_en": "Both Sides of the Sky is a compilation album by Jimi Hendrix, released by Legacy Recordings and Experience Hendrix on March 9, 2018. The 13-track album, including ten previously unreleased recordings, were recorded with either the Jimi Hendrix Experience or the Band of Gypsys lineups, and features guest appearances from Stephen Stills, Johnny Winter and Lonnie Youngblood.\nThe album is the third (and final) release in a trilogy of posthumously released \"archival recordings\" compilation albums highlighted as intended for a follow-up to Electric Ladyland (1968), starting with Valleys of Neptune (2010) and continuing with People, Hell and Angels (2013).",
+   "spotify": "0EfHWQeb3T1UJw9KrqN407",
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,578 @@
+{
+ "id": "cocteau-twins",
+ "nome": "Cocteau Twins",
+ "cena": "Descobertas do acervo",
+ "mbid": "000fc734-b7e1-4a01-92d1-f544261b43f5",
+ "wikidata": "Q588820",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1979",
+ "fim": "1997",
+ "ativa": false,
+ "generos": [
+  "dream pop",
+  "ethereal wave",
+  "shoegaze",
+  "post-punk",
+  "gothic rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Cocteau_Twins_1986.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Cocteau_Twins",
+ "resumo_pt": "Cocteau Twins foi uma banda escocesa de rock formada em Grangemouth, Escócia, em 1979. Os seus membros eram Elizabeth Fraser (vocais), Robin Guthrie (guitarra), Will Heggie (baixo) e Simon Raymonde (baixo, em 1983, com a saída de Heggie).",
+ "resumo_en": "Cocteau Twins were a Scottish rock band active from 1979 to 1997. They were formed in Grangemouth on the Firth of Forth by Robin Guthrie (guitars, drum machine) and Will Heggie (bass), adding Elizabeth Fraser (vocals) in 1981. In 1983, Heggie was replaced by multi-instrumentalist Simon Raymonde. The group earned critical praise for their ethereal, effects-laden sound and the soprano vocals of Fraser, whose lyrics often eschew any recognisable language. They pioneered the 1980s alternative subgenre of dream pop and helped define what would become shoegaze.\nIn 1982, the band signed with the record label 4AD and released their debut album, Garlands. The addition of Raymonde in 1983 solidified their best-known lineup, which soon produced the No. 29 UK single \"Pearly-Dewdrops' Drops\", their highest-charting UK single. The trio crystallised their \"swelling, euphoric\" dream pop style on the 1984 album Treasure, which became the band's first UK Top 40 album. In April 1986, they released their fourth album, Victorialand, becoming their first top ten album in the UK.\nThe group's fifth album Blue Bell Knoll (1988) peaked at number 15 in the UK and at 109 on the Billboard 200 in the US: \"Carolyn's Fingers\" was popular on US alternative radio stations and reached number 2 on the Billboard Modern Rock Tracks. Their sixth album, Heaven or Las Vegas (1990) became their most commercially successful album in the UK, reaching number 7 on the albums chart.\nBy 1993, the band had left 4AD for Font",
+ "albuns": [
+  {
+   "id": "9e49ba16-74f0-389e-9b76-7a13c7171a00",
+   "titulo": "Garlands",
+   "data": "1982-09-01",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/fa26e26a-2aa4-4767-a019-e0163606b3e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blood Bitch",
+     "duracao": "4:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Wax and Wane",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "But I’m Not",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Blind Dumb Deaf",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Shallow Then Halo",
+     "duracao": "5:14"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hollow Men",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Garlands",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Grail Overfloweth",
+     "duracao": "5:21"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 6
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Garlands_%28album%29",
+   "resumo_en": "Garlands is the debut album by the Scottish rock band Cocteau Twins. It was released on 10 July 1982 through the record label 4AD. It peaked in the Top 5 of the UK Independent Albums Chart and received support from BBC Radio 1 radio host John Peel.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "91962b6e-34d3-4d3e-87fa-f30c3344a19b",
+   "titulo": "Head Over Heels",
+   "data": "1983-10-24",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/4199d8a9-7822-4122-801f-c5e111abfe8d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When Mama Was Moth",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Five Ten Fiftyfold",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Sugar Hiccup",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "In Our Angelhood",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Glass Candle Grenades",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Gold Dust Rush",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "The Tinderbox (Of a Heart)",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Multifoiled",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "My Love Paramour",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Musette and Drums",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.8,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Head_over_Heels_%28Cocteau_Twins_album%29",
+   "resumo_en": "Head over Heels is the second studio album by Scottish rock band Cocteau Twins. The album was released on 24 October 1983 through the label 4AD. It featured the band's signature sound of \"Guthrie's lush guitars under Fraser's mostly wordless vocals\" and is considered an archetype of early ethereal wave music.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e0023081-c755-377d-9bbf-fd7551d5d14c",
+   "titulo": "Treasure",
+   "data": "1984-10-01",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ivo",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Lorelei",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Beatrix",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Persephone",
+     "duracao": "4:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Pandora (For Cindy)",
+     "duracao": "5:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Amelia",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Aloysius",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Cicely",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Otterley",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Donimo",
+     "duracao": "6:12"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 10
+   },
+   "publico": 7.6,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Treasure_%28Cocteau_Twins_album%29",
+   "resumo_en": "Treasure is the third studio album by Scottish rock band Cocteau Twins, released on 12 November 1984 by 4AD. With this album, the band settled on what would, from then on, be their primary lineup: vocalist Elizabeth Fraser, guitarist Robin Guthrie and bass guitarist Simon Raymonde. The album also reflected the group's embrace of the distinctive ethereal sound with which they became associated.\nThe album reached number 29 on the UK Albums Chart, becoming the band's first UK Top 40 album, and charted for eight weeks. It also became one of the band's most critically successful releases, although the band considered it underdeveloped. The track \"Lorelei\" became a minor dance hit during the mid-1980s.",
+   "spotify": "69ALRb17J5Hx2jta7Gn3kS",
+   "youtube": "PLa3HlKFsnLvaaC7mwuInJZfRVcbvg2bXv"
+  },
+  {
+   "id": "6add4d4f-a9b4-335d-9c9d-9c4a92027489",
+   "titulo": "Victorialand",
+   "data": "1986-02",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/30cd9b88-d794-4442-8e49-ddd1735446ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lazy Calm",
+     "duracao": "6:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Fluffy Tufts",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Throughout the Dark Months of April and May",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Whales Tails",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Oomingmak",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Spacey",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Feet‐Like Fins",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "How to Bring a Blush to the Snow",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "The Thinner the Air",
+     "duracao": "3:16"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.9,
+    "fontes": 7
+   },
+   "publico": 9.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Victorialand",
+   "resumo_en": "Victorialand is the fourth studio album by Scottish rock band Cocteau Twins, released by 4AD in 1986. Working without bassist Simon Raymonde, vocalist Elizabeth Fraser and guitarist/producer Robin Guthrie opted for a subtler sound on the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33260535-22d6-36b5-a636-f0c012e2f5a4",
+   "titulo": "Blue Bell Knoll",
+   "data": "1988-09-19",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/52232d50-65ab-3cbd-b602-cd008564a9d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Bell Knoll",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Athol-Brose",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Carolyn's Fingers",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "For Phoebe Still a Baby",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "The Itchy Glowbo Blow",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Cico Buff",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Suckling the Mender",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Spooning Good Singing Gum",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "A Kissed Out Red Floatboat",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Ella Megalast Burls Forever",
+     "duracao": "3:38"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.7,
+    "fontes": 9
+   },
+   "publico": 9.1,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blue_Bell_Knoll",
+   "resumo_en": "Blue Bell Knoll is the fifth studio album by Scottish dream pop band Cocteau Twins, released on 19 September 1988 by 4AD. This was the band's first album to receive major-label distribution in the United States, as it was originally licensed by Capitol Records from 4AD for North American release. After a period of being out of print while 4AD reclaimed the American distribution rights for their back catalogue, the album (along with much of the band's 4AD material) was remastered by guitarist Robin Guthrie and reissued in 2003. Vocalist Elizabeth Fraser named the album after a peak in southern Utah called Bluebell Knoll.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "12fab6b9-4eaf-33b0-963e-cae03ac332fe",
+   "titulo": "Heaven or Las Vegas",
+   "data": "1990-08-21",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/a164910f-c6c9-33ea-9024-4e652e58b223/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cherry-Coloured Funk",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Pitch the Baby",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Iceblink Luck",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Fifty-Fifty Clown",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Heaven or Las Vegas",
+     "duracao": "4:56"
+    },
+    {
+     "n": 6,
+     "titulo": "I Wear Your Ring",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Fotzepolitic",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Wolf in the Breast",
+     "duracao": "3:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Road, River and Rail",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Frou-Frou Foxes in Midsummer Fires",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.8,
+    "fontes": 8
+   },
+   "publico": 6.9,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Heaven_or_Las_Vegas",
+   "resumo_en": "Heaven or Las Vegas is the sixth studio album by the Scottish band Cocteau Twins, released on 17 September 1990 by 4AD. Recorded at September Sound in Twickenham, it followed the band's 1988 album Blue Bell Knoll and was their second release to be issued in the United States through a distribution deal with Capitol Records.\nThe album blends dream pop and ambient pop with elements of psychedelia, experimental, and electronic textures. The composition of Heaven or Las Vegas reflects a shift toward more accessible and structured songwriting, balancing the band's established ethereal textures with clearer melodies and rhythms. Built around Robin Guthrie's guitar work, Simon Raymonde's bass lines, and programmed percussion, the songs incorporated brighter harmonies and major–minor chord progressions that conveyed both intimacy and emotional depth. Elizabeth Fraser's vocals, while still marked by glossolalia and unconventional phrasing, were delivered with greater clarity than on previous albums, a change often linked to her personal circumstances at the time. \nHeaven or Las Vegas has since been recognised as one of Cocteau Twins' most influential works and as a landmark in dream pop. It",
+   "spotify": "5lEphbceIgaK1XxWeSrC9E",
+   "youtube": "OLAK5uy_mutZ0A5Ekpmw-PcwIwOKs0kldJ6Y2myVw"
+  },
+  {
+   "id": "4757dca4-6c26-35ae-b271-24ed9ca6ea4f",
+   "titulo": "Four-Calendar Café",
+   "data": "1993-11-02",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/fe7b7313-8034-4c28-8a20-8c2877f26e38/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Know Who You Are at Every Age",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Evangeline",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Bluebeard",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Theft, and Wandering Around Lost",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Oil of Angels",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Squeeze-Wax",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "My Truth",
+     "duracao": "4:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Essence",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Summerhead",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Pur",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 9
+   },
+   "publico": 6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Four-Calendar_Caf%C3%A9",
+   "resumo_en": "Four-Calendar Café is the seventh studio album by Scottish band Cocteau Twins, released on 18 October 1993 by Fontana Records. It was their first release since leaving their former record label 4AD. Two singles were released to promote the album, \"Evangeline\" (September 1993) and \"Bluebeard\" (February 1994). A performance to promote \"Bluebeard\" on The Tonight Show with Jay Leno marked their debut performance on American television.",
+   "spotify": "5FtQBp7UBmR6hrGlfiMZu5",
+   "youtube": null
+  },
+  {
+   "id": "9054feb0-becb-3525-ae6e-a1c0f2b92e3f",
+   "titulo": "Milk & Kisses",
+   "data": "1996-03",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/a322bdb6-7ad9-4491-b51a-9c5fc620b7dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Violaine",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Serpentskirt",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Tishbite",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Half‐Gifts",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Calfskin Smack",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Rilkean Heart",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Ups",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Eperdu",
+     "duracao": "4:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Treasure Hiding",
+     "duracao": "4:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Seekers Who Are Lovers",
+     "duracao": "4:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 6
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Milk_%26_Kisses",
+   "resumo_en": "Milk & Kisses is the eighth and final studio album by Scottish rock band Cocteau Twins, released on 15 April 1996 in the United Kingdom by Fontana Records and on 14 May 1996 in the United States by Capitol Records. It proved to be their last; a meeting two years later to record a new album ended with the breakup of the band.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,1110 @@
+{
+ "id": "genesis",
+ "nome": "Genesis",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+ "wikidata": "Q151012",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "2022",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "symphonic prog",
+  "art rock",
+  "progressive pop",
+  "soft rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Genesis_%22Duke%22_1980_Atlantic_press_photo.jpg/500px-Genesis_%22Duke%22_1980_Atlantic_press_photo.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Genesis",
+ "resumo_pt": "Genesis foi uma banda de rock inglesa formada na Charterhouse School, em Godalming, Surrey, em 1967. A formação mais duradoura e de maior sucesso comercial da banda era composta pelo tecladista Tony Banks, o baixista/guitarrista Mike Rutherford e o baterista/vocalista Phil Collins. Na década de 1970, período em que a banda também contou com o vocalista Peter Gabriel e o guitarrista Steve Hackett, o Genesis esteve entre os pioneiros do rock progressivo. Banks e Rutherford foram os únicos membros constantes ao longo da história da banda.\nA banda foi formada por alunos da Charterhouse School, Banks, Rutherford, Gabriel, o guitarrista Anthony Phillips e o baterista Chris Stewart. O nome foi sugerido por Jonathan King, ex-aluno da Charterhouse e empresário do ramo pop, que providenciou a gravação de vários singles e do álbum de estreia, From Genesis to Revelation, em 1969. Após se separarem de King, a banda começou a fazer turnês, assinou com a Charisma Records e migrou para o rock progressivo com o álbum seguinte, Trespass (1970). Phillips saiu após a gravação do álbum, e Banks, Rutherford e Gabriel recrutaram Collins e Hackett antes de gravarem Nursery Cryme (1971). Os shows ao vivo passaram a incluir figurinos e performances teatrais de Gabriel. Foxtrot (1972) foi o primeiro álbum da banda a entrar nas paradas do Reino Unido, e Selling England by the Pound (1973) alcançou o terceiro lugar, apresentando o primeiro sucesso britânico da banda, \"I Know What I Like (In Your Wardrobe",
+ "resumo_en": "Genesis were an English rock band formed in 1967 at Charterhouse School in Godalming, Surrey. The band's longest-lasting and most commercially successful line-up consisted of keyboardist Tony Banks, bassist/guitarist Mike Rutherford and drummer/singer Phil Collins. In the 1970s, during which the band also included singer Peter Gabriel and guitarist Steve Hackett, Genesis were among the pioneers of progressive rock. With 100 million to 150 million albums sold worldwide, Genesis rank among the world's best-selling music artists. Their discography spans fifteen studio and six live albums. Their accolades include a Grammy Award for Best Concept Music Video for \"Land of Confusion\", and they were inducted into the Rock and Roll Hall of Fame in 2010. \nThe band was formed by school pupils Banks, Rutherford, Gabriel, guitarist Anthony Phillips, and drummer Chris Stewart and were named by pop impresario and alumnus Jonathan King, who arranged the recording of several singles and their debut album From Genesis to Revelation (1969). After splitting from King, the band began touring, signed with Charisma Records, and shifted to progressive rock with their next album Trespass (1970). Phillips left the band and Banks, Rutherford and Gabriel recruited Collins and Hackett before recording Nursery Cryme (1971). Their live shows subsequently gained notoriety for Gabriel's theatrical costumes and performances. Foxtrot (1972) was their first charting album in the UK, while Selling England by the ",
+ "albuns": [
+  {
+   "id": "0a7225eb-7177-3cdc-92d8-23e8541831ee",
+   "titulo": "From Genesis to Revelation",
+   "data": "1969-03-07",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/6e0a3966-1e4b-31e3-8a13-bede30fcd94b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Where the Sour Turns to Sweet",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Beginning",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Fireside Song",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The Serpent",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Am I Very Wrong?",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Wilderness",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "The Conqueror",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "In Hiding",
+     "duracao": "2:37"
+    },
+    {
+     "n": 9,
+     "titulo": "One Day",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Window",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "In Limbo",
+     "duracao": "3:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Silent Sun",
+     "duracao": "2:13"
+    },
+    {
+     "n": 13,
+     "titulo": "A Place to Call My Own",
+     "duracao": "2:00"
+    },
+    {
+     "n": 14,
+     "titulo": "A Winter’s Tale",
+     "duracao": "3:31"
+    },
+    {
+     "n": 15,
+     "titulo": "One Eyed Hound",
+     "duracao": "2:32"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/From_Genesis_to_Revelation",
+   "resumo_en": "From Genesis to Revelation is the debut studio album by the English rock band Genesis, released on 28 March 1969 on Decca Records. The album originated from a collection of demos recorded in 1967 while the members of Genesis were pupils of Charterhouse in Godalming, Surrey. The band gave the demos to Jonathan King who named the group, organised deals with his publishing company Jonjo Music and Decca, and got them studio time at Regent Sound Studios to record a series of singles and a full album. A string section arranged and conducted by Arthur Greenslade was added later on some songs. By the time Genesis had finished recording, John Silver had replaced original drummer Chris Stewart.\nThe album and its singles were a commercial flop, and received a mixed to negative reaction from critics. By mid-1969, the group had severed ties with King and resumed education until they reformed and turned Genesis into a full-time band. The album was preceded by two singles; \"The Silent Sun\" (later becoming part of the album) and \"A Winter's Tale\" were released in 1968, followed by album track \"Where the Sour Turns to Sweet\" in 1969. In October 1974, after the group had grown in popularity, it peak",
+   "spotify": "31AQr2828mP9A798KlyIKv",
+   "youtube": "OLAK5uy_myhrTopAWTfsIaDl-BcvSzF3j3Qo1tljk"
+  },
+  {
+   "id": "aa86c6bb-d1c7-3a03-bcb4-3c6f0a469328",
+   "titulo": "Trespass",
+   "data": "1970-10",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/9c88c97f-2c22-4915-b595-1ebe02259039/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Looking for Someone",
+     "duracao": "7:04"
+    },
+    {
+     "n": 2,
+     "titulo": "White Mountain",
+     "duracao": "6:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Visions of Angels",
+     "duracao": "6:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Stagnation",
+     "duracao": "8:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Dusk",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "The Knife",
+     "duracao": "8:55"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trespass_%28album%29",
+   "resumo_en": "Trespass is the second studio album by the English rock band Genesis. It was released on 23 October 1970 by Charisma Records, and is their last album with original guitarist Anthony Phillips and their only album with drummer John Mayhew.\nGenesis turned professional in autumn 1969, and began to rehearse intensely and play live shows. After several months of touring they secured a recording contract with Charisma Records, and entered Trident Studios in London in July 1970 to record Trespass. The music marked a departure from more pop-oriented songs, as displayed on their first album From Genesis to Revelation, towards folk-flavoured progressive rock. This ranged from light acoustic pieces with multiple twelve-string guitars such as \"Dusk\", to the heavier live favorite \"The Knife\". The sleeve, featuring a knife slash across the front, was designed by Paul Whitehead. It was the first of three covers designed by Whitehead for the band.  \nShortly after recording, Phillips decided to leave the group, which almost caused Genesis to split. After discussing the situation, they agreed to continue, and replaced Mayhew with drummer and singer Phil Collins before they resumed touring. Trespass w",
+   "spotify": null,
+   "youtube": "OLAK5uy_lgVpMGIWH3bADeCc-dmFpj9M8dg8viIcc"
+  },
+  {
+   "id": "863a205e-07c3-3930-8561-a23045719466",
+   "titulo": "Nursery Cryme",
+   "data": "1971-11-12",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/29e308e6-236b-4bdc-922e-b50aed57ef34/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Musical Box",
+     "duracao": "10:26"
+    },
+    {
+     "n": 2,
+     "titulo": "For Absent Friends",
+     "duracao": "1:45"
+    },
+    {
+     "n": 3,
+     "titulo": "The Return of the Giant Hogweed",
+     "duracao": "8:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Seven Stones",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Harold the Barrel",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Harlequin",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "The Fountain of Salmacis",
+     "duracao": "7:53"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.3,
+    "fontes": 6
+   },
+   "publico": 8.3,
+   "publico_votos": 24,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nursery_Cryme",
+   "resumo_en": "Nursery Cryme is the third studio album by the English rock band Genesis. Released on 12 November 1971 on Charisma Records, It was their first to feature drummer/vocalist Phil Collins and guitarist Steve Hackett. The album received a mixed response from critics and was not initially a commercial success; it did not enter the UK chart until 1974, when it reached its peak at No. 39. However, the album was successful in continental Europe, particularly Italy.\nFollowing the recruitment of Collins and Hackett, the band extensively toured in support of their previous album Trespass (1970), and then began writing and rehearsing for a follow-up in Luxford House, East Sussex, with recording following at Trident Studios. Nursery Cryme saw the band take a more aggressive direction on some songs, with substantially improved drumming and new guitar techniques, such as tapping and sweep picking. The opening piece, \"The Musical Box\", uses the band's trademark mix of twelve-string guitars with harsh electric guitars and keyboards. The song, a macabre fairy story set in Victorian Britain, became the inspiration for the album cover, and went on to be a live favourite. Collins brought a new dimension",
+   "spotify": null,
+   "youtube": "OLAK5uy_mBYgcE-VhMUJKJdMFiN9kXELLkw1AKHYQ"
+  },
+  {
+   "id": "81d890d2-e71a-3e96-b3f1-4ddb3b6feb81",
+   "titulo": "Foxtrot",
+   "data": "1972-10",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/4b95e699-fb14-402b-ad81-cad37385f863/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Watcher of the Skies",
+     "duracao": "7:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Time Table",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Get ’Em Out by Friday",
+     "duracao": "8:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Can‐Utility and the Coastliners",
+     "duracao": "5:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Horizons",
+     "duracao": "1:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Supper’s Ready",
+     "duracao": "22:50"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 9.1,
+   "publico_votos": 28,
+   "wikipedia": "https://en.wikipedia.org/wiki/Foxtrot_%28album%29",
+   "resumo_en": "Foxtrot is the fourth studio album by the English progressive rock band Genesis, released on 15 September 1972 by Charisma Records. It features their longest recorded song, the 23-minute track \"Supper's Ready\".\nThe album was recorded during the tour in support of their previous album, Nursery Cryme (1971), which saw them gain popularity, including a well-received slot at the Great Western Festival, Lincolnshire, in May 1972. The album was written over the summer of 1972 and combined songs that had already been performed live with new material worked out in jam sessions. Recording began in August with Bob Potter as producer, but sessions were prone to tension and disagreements. After a short Italian tour, sessions resumed with Dave Hitchcock as producer. The cover was the final one designed by Paul Whitehead, featuring a fox wearing a red dress. Frontman, Peter Gabriel, wore the dress and a fox's head on stage during the following tour, which gathered press attention and raised the group's profile.\nFoxtrot was the first Genesis album to chart in the UK, reaching No. 12, and received largely positive reviews. It reached No. 15 in Italy, where the band had been popular for some time. ",
+   "spotify": "1P9AuGH530Oy9JEW5XVuxo",
+   "youtube": "OLAK5uy_k0bleLZ3R61H51E9BmjWGGlihhx3klflQ"
+  },
+  {
+   "id": "1fadec3d-7451-32e8-9194-ad7e5312cb9b",
+   "titulo": "Selling England by the Pound",
+   "data": "1973-10-13",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/0802a684-f211-3fea-969a-d1d2839a21e0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dancing With the Moonlit Knight",
+     "duracao": "8:04"
+    },
+    {
+     "n": 2,
+     "titulo": "I Know What I Like (In Your Wardrobe)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Firth of Fifth",
+     "duracao": "9:37"
+    },
+    {
+     "n": 4,
+     "titulo": "More Fool Me",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "The Battle of Epping Forest",
+     "duracao": "11:48"
+    },
+    {
+     "n": 6,
+     "titulo": "After the Ordeal",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "The Cinema Show",
+     "duracao": "11:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Aisle of Plenty",
+     "duracao": "1:32"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 7.7,
+    "fontes": 6
+   },
+   "publico": 8.7,
+   "publico_votos": 30,
+   "wikipedia": "https://en.wikipedia.org/wiki/Selling_England_by_the_Pound",
+   "resumo_en": "Selling England by the Pound is the fifth studio album by the English progressive rock band Genesis, released on 5 October 1973, by Charisma Records. The album was a commercial success in the United Kingdom, reaching No. 3 on the UK Albums Chart, but less so in the United States, peaking at No. 70 on the Billboard 200. A single from the album, \"I Know What I Like (In Your Wardrobe)\", was released in February 1974 and became the band's first top 30 hit on the UK singles chart.\nThe album was recorded in August 1973 following the tour supporting their previous album, Foxtrot (1972). The group set aside a short period of time to write new material. It covered a number of themes including the loss of English folk culture and an increased American influence, which was reflected in the title. Following the album's release, the group set out on tour, where they drew an enthusiastic reception from fans.\nCritics and the band members themselves have given mixed opinions of the album. Its reputation has improved over time, appearing on various critical and fan-voted lists of the best progressive rock albums. The album has continued to sell and received Gold certifications from the British Phon",
+   "spotify": null,
+   "youtube": "OLAK5uy_kMIObwuxv1cfIn-OxZprujv6Z5E9-MOA0"
+  },
+  {
+   "id": "f2e5d462-6ec1-3cf8-8ea8-06eab8fe51f5",
+   "titulo": "The Lamb Lies Down on Broadway",
+   "data": "1974-11-18",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/584845c8-d45c-406f-880f-46d9b0123259/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Lamb Lies Down on Broadway",
+     "duracao": "4:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Fly on a Windshield",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Broadway Melody of 1974",
+     "duracao": "2:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Cuckoo Cocoon",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Cage",
+     "duracao": "8:20"
+    },
+    {
+     "n": 6,
+     "titulo": "The Grand Parade of Lifeless Packaging",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Back in N.Y.C.",
+     "duracao": "5:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Hairless Heart",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Counting Out Time",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Carpet Crawlers",
+     "duracao": "5:16"
+    },
+    {
+     "n": 11,
+     "titulo": "The Chamber of 32 Doors",
+     "duracao": "5:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Lilywhite Lilith",
+     "duracao": "2:40"
+    },
+    {
+     "n": 13,
+     "titulo": "The Waiting Room",
+     "duracao": "5:25"
+    },
+    {
+     "n": 14,
+     "titulo": "Anyway",
+     "duracao": "3:10"
+    },
+    {
+     "n": 15,
+     "titulo": "Here Comes the Supernatural Anaesthetist",
+     "duracao": "2:58"
+    },
+    {
+     "n": 16,
+     "titulo": "The Lamia",
+     "duracao": "6:55"
+    },
+    {
+     "n": 17,
+     "titulo": "Silent Sorrow in Empty Boats",
+     "duracao": "3:05"
+    },
+    {
+     "n": 18,
+     "titulo": "The Colony of Slippermen: The Arrival / A Visit to the Doctor / Raven",
+     "duracao": "8:14"
+    },
+    {
+     "n": 19,
+     "titulo": "Ravine",
+     "duracao": "2:04"
+    },
+    {
+     "n": 20,
+     "titulo": "The Light Dies Down on Broadway",
+     "duracao": "3:30"
+    },
+    {
+     "n": 21,
+     "titulo": "Riding the Scree",
+     "duracao": "3:55"
+    },
+    {
+     "n": 22,
+     "titulo": "In the Rapids",
+     "duracao": "2:20"
+    },
+    {
+     "n": 23,
+     "titulo": "it.",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 94,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 8.9,
+   "publico_votos": 28,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Lamb_Lies_Down_on_Broadway",
+   "resumo_en": "The Lamb Lies Down on Broadway is the sixth studio album by the English progressive rock band Genesis, released as a double album on 22 November 1974 by Charisma Records. It is the group's final studio recording to feature founding lead vocalist Peter Gabriel, who departed following the conclusion of the album's promotional tour. Conceived as a rock opera, the album follows Rael, a rebellious youth living in New York City, who is drawn into a subterranean underworld. His journey serves as a psychological allegory of self-discovery, wherein he encounters bizarre, symbolic characters and challenges before achieving a spiritual awakening.\nThe album's creation was marked by internal tensions. Gabriel insisted on devising the overarching concept and writing all the lyrics, breaking the band's established collaborative approach. Writing and recording sessions at Headley Grange and Glaspant Manor in Wales were further strained by Gabriel's brief departure to work with filmmaker William Friedkin, and by his frequent travel to be with his wife during a difficult first pregnancy. Consequently, the instrumental backing tracks were largely composed through jam sessions by the remaining members",
+   "spotify": null,
+   "youtube": "OLAK5uy_kJi7y3N_fmhyPmL6CtS9htaeo02F1_sNQ"
+  },
+  {
+   "id": "adcc32d7-cb30-3201-84fa-488e35c9c9ed",
+   "titulo": "A Trick of the Tail",
+   "data": "1976-02",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/42f9a44b-b325-4443-90da-9ef0a749b57f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dance on a Volcano",
+     "duracao": "5:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Entangled",
+     "duracao": "6:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Squonk",
+     "duracao": "6:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Mad Man Moon",
+     "duracao": "7:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Robbery, Assault and Battery",
+     "duracao": "6:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Ripples…",
+     "duracao": "8:06"
+    },
+    {
+     "n": 7,
+     "titulo": "A Trick of the Tail",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Los Endos",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.8,
+    "fontes": 5
+   },
+   "publico": 7.8,
+   "publico_votos": 26,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Trick_of_the_Tail",
+   "resumo_en": "A Trick of the Tail is the seventh studio album by the English progressive rock band Genesis. It was released on 13 February 1976 on Charisma Records and was the first album to feature drummer Phil Collins as lead vocalist following the departure of Peter Gabriel. It was a critical and commercial success in the UK and US, reaching No. 3 and No. 31 respectively.\nFollowing Gabriel's decision to leave the band, the remaining members wanted to carry on to show they could still write and record successful material, as keyboardist Tony Banks and bassist/guitarist Mike Rutherford were the band's principal composers. The group wrote and rehearsed new songs during mid-1975, and listened to numerous audition tapes for a replacement frontman. They entered Trident Studios in London in October with producer David Hentschel to record the album without a definitive idea of who was going to perform lead vocals. After the search for a singer proved unfruitful, Collins was persuaded to sing \"Squonk\", and his performance was so strong that he became the band's new frontman.\nUpon release, critics were impressed by the improved sound quality and the group's ability to survive the loss of Gabriel withou",
+   "spotify": null,
+   "youtube": "OLAK5uy_n43cOxlVJEnftUTgPAC-AUM-wiI2mrgMA"
+  },
+  {
+   "id": "96e0f4a1-52b2-3da7-a11f-1cfa861baeb6",
+   "titulo": "Wind & Wuthering",
+   "data": "1976-12-27",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/0d98d62b-6f2e-400f-8bb0-4b22d500a859/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eleventh Earl of Mar",
+     "duracao": "7:44"
+    },
+    {
+     "n": 2,
+     "titulo": "One for the Vine",
+     "duracao": "10:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Your Own Special Way",
+     "duracao": "6:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Wot Gorilla?",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "All in a Mouse’s Night",
+     "duracao": "6:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Blood on the Rooftops",
+     "duracao": "5:27"
+    },
+    {
+     "n": 7,
+     "titulo": "‘Unquiet Slumbers for the Sleepers…",
+     "duracao": "2:23"
+    },
+    {
+     "n": 8,
+     "titulo": "…in That Quiet Earth’",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Afterglow",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 7.9,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wind_%26_Wuthering",
+   "resumo_en": "Wind & Wuthering is the eighth studio album by the English progressive rock band Genesis. It was released on 17 December 1976 on Charisma Records and is their last studio album to feature guitarist Steve Hackett. Following the success of their 1976 tour to support their previous album A Trick of the Tail, the group relocated to Hilvarenbeek in the Netherlands to record a follow-up album, their first recorded outside the UK. Writing and recording caused internal friction, as Hackett felt some of his contributions were dropped in favour of material by keyboardist Tony Banks.\nThe album received a positive response from critics and contributed to the band's growing popularity in the US. It reached No. 7 in the UK and No. 26 in the US and sold steadily, eventually reaching Gold certification by the British Phonographic Institute and the Recording Industry Association of America. The single \"Your Own Special Way\" was the band's first charting single in the US, reaching No. 62. The band's 1977 tour, their last with Hackett, was their first with Chester Thompson hired as their live drummer. Three tracks left off the album were released during this time as an extended play, Spot the Pigeon.",
+   "spotify": "4CgleVVe43iVPsmWh7Mydo",
+   "youtube": "OLAK5uy_nndFXmscps4l23lwA_4NTLnFvCI82fJAk"
+  },
+  {
+   "id": "f599ecff-d76c-361a-97c2-523d4aa1f0b4",
+   "titulo": "…And Then There Were Three…",
+   "data": "1978-03-28",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/8bd9c945-41b6-44c7-817b-04c64f7b47ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down and Out",
+     "duracao": "5:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Undertow",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Ballad of Big",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Snowbound",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Burning Rope",
+     "duracao": "7:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Deep in the Motherlode",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Many Too Many",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Scenes From a Night’s Dream",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Say It’s Alright Joe",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "The Lady Lies",
+     "duracao": "6:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Follow You Follow Me",
+     "duracao": "3:59"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.0,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/...And_Then_There_Were_Three...",
+   "resumo_en": "...And Then There Were Three... (stylised in all lowercase) is the ninth studio album by the English rock band Genesis. It was released on 31 March 1978 by Charisma Records in the UK and by Atlantic Records in the US. The album marks a major turning point in the band's history, following the departure of guitarist Steve Hackett. This reduced the line-up to a core trio of drummer and vocalist Phil Collins, keyboardist Tony Banks, and bassist/guitarist Mike Rutherford. Faced with the loss of a primary songwriter, the remaining members deliberately shifted away from the sprawling, epic progressive rock structures that defined their previous work, opting instead for shorter, tighter, and more direct song formats.\nThe album was recorded in the Netherlands and mixed at Trident Studios in London, under the direction of the band and producer David Hentschel. With Hackett gone, Rutherford took on all studio guitar duties, which significantly simplified the group's arrangements. The new songwriting approach yielded the band's first major global hit single, \"Follow You Follow Me\", which became their highest charting at that point, reaching No. 7 in the UK and No. 23 in the US. The single broa",
+   "spotify": "0lTuVJuCbD3FHEjIeQqyXg",
+   "youtube": "OLAK5uy_n4aiSDl6yFMH7MxkDYWHPeAIDEeGjeoFI"
+  },
+  {
+   "id": "ffcfe407-d820-38ba-a798-8734b5dff61c",
+   "titulo": "Duke",
+   "data": "1980-03-28",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/7f638fef-061c-371c-90a0-04f48675db67/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Behind the Lines",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Duchess",
+     "duracao": "6:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Guide Vocal",
+     "duracao": "1:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Man of Our Times",
+     "duracao": "5:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Misunderstanding",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Heathaze",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Turn It On Again",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Alone Tonight",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Cul‐de‐sac",
+     "duracao": "5:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Please Don’t Ask",
+     "duracao": "4:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Duke’s Travels",
+     "duracao": "8:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Duke’s End",
+     "duracao": "2:07"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.6,
+    "fontes": 9
+   },
+   "publico": 6.8,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Duke_%28album%29",
+   "resumo_en": "Duke is the tenth studio album by the English rock band Genesis, released in the USA on 24 March 1980 and in the UK on 28 March by Charisma Records.\nThe album followed a period of inactivity for the band in early 1979. Phil Collins moved to Vancouver, Canada, in an effort to salvage his failing first marriage, while Tony Banks and Mike Rutherford recorded solo albums. Collins returned to the UK after his marriage ended and wrote a significant amount of material, some of which was used for Duke and some was later reworked for his first solo album, Face Value. Duke contained a mix of individually written songs and tracks that evolved from jam sessions in mid-1979, while recording took place at the end of the year. The break in activity rejuvenated the band, and they found the album an easy one to work on.\nDuke was positively received by music critics, who praised the album for bridging the band's progressive rock-oriented past, such as the closing ten-minute \"Duke's Travels\"/\"Duke's End\" suite, with their more pop rock-oriented, commercially accessible direction, as displayed on the hit singles \"Turn It On Again\", \"Duchess\", and \"Misunderstanding\". It reached No. 11 in the US, and be",
+   "spotify": "1FFpEn1rjlucjU5L5JXggy",
+   "youtube": "OLAK5uy_nGrs32mty30on3l7GuWKZDsPoL2zes5xQ"
+  },
+  {
+   "id": "b76520a1-3c5f-3a0c-a755-4c4d99b97c98",
+   "titulo": "Abacab",
+   "data": "1981-09-18",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/5cf5b1d4-6fac-41c0-a18a-c993f8bf36f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Abacab",
+     "duracao": "7:02"
+    },
+    {
+     "n": 2,
+     "titulo": "No Reply at All",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Me and Sarah Jane",
+     "duracao": "6:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Keep It Dark",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Dodo / Lurker",
+     "duracao": "7:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Whodunnit",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Man on the Corner",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Like It or Not",
+     "duracao": "4:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Another Record",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.2,
+    "fontes": 6
+   },
+   "publico": 7.0,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Abacab",
+   "resumo_en": "Abacab is the eleventh studio album by the English rock band Genesis, released on 18 September 1981 by Charisma Records. After their 1980 tour in support of their previous album, Duke (1980), the band took a break before they reconvened in 1981 to write and record a new album. Abacab is the first Genesis album recorded at The Farm, a recording studio bought by the group in Chiddingfold, Surrey. It marked the band's development from their progressive roots into more accessible and pop-oriented songs, and their conscious decision to write songs unlike their previous albums.\nAbacab enjoyed a mostly positive reception from critics and was a commercial success for the band, becoming their second No. 1 LP on the UK Albums Chart and their first to reach the top ten of the US Billboard 200, peaking at No. 7. Genesis released four singles from the album, the most successful being \"Abacab\" and \"No Reply at All\". The album was certified gold in the UK and double platinum by the Recording Industry Association of America for selling two million copies in the US. The Abacab Tour visited North America and Europe in 1981, recordings from which formed most of their 1982 live album and concert video",
+   "spotify": "3ISa2uikrj9EiTRrWdgs5b",
+   "youtube": "OLAK5uy_m8JrDGEMcsaFwHwpgxvS2ZKglgwH0qgsY"
+  },
+  {
+   "id": "48bb31b2-1b07-38ec-9ef2-3bb52c1f9411",
+   "titulo": "Genesis",
+   "data": "1983-10-03",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/02c9ccb3-2895-4607-bb78-42f9778dabfa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mama",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "That’s All",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Home by the Sea",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Second Home by the Sea",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Illegal Alien",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Takin’ It All Too Hard",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Just a Job to Do",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Silver Rainbow",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "It’s Gonna Get Better",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Genesis_%28Genesis_album%29",
+   "resumo_en": "Genesis is the twelfth studio album by the English rock band Genesis, released on 3 October 1983 by Charisma and Virgin Records in the UK and by Atlantic Records in the US and Canada. Following the band's tour in support of their 1982 live album Three Sides Live, Genesis took an eight-month break before they regrouped in the spring of 1983 to record a new album. It is their first written and recorded in its entirety at their studio named The Farm in Chiddingfold, Surrey, and the songs were developed through jam sessions in the studio with nothing written beforehand. Hugh Padgham returned as their engineer.\nGenesis was the group's greatest commercial success at the time of release, becoming the band's third straight album to reach No. 1 on the UK Albums Chart. It also reached No. 9 on the US Billboard 200, where it sold over 4 million copies. Five singles were released between 1983 and 1984; \"Mama\" was the lead single and remains the highest charting Genesis single in the UK, reaching No. 4. While \"Mama\" stalled on the US charts, follow-up single \"That's All\" reached No. 6 there and became the band's first US top 10 hit. The band toured the album in 1983 and 1984, recordings from wh",
+   "spotify": "2u0T1xzCoI7ANxWDEj9yl6",
+   "youtube": "OLAK5uy_lchEgkncI75rpPCNrHUxQJjgWVNB6Hexk"
+  },
+  {
+   "id": "cd5b8b39-cdfd-337a-9fab-c2571be315c0",
+   "titulo": "Invisible Touch",
+   "data": "1986-06-06",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/2001f2cf-d3f3-4532-a0af-eaf8a289e47f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Invisible Touch",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Tonight, Tonight, Tonight",
+     "duracao": "8:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Land of Confusion",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "In Too Deep",
+     "duracao": "5:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Anything She Does",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Domino: Part One – In the Glow of the Night / Part Two – The Last Domino",
+     "duracao": "10:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Throwing It All Away",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "The Brazilian",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 7.5,
+   "publico_votos": 25,
+   "wikipedia": "https://en.wikipedia.org/wiki/Invisible_Touch",
+   "resumo_en": "Invisible Touch is the thirteenth studio album by the English rock band Genesis, released on 6 June 1986 by Atlantic Records in the United States and on 9 June 1986 by Charisma/Virgin Records in the United Kingdom. After taking a break in 1984 for each member to continue his solo career, the band reconvened in October 1985 to write and record Invisible Touch with engineer and producer Hugh Padgham. As with their previous album, it was written entirely through group improvisations and no material developed prior to recording was used.\nInvisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart and No. 3 on the US Billboard 200. It remains the band's highest selling album after it was certified multi-platinum for over 1.2 million copies sold in the UK and 6 million sold in the US. Genesis became the first band and foreign act to have five singles from one album reach the top five on the US Billboard Hot 100, with \"Invisible Touch\" being their first and only song to reach No. 1 on the charts. The album received mixed reviews upon its release and retrospectively, with its more pop-oriented approach and perceived similarities to lead singer Phil Collins' solo work r",
+   "spotify": "5BDGtXKMQ6k267KX4PoGhP",
+   "youtube": "OLAK5uy_kpyaVpm1XOsBupBhkejVFs_7xY4wvDDiY"
+  },
+  {
+   "id": "1f94530c-4206-3c2f-a3e8-8f9bed86590e",
+   "titulo": "We Can’t Dance",
+   "data": "1991-11-07",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/30f13c4a-897f-403a-ba7e-f597d7cf62fc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Son of Mine",
+     "duracao": "6:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Jesus He Knows Me",
+     "duracao": "4:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Driving the Last Spike",
+     "duracao": "10:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I Can’t Dance",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Never a Time",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Dreaming While You Sleep",
+     "duracao": "7:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Tell Me Why",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Living Forever",
+     "duracao": "5:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold On My Heart",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Way of the World",
+     "duracao": "5:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Since I Lost You",
+     "duracao": "4:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Fading Lights",
+     "duracao": "10:16"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.2,
+    "fontes": 4
+   },
+   "publico": 6.5,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/We_Can%27t_Dance",
+   "resumo_en": "We Can't Dance is the fourteenth studio album by the English rock band Genesis, released on 11 November 1991 by Virgin Records in the UK and a day later by Atlantic Records in the US. It was the last Genesis album recorded with the drummer and singer Phil Collins before his departure in 1996 to pursue solo projects full time. It was Genesis's first album after touring their previous album, Invisible Touch (1986).\nWe Can't Dance was Genesis's fifth consecutive No. 1 album in the UK. It reached No. 4 in the US, where it sold over four million copies. Between 1991 and 1993, six tracks were released as singles, including \"I Can't Dance\", which was nominated for the Grammy Award for Best Pop Performance by a Duo or Group With Vocals in 1993. Genesis toured in support of We Can't Dance from May to November 1992, playing large stadiums and arenas across North America and Europe.",
+   "spotify": "2WFkJi4USarY1qe3yjifjG",
+   "youtube": "OLAK5uy_nugcDSW99odpq2cjxLhqxp03Wj_pfKkio"
+  },
+  {
+   "id": "ecb68a84-e8dd-301b-979a-d185e3cc87e4",
+   "titulo": "…Calling All Stations…",
+   "data": "1997-08-25",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/2ff958e2-fa92-4354-8130-f5212f0ec89c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Calling All Stations",
+     "duracao": "5:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Congo",
+     "duracao": "4:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Shipwrecked",
+     "duracao": "4:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Alien Afternoon",
+     "duracao": "7:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Not About Us",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "If That’s What You Need",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "The Dividing Line",
+     "duracao": "7:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Uncertain Weather",
+     "duracao": "5:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Small Talk",
+     "duracao": "5:03"
+    },
+    {
+     "n": 10,
+     "titulo": "There Must Be Some Other Way",
+     "duracao": "7:55"
+    },
+    {
+     "n": 11,
+     "titulo": "One Man’s Fool",
+     "duracao": "8:46"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 2.7,
+    "fontes": 6
+   },
+   "publico": 5.7,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Calling_All_Stations",
+   "resumo_en": "Calling All Stations (stylised ...Calling All Stations...) is the fifteenth and final studio album by the English rock band Genesis. It was released on 1 September 1997 by Virgin Records and is their only album featuring Scottish singer Ray Wilson as frontman following the departure of long-term drummer/singer Phil Collins in 1996, making it their only album since Trespass not to involve Collins. The remaining members—founding keyboardist Tony Banks and guitarist/bassist Mike Rutherford—decided to continue the band and write new music for an album, during which they auditioned singers and chose Wilson.\nCalling All Stations was released to mostly negative reviews from music critics who chastised its lack of direction but praised Wilson's performance. It sold poorly in comparison to their earlier albums, reaching No. 2 in the UK and performing well in Europe, but it peaked at No. 54 in the US. This marked their first studio album not to reach number one in the UK since 1978. \"Congo\", the first of three singles from the album, went to No. 29 in the UK. The Calling All Stations Tour saw Genesis tour Europe throughout 1998 but an American leg was booked and cancelled twice due to low ti",
+   "spotify": null,
+   "youtube": "OLAK5uy_m7lWksMqfNMw2UJC5C8D81Fmypx8xCCSc"
+  }
+ ]
+}

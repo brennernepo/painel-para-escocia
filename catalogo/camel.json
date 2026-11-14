@@ -1,0 +1,1012 @@
+{
+ "id": "camel",
+ "nome": "Camel",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "94b7a39b-f3cc-4796-90dd-b1786a62877e",
+ "wikidata": "Q612471",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1971",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive rock",
+  "art rock",
+  "symphonic prog",
+  "canterbury scene",
+  "progressive pop"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Camel_In_Concert.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Camel_%28banda%29",
+ "resumo_pt": "Camel é uma banda britânica de rock progressivo, formada em Guildford, Surrey, em 1971. Liderados pelo guitarrista Andrew Latimer, o grupo lançou quatorze álbuns de estúdio e quatorze singles, além de vários álbuns ao vivo e DVDs. Sem atingir a popularidade de massa, a banda ganhou um culto de seguidores na década de 1970 com álbuns como Mirage (1974) e The Snow Goose (1975). No final dos anos 1970, a banda mudou seu estilo para uma direção mais jazzística e comercial, antes de entraram em um longo hiato a partir de 1984. Em 1991 o Camel tornou-se independente, passando a lançar seus álbuns por meio de sua própria gravadora.\nApesar de não ter lançado nenhum novo álbum de estúdio após 2002, a banda continuou se apresentando ao vivo, saindo em turnês até 2018. Sua música influenciou artistas como Marillion, Opeth e Steven Wilson. O jornalista musical Mark Blake descreveu Camel como \"os grandes heróis anônimos do rock progressivo dos anos 70\".",
+ "resumo_en": "Camel are an English progressive rock band formed in Guildford, Surrey, in 1971. Originating from the blues-rock trio Brew, guitarist Andrew Latimer, drummer Andy Ward, and bassist Doug Ferguson initially worked as the backing band for singer-songwriter Phillip Goodhand-Tait before recruiting keyboardist Peter Bardens and establishing the group's progressive sound.\nThe band became a prominent fixture of the 1970s progressive rock movement, achieving a dedicated cult following and critical acclaim with a series of conceptual and thematic releases, including Mirage (1974), the instrumental breakthrough The Snow Goose (1975), and Moonmadness (1976). During the late 1970s and early 1980s, the group pivoted toward a more commercial, jazz-oriented direction on records such as Rain Dances (1977) and Nude (1981), while undergoing rapid lineup alterations that began with the departure of Ferguson in late 1976 and culminated in the acrimonious exit of Bardens in 1978. \nDespite internal instability—including the eventual departure of Ward following severe health issues and a subsequent reliance on transient session musicians at Abbey Road Studios—the group secured high-profile studio collaborations with artists such as Brian Eno and Phil Collins. Following the expiration of their contract with Decca Records and a period of prolonged legal disputes with former management, the band temporarily dissolved in late 1984. Latimer subsequently relocated to the United States and established the ",
+ "albuns": [
+  {
+   "id": "e50c96ab-8822-3483-a111-336f47aa2c84",
+   "titulo": "Camel",
+   "data": "1973-02",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/9ef14bb8-e7c2-4fba-956d-dd1ddba060e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slow Yourself Down",
+     "duracao": "4:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Mystic Queen",
+     "duracao": "5:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Six Ate",
+     "duracao": "6:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Separation",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Never Let Go",
+     "duracao": "6:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Curiosity",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Arubaluba",
+     "duracao": "6:29"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Camel_%28album%29",
+   "resumo_en": "Camel is the self-titled debut studio album by English progressive rock band Camel, released in February 1973 by MCA Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e7f41fc7-d659-3d80-b605-205a54367f04",
+   "titulo": "Mirage",
+   "data": "1974-03-01",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/2d1e803c-a50e-4c41-8903-0b3a9698746e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Freefall",
+     "duracao": "5:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Supertwister",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Nimrodel / The Procession / The White Rider",
+     "duracao": "9:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Earthrise",
+     "duracao": "6:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Lady Fantasy: Encounter / Smiles for You / Lady Fantasy",
+     "duracao": "12:59"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mirage_%28Camel_album%29",
+   "resumo_en": "Mirage is the second studio album by the English progressive rock band Camel, released on 1 March 1974. The album was released on Gama Records/Deram Records.",
+   "spotify": "2DZEwt8Lhz6PuqxsJWF7Ap",
+   "youtube": null
+  },
+  {
+   "id": "a2fa8db6-17b4-34da-88f6-a8204be451e3",
+   "titulo": "The Snow Goose",
+   "data": "1975-04",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/471b5c2a-f88b-3eed-9580-43cf9648a1bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Great Marsh",
+     "duracao": "2:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Rhayader",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Rhayader Goes to Town",
+     "duracao": "5:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Sanctuary",
+     "duracao": "1:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Fritha",
+     "duracao": "1:19"
+    },
+    {
+     "n": 6,
+     "titulo": "The Snow Goose",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Friendship",
+     "duracao": "1:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Migration",
+     "duracao": "2:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Rhayader Alone",
+     "duracao": "1:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Flight of the Snow Goose",
+     "duracao": "2:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Preparation",
+     "duracao": "3:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Dunkirk",
+     "duracao": "5:25"
+    },
+    {
+     "n": 13,
+     "titulo": "Epitaph",
+     "duracao": "2:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Fritha Alone",
+     "duracao": "1:39"
+    },
+    {
+     "n": 15,
+     "titulo": "La princesse perdue",
+     "duracao": "4:45"
+    },
+    {
+     "n": 16,
+     "titulo": "The Great Marsh",
+     "duracao": "1:23"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 9.6,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Snow_Goose_%28album%29",
+   "resumo_en": "The Snow Goose (alternatively, \"Music Inspired by the Snow Goose\") is the third studio album by the band Camel, released in the U.K. on 25 April 1975.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "792fb12f-2f5a-31a8-ae32-a29700ffa09b",
+   "titulo": "Moonmadness",
+   "data": "1976-03-26",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/9eaa7ef4-c4db-4bd0-adf1-05e2d0ce729f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Aristillus",
+     "duracao": "1:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Song Within a Song",
+     "duracao": "7:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Chord Change",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Spirit of the Water",
+     "duracao": "2:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Another Night",
+     "duracao": "6:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Air Born",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Lunar Sea",
+     "duracao": "9:11"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moonmadness",
+   "resumo_en": "Moonmadness is the fourth studio album by English progressive rock band Camel. It was released in March 1976 on Decca and Gama Records and is their last album recorded by the group's original line-up of Andrew Latimer, Peter Bardens, Doug Ferguson, and Andy Ward. After reaching success with their previous album, the all-instrumental The Snow Goose, the band started on a follow-up and incorporated vocals and lyrics to the new music. Moonmadness has a loose concept with one track based on the personality of each band member: \"Air Born\" for Andrew Latimer, \"Chord Change\" for Peter Bardens, \"Another Night\" for Doug Ferguson, and \"Lunar Sea\" for Andy Ward. In 2018, 42 years after its release, Camel performed the album live in its entirety.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3fbe4b5e-2043-3e26-9a23-c3e03894d27c",
+   "titulo": "Rain Dances",
+   "data": "1977-09",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/e47ab261-ae94-479b-bd1d-878ba30d0bfb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "First Light",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Metrognome",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Me",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Highways of the Sun",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Unevensong",
+     "duracao": "5:34"
+    },
+    {
+     "n": 6,
+     "titulo": "One of These Days I'll Get an Early Night",
+     "duracao": "5:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Elke",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Skylines",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Rain Dances",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.1,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rain_Dances",
+   "resumo_en": "Rain Dances is the fifth studio album by English progressive rock band Camel. It was released in August 1977 on Gama Records/Decca Records, and brought a major change to the band's line-up, by replacing bassist Doug Ferguson with ex-Caravan member Richard Sinclair, and by adding saxophonist Mel Collins, formerly of King Crimson. Guest musicians include Brian Eno on one song.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1a65e3cd-075b-3d76-acb1-7a0b75669fa1",
+   "titulo": "Breathless",
+   "data": "1978-09-22",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/b8c3f1be-0153-4092-a231-8a29379dc3ce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breathless",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Echoes",
+     "duracao": "7:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Wing and a Prayer",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Down on the Farm",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Starlight Ride",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Summer Lightning",
+     "duracao": "6:10"
+    },
+    {
+     "n": 7,
+     "titulo": "You Make Me Smile",
+     "duracao": "4:18"
+    },
+    {
+     "n": 8,
+     "titulo": "The Sleeper",
+     "duracao": "7:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Rainbow’s End",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 7.5,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Breathless_%28Camel_album%29",
+   "resumo_en": "Breathless is the sixth album by the English progressive rock band Camel, released in 1978. It is the last album to feature the group's original keyboardist, Peter Bardens, who left the group before the tour for the album.\nThe album focuses on shorter, radio-friendly pop songs while retaining their progressive rock sound.",
+   "spotify": "17OeQWykxZnGWKDWNW5ofz",
+   "youtube": null
+  },
+  {
+   "id": "da841df4-da67-382f-b48d-162c27109981",
+   "titulo": "I Can See Your House From Here",
+   "data": "1979-10",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/070e6884-cb6d-488a-b75d-29b64df9a9d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wait",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Your Love Is Stranger Than Mine",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Eye of the Storm",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Who We Are",
+     "duracao": "7:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Survival",
+     "duracao": "1:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Hymn to Her",
+     "duracao": "5:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Neon Magic",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Remote Romance",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Ice",
+     "duracao": "10:18"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/I_Can_See_Your_House_from_Here",
+   "resumo_en": "I Can See Your House from Here is the seventh studio album by English progressive rock band Camel. Released in 1979, a new line up was introduced with founding members Andrew Latimer (guitar) and Andy Ward (drums) joined by bassist Colin Bass (to replace Richard Sinclair) and keyboardists Jan Schelhaas (who joined in 1978 for the Breathless tour) and Kit Watkins (ex-Happy The Man) who both replaced founding member Peter Bardens. At one point, the album was going to be called Endangered Species.",
+   "spotify": "0TYgTmW6v8LGshjFM90PwV",
+   "youtube": null
+  },
+  {
+   "id": "ef65c5e5-3cfc-4989-9a9e-e3a4187a6f51",
+   "titulo": "Nude",
+   "data": "1981-01",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/9c07bead-bbec-4cea-bc4a-d505e0c1236e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "City Life",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Nude",
+     "duracao": "0:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Drafted",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Docks",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Beached",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Landscapes",
+     "duracao": "2:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Changing Places",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Pomp and Circumstance",
+     "duracao": "2:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Please Come Home",
+     "duracao": "1:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Reflections",
+     "duracao": "2:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Captured",
+     "duracao": "3:09"
+    },
+    {
+     "n": 12,
+     "titulo": "The Homecoming",
+     "duracao": "2:52"
+    },
+    {
+     "n": 13,
+     "titulo": "Lies",
+     "duracao": "4:59"
+    },
+    {
+     "n": 14,
+     "titulo": "The Last Farewell: Birthday Cake / Node's Return",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nude_%28Camel_album%29",
+   "resumo_en": "Nude is the eighth studio album by the English progressive rock band Camel, released in January 1981. A concept album, it is based on a true story of a Japanese soldier (Hiroo Onoda) marooned on an island during the Second World War who does not realise that the war is over. The title derives from his family name, 'Onoda'. The album mainly comprises instrumentals; only a few tracks contain lyrics. The lyrics were mainly written by Susan Hoover, except those for \"Please Come Home\", which were written by Andrew Latimer. It is the last Camel album to date to feature original drummer Andy Ward, and the last to feature more than one original member.\nOn 24 November 2023, a new edition of the album was remastered by Ben Wiseman and with new mixes by Stephen W. Tayler for Universal Music.",
+   "spotify": "5pgI5fmFaz3yjIgm16C6Jt",
+   "youtube": null
+  },
+  {
+   "id": "50b3dae4-d3f7-350b-8476-e678a9393159",
+   "titulo": "The Single Factor",
+   "data": "1982-05-07",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/1012a244-b633-45ca-be28-b301e87c0e99/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Easy Answer",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "You Are the One",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Heroes",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Selva",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Lullabye",
+     "duracao": "0:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Sasquatch",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Manic",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Camelogue",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Today’s Goodbye",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "A Heart’s Desire",
+     "duracao": "1:11"
+    },
+    {
+     "n": 11,
+     "titulo": "End Peace",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Single_Factor",
+   "resumo_en": "The Single Factor, released in 1982, is the ninth studio album by English progressive rock band Camel. The album was essentially a contractual obligation album, created under pressure from Decca Records to produce a hit single, and the \"made-to-order\" nature of its composition resulted in a selection of songs described as \"odd\" on the band's official website. Unlike previous Camel albums, The Single Factor consists exclusively of shorter compositions around 3 to 5 minutes in length.\nGuitarist Andrew Latimer was the only original member remaining, although original keyboardist Peter Bardens returned for a guest appearance on 'Sasquatch'. According to the liner notes, original drummer Andy Ward, who had appeared in all previous Camel albums, was now absent \"following a serious injury to his hand\". In reality the injury was self-inflicted, and years later it was revealed that he was forced to retire due to mental health problems.\nThe album was reissued on 8 September 2009 by Esoteric Recordings with a bonus version of \"You Are the One\".",
+   "spotify": "6AxIKZgXMoRXkqY8GwlKhW",
+   "youtube": null
+  },
+  {
+   "id": "f32476a6-ff0d-3b64-b5ee-babbcfaae364",
+   "titulo": "Stationary Traveller",
+   "data": "1984-04-13",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/2878e061-d61e-4f51-abc2-58365eb6107a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pressure Points",
+     "duracao": "2:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Refugee",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Vopos",
+     "duracao": "5:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Cloak and Dagger Man",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Stationary Traveller",
+     "duracao": "5:34"
+    },
+    {
+     "n": 6,
+     "titulo": "West Berlin",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Fingertips",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Missing",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "After Words",
+     "duracao": "2:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Long Goodbyes",
+     "duracao": "5:15"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8.3,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stationary_Traveller",
+   "resumo_en": "Stationary Traveller is the tenth studio album by English progressive rock band Camel. Like much of Camel's output, it is a concept album, in this case centering on the trials of East German refugees attempting to cross the Berlin Wall from East Berlin into West Berlin. The album also touches on the theme of politics between the two different government ideologies. It is the last Camel album to be recorded on the Decca label.\nThe album was recorded at Riverside Studios, England. It was mixed in Los Angeles, California and mastered at The Mastering Lab, Los Angeles.",
+   "spotify": "28FvEp3A5gCWrazp1UQXrH",
+   "youtube": null
+  },
+  {
+   "id": "1976c6e9-8e7a-3362-9201-b61f2a696ca1",
+   "titulo": "Dust and Dreams",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/ec384bdd-9463-48cd-ac64-344b69e034e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dust Bowl",
+     "duracao": "1:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Go West",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Dusted Out",
+     "duracao": "1:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Mother Road",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Needles",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Rose of Sharon",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Milk n’ Honey",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "End of the Line",
+     "duracao": "6:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Storm Clouds",
+     "duracao": "2:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Cotton Camp",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Broken Banks",
+     "duracao": "0:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Sheet Rain",
+     "duracao": "2:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Whispers",
+     "duracao": "0:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Little Rivers and Little Rose",
+     "duracao": "1:57"
+    },
+    {
+     "n": 15,
+     "titulo": "Hopeless Anger",
+     "duracao": "4:59"
+    },
+    {
+     "n": 16,
+     "titulo": "Whispers in the Rain",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dust_and_Dreams",
+   "resumo_en": "Dust and Dreams is the eleventh studio album by Camel. Released in 1991 after a seven-year hiatus during which Andrew Latimer and Susan Hoover moved from England to California to set up their own Camel Productions label, the album was inspired by John Steinbeck's The Grapes of Wrath.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f3c58959-88e7-3140-98fc-783acb32b5e8",
+   "titulo": "Harbour of Tears",
+   "data": "1996-01-12",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/9900c1e6-829e-46d4-8bce-3ea6546a974e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Irish Air",
+     "duracao": "0:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Irish Air (instrumental reprise)",
+     "duracao": "1:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Harbour of Tears",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Cóbh",
+     "duracao": "0:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Send Home the Slates",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Under the Moon",
+     "duracao": "1:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Watching the Bobbins",
+     "duracao": "7:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Generations",
+     "duracao": "1:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Eyes of Ireland",
+     "duracao": "3:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Running From Paradise",
+     "duracao": "5:20"
+    },
+    {
+     "n": 11,
+     "titulo": "End of the Day",
+     "duracao": "2:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Coming of Age",
+     "duracao": "7:21"
+    },
+    {
+     "n": 13,
+     "titulo": "The Hour Candle (A Song for My Father)",
+     "duracao": "23:00"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harbour_of_Tears",
+   "resumo_en": "Harbour of Tears is the twelfth studio album by English progressive rock band Camel, released in 1996. It is a concept album, telling the story of an Irish family who are painfully separated as their young ones depart to the United States to seek a better future.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d11712ae-e085-332e-a0c6-d4f76d84b4b2",
+   "titulo": "Rajaz",
+   "data": "1999-10-06",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/da7e4060-5e6d-4434-88ef-037454e9d883/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Three Wishes",
+     "duracao": "6:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Lost and Found",
+     "duracao": "5:38"
+    },
+    {
+     "n": 3,
+     "titulo": "The Final Encore",
+     "duracao": "8:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Rajaz",
+     "duracao": "8:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Shout",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Straight to My Heart",
+     "duracao": "6:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Sahara",
+     "duracao": "6:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Lawrence",
+     "duracao": "10:46"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rajaz_%28album%29",
+   "resumo_en": "Camel are an English progressive rock band formed in Guildford, Surrey, in 1971. Originating from the blues-rock trio Brew, guitarist Andrew Latimer, drummer Andy Ward, and bassist Doug Ferguson initially worked as the backing band for singer-songwriter Phillip Goodhand-Tait before recruiting keyboardist Peter Bardens and establishing the group's progressive sound.\nThe band became a prominent fixture of the 1970s progressive rock movement, achieving a dedicated cult following and critical acclaim with a series of conceptual and thematic releases, including Mirage (1974), the instrumental breakthrough The Snow Goose (1975), and Moonmadness (1976). During the late 1970s and early 1980s, the group pivoted toward a more commercial, jazz-oriented direction on records such as Rain Dances (1977) and Nude (1981), while undergoing rapid lineup alterations that began with the departure of Ferguson in late 1976 and culminated in the acrimonious exit of Bardens in 1978. \nDespite internal instability—including the eventual departure of Ward following severe health issues and a subsequent reliance on transient session musicians at Abbey Road Studios—the group secured high-profile studio collabor",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ea4f2e72-0e41-3d6b-be1f-4180cec1ec3c",
+   "titulo": "A Nod and a Wink",
+   "data": "2002-07-29",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/8d89cebc-fb99-4b96-a5df-20717e508d29/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Nod and a Wink",
+     "duracao": "11:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Simple Pleasures",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "A Boy’s Life",
+     "duracao": "7:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Fox Hill",
+     "duracao": "9:19"
+    },
+    {
+     "n": 5,
+     "titulo": "The Miller’s Tale",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Squigely Fair",
+     "duracao": "8:02"
+    },
+    {
+     "n": 7,
+     "titulo": "For Today",
+     "duracao": "10:40"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Nod_and_a_Wink",
+   "resumo_en": "Camel are an English progressive rock band formed in Guildford, Surrey, in 1971. Originating from the blues-rock trio Brew, guitarist Andrew Latimer, drummer Andy Ward, and bassist Doug Ferguson initially worked as the backing band for singer-songwriter Phillip Goodhand-Tait before recruiting keyboardist Peter Bardens and establishing the group's progressive sound.\nThe band became a prominent fixture of the 1970s progressive rock movement, achieving a dedicated cult following and critical acclaim with a series of conceptual and thematic releases, including Mirage (1974), the instrumental breakthrough The Snow Goose (1975), and Moonmadness (1976). During the late 1970s and early 1980s, the group pivoted toward a more commercial, jazz-oriented direction on records such as Rain Dances (1977) and Nude (1981), while undergoing rapid lineup alterations that began with the departure of Ferguson in late 1976 and culminated in the acrimonious exit of Bardens in 1978. \nDespite internal instability—including the eventual departure of Ward following severe health issues and a subsequent reliance on transient session musicians at Abbey Road Studios—the group secured high-profile studio collabor",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

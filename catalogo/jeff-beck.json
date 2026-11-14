@@ -1,0 +1,1030 @@
+{
+ "id": "jeff-beck",
+ "nome": "Jeff Beck",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17",
+ "wikidata": "Q192474",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1944",
+ "fim": "2023",
+ "ativa": false,
+ "generos": [
+  "rock",
+  "jazz rock",
+  "blues rock",
+  "hard rock",
+  "psychedelic pop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/JeffBeckCrossroads2007.jpg/500px-JeffBeckCrossroads2007.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Jeff_Beck",
+ "resumo_pt": "Jeff Beck, nascido Geoffrey Arnold Beck (24 de junho de 1944 – 10 de janeiro de 2023) foi um guitarrista britânico que tocou em várias bandas influentes da década de 1960 incluindo os The Yardbirds. Liderou ainda o Jeff Beck Group, responsável por lançar o cantor Rod Stewart no cenário musical, e teve destaque com o trio Beck, Bogert & Appice.\nSeus trabalhos abrangeram gêneros e estilos que vão desde o blues rock, hard rock, jazz fusion e uma mistura de guitarra-rock e música eletrônica. Tinha uma técnica considerada revolucionária ao usar efeitos como feedback aliados à alavanca de distorção e botão de volume das guitarras para definir o timbre do instrumento.\nEm 2011, foi eleito o 5.º melhor guitarrista da história pela revista norte-americana Rolling Stone.",
+ "resumo_en": "Geoffrey Arnold Beck (24 June 1944 – 10 January 2023) was an English guitarist. He rose to prominence as a member of the rock band the Yardbirds, and afterwards founded and fronted the Jeff Beck Group and Beck, Bogert & Appice. In 1975, he switched to an instrumental style with focus on an innovative sound, and his releases spanned genres and styles ranging from blues rock, hard rock, jazz fusion and a blend of guitar-rock and electronica.\nBeck has been consistently ranked in the top five of Rolling Stone and other magazines' lists of the greatest guitarists. He was often called a \"guitarist's guitarist\". Rolling Stone described him as \"one of the most influential lead guitarists in rock\". Although he recorded two successful albums (1975's Blow by Blow and 1976's Wired) as a solo act, Beck did not establish or maintain commercial success like that of his contemporaries and bandmates. He recorded with many artists.\nBeck earned wide critical praise and received the Grammy Award for Best Rock Instrumental Performance six times, winning in three categories at the 2010 Grammy Awards for a career total of eight Grammies. In 2014, he received the British Academy's Ivor Novello Award for Outstanding Contribution to British Music. He was inducted into the Rock and Roll Hall of Fame twice: first as a member of the Yardbirds (1992) and secondly as a solo artist (2009).",
+ "albuns": [
+  {
+   "id": "08f0ad54-dc95-38a9-bc88-503f0086b4f9",
+   "titulo": "Blow by Blow",
+   "data": "1975-03",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/914d6de2-a2e4-481e-bc78-eba902ca72d9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Know What I Mean",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "She’s a Woman",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Constipated Duck",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Air Blower",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Scatterbrain",
+     "duracao": "5:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Cause We’ve Ended as Lovers",
+     "duracao": "5:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Thelonius",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Freeway Jam",
+     "duracao": "4:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Diamond Dust",
+     "duracao": "8:25"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 9.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blow_by_Blow",
+   "resumo_en": "Blow by Blow is Jeff Beck's first album credited to him as a solo artist. It was recorded in October 1974 and released via Epic Records in 1975. An instrumental album, it peaked at No. 4 on the American Billboard 200 and was certified platinum by the RIAA.",
+   "spotify": "3PZSoJCzPos29legd35FAu",
+   "youtube": null
+  },
+  {
+   "id": "1caefbb6-c4ac-3954-85ba-b512fc2da959",
+   "titulo": "Wired",
+   "data": "1976-05",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/2bd9aff4-ef8a-4eaa-b335-06732ff572a6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Led Boots",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Come Dancing",
+     "duracao": "5:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Goodbye Pork Pie Hat",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Head For Backstage Pass",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Blue Wind",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Sophie",
+     "duracao": "6:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Play With Me",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is Green",
+     "duracao": "2:28"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wired_%28Jeff_Beck_album%29",
+   "resumo_en": "Wired is the second solo album by the British guitarist Jeff Beck, released on Epic Records in 1976. An instrumental album, it peaked at No. 16 on the Billboard 200 and was certified platinum by the RIAA.",
+   "spotify": "0vo9nZNFMaFASINLCzmzcU",
+   "youtube": null
+  },
+  {
+   "id": "49831df3-da9d-3dab-807e-fd2a4f6ed03e",
+   "titulo": "There and Back",
+   "data": "1980-07",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/c9238e64-0353-41d6-9b76-1fa211964d3e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Star Cycle",
+     "duracao": "4:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Too Much to Lose",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "You Never Know",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "The Pump",
+     "duracao": "5:45"
+    },
+    {
+     "n": 5,
+     "titulo": "El Becko",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "The Golden Road",
+     "duracao": "4:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Space Boogie",
+     "duracao": "5:05"
+    },
+    {
+     "n": 8,
+     "titulo": "The Final Peace",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/There_%26_Back_%28Jeff_Beck_album%29",
+   "resumo_en": "There & Back is the third studio solo album by guitarist Jeff Beck, released in July 1980 through Epic Records. The album reached No. 10 and 21 on the U.S. Billboard Jazz Albums and Billboard 200 charts respectively, and No. 36 on the Swedish albums chart.\nThe album showcases Beck's stylistic shift towards instrumental rock whilst largely retaining the jazz fusion elements of his two previous releases, Blow by Blow (1975) and Wired (1976). \"Star Cycle\" was used for a number of years as the theme song for both Mid-South Wrestling in the United States and the British music programme The Tube; \"The Pump\" was featured in the 1983 film Risky Business; \"Too Much to Lose\" is an instrumental cover of a song composed by keyboardist Jan Hammer that was originally featured on the Jan Hammer Group's 1977 album Melodies.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "78eac630-0c27-3f22-8c01-ee5fe689fb46",
+   "titulo": "Flash",
+   "data": "1985-07",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/266862e3-de91-4223-b5a0-2bc854e3dc5b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ambitious",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Gets Us All in the End",
+     "duracao": "6:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Escape",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "People Get Ready",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Stop, Look and Listen",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Get Workin'",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Ecstasy",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Night After Night",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "You Know, We Know",
+     "duracao": "5:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Nighthawks",
+     "duracao": "4:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Back on the Streets",
+     "duracao": "3:42"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Flash_%28Jeff_Beck_album%29",
+   "resumo_en": "Flash is the fifth studio album by guitarist Jeff Beck, released in July 1985 by Epic/CBS Records. The album reached No. 39 on the U.S. Billboard 200 chart as well as reaching the top 60 in four other countries.\nTwo singles also charted, the first being a reunion with singer Rod Stewart (from the Jeff Beck Group) for a cover of \"People Get Ready\" by Curtis Mayfield/The Impressions, which reached No. 5 on Billboard's Mainstream Rock and No. 48 on the Hot 100, as well as the top 40 in four other countries. The second single, \"Gets Us All in the End\", reached No. 20 on Mainstream Rock. The instrumental \"Escape\" went on to win the award for Best Rock Instrumental Performance at the 1986 Grammys, which was to be Beck's first of many such awards.",
+   "spotify": "2NDg5clwJkygm8gQwaCSoW",
+   "youtube": null
+  },
+  {
+   "id": "63860017-2a95-35f1-9d9e-9e43bd832756",
+   "titulo": "Jeff Beck’s Guitar Shop",
+   "data": "1989-10",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/9ddb991c-4188-4c97-b691-93195740a7ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Guitar Shop",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Savoy",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Behind the Veil",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Big Block",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Where Were You",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Stand on It",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Day in the House",
+     "duracao": "5:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Two Rivers",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Sling Shot",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Beck%27s_Guitar_Shop",
+   "resumo_en": "Jeff Beck's Guitar Shop is the sixth studio album by guitarist Jeff Beck, first released in Japan on 2 August 1989, before being released in the UK and US in October 1989 through Epic Records. The album reached No. 49 on the U.S. Billboard 200 and won the award for Best Rock Instrumental Performance at the 32nd Grammy Awards. This was Beck's second album to win that award, after Flash (1985).\n\"Stand on It\" was released as a single and reached No. 35 on Billboard's Mainstream Rock chart. \"Sling Shot\" was featured in the 1990 horror comedy film Gremlins 2: The New Batch. Several other tracks were used as part of the soundtrack for the 1990 South Atlantic Raiders episodes of the British comedy series The Comic Strip Presents.\nIn a move away from his previous jazz fusion stylings, Beck adopted a more straightforward instrumental rock approach on Guitar Shop, save for two tracks (\"Guitar Shop\" and \"Day in the House\") on which drummer Terry Bozzio provided quirky spoken vocals.\nFollowing Beck's death in 2023, guitarist Brian May described \"Where Were You\" as \"possibly the most beautiful bit of guitar music ever recorded, probably alongside Jimi Hendrix's 'Little Wing'\".",
+   "spotify": "1JJtA0AmTd6N72qzbPOAjA",
+   "youtube": null
+  },
+  {
+   "id": "4605fae2-0097-371b-8875-ebf302ef000a",
+   "titulo": "Frankie’s House",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/276a806e-b0d7-40f3-85c6-2cc5f7cab247/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Jungle",
+     "duracao": "2:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Requiem for the Bao-Chi",
+     "duracao": "2:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Hi-Heel Sneakers",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Thailand",
+     "duracao": "1:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Love and Death",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Cathouse",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "In the Dark",
+     "duracao": "1:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Sniper Patrol",
+     "duracao": "2:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Peace Island",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "White Mice",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Tunnel Rat",
+     "duracao": "3:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Vihn’s Funeral",
+     "duracao": "2:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Apocalypse",
+     "duracao": "3:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Innocent Victim",
+     "duracao": "4:08"
+    },
+    {
+     "n": 15,
+     "titulo": "Jungle Reprise",
+     "duracao": "1:33"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frankie%27s_House_%28soundtrack%29",
+   "resumo_en": "Frankie's House is a 1992 instrumental album by Jeff Beck and Jed Leiber. The music was written for the soundtrack of an Australian TV mini-series of the same name about photojournalism during the Vietnam War.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a5fd84b4-e55f-363c-a88e-185788e3343d",
+   "titulo": "Crazy Legs",
+   "data": "1993-06-08",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/95e89676-ed0b-3889-9cb4-e2c0657224fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Race With the Devil",
+     "duracao": "2:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Cruisin’",
+     "duracao": "2:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Crazy Legs",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Double Talkin’ Baby",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Woman Love",
+     "duracao": "2:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Lotta Lovin’",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Catman",
+     "duracao": "2:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Pink Thunderbird",
+     "duracao": "2:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby Blue",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "You Better Believe",
+     "duracao": "1:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Who Slapped John?",
+     "duracao": "2:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Say Mama",
+     "duracao": "2:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Red Blue Jeans and a Pony Tail",
+     "duracao": "2:12"
+    },
+    {
+     "n": 14,
+     "titulo": "Five Feet of Lovin’",
+     "duracao": "2:13"
+    },
+    {
+     "n": 15,
+     "titulo": "B‐I‐Bickey‐Bi‐Bo‐Bo‐Go",
+     "duracao": "2:24"
+    },
+    {
+     "n": 16,
+     "titulo": "Blues Stay Away From Me",
+     "duracao": "2:27"
+    },
+    {
+     "n": 17,
+     "titulo": "Pretty Pretty Baby",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Crazy_Legs_%28album%29",
+   "resumo_en": "Crazy Legs is a studio album by Jeff Beck and the Big Town Playboys, released on 29 June 1993. The recording is an album of Gene Vincent songs. The album is considered to be a tribute to Gene Vincent and His Blue Caps, and in particular to Vincent's early guitarist Cliff Gallup, who Beck recognized as his biggest influence.\nThe album peaked at No. 171 on the Billboard 200 chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f0c65fbd-bb6c-3fe6-8d42-e764276ffc96",
+   "titulo": "Who Else!",
+   "data": "1999-03-16",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/61cd5a1a-1eb5-4aec-aa41-c8ce43b59cf6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Mama Said",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Psycho Sam",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Brush With the Blues",
+     "duracao": "6:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Blast From the East",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Space for the Papa",
+     "duracao": "7:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Angel (Footsteps)",
+     "duracao": "6:33"
+    },
+    {
+     "n": 7,
+     "titulo": "THX138",
+     "duracao": "6:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Hip-Notica",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Even Odds",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Declan",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Another Place",
+     "duracao": "1:48"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Who_Else%21",
+   "resumo_en": "Who Else! is the seventh studio album by guitarist Jeff Beck, released on 16 March 1999 through Epic Records. The album reached No. 99 on the U.S. Billboard 200 and marks the end of a decade-long absence of original material from Beck since the release of Jeff Beck's Guitar Shop in 1989. Stylistically it showcases the first addition of electronic and techno music into his repertoire, along with the blues-based instrumental rock and jazz fusion of previous albums.\nFellow guitarist Jennifer Batten, having often cited Beck's influence on her playing, is featured as a collaborator and subsequently joined him on tour for three years. The album features the collaborative songwriting of Tony Hymas. \"Brush with the Blues\" became a signature tune and concert staple, and along with \"Angel (Footsteps)\" made it onto his 2008 concert album Live at Ronnie Scott's. \"What Mama Said\" samples Dick Shawn's dialogue from the 1963 film It's a Mad, Mad, Mad, Mad World",
+   "spotify": "62LRRbI7jfn7aw4RPTiwle",
+   "youtube": null
+  },
+  {
+   "id": "8bb23bd6-ebbb-3cae-8ba7-9246d3eb6b2f",
+   "titulo": "You Had It Coming",
+   "data": "2000-11-15",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/d0d9d177-95ea-4226-97d0-2ab69b4616fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Earthquake",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Roy's Toy",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Dirty Mind",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Rollin' and Tumblin'",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Nadia",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Loose Cannon",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Rosebud",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Left Hook",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Blackbird",
+     "duracao": "1:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Suspension",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/You_Had_It_Coming",
+   "resumo_en": "You Had It Coming is the eighth studio album by guitarist Jeff Beck, released in December 2000 through Epic Records. The album reached No. 17 and 110 on the Billboard Top Internet Albums and Billboard 200 charts respectively, as well as No. 96 and 123 on the German and French albums chart. \"Dirty Mind\", went on to win the award for Best Rock Instrumental Performance at the 2002 Grammys; this being Beck's third such award, after the albums Flash (1985) and Jeff Beck's Guitar Shop (1989). Singer Imogen Heap is featured on \"Dirty Mind\" and \"Rollin' and Tumblin'\", and would later tour with Beck in 2004.",
+   "spotify": "2VKdeHabc3wTmiQBd8yGft",
+   "youtube": null
+  },
+  {
+   "id": "991384f7-8ee0-3868-a69d-695ed05d1dd6",
+   "titulo": "Jeff",
+   "data": "2003-08-06",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/029f8bb8-56ab-4ffc-b1c1-dbde754c63c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "So What",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Plan B",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Pork-U-Pine",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Seasons",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Trouble Man",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Grease Monkey",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Hot Rod Honeymoon",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Line Dancing With Monkeys",
+     "duracao": "5:18"
+    },
+    {
+     "n": 9,
+     "titulo": "JB's Blues",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Pay Me No Mind (Jeff Beck remix)",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "My Thing",
+     "duracao": "4:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Bulgaria",
+     "duracao": "2:00"
+    },
+    {
+     "n": 13,
+     "titulo": "Why Lord Oh Why?",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeff_%28album%29",
+   "resumo_en": "Jeff is the ninth studio album by guitarist Jeff Beck, released on 5 August 2003 through Epic Records. The album reached No. 92 on the French albums chart and No. 122 on the U.S. Billboard 200. \"Plan B\" won the award for Best Rock Instrumental Performance at the 2004 Grammys.",
+   "spotify": "5gxGwQJsqkapF39XVEbBWB",
+   "youtube": null
+  },
+  {
+   "id": "a5fec79a-eb30-442c-a349-55fa19930e3f",
+   "titulo": "Emotion & Commotion",
+   "data": "2010-03-24",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/41b9dbe2-eeed-4009-9396-50f298ce2b7a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Corpus Christi Carol",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Hammerhead",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Never Alone",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Over the Rainbow",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "I Put a Spell on You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Serene",
+     "duracao": "6:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Lilac Wine",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Nessun Dorma",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "There's No Other Me",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Elegy for Dunkirk",
+     "duracao": "5:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Poor Boy",
+     "duracao": "4:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Cry Me A River",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Emotion_%26_Commotion",
+   "resumo_en": "Emotion & Commotion is the tenth studio album by guitarist Jeff Beck, released in April 2010 on Atco Records. In addition to featuring vocal performances by Joss Stone, Imelda May, and Olivia Safe, the album showcases a 64-piece orchestra on several tracks, and includes covers of well-known songs such as \"Over the Rainbow\", \"Corpus Christi Carol\", \"Lilac Wine\", and other rock and classical works.",
+   "spotify": "2uZCLo1QvLgjAb74Q8kv53",
+   "youtube": null
+  },
+  {
+   "id": "1cc99424-7508-419e-a118-88172e5fa60c",
+   "titulo": "Loud Hailer",
+   "data": "2016-07-15",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/f3c2169d-9621-4c61-b487-c4c1f3e3caf5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Revolution Will Be Televised",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Live in the Dark",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Pull It",
+     "duracao": "2:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Thugs Club",
+     "duracao": "5:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Scared for the Children",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Right Now",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Shame",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Edna",
+     "duracao": "1:03"
+    },
+    {
+     "n": 9,
+     "titulo": "The Ballad of the Jersey Wives",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "O.I.L.",
+     "duracao": "4:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Shrine",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loud_Hailer_%28album%29",
+   "resumo_en": "Loud Hailer is the eleventh and final studio album by guitarist Jeff Beck, released on 15 July 2016 on Atco Records.",
+   "spotify": "71N67dfMIkvyikV9ygSOuF",
+   "youtube": null
+  },
+  {
+   "id": "7b52e70a-2436-4c16-bb72-58f0f7109e4b",
+   "titulo": "18",
+   "data": "2022-07-15",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/81281245-be9a-4121-837b-f06b4399ef3a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Midnight Walker",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "The Death and Resurrection Show",
+     "duracao": "5:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Time",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Sad Motherfuckin’ Parade",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Talk (Put Your Head on My Shoulder)",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "This Is a Song for Miss Hedy Lamarr",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Caroline, No",
+     "duracao": "2:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Ooo Baby Baby",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "What’s Going On",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Venus in Furs",
+     "duracao": "4:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Let It Be Me",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Stars",
+     "duracao": "6:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Isolation",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 4.0,
+    "metacritic": 47,
+    "media": 4.4,
+    "fontes": 8
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/18_%28Jeff_Beck_and_Johnny_Depp_album%29",
+   "resumo_en": "18 is a collaborative studio album by musicians Jeff Beck and Johnny Depp. Released on 15 July 2022 on Rhino Records, it is Beck's final studio album released before his death in January 2023.\nThe 13-track collection features two Depp-penned originals and a selection of cover songs by Killing Joke, the Beach Boys, Marvin Gaye, the Miracles, the Velvet Underground, the Everly Brothers and Janis Ian. Upon release, the album received mixed reviews from music critics.",
+   "spotify": "6U70hQoQqREAfmdUW9sm6H",
+   "youtube": null
+  }
+ ]
+}

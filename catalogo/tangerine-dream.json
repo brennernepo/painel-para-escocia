@@ -1,0 +1,6279 @@
+{
+ "id": "tangerine-dream",
+ "nome": "Tangerine Dream",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "23d8426c-18c7-46e6-a51d-7395bd43c641",
+ "wikidata": "Q153616",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1967",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "electronic",
+  "ambient",
+  "berlin school",
+  "krautrock",
+  "progressive electronic"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tangerine-dream-ebw-2.jpg/500px-Tangerine-dream-ebw-2.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Tangerine_Dream",
+ "resumo_pt": "Tangerine Dream é uma banda alemã, formada em 1967 por Edgar Froese (teclados e guitarra), considerada como um grande expoente do rock progressivo eletrônico, junto com o Kraftwerk.",
+ "resumo_en": "Tangerine Dream is a German electronic music band founded in 1967 by Edgar Froese. The group has seen many personnel changes over the years, with Froese the only constant member until his death in January 2015. The best-known lineup of the group was its mid-1970s trio of Froese, Christopher Franke, and Peter Baumann. In 1979, Johannes Schmoelling replaced Baumann until his own departure in 1985. This lineup was notable for composing many movie soundtracks. Since Froese's death in 2015, the group has been under the leadership of Thorsten Quaeschning. Quaeschning is Froese's chosen successor and is currently the longest-serving band member, having joined in 2005. Quaeschning is currently joined by violinist Hoshiko Yamane who joined in 2011 and Paul Frick who joined in 2020. Prior to this Quaeschning and Yamane performed with Ulrich Schnauss from 2014 to 2020. Schnauss only played three shows with Froese in November 2014 before Froese's passing.\nTangerine Dream are considered a pioneering act in electronica. Their work with the electronic music Ohr label produced albums that had a pivotal role in the development of the German musical scene known as kosmische Musik (\"cosmic music\"). Their \"Virgin Years\", so called because of their association with Virgin Records, produced albums that further explored synthesizers and sequencers, including the UK top-20 albums Phaedra (1974) and Rubycon (1975). The group also had a successful career composing film soundtracks, creating over 60 sc",
+ "albuns": [
+  {
+   "id": "a7305321-d4e8-3a81-be61-665dc3bb1dbf",
+   "titulo": "Electronic Meditation",
+   "data": "1970-06",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/68fad7bb-3c03-4117-a49c-1fabe0bbff7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Genesis",
+     "duracao": "5:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Journey Through a Burning Brain",
+     "duracao": "12:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Cold Smoke",
+     "duracao": "10:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Ashes to Ashes",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Resurrection",
+     "duracao": "3:26"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 3
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Electronic_Meditation",
+   "resumo_en": "Electronic Meditation is the debut album by German electronic music group Tangerine Dream. It was released in June 1970 by record label Ohr.",
+   "spotify": "2Tdy3aYYZXt74rdIhycvHc",
+   "youtube": null
+  },
+  {
+   "id": "5ecd0499-49a8-3a13-970c-94cda36e523f",
+   "titulo": "Alpha Centauri",
+   "data": "1971-03",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/819322bc-a743-42ed-90e0-ce55a7865256/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sunrise in the Third System",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Fly and Collision of Comas Sola",
+     "duracao": "13:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Alpha Centauri",
+     "duracao": "22:15"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.4,
+    "fontes": 2
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alpha_Centauri_%28album%29",
+   "resumo_en": "Alpha Centauri is the second studio album by German electronic music group Tangerine Dream. It was released in March 1971 by record label Ohr.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5347b60f-d4a7-3e2f-831a-d5b86d06f8da",
+   "titulo": "Zeit",
+   "data": "1972-08",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/52d8b7a9-626e-33f9-b0ee-95f28890f463/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Birth of Liquid Plejades",
+     "duracao": "19:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Nebulous Dawn",
+     "duracao": "17:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Origin of Supernatural Probabilities",
+     "duracao": "19:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Zeit",
+     "duracao": "14:36"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Zeit_%28Tangerine_Dream_album%29",
+   "resumo_en": "Zeit ([t͡saɪ̯t], \"Time\") is the third studio album by German electronic music group Tangerine Dream. A double LP, it was released in August 1972, being the first release featuring Peter Baumann, who joined then-current members Christopher Franke and Edgar Froese. Zeit is subtitled Largo in Four Movements.",
+   "spotify": "2hWU2Jicgxzg9eWnkTS2Dj",
+   "youtube": null
+  },
+  {
+   "id": "d6a077da-25fe-3ee0-8433-5d997cbc7247",
+   "titulo": "Atem",
+   "data": "1973-03",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/b950608f-edbb-401a-8449-fca77416f229/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Atem",
+     "duracao": "20:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Fauni-gena",
+     "duracao": "10:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Circulation of Events",
+     "duracao": "5:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Wahn",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Atem_%28album%29",
+   "resumo_en": "Atem ([ˈaːtəm], \"breath\") is the fourth studio album by German electronic music group Tangerine Dream. It was released in March 1973 by record label Ohr.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "866c88fa-a18b-3739-9814-2ad215e5e11a",
+   "titulo": "Phaedra",
+   "data": "1974-02-20",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/93b1fcd5-638c-430a-8f99-e7cef1c0adfc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Phaedra",
+     "duracao": "17:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Mysterious Semblance at the Strand of Nightmares",
+     "duracao": "9:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Movements of a Visionary",
+     "duracao": "7:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Sequent 'C'",
+     "duracao": "2:17"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Phaedra_%28album%29",
+   "resumo_en": "Phaedra is the fifth studio album by German electronic music group Tangerine Dream. It was recorded during November 1973 at The Manor in Shipton-on-Cherwell, England and released on 20 February 1974 through Virgin Records. This is the first Tangerine Dream album to feature their now classic sequencer-driven sound, which is considered to have greatly influenced the Berlin School genre.\nThe album marked the beginning of the group's international success and was their first album released on the Virgin label. It achieved six-figure sales in the UK, reaching number 15 in the UK Albums Chart in a 15-week run, with virtually no airplay, only by strong word of mouth. It also earned the group a gold disc in seven countries, though in their native Germany it sold barely 6,000 units. The album title refers to Phaedra of Greek mythology.",
+   "spotify": "7KRXWeJYBkyUmwOFTayiQk",
+   "youtube": null
+  },
+  {
+   "id": "96c98370-1390-33ec-9bc6-ed15e16c3e25",
+   "titulo": "Rubycon",
+   "data": "1975-03",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/1d16698f-e1fc-48b3-ab4a-941c2ecec5bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rubycon, Part One",
+     "duracao": "8:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Rubycon, Part Two",
+     "duracao": "8:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Rubycon, Part Three",
+     "duracao": "8:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Rubycon, Part Four",
+     "duracao": "8:46"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rubycon_%28album%29",
+   "resumo_en": "Rubycon is the sixth studio album by German electronic music group Tangerine Dream. It was released in 1975 on the Virgin label. It is widely regarded as one of their best albums. Rubycon further develops the Berlin School sequencer-based sound they ushered in with the title track from Phaedra.\nAlthough not quite matching the sales figures for Phaedra, Rubycon reached number 10 in a 14-week run, their highest-charting album in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "542bb617-2848-33be-89bf-e8d3561f0fa4",
+   "titulo": "Stratosfear",
+   "data": "1976-10",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/ccb73211-89cb-4b6f-ae9c-1eab965d9214/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stratosfear",
+     "duracao": "10:38"
+    },
+    {
+     "n": 2,
+     "titulo": "The Big Sleep in Search of Hades",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "3 A.M. at the Border of the Marsh From Okefenokee",
+     "duracao": "8:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Invisible Limits",
+     "duracao": "11:29"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stratosfear",
+   "resumo_en": "Stratosfear is the seventh studio album by the German group Tangerine Dream.\nThe LP reached No. 39 in the UK, in a 4-week chart run, and eventually reached silver status for selling in excess of 60,000 copies.",
+   "spotify": "3gwpouV58Wxl0kd5OIT8m7",
+   "youtube": null
+  },
+  {
+   "id": "ef37d57f-b38f-3d01-917e-6f38e10ca575",
+   "titulo": "Sorcerer",
+   "data": "1977-06-24",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/0d2d5034-8901-4cb7-8f24-3618ccb5b7e8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Main Title",
+     "duracao": "5:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Search",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "The Call",
+     "duracao": "1:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Creation",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Vengeance",
+     "duracao": "5:34"
+    },
+    {
+     "n": 6,
+     "titulo": "The Journey",
+     "duracao": "2:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Grind",
+     "duracao": "2:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Rain Forest",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Abyss",
+     "duracao": "7:10"
+    },
+    {
+     "n": 10,
+     "titulo": "The Mountain Road",
+     "duracao": "1:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Impressions of Sorcerer",
+     "duracao": "2:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Betrayal (Sorcerer Theme)",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sorcerer_%28soundtrack%29",
+   "resumo_en": "Sorcerer (1977) is the ninth major release and first soundtrack album by the German band Tangerine Dream. It is the soundtrack for the film Sorcerer. It reached No.25 on the UK Albums Chart in a seven-week run. This made the album Tangerine Dream's third highest-charting album in the UK.",
+   "spotify": "78BeLVh1ko9oOELJCEJ0o6",
+   "youtube": null
+  },
+  {
+   "id": "ab4de2f1-dfb9-3e6b-8e7b-c023a661f788",
+   "titulo": "Cyclone",
+   "data": "1978-02",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/24051bab-979a-492a-bd5e-b17bb0d6d28c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bent Cold Sidewalk",
+     "duracao": "13:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Rising Runner Missed by Endless Sender",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Madrigal Meridian",
+     "duracao": "20:28"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cyclone_%28Tangerine_Dream_album%29",
+   "resumo_en": "Cyclone is the eighth studio album by Tangerine Dream and the first in their canon to feature vocals and lyrics. The cover is a painting by band leader Edgar Froese.\nOther Tangerine Dream albums to later include vocals are Tyger (1987), Madcap's Flaming Duty (2007) and Under Cover – Chapter One (2010).\nCyclone reached number 37 on the UK album charts.",
+   "spotify": "3sNwSUZn1dX8uwiXcc1s0a",
+   "youtube": null
+  },
+  {
+   "id": "0dd53ff5-9b08-321c-b6c7-485e9fd0e25c",
+   "titulo": "Force Majeure",
+   "data": "1979-02",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/a6db6a49-a328-4aed-ba18-7077d853f233/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Force Majeure",
+     "duracao": "18:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Cloudburst Flight",
+     "duracao": "7:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Thru Metamorphic Rocks",
+     "duracao": "14:15"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Force_Majeure_%28Tangerine_Dream_album%29",
+   "resumo_en": "Force Majeure is the ninth studio album by the German group Tangerine Dream. It was originally issued on transparent vinyl. Following Stratosfear, the album developed Tangerine Dream's further evolution toward the more melodic sound they would adopt in the 1980s, with a heavier presence of guitars, drums and distinct musical suites in the  tradition of progressive rock, rather than the band's 1970s output of Berlin School.\nThe distortion of the bass sequence on \"Thru Metamorphic Rocks\" was the result of a burnt-out transistor in the mixing desk. When the band heard the result, they decided to keep it.\nForce Majeure is Tangerine Dream's fourth-biggest-selling album in the UK, reaching No. 26 and spending 7 weeks on the chart.\nMonique Froese's rear cover artwork collage includes an image of a man's lower face, apparently a photograph of a sculpture, which looks extremely like the death mask of classical composer Ludwig van Beethoven. His musical influence (heard particularly in some of the harmonic and melodic progressions in Tangerine Dream's music) may possibly be the \"force majeure\" to which the album title refers. The closing section of the title track also uses La Folia, Op.5, N",
+   "spotify": "6NGGfMRPtvshivFJWwSjza",
+   "youtube": null
+  },
+  {
+   "id": "974e867f-42b0-3a0f-a13d-1b449f701031",
+   "titulo": "Tangram",
+   "data": "1980-05",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/3e10230f-8cba-4869-8a71-0ce122628292/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tangram, Set I",
+     "duracao": "19:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Tangram, Set II",
+     "duracao": "20:29"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tangram_%28album%29",
+   "resumo_en": "Tangram is the thirteenth major release and tenth studio album by the electronic music group Tangerine Dream. It became their fifth biggest selling album, reaching number 36 on the British Top 40, and spending 5 weeks on the chart.",
+   "spotify": "6aHeeKVHp0mIPrhKPAbnyf",
+   "youtube": null
+  },
+  {
+   "id": "747e52af-5d7d-3dcb-9e26-8b5b1b49c1c1",
+   "titulo": "Thief",
+   "data": "1981-03",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/07bdf937-0167-4af2-a9c8-33a688ab6fa5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beach Theme",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Dr. Destructo",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Diamond Diary",
+     "duracao": "10:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Burning Bar",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Beach Scene",
+     "duracao": "6:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Scrap Yard",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Trap Feeling",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Igneous",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thief_%28soundtrack%29",
+   "resumo_en": "Thief (1981) is the fifteenth major release and second soundtrack album by Tangerine Dream. It is the soundtrack for the 1981 American neo-noir crime film Thief, directed by Michael Mann. It reached No. 43 on the UK Albums Chart in a 3-week run.\n\"Beach Theme\" and \"Beach Scene\" are two different mixes of the same piece. The album version of \"Dr. Destructo\" is quite different from the film version. An extended version of \"Dr. Destructo\" was available only on a promo single. \"Igneous\" is a remix of \"Thru Metamorphic Rocks\" from the 1979 album Force Majeure. Neither \"Beach Theme\" nor \"Trap Feeling\" appear in the film.\nAfter Tangerine Dream completed the soundtrack, Mann needed another sequence. As Tangerine Dream was on tour, Craig Safan composed and performed \"Confrontation\". The original 1981 Elektra US LP release featured \"Confrontation\" and omitted \"Beach Scene\", with international releases doing the opposite.\nDuring the 1980s, Toronto television station CITY-DT used \"Scrap Yard\" as their background music when inserting technical difficulties slide cards. \"Scrap Yard\" was also used as the theme for local television newscasts on KFTY (now KEMO-TV) in Santa Rosa, California and WNDU ",
+   "spotify": "2aR42HgX0N2cGvg8wH746o",
+   "youtube": null
+  },
+  {
+   "id": "77dbe266-1be4-3908-b373-4a57213e0081",
+   "titulo": "Exit",
+   "data": "1981-09",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/63134639-bae8-4a3e-88dc-b07a69f5552d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kiew Mission",
+     "duracao": "9:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Pilots of Purple Twilight",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Choronzon",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Exit",
+     "duracao": "5:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Network 23",
+     "duracao": "4:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Remote Viewing",
+     "duracao": "8:20"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Exit_%28Tangerine_Dream_album%29",
+   "resumo_en": "Exit is the sixteenth major release and eleventh studio album by the German group Tangerine Dream. The first track features an uncredited Berlin actress chanting, in Russian, the names of the continents of the world and pleading to end the threat of \"limited\" nuclear war, which was a potential danger facing the world during the late Cold War era in which the album was released. Exit reached № 43 in the UK, spending five weeks on the chart.",
+   "spotify": "4IhZlOlEsgfHqaUs1zcrPI",
+   "youtube": null
+  },
+  {
+   "id": "c444c39e-c733-3000-9e12-9c37bd78cea1",
+   "titulo": "White Eagle",
+   "data": "1982-04",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/419f9ebf-1b89-4b5e-98d4-bed1935334c4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mojave Plan",
+     "duracao": "20:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Midnight in Tula",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Convention of the 24",
+     "duracao": "9:42"
+    },
+    {
+     "n": 4,
+     "titulo": "White Eagle",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/White_Eagle_%28album%29",
+   "resumo_en": "White Eagle is the seventeenth major release and twelfth studio album by Tangerine Dream. It reached no. 57 in the UK album chart in a 5-week run.\nThe title track was remixed and went on to become the theme music for the German TV series Tatort with the title \"Das Mädchen auf der Treppe\".",
+   "spotify": "2A0SJoM4mCeUrnnahHLNOw",
+   "youtube": null
+  },
+  {
+   "id": "5fe28f03-0b04-3f45-9932-8dc2aad7bcfa",
+   "titulo": "Wavelength: Original Soundtrack",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/f0691b59-14fe-3894-a8be-56752e433bdb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alien Voices",
+     "duracao": "0:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Wavelength (main title)",
+     "duracao": "1:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Desert Drive",
+     "duracao": "2:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Mojave (end title)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Healing",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Breakout",
+     "duracao": "1:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Alien Goodbyes",
+     "duracao": "1:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Spaceship",
+     "duracao": "2:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Church Theme",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Sunset Drive",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Airshaft",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Alley Walk",
+     "duracao": "2:57"
+    },
+    {
+     "n": 13,
+     "titulo": "Cyro Lab",
+     "duracao": "2:20"
+    },
+    {
+     "n": 14,
+     "titulo": "Running Through the Hills",
+     "duracao": "1:35"
+    },
+    {
+     "n": 15,
+     "titulo": "Campfire Theme",
+     "duracao": "1:27"
+    },
+    {
+     "n": 16,
+     "titulo": "Mojave (end title reprise)",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wavelength_%28soundtrack%29",
+   "resumo_en": "Wavelength is a 1983 science fiction film written and directed by Mike Gray and starring Robert Carradine, Cherie Currie, and Keenan Wynn.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "16dfb4c9-0ec2-3e36-bd6c-bf898a09db5f",
+   "titulo": "Hyperborea",
+   "data": "1983-09",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/20cc4bad-f2b6-4fd2-8e9a-63330393d060/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Man's Land",
+     "duracao": "9:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Hyperborea",
+     "duracao": "8:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Cinnamon Road",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Sphinx Lightning",
+     "duracao": "20:01"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hyperborea_%28album%29",
+   "resumo_en": "Hyperborea is the nineteenth major release and thirteenth studio album by Tangerine Dream, released on 30 August 1983 internationally, and on 24 October 1983 in the UK. It spent two weeks on the UK Albums Chart peaking at No.45.\nThe album title refers to Hyperborea, a mythical, idyllic land in the Ancient Greek tradition, supposedly located far to the north of Thrace and where it was claimed the sun shone twenty-four hours a day.",
+   "spotify": "4CKjhzOHSVWu5mwtbiAWdr",
+   "youtube": null
+  },
+  {
+   "id": "4ed1565d-c513-3f6a-893f-2c1c2d263f18",
+   "titulo": "Firestarter",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/b98cae1a-bf85-45db-b289-19e1baf25499/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crystal Voice",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "The Run",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Testlab",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Charly the Kid",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Escaping Point",
+     "duracao": "5:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Rainbirds Move",
+     "duracao": "2:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Burning Force",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Between Realities",
+     "duracao": "2:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Shop Territory",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Flash Final",
+     "duracao": "5:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Out of the Heat",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5f62a7e3-779c-33c5-8614-235a7b957f23",
+   "titulo": "Flashpoint",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/e042437a-a6d7-37e2-8c50-eb5d270ec8b1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Going West",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Afternoon in the Desert",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Plane Ride",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Mystery Tracks",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Lost in the Dunes",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Highway Patrol",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Lover Phantasy",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Mad Cap Story",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Dirty Cross Roads",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Flashpoint",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Flashpoint_%28soundtrack%29",
+   "resumo_en": "Flashpoint is a 1984 American neo-Western action thriller film starring Kris Kristofferson, Treat Williams, Rip Torn, Jean Smart, Kurtwood Smith, and Tess Harper. The film is directed by William Tannen in his directorial debut, and is based on the novel of the same name by George LaFountaine, with a screenplay by Dennis Shryack and Michael Butler. The original score was composed and performed by Tangerine Dream. It was the first theatrical film produced by HBO Pictures.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "163fa95d-f349-3d45-9a2a-c5aa58228813",
+   "titulo": "Heartbreakers",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/04b6889e-3c8c-33fd-88c6-272099d4b6c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heartbreakers",
+     "duracao": "2:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Footbridge to Heaven",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Twilight Painter",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Gemini",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Rain in N.Y. City",
+     "duracao": "3:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Pastime",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "The Looser",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Breathing the Night Away",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Desire",
+     "duracao": "5:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Thorny Affair",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Daybreak",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Heartbreakers_%28soundtrack%29",
+   "resumo_en": "Heartbreakers is a 1984 American drama film starring Peter Coyote and Nick Mancuso. It was written and directed by Bobby Roth. The film was entered into the 35th Berlin International Film Festival.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fe589698-78ef-37e4-95c3-ee2d331bc970",
+   "titulo": "Le Parc",
+   "data": "1985-05",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/27174e24-a8e1-494b-b1cd-cb1c113bd13e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bois de Boulogne (Paris)",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Central Park (New York)",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Gaudi Park (Guell Garden Barcelona)",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Tiergarten (Berlin)",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Zen Garden (Ryoanji Temple Kyoto)",
+     "duracao": "4:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Le Parc (L.A. - Streethawk)",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Hyde Park (London)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "The Cliffs of Sydney (Sydney)",
+     "duracao": "5:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Yellowstone Park (Rocky Mountains)",
+     "duracao": "6:14"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Le_Parc_%28album%29",
+   "resumo_en": "Le Parc is the twenty-sixth major release and fourteenth studio album to be recorded by electronic group Tangerine Dream, released on 14 May 1985 internationally, and in the UK on 27 August 1985. Each track on the album is inspired by parks from around the world. Le Parc marked Tangerine Dream's last studio release with Johannes Schmoelling, who left the band in October 1985. The title track \"Le Parc\" was used as the theme for the short-lived U.S television series, Street Hawk. A video was produced for \"Tiergarten\". The track \"Central Park\" was used as the opening theme for the movie Diamond Ninja Force directed by Godfrey Ho.\nAccording to Dave Connolly of AllMusic, Le Parc is in essence a series of \"musical postcards\" from major parks of the world that focus on the mood of these places rather than their geographical qualities. Its tracks are shorter and more lyrical than the band's earlier works. Connolly said Le Parc \"operates on a superficial level\", which might be \"slightly distasteful\" to some long-time fans.",
+   "spotify": "3vhnlJOsim49HfKZOOURx3",
+   "youtube": null
+  },
+  {
+   "id": "6b684482-96dc-324a-a1d5-d78deb58f41e",
+   "titulo": "Legend: Music From the Motion Picture Soundtrack",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/41333223-8f23-4979-b033-ae9e95e3b17a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Is Your Love Strong Enough",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Opening",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Cottage",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Unicorn Theme",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Goblins",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Fairies",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Loved by the Sun",
+     "duracao": "5:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Room",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "The Dance",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Darkness",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "The Kitchen / Unicorn Theme Reprise",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Legend_%28Tangerine_Dream_soundtrack%29",
+   "resumo_en": "Legend is the twenty-eighth major release and the eighth soundtrack album by the German band Tangerine Dream. It was released in 1986 for the North American theatrical version of the film Legend. It was released in the US and Canada only. The film was written by William Hjortsberg, starred Tom Cruise, Mia Sara and Tim Curry, was produced by Arnon Milchan, directed by Ridley Scott and released domestically by Universal Studios. The album was released on compact disc on 15 August 1995 through Varese Sarabande.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "698759a2-f716-3a83-8fca-6fb142d12d5e",
+   "titulo": "Green Desert",
+   "data": "1986-01",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/0f26bdd0-469d-32ae-8d7e-832d8eb278c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Green Desert",
+     "duracao": "19:32"
+    },
+    {
+     "n": 2,
+     "titulo": "White Clouds",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Astral Voyager",
+     "duracao": "7:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Indian Summer",
+     "duracao": "6:52"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Green_Desert",
+   "resumo_en": "Green Desert is the twenty-seventh major release and the fifteenth studio album by electronic artists Tangerine Dream. The music was recorded in Berlin in 1973, during a period when Peter Baumann had temporarily left Germany to tour Nepal and India. Though unreleased at the time, it landed Tangerine Dream a record deal when Virgin heard the tapes.  A remixed version of the music was released in 1986.\nThe group had recently acquired new equipment including a Minimoog, a phaser, and an EKO ComputeRhythm which could be pre-programmed and/or changed on-the-fly while it was playing.  Chris Franke considered the six internal sounds to be \"pretty lousy\" but, due to its flexibility as a sequencer, later modified it as a controller to trigger external sounds.  This rhythmic effect was featured in several of Tangerine Dream's later albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "51ec4604-96ee-31f2-aa41-d8cd3f05cad8",
+   "titulo": "Underwater Sunlight",
+   "data": "1986-08",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/35cd96a1-bcd0-4506-9c96-efd4ffbe0796/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Song of the Whale",
+     "duracao": "19:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Dolphin Dance",
+     "duracao": "5:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Ride on the Ray",
+     "duracao": "5:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Scuba Scuba",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Underwater Twilight",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Underwater_Sunlight",
+   "resumo_en": "Underwater Sunlight is the twenty-ninth major release and sixteenth studio album by electronic artists Tangerine Dream.\nThis album marked the first appearance of Paul Haslinger.\n\"Underwater Sunlight\" spent one week on the UK Albums Chart at No.97.",
+   "spotify": "15vS7brf2BvgQ6o3us6Nzp",
+   "youtube": null
+  },
+  {
+   "id": "bcc0d1bd-68d8-3d71-a76e-8313f091002d",
+   "titulo": "Tyger",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/2c9b46c6-26c9-426b-be18-2df0d304e0fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tyger",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "London",
+     "duracao": "14:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Alchemy of the Heart",
+     "duracao": "12:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Smile",
+     "duracao": "6:11"
+    },
+    {
+     "n": 5,
+     "titulo": "21st Century Common Man, Parts 1 & 2",
+     "duracao": "8:50"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tyger_%28album%29",
+   "resumo_en": "Tyger is the thirtieth major release and seventeenth studio album by Tangerine Dream. It is based on the poetry of William Blake. Three of the tracks have lyrics taken from the poems The Tyger, London and Smile. The track London also incorporates lines from A Little Girl Lost, America: a Prophecy and The Fly.\nThis was the final studio album to feature long-time member Christopher Franke.\n\"Tyger\" spent one week on the UK Albums Chart at No.88. This is Tangerine Dream's last UK Albums Chart appearance to date.",
+   "spotify": "1YoKGcVTPrsvDV0Y3drVl5",
+   "youtube": null
+  },
+  {
+   "id": "2e312080-b9a6-3591-ada7-f4fa617278db",
+   "titulo": "Three O’Clock High",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/5a9927d7-0169-456e-90b7-da9a955e3a88/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It’s Jerry’s Day Today",
+     "duracao": "0:44"
+    },
+    {
+     "n": 2,
+     "titulo": "46‐32‐15",
+     "duracao": "0:47"
+    },
+    {
+     "n": 3,
+     "titulo": "No Detention",
+     "duracao": "1:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Any School Bully Will Do",
+     "duracao": "0:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Go to the Head of the Class",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Sit",
+     "duracao": "0:47"
+    },
+    {
+     "n": 7,
+     "titulo": "The Fight",
+     "duracao": "2:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Jerry’s Decision",
+     "duracao": "4:28"
+    },
+    {
+     "n": 9,
+     "titulo": "The Fight Is On",
+     "duracao": "4:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Paper",
+     "duracao": "1:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Big Bright Brass Knuckles",
+     "duracao": "1:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Buying Paper Like It’s Going Out of Style",
+     "duracao": "1:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Dangerous Trend",
+     "duracao": "0:54"
+    },
+    {
+     "n": 14,
+     "titulo": "Who’s Chasing Who",
+     "duracao": "0:59"
+    },
+    {
+     "n": 15,
+     "titulo": "Bonding by Candlelight",
+     "duracao": "1:35"
+    },
+    {
+     "n": 16,
+     "titulo": "You’ll Never Believe It",
+     "duracao": "2:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Starting the Day Off Right",
+     "duracao": "1:16"
+    },
+    {
+     "n": 18,
+     "titulo": "Weak at the Knees",
+     "duracao": "2:34"
+    },
+    {
+     "n": 19,
+     "titulo": "Kill Him (The Football Dummy)",
+     "duracao": "1:04"
+    },
+    {
+     "n": 20,
+     "titulo": "Not So Quiet in the Library / Get Lost in a Crowd",
+     "duracao": "1:36"
+    },
+    {
+     "n": 21,
+     "titulo": "Something to Remember Me By",
+     "duracao": "4:13"
+    },
+    {
+     "n": 22,
+     "titulo": "Arrival",
+     "duracao": "2:10"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Three_O%27Clock_High_%28soundtrack%29",
+   "resumo_en": "Three O'Clock High is a 1987 American teen comedy film directed by Phil Joanou. The script, about a meek high schooler who is forced into a fight with an unstable new transfer student, is based on the high school experiences of screenwriters Richard Christian Matheson and Thomas Szollosi. The film was a box-office bomb and received mixed reviews from critics. It was filmed at Ogden High School in Ogden, Utah.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "831c6c4f-f4cd-3c73-a762-4f7a215b09f5",
+   "titulo": "Near Dark",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/107d731f-0397-31f9-b313-c83b7d08d8e0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caleb’s Blues",
+     "duracao": "3:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Pick Up at High Noon",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Rain in the Third House",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Bus Station (includes Mae’s Theme)",
+     "duracao": "8:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Good Times",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "She’s My Sister (Resurrection I)",
+     "duracao": "7:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Mae Comes Back",
+     "duracao": "2:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Father and Son (Resurrection II)",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Severin Dies",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Fight at Dawn",
+     "duracao": "4:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Mae’s Transformation",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Near_Dark_%28soundtrack%29",
+   "resumo_en": "Near Dark is a 1987 American neo-Western horror film co-written and directed by Kathryn Bigelow (in her solo directorial debut), and starring Adrian Pasdar, Jenny Wright, Bill Paxton, Lance Henriksen and Jenette Goldstein. The plot follows a young man in a small Oklahoma town who becomes involved with a family of nomadic American vampires.\nDespite performing poorly at the box office, critic reviews were generally positive. Over the years, the film has gained a cult following.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cc88462c-5ce8-320b-8d08-1177d9ca8115",
+   "titulo": "Shy People",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/7c048a9a-0370-3a37-8186-2f1f2b849405/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shy People",
+     "duracao": "8:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Joe's Place",
+     "duracao": "2:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The Harbor",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Nightfall",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Dancing on a White Moon",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Civilized Illusions",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Swamp Voices",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Transparent Days",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Shy People",
+     "duracao": "5:04"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shy_People_%28soundtrack%29",
+   "resumo_en": "Shy People is a 1987 American drama film directed by Andrei Konchalovsky, from a script by Konchalovsky, Marjorie David and Gérard Brach. It stars Barbara Hershey, Jill Clayburgh, and Martha Plimpton, and features music by the German electronic music group Tangerine Dream. The film is about the culture clash that takes place between Diana, a Manhattan writer, her wayward teenage daughter Grace, and their long-distant relatives in the bayous of Louisiana.\nIt premiered at the 40th Cannes Film Festival on May 14, 1987, with Hershey winning the award for Best Actress. It received a limited release in the United States on March 11, 1988. It was one of the last film roles for actor Merritt Butrick, who died from AIDS in 1989. It was filmed by the bayous of South Louisiana.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1cf6c37c-93f3-33cf-8332-673b49ef739c",
+   "titulo": "Optical Race",
+   "data": "1988-08",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/702db5cd-cd61-4901-931f-6752852018f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Marakesh",
+     "duracao": "8:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Atlas Eyes",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Mothers of Rain",
+     "duracao": "5:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Twin Soul Tribe",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Optical Race",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Cat Scan",
+     "duracao": "5:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Sun Gate",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Turning Off the Wheel",
+     "duracao": "6:14"
+    },
+    {
+     "n": 9,
+     "titulo": "The Midnight Trail",
+     "duracao": "5:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Ghazal (Love Song)",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Optical_Race",
+   "resumo_en": "Optical Race is the thirty-fifth major release and eighteenth studio album by Tangerine Dream. Optical Race is the inaugural album of the Melrose Years era, as it is the first appearance of the band on the Private Music label, founded by former Tangerine Dream member Peter Baumann. It was their first album without Christopher Franke since 1970's Electronic Meditation and the band's first to be programmed largely with a computer, an Atari ST using Steinberg/Jones software. The sleeve of the 12\" release and the first release on CD and Compact Cassette features a die-cut outer sleeve with a multicolored inner sleeve.\n\"Atlas Eyes\" is in 54 time. \"Mothers of Rain\" first appeared two years before the album's release, during the band's 1986 European tour. \"Turning Off The Wheel\" was re-released on the Transsiberia album in 1998 under the title \"The Golden Horn\". \"Sun Gate\" was played by the group on German TV show Wetten, dass..? (moderated by Thomas Gottschalk) in 1988.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "99341a24-ff66-3f20-9792-4bb7a79638b4",
+   "titulo": "Catch Me… If You Can",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/ef0ddd03-e88d-4030-98dd-47f44b7a5bf5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dylan’s Future",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Sad Melissa",
+     "duracao": "2:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Fast Eddie’s Car",
+     "duracao": "1:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Back to the Race",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Melissa Asks Dylan Out",
+     "duracao": "1:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Dylan Alone at Home",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Melissa Needs Help",
+     "duracao": "1:04"
+    },
+    {
+     "n": 8,
+     "titulo": "The Kiss",
+     "duracao": "1:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Racing Montage",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "The Clock Is Ticking",
+     "duracao": "2:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Widowmaker",
+     "duracao": "1:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Dylan’s Dream",
+     "duracao": "1:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Taking the Test",
+     "duracao": "1:30"
+    },
+    {
+     "n": 14,
+     "titulo": "Back to the Race Again",
+     "duracao": "2:31"
+    },
+    {
+     "n": 15,
+     "titulo": "One More Chance",
+     "duracao": "2:28"
+    },
+    {
+     "n": 16,
+     "titulo": "Melissa’s Challenge",
+     "duracao": "1:26"
+    },
+    {
+     "n": 17,
+     "titulo": "Widowmaker Race",
+     "duracao": "2:46"
+    },
+    {
+     "n": 18,
+     "titulo": "Dylan’s Triumph",
+     "duracao": "4:18"
+    },
+    {
+     "n": 19,
+     "titulo": "Catch Me If You Can (main theme)",
+     "duracao": "1:44"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "91d170a5-7b00-3d69-bcb8-cef0496a9b8e",
+   "titulo": "Miracle Mile",
+   "data": "1989-05",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/5109edbb-de2b-46ec-8342-d96bf5821077/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Teetering Scales",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "One for the Books",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "After the Call",
+     "duracao": "5:13"
+    },
+    {
+     "n": 4,
+     "titulo": "On the Spur of the Moment",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "All of a Dither",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Final Statement",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "In Julie’s Eyes",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Running Out of Time",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "If It’s All Over",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "People in the News",
+     "duracao": "5:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Museum Walk",
+     "duracao": "3:12"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miracle_Mile_%28soundtrack%29",
+   "resumo_en": "Miracle Mile is a 1988 American apocalyptic thriller film written and directed by Steve De Jarnatt. The film stars Anthony Edwards and Mare Winningham. Its plot depicts the panic surrounding a supposed doomsday brought on by a sudden outbreak of war and its oncoming nuclear holocaust, taking place in a single day and mostly in real-time. The title is named after the Miracle Mile neighborhood of Los Angeles where most of the events take place.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "50824dfc-dd80-3954-a64f-84496b0f6eee",
+   "titulo": "Lily on the Beach",
+   "data": "1989-10",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/1751afbc-79c7-412e-9bb7-d9c91b570c2a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too Hot for My Chinchilla",
+     "duracao": "3:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Lily on the Beach",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Alaskan Summer",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Desert Drive",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Mount Shasta",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Crystal Curfew",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Paradise Cove",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Twenty-Nine Palms",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Valley of the Kings",
+     "duracao": "5:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Radio City",
+     "duracao": "4:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Blue Mango Cafe",
+     "duracao": "4:13"
+    },
+    {
+     "n": 12,
+     "titulo": "Gecko",
+     "duracao": "3:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Long Island Sunset",
+     "duracao": "7:01"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lily_on_the_Beach",
+   "resumo_en": "Lily on the Beach is the thirty-seventh major release and nineteenth studio album by Tangerine Dream. The track \"Radio City\" was the first appearance of future TD member Jerome Froese, son of founding member Edgar Froese, while the track \"Long Island Sunset\" was the first time the saxophone was used in a TD track.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f9554da9-c180-336e-81fb-e26993001e87",
+   "titulo": "Destination Berlin",
+   "data": "1989-12",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/9ec36753-230e-4847-8865-78abc824d43c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alexander Square (LP version)",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Emperor’s Castle",
+     "duracao": "2:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Hitchhikers Point",
+     "duracao": "5:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Brandenburg Gate",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Wall-Street",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Peacock Island",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Down the Avus",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Midnight in Bear City",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Berlin Summer Nights",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Alexander Square (reprise)",
+     "duracao": "2:19"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Destination_Berlin",
+   "resumo_en": "Destination Berlin is the thirty-eighth major release and thirteenth soundtrack album by Tangerine Dream. It is the soundtrack to the 1989 360° movie Destination Berlin. The movie was shown at the premier of the Imagine 360 theater in West Berlin.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7db8dfb2-c42d-3706-86cf-b76ad80b17b9",
+   "titulo": "Melrose",
+   "data": "1990-10",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/5dc2ee39-1929-3290-8ad0-7ffaa66632a2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Melrose",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Three Bikes in the Sky",
+     "duracao": "6:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Dolls in the Shadow",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Yucatan",
+     "duracao": "5:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Electric Lion",
+     "duracao": "8:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Rolling Down Cahuenga",
+     "duracao": "6:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Art of Vision",
+     "duracao": "5:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Desert Train",
+     "duracao": "10:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Cool at Heart",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Melrose_%28album%29",
+   "resumo_en": "Melrose is the thirty-ninth major release and twentieth studio album by Tangerine Dream. The album was released in 1990 on the Private Music label founded by former Tangerine Dream member Peter Baumann. The album further developed the instrumental pop style known from the previous two Private Music albums, Optical Race and Lily on the Beach. Edgar Froese's son, Jerome, for the first time appears on a Tangerine Dream album as a full-time member. This was Paul Haslinger's last album with Tangerine Dream.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7f15828c-76c0-3603-8900-d9c55bc31564",
+   "titulo": "Dead Solid Perfect",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/2fb329e6-6d6f-38d3-a11e-62a11919dcf6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Theme From Dead Solid Perfect",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Pond",
+     "duracao": "1:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Beverly Leaves",
+     "duracao": "0:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Of Cads and Caddies",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Tournament Montage",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "A Whore in One",
+     "duracao": "2:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Sand Trap",
+     "duracao": "1:21"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Rough",
+     "duracao": "0:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Nine Iron",
+     "duracao": "1:38"
+    },
+    {
+     "n": 10,
+     "titulo": "U.S. Open",
+     "duracao": "1:40"
+    },
+    {
+     "n": 11,
+     "titulo": "My Name Is Bad Hair",
+     "duracao": "2:31"
+    },
+    {
+     "n": 12,
+     "titulo": "In the Hospital Room",
+     "duracao": "0:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Welcome to Bushwood / Golfus Interruptus",
+     "duracao": "1:32"
+    },
+    {
+     "n": 14,
+     "titulo": "Deja Vu (I’ve Heard This Before!)",
+     "duracao": "1:31"
+    },
+    {
+     "n": 15,
+     "titulo": "Birdie",
+     "duracao": "1:20"
+    },
+    {
+     "n": 16,
+     "titulo": "Divot",
+     "duracao": "1:18"
+    },
+    {
+     "n": 17,
+     "titulo": "Kenny and Donny Montage",
+     "duracao": "1:40"
+    },
+    {
+     "n": 18,
+     "titulo": "Off to See Beverly",
+     "duracao": "0:32"
+    },
+    {
+     "n": 19,
+     "titulo": "Phone to Beverly",
+     "duracao": "1:19"
+    },
+    {
+     "n": 20,
+     "titulo": "Nice Shots",
+     "duracao": "2:42"
+    },
+    {
+     "n": 21,
+     "titulo": "Sinking Putts",
+     "duracao": "2:04"
+    },
+    {
+     "n": 22,
+     "titulo": "Kenny’s Winning Shot",
+     "duracao": "1:06"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c27a3979-3e96-39e4-b4e1-45b220a0886a",
+   "titulo": "L’Affaire Wallraff / The Man Inside",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/deb836c7-d4f7-4664-b6fe-482b62b2cb33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wallraff’s Theme",
+     "duracao": "1:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Tendency for Love",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Addicted to the Truth",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "World of the “Standard”",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Purposes of Brevity",
+     "duracao": "4:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Tobel’s Death by the River",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Taboo Society",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "The Drive to Hanover",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Correlation of Lies",
+     "duracao": "3:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Investigation",
+     "duracao": "4:20"
+    },
+    {
+     "n": 11,
+     "titulo": "News and Morality",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cbd54f4f-e42b-38be-9e24-7aceb5087fc7",
+   "titulo": "Canyon Dreams",
+   "data": "1991-10-16",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/b94bd501-e719-4cdc-a13c-688ade2e301b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shadow Flyer",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Canyon Carver",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Water’s Gift",
+     "duracao": "5:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Canyon Voices",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Sudden Revelation",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "A Matter of Time",
+     "duracao": "8:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Purple Nightfall",
+     "duracao": "2:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Colorado Dawn",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Canyon_Dreams",
+   "resumo_en": "Canyon Dreams is the fortieth major release and (although mostly recorded in 1986) it was released as the fourteenth soundtrack album by German band Tangerine Dream. It was recorded in 1986 and released in 1991 on compact disc and compact cassette formats. The music was written as a sound accompaniment for an eponymous scenic video film about the Grand Canyon by Jan Nickman, released by the record label Miramar in 1987 on VHS, Betamax and LaserDisc. The album's tracks are divided into various episodes and related to the titles of the cuts.\nThis album has musical influences from Native American cultures. Edgar Froese, Christoph Franke, and Paul Haslinger created sequenced, atmospheric soundscapes using a Native American pace and native flutes to give the disc a feel of the American Southwest. The execution is recognizable as a product of the Berlin School of electronic music, and brought Tangerine Dream their first Grammy nomination.\nThe music on Canyon Dreams has influenced contemporary musicians, including Soulfood, Steve Roach, Matthias Gohl, and Michael Stearns.",
+   "spotify": "3uJsi7OzJM3oP83Dus7kQd",
+   "youtube": null
+  },
+  {
+   "id": "b340c4ce-40c3-3d04-9056-c7b767e3bfc3",
+   "titulo": "Rockoon",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/7032034c-9ca6-4c4d-8ab0-0e633ced9c6b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Big City Dwarves",
+     "duracao": "6:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Red Roadster",
+     "duracao": "8:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Touchwood",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Graffiti Street",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Funky Atlanta",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Spanish Love",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Lifted Veil",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Penguin Reference",
+     "duracao": "4:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Body Corporate",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Rockoon",
+     "duracao": "7:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Girls on Broadway",
+     "duracao": "4:42"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rockoon_%28Tangerine_Dream_album%29",
+   "resumo_en": "Rockoon is the forty-fourth major release and twenty-first studio album released by Tangerine Dream. The album was started in March 1991 and completed January 1992, making it the longest production ever in the band's history until the release of Quantum Gate in 2017. The album was nominated in the US for the \"Best New Age Album 1992\" Grammy and reached the Top Ten in Billboard New Age charts and the Top Twenty in Billboard Jazz charts.\nIt is the first full album of Tangerine Dream music as a father and son duo. Saxophone player Linda Spa who joined in 1990 does not appear on this release.\nThe album was re-released in 1999 on Tangerine Dream's own TDI label with new cover artwork by Edgar Froese.",
+   "spotify": "5jgtSbqaxavLTLaH61YnVT",
+   "youtube": null
+  },
+  {
+   "id": "c8c8586f-064b-38de-9562-1ba4a16b48b2",
+   "titulo": "Quinoa",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/41d74af0-f77f-49e3-b23a-10f0f714c57f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Voxel Ux",
+     "duracao": "12:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Quinoa",
+     "duracao": "28:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Lhasa",
+     "duracao": "9:49"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Quinoa_%28album%29",
+   "resumo_en": "Quinoa is the forty-sixth release by the German band Tangerine Dream.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33200ca6-68d5-3e4f-bf19-ad01b032671a",
+   "titulo": "Deadly Care",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/44c6e075-f068-4537-b77f-4531ce5a7871/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Deadly Care (Main Theme)",
+     "duracao": "4:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Paddles / Stolen Pills",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "A Strong Drink / A Bad Morning",
+     "duracao": "2:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Wasted and Sick",
+     "duracao": "1:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Hope for Future",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hospital",
+     "duracao": "5:44"
+    },
+    {
+     "n": 7,
+     "titulo": "In Bed",
+     "duracao": "1:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Annie & Father",
+     "duracao": "1:28"
+    },
+    {
+     "n": 9,
+     "titulo": "More Pills",
+     "duracao": "1:28"
+    },
+    {
+     "n": 10,
+     "titulo": "In the Head Nurse’s Office / At the Father’s Grave",
+     "duracao": "1:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Clean and Sober",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "65b053d0-98fa-3c4d-9949-b857f617c2fb",
+   "titulo": "The Park Is Mine",
+   "data": "1992-03",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/3c187110-d87d-45eb-9f86-778b0fba246a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Park Is Mine (Main Title)",
+     "duracao": "1:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Fatal Fall / Funeral",
+     "duracao": "2:14"
+    },
+    {
+     "n": 3,
+     "titulo": "The Letter, Parts I & II",
+     "duracao": "5:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Taking the Park, Parts I & II",
+     "duracao": "8:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Swatting S.W.A.T.",
+     "duracao": "7:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Theme",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "The Helicopter Attack",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Morning",
+     "duracao": "1:20"
+    },
+    {
+     "n": 9,
+     "titulo": "We’re Running Out of Time",
+     "duracao": "1:02"
+    },
+    {
+     "n": 10,
+     "titulo": "The Claymore Mine / Stalking",
+     "duracao": "5:17"
+    },
+    {
+     "n": 11,
+     "titulo": "The Final Confrontation / The Park Is Yours!",
+     "duracao": "3:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Finale / End Credits",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1589f0da-fe70-3b40-9d34-0426863e8516",
+   "titulo": "The Keep",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/7e0bbc5c-1f85-360e-be89-906723bbf560/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Puer Natus Est Nobis (Gloria Theme)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Ancient Powerplant",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "The Silver Seal",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Voices From a Common Land",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Arx Allemand",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "The Night in Romania",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Canzone",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Sign in the Dark",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Weird Village",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Love and Destiny",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "The Challenger's Arrival",
+     "duracao": "4:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Supernatural Accomplice",
+     "duracao": "4:07"
+    },
+    {
+     "n": 13,
+     "titulo": "Parallel Worlds",
+     "duracao": "4:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Truth and Fiction",
+     "duracao": "2:52"
+    },
+    {
+     "n": 15,
+     "titulo": "Wardays Sunrise",
+     "duracao": "3:20"
+    },
+    {
+     "n": 16,
+     "titulo": "Heritage Survival",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Keep_%28Tangerine_Dream_album%29",
+   "resumo_en": "The Keep (1997) is the twenty-third soundtrack album by Tangerine Dream and their fifty-eighth overall. It is the soundtrack to the movie The Keep (1983).  A limited run of 150 CDs were sold at a concert by the group in the UK in 1997. Virgin soon announced that the album would be available for general release in early 1998, but legal issues with the film studio stopped the release. In 1999, Tangerine Dream's own record label sold 300 copies of the Millennium Booster album set that included The Keep with a different cover.\nIt was finally given a proper release in 2020, as part of the Pilots of Purple Twilight: The Virgin Recordings 1980–1983 boxset. This release omitted three tracks, and has a different track sequence.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8f23d6fb-01d6-3b65-98c0-16d74b57bc9c",
+   "titulo": "Turn of the Tides",
+   "data": "1994-01-24",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/27daa1e3-a9e5-3ef7-aedb-1a93e27a56ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pictures at an Exhibition",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Firetongues",
+     "duracao": "6:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Galley Slave's Horizon",
+     "duracao": "7:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Death of a Nightingale",
+     "duracao": "5:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Twilight Brigade",
+     "duracao": "9:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Jungle Journey",
+     "duracao": "6:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Midwinter Night",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Turn of the Tides",
+     "duracao": "7:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Story of the Brave",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Turn_of_the_Tides",
+   "resumo_en": "Turn of the Tides is the forty-ninth release and twenty-second major studio album by the band Tangerine Dream. It is the first studio album to feature saxophone player Linda Spa and guitarist Zlatko Perica performing as full-time members. It was nominated for Best New Age Album at the 1995 Grammys.\nThe group would slowly become less well known to general audiences following this album until the release of Quantum Gate in 2017 which revitalized interest in the group. This is the only studio album to feature guitarist Zlatko Perica as an official member of the group.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d97bd0c9-3a74-3783-bfa7-5e4c2fe0bf4a",
+   "titulo": "Tyranny of Beauty",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/be1f2987-7f74-4777-8b32-76f312e74d34/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Catwalk",
+     "duracao": "7:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Birdwatcher's Dream",
+     "duracao": "6:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Blonde in the Park of Attractions",
+     "duracao": "6:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Living in a Fountain Pen",
+     "duracao": "6:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Stratosfear 1995",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Bride in Cold Tears",
+     "duracao": "4:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Haze of Fame",
+     "duracao": "8:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Tyranny of Beauty",
+     "duracao": "6:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Largo from Xerxes",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Quasar",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tyranny_of_Beauty",
+   "resumo_en": "Tyranny of Beauty (1995) is the fifty-first release and twenty-third major studio album by Tangerine Dream. Guitarist Zlatko Perica does not appear on this album or its follow up Goblins' Club (1996). His absence is filled by guest musicians Gerald Gradwohl and Mark Hornby on both releases and during the groups London performance in November 1996.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7c96efde-4838-33b1-a155-42901b8d5963",
+   "titulo": "Zoning",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/6bb68d4f-3fe4-4e83-96a3-79029fc07183/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Conspiracy",
+     "duracao": "5:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Skyscraper",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "HeadHunter",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Downtown Chicago",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Fading and Turning",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Affluent Society",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Stairway Affair",
+     "duracao": "5:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Good Choice, Bad Timing",
+     "duracao": "4:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Bachelor of Crime",
+     "duracao": "5:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Unfit for Consumption",
+     "duracao": "5:23"
+    },
+    {
+     "n": 11,
+     "titulo": "Days of Grief and Glory",
+     "duracao": "5:06"
+    },
+    {
+     "n": 12,
+     "titulo": "Eyewitness News",
+     "duracao": "5:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Missing Link",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Zoning_%28Tangerine_Dream_album%29",
+   "resumo_en": "Zoning is the fifty-third release and twenty-first soundtrack album by Tangerine Dream.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "51434c83-4021-317f-835d-d3a3cdc75f59",
+   "titulo": "Goblins’ Club",
+   "data": "1996-09",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/3bb56756-949f-4050-a6e5-52e626ee01a0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Towards the Evening Star",
+     "duracao": "6:19"
+    },
+    {
+     "n": 2,
+     "titulo": "At Darwin’s Motel",
+     "duracao": "7:25"
+    },
+    {
+     "n": 3,
+     "titulo": "On Cranes’ Passage",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Rising Haul in Silence",
+     "duracao": "7:36"
+    },
+    {
+     "n": 5,
+     "titulo": "United Goblins’ Parade",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Lamb With Radar Eyes",
+     "duracao": "8:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Elf June and the Midnight Patrol",
+     "duracao": "4:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Sad Merlin’s Sunday",
+     "duracao": "10:52"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Goblins%27_Club",
+   "resumo_en": "Goblins' Club is the fifty-fourth release and twenty-fourth main studio album by Tangerine Dream. Although sonically a counterweight to The Dream Mixes, it is usually considered the first album in the Millennium/TDI Years era due to the switch from Miramar, despite TDI not yet being the band's label. An Australian version lacked the track \"Elf June and the Midnight Patrol\", co-written by Linda Spa, replacing it with \"Fort Worth Runway One\" by Edgar Froese. A 2004 re-release included both, but edited the final two tracks to fit on the disc. Goblins' Club marks the final appearance of Linda Spa as a regular group member until returning for Jeanne d'Arc (2005).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9b541fb7-b824-3c77-b091-b6c9e16cfd9a",
+   "titulo": "Oasis",
+   "data": "1997",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/a91a5b99-de54-4fc6-b53d-aafaf7c35210/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flashflood",
+     "duracao": "7:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Zion",
+     "duracao": "5:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Reflections",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Cliff Dwellers",
+     "duracao": "5:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Waterborne",
+     "duracao": "7:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Cedar Breaks",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Summer Storm",
+     "duracao": "6:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Hopi Mesa Heart",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5f468e58-cd0a-30a7-a769-ff068f420e47",
+   "titulo": "Ambient Monkeys",
+   "data": "1997-11",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/c121f447-c7f8-40f6-b5af-557307267223/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Token from Birdland",
+     "duracao": "5:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Symphony in A-Minor (J.S. Bach)",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "The Seventh Propeller of Silence",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Calyx Calamander",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Riddle of the Monkey Tribe",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Moon Marble",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Concerto in A-Major (Adagio)",
+     "duracao": "1:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Lemon Vendor Khaly",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Campera de Mon Glyan",
+     "duracao": "4:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Virtue Is Its Own Reward",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Pantha Rhei",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Myopia World",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ambient_Monkeys",
+   "resumo_en": "Ambient Monkeys subtitled (Dream Folder #1 At Crimson's Train Lodge \"Myopia World\") is the fifty-ninth release by Tangerine Dream.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d27bebcd-e75d-3af0-98be-a71f6b34fd2c",
+   "titulo": "The Hollywood Years, Volume 1",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/effc4966-62a0-4991-8176-e8f2ad7ae419/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Q-Time",
+     "duracao": "5:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Cat and Snowman",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Goldhunter",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Law Paradiso",
+     "duracao": "5:02"
+    },
+    {
+     "n": 5,
+     "titulo": "La Petite Rue noire",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Propeller Beach",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Autumn in Sonoma",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Chamber of Hope",
+     "duracao": "4:38"
+    },
+    {
+     "n": 9,
+     "titulo": "The Quiet Gambler",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "The Principle Source",
+     "duracao": "5:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Labeo",
+     "duracao": "5:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Escape From Shadowland",
+     "duracao": "4:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Chronos Mile",
+     "duracao": "5:57"
+    },
+    {
+     "n": 14,
+     "titulo": "J.S. Bach Sonata",
+     "duracao": "2:53"
+    },
+    {
+     "n": 15,
+     "titulo": "Fairfax",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e33daaea-4a8e-3022-a889-22b98f990384",
+   "titulo": "The Hollywood Years, Volume 2",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/9bd21aca-b646-4763-b5e4-5ec63f6f2b9f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "South Camora",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Velvet Sun",
+     "duracao": "6:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Midas Touch",
+     "duracao": "6:10"
+    },
+    {
+     "n": 4,
+     "titulo": "City Monk",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Lava Levin",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Cool Ma Bell",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Dare to Change",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Hall of Mirrors",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Token From Birdland",
+     "duracao": "8:09"
+    },
+    {
+     "n": 10,
+     "titulo": "In the Distant Shore",
+     "duracao": "4:15"
+    },
+    {
+     "n": 11,
+     "titulo": "3rd Angels Gate",
+     "duracao": "2:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Silver Moon Lake",
+     "duracao": "3:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Riding the Lizard Overland",
+     "duracao": "3:42"
+    },
+    {
+     "n": 14,
+     "titulo": "Walking With a Mandarin",
+     "duracao": "7:24"
+    },
+    {
+     "n": 15,
+     "titulo": "Rose of Babylon",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "850a9bd0-4231-3103-b392-60e949a03353",
+   "titulo": "Luminous Visions",
+   "data": "1998",
+   "ano": "1998",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jungle Journey (Reptile mix)",
+     "duracao": "6:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Towards the Evening Star",
+     "duracao": "6:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Rough Embrace",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Catwalk (Black Ink mix)",
+     "duracao": "8:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Touchwood (Forest mix)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Change of the Gods",
+     "duracao": "7:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Bride in Cold Tears (Motown Monk mix)",
+     "duracao": "5:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Blond in the Park of Attractions (Thai Dub mix)",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Firetongues (Break Freak mix)",
+     "duracao": "6:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Sojus",
+     "duracao": "9:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Flashflood",
+     "duracao": "7:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Midwinter Night",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55cba430-3b26-3b6d-affe-e0c3ec65caed",
+   "titulo": "Transsiberia",
+   "data": "1998-06",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/46908c83-1193-41e5-96cd-776f2c99f3dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Yaroslaw Station",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Smoky Karlow",
+     "duracao": "9:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Siberian Lights",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Jenissei River",
+     "duracao": "4:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Baikal Sunrise",
+     "duracao": "4:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Samowar Juri",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Ulan‐Ude",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Chingan Night",
+     "duracao": "6:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Russian Soul",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "The Golden Horn",
+     "duracao": "5:18"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1f9b9478-ff00-3e50-a2c5-2bc442ac0e6c",
+   "titulo": "Mars Polaris",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/57cc2ca1-4a1c-4fb2-bb7c-02470e3c5c66/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Comet’s Figure Head",
+     "duracao": "10:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Rim of Schiaparelli",
+     "duracao": "6:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Pilots of the Ether Belt",
+     "duracao": "10:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Deep Space Cruiser",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Outland (The Colony)",
+     "duracao": "9:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Spiral Star Date (Level ♇)",
+     "duracao": "6:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Mars Mission Counter",
+     "duracao": "5:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Astrophobia",
+     "duracao": "9:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Tharsis Maneuver",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Dies Martis (TransMercury)",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mars_Polaris",
+   "resumo_en": "Mars Polaris – Deep Space Highway to Red Rocks Pavilion is the 67th release and 25th major studio album by the electronic group Tangerine Dream. It was originally released in 1999, and re-released in 2009. All the tracks appeared on their live album Rocking Mars, which was released in 2005 with four extra tracks. It was recorded at Stadthalle in Osnabrück.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b6d7e942-a775-3081-a4b5-391ad2b001bb",
+   "titulo": "What a Blast: Architecture in Motion",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/8b45799b-0f1d-4221-ac8e-c54431e3c1d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silver Screen",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Beauty of the Blast",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Dream Sculpture",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Last Trumpet on 23rd Street",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Art of Destruction",
+     "duracao": "7:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Forced to Surrender",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Timesquare",
+     "duracao": "9:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Jungle Journey",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ad4ccdce-ac4b-3ed5-96cb-975b8cf66906",
+   "titulo": "Great Wall of China",
+   "data": "2000-03-20",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/90cf9b4d-ea6e-42ea-865e-0ec8c903f313/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Meng Tian",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Summer in Shauxi",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "The South Gate Knights",
+     "duracao": "5:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Silence the Barking Monk",
+     "duracao": "7:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Zhu Zhanji",
+     "duracao": "6:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Stranded Without Shade",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "No More Candles Burning",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Lights of Beijing",
+     "duracao": "5:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Snow on Dragon’s Peak",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Cradle of Prodigies",
+     "duracao": "5:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Tiger Forest",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Great_Wall_of_China_%28album%29",
+   "resumo_en": "Great Wall of China is the sixty-eighth release and twenty-sixth soundtrack album by Tangerine Dream.",
+   "spotify": "0SRuF2390fXMZQ6CZoJbWZ",
+   "youtube": "PLHOWW1qI87iD7yMfv78KeV1SaepnduhzD"
+  },
+  {
+   "id": "65b9467f-9bc2-35f3-9167-316b84e2bf7a",
+   "titulo": "The Seven Letters From Tibet",
+   "data": "2000-09-04",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/9e7c1777-ba1c-4a35-a978-919b46871705/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Red Blood Connection",
+     "duracao": "4:49"
+    },
+    {
+     "n": 2,
+     "titulo": "The Orange Breath",
+     "duracao": "6:15"
+    },
+    {
+     "n": 3,
+     "titulo": "The Golden Heart",
+     "duracao": "5:48"
+    },
+    {
+     "n": 4,
+     "titulo": "The Green Land",
+     "duracao": "7:28"
+    },
+    {
+     "n": 5,
+     "titulo": "The Blue Pearl",
+     "duracao": "14:08"
+    },
+    {
+     "n": 6,
+     "titulo": "The Indigo Clouds",
+     "duracao": "7:07"
+    },
+    {
+     "n": 7,
+     "titulo": "The Purple of All Curtains",
+     "duracao": "3:58"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4c321671-dd02-3cf5-aa12-d884ab3eb5f3",
+   "titulo": "Mota Atma",
+   "data": "2003-04-29",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/616fa471-b1f9-4a31-aca9-d3ab31109cef/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Courage to Lose",
+     "duracao": "8:05"
+    },
+    {
+     "n": 2,
+     "titulo": "For the Summit Only",
+     "duracao": "7:59"
+    },
+    {
+     "n": 3,
+     "titulo": "No Pleasure, No Pain",
+     "duracao": "5:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Royal Way of Privacy",
+     "duracao": "8:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Phoenix Burning",
+     "duracao": "7:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Prophet in Chains",
+     "duracao": "7:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Snow on Angels Feather",
+     "duracao": "5:35"
+    },
+    {
+     "n": 8,
+     "titulo": "A Fair Days Wage",
+     "duracao": "8:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Brain Offender",
+     "duracao": "5:55"
+    },
+    {
+     "n": 10,
+     "titulo": "A Day in Liberty Valley",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mota_Atma",
+   "resumo_en": "Mota Atma (2003) is the seventy-fifth release and twenty-seventh soundtrack album by German electronic music group Tangerine Dream.\nThe album was the soundtrack to the documentary Mota Atma and features the father and son lineup of the band, Edgar and Jerome Froese.",
+   "spotify": "2gJqR304dvLUB4HLiev0uR",
+   "youtube": null
+  },
+  {
+   "id": "08b4580d-b7d7-3233-ae73-c8df2c6c62fe",
+   "titulo": "Purgatorio",
+   "data": "2004-05-03",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/10c0a2ea-fbf6-491a-98f3-f63a3302cc1f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Above the Great Dry Land",
+     "duracao": "6:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Chasing the Bad Seed",
+     "duracao": "8:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Slave to the Gods",
+     "duracao": "6:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Hope and Glory",
+     "duracao": "6:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Sun Son’s Seal, Part I",
+     "duracao": "8:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Beyond All Suns",
+     "duracao": "6:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Sisyphus",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "All the Steps to Heaven",
+     "duracao": "13:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Mountain of Destiny",
+     "duracao": "10:51"
+    },
+    {
+     "n": 10,
+     "titulo": "The Glowing Zodiac Wheel",
+     "duracao": "6:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Modern Cave Men",
+     "duracao": "5:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Death of Medusa",
+     "duracao": "7:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Blinded by the World’s Desire",
+     "duracao": "6:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Sun Son’s Seal, Part II",
+     "duracao": "8:27"
+    },
+    {
+     "n": 15,
+     "titulo": "Soulgate",
+     "duracao": "7:59"
+    },
+    {
+     "n": 16,
+     "titulo": "Till the End of Silence",
+     "duracao": "5:17"
+    },
+    {
+     "n": 17,
+     "titulo": "Prison and Paradise",
+     "duracao": "5:39"
+    },
+    {
+     "n": 18,
+     "titulo": "Spirit Spiral",
+     "duracao": "7:32"
+    }
+   ],
+   "duracao_min": 132,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Purgatorio_%28album%29",
+   "resumo_en": "Purgatorio is a studio album and the seventy-eighth release overall by German electronic band Tangerine Dream. It was released in October 2004. A prerelease version was only available via internet at the Tangerine Dream's website in March 2004. The album includes a studio version of a live performance at the Royal Festival Hall, in London, on March 6, 2004.  The show was the opening night of the Ether Electronic Music Festival followed by the world premiere of a restored version of the Italian silent movie “L'Inferno” from 1911 by Giuseppe de Liguoro's, based on the first part of Dante Alighieri’s “Divine Comedy”",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "84a2b5a5-acaa-44b9-b358-7849a3b3bc2c",
+   "titulo": "Phaedra 2005",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/a0c8380e-a6b1-49bb-bc36-7d3cf81f4807/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Phaedra",
+     "duracao": "11:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Mysterious Semblance at the Strand of Nightmares",
+     "duracao": "9:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Movements of a Visionary",
+     "duracao": "7:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Sequent C",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Delfi",
+     "duracao": "6:06"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Phaedra_2005",
+   "resumo_en": "Phaedra 2005 is the ninety-first release by Tangerine Dream. It is a re-recording of their 1974 album Phaedra.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a012cd2a-ad10-3e98-a463-47b07f1894b0",
+   "titulo": "Kyoto",
+   "data": "2005-05",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/75e8e7b0-b847-4b0b-ac63-027d8cf712fd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Streets of Kyoto",
+     "duracao": "7:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Industrial Life",
+     "duracao": "5:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Chilly Moons",
+     "duracao": "8:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Lizard Lounge",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Cherry Blossom Road",
+     "duracao": "5:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Tamago Yaki",
+     "duracao": "7:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Craving for Silence",
+     "duracao": "6:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Mad Sumo Yamoto",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Kyoto Sunrise",
+     "duracao": "4:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Last Train to Osaka",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Shogun’s Prayer",
+     "duracao": "7:25"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d8c46d9c-8b0e-344a-a4ba-9d5b4b62daed",
+   "titulo": "Jeanne d’Arc",
+   "data": "2005-12-02",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/b5dae2df-7c58-4de7-9685-69023801a914/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "La Vision",
+     "duracao": "12:19"
+    },
+    {
+     "n": 2,
+     "titulo": "La Joie",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "La Force du courage",
+     "duracao": "8:37"
+    },
+    {
+     "n": 4,
+     "titulo": "La Solitude dans l’espoir",
+     "duracao": "7:32"
+    },
+    {
+     "n": 5,
+     "titulo": "La Marche",
+     "duracao": "8:36"
+    },
+    {
+     "n": 6,
+     "titulo": "La Sagesse du destin",
+     "duracao": "7:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Le Combat du sang",
+     "duracao": "10:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Le Combat des épées",
+     "duracao": "14:02"
+    },
+    {
+     "n": 9,
+     "titulo": "La Libération",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeanne_d%27Arc_%28Tangerine_Dream_album%29",
+   "resumo_en": "Jeanne D'Arc – La Révolte Éternelle (English: Joan of Arc – The Eternal Revolt)  is the eighty-ninth release and twenty-sixth major studio album by German electronic music group Tangerine Dream. It was recorded during June 2005 at Eastgate Studios in Vienna, Austria and released in September 2005 through TDI Music. Jeanne d'Arc is the first Tangerine Dream album to feature Thorsten Quaeschning as a full-time member. The album also features a returning Linda Spa on saxophone. This is her first appearance on a Tangerine Dream album since Goblins' Club in 1996. Jerome Froese makes his final appearance after joining his father in 1990 for the Melrose album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "13f357ea-98d1-387d-9f38-a6df22e73c97",
+   "titulo": "Tangerine Dream Plays Tangerine Dream",
+   "data": "2006",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/ad99f5fa-3a7e-40d5-b18f-db052bc9f651/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Southpole Crossing",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Logos Blue",
+     "duracao": "6:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Alchemy of the Heart II",
+     "duracao": "4:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Beach Theme",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Phaedra 2005",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Desert T. Dream",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Convention of the 24",
+     "duracao": "9:25"
+    },
+    {
+     "n": 8,
+     "titulo": "The Blue Bridge",
+     "duracao": "3:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Ride on a Ray",
+     "duracao": "8:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Logos Velvet",
+     "duracao": "5:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Challengers Arrival",
+     "duracao": "4:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Sphinx Red Lightning",
+     "duracao": "4:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Pergamon Sphere",
+     "duracao": "5:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Loved by the Sun",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Plays_Tangerine_Dream",
+   "resumo_en": "Plays Tangerine Dream is the ninety-sixth release and second compilation by the German electronic music group Tangerine Dream. It features re-recordings and remixes by several present and past members of the band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2e629755-2e39-3ebc-bb4c-8b3963036962",
+   "titulo": "Blue Dawn",
+   "data": "2006-05",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/58fac946-4ee7-4154-8d80-e2d6547c7ed3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Where Dreams Are Large and Airy",
+     "duracao": "6:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Riding the Wind",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Thunderheads",
+     "duracao": "7:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Eagle’s Crest",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Food for the Gods",
+     "duracao": "8:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Without a Bad Conscience",
+     "duracao": "6:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Cardamom Route",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "A World Away From Gagaland",
+     "duracao": "7:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Native Companions",
+     "duracao": "4:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Blue Dawn",
+     "duracao": "7:00"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bf68829e-97b1-44dc-9d0f-74f463f68c95",
+   "titulo": "Paradiso",
+   "data": "2006-09",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/810b093f-a9a6-4af2-8e46-b83867fcc00f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "La Grande Spirale",
+     "duracao": "10:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Beyond Sodom and Gomorrha",
+     "duracao": "10:14"
+    },
+    {
+     "n": 3,
+     "titulo": "La ley de la Montana",
+     "duracao": "7:38"
+    },
+    {
+     "n": 4,
+     "titulo": "A cielo della luna",
+     "duracao": "12:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Mercury Sphere",
+     "duracao": "6:15"
+    },
+    {
+     "n": 6,
+     "titulo": "L’era della venere",
+     "duracao": "11:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Invisible Sun",
+     "duracao": "9:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Jupiter Lightning",
+     "duracao": "8:12"
+    },
+    {
+     "n": 9,
+     "titulo": "La forza del Saturno",
+     "duracao": "18:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Stars on Distance Glow",
+     "duracao": "7:43"
+    },
+    {
+     "n": 11,
+     "titulo": "No More Birth, No More Death",
+     "duracao": "8:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Transformazione",
+     "duracao": "10:46"
+    },
+    {
+     "n": 13,
+     "titulo": "Truth Beyond Thoughts",
+     "duracao": "6:08"
+    },
+    {
+     "n": 14,
+     "titulo": "L’ultima tromba d’oro",
+     "duracao": "8:20"
+    },
+    {
+     "n": 15,
+     "titulo": "Leaving",
+     "duracao": "7:01"
+    }
+   ],
+   "duracao_min": 144,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b6af19b8-19bd-3be0-8da6-132a27a52dfb",
+   "titulo": "Springtime in Nagasaki",
+   "data": "2007-03-23",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/658a74bd-77d8-4f64-a103-d58c5f345ce2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Navel of Light, Part One",
+     "duracao": "8:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Navel of Light, Part Two",
+     "duracao": "14:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Navel of Light, Part Three",
+     "duracao": "7:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Persistence of Memory, Part Four",
+     "duracao": "6:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Persistence of Memory, Part Five",
+     "duracao": "13:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Persistence of Memory, Part Six",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "605ecbf5-548b-3494-b68f-a2bd39a38419",
+   "titulo": "Madcap’s Flaming Duty",
+   "data": "2007-04-02",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/fb49e5cb-26a9-4c9d-8ef1-fb0b916e10b6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Astrophel and Stella",
+     "duracao": "7:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Shape My Sin",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "The Blessed Damozel",
+     "duracao": "5:16"
+    },
+    {
+     "n": 4,
+     "titulo": "The Divorce",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "A Dream of Death",
+     "duracao": "7:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Hear the Voice",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Lake of Pontchartrain",
+     "duracao": "7:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Mad Song",
+     "duracao": "5:08"
+    },
+    {
+     "n": 9,
+     "titulo": "One Hour of Madness",
+     "duracao": "8:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Man",
+     "duracao": "4:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Hymn to Intellectual Beauty",
+     "duracao": "6:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Solution of All Problems",
+     "duracao": "6:24"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Madcap%27s_Flaming_Duty",
+   "resumo_en": "Madcap's Flaming Duty is the ninety-eighth release and twenty-seventh major studio album by Tangerine Dream. Along with Cyclone (1978) and Tyger (1987) it is one of the few Tangerine Dream releases to feature vocals. The album is a tribute to Syd Barrett who died in 2006; the title references Barrett's album The Madcap Laughs. This is the first album to feature Bernhard Beibl who would remain a member until 2014.",
+   "spotify": "1Y0nLqxJMWX663ByfjiBmm",
+   "youtube": null
+  },
+  {
+   "id": "b1668f73-728b-3a28-ab7b-ab78f88d99cb",
+   "titulo": "Summer in Nagasaki",
+   "data": "2007-07-02",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/e52d3e3c-881e-469f-9c7e-3ea29e24c537/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Climbing Mount Inasa",
+     "duracao": "10:56"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Cherry Blossom Hills",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Mystery of Life and Death",
+     "duracao": "13:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Dreaming in a Kyoto Train",
+     "duracao": "7:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Ayumi’s Butterflies",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Presentiment",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "11:02 AM",
+     "duracao": "10:51"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "00ec5cf0-8dce-3fab-a99a-248ad7cdc892",
+   "titulo": "One Times One",
+   "data": "2007-12",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/27ad1259-2213-4b53-8f8f-1b1325d3c9ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sadness of Echnation Losing the World Child",
+     "duracao": "6:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Man (instrumental)",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Modesty and Greed",
+     "duracao": "7:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Loved by the Sun",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Gleeful Poets Crying Softly",
+     "duracao": "8:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Daughters of Time",
+     "duracao": "9:01"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b622ebe9-345b-48f7-b099-2f8a1bd2fb22",
+   "titulo": "Purple Diluvial",
+   "data": "2008-04-13",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/feb7b261-90ba-42da-ae13-0af90881dbbf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Armageddon in the Rose Garden, Part II",
+     "duracao": "7:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Purple Diluvial",
+     "duracao": "19:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Babylon the Great Has Fallen",
+     "duracao": "13:24"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "71fc3a1e-195b-34ad-9d50-8a6b61bb8dc4",
+   "titulo": "Views From a Red Train",
+   "data": "2008-04-27",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/1f6bcd15-474d-410c-9454-f0fa094965d5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Carmel Calif",
+     "duracao": "7:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Passing All Signs",
+     "duracao": "6:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Leviathan",
+     "duracao": "7:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Hunter Shot by a Yellow Rabbit",
+     "duracao": "9:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Nutshell Awakening",
+     "duracao": "6:37"
+    },
+    {
+     "n": 6,
+     "titulo": "One Night in Space",
+     "duracao": "6:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Serpent Magique",
+     "duracao": "9:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Lord of the Ants",
+     "duracao": "9:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Fire on the Mountain",
+     "duracao": "7:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Sound of a Shell",
+     "duracao": "6:41"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1b8ee01c-fd65-4e8e-8431-bd26146fd0de",
+   "titulo": "Tangram 2008",
+   "data": "2008-06-20",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/c3bf7359-48d0-4f20-88dd-47fdb6f718af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Episode 1: Wisdom and Tragedy",
+     "duracao": "7:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Episode 2: Dragon in the House",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Episode 3: Wu Wei",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Episode 4: Leaving the Masters for Good",
+     "duracao": "2:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Episode 5: Point of No Return",
+     "duracao": "10:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Episode 6: Dream Puzzle",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Episode 7: Terra Coda",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "263751e3-863f-4292-92c9-8bc8e8fc9918",
+   "titulo": "Hyperborea 2008",
+   "data": "2008-06-20",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/128f48ab-f81d-4bfb-b804-a79a781d4e44/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No Man's Land",
+     "duracao": "9:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Hyperborea",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Hyperborea",
+     "duracao": "4:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Cinnamon Road",
+     "duracao": "3:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Sphinx Lightning",
+     "duracao": "19:12"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63a79a4d-79fb-3b2b-af39-afd37d904400",
+   "titulo": "Autumn in Hiroshima",
+   "data": "2008-10-06",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/0a72dfa3-244b-49c9-bbbb-5fe3fef4e88e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trauma",
+     "duracao": "9:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Reset",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Awareness (1st Teaching)",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Novice (2nd Teaching)",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Strange Voices",
+     "duracao": "1:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Fathom (3rd Teaching)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Oracular World (4th Teaching)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Remembering Ayumi",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Mellow Submersion (5th Teaching)",
+     "duracao": "2:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Answers (6th Teaching)",
+     "duracao": "5:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Touching Truth",
+     "duracao": "1:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Insight (7th Teaching)",
+     "duracao": "5:22"
+    },
+    {
+     "n": 13,
+     "titulo": "Omniscience (8th Teaching)",
+     "duracao": "5:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Nothing and All",
+     "duracao": "2:11"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e2a9d320-a7c6-449f-9811-f8d23785bfc9",
+   "titulo": "Flame",
+   "data": "2009-03-17",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/34a68354-71f8-4479-b5cc-cb08d2ed1231/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Synth Affection",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Pier 54",
+     "duracao": "5:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Lord Nelson",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Ça va – Ça marche – Ça ira encore (orchestral)",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Timeless",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Ride on the Ray (Atlantic Ocean version)",
+     "duracao": "6:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Peddington at Five",
+     "duracao": "7:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Morning Star",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "54dd3cd2-5cf6-499e-b62b-05cc73ca8821",
+   "titulo": "Chandra: The Phantom Ferry, Part I",
+   "data": "2009-06-23",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/019c431b-151e-408d-bd73-c93e8e918d7a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Approaching Greenland at 7 PM",
+     "duracao": "7:48"
+    },
+    {
+     "n": 2,
+     "titulo": "The Moondog Connection",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Screaming of the Dreamless Sleeper",
+     "duracao": "6:56"
+    },
+    {
+     "n": 4,
+     "titulo": "The Unknown Is the Truth",
+     "duracao": "7:31"
+    },
+    {
+     "n": 5,
+     "titulo": "The Dance Without Dancers",
+     "duracao": "5:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Child Lost in Wilderness",
+     "duracao": "7:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Sailor of the Lost Arch",
+     "duracao": "7:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Verses of a Sisong",
+     "duracao": "7:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Silence on a Crawler Lane",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8b9abf62-687f-4bc4-acf1-053668f67a44",
+   "titulo": "Winter in Hiroshima",
+   "data": "2009-08-28",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/f7f3d7ad-3e20-4f43-8f63-beb0fa0f3013/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Transition",
+     "duracao": "7:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Ayumi’s Loom",
+     "duracao": "9:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Outlook",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Togetherness",
+     "duracao": "7:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Echo of Light",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Key Moment",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Insiders",
+     "duracao": "7:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Nexuses",
+     "duracao": "8:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Glowing Vision",
+     "duracao": "8:08"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6c2761d1-63a6-4481-b65e-060527d8408a",
+   "titulo": "Under Cover: Chapter One",
+   "data": "2010-12-10",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/9d84a6cc-feaa-4aa1-bef8-366b5bfbf669/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cry Little Sister",
+     "duracao": "5:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Everybody Hurts",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Precious",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Space Oddity",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "The Model",
+     "duracao": "5:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Wicked Game",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Hotel California",
+     "duracao": "7:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Suzanne",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Heroes",
+     "duracao": "4:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Forever Young",
+     "duracao": "5:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Iris",
+     "duracao": "4:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Norwegian Wood",
+     "duracao": "5:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Hallelujah",
+     "duracao": "6:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Wish You Were Here",
+     "duracao": "6:53"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Under_Cover_%E2%80%93_Chapter_One",
+   "resumo_en": "Under Cover – Chapter One is the 117th release and first and so far only cover album by electronic group Tangerine Dream. It is the group's twenty-eighth major studio album and was released in December 2010. The idea for the album is said to have started in 2008 in Los Angeles. The band was touring in the west coast area at the time, and their promoter jokingly told the band they should cover top 40 hits. It grew into a bet and a full blown concept after careful consideration from the band. Information on the album started to circulate in early autumn, and it was made available for pre-order on the Eastgate Shop website in November. Although appearing on Madcap's Flaming Duty (2007) and appearing on the cover art and performing vocals on this release, vocalist Chris Hausl never became an official member of the group.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9c906b8f-b19d-40a1-a0e4-8dfdfb066c78",
+   "titulo": "The Endless Season",
+   "data": "2010-12-10",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/0186357d-a772-4a47-a97b-fbdde311183c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Flashback",
+     "duracao": "1:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Devotion",
+     "duracao": "9:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Virtue Of Hope",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Escape",
+     "duracao": "6:35"
+    },
+    {
+     "n": 5,
+     "titulo": "The Seven Barriers",
+     "duracao": "8:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Logic of Intuition",
+     "duracao": "6:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Shunyata",
+     "duracao": "6:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Restless Mind",
+     "duracao": "5:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Wild Ocean of Blue Fate",
+     "duracao": "7:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Breaching Sky",
+     "duracao": "4:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Morphing",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "062d8588-2267-4ba4-8b98-f7a0a5520714",
+   "titulo": "Edgar Allan Poe’s The Island of the Fay",
+   "data": "2011-03-20",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/4a3e1c3a-7741-4aa5-a212-5c5c3a65d6c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Marmontel Riding on a Clef",
+     "duracao": "7:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Breath Kissing Matter’s Mouth",
+     "duracao": "8:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Beauty of Magic Antagonism",
+     "duracao": "5:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Fay Bewitching the Moon",
+     "duracao": "11:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Cycle of Eternity",
+     "duracao": "6:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Death in the Shadow",
+     "duracao": "9:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Moment of Floating Into the Light",
+     "duracao": "9:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Darkness Veiling the Night",
+     "duracao": "8:44"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Island_of_the_Fay",
+   "resumo_en": "The Island of the Fay is the 120th release and twenty-ninth main studio album by the electronic group Tangerine Dream. It was first revealed in late February 2011, and was released on March 18. A preview of \"Fay bewitching the Moon\" was released to the members who were part of the Tangerine Dream Online Club (TDOC). This is the first release to feature violinist Hoshiko Yamane as a band member. This album marks the beginning of the band's new \"Sonic Poems\" series.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "52187bcc-c635-40aa-96e2-b1d903e78a07",
+   "titulo": "The Angel of the West Window",
+   "data": "2011-05",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/e6f22292-551f-450b-bc68-601143b00011/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Mysterious Gift to Mankind",
+     "duracao": "10:29"
+    },
+    {
+     "n": 2,
+     "titulo": "The Evening Before Easter",
+     "duracao": "5:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Living in Eternity",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "The Silver Boots of Bartlett Green",
+     "duracao": "7:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Hosanna of the Damned",
+     "duracao": "7:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Dream Phantom of the Common Man",
+     "duracao": "6:37"
+    },
+    {
+     "n": 7,
+     "titulo": "The Strange Idol of Baphomet",
+     "duracao": "6:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Hoël Dhat the Alchemist",
+     "duracao": "7:10"
+    },
+    {
+     "n": 9,
+     "titulo": "The Invisible Seal of the Holy Tribe",
+     "duracao": "9:36"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "79a26622-c53b-47ed-b154-aec70fc0d67b",
+   "titulo": "The Gate of Saturn",
+   "data": "2011-06-01",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/9c2b762f-4275-415d-b059-a6a9cd8ee79b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Gate of Saturn",
+     "duracao": "8:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Logos 2011",
+     "duracao": "6:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Cool at Heart 2011",
+     "duracao": "6:23"
+    },
+    {
+     "n": 4,
+     "titulo": "The End of Bondage",
+     "duracao": "5:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Vernal Rapture",
+     "duracao": "7:22"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "badfc2be-9a18-4ca0-863b-0d1d72750f4f",
+   "titulo": "Mona da Vinci",
+   "data": "2011-08-25",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/29b0d97e-2e92-44ea-a758-49b1b03ff304/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Calumet",
+     "duracao": "8:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Morpheus’ Light",
+     "duracao": "6:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Phantoms and Oracles",
+     "duracao": "6:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Mona da Vinci",
+     "duracao": "7:08"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Storm of Serenity",
+     "duracao": "7:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Hunting for Illusions",
+     "duracao": "4:42"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0b5aa03c-9f21-455c-a261-db9df1333317",
+   "titulo": "James Joyce: Finnegans Wake",
+   "data": "2011-12-06",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/abebfa60-37ae-4c86-affd-3349b815b7b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Sensational Fall of the Master Builder",
+     "duracao": "9:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Finnegans Excessive Wake",
+     "duracao": "8:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Resurrection by the Spirit",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Mother of All Sources",
+     "duracao": "8:54"
+    },
+    {
+     "n": 5,
+     "titulo": "The Warring Forces of the Twins",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Three Quarks for Muster Mark",
+     "duracao": "6:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Everling’s Mythical Letter",
+     "duracao": "8:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Hermaphrodite",
+     "duracao": "8:23"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1052b537-8636-411c-8a38-c0de1ae0102b",
+   "titulo": "Machu Picchu",
+   "data": "2012-03-20",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/4d086c8b-d227-4dbe-80cb-dd0bd1a435a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caminos del Inca",
+     "duracao": "10:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Machu Picchu",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Adiós a Cusco",
+     "duracao": "8:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Tayta Inti",
+     "duracao": "7:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Rio Urubamba",
+     "duracao": "5:56"
+    },
+    {
+     "n": 6,
+     "titulo": "La piedra Intihuatana",
+     "duracao": "8:13"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "915f44d9-11a2-4166-ad4b-e715cea24f2a",
+   "titulo": "Cruise to Destiny: Topographic Dreamtime",
+   "data": "2013-05-07",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/86009728-9e9f-4598-945d-633ef51df5f7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Devotion",
+     "duracao": "7:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Betrayal (Sorcerer Theme)",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Three Bikes in the Sky",
+     "duracao": "6:01"
+    },
+    {
+     "n": 4,
+     "titulo": "A Wise Fisherman’s Nocturnal Song",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "The End of Bondage",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Too Hot for My Chinchilla",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Dream Phantom of the Common Man",
+     "duracao": "8:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Sungate",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Hoël Dhat the Alchemist",
+     "duracao": "7:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Cat Scan",
+     "duracao": "5:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Paradise Cove",
+     "duracao": "3:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Dreaming in a Kyoto Train",
+     "duracao": "7:30"
+    },
+    {
+     "n": 13,
+     "titulo": "Moon River",
+     "duracao": "4:54"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "227b5798-11e5-4c9d-931d-3c85a140db45",
+   "titulo": "One Night in Africa",
+   "data": "2013-10-22",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/8d80915b-361b-4a2c-8f10-7ca62513c3c6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bells of Accra",
+     "duracao": "14:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Madagascar",
+     "duracao": "6:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Serpent Magique",
+     "duracao": "9:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Sahara Storm",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Kilimandscharo",
+     "duracao": "9:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Rain Prayer",
+     "duracao": "7:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Sadness of Echnaton Losing the World Child",
+     "duracao": "6:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Twilight in Abidjan",
+     "duracao": "4:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Mombasa (Tuareg remix)",
+     "duracao": "9:43"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e34f5e78-3143-4456-9c92-ad7ac920e4c6",
+   "titulo": "Franz Kafka: The Castle",
+   "data": "2013-12-17",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/0b4f26df-313f-4f06-9be4-6659e2ff8eb7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Approaching Snowy Village",
+     "duracao": "8:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Odd Welcome",
+     "duracao": "6:29"
+    },
+    {
+     "n": 3,
+     "titulo": "The Untouchable Castle",
+     "duracao": "5:51"
+    },
+    {
+     "n": 4,
+     "titulo": "The Apparently Lunatic Hierarchy",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Barnabas the Messenger",
+     "duracao": "7:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Irredeemable Entity",
+     "duracao": "7:51"
+    },
+    {
+     "n": 7,
+     "titulo": "The Implicit Will to Meet Klemm",
+     "duracao": "7:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Desperate Neverending Longing",
+     "duracao": "7:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Surrender and Adaption",
+     "duracao": "7:12"
+    },
+    {
+     "n": 10,
+     "titulo": "A Place of Mercy",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f46f2ae9-be1d-41fc-a47a-d898d8b7491c",
+   "titulo": "The Soldier",
+   "data": "2014",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/676024d0-48d5-434d-b5f9-d05c361a9b21/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Main Titles",
+     "duracao": "2:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Cue #1 – Variation on Logos #1",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Cue #2 – Variation on Horizon #1",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Cue #3 – The Soldier #1",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Cue #4 – Variation on Dolphin Dance",
+     "duracao": "1:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Cue #5 – Variation on Tangent #1",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Cue #6 – The Soldier #2",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Cue #7 – The Soldier #3",
+     "duracao": "1:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Cue #8 – The Soldier #4",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Cue #9 – The Soldier #5",
+     "duracao": "4:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Cue #10 – Variation on Horizon #2",
+     "duracao": "5:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Cue #11 – The Soldier #6",
+     "duracao": "2:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Cue #12 – The Soldier #7",
+     "duracao": "1:42"
+    },
+    {
+     "n": 14,
+     "titulo": "Cue #13 – Variation on Logos #2",
+     "duracao": "2:10"
+    },
+    {
+     "n": 15,
+     "titulo": "Cue #14 – The Soldier #8",
+     "duracao": "7:29"
+    },
+    {
+     "n": 16,
+     "titulo": "Cue #15 – Variation on Horizon #3",
+     "duracao": "7:47"
+    },
+    {
+     "n": 17,
+     "titulo": "End Titles",
+     "duracao": "7:20"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e2e7b6c0-334f-407c-bf00-104e66b66bf8",
+   "titulo": "GTA5: The Cinematographic Score",
+   "data": "2014-03-24",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/4d2760a4-6e99-44d7-ab84-c1301a27640b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Place of Conclusions",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Streets of Fortune",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Mission Possible",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Downtown Los Santos",
+     "duracao": "5:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Blaine County Sunrise",
+     "duracao": "5:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Burning the Bad Seal",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Beyond the Weakest Point",
+     "duracao": "6:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Sadness, Grief and Hope",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Diary of a Robbery",
+     "duracao": "5:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Draw the Last Line Somewhere",
+     "duracao": "6:12"
+    },
+    {
+     "n": 11,
+     "titulo": "The Dangerous Mile",
+     "duracao": "5:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Living on a Razor Edge",
+     "duracao": "5:16"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f6fc4de9-c800-43fd-849c-5b53b4bfa143",
+   "titulo": "Chandra: The Phantom Ferry, Part II",
+   "data": "2014-04-08",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/a36bab92-98e1-4552-96a1-00beef079eb3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "3 Rotcaf Neila",
+     "duracao": "8:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Aldebaran",
+     "duracao": "6:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Dnummoc Su",
+     "duracao": "5:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Capricornus",
+     "duracao": "9:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Apus",
+     "duracao": "5:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Auriga",
+     "duracao": "8:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Columba",
+     "duracao": "8:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Cygnus",
+     "duracao": "5:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Centaurus",
+     "duracao": "8:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Monocerus",
+     "duracao": "8:36"
+    }
+   ],
+   "duracao_min": 76,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3aa4ec8f-81d6-496e-b19f-003cf97ca213",
+   "titulo": "Mala Kunia",
+   "data": "2014-11-17",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/239d2025-d2de-4340-aae6-76df05655778/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shadow and Sun",
+     "duracao": "7:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Madagaskunia",
+     "duracao": "6:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Madagasmala",
+     "duracao": "7:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Beyond Uluru",
+     "duracao": "7:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Vision of the Blue Birds",
+     "duracao": "8:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Snake Men’s Dance at Dawn",
+     "duracao": "5:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Power of the Rainbow Serpent",
+     "duracao": "8:03"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "media": 10.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mala_Kunia",
+   "resumo_en": "Mala Kunia (2014) is a mini-album and roughly the 140th release by electronic music group Tangerine Dream. Violinist Hoshiko Yamane is not credited on this release.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fadb4b31-523e-4025-b01b-2738f715a074",
+   "titulo": "Quantum Gate",
+   "data": "2017-09-29",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/c682d968-9c23-4ab9-b39f-76f68df4ce3b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sensing Elements",
+     "duracao": "13:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Roll the Seven Twice",
+     "duracao": "6:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Granular Blankets",
+     "duracao": "5:03"
+    },
+    {
+     "n": 4,
+     "titulo": "It Is Time to Leave When Everyone Is Dancing",
+     "duracao": "6:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Identity Proven Matrix",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Non‐Locality Destination",
+     "duracao": "9:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Proton Bonfire",
+     "duracao": "8:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Tear Down the Grey Skies",
+     "duracao": "6:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Genesis of Precious Thoughts",
+     "duracao": "9:10"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Quantum_Gate_%28album%29",
+   "resumo_en": "Quantum Gate is the 150th release and 30th main studio album by Tangerine Dream, released on 29 September 2017. It is the first full-length album since the death of founder Edgar Froese in 2015, and is largely based on ideas and musical sketches left by Froese. The album was preceded by and is companion to the 2015 mini-album Quantum Key.\nThe album earned the group the most press they had had since the release of 1988's Optical Race due to the revived interest in the group following Froese's death.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "704ed1dc-ec9e-4dbe-b5e5-9fea5c22a7aa",
+   "titulo": "Light Flux",
+   "data": "2017-10-27",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/3e298f13-9bbb-46b9-bc60-a77ac2a6d53e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Green Summer Clouds",
+     "duracao": "17:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Meteor",
+     "duracao": "6:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Tyger 2013",
+     "duracao": "6:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Reaching Ravenna",
+     "duracao": "15:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Nemesis",
+     "duracao": "9:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Logos 2014",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1b4e239d-1eff-47fa-b53a-efad96b56993",
+   "titulo": "Oedipus Tyrannus",
+   "data": "2019-06-14",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/10154f1d-75c7-466f-9e23-e81ccc99ae74/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overture",
+     "duracao": "11:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Act 1",
+     "duracao": "16:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Act 2: Battle",
+     "duracao": "10:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Act 2: Baroque",
+     "duracao": "8:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Act 2: Zeus",
+     "duracao": "5:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Act 3",
+     "duracao": "22:09"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": "0Xcb5Nz1mDDdNxlxfMpSJH",
+   "youtube": null
+  },
+  {
+   "id": "d02eb1ba-00a1-4dcf-bef2-89424943cae8",
+   "titulo": "Recurring Dreams",
+   "data": "2019-12-10",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/0feed1b6-2499-494d-b7bc-41380f3996fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sequent C’ 2019",
+     "duracao": "2:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Monolight (Yellow part) 2019",
+     "duracao": "7:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Tangram 2019 (excerpt)",
+     "duracao": "5:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Horizon 2019, Part 1",
+     "duracao": "6:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Horizon 2019, Part 2",
+     "duracao": "7:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Phaedra 2014",
+     "duracao": "8:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Los Santos City Map",
+     "duracao": "7:26"
+    },
+    {
+     "n": 8,
+     "titulo": "The Claymore Mine / Stalking",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Yellowstone Park 2019",
+     "duracao": "6:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Stratosfear 2019",
+     "duracao": "11:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Der Mond ist aufgegangen, Part 1 & Part 2",
+     "duracao": "9:07"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "064d4431-fe1d-4a79-a32a-f1ef15f1c137",
+   "titulo": "Raum",
+   "data": "2022-02-25",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/213cac4d-c23c-40ce-a93e-ee587fe1c59d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In 256 Zeichen",
+     "duracao": "19:10"
+    },
+    {
+     "n": 2,
+     "titulo": "You’re Always on Time",
+     "duracao": "8:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Along the Canal",
+     "duracao": "5:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Continuum",
+     "duracao": "7:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Portico",
+     "duracao": "6:44"
+    },
+    {
+     "n": 6,
+     "titulo": "What You Should Know About Endings",
+     "duracao": "6:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Raum",
+     "duracao": "14:54"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 78,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Raum_%28album%29",
+   "resumo_en": "Raum ([ʁaʊ̯m], \"space, room\") is a studio album by Tangerine Dream, released on 25 February 2022 through Kscope. It topped the UK Dance Albums Chart. It received generally favorable reviews from critics.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f1f71434-ab0f-4fba-968b-b7696cb49f68",
+   "titulo": "Strange Behavior: Original Soundtrack",
+   "data": "2022-04-01",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/6722c0be-7a90-4ca9-98ec-0385ffa9cb37/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Opening Credit / Murder in the Kitchen",
+     "duracao": "2:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Tension in the Classroom",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Laboratory Theme",
+     "duracao": "2:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Romance Theme",
+     "duracao": "1:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Horror in the Bathroom",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Experiments in Tension",
+     "duracao": "4:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Tension in the Graveyard",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Dad's Story",
+     "duracao": "5:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Pete Goes in for the Kill",
+     "duracao": "1:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Tension in the Laboratory",
+     "duracao": "1:20"
+    },
+    {
+     "n": 11,
+     "titulo": "More Tension in the Laboratory",
+     "duracao": "2:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Kill the Professor / Cleaning Up",
+     "duracao": "1:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Wedding Theme",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

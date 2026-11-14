@@ -1,0 +1,825 @@
+{
+ "id": "van-der-graaf-generator",
+ "nome": "Van der Graaf Generator",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "b892f72d-05e2-4ff7-b863-3d5dec6331fd",
+ "wikidata": "Q752170",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "1978",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "art rock",
+  "classic rock",
+  "experimental rock",
+  "progressive"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Van_der_Graaf_Generator.jpg/500px-Van_der_Graaf_Generator.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Van_der_Graaf_Generator",
+ "resumo_pt": "Van der Graaf Generator é uma banda britânica seminal de rock progressivo formada em 1967.\nO nome da banda foi inspirado no equipamento elétrico Gerador de Van de Graaff, projetado para produzir energia estática. Supõe-se que o erro de ortografia no nome – tem um \"r\" a mais e um \"f\" a menos – tenha sido acidental.",
+ "resumo_en": "Van der Graaf Generator are an English progressive rock band, formed in 1967 in Manchester by singer-songwriters Peter Hammill and Chris Judge Smith. They were the first act signed by Charisma Records. They did not experience much commercial success in the UK, but became popular in Italy during the 1970s. In 2005 the band reformed, and are still musically active with a line-up of Hammill, organist Hugh Banton and drummer Guy Evans.\nThe band formed at the University of Manchester, but settled in London where they signed with Charisma. They went through several incarnations in their early years, including a brief split in 1969. When they reformed, they found minor commercial success with The Least We Can Do Is Wave to Each Other (released in early 1970; their only album to chart in the UK), and after the follow-up album, H to He, Who Am the Only One (December 1970), stabilised around a line-up of Hammill, Banton, Evans and saxophonist David Jackson. The quartet subsequently achieved significant success in Italy with the release of Pawn Hearts in 1971. After several exhausting tours of Italy, the band split in 1972. They reformed in 1975, releasing Godbluff and frequently touring Italy again, before a major line-up change and a slight rename to Van der Graaf. The band split in 1978. After many years apart, the band finally reunited at a gig at the Royal Festival Hall and a short tour in 2005. Since then, the band has continued as a trio of Hammill, Banton, and Evans, who record ",
+ "albuns": [
+  {
+   "id": "e220a661-fbb5-3f09-9fb2-9f7377471d2a",
+   "titulo": "The Aerosol Grey Machine",
+   "data": "1969-09",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/f2fbfbf6-bd89-46fc-bbfb-e319eed63d8d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Afterwards",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Orthenthian St. Part I",
+     "duracao": "2:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Orthenthian St. Part II",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Running Back",
+     "duracao": "6:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Into a Game",
+     "duracao": "6:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Aerosol Grey Machine",
+     "duracao": "0:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Black Smoke Yen",
+     "duracao": "1:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Aquarian",
+     "duracao": "8:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Necromancer",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Octopus",
+     "duracao": "7:41"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6.9,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Aerosol_Grey_Machine",
+   "resumo_en": "The Aerosol Grey Machine is the debut studio album by English progressive rock band Van der Graaf Generator. It was first released in the United States in 1969 by Mercury Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "782fdc0d-f1a7-3e6b-bd91-11eba2a2e4cb",
+   "titulo": "The Least We Can Do Is Wave to Each Other",
+   "data": "1970-02",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/1603fb9a-abf2-4b45-9b65-99e8d6c75f88/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Darkness (11/11)",
+     "duracao": "7:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Refugees",
+     "duracao": "6:25"
+    },
+    {
+     "n": 3,
+     "titulo": "White Hammer",
+     "duracao": "8:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Whatever Would Robert Have Said?",
+     "duracao": "6:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Out Of My Book",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "After The Flood",
+     "duracao": "11:36"
+    },
+    {
+     "n": 7,
+     "titulo": "The Boat Of Millions Of Years",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Refugees (single version)",
+     "duracao": "5:18"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Least_We_Can_Do_Is_Wave_to_Each_Other",
+   "resumo_en": "The Least We Can Do Is Wave to Each Other is the second album by the British progressive rock band Van der Graaf Generator, released in February 1970 on Charisma Records. It was the group's first album to be released in the UK and their only one to chart in the top 50 in that country.\nThe songs on the album were mostly composed by group leader Peter Hammill but arranged and rehearsed by the whole band. The lyrics covered a variety of themes including relationships with friends, witchcraft and apocalyptic catastrophes, while the music ranged from ballads such as \"Refugees\" to unusual and aggressive playing on \"White Hammer\" and \"After the Flood\". In addition to having brief commercial success, the album was well received by critics and continues to be praised.",
+   "spotify": "5GuP6isw4DZpsTaucdWkC5",
+   "youtube": null
+  },
+  {
+   "id": "0a306df1-cd51-3342-8fc8-27aa53e6a6e8",
+   "titulo": "H to He, Who Am the Only One",
+   "data": "1970-12",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/2a5eb1e0-ab95-48a6-b6cc-a0ee9c599d49/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Killer",
+     "duracao": "8:07"
+    },
+    {
+     "n": 2,
+     "titulo": "House With No Door",
+     "duracao": "6:03"
+    },
+    {
+     "n": 3,
+     "titulo": "The Emperor in His War Room",
+     "duracao": "9:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Lost",
+     "duracao": "11:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Pioneers Over C",
+     "duracao": "12:25"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 9.1,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/H_to_He%2C_Who_Am_the_Only_One",
+   "resumo_en": "H to He, Who Am the Only One is the third album by the British progressive rock band Van der Graaf Generator. It was released in December 1970 on Charisma Records.\nThe band recorded the album in several stages throughout mid-1970 in Trident Studios with producer John Anthony. The songs' lyrics refer to a killer shark in \"Killer\", isolation and loneliness in \"House With No Door\", lost love in \"Lost\" and science fiction material in \"Pioneers Over c\". Bassist Nic Potter left the group in August partway through recording, with organist Hugh Banton covering on bass guitar in the studio and playing bass pedals in concert. King Crimson's Robert Fripp made a guest appearance on guitar, and the cover was the first of several by the band to feature the artwork of Paul Whitehead.\nThe album did not chart in the UK, and contemporary reviews were mixed, but it has since been regarded as a good example of progressive rock albums by critics. \"Killer\" has been singled out for praise as a fan favourite.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d5afa3d7-a3b6-3b95-a812-8416dd292b9b",
+   "titulo": "Pawn Hearts",
+   "data": "1971-10",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/0a0bb76e-cf9a-4660-9c0b-be544b0969ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lemmings (Including Cog)",
+     "duracao": "11:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Man-Erg",
+     "duracao": "10:21"
+    },
+    {
+     "n": 3,
+     "titulo": "A Plague of Lighthouse Keepers: A) Eyewitness - B) Pictures/Lighthouse - C) Eyewitness - D) S.H.M. - E) Presence of the Light - F) Kosmos Tours - G) (Custard's) Last Stand - H) The Clot Thickens - I) Lands End (Sineline) - J) We Go Now",
+     "duracao": "23:05"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 9.6,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pawn_Hearts",
+   "resumo_en": "Pawn Hearts is the fourth album by English progressive rock band Van der Graaf Generator, released on 12 November 1971 on Charisma Records. The original album features just three tracks, including the side-long suite \"A Plague of Lighthouse Keepers\". The album was not commercially successful in the UK, but reached number one in Italy. It has since seen retrospective critical praise and was reissued on CD in 2005 with extra material.\nThe songs for the album were worked out while on tour in 1971, with further development and arranging at manager Tony Stratton Smith's house in Crowborough, Sussex over a two-month period. The original plan had been to release more material, making up a double album, but Charisma vetoed the idea. A non-album single, \"Theme One\" was included on some releases in the US and Canada. The album's strong commercial showing in Italy resulted in a number of lucrative promotional tours there, but the resulting pressure led to the band's split in August 1972.\nThe album's title came from a spoonerism by Jackson, who once said, \"I'll go down to the studio and dub on some more porn harts\", meaning \"horn parts\".",
+   "spotify": "5Lrsef2F6ZHNC5yIUEJouw",
+   "youtube": "OLAK5uy_kOWdkl7AREpLB5vkYkhbv94GHycru9xHY"
+  },
+  {
+   "id": "ba2d7560-534b-32f2-902b-27ca534df345",
+   "titulo": "Godbluff",
+   "data": "1975-10",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/e335918e-56c8-4d5d-a242-d493ce0d5b40/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Undercover Man",
+     "duracao": "7:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Scorched Earth",
+     "duracao": "9:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Arrow",
+     "duracao": "9:45"
+    },
+    {
+     "n": 4,
+     "titulo": "The Sleepwalkers",
+     "duracao": "10:31"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Godbluff",
+   "resumo_en": "Godbluff is the fifth album released by English progressive rock band Van der Graaf Generator, released in October 1975 via Charisma-Mercury. It was the first album after the band reformed in 1975 and was recorded after a European tour.\nAs the first self-produced album by the band, it featured a tighter, more pared-down sound than the band's earlier recordings with producer John Anthony. Hammill said \"we did not want to make 'Son of Pawn Hearts' with a big long side two and lots of studio experiments\". Van der Graaf Generator would never work with an outside producer from this point forward. Hammill made extensive use of the Hohner Clavinet D6 keyboard, which he had first started using on his previous solo album, Nadir's Big Chance (1975).\nThe first release of the record in the United States was on Mercury Records. The 2005 reissue added live performances by the band of two songs from Peter Hammill's album The Silent Corner and the Empty Stage (1974), recorded at a concert at L'Altro Mondo, Rimini, Italy.",
+   "spotify": "4irlewoGTUPndEinKcavLF",
+   "youtube": null
+  },
+  {
+   "id": "6f8fa63e-67e7-3b29-8242-db18704429cd",
+   "titulo": "Still Life",
+   "data": "1976-04",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/90fc7602-e861-4a51-bb6e-58bd6dbb4266/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pilgrims",
+     "duracao": "7:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Still Life",
+     "duracao": "7:24"
+    },
+    {
+     "n": 3,
+     "titulo": "La Rossa",
+     "duracao": "9:52"
+    },
+    {
+     "n": 4,
+     "titulo": "My Room (Waiting for Wonderland)",
+     "duracao": "8:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Childlike Faith in Childhood's End",
+     "duracao": "12:24"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8.7,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Still_Life_%28Van_der_Graaf_Generator_album%29",
+   "resumo_en": "Still Life is the sixth album by English progressive rock band Van der Graaf Generator, originally released in April 1976. It was their second album after reforming in 1975, the first being Godbluff. One live bonus track was added for the 2005 re-mastered re-release. A new remaster, along with new Stereo and 5.1 surround sound remixes by Stephen W Tayler, was released on 3 September 2021.",
+   "spotify": "2FJaS5kootX9CkS4DxL2eW",
+   "youtube": null
+  },
+  {
+   "id": "78807746-55c6-3437-835b-a1ae4bd001d5",
+   "titulo": "World Record",
+   "data": "1976-10",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/dc3d8610-4602-49aa-bb52-f858fbcca2bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When She Comes",
+     "duracao": "7:58"
+    },
+    {
+     "n": 2,
+     "titulo": "A Place to Survive",
+     "duracao": "10:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Masks",
+     "duracao": "6:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Meurglys III (The Songwriter's Guild)",
+     "duracao": "20:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Wondering",
+     "duracao": "6:33"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.6,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/World_Record_%28Van_der_Graaf_Generator_album%29",
+   "resumo_en": "World Record is the seventh studio album by the British progressive rock group Van der Graaf Generator, originally released in 1976 on Charisma Records. Bonus tracks were added for the 2005 rerelease.\nIt was the last album recorded by the classic line-up of the band until their 2005 reunion: Hugh Banton and David Jackson departed in December 1976 and January 1977 respectively. Banton's departure was a result of financial troubles and his then-recent marriage, but he stayed to finish touring commitments. Jackson continued with Peter Hammill and Guy Evans to rehearse with the new line-up in January 1977, which featured returning bassist Nic Potter and newcomer violinist Graham Smith (of Scottish folk-rock act String Driven Thing), but left shortly after the band started rehearsing, just before the next tour.",
+   "spotify": "0HMm3deXWcJe9ugagZnrul",
+   "youtube": null
+  },
+  {
+   "id": "4bb9cda8-0742-30ff-ae73-955c6860fc25",
+   "titulo": "The Quiet Zone / The Pleasure Dome",
+   "data": "1977-09-02",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/1bfad12c-e16e-49a8-844f-643cb46de45c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lizard Play",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "The Habit of the Broken Heart",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "The Siren Song",
+     "duracao": "6:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Last Frame",
+     "duracao": "6:12"
+    },
+    {
+     "n": 5,
+     "titulo": "The Wave",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Cat's Eye / Yellow Fever (Running)",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "The Sphinx in the Face",
+     "duracao": "5:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Chemical World",
+     "duracao": "6:11"
+    },
+    {
+     "n": 9,
+     "titulo": "The Sphinx Returns",
+     "duracao": "1:17"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Quiet_Zone/The_Pleasure_Dome",
+   "resumo_en": "The Quiet Zone/The Pleasure Dome is the eighth album by British progressive rock band Van der Graaf Generator. Released in 1977, it was their last studio album before their 2005 reunion. The album features a more energetic, new wave sound than its three immediate predecessors, anticipating singer and songwriter Peter Hammill's late 1970s solo work.\nFor this album, bassist Nic Potter returned to the band, having left in 1970, and violinist Graham Smith (String Driven Thing) also joined the line-up, in place of the two members who had departed in the aftermath of their previous album, World Record (October 1976): organist Hugh Banton and saxophonist/flutist David Jackson. This considerably modified the band's sound. Officially, the band's name was shortened to just \"Van der Graaf\" for this album and the live album, Vital (July 1978), that followed, but contemporaneous Charisma Records promotional materials used both the full and shortened name.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1c03caac-db4d-324a-80e0-7ad08b4cdab1",
+   "titulo": "Present",
+   "data": "2005-04-25",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/0face621-fbd4-45cd-87d0-fbafafe61868/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Every Bloody Emperor",
+     "duracao": "7:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Boleas Panic",
+     "duracao": "6:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Nutter Alert",
+     "duracao": "6:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Abandon Ship!",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "In Babelsberg",
+     "duracao": "5:30"
+    },
+    {
+     "n": 6,
+     "titulo": "On the Beach",
+     "duracao": "6:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Vulcan Meld",
+     "duracao": "7:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Double Bass",
+     "duracao": "6:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Slo Moves",
+     "duracao": "6:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Architectural Hair",
+     "duracao": "8:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Spanner",
+     "duracao": "5:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Crux",
+     "duracao": "5:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Manuelle",
+     "duracao": "7:51"
+    },
+    {
+     "n": 14,
+     "titulo": "’Eavy Mate",
+     "duracao": "3:50"
+    },
+    {
+     "n": 15,
+     "titulo": "Homage to Teo",
+     "duracao": "4:45"
+    },
+    {
+     "n": 16,
+     "titulo": "The Price of Admission",
+     "duracao": "8:49"
+    }
+   ],
+   "duracao_min": 103,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Present_%28Van_der_Graaf_Generator_album%29",
+   "resumo_en": "Present is the ninth studio album by British progressive rock band Van der Graaf Generator, released in 2005.  It was the band's first studio album since The Quiet Zone/The Pleasure Dome in 1977, and the first with the 'classic' line-up since World Record in 1976. The Charisma Records label was re-activated for its release, as well as a re-issue series of Van der Graaf Generator's catalogue and Peter Hammill's solo releases from 1972 to 1986.\nFor many years the band's lead singer and principal songwriter Peter Hammill had rejected the idea of a VdGG re-union, but in 2004 (following two unannounced re-unions at Hammill concerts), work began on an official re-union album.  Present was the result.  It consists of one disc of compositions (five songs plus an instrumental, \"Boleas Panic\"), and one disc of studio improvisations.  The band had always improvised in the studio throughout their history, but never before (except for the bootleg-quality Time Vaults), had any of these improvisations been officially released.\nIn 2005, the band embarked on a successful re-union tour.  Only two songs from Present were played on the tour, \"Every Bloody Emperor\" and \"Nutter Alert\".",
+   "spotify": "53FDBLUHExEXpd0D0sqYRv",
+   "youtube": null
+  },
+  {
+   "id": "9c81bd0b-939f-3b73-9b66-c152521762a3",
+   "titulo": "Trisector",
+   "data": "2008-03-17",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/b16f1b05-2e19-495b-80f0-17f7e11a0f0f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Hurlyburly",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Interference Patterns",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "The Final Reel",
+     "duracao": "5:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Lifetime",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Drop Dead",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Only in a Whisper",
+     "duracao": "6:44"
+    },
+    {
+     "n": 7,
+     "titulo": "All That Before",
+     "duracao": "6:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Over the Hill",
+     "duracao": "12:29"
+    },
+    {
+     "n": 9,
+     "titulo": "(We Are) Not Here",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trisector",
+   "resumo_en": "Trisector is the tenth studio album by the British rock group Van der Graaf Generator. It was released on Virgin/EMI Records in March 2008. It is the first album the band has recorded as a trio. Saxophonist David Jackson departed the band following the 2005 tour.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "87fca477-b2c0-4334-abb7-552adfc6ca90",
+   "titulo": "A Grounding in Numbers",
+   "data": "2011-03-14",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/9fc4ef0a-51f5-48ad-a4ab-d591b592be7a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Your Time Starts Now",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Mathematics",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Highly Strung",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Red Baron",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Bunshō",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Snake Oil",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Splink",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Embarrassing Kid",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Medusa",
+     "duracao": "2:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Mr. Sands",
+     "duracao": "5:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Smoke",
+     "duracao": "2:29"
+    },
+    {
+     "n": 12,
+     "titulo": "5533",
+     "duracao": "2:42"
+    },
+    {
+     "n": 13,
+     "titulo": "All Over the Place",
+     "duracao": "6:03"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Grounding_in_Numbers",
+   "resumo_en": "A Grounding in Numbers is the eleventh studio album by the British rock group Van der Graaf Generator. Released on 14 March 2011, the date, if written as 3,14, comprises the first three digits of the number π. The second track, \"Mathematics\" refers to Euler's identity, sometimes known as the mathematical poem. The album's release signals a continuation in the direction set by the current trio lineup, but it is released on a new label, Esoteric Recordings, a departure from previous releases on Virgin/Charisma. Hugh Padgham is the mixer of the album.",
+   "spotify": "79CiLtVmOGu3Dhd39Mzme1",
+   "youtube": null
+  },
+  {
+   "id": "f3830d05-4ba9-4c7d-9ba2-0a9c6d21c380",
+   "titulo": "Alt",
+   "data": "2012-06-25",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/4610e6f6-c5e7-4d12-bffe-bafb061441d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Earlybird",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Extractus",
+     "duracao": "1:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Sackbutt",
+     "duracao": "1:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Colossus",
+     "duracao": "6:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Batty Loop",
+     "duracao": "1:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Splendid",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Repeat After Me",
+     "duracao": "7:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Elsewhere",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Here's One I Made Earlier",
+     "duracao": "5:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Midnite or So",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "D'Accord",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Mackerel Ate Them",
+     "duracao": "4:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Tuesday, the Riff",
+     "duracao": "2:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Dronus",
+     "duracao": "10:37"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/ALT_%28album%29",
+   "resumo_en": "ALT is the twelfth studio album by English progressive rock band Van der Graaf Generator. It was released 25 June 2012. There are only instrumental songs on the album.\nThe opening track \"Earlybird\" has inspired the Earlybird Project (2014-2015), a non-profit environmental art project, an appeal for the preservation of the world. This project is the result of the collaboration between the Italian-Russian artist Vladislav Shabalin, who works with fossils, and Van der Graaf Generator.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "37e58091-0bb4-4245-8531-c855f15010fe",
+   "titulo": "Do Not Disturb",
+   "data": "2016-09-30",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/a32155a7-9547-4302-b89f-c1741e9422f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Aloft",
+     "duracao": "7:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Brought to Book",
+     "duracao": "7:57"
+    },
+    {
+     "n": 3,
+     "titulo": "(Oh No! I Must Have Said) Yes",
+     "duracao": "7:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Alfa Berlina",
+     "duracao": "6:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Room 1210",
+     "duracao": "6:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Almost the Words",
+     "duracao": "7:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Go",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Do_Not_Disturb_%28Van_der_Graaf_Generator_album%29",
+   "resumo_en": "Do Not Disturb is the thirteenth studio album by British progressive rock band Van der Graaf Generator. It was released, on Esoteric Recordings, on 30 September 2016.",
+   "spotify": "01LFb74Y88Genbyf7myvTD",
+   "youtube": "OLAK5uy_nkBG9oT4mAC4wjtgml3cbqQ3EVCaMpoTg"
+  }
+ ]
+}

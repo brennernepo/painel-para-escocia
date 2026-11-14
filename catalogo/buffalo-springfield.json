@@ -1,0 +1,250 @@
+{
+ "id": "buffalo-springfield",
+ "nome": "Buffalo Springfield",
+ "cena": "Descobertas do acervo",
+ "mbid": "22dc19af-d085-4c9b-adfb-22ec256251f1",
+ "wikidata": "Q48992",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1966",
+ "fim": "1968",
+ "ativa": false,
+ "generos": [
+  "folk rock",
+  "rock",
+  "country rock",
+  "psychedelic rock",
+  "psychedelic folk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Buffalo_Springfield_in_1966.png/500px-Buffalo_Springfield_in_1966.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Buffalo_Springfield",
+ "resumo_pt": "Buffalo Springfield foi uma banda norte-americana de folk rock de vida curta e de grande influência, que serviu de plataforma de lançamento para as carreiras de Neil Young, Stephen Stills, Richie Furay e Jim Messina. Após sua formação, em abril de 1966, uma série de interrupções devido a pressões do mundo de negócio musical e brigas internas, deu como resultado trocas contínuas na formação da banda, e finalmente culminou na dissolução da banda depois de apenas 25 meses juntos.",
+ "resumo_en": "Buffalo Springfield was a Canadian-American rock band formed in Los Angeles in 1966 by Canadians Neil Young, Bruce Palmer, and Dewey Martin and Americans Stephen Stills and Richie Furay. The group, widely known for the song \"For What It's Worth\", released three albums and several singles from 1966 to 1968. Their music combined elements of folk music and country music with influences from the British Invasion and psychedelic rock. Like the contemporary band the Byrds, they were key to the early development of folk rock. The band took their name from a steamroller parked outside their house.\nBuffalo Springfield formed in Los Angeles in 1966 with Stills (guitar, keyboards, vocals), Martin (drums, vocals), Palmer (bass guitar), Furay (guitar, vocals), and Young (guitar, harmonica, piano, vocals). The band signed to Atlantic Records in 1966 and released their debut single \"Nowadays Clancy Can't Even Sing\", which became a hit in Los Angeles. The following January, they released the protest song \"For What It's Worth\", which became their only US top-10 hit and a counterculture anthem. Their second album, Buffalo Springfield Again, marked their progression to psychedelia and hard rock and featured songs such as \"Bluebird\" and \"Mr. Soul\".\nAfter Palmer was arrested multiple times and deported, engineer Jim Messina joined the group on bass in 1968, but the group disbanded shortly thereafter. Their third and final album, Last Time Around, was compiled and released shortly after their diss",
+ "albuns": [
+  {
+   "id": "045b64e4-2bec-3b56-a94c-7a892a5f47c2",
+   "titulo": "Buffalo Springfield",
+   "data": "1966-12-05",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/51feb1ff-3fec-41cc-803e-26fcb96e60e6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Go and Say Goodbye",
+     "duracao": "2:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Sit Down I Think I Love You",
+     "duracao": "2:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Leave",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Nowadays Clancy Can’t Even Sing",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Hot Dusty Roads",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Everybody’s Wrong",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Flying on the Ground Is Wrong",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Burned",
+     "duracao": "2:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Do I Have to Come Right Out and Say It",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Baby Don’t Scold Me",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Out of My Mind",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Pay the Price",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Springfield_%28album%29",
+   "resumo_en": "Buffalo Springfield is the debut album by the Canadian-American folk-rock band Buffalo Springfield. Released by Atco Records around November 1966, the songs on the album were written by the band members Stephen Stills and Neil Young and produced by Charles Greene and Brian Stone. The tracks were recorded by July 18 to September 11, 1966, in Gold Star Studios and CBS Columbia Square, based in Hollywood, Los Angeles.\nTwo singles were originally released for the album: \"Nowadays Clancy Can't Even Sing\" (backed with \"Go and Say Goodbye\") and \"Burned\" (backed with \"Everybody's Wrong\"). Most subsequent pressings of the album from March 1967 onward replaced the track \"Baby Don't Scold Me\" with the standalone single \"For What It's Worth\", which was ascending the US charts at the time. The single (backed with \"Do I Have to Come Right Out and Say It?\") eventually peaked at number 7 on the Hot 100, while the album reached number 80 on the Billboard Top Pop Albums chart.",
+   "spotify": "3PkdGRruLnJ9zCtANiDrpB",
+   "youtube": null
+  },
+  {
+   "id": "28768f4d-dd43-382d-a56f-79ddfa6597a9",
+   "titulo": "Buffalo Springfield Again",
+   "data": "1967-10-30",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/1fdb7e0d-e6a4-4cc9-b7d6-8d1666a01f09/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mr. Soul",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "A Child’s Claim to Fame",
+     "duracao": "2:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Everydays",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Expecting to Fly",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Bluebird",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Hung Upside Down",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Sad Memory",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Good Time Boy",
+     "duracao": "2:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock & Roll Woman",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Broken Arrow",
+     "duracao": "6:13"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Springfield_Again",
+   "resumo_en": "Buffalo Springfield Again is the second album by Buffalo Springfield, released on Atco Records in October 1967. The album features some of the group's best-known songs, including \"Mr. Soul\", \"Bluebird\", \"Expecting to Fly\" and \"Rock & Roll Woman\", all of which were released as singles. In contrast to the band's hastily made debut album, recording for Again took place over a protracted nine-month span and was fraught with dysfunction, with each member eventually producing his own material largely independent of one another.\nThe album was a moderate commercial success, peaking at number 44 on the Billboard Top LPs chart, and came to be regarded by many rock critics as a classic of the psychedelic era. In 2003, the album was ranked number 188 on Rolling Stone magazine's list of the 500 greatest albums of all time, maintaining the rating in a 2012 revised list. The album was included in Robert Christgau's \"Basic Record Library\" of 1950s and 1960s recordings—published in Christgau's Record Guide: Rock Albums of the Seventies (1981)—and in Robert Dimery's 1001 Albums You Must Hear Before You Die.  It was voted number 165 in Colin Larkin's All Time Top 1000 Albums in 2000.",
+   "spotify": "7hez8jibf36E66GHpFkWz7",
+   "youtube": null
+  },
+  {
+   "id": "fb39d4c7-d68c-36d1-a2c2-93fc7ccbdcc8",
+   "titulo": "Last Time Around",
+   "data": "1968-07-30",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/0a5204a5-76ad-4f89-a283-1a3557c1dc77/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "On the Way Home",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s So Hard to Wait",
+     "duracao": "2:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Pretty Girl Why",
+     "duracao": "2:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Four Days Gone",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Carefree Country Day",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Special Care",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "The Hour of Not Quite Rain",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Questions",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "I Am a Child",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Merry‐Go‐Round",
+     "duracao": "2:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Uno mundo",
+     "duracao": "2:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Kind Woman",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Last_Time_Around",
+   "resumo_en": "Last Time Around is the third and final studio album by the Canadian-American folk rock band Buffalo Springfield, released in July 1968. The line-up at the time officially consisted of Neil Young, Stephen Stills, Richie Furay, Dewey Martin, Bruce Palmer, and Jim Messina, though the band itself had essentially broken up and the album was put together from scattered recording sessions between November 1967 and March 1968, with \"Pretty Girl Why\" stemming from the early 1967 sessions for the unreleased Stampede.  Jim Messina acted as the album producer and mixing engineer, with input from Furay, as the two compiled the record to fulfil the band's last contractual obligation to its label.  A number of guest musicians (some uncredited) appeared on the album, notably pedal steel guitar player Rusty Young.  \nBy the time this album was released, the members were already involved in their next projects: Richie Furay, Jim Messina, and Rusty Young were busy forming the country-rock band Poco, Stephen Stills was forming Crosby, Stills & Nash, and Neil Young was about to record his first solo album.  Dewey Martin tried to revive the Buffalo Springfield name with new members, but was sued by Stil",
+   "spotify": "00MudAJNGTxCUkQrtRz2hY",
+   "youtube": null
+  }
+ ]
+}

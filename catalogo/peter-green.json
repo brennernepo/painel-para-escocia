@@ -1,0 +1,407 @@
+{
+ "id": "peter-green",
+ "nome": "Peter Green",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "9a6adb63-10a9-417a-8cd9-3b0fcf5475c5",
+ "wikidata": "Q315408",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1946",
+ "fim": "2020",
+ "ativa": false,
+ "generos": [
+  "blues",
+  "blues rock",
+  "electric blues",
+  "pop rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Peter-Green.jpg/500px-Peter-Green.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Peter_Green",
+ "resumo_pt": "Peter Green, nascido Peter Allen Greenbaum (Bethnal Green, 29 de outubro de 1946 – 25 de julho de 2020), foi um cantor, compositor e guitarrista de blues rock britânico. Como co-fundador da banda Fleetwood Mac, foi introduzido no Rock and Roll Hall of Fame em 1998. As músicas de Green, como \"Albatross\", \"Black Magic Woman\", \"Oh Well\", \"The Green Manalishi (With the Two Prong Crown)\" e \"Man of the World\", apareceram nas paradas de singles, e várias foram adaptadas por uma variedade de músicos.\nFoi uma figura importante na \"segunda grande época\" do movimento blues britânico. B.B. King comentou: \"Ele tem o tom mais doce que eu já ouvi; foi o único que me fez suar frio\". Eric Clapton elogiou o seu estilo como guitarrista. Ficou conhecido pelo uso de flexões de cordas, vibrato e economia de estilo.\nA revista Rolling Stone classificou Green em número 58 na sua lista dos \"100 Maiores Guitarristas de Todos os Tempos\". Seu tom no instrumental \"The Supernatural\" foi classificado como um dos 50 maiores de todos os tempos pela Guitar Player. Em junho de 1996, foi eleito o terceiro melhor guitarrista de todos os tempos pela revista Mojo.\nMorreu no dia 25 de julho de 2020, aos 73 anos.",
+ "resumo_en": "Peter Allen Greenbaum (29 October 1946 – 25 July 2020), known professionally as Peter Green, was an English blues rock singer-songwriter and guitarist who was the founder and original leader of the band Fleetwood Mac. Green formed the group in 1967 after a stint in John Mayall's Bluesbreakers and quickly established the new band as a popular live act in addition to a successful recording act, before departing in 1970. Green's songs, such as \"Albatross\", \"Black Magic Woman\", \"Oh Well\", \"The Green Manalishi (With the Two Prong Crown)\" and \"Man of the World\", appeared on singles charts and several have been adapted by a variety of musicians.\nGreen was a major figure in the \"second great epoch\" of the British blues movement. Eric Clapton praised his guitar playing and B. B. King commented, \"He has the sweetest tone I ever heard; he was the only one who gave me the cold sweats.\" His trademark sound included string bending, vibrato, emotionally expressive tone and economy of style.\nIn June 1996, Green was voted the third-best guitarist of all time in Mojo magazine. In 2015, Rolling Stone ranked him at number 58 in its list of the \"100 Greatest Guitarists of All Time\". Green's tone on the instrumental \"The Supernatural\" was rated as one of the 50 greatest of all time by Guitar Player in 2004.",
+ "albuns": [
+  {
+   "id": "07cca93d-8b4e-3284-a047-f22dd2591fb0",
+   "titulo": "The End of the Game",
+   "data": "1970-11-20",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/762f37c9-0808-35e2-a71d-42ab6bdab9a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bottoms Up",
+     "duracao": "9:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Timeless Time",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Descending Scale",
+     "duracao": "8:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Burnt Foot",
+     "duracao": "5:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Hidden Depth",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "The End of the Game",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 2.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_End_of_the_Game",
+   "resumo_en": "The End of the Game is an album by British blues rock musician Peter Green, who was the founder of Fleetwood Mac and a member from 1967 to 1970. Released in 1970, this was his first solo album, recorded in June of that year, only a month after leaving Fleetwood Mac.\nThe style of this album is a radical departure from his work with Fleetwood Mac, consisting of edited pieces of a long studio jam. The jam was experimental and free-form, and the six tracks taken from it have very loose or non-existent musical structure, with all the tracks being instrumentals. Apart from Green's two singles from this period, \"Heavy Heart\" / \"No Way Out\" and \"Beasts Of Burden\" / \"Uganda Woman\" (recorded with Nigel Watson), this album bears little resemblance to any of Green's other recorded work. These four songs were later included on the 2020 edition of the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8532a251-ef6f-3837-bf2a-ef9743b494ca",
+   "titulo": "In the Skies",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/19e19b55-7898-4613-848d-11304e04b9a0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In the Skies",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Slabo Day",
+     "duracao": "5:12"
+    },
+    {
+     "n": 3,
+     "titulo": "A Fool No More",
+     "duracao": "7:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Tribal Dance",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Seven Stars",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Funky Chunk",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Just for You",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Proud Pinto",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Apostle",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_the_Skies",
+   "resumo_en": "In the Skies is an album by British blues rock musician Peter Green, who was the founder of Fleetwood Mac and a member from 1967 to 1970. Released in 1979, this was his second solo album and the first after eight years of obscurity.\nAccompanying Green on this album were several experienced session musicians, including Snowy White, who had recently begun working with Pink Floyd and later joined Thin Lizzy. White contributed some of the lead guitar work on the album since Green was not yet fully comfortable with his return to recording after his long break. Also present was Green's colleague and friend from his earliest bands, Peter Bardens of Camel.\nAll tracks were written by Peter Green, with some of the lyrics written by Green's then-wife Jane.\nRehearsal versions of \"In the Skies\" and \"Slabo Day\" were released on Snowy White's Goldtop compilation album in 1996.\nA single version of \"Apostle\" b/w \"Tribal Dance\" was released in June 1978, prior to the issue of the album. Record Business reviewed the single, saying that it was \"lovingly performed\" and not \"technically taxing\".  Both tracks were re-recorded for the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3202e360-5bef-3ae7-afc7-f83c080f21d3",
+   "titulo": "Little Dreamer",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/16326a03-cd43-49f2-a093-e5763d887b92/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Loser Two Times",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Mamma Don’tcha Cry",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Born Under a Bad Sign",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "I Could Not Ask for More",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby When the Sun Goes Down",
+     "duracao": "5:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Walkin’ the Road",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "One Woman Love",
+     "duracao": "5:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Cryin’ Won’t Bring You Back",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Dreamer",
+     "duracao": "6:55"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Little_Dreamer_%28Peter_Green_album%29",
+   "resumo_en": "Little Dreamer is an album by the British blues rock musician Peter Green, who was the founder of Fleetwood Mac and a member from 1967 to 1970. Released in 1980, this was his third solo album, and the second in his 'middle period' of the late 1970s and early 1980s.\nMost of the tracks on the album were written by Green's brother Mike.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "91985684-d772-3417-b8e5-1f8870fcd628",
+   "titulo": "Whatcha Gonna Do?",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/1ed51e44-f1e6-437e-82d4-6461fb742de8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Got to See Her Tonight",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Promised Land",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Bullet in the Sky",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Give Me Back My Freedom",
+     "duracao": "5:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Last Train to San Antone",
+     "duracao": "5:32"
+    },
+    {
+     "n": 6,
+     "titulo": "To Break Your Heart",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Bizzy Lizzy",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Lost My Love",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Like a Hot Tomato",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Head Against the Wall",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Whatcha_Gonna_Do%3F_%28Peter_Green_album%29",
+   "resumo_en": "Whatcha Gonna Do? is an album by British blues rock musician Peter Green, who was the founder of Fleetwood Mac and a member from 1967–70. Released in 1981, this was his fourth solo album, the third in his 'middle period' of the late 1970s and early 1980s, and his last for PVK Records.\nAll the tracks on the album were written by Green's brother Mike.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "56416db3-3c2a-3380-94cf-99d0e64fb731",
+   "titulo": "White Sky",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/17bbd697-2190-4ff0-847c-9cc1d10e57aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Time for Me to Go",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Shining Star",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "The Clown",
+     "duracao": "6:05"
+    },
+    {
+     "n": 4,
+     "titulo": "White Sky (Love That Evil Woman)",
+     "duracao": "8:50"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s Gonna Be Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Born on the Wild Side",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Fallin’ Apart",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Indian Lover",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Just Another Guy",
+     "duracao": "6:05"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "37ebefa6-6129-3aeb-ba05-d885fdad73db",
+   "titulo": "Kolors",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/b4dbba5a-be2a-4c98-b87b-cde38f00e844/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Am I Doing Here?",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Bad Feeling",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Boy Now",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Black Woman",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Bandit",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Same Old Blues",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Liquor and You",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Gotta Do It With Me?",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Funky Jam",
+     "duracao": "8:11"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kolors",
+   "resumo_en": "Kolors is the sixth and final solo album by British blues rock musician Peter Green, who was the founder of Fleetwood Mac and a member from 1967 to 1970. Released in 1983, the album consisted largely of songs from previous recording sessions that had not been included on his past albums.\nPeter Green's songwriting credits were under his original name of Peter Greenbaum. Many of the tracks were composed by Peter's brother, Mike Green.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

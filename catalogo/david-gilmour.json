@@ -1,0 +1,730 @@
+{
+ "id": "david-gilmour",
+ "nome": "David Gilmour",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+ "wikidata": "Q178517",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1946",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive rock",
+  "blues rock",
+  "psychedelic rock",
+  "rock",
+  "art rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/DGilmourRAH111024_%2821_of_63%29_%28cropped%29.jpg/500px-DGilmourRAH111024_%2821_of_63%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/David_Gilmour",
+ "resumo_pt": "David Jon Gilmour (Cambridge, 6 de março de 1946) é um cantor e multi-instrumentista britânico conhecido por enquadrar a banda inglesa Pink Floyd, tendo também editado álbuns solo bem como colaborado com outros artistas. Depois da saída de Roger Waters em 1985, tornou-se a principal figura da banda. \nGilmour é profusamente considerado como um dos maiores e mais influentes guitarristas de todos os tempos; pela sua técnica e timbre de grande diferencial e destaque, foi considerado o 6° melhor guitarrista de todos os tempos pela revista americana Guitar World, o 14º melhor guitarrista do mundo pela revista americana Rolling Stone, e o 36º melhor vocalista do rock pelo programa de rádio britânico Planet Rock.",
+ "resumo_en": "David Jon Gilmour ( GHIL-mor; born 6 March 1946) is an English musician, singer, and songwriter best known for being the lead guitarist of the English rock band Pink Floyd. He joined in 1967, shortly before the departure of founding member Syd Barrett. By the early 1980s, Pink Floyd had become one of the highest-selling and most acclaimed acts in music history. Following the departure of Roger Waters in 1985, Pink Floyd continued under Gilmour's leadership and released the studio albums A Momentary Lapse of Reason (1987), The Division Bell (1994) and The Endless River (2014).\nGilmour has released five solo studio albums: David Gilmour (1978), About Face (1984), On an Island (2006), Rattle That Lock (2015) and Luck and Strange (2024). He has achieved three number-one solo albums on the UK Albums Chart, and six with Pink Floyd. He produced two albums by the Dream Academy, and is credited for bringing the singer-songwriter Kate Bush to public attention, paying for her early recordings and helping her find a record contract.\nAs a member of Pink Floyd, Gilmour was inducted into the US Rock and Roll Hall of Fame in 1996, and the UK Music Hall of Fame in 2005. In 2003, Gilmour was made a Commander of the Order of the British Empire (CBE). He received the award for Outstanding Contribution at the 2008 Q Awards. In 2023, Rolling Stone named him the 28th-greatest guitarist of all time.\nGilmour has taken part in projects related to issues including animal rights, environmentalism, homel",
+ "albuns": [
+  {
+   "id": "95950776-0eb8-3672-a503-e2181b1773be",
+   "titulo": "David Gilmour",
+   "data": "1978-05-25",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/1719bc20-c13b-3644-bff1-4619fed6fb3e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mihalis",
+     "duracao": "5:46"
+    },
+    {
+     "n": 2,
+     "titulo": "There’s No Way Out of Here",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Cry From the Street",
+     "duracao": "5:13"
+    },
+    {
+     "n": 4,
+     "titulo": "So Far Away",
+     "duracao": "6:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Short and Sweet",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Raise My Rent",
+     "duracao": "5:33"
+    },
+    {
+     "n": 7,
+     "titulo": "No Way",
+     "duracao": "5:32"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s Deafinitely",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "I Can’t Breathe Anymore",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Gilmour_%28album%29",
+   "resumo_en": "David Gilmour is the debut solo studio album by Pink Floyd guitarist and co-lead vocalist David Gilmour, released on 26 May 1978. The album reached number 17 in the UK and number 29 on the Billboard US album charts; it was certified Gold in the US by the RIAA. The album was produced by Gilmour, and consists mostly of blues and guitar-oriented rock songs, except for the piano-dominated ballad \"So Far Away\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8a9b75f8-9730-3726-91fb-46283039da1d",
+   "titulo": "About Face",
+   "data": "1984-03-05",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/611a91de-2b87-3acb-9c4d-6c6db23cad03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Until We Sleep",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Murder",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Love on the Air",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Blue Light",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Out of the Blue",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "All Lovers Are Deranged",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "You Know I'm Right",
+     "duracao": "5:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Cruise",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Let's Get Metaphysical",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Near the End",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/About_Face_%28album%29",
+   "resumo_en": "About Face is the second solo studio album by the English singer and musician David Gilmour, released on 5 March 1984 by Harvest in the UK and Columbia in the United States, a day before Gilmour's 38th birthday. Co-produced by Bob Ezrin and Gilmour, the album was recorded in 1983 at Pathé Marconi Studio, in Boulogne-Billancourt, France. The lyrics of two tracks, \"All Lovers Are Deranged\" and \"Love on the Air\", were written by Pete Townshend of The Who. Townshend's version of \"All Lovers Are Deranged\" appears on his solo compilation album Scoop 3 (2001).\nThe album received positive reviews and peaked at number 21 on UK Albums Chart and number 32 on the US Billboard Top 200 Albums chart. Two singles were released: \"Blue Light\" peaked at number 62 in the United States, while \"Love on the Air\" failed to chart. Like Gilmour's eponymous debut solo studio album, About Face was certified gold by the RIAA. A remastered reissued CD was released in 2006 on EMI in Europe and Columbia for the rest of the world.",
+   "spotify": "612kETt98RoskJJz6lJprg",
+   "youtube": null
+  },
+  {
+   "id": "ba6fabec-b71a-3eec-93e5-acf4db197f50",
+   "titulo": "On an Island",
+   "data": "2006-03-06",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/018510da-b64f-490e-8ee8-b1889bddb442/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Castellorizon",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "On an Island",
+     "duracao": "6:47"
+    },
+    {
+     "n": 3,
+     "titulo": "The Blue",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Take a Breath",
+     "duracao": "5:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Red Sky at Night",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "This Heaven",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Then I Close My Eyes",
+     "duracao": "5:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Smile",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "A Pocketful of Stones",
+     "duracao": "6:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Where We Start",
+     "duracao": "6:46"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": 7.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_an_Island",
+   "resumo_en": "On an Island is the third solo studio album by Pink Floyd member David Gilmour. It was released in the UK on 6 March 2006, Gilmour's 60th birthday, and in the United States the following day. It was his first solo album in 22 years since About Face in 1984, and was released nearly 12 years after Pink Floyd's at-the-time final 1994 album The Division Bell.",
+   "spotify": null,
+   "youtube": "OLAK5uy_kla4aKW4wZ1X6ifKEpEqbiqICpUFZdiS8"
+  },
+  {
+   "id": "02050e51-32a2-4fb2-a2ac-90a4f1e8b585",
+   "titulo": "Metallic Spheres",
+   "data": "2010-10-08",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/2931ad1b-6b86-4318-b488-765d1969d172/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Metallic Side: Metallic Spheres / Hymns to the Sun / Black Graham / Hiding in Plain View / Classified",
+     "duracao": "28:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Spheres Side: Es Vedra / Hymns to the Sun (reprise) / Olympic / Chicago Dub / Bold Knife Trophy",
+     "duracao": "20:08"
+    },
+    {
+     "n": 3,
+     "titulo": "The Cult of Youth (ambient mix), Parts 1–2 (edit)",
+     "duracao": "5:35"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 72,
+    "media": 7.1,
+    "fontes": 9
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metallic_Spheres",
+   "resumo_en": "Metallic Spheres is the tenth studio album by the ambient techno group the Orb, released in October 2010. It features the Pink Floyd guitarist David Gilmour and the Killing Joke bassist Youth. It spent three weeks on the UK charts, reaching number 12. In 2023, the album was remixed, partially re-recorded and released as Metallic Spheres in Colour.",
+   "spotify": "6cefhJmt3jwGwcLIcsyEVq",
+   "youtube": null
+  },
+  {
+   "id": "df89fe0d-439a-49b7-ba87-b38d6c652002",
+   "titulo": "Rattle That Lock",
+   "data": "2015-09-18",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/9b33f0f0-4ed1-406b-a2b6-d799ddb7973c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "5 A.M.",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Rattle That Lock",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Faces of Stone",
+     "duracao": "5:32"
+    },
+    {
+     "n": 4,
+     "titulo": "A Boat Lies Waiting",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Dancing Right in Front of Me",
+     "duracao": "6:11"
+    },
+    {
+     "n": 6,
+     "titulo": "In Any Tongue",
+     "duracao": "6:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Beauty",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "The Girl in the Yellow Dress",
+     "duracao": "5:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Today",
+     "duracao": "5:55"
+    },
+    {
+     "n": 10,
+     "titulo": "And Then…",
+     "duracao": "4:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Barn Jam 1",
+     "duracao": "4:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Barn Jam 2",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "Barn Jam 3",
+     "duracao": "4:08"
+    },
+    {
+     "n": 14,
+     "titulo": "Barn Jam 4",
+     "duracao": "4:23"
+    },
+    {
+     "n": 15,
+     "titulo": "The Animators – Alasdair + Jock (documentary)",
+     "duracao": "10:03"
+    },
+    {
+     "n": 16,
+     "titulo": "Rattle That Lock",
+     "duracao": "4:36"
+    },
+    {
+     "n": 17,
+     "titulo": "The Animators – Danny Madden (documentary)",
+     "duracao": "10:29"
+    },
+    {
+     "n": 18,
+     "titulo": "The Girl in the Yellow Dress",
+     "duracao": "5:02"
+    },
+    {
+     "n": 19,
+     "titulo": "Polly Samson and David Gilmour at the Borris House Festival of Writing & Ideas (documentary)",
+     "duracao": "17:05"
+    },
+    {
+     "n": 20,
+     "titulo": "The Making of the Rattle That Lock Album (documentary)",
+     "duracao": "22:53"
+    },
+    {
+     "n": 21,
+     "titulo": "Rattle That Lock (extended mix)",
+     "duracao": "6:26"
+    },
+    {
+     "n": 22,
+     "titulo": "The Girl in the Yellow Dress (orchestral version)",
+     "duracao": "4:36"
+    },
+    {
+     "n": 23,
+     "titulo": "Rattle That Lock (Youth mix – 12″ extended radio dub)",
+     "duracao": "8:26"
+    },
+    {
+     "n": 24,
+     "titulo": "Rattle That Lock (radio edit)",
+     "duracao": "4:01"
+    },
+    {
+     "n": 25,
+     "titulo": "5 A.M. (5.1 mix)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 26,
+     "titulo": "Rattle That Lock (5.1 mix)",
+     "duracao": "4:55"
+    },
+    {
+     "n": 27,
+     "titulo": "Faces of Stone (5.1 mix)",
+     "duracao": "5:32"
+    },
+    {
+     "n": 28,
+     "titulo": "A Boat Lies Waiting (5.1 mix)",
+     "duracao": "4:34"
+    },
+    {
+     "n": 29,
+     "titulo": "Dancing Right in Front of Me (5.1 mix)",
+     "duracao": "6:11"
+    },
+    {
+     "n": 30,
+     "titulo": "In Any Tongue (5.1 mix)",
+     "duracao": "6:46"
+    },
+    {
+     "n": 31,
+     "titulo": "Beauty (5.1 mix)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 32,
+     "titulo": "The Girl in the Yellow Dress (5.1 mix)",
+     "duracao": "5:25"
+    },
+    {
+     "n": 33,
+     "titulo": "Today (5.1 mix)",
+     "duracao": "5:57"
+    },
+    {
+     "n": 34,
+     "titulo": "And Then… (5.1 mix)",
+     "duracao": "4:26"
+    },
+    {
+     "n": 35,
+     "titulo": "5 A.M.",
+     "duracao": "3:04"
+    },
+    {
+     "n": 36,
+     "titulo": "Rattle That Lock",
+     "duracao": "4:55"
+    },
+    {
+     "n": 37,
+     "titulo": "Faces of Stone",
+     "duracao": "5:32"
+    },
+    {
+     "n": 38,
+     "titulo": "A Boat Lies Waiting",
+     "duracao": "4:34"
+    },
+    {
+     "n": 39,
+     "titulo": "Dancing Right in Front of Me",
+     "duracao": "6:11"
+    },
+    {
+     "n": 40,
+     "titulo": "In Any Tongue",
+     "duracao": "6:46"
+    },
+    {
+     "n": 41,
+     "titulo": "Beauty",
+     "duracao": "4:28"
+    },
+    {
+     "n": 42,
+     "titulo": "The Girl in the Yellow Dress",
+     "duracao": "5:25"
+    },
+    {
+     "n": 43,
+     "titulo": "Today",
+     "duracao": "5:57"
+    },
+    {
+     "n": 44,
+     "titulo": "And Then…",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 264,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 75,
+    "media": 7.2,
+    "fontes": 10
+   },
+   "publico": 6.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rattle_That_Lock",
+   "resumo_en": "Rattle That Lock is the fourth solo studio album by the English musician David Gilmour. It was released on 18 September 2015 via Columbia Records. The artwork for the album was created by Dave Stansbie from The Creative Corporation under the direction of Aubrey Powell, who has worked with Gilmour and Pink Floyd since the late 1960s.\nThe album received generally positive reviews from critics and was a commercial success, becoming Gilmour's second number one solo album in the United Kingdom. Gilmour supported the album with the Rattle That Lock Tour throughout 2015 and 2016, with a performance from the tour at the Amphitheatre of Pompeii being made into the live album and video, Live at Pompeii (2017).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "16807a6d-89ae-47bf-93f0-cb39cd36a135",
+   "titulo": "Luck and Strange",
+   "data": "2024-09-06",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/2ac6bf45-af91-45d9-810e-8eb5c6bd26ff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Cat",
+     "duracao": "1:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Luck and Strange",
+     "duracao": "6:56"
+    },
+    {
+     "n": 3,
+     "titulo": "The Piper’s Call",
+     "duracao": "5:15"
+    },
+    {
+     "n": 4,
+     "titulo": "A Single Spark",
+     "duracao": "6:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Vita Brevis",
+     "duracao": "0:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Between Two Points",
+     "duracao": "5:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Dark and Velvet Nights",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Sings",
+     "duracao": "5:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Scattered",
+     "duracao": "7:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Yes, I Have Ghosts",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Luck and Strange (original barn jam)",
+     "duracao": "14:02"
+    },
+    {
+     "n": 12,
+     "titulo": "A Single Spark (demo)",
+     "duracao": "5:45"
+    },
+    {
+     "n": 13,
+     "titulo": "A Single Spark (orchestral)",
+     "duracao": "5:49"
+    },
+    {
+     "n": 14,
+     "titulo": "Scattered (orchestral)",
+     "duracao": "7:32"
+    },
+    {
+     "n": 15,
+     "titulo": "Black Cat (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Luck and Strange (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "The Piper’s Call (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "A Single Spark (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Vita Brevis (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Between Two Points (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Dark and Velvet Nights (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Sings (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "Scattered (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "Yes, I Have Ghosts (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 25,
+     "titulo": "Luck and Strange (original barn jam) (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 26,
+     "titulo": "A Single Spark (orchestral) (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 27,
+     "titulo": "Scattered (orchestral) (Dolby Atmos mix)",
+     "duracao": null
+    },
+    {
+     "n": 28,
+     "titulo": "Black Cat",
+     "duracao": null
+    },
+    {
+     "n": 29,
+     "titulo": "Luck and Strange",
+     "duracao": null
+    },
+    {
+     "n": 30,
+     "titulo": "The Piper’s Call",
+     "duracao": null
+    },
+    {
+     "n": 31,
+     "titulo": "A Single Spark",
+     "duracao": null
+    },
+    {
+     "n": 32,
+     "titulo": "Vita Brevis",
+     "duracao": null
+    },
+    {
+     "n": 33,
+     "titulo": "Between Two Points",
+     "duracao": null
+    },
+    {
+     "n": 34,
+     "titulo": "Dark and Velvet Nights",
+     "duracao": null
+    },
+    {
+     "n": 35,
+     "titulo": "Sings",
+     "duracao": null
+    },
+    {
+     "n": 36,
+     "titulo": "Scattered",
+     "duracao": null
+    },
+    {
+     "n": 37,
+     "titulo": "Yes, I Have Ghosts",
+     "duracao": null
+    },
+    {
+     "n": 38,
+     "titulo": "Luck and Strange (original barn jam)",
+     "duracao": null
+    },
+    {
+     "n": 39,
+     "titulo": "A Single Spark (orchestral)",
+     "duracao": null
+    },
+    {
+     "n": 40,
+     "titulo": "Scattered (orchestral)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 81,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 83,
+    "media": 7.7,
+    "fontes": 10
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Luck_and_Strange",
+   "resumo_en": "Luck and Strange is the fifth studio album by the English guitarist and songwriter David Gilmour, released on 6 September 2024 by Sony Music. It was produced by Gilmour and Charlie Andrew.\nGilmour's wife, novelist Polly Samson, wrote most of the lyrics, which she said addressed mortality and aging. Their children contributed additional vocals, lyrics and instrumentation. The song \"Luck and Strange\" features keyboards recorded in 2007 by the Pink Floyd keyboardist, Richard Wright, who died in 2008. The album also features a cover of the 1999 song \"Between Two Points\", originally by the British band the Montgolfier Brothers.\nLuck and Strange became Gilmour's third number-one album on the UK Albums Chart. \"The Piper's Call\", \"Between Two Points\", \"Dark and Velvet Nights\" and \"Luck and Strange\" were released as singles. Gilmour toured in support of the album in late 2024.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

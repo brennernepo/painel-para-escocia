@@ -1,0 +1,2331 @@
+{
+ "id": "johnny-winter",
+ "nome": "Johnny Winter",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "8300d0fa-d120-47f6-a84e-91f140c74767",
+ "wikidata": "Q332635",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1944",
+ "fim": "2014",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "electric blues",
+  "blues",
+  "boogie rock",
+  "chicago blues"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Johnny_Winter.jpg/500px-Johnny_Winter.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Johnny_Winter",
+ "resumo_pt": "John Dawson Winter III, mais conhecido como  Johnny Winter (Beaumont, Texas, 23 de Fevereiro de 1944 — perto de Zurique, 16 de Julho de 2014), foi um guitarrista e cantor de blues norte-americano, considerado um dos melhores no seu estilo. É irmão de Edgar Winter, e além de seu talento com a guitarra, um fator que se tornou conhecido foi seu albinismo, compartilhado com seu irmão.",
+ "resumo_en": "John Dawson Winter III (February 23, 1944 – July 16, 2014) was an American singer, guitarist, songwriter, and record producer. Winter was known for his high-energy blues rock albums, live performances, and slide guitar playing from the late 1960s into the early 2000s. He also produced three Grammy Award–winning albums for blues singer and guitarist Muddy Waters. After his time with Waters, Winter recorded several Grammy-nominated blues albums. In 1988, he was inducted into the Blues Foundation Hall of Fame and in 2003, he was ranked 63rd in Rolling Stone magazine's list of the \"100 Greatest Guitarists of All Time\".",
+ "albuns": [
+  {
+   "id": "e5deac33-1221-3726-9422-8a053ce89139",
+   "titulo": "The Progressive Blues Experiment",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/c45444e2-59b6-3202-89cf-fc6e2f955d21/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rollin’ and Tumblin’",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Tribute to Muddy",
+     "duracao": "6:21"
+    },
+    {
+     "n": 3,
+     "titulo": "I Got Love If You Want It",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Luck and Trouble",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Help Me",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Mean Town Blues",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Broke Down Engine",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Black Cat Bone",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "It’s My Own Fault",
+     "duracao": "7:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Forty‐Four",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Progressive_Blues_Experiment",
+   "resumo_en": "The Progressive Blues Experiment is the unauthorized debut album by American blues rock musician Johnny Winter. He recorded it in August 1968 at the Vulcan Gas Company, an Austin music club, with his original trio of Tommy Shannon on bass guitar and John \"Red\" Turner on drums. The album features a mix of Winter originals and older blues songs, including the standards \"Rollin' and Tumblin'\", \"Help Me\", and \"Forty-Four\".\nLocal Austin, Texas-based Sonobeat Records issued the album with a plain white cover in late 1968. After Winter signed to Columbia Records, the rights were sold to Imperial Records, who reissued it in March 1969. The Imperial edition, with a new cover, reached number 40 on the Billboard 200 album chart. In 1973, United Artists reissued it with another new cover under the name Austin Texas. In 2005, Capitol issued a 24-bit remastered edition of the album on compact disc.\n\"Bill Josey, who owned Sonobeat Records, had recorded a live show at the Vulcan Gas Company in Austin so Johnny would have a demo to shop for a major label. However, Josey released that performance as Progressive Blues Experiment on his own label. But before the ink had dried on Johnny's Columbia cont",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6039148f-6571-31da-a227-80655a7d81e8",
+   "titulo": "Second Winter",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/5cd415f6-bc74-4c1d-a066-64fc1bbe5f00/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Memory Pain",
+     "duracao": "5:29"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm Not Sure",
+     "duracao": "5:20"
+    },
+    {
+     "n": 3,
+     "titulo": "The Good Love",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Slippin' and Slidin'",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Miss Ann",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny B. Goode",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Higway 61 Revisited",
+     "duracao": "5:04"
+    },
+    {
+     "n": 8,
+     "titulo": "I Love Everybody",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Hustled Down in Texas",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "I Hate Everybody",
+     "duracao": "2:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Fast Life Rider",
+     "duracao": "7:01"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Second_Winter",
+   "resumo_en": "Second Winter is the third studio album by Texas blues guitarist Johnny Winter, released in 1969. The original plan was to edit the songs from the recording session into one album but it was later thought that all the recordings were good enough to be released. The album was released as a \"three-sided\" LP, with a blank fourth side on the original vinyl. Two more songs, \"Tell the Truth\" and \"Early in the Morning\" were left unfinished but included on a 2004 re-release of the album.",
+   "spotify": "0OBEzklToS8HeuRBnhVL4J",
+   "youtube": null
+  },
+  {
+   "id": "c8e27ace-aa69-39a7-b311-bf8a74d8474f",
+   "titulo": "Johnny Winter",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/026265df-98d9-352f-b062-82640ed4162b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Yours and I’m Hers",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Be Careful With a Fool",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Dallas",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Mean Mistreater",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Leland Mississippi Blues",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Good Morning Little Schoolgirl",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "When You Got a Good Friend",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ll Drown in My Tears",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Back Door Friend",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 3
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Winter_%28album%29",
+   "resumo_en": "Johnny Winter is Johnny Winter's second studio album.  Columbia Records released the album in 1969, after signing Winter to the label for a reported $600,000. As with his first album, The Progressive Blues Experiment, Winter mixes some original compositions with songs originally recorded by blues artists.  The album reached number 24 on the Billboard 200 albums chart.",
+   "spotify": "5RNAJslV8AaTq2gM5JJ9Ch",
+   "youtube": null
+  },
+  {
+   "id": "fdcc5142-0fb0-4bd5-bc51-8b10ba78574b",
+   "titulo": "First Winter",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/c6d950c8-2327-4c3d-a518-72915c7e6f15/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bad News",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Leavin’ Blues",
+     "duracao": "2:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Take a Chance on My Love",
+     "duracao": "2:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Easy Lovin’ Girl",
+     "duracao": "1:28"
+    },
+    {
+     "n": 5,
+     "titulo": "I Had to Cry",
+     "duracao": "1:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Birds Can’t Row Boats",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Out of Sight",
+     "duracao": "2:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Coming Up Fast, Part I",
+     "duracao": "2:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Coming Up Fast, Part II",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Parchman Farm",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Please Come Home for Christmas",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33a99a63-ff6c-495f-b07e-d7affe8f628e",
+   "titulo": "Early Times",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/593f23cc-50fc-4e32-bbcd-835feb5dba22/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stay by My Side",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Had to Cry",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Kiss of Tomorrow Goodbye",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Harlem Nocturne (Concl.)",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Easy Lovin' Girl",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Bad News",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Spiders of the Mind",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "My World Turns All Around Her",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Take a Chance on My Love",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Please Come Home for Christmas",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fcf6a28e-bb65-39bc-9a5b-84086b5da464",
+   "titulo": "Still Alive and Well",
+   "data": "1973-03",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/63aec655-cb20-4569-a600-19f8f0e6f1ae/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock Me Baby",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Can’t You Feel It",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Cheap Tequila",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "All Tore Down",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock & Roll",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Silver Train",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain’t Nothing to Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Still Alive & Well",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Too Much Seconal",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Let It Bleed",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Still_Alive_and_Well",
+   "resumo_en": "Still Alive and Well is an album by blues rock guitarist and singer Johnny Winter.  It was his fifth studio album, and his first since Johnny Winter And almost three years earlier.  It was released by Columbia Records in 1973.\nMany of the songs on the album have a more rock-oriented power trio sound, with Randy Jo Hobbs playing bass and Richard Hughes on drums.  Rick Derringer, who produced, plays guitar on three tracks.  Still Alive and Well features two Rolling Stones songs—\"Silver Train\" and \"Let It Bleed\".",
+   "spotify": "028UyLRMn9HnuTvRaWAVTF",
+   "youtube": null
+  },
+  {
+   "id": "728a8308-44fb-3d28-ad2b-ba2a8bc2c735",
+   "titulo": "John Dawson Winter III",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/596f6787-b819-4df2-a595-ab0c022cf841/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock & Roll People",
+     "duracao": "2:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Golden Olden Days of Rock & Roll",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Self-Destructive Blues",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Raised on Rock",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Stranger",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Mind Over Matter",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Roll With Me",
+     "duracao": "3:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Song to Me",
+     "duracao": "2:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Pick Up on My Mojo",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Lay Down Your Sorrows",
+     "duracao": "4:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Sweet Papa John",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 4.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Dawson_Winter_III",
+   "resumo_en": "John Dawson Winter III is the seventh studio album by Johnny Winter, released in 1974. It again follows Winter's pattern of mixing original songs with cover versions, including covering an Allen Toussaint song for the second album running.",
+   "spotify": "6ZCzJiByCfxpfQJ4RZyCRL",
+   "youtube": null
+  },
+  {
+   "id": "1361574b-7607-4add-9c3b-78ea00b6b429",
+   "titulo": "Saints & Sinners",
+   "data": "1974-02",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/be66a5e5-b385-359c-a273-adac3c267ab4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stone County",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Blinded by Love",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Thirty Days",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Stray Cat Blues",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Luck Situation",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Rollin' 'Cross the Country",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Riot in Cell Block #9",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Hurtin' So Bad",
+     "duracao": "4:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Boney Moroney",
+     "duracao": "2:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Feedback on Highway 101",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Saints_%26_Sinners_%28Johnny_Winter_album%29",
+   "resumo_en": "Saints & Sinners is the sixth studio album by Johnny Winter, released in 1974. It follows Winter's pattern of mixing original songs with cover versions. After covering two Jagger-Richards songs on his previous album and previously issuing a live version of \"Jumpin' Jack Flash,\" he covers a further one in \"Stray Cat Blues\" on this release.",
+   "spotify": "2llnsqpwzPPXUHIaiE7W8z",
+   "youtube": null
+  },
+  {
+   "id": "2cbddde4-7e59-3907-8c08-d0e0e20adcfa",
+   "titulo": "Nothin’ but the Blues",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/9f0839d3-c119-4022-bb77-7e4dd9bf912b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tired of Tryin’",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "TV Mama",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Love and Evil Woman",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Everybody’s Blues",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Drinkin’ Blues",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Mad Blues",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "It Was Rainin’",
+     "duracao": "5:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Bladie Mae",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Walking Thru the Park",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nothin%27_but_the_Blues_%28Johnny_Winter_album%29",
+   "resumo_en": "Nothin' but the Blues is a 1977 album by guitarist and singer Johnny Winter.\nOn this album Winter moved away from the rock and blues blend of previous albums to a more blues-oriented album. It also saw a marked change in source of material, being exclusively written by Winter, apart from one song by Muddy Waters with whom Winter had recently collaborated and who featured on the album along with his band.\nA statement in the album liner notes says, \"I'd like to dedicate this album to all the people who enjoy my kind of blues and especially to Muddy Waters for giving me the inspiration to do it and for giving the world a lifetime of great blues. – Johnny Winter\"",
+   "spotify": "4ILAWjCe5fCCUmwjwmOmFM",
+   "youtube": null
+  },
+  {
+   "id": "62e101f4-c353-3b9f-869a-8dee69474bbd",
+   "titulo": "White, Hot & Blue",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/35fb0ab6-5bea-4aaf-94ba-51357c15999b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walkin’ by Myself",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Slidin’ In",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Divin’ Duck",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "One Step at a Time",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Nickel Blues",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "E.Z. Rider",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Last Night",
+     "duracao": "5:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Messin’ With the Kid",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Honest I Do",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "347fe4fd-52e8-3f14-a2e9-53a0118646f3",
+   "titulo": "Raisin’ Cain",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/5679770f-7049-4c72-b683-95376f573e2f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Crawl",
+     "duracao": "2:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Sitting in the Jail House",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Like a Rolling Stone",
+     "duracao": "5:35"
+    },
+    {
+     "n": 4,
+     "titulo": "New York, New York",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Bon Ton Roulet",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Rollin’ and Tumblin’",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Talk Is Cheap",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Wolf in Sheep’s Clothing",
+     "duracao": "5:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Hide Your Love",
+     "duracao": "3:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Mother‐In‐Law Blues",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Walkin’ Slowly",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33d6199e-3a23-3b78-86a9-394d6f36de72",
+   "titulo": "Whoopin'",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/419a4e81-7ab3-4e9a-8d7b-6e4e40989514/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got My Eyes on You",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonny’s Whoopin’ the Doop",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Burnt Child",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Whoee, Whoee",
+     "duracao": "5:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Crow Jane",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "So Tough With Me",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Whoo Wee Baby",
+     "duracao": "4:23"
+    },
+    {
+     "n": 8,
+     "titulo": "I Think I Got the Blues",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Ya, Ya",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Roll Me Baby",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7239846d-2591-4cf9-b232-1c4a9a419aaf",
+   "titulo": "Whoppin'",
+   "data": "1984",
+   "ano": "1984",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got My Eyes On You",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonny's Whoopin' The Doop",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Burnt Child",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Whoee, Whoee",
+     "duracao": "5:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Crow Jane",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "So Tough With Me",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Whoo Wee Baby",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "I Think I Got The Blues",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Ya, Ya",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Roll Me Baby",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8be89e7a-fbe3-304a-b3c7-58373f66442c",
+   "titulo": "Guitar Slinger",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/7b00edcb-8d32-41ec-98c1-0af3b128bfe0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It's My Life, Baby",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Take Advantage of Me",
+     "duracao": "5:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Iodine in My Coffee",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Trick Bag",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Mad Dog",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Boot Hill",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "I Smell Trouble",
+     "duracao": "4:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Lights Out",
+     "duracao": "2:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Kiss Tomorrow Goodbye",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "My Soul",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Guitar_Slinger_%28Johnny_Winter_album%29",
+   "resumo_en": "Guitar Slinger is an album by guitarist and singer Johnny Winter.  Released in 1984, it was his first studio album in four years, and his first album for Alligator Records. It was the second consecutive album to feature no original Winter compositions.\nGuitar Slinger was nominated for a Grammy Award for Best Traditional Blues Album.",
+   "spotify": "0OSrkgtzUcYbiOyzJN7vWB",
+   "youtube": null
+  },
+  {
+   "id": "f51060c0-013f-387b-8bc1-cf9bf6212150",
+   "titulo": "Serious Business",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/cbd11770-e69a-4797-ab1d-3f7f0929b800/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Master Mechanic",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Sound the Bell",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Murdering Blues",
+     "duracao": "5:02"
+    },
+    {
+     "n": 4,
+     "titulo": "It Ain't Your Business",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Good Time Woman",
+     "duracao": "6:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Unseen Eye",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "My Time After Awhile",
+     "duracao": "6:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Serious as a Heart Attack",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Give It Back",
+     "duracao": "3:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Route 90",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "829c598d-0aa0-36f5-80c3-3364a31bfd90",
+   "titulo": "3rd Degree",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/78ea1dea-d811-4d52-866e-8a321af82aa4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mojo Boogie",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Love, Life and Money",
+     "duracao": "5:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Evil on My Mind",
+     "duracao": "2:17"
+    },
+    {
+     "n": 4,
+     "titulo": "See See Baby",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Tin Pan Alley",
+     "duracao": "5:48"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Good",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Third Degree",
+     "duracao": "6:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Shake Your Moneymaker",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Bad Girl Blues",
+     "duracao": "4:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Broke and Lonely",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "90da8333-a4e3-364c-8da9-3ccb2a9ec05a",
+   "titulo": "The Winter of ’88",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/40d75721-6381-48f1-a7e6-e304bc436cb9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Close to Me",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Rain",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Stranger Blues",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain’t That Just Like a Woman",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "World of Contradictions",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Lightning",
+     "duracao": "5:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Looking for Trouble",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Show Me",
+     "duracao": "4:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Anything for Your Love",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Look Away",
+     "duracao": "6:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Mother Earth",
+     "duracao": "5:51"
+    },
+    {
+     "n": 12,
+     "titulo": "It’ll Be Me",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Winter_of_%2788",
+   "resumo_en": "The Winter of '88 is a 1988 album by Johnny Winter. It was released by MCA Records and it represents Winter's first album with a major after years spent with smaller labels such as Blue Sky Records and Alligator Records. The album contains three compositions by Jerry Lynn Williams who also had several of his songs recorded by Eric Clapton. Winter chose to record the album with his live band at the time, consisting in Jon Paris on bass and harmonica and Tom Compton on drums. He chose, however, to retain Ken Saydak on keyboards from his time with Alligator. Stylistically, the album indicates a return to a more rock-oriented sound.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "48cd402a-c432-4f47-bf6f-2426c2a1aeb3",
+   "titulo": "Uncle John Turner + Johnny Winter",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/4cb9764d-4f90-40f0-8780-068ce380c86f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Made in the Shade",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "They Call Me Lazy",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Family Rules",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Ooh Pooh Pah Do",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Drivin' Wheel",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Alons Dancez",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Struggle in Houston",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "You're Humbuggin' Me",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Just a Little Bit",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Rainin' Breakdown",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "15042768-1b50-3b9b-937a-c3f9d1c2beea",
+   "titulo": "Let Me In",
+   "data": "1991-08",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/6d7380d8-251a-34a5-8e1d-d005456dfa95/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Illustrated Man",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Barefootin’",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Life Is Hard",
+     "duracao": "6:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Hey You",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Blue Mood",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Sugaree",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Medicine Man",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "You’re Humbuggin’ Me",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "If You Got a Good Woman",
+     "duracao": "4:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Got to Find My Baby",
+     "duracao": "2:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Shame Shame Shame",
+     "duracao": "4:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Let Me In",
+     "duracao": "4:13"
+    },
+    {
+     "n": 13,
+     "titulo": "You Lie Too Much",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Let_Me_In_%28Johnny_Winter_album%29",
+   "resumo_en": "Let Me In is an album by guitarist and singer Johnny Winter.    It was released in 1991 on vinyl and CD by Pointblank Records.\nLet Me In was nominated for a Grammy Award for Best Contemporary Blues Album.",
+   "spotify": "5czskSQM7WnLhS6nlXbzCq",
+   "youtube": null
+  },
+  {
+   "id": "b7039c24-8d32-3ac3-8ab1-2c82b4c0d691",
+   "titulo": "Hey, Where’s Your Brother?",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/e5ebd4c0-14e8-4cd0-98ad-ae39736a204d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Johnny Guitar",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "She Likes to Boogie Real Low",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "White Line Blues",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Please Come Home for Christmas",
+     "duracao": "4:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Hard Way",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "You Must Have a Twin",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "You Keep Sayin’ That You’re Leavin’",
+     "duracao": "5:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Treat Me Like You Wanta",
+     "duracao": "3:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Sick and Tired",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Blues This Bad",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "No More Doggin’",
+     "duracao": "3:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Check Out Her Mama",
+     "duracao": "4:02"
+    },
+    {
+     "n": 13,
+     "titulo": "Got My Brand on You",
+     "duracao": "5:27"
+    },
+    {
+     "n": 14,
+     "titulo": "One Step Forward (Two Steps Back)",
+     "duracao": "2:28"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ca8b5ad5-9bb9-33ec-b1cd-3bd21ff4ebf1",
+   "titulo": "Raw to the Bone",
+   "data": "1995-08-29",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/c8700350-e395-4e7b-bdf5-3ffb120bb51a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Late on Blues",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "They Call Me Loudmouth",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Lien on Your Body",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Once I Had a Woman",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Take My Choice",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Unwelcome in Your Town",
+     "duracao": "3:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Gangster of Love",
+     "duracao": "2:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Alone in My Bedroom",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Hootchie Cootchie Man",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Moth Balls",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "She’s Mine",
+     "duracao": "2:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Unsatisfied Mind",
+     "duracao": "3:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Rock Me Baby",
+     "duracao": "2:41"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63b9b4eb-567f-4ec3-9347-d10a4270146a",
+   "titulo": "Raised On Rock",
+   "data": "1999",
+   "ano": "1999",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prodigal Son",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "On The Limb",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Let The Music Play",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Nothing Left",
+     "duracao": "3:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Look Up",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock 'N' Roll People",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Golden Days Of Rock 'N' Roll",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Self Destruction Blues",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Raised On Rock",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Stranger",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "15204a37-3ec9-3e65-8c94-1d8fed714dff",
+   "titulo": "I'm a Bluesman",
+   "data": "2004-06-15",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/8a7f734f-7010-4f7c-8661-4b0b4bc5c0b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I'm a Bluesman",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Cheatin' Blues",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "I Smell Smoke",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Lone Wolf",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "So Much Love",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "The Monkey Song",
+     "duracao": "6:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Shake Down",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweet Little Baby",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Pack Your Bags",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Last Night",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "That Wouldn't Satisfy",
+     "duracao": "4:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Sugar Coated Love",
+     "duracao": "4:00"
+    },
+    {
+     "n": 13,
+     "titulo": "Let's Start All Over Again",
+     "duracao": "4:24"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I%27m_a_Bluesman",
+   "resumo_en": "I'm a Bluesman is an album by blues guitarist and singer Johnny Winter. This was his first studio album with new material in twelve years, released by Virgin Records on June 25, 2004.\nThe album is a mixture of original songs and covers of blues standards. As the album's title suggests, the songs have strong emphasis on traditional electric blues over the blues-rock elements on some previous Winter albums.\nI'm a Bluesman was nominated for a Grammy Award for Best Contemporary Blues Album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "415eadb2-e11f-447e-81b6-b09d67fa0de7",
+   "titulo": "Texas Blues",
+   "data": "2007",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/5fbb4645-4aeb-419f-9446-d4a5dec00bce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Roll, Roll, Roll",
+     "duracao": "2:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Just a Little Bit",
+     "duracao": "2:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Divorce Court",
+     "duracao": "2:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Drivin’ Wheel",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "You’re a Humbugging Me",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "I Got It Made",
+     "duracao": "2:31"
+    },
+    {
+     "n": 7,
+     "titulo": "They Call Me Lazy",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Allons Dancez",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Shoulder Holster",
+     "duracao": "2:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Hey Senorita",
+     "duracao": "2:23"
+    },
+    {
+     "n": 11,
+     "titulo": "T-Bone Intentions",
+     "duracao": "2:45"
+    },
+    {
+     "n": 12,
+     "titulo": "I-10 Hurricane Blues",
+     "duracao": "2:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Ooh Poo Pa Doo",
+     "duracao": "3:58"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0622b6ee-b53b-423f-a6d5-59e0c78487a2",
+   "titulo": "Roots",
+   "data": "2011-09-27",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/c1db577d-e9bd-4403-b9b2-bcac9d3db2be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "T-Bone Shuffle",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Further On Up the Road",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Done Somebody Wrong",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Got My Mojo Workin’",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Last Night",
+     "duracao": "5:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Maybellene",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Bright Lights, Big City",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Honky Tonk",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Dust My Broom",
+     "duracao": "6:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Short Fat Fannie",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Back Baby",
+     "duracao": "6:28"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Roots_%28Johnny_Winter_album%29",
+   "resumo_en": "Roots is an album by blues guitarist and singer Johnny Winter.  His first studio album in seven years, it was released by Megaforce Records on September 27, 2011.\nOn Roots, Winter and his band perform eleven blues standards.  Each song features a different guest performer.  These featured musical artists include Warren Haynes, Derek Trucks, John Popper, Vince Gill, and Johnny's brother Edgar Winter.\nRoots was Johnny Winter's penultimate studio album.  Before he died on July 16, 2014, he had largely completed work on Step Back, which was released on September 2, 2014.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "58c68db5-208d-4c6b-b25c-24fdd995bb54",
+   "titulo": "Step Back",
+   "data": "2014-09-02",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/50930f58-055c-4dce-8795-ccbeffa82e50/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Unchain My Heart",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Can’t Hold Out (Talk to Me Baby)",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Want No Woman",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Killing Floor",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Who Do You Love",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Okie Dokie Stomp",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Where Can You Be",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweet Sixteen",
+     "duracao": "7:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Death Letter",
+     "duracao": "3:39"
+    },
+    {
+     "n": 10,
+     "titulo": "My Babe",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Long Tall Sally",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Mojo Hand",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Blue Monday",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 68,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Step_Back_%28album%29",
+   "resumo_en": "Step Back is the nineteenth and final studio album by blues guitarist and singer Johnny Winter.  It features performances by a number of guest musicians, including Jason Ricci, Eric Clapton, Dr. John, Lou Marini and Tom Malone from The Blues Brothers Band, Billy Gibbons from ZZ Top, Joe Perry from Aerosmith, Leslie West from Mountain (Winter had guested on West's Still Climbing the previous year), and Brian Setzer from the Stray Cats.  It was released by Megaforce Records on September 2, 2014.\nAs on Winter's previous studio album, Roots, the songs are mainly blues standards. Roots and Step Back were both produced by his guitarist Paul Nelson.\nStep Back was released posthumously.  Winter had finished recording the album, and then played a concert tour in Europe, before he died on July 16, 2014.  The album debuted at No. 1 on the Billboard charts for Blues Albums and Independent Albums, and at No. 17 on the Billboard 200.\nAt the 2015 Grammy Awards, Step Back won the Grammy Award for Best Blues Album.  Step Back also won the 2015 Blues Music Award for Best Rock Blues Album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "223c403c-1683-41cf-ab07-66c6ff1a974d",
+   "titulo": "Texas: '63-'68",
+   "data": "2020",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/f96526a4-d102-4423-ab7a-9d63dcf285f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eternally",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "The Guy You Left Behind",
+     "duracao": "2:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Out of Sight",
+     "duracao": "2:10"
+    },
+    {
+     "n": 4,
+     "titulo": "You'll Be the Death of Me",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Gone for Bad",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Leave My Woman Alone",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Stay by My Side",
+     "duracao": "2:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Bad News (without overdubs)",
+     "duracao": "2:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Parchment Farm (alternative mix)",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Don't Hide It",
+     "duracao": "2:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Avocado Green",
+     "duracao": "2:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Comin' Up Fast (take 2)",
+     "duracao": "2:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Easy Loving Girl (alternative mix)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 14,
+     "titulo": "Birds Can't Row Boats",
+     "duracao": "2:59"
+    },
+    {
+     "n": 15,
+     "titulo": "My World Turns All Around Her",
+     "duracao": "2:43"
+    },
+    {
+     "n": 16,
+     "titulo": "Livin' in the Blues (alt. version)",
+     "duracao": "2:29"
+    },
+    {
+     "n": 17,
+     "titulo": "Hook You",
+     "duracao": "3:33"
+    },
+    {
+     "n": 18,
+     "titulo": "Take a Chance on My Love",
+     "duracao": "3:05"
+    },
+    {
+     "n": 19,
+     "titulo": "Bad News (overdubbed version)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 20,
+     "titulo": "Sloppy Drunk",
+     "duracao": "2:19"
+    },
+    {
+     "n": 21,
+     "titulo": "Gangster of Love (clean)",
+     "duracao": "2:28"
+    },
+    {
+     "n": 22,
+     "titulo": "Hey Hey Hey",
+     "duracao": "2:12"
+    },
+    {
+     "n": 23,
+     "titulo": "Ice Cube",
+     "duracao": "2:07"
+    },
+    {
+     "n": 24,
+     "titulo": "Creepy",
+     "duracao": "2:11"
+    },
+    {
+     "n": 25,
+     "titulo": "Kind Hearted Woman",
+     "duracao": "3:45"
+    },
+    {
+     "n": 26,
+     "titulo": "Leavin' Blues",
+     "duracao": "2:49"
+    },
+    {
+     "n": 27,
+     "titulo": "I Had to Cry",
+     "duracao": "2:53"
+    },
+    {
+     "n": 28,
+     "titulo": "Pneumonia Blues",
+     "duracao": "3:20"
+    },
+    {
+     "n": 29,
+     "titulo": "32-20 Blues",
+     "duracao": "2:19"
+    },
+    {
+     "n": 30,
+     "titulo": "That's What Love Does",
+     "duracao": "2:21"
+    },
+    {
+     "n": 31,
+     "titulo": "Voodoo Twist",
+     "duracao": "2:23"
+    },
+    {
+     "n": 32,
+     "titulo": "Mothballs",
+     "duracao": "2:58"
+    },
+    {
+     "n": 33,
+     "titulo": "Goin' Down Slow",
+     "duracao": "4:46"
+    },
+    {
+     "n": 34,
+     "titulo": "Ease My Pain",
+     "duracao": "3:09"
+    },
+    {
+     "n": 35,
+     "titulo": "15 Five After Four A.M.",
+     "duracao": "3:03"
+    },
+    {
+     "n": 36,
+     "titulo": "Reeling and Rocking",
+     "duracao": "2:17"
+    },
+    {
+     "n": 37,
+     "titulo": "Tramp",
+     "duracao": "2:59"
+    },
+    {
+     "n": 38,
+     "titulo": "Be Careful With a Fool",
+     "duracao": "3:46"
+    },
+    {
+     "n": 39,
+     "titulo": "Gonna Miss Me When I'm Gone",
+     "duracao": "2:18"
+    },
+    {
+     "n": 40,
+     "titulo": "Gonna Down Slow (version 4)",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 114,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "eebc6fc3-c053-4c6a-b2b9-b99ac2dd1cc9",
+   "titulo": "Live Bootleg Series, Volume 14",
+   "data": "2023",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/6919a3b0-7f26-4549-bc1e-a6d2f0460fbe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Introduction",
+     "duracao": "0:15"
+    },
+    {
+     "n": 2,
+     "titulo": "The Sun Is Shining",
+     "duracao": "9:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Knock on Wood",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Kind Hearted Woman Blues",
+     "duracao": "7:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Johnny B. Goode",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "You're Humbuggin' Me",
+     "duracao": "7:14"
+    },
+    {
+     "n": 7,
+     "titulo": "No Time to Live",
+     "duracao": "8:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Boot Hill",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "You Must Have a Twin (rehearsal version 1)",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f0c3c68f-50a9-4c6b-99be-ef86db9f544a",
+   "titulo": "Essential Classics, Vol. 481: Johnny Winter",
+   "data": "2024-09-26",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/fcddfebf-4378-4bf3-8426-eeea7d157c05/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hideaway",
+     "duracao": "7:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Gangster of Love",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Instrumental",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm Ready",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Her with a Feeling",
+     "duracao": "8:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Black Cat Bone",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Out of Sight",
+     "duracao": "2:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Mama Talk to Your Daughter",
+     "duracao": "4:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Rocket 88",
+     "duracao": "2:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Walking by Myself",
+     "duracao": "4:44"
+    },
+    {
+     "n": 11,
+     "titulo": "How Long Can a Fool go Wrong",
+     "duracao": "9:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Stranger",
+     "duracao": "6:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Second Set Intro",
+     "duracao": "3:13"
+    },
+    {
+     "n": 14,
+     "titulo": "Anna Lee (Band Introductions)",
+     "duracao": "13:09"
+    },
+    {
+     "n": 15,
+     "titulo": "You'll Be the Death of Me",
+     "duracao": "2:37"
+    },
+    {
+     "n": 16,
+     "titulo": "Catfish Blues",
+     "duracao": "7:46"
+    },
+    {
+     "n": 17,
+     "titulo": "Caldonia",
+     "duracao": "6:33"
+    },
+    {
+     "n": 18,
+     "titulo": "Kansas City",
+     "duracao": "9:19"
+    },
+    {
+     "n": 19,
+     "titulo": "32-20 Blues",
+     "duracao": "2:19"
+    },
+    {
+     "n": 20,
+     "titulo": "Howlin' Wolf",
+     "duracao": "7:23"
+    }
+   ],
+   "duracao_min": 113,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

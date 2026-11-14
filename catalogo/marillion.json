@@ -1,0 +1,1895 @@
+{
+ "id": "marillion",
+ "nome": "Marillion",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+ "wikidata": "Q678410",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1979",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive rock",
+  "neo-progressive rock",
+  "art rock",
+  "rock",
+  "acoustic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/MarillionEmpik2007.jpg/500px-MarillionEmpik2007.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Marillion",
+ "resumo_pt": "Marillion é uma banda de rock neoprogressivo britânica formada em 1979. A banda foi formada como Silmarillion, inspirada no livro de mesmo nome de J.R.R. Tolkien. Depois de uma alta rotatividade de integrantes nos primeiros anos, Steve Rothery foi o único membro original a permanecer. O nome do grupo foi encurtado depois de uma ameaça de processo feita pela família de Tolkien em 1980. O grupo lança seu primeiro compacto em 1982, \"Market Square Heroes\". Depois do sucesso alcançado, eles lançam seu primeiro álbum em 1983. Até os dias de hoje, já emplacaram 23 hits no UK Singles Chart e, até o ano 2000, já haviam vendido cerca de 14 milhões de álbuns em todo o mundo, tendo ainda feito turnês em vários países e continentes, como América, Europa e Japão.",
+ "resumo_en": "Marillion  are  a British neo-prog band, formed in Aylesbury, Buckinghamshire, in 1979. They emerged from the post-punk music scene in Britain and existed as a bridge between the styles of punk rock and classic progressive rock, becoming the most commercially successful neo-prog band of the 1980s.\nMarillion released their debut single \"Market Square Heroes\" in 1982, followed a year later by their first album Script for a Jester's Tear. They have released 20 studio albums in total. The band achieved eight Top 10 UK albums between 1983 and 1994, including a No. 1 album in 1985 with Misplaced Childhood. The album also produced two UK Top 10 singles in \"Kayleigh\" (No. 2) and \"Lavender\" (No. 5), while the follow-up album, 1987's Clutching at Straws, included another UK Top 10 single \"Incommunicado\" (No. 6). Clutching at Straws was the band's last studio album with their original lead singer, Fish, who left for a solo career in late 1988. Altogether, during the Fish era, Marillion had 11 Top 40 hits on the UK singles chart. \"Kayleigh\" also entered the Billboard Hot 100 in the United States.\nIn early 1989, Marillion announced Steve Hogarth as their new lead singer. The first album with him, Seasons End, was another Top 10 hit, and albums continued to chart well until their departure from EMI Records, following the release of their 1996 live album Made Again, and the dissipation of the band's mainstream popularity in the late 1990s; save for a resurgence in the mid- to late-2000s, th",
+ "albuns": [
+  {
+   "id": "25f11061-2223-38c4-acf0-07536de51c09",
+   "titulo": "Script for a Jester’s Tear",
+   "data": "1983-03-13",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/93803c15-4845-40c4-b59d-107a508c54a3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Script for a Jester’s Tear",
+     "duracao": "8:37"
+    },
+    {
+     "n": 2,
+     "titulo": "He Knows, You Know",
+     "duracao": "5:05"
+    },
+    {
+     "n": 3,
+     "titulo": "The Web",
+     "duracao": "9:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Garden Party",
+     "duracao": "7:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Chelsea Monday",
+     "duracao": "8:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Forgotten Sons",
+     "duracao": "8:18"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 8.4,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Script_for_a_Jester%27s_Tear",
+   "resumo_en": "Script for a Jester's Tear is the debut studio album by British neo-prog band Marillion, released in the United Kingdom on 14 March 1983 by EMI Records. The album reached number seven and spent 31 weeks in the UK Albums Chart, eventually achieving a platinum certificate, and produced the top 40 single \"He Knows You Know\" and the top 20 single \"Garden Party\". Prog Magazine ranked it at No. 40 in its list of the \"100 Greatest Prog Albums of All Time.\"\nScript for a Jester's Tear is the only studio album by Marillion to feature the band's original drummer and founding member Mick Pointer, who was dismissed following the album's UK tour. In Martin Popoff's 2016 biography of Yes, the album is credited with being part of a \"new wave\" of British progressive rock which also helped to give a second life to earlier bands.",
+   "spotify": "5mbtDQJwsioLCEGIT1cbOJ",
+   "youtube": "OLAK5uy_m3v3z-RFfrnCryZl3qLTFlqIISi8hpdGg"
+  },
+  {
+   "id": "12536829-a40e-33b3-803e-2c3c4ac572ce",
+   "titulo": "Fugazi",
+   "data": "1984-03-12",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/28ac861e-6076-4c82-8f9d-81b583c99937/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Assassing",
+     "duracao": "7:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Punch & Judy",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Jigsaw",
+     "duracao": "6:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Emerald Lies",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "She Chameleon",
+     "duracao": "6:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Incubus",
+     "duracao": "8:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Fugazi",
+     "duracao": "8:12"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8.9,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fugazi_%28album%29",
+   "resumo_en": "Fugazi is the second studio album by the British neo-prog band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.\nThe album is titled after a military slang term well known at the time of release. According to AllMusic, the album \"streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity\". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK top five and was certified Gold.",
+   "spotify": "3fyFddxAoeW4JIuczl8lXU",
+   "youtube": null
+  },
+  {
+   "id": "06896217-3aba-31d3-8b34-bd193c9e2b98",
+   "titulo": "Misplaced Childhood",
+   "data": "1985-06-17",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/1866af6d-2b08-4214-8923-89638fcf09ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pseudo Silk Kimono",
+     "duracao": "2:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Kayleigh",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Lavender",
+     "duracao": "2:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Bitter Suite: I. Brief Encounter / II. Lost Weekend / III. Blue Angel",
+     "duracao": "5:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Heart of Lothian: I. Wide Boy / II. Curtain Call",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Waterhole (Expresso Bongo)",
+     "duracao": "2:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Lords of the Backstage",
+     "duracao": "1:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Blind Curve: I. Vocal Under a Bloodlight / II. Passing Strangers / III. Mylo / IV. Perimeter Walk / V. Threshold",
+     "duracao": "9:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Childhoods End?",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "White Feather",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Misplaced_Childhood",
+   "resumo_en": "Misplaced Childhood is the third studio album by the British neo-prog band Marillion, released in 1985. It is a concept album loosely based on the childhood of Marillion's lead singer, Fish, who was inspired by a brief incident that occurred while he was under the influence of LSD.\nThe album was recorded during the spring of 1985 at Hansa Tonstudio in West Berlin and produced by Chris Kimsey, who had previously worked with the Rolling Stones. Misplaced Childhood is the group's most commercially successful album, peaking immediately at number one in the UK charts and spending a total of 41 weeks on the chart. It ultimately gained the Platinum status. It features Marillion's two most successful singles, the guitar-led rock ballad \"Kayleigh\", which reached number two in the UK, and piano-led \"Lavender\", which peaked at number five.\nMisplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and chosen as the fourth greatest concept album of all time by Classic Rock in 2003.",
+   "spotify": "0coKZXe5ZvT9INJeaLTwJV",
+   "youtube": null
+  },
+  {
+   "id": "7c7afb4c-565b-3057-958c-a78285d483f3",
+   "titulo": "Clutching at Straws",
+   "data": "1987-06-12",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/304cde4f-f7b1-4e32-b297-96b85f46cfb1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hotel Hobbies",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Warm Wet Circles",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "That Time of the Night (The Short Straw)",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Just for the Record",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "White Russian",
+     "duracao": "6:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Incommunicado",
+     "duracao": "5:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Torch Song",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Slàinte Mhath",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Sugar Mice",
+     "duracao": "5:44"
+    },
+    {
+     "n": 10,
+     "titulo": "The Last Straw: Happy Ending",
+     "duracao": "5:48"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 8.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clutching_at_Straws",
+   "resumo_en": "Clutching at Straws is the fourth studio album by the British neo-prog band Marillion, released on 12 June 1987. A concept album, it was the last to feature lead singer Fish, who left the band in 1988.\nClutching at Straws did not achieve the sales of its predecessor, the number one album Misplaced Childhood and spent only 15 weeks on the UK album chart, the shortest chart residency of any of Marillion's first four studio albums. However, it was still an immediate commercial success, becoming became the second highest charting Marillion album by entering the chart at number two. It produced three UK Top 40 singles: \"Incommunicado\", \"Sugar Mice\" and \"Warm Wet Circles\".\nThe album has received critical acclaim, being listed in Q magazine's \"50 Best Recordings of the Year\", it has been described by AllMusic as an \"unheralded masterpiece\", and Rolling Stone placed it at number 37 in its countdown of the \"50 Greatest Prog Rock Albums of All Time\". Prog Magazine rated it No. 47 on their \"100 Greatest Prog Albums of all Time.\" In 1999, a 2-CD 'Remastered Version' with additional B-sides and demos was released, including detailed liner notes from all of the original members including Fish.",
+   "spotify": "7M6qdztBAZADkaYJ6bIEhF",
+   "youtube": null
+  },
+  {
+   "id": "be4c83af-14c9-3432-9da5-dac795972da9",
+   "titulo": "Seasons End",
+   "data": "1989-09-25",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/197ef31c-916a-4c0d-af5d-cbcc31dc8a8e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The King of Sunset Town",
+     "duracao": "7:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Easter",
+     "duracao": "5:56"
+    },
+    {
+     "n": 3,
+     "titulo": "The Uninvited Guest",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Seasons End",
+     "duracao": "8:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Holloway Girl",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Berlin",
+     "duracao": "7:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Hooks in You",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "The Space",
+     "duracao": "6:13"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Seasons_End",
+   "resumo_en": "Seasons End is the fifth studio album by British neo-prog band Marillion, released in 1989. The album was the first to feature current lead vocalist Steve Hogarth, following the departure of former vocalist Fish in late 1988. It reached number 7 on the UK Albums Chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4e6626b8-9386-30f0-905c-8aeac0143ab5",
+   "titulo": "Holidays in Eden",
+   "data": "1991-06-24",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/7b3707fa-791d-4d62-bff7-96fc876003f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Splintering Heart",
+     "duracao": "6:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Cover My Eyes (Pain and Heaven)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "The Party",
+     "duracao": "5:36"
+    },
+    {
+     "n": 4,
+     "titulo": "No One Can",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Holidays in Eden",
+     "duracao": "5:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Dry Land",
+     "duracao": "4:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Waiting to Happen",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "This Town",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "The Rakes Progress",
+     "duracao": "1:54"
+    },
+    {
+     "n": 10,
+     "titulo": "100 Nights",
+     "duracao": "6:41"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8.2,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Holidays_in_Eden",
+   "resumo_en": "Holidays in Eden is the sixth studio album by the British neo-prog band Marillion, released in 1991. Recorded at Hook End Manor in Oxfordshire and Westside Studios in London, it was the band's second album with vocalist Steve Hogarth and the first completely written without previous lead singer Fish.\nPartly due to producer Christopher Neil, many of the songs feature a mainstream pop rock sound as opposed to progressive rock of previous works, and Hogarth has described Holidays in Eden as \"Marillion's 'pop'est album ever\". It reached number 7 in the UK Albums Chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b96f5cf7-f2f4-3809-a4be-6cd04c395c5c",
+   "titulo": "Brave",
+   "data": "1994-02-07",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/7c92745d-6e88-31d3-86e2-4d7144a01f39/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bridge",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Living With the Big Lie",
+     "duracao": "6:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Runaway",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Goodbye to All That: (i) Wave / (ii) Mad / (iii) The Opium Den / (iv) The Slide / (v) Standing in the Swing",
+     "duracao": "12:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Hard As Love",
+     "duracao": "6:41"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hollow Man",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Alone Again in the Lap of Luxury: (i) Now Wash Your Hands",
+     "duracao": "8:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Paper Lies",
+     "duracao": "5:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Brave",
+     "duracao": "7:56"
+    },
+    {
+     "n": 10,
+     "titulo": "The Great Escape: (i) The Last of You / (ii) Fallin’ From the Moon",
+     "duracao": "6:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Made Again",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 9.2,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brave_%28Marillion_album%29",
+   "resumo_en": "Brave is the seventh studio album by Marillion, released in 1994. It charted at number 10 on the UK Albums Chart, being the last of the band's albums to reach the Top 10 in the United Kingdom until F E A R reached number 4 in 2016. The album is ranked at No. 29 on Prog Magazine's \"Top 100 Prog Albums of All Time.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "25b9208c-02d9-3de7-9450-a06e9e84fe32",
+   "titulo": "Afraid of Sunlight",
+   "data": "1995-06-24",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/fc02109d-2d04-3a8d-813b-ad4ffb3b9e78/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gazpacho",
+     "duracao": "7:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Cannibal Surf Babe",
+     "duracao": "5:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Beautiful",
+     "duracao": "5:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Afraid of Sunrise",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Out of This World",
+     "duracao": "7:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Afraid of Sunlight",
+     "duracao": "6:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Beyond You",
+     "duracao": "6:10"
+    },
+    {
+     "n": 8,
+     "titulo": "King",
+     "duracao": "7:03"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 7.1,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Afraid_of_Sunlight",
+   "resumo_en": "Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was their last for EMI (who would, however, continue to release back-catalogue material on compilations and re-issues, as well as distribute some later recordings).\nAfraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's \"Recordings of the Year\" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as \"the peak of Marillion's growing, impressive body of work\" and by colleague Jason Ankeny as \"the most consistent Marillion release to date\". The album is ranked at No. 90 on Prog Magazine's list of the 100 Greatest Prog Albums of All Time.",
+   "spotify": "5D7KP6CX2VqwJ1M0UqlVEO",
+   "youtube": null
+  },
+  {
+   "id": "db930429-b77c-3a89-8227-279facb688a1",
+   "titulo": "This Strange Engine",
+   "data": "1997-04-09",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/96c2a169-a487-4b90-ba52-4f891a75c9ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Man of a Thousand Faces",
+     "duracao": "7:33"
+    },
+    {
+     "n": 2,
+     "titulo": "One Fine Day",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "80 Days",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Estonia",
+     "duracao": "7:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Memory of Water",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "An Accidental Man",
+     "duracao": "6:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Hope for the Future",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "This Strange Engine",
+     "duracao": "15:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Beautiful (acoustic)",
+     "duracao": "4:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Made Again (acoustic)",
+     "duracao": "9:48"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/This_Strange_Engine",
+   "resumo_en": "This Strange Engine is the ninth studio album by the British neo-prog band Marillion, released in April 1997 by the Castle Communications imprint Raw Power. It was the first of the three recordings that Marillion made under contract with Castle, after being dropped by EMI Records in 1995 and before eventually going independent in 2000. The album was recorded at The Racket Club in Buckinghamshire, England, between August and November 1996 and was produced by the band themselves.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7ea8e300-c2dc-36f6-ba22-383a1ee96b82",
+   "titulo": "Radiation",
+   "data": "1998-09-18",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/0e964e10-7476-4ad2-84dd-09926cecf8b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Costa del Slough",
+     "duracao": "1:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Under the Sun",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "The Answering Machine",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Three Minute Boy",
+     "duracao": "5:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Now She’ll Never Know",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "These Chains",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Born to Run",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Cathedral Wall",
+     "duracao": "7:20"
+    },
+    {
+     "n": 9,
+     "titulo": "A Few Words for the Dead",
+     "duracao": "10:30"
+    },
+    {
+     "n": 10,
+     "titulo": "The Space… (live acoustic)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Fake Plastic Trees (live acoustic)",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Radiation_%28album%29",
+   "resumo_en": "Radiation is the tenth studio album by the British neo-prog band Marillion, released in 1998. Recorded at The Racket Club between November 1997 and June 1998, it was co-produced and mixed by Stewart Every. The album was remixed by Michael Hunter in September to November 2012 and a reissued remastered version was released in 2013.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9b9325c3-daa2-31be-9ed4-cb1061b32371",
+   "titulo": "marillion.com",
+   "data": "1999-10-18",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/e59dc7de-5f0f-4c06-9c82-c90d52d5b4d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Legacy",
+     "duracao": "6:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Deserve",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Go!",
+     "duracao": "6:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Rich",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Enlightened",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Built-in Bastard Radar",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Tumble Down the Years",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Interior Lulu",
+     "duracao": "15:16"
+    },
+    {
+     "n": 9,
+     "titulo": "House",
+     "duracao": "10:15"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marillion.com",
+   "resumo_en": "marillion.com is the eleventh studio album by the British neo-prog band Marillion, released on 18 October 1999 by their own label, Intact Records, and distributed by Castle Communications.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "068968cc-579e-363e-9010-d5edabeba1d1",
+   "titulo": "Anoraknophobia",
+   "data": "2001-05-07",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/ea8e35ad-2fbd-4ff5-8edb-2090b39fdf60/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Between You and Me",
+     "duracao": "6:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Quartz",
+     "duracao": "9:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Map of the World",
+     "duracao": "5:02"
+    },
+    {
+     "n": 4,
+     "titulo": "When I Meet God",
+     "duracao": "9:17"
+    },
+    {
+     "n": 5,
+     "titulo": "The Fruit of the Wild Rose",
+     "duracao": "6:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Separated Out",
+     "duracao": "6:13"
+    },
+    {
+     "n": 7,
+     "titulo": "This Is the 21st Century",
+     "duracao": "11:07"
+    },
+    {
+     "n": 8,
+     "titulo": "If My Heart Were a Ball It Would Roll Uphill",
+     "duracao": "9:27"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 4
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Anoraknophobia",
+   "resumo_en": "Anoraknophobia is the 12th studio album by the British rock band Marillion, released in 2001. It is regarded as the first instance of a music recording completely financed by fans in a then-unique fundraising campaign, as 12,674 copies were pre-ordered before the album was even recorded.\nIn an attempt to depart from their neo-prog past for a contemporary sound, Marillion introduced elements of rap, groove, funk, trip hop, blues, jazz and dub. Although the album received several favourable reviews, it was not a significant commercial success, and its sole single, \"Between You and Me\", did not chart. The group supported Anoraknophobia with a six-month European tour.",
+   "spotify": "5WuTD295O4yVATsdAg40qP",
+   "youtube": null
+  },
+  {
+   "id": "20790e26-98e4-3ad3-a67f-b674758b942d",
+   "titulo": "Marbles",
+   "data": "2004-05-03",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/3f1cc80f-4507-48a9-899c-c1bda83280c2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Invisible Man",
+     "duracao": "13:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Marbles I",
+     "duracao": "1:46"
+    },
+    {
+     "n": 3,
+     "titulo": "You’re Gone",
+     "duracao": "6:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Angelina",
+     "duracao": "7:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Marbles II",
+     "duracao": "1:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Don’t Hurt Yourself",
+     "duracao": "5:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Fantastic Place",
+     "duracao": "6:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Marbles III",
+     "duracao": "1:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Drilling Holes",
+     "duracao": "5:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Marbles IV",
+     "duracao": "1:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Neverland",
+     "duracao": "14:42"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marbles_%28album%29",
+   "resumo_en": "Marbles is the 13th studio album from rock band Marillion, released in 2004. Unlike their previous studio album, Anoraknophobia (2001), which was financed largely by a preorder campaign, the band funded the recording, and it was the publicity campaign that fans financed for the album. Those fans who pre-ordered the album received an exclusive 2-CD \"Deluxe Campaign Edition\" with a booklet containing the names of everyone who pre-ordered before a certain date. The public release date of the retail single-CD version of the album was 3 May 2004 while a plain 2-CD version was made available from the band's website. A limited (500 copy) edition was released on white multicoloured vinyl by Racket Records on 13 November 2006.\nIn 2011, the 2-CD version became available as a  retail edition in a mediabook by the Madfish label, reissued in 2017 as a simpler digipak edition. Madfish also released the full album on vinyl for the first time, occupying three LPs. Another reissue of the CD appeared in 2021 on Kscope.\nThe album did not chart in the UK, due to it being packaged with a couple of stickers, which is against chart rules.  So despite selling enough for a top 30 position, the album was de",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b897aaf2-ebae-3f74-a965-1d5645f32e04",
+   "titulo": "Somewhere Else",
+   "data": "2007-04-09",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/1174db49-1436-4735-a6aa-980a9b740906/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Other Half",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "See It Like a Baby",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Thankyou Whoever You Are",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Most Toys",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Somewhere Else",
+     "duracao": "7:51"
+    },
+    {
+     "n": 6,
+     "titulo": "A Voice From the Past",
+     "duracao": "6:21"
+    },
+    {
+     "n": 7,
+     "titulo": "No Such Thing",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "The Wound",
+     "duracao": "7:18"
+    },
+    {
+     "n": 9,
+     "titulo": "The Last Century for Man",
+     "duracao": "5:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Faith",
+     "duracao": "4:11"
+    },
+    {
+     "n": 11,
+     "titulo": "The other Half (Live)",
+     "duracao": "4:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Somewhere Else (Live)",
+     "duracao": "7:53"
+    },
+    {
+     "n": 13,
+     "titulo": "A Voice from the Past (Live)",
+     "duracao": "5:58"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Somewhere_Else_%28Marillion_album%29",
+   "resumo_en": "Somewhere Else is the fourteenth studio album by British neo-prog band Marillion. It was released by the band's own label, Intact Records, in the United Kingdom on 9 April 2007. Produced by Michael Hunter, the album was recorded during 2006 at The Racket Club in Buckinghamshire, except the track \"Faith\", written during the Marbles sessions and recorded the previous year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "56995819-a35d-3476-a746-f7a17409be4e",
+   "titulo": "Happiness Is the Road",
+   "data": "2008-09-10",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/5c72f3cd-d25b-47e4-99b2-7c4636bbc86a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thunder Fly",
+     "duracao": "6:19"
+    },
+    {
+     "n": 2,
+     "titulo": "The Man From the Planet Marzipan",
+     "duracao": "7:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Asylum Satellite 1",
+     "duracao": "9:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Older Than Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Throw Me Out",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Half the World",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Whatever Is Wrong With You",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Especially True",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Real Tears for Sale",
+     "duracao": "7:34"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Happiness_Is_the_Road",
+   "resumo_en": "Happiness Is the Road is Marillion's 15th studio album, released in 2008 as two separate album-length volumes respectively titled Essence and The Hard Shoulder. The overall playing time is 110 minutes (116 including a hidden track), taking it to double album length. \nThe album sees Marillion experimenting with a host of new instruments, including dulcimers, glockenspiels, a harmonium, French horns and even sleigh bells, a harp and zither. The title track \"Happiness Is the Road\" was inspired by Eckhart Tolle's book The Power of Now. The album's artwork was created by the Spanish artist Antonio Seijas in co-operation with Marillion's long-time designer Carl Glover.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0203b2d2-c2d3-461b-891a-92d8ecbe4669",
+   "titulo": "Less Is More",
+   "data": "2009-10-02",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/648811f5-d8a8-4fc2-80e0-094b3f7e03af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Go!",
+     "duracao": "5:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Interior Lulu",
+     "duracao": "7:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Out of This World",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Wrapped Up in Time",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "The Space",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Hard as Love",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Quartz",
+     "duracao": "5:47"
+    },
+    {
+     "n": 8,
+     "titulo": "If My Heart Were a Ball",
+     "duracao": "5:11"
+    },
+    {
+     "n": 9,
+     "titulo": "It’s Not Your Fault",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Memory of Water",
+     "duracao": "2:36"
+    },
+    {
+     "n": 11,
+     "titulo": "This Is the 21st Century",
+     "duracao": "5:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Cannibal Surf Babe",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Less_Is_More_%28Marillion_album%29",
+   "resumo_en": "Less Is More is an acoustic studio album by Marillion, released on the band's own label on 2 October 2009. A retail version is distributed by Edel Music. The band's 16th studio album, it contains re-arranged songs from the period that Steve Hogarth has been their singer (since 1989) plus the previously unreleased track, \"It's Not Your Fault\". Despite some positive reviews, the album did not chart in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "03619842-d1dc-4ce2-b58a-432c04447cc0",
+   "titulo": "Sounds That Can’t Be Made",
+   "data": "2012-09-07",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/b1e1df63-65c7-42c0-8766-c494e6e06504/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gaza",
+     "duracao": "17:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Sounds That Can’t Be Made",
+     "duracao": "7:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Pour My Love",
+     "duracao": "6:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Power",
+     "duracao": "6:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Montréal",
+     "duracao": "14:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Invisible Ink",
+     "duracao": "5:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Lucky Man",
+     "duracao": "6:58"
+    },
+    {
+     "n": 8,
+     "titulo": "The Sky Above the Rain",
+     "duracao": "10:34"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.5,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sounds_That_Can%27t_Be_Made",
+   "resumo_en": "Sounds That Can't Be Made is Marillion's 17th studio album, released on 17 September 2012. Besides the standard edition there is also a \"deluxe campaign edition\" containing a bonus DVD with a feature-length documentary called Making Sounds.\nA 5.1 channel surround version of the album was released as part of the A Sunday Night Above the Rain Blu-ray set released on Racket Records in 2014.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8de2a677-7273-4d5d-9454-fef1202ef5f4",
+   "titulo": "Fuck Everyone and Run (F E A R)",
+   "data": "2016-09-23",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/0bdecaf3-1a04-4807-a9c4-76351dd48ea2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "El Dorado: I. Long‐Shadowed Sun",
+     "duracao": "1:26"
+    },
+    {
+     "n": 2,
+     "titulo": "El Dorado: II. The Gold",
+     "duracao": "6:12"
+    },
+    {
+     "n": 3,
+     "titulo": "El Dorado: III. Demolished Lives",
+     "duracao": "2:23"
+    },
+    {
+     "n": 4,
+     "titulo": "El Dorado: IV. F E A R",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "El Dorado: V. The Grandchildren of Apes",
+     "duracao": "2:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Living in F E A R",
+     "duracao": "6:25"
+    },
+    {
+     "n": 7,
+     "titulo": "White Paper",
+     "duracao": "7:18"
+    },
+    {
+     "n": 8,
+     "titulo": "The Leavers: I. Wake Up in Music",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "The Leavers: II. The Remainers",
+     "duracao": "1:34"
+    },
+    {
+     "n": 10,
+     "titulo": "The Leavers: III. Vapour Trails in the Sky",
+     "duracao": "4:49"
+    },
+    {
+     "n": 11,
+     "titulo": "The Leavers: IV. The Jumble of Days",
+     "duracao": "4:20"
+    },
+    {
+     "n": 12,
+     "titulo": "The Leavers: V. One Tonight",
+     "duracao": "3:56"
+    },
+    {
+     "n": 13,
+     "titulo": "The New Kings: I. Fuck Everyone and Run",
+     "duracao": "4:22"
+    },
+    {
+     "n": 14,
+     "titulo": "The New Kings: II. Russia’s Locked Doors",
+     "duracao": "6:24"
+    },
+    {
+     "n": 15,
+     "titulo": "The New Kings: III. A Scary Sky",
+     "duracao": "2:33"
+    },
+    {
+     "n": 16,
+     "titulo": "The New Kings: IV. Why Is Nothing Ever True?",
+     "duracao": "3:24"
+    },
+    {
+     "n": 17,
+     "titulo": "Tomorrow’s New Country",
+     "duracao": "1:47"
+    },
+    {
+     "n": 18,
+     "titulo": "El Dorado: I. Long‐Shadowed Sun",
+     "duracao": "1:26"
+    },
+    {
+     "n": 19,
+     "titulo": "El Dorado: II. The Gold",
+     "duracao": "6:12"
+    },
+    {
+     "n": 20,
+     "titulo": "El Dorado: III. Demolished Lives",
+     "duracao": "2:23"
+    },
+    {
+     "n": 21,
+     "titulo": "El Dorado: IV. F E A R",
+     "duracao": "4:07"
+    },
+    {
+     "n": 22,
+     "titulo": "El Dorado: V. The Grandchildren of Apes",
+     "duracao": "2:35"
+    },
+    {
+     "n": 23,
+     "titulo": "Living in F E A R",
+     "duracao": "6:25"
+    },
+    {
+     "n": 24,
+     "titulo": "The Leavers: I. Wake Up in Music",
+     "duracao": "4:27"
+    },
+    {
+     "n": 25,
+     "titulo": "The Leavers: II. The Remainers",
+     "duracao": "1:34"
+    },
+    {
+     "n": 26,
+     "titulo": "The Leavers: III. Vapour Trails in the Sky",
+     "duracao": "4:49"
+    },
+    {
+     "n": 27,
+     "titulo": "The Leavers: IV. The Jumble of Days",
+     "duracao": "4:20"
+    },
+    {
+     "n": 28,
+     "titulo": "The Leavers: V. One Tonight",
+     "duracao": "3:56"
+    },
+    {
+     "n": 29,
+     "titulo": "White Paper",
+     "duracao": "7:18"
+    },
+    {
+     "n": 30,
+     "titulo": "The New Kings: I. Fuck Everyone and Run",
+     "duracao": "4:22"
+    },
+    {
+     "n": 31,
+     "titulo": "The New Kings: II. Russia’s Locked Doors",
+     "duracao": "6:24"
+    },
+    {
+     "n": 32,
+     "titulo": "The New Kings: III. A Scary Sky",
+     "duracao": "2:33"
+    },
+    {
+     "n": 33,
+     "titulo": "The New Kings: IV. Why Is Nothing Ever True?",
+     "duracao": "3:24"
+    },
+    {
+     "n": 34,
+     "titulo": "Tomorrow’s New Country",
+     "duracao": "1:47"
+    },
+    {
+     "n": 35,
+     "titulo": "El Dorado: I. The Gold (demo)",
+     "duracao": "5:58"
+    },
+    {
+     "n": 36,
+     "titulo": "El Dorado: II. Demolished Lives (demo)",
+     "duracao": "2:23"
+    },
+    {
+     "n": 37,
+     "titulo": "El Dorado: III. F E A R (demo)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 38,
+     "titulo": "Living in F E A R (demo)",
+     "duracao": "8:16"
+    },
+    {
+     "n": 39,
+     "titulo": "The Leavers: I. Wake Up in Music (demo)",
+     "duracao": "5:57"
+    },
+    {
+     "n": 40,
+     "titulo": "The Leavers: II. The Remainers (demo)",
+     "duracao": "1:29"
+    },
+    {
+     "n": 41,
+     "titulo": "The Leavers: III. Vapour Trails in the Sky (demo)",
+     "duracao": "1:51"
+    },
+    {
+     "n": 42,
+     "titulo": "The Leavers: IV. The Jumble of Days (demo)",
+     "duracao": "4:41"
+    },
+    {
+     "n": 43,
+     "titulo": "The Leavers: V. One Tonight (demo)",
+     "duracao": "2:17"
+    },
+    {
+     "n": 44,
+     "titulo": "White Paper (demo)",
+     "duracao": "5:46"
+    },
+    {
+     "n": 45,
+     "titulo": "The New Kings: I. Fuck Everyone and Run (demo)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 46,
+     "titulo": "The New Kings: II. Russia’s Locked Doors (demo)",
+     "duracao": "6:25"
+    },
+    {
+     "n": 47,
+     "titulo": "The New Kings: III. A Scary Sky (demo)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 48,
+     "titulo": "The New Kings: IV. Why Is Nothing Ever True? (demo)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 49,
+     "titulo": "El Dorado: I. Long‐Shadowed Sun (5.1 mix)",
+     "duracao": "1:26"
+    },
+    {
+     "n": 50,
+     "titulo": "El Dorado: II. The Gold (5.1 mix)",
+     "duracao": "6:12"
+    },
+    {
+     "n": 51,
+     "titulo": "El Dorado: III. Demolished Lives (5.1 mix)",
+     "duracao": "2:23"
+    },
+    {
+     "n": 52,
+     "titulo": "El Dorado: IV. F E A R (5.1 mix)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 53,
+     "titulo": "El Dorado: V. The Grandchildren of Apes (5.1 mix)",
+     "duracao": "2:35"
+    },
+    {
+     "n": 54,
+     "titulo": "Living in F E A R (5.1 mix)",
+     "duracao": "6:25"
+    },
+    {
+     "n": 55,
+     "titulo": "The Leavers: I. Wake Up in Music (5.1 mix)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 56,
+     "titulo": "The Leavers: II. The Remainers (5.1 mix)",
+     "duracao": "1:34"
+    },
+    {
+     "n": 57,
+     "titulo": "The Leavers: III. Vapour Trails in the Sky (5.1 mix)",
+     "duracao": "4:49"
+    },
+    {
+     "n": 58,
+     "titulo": "The Leavers: IV. The Jumble of Days (5.1 mix)",
+     "duracao": "4:20"
+    },
+    {
+     "n": 59,
+     "titulo": "The Leavers: V. One Tonight (5.1 mix)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 60,
+     "titulo": "White Paper (5.1 mix)",
+     "duracao": "7:18"
+    },
+    {
+     "n": 61,
+     "titulo": "The New Kings: I. Fuck Everyone and Run (5.1 mix)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 62,
+     "titulo": "The New Kings: II. Russia’s Locked Doors (5.1 mix)",
+     "duracao": "6:24"
+    },
+    {
+     "n": 63,
+     "titulo": "The New Kings: III. A Scary Sky (5.1 mix)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 64,
+     "titulo": "The New Kings: IV. Why Is Nothing Ever True? (5.1 mix)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 65,
+     "titulo": "Tomorrow’s New Country (5.1 mix)",
+     "duracao": "1:47"
+    },
+    {
+     "n": 66,
+     "titulo": "El Dorado: I. Long‐Shadowed Sun",
+     "duracao": "1:26"
+    },
+    {
+     "n": 67,
+     "titulo": "El Dorado: II. The Gold",
+     "duracao": "6:12"
+    },
+    {
+     "n": 68,
+     "titulo": "El Dorado: III. Demolished Lives",
+     "duracao": "2:23"
+    },
+    {
+     "n": 69,
+     "titulo": "El Dorado: IV. F E A R",
+     "duracao": "4:07"
+    },
+    {
+     "n": 70,
+     "titulo": "El Dorado: V. The Grandchildren of Apes",
+     "duracao": "2:35"
+    },
+    {
+     "n": 71,
+     "titulo": "Living in F E A R",
+     "duracao": "6:25"
+    },
+    {
+     "n": 72,
+     "titulo": "The Leavers: I. Wake Up in Music",
+     "duracao": "4:27"
+    },
+    {
+     "n": 73,
+     "titulo": "The Leavers: II. The Remainers",
+     "duracao": "1:34"
+    },
+    {
+     "n": 74,
+     "titulo": "The Leavers: III. Vapour Trails in the Sky",
+     "duracao": "4:49"
+    },
+    {
+     "n": 75,
+     "titulo": "The Leavers: IV. The Jumble of Days",
+     "duracao": "4:20"
+    },
+    {
+     "n": 76,
+     "titulo": "The Leavers: V. One Tonight",
+     "duracao": "3:56"
+    },
+    {
+     "n": 77,
+     "titulo": "White Paper",
+     "duracao": "7:18"
+    },
+    {
+     "n": 78,
+     "titulo": "The New Kings: I. Fuck Everyone and Run",
+     "duracao": "4:22"
+    },
+    {
+     "n": 79,
+     "titulo": "The New Kings: II. Russia’s Locked Doors",
+     "duracao": "6:24"
+    },
+    {
+     "n": 80,
+     "titulo": "The New Kings: III. A Scary Sky",
+     "duracao": "2:33"
+    },
+    {
+     "n": 81,
+     "titulo": "The New Kings: IV. Why Is Nothing Ever True?",
+     "duracao": "3:24"
+    },
+    {
+     "n": 82,
+     "titulo": "Tomorrow’s New Country",
+     "duracao": "1:47"
+    },
+    {
+     "n": 83,
+     "titulo": "El Dorado: I. Long‐Shadowed Sun (instrumental)",
+     "duracao": "1:26"
+    },
+    {
+     "n": 84,
+     "titulo": "El Dorado: II. The Gold (instrumental)",
+     "duracao": "6:12"
+    },
+    {
+     "n": 85,
+     "titulo": "El Dorado: III. Demolished Lives (instrumental)",
+     "duracao": "2:23"
+    },
+    {
+     "n": 86,
+     "titulo": "El Dorado: IV. F E A R (instrumental)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 87,
+     "titulo": "El Dorado: V. The Grandchildren of Apes (instrumental)",
+     "duracao": "2:35"
+    },
+    {
+     "n": 88,
+     "titulo": "Living in F E A R (instrumental)",
+     "duracao": "6:25"
+    },
+    {
+     "n": 89,
+     "titulo": "The Leavers: I. Wake Up in Music (instrumental)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 90,
+     "titulo": "The Leavers: II. The Remainers (instrumental)",
+     "duracao": "1:34"
+    },
+    {
+     "n": 91,
+     "titulo": "The Leavers: III. Vapour Trails in the Sky (instrumental)",
+     "duracao": "4:49"
+    },
+    {
+     "n": 92,
+     "titulo": "The Leavers: IV. The Jumble of Days (instrumental)",
+     "duracao": "4:20"
+    },
+    {
+     "n": 93,
+     "titulo": "The Leavers: V. One Tonight (instrumental)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 94,
+     "titulo": "White Paper (instrumental)",
+     "duracao": "7:18"
+    },
+    {
+     "n": 95,
+     "titulo": "The New Kings: I. Fuck Everyone and Run (instrumental)",
+     "duracao": "4:22"
+    },
+    {
+     "n": 96,
+     "titulo": "The New Kings: II. Russia’s Locked Doors (instrumental)",
+     "duracao": "6:24"
+    },
+    {
+     "n": 97,
+     "titulo": "The New Kings: III. A Scary Sky (instrumental)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 98,
+     "titulo": "The New Kings: IV. Why Is Nothing Ever True? (instrumental)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 99,
+     "titulo": "Tomorrow’s New Country (instrumental)",
+     "duracao": "1:47"
+    },
+    {
+     "n": 100,
+     "titulo": "The Making of F E A R",
+     "duracao": "63:46"
+    },
+    {
+     "n": 101,
+     "titulo": "Racket Club Jam 1 (El Dorado)",
+     "duracao": "3:44"
+    },
+    {
+     "n": 102,
+     "titulo": "Racket Club Jam 2 (The Leavers)",
+     "duracao": "1:27"
+    },
+    {
+     "n": 103,
+     "titulo": "String Quartet Recording Session (The New Kings)",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 472,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fuck_Everyone_and_Run_%28F_E_A_R%29",
+   "resumo_en": "Fuck Everyone and Run (F E A R) is the eighteenth studio album by the British neo-prog band Marillion, released in 2016.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "698fb9b8-eff6-4a29-9cf7-dee75321603d",
+   "titulo": "With Friends From the Orchestra",
+   "data": "2019-10-16",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/88893bae-be2b-47c8-b70b-8d863053f655/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Estonia",
+     "duracao": "7:57"
+    },
+    {
+     "n": 2,
+     "titulo": "A Collection",
+     "duracao": "3:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Fantastic Place",
+     "duracao": "6:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Beyond You",
+     "duracao": "5:25"
+    },
+    {
+     "n": 5,
+     "titulo": "This Strange Engine",
+     "duracao": "16:20"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hollow Man",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "The Sky Above the Rain",
+     "duracao": "10:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Seasons End",
+     "duracao": "8:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Ocean Cloud",
+     "duracao": "18:00"
+    }
+   ],
+   "duracao_min": 80,
+   "critica": {},
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/With_Friends_from_the_Orchestra",
+   "resumo_en": "With Friends from the Orchestra is an album by the English progressive rock band Marillion. It was released on 29 November 2019 through earMUSIC and Intact Records. The album consists of orchestral re-recordings of songs from the band's catalogue, spanning Seasons End (1989) to Sounds That Can't Be Made (2012). Recording took place at the Racket Club (the band's own studio) and Peter Gabriel's Real World Studios. Strings were provided by the in Praise of Folly String Quartet, and string arrangements were written by Michael Hunter, who also co-produced the album with the band. The release is the band's second album of re-recordings, after Less Is More (2009).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e9e9b0e3-b2c2-4fa2-bda3-97401bef3828",
+   "titulo": "An Hour Before It’s Dark",
+   "data": "2022-03-04",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/5a536703-8785-4217-affb-03a70ca8eb5a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Be Hard on Yourself (I) The Tear in the Big Picture",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Be Hard on Yourself (II) Lust for Luxury",
+     "duracao": "2:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Be Hard on Yourself (III) You Can Learn",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Reprogram the Gene (I) Invincible",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Reprogram the Gene (II) Trouble‐Free Life",
+     "duracao": "2:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Reprogram the Gene (III) A Cure for Us?",
+     "duracao": "1:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Only a Kiss",
+     "duracao": "0:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Murder Machines",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "The Crow and the Nightingale",
+     "duracao": "6:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Sierra Leone (I) Chance in a Million",
+     "duracao": "1:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Sierra Leone (II) The White Sand",
+     "duracao": "0:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Sierra Leone (III) The Diamond",
+     "duracao": "3:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Sierra Leone (IV) The Blue Warm Air",
+     "duracao": "2:23"
+    },
+    {
+     "n": 14,
+     "titulo": "Sierra Leone (V) More Than Treasure",
+     "duracao": "2:34"
+    },
+    {
+     "n": 15,
+     "titulo": "Care (I) Maintenance Drugs",
+     "duracao": "4:37"
+    },
+    {
+     "n": 16,
+     "titulo": "Care (II) An Hour Before It’s Dark",
+     "duracao": "2:27"
+    },
+    {
+     "n": 17,
+     "titulo": "Care (III) Every Cell",
+     "duracao": "3:19"
+    },
+    {
+     "n": 18,
+     "titulo": "Care (IV) Angels on Earth",
+     "duracao": "4:56"
+    },
+    {
+     "n": 19,
+     "titulo": "Murder Machines (12″ remix)",
+     "duracao": "6:26"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/An_Hour_Before_It%27s_Dark",
+   "resumo_en": "An Hour Before It's Dark is the 20th studio album by British neo-prog band Marillion, released on 4 March 2022 by Intact and earMUSIC.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,7666 @@
+{
+ "id": "ella-fitzgerald",
+ "nome": "Ella Fitzgerald",
+ "cena": "Jazz essencial",
+ "mbid": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+ "wikidata": "Q1768",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1917",
+ "fim": "1996",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "swing",
+  "vocal jazz",
+  "blues",
+  "big band"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ella_Fitzgerald_%28Gottlieb_02871%29.jpg/500px-Ella_Fitzgerald_%28Gottlieb_02871%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Ella_Fitzgerald",
+ "resumo_pt": "Ella Jane Fitzgerald (Newport News, 25 de abril de 1917 — Beverly Hills, 15 de junho de 1996) foi uma cantora e compositora estadunidense. Com uma extensão vocal que abrangia três oitavas, era notória pela pureza de sua tonalidade, sua dicção, fraseado e entonação impecáveis, bem como uma habilidade de improviso \"semelhante a um instrumento de sopro\", particularmente no scat.\nConsiderada uma das intérpretes supremas do chamado Great American Songbook, teve uma carreira que durou 59 anos, venceu 14 prêmios Grammy e recebeu a Medalha Nacional das Artes do presidente americano Ronald Reagan, bem como a Medalha Presidencial da Liberdade, do sucessor de Reagan, George H. W. Bush.",
+ "resumo_en": "Ella Jane Fitzgerald (April 25, 1917 – June 15, 1996) was an American jazz vocalist, songwriter and composer, sometimes referred to as the \"First Lady of Song\", \"Queen of Jazz\", and \"Lady Ella\". She was noted for her purity of tone, impeccable diction, phrasing, timing, intonation, and a \"horn-like\" improvisational ability, particularly in her scat singing.\nAfter a tumultuous adolescence, Fitzgerald found stability in musical success with the Chick Webb Orchestra, performing across the country but most often associated with the Savoy Ballroom in Harlem. Her rendition of the nursery rhyme \"A-Tisket, A-Tasket\" helped boost both her and Webb to national fame. After taking over the band when Webb died in 1939, Fitzgerald left it behind in 1942 to start her solo career. Fitzgerald's manager was Moe Gale, co-founder of the Savoy, until she turned the rest of her career over to Norman Granz, who founded Verve Records to produce new records by Fitzgerald. With Verve, Fitzgerald recorded some of her more widely noted works, particularly her interpretations of the Great American Songbook.\nFitzgerald also appeared in films and as a guest on popular television shows in the second half of the twentieth century. Outside her solo career, Fitzgerald created music with Louis Armstrong, Duke Ellington, and The Ink Spots. These partnerships produced songs such as \"Dream a Little Dream of Me\", \"Cheek to Cheek\", \"Into Each Life Some Rain Must Fall\", and \"It Don't Mean a Thing (If It Ain't Got Tha",
+ "albuns": [
+  {
+   "id": "1cc684d8-cede-492b-9828-1a2889996eef",
+   "titulo": "Souvenir Album",
+   "data": "1949",
+   "ano": "1949",
+   "capa": "https://coverartarchive.org/release/e31bcb30-0e16-42a7-9db6-e7dcdbd69ac6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m the Lonesomest Gal in Town",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The One I Love (Belongs to Somebody Else)",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Baby, Won’t You Please Come Home",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I Can’t Believe That You’re in Love With Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "I Got It Bad (and That Ain’t Good)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Cabin in the Sky",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I Must Have That Man",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Can’t Help Lovin’ Dat Man",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c63316e6-dcbb-460b-a103-f4a8f63c510f",
+   "titulo": "Ella Sings Gershwin",
+   "data": "1950",
+   "ano": "1950",
+   "capa": "https://coverartarchive.org/release/b2cf3bc4-d856-4d61-9f89-ae7c15919434/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Someone to Watch Over Me",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "My One and Only (What Am I Gonna Do)",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "But Not for Me",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Looking for a Boy",
+     "duracao": "3:09"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ve Got a Crush on You",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "How Long Has This Been Going On?",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Maybe",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Soon",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 26,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Sings_Gershwin",
+   "resumo_en": "Ella Sings Gershwin is a 1950 studio album by Ella Fitzgerald, accompanied by the pianist Ellis Larkins. Issued on DL5300 on the Decca label, Originally on 10\" vinyl, which preceded album releases on 12\" vinyl, it featured eight tracks.\nThe complete album was combined with Fitzgerald's 1954 album Songs in a Mellow Mood and re-issued on CD in 1994 by MCA Records on the GRP Jazz label under the title Pure Ella.\nFitzgerald released two other albums of all Gershwin material, Ella Fitzgerald Sings the George and Ira Gershwin Songbook (1959) and Nice Work If You Can Get It (1983).",
+   "spotify": "3DJYxksYYP018jgpOTVXqO",
+   "youtube": null
+  },
+  {
+   "id": "f7e65e2b-020e-4ba4-a7bf-d5fa485f2581",
+   "titulo": "Ella-Songs in a Mellow Mood",
+   "data": "1954",
+   "ano": "1954",
+   "capa": "https://coverartarchive.org/release/9ed886ec-d2e3-4e0f-92f5-48f58b5a85a0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Glad There Is You (in This World of Ordinary People)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 2,
+     "titulo": "What Is There to Say?",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "People Will Say We’re in Love",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Please Be Kind",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Until the Real Thing Comes Along",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Makin’ Whoopee!",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Imagination",
+     "duracao": "2:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Star Dust",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "My Heart Belongs to Daddy",
+     "duracao": "2:36"
+    },
+    {
+     "n": 10,
+     "titulo": "You Leave Me Breathless",
+     "duracao": "3:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Baby, What Else Can I Do?",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Nice Work If You Can Get It",
+     "duracao": "2:38"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_in_a_Mellow_Mood",
+   "resumo_en": "Songs in a Mellow Mood is a 1954 studio album by Ella Fitzgerald, accompanied by the pianist Ellis Larkins. The complete album was re-issued as part of the 1994 MCA Records CD, Pure Ella.",
+   "spotify": "1338rSct9IsEkEalZuf8QI",
+   "youtube": null
+  },
+  {
+   "id": "3b0ce0a7-9716-3b7a-8a0b-21258fa734ab",
+   "titulo": "Sweet and Hot",
+   "data": "1955",
+   "ano": "1955",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thanks for the Memory",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "It Might as Well Be Spring",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "You’ll Never Know",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I Can’t Started",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Moanin’ Low",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Taking a Chance on Love",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "That Old Black Magic",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Old Devil Moon",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Lover, Come Back to Me",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Between the Devil and the Deep Blue Sea",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "(If You Can’t Sing It) You’ll Have to Swing It",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sweet_and_Hot_%28album%29",
+   "resumo_en": "Sweet and Hot is a 1955 studio album by Ella Fitzgerald, issued on the Decca Records label. The album features tracks recorded during the early 1950s, that had been previously issued on 78 rpm single. MCA Records re-issued the complete album on CD, in 1998, together with the 1955 album Lullabies of Birdland.",
+   "spotify": "4ATQnfLrLxwHvsMcpIYhV0",
+   "youtube": null
+  },
+  {
+   "id": "cdd584cb-f2ad-4e2c-bbaa-ebd6fef96d35",
+   "titulo": "Lullabies of Birdland",
+   "data": "1955",
+   "ano": "1955",
+   "capa": "https://coverartarchive.org/release/5678a5a2-9ea6-375c-b031-1da1f49841dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lullaby of Birdland",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Rough Ridin’",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Angel Eyes",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Smooth Sailing",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Oh, Lady Be Good",
+     "duracao": "3:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Later",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Ella Hums the Blues",
+     "duracao": "5:13"
+    },
+    {
+     "n": 8,
+     "titulo": "How High the Moon",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Air Mail Special",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Flying Home",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lullabies_of_Birdland",
+   "resumo_en": "Lullabies of Birdland is a 1955 studio album by Ella Fitzgerald, issued on the Decca Records label. The album features tracks recorded during the late 1940s and early 1950s, that had been previously issued on 78 rpm single. MCA Records re-issued the complete album on CD, in 1998, together with the 1955 album Sweet and Hot.",
+   "spotify": "03Bd4HBqi4p3pRHsFWacwD",
+   "youtube": null
+  },
+  {
+   "id": "3750e756-fcaa-38d7-9b43-bbea69fdadaa",
+   "titulo": "Ella Fitzgerald Sings the Rodgers and Hart Song Book",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/88595617-1ce6-4e44-be80-9782fe2adbea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Have You Met Miss Jones?",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You Took Advantage of Me",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "A Ship Without a Sail",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "To Keep My Love Alive",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Dancing on the Ceiling",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "The Lady Is a Tramp",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "With a Song in My Heart",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Manhattan",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Johnny One Note",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I Wish I Were in Love Again",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Spring Is Here",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "It Never Entered My Mind",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "This Can’t Be Love",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Thou Swell",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "My Romance",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Where or When",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Little Girl Blue",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Give It Back to the Indians",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Ten Cents a Dance",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "There’s a Small Hotel",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "I Didn’t Know What Time it Was",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Everything I’ve Got",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "I Could Write a Book",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "Blue Room",
+     "duracao": null
+    },
+    {
+     "n": 25,
+     "titulo": "My Funny Valentine",
+     "duracao": null
+    },
+    {
+     "n": 26,
+     "titulo": "Bewitched",
+     "duracao": null
+    },
+    {
+     "n": 27,
+     "titulo": "Mountain Greenery",
+     "duracao": null
+    },
+    {
+     "n": 28,
+     "titulo": "Wait Til You See Her",
+     "duracao": null
+    },
+    {
+     "n": 29,
+     "titulo": "Lover",
+     "duracao": null
+    },
+    {
+     "n": 30,
+     "titulo": "Isn’t It Romantic",
+     "duracao": null
+    },
+    {
+     "n": 31,
+     "titulo": "Here in My Arms",
+     "duracao": null
+    },
+    {
+     "n": 32,
+     "titulo": "Blue Moon",
+     "duracao": null
+    },
+    {
+     "n": 33,
+     "titulo": "My Heart Stood Still",
+     "duracao": null
+    },
+    {
+     "n": 34,
+     "titulo": "I’ve Got Five Dollars",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.6,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Rodgers_%26_Hart_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Rodgers and Hart Song Book is a 1956 studio album by the American jazz singer Ella Fitzgerald, with a studio orchestra conducted and arranged by Buddy Bregman, focusing on songs written by Richard Rodgers and Lorenz Hart.\nIn 1999, this album was inducted into the Grammy Hall of Fame – a special Grammy award established in 1973 to honor recordings that are at least twenty-five years old and that have \"qualitative or historical significance\".\nIn 2000, Ella Fitzgerald Sings the Rodgers and Hart Song Book was voted number 642 in Colin Larkin's All Time Top 1000 Albums.",
+   "spotify": "1nUREJEUkPZgEreAOOlX69",
+   "youtube": null
+  },
+  {
+   "id": "6a8ec885-544e-3b31-859a-a73289a01421",
+   "titulo": "Ella and Louis",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/3f1385f1-2cea-4902-bbb9-57564298d11e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Can’t We Be Friends",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Isn’t This a Lovely Day",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Moonlight in Vermont",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "They Can’t Take That Away From Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Under a Blanket of Blue",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Tenderly",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "A Foggy Day",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Stars Fell on Alabama",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Cheek to Cheek",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "The Nearness of You",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "April in Paris",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_and_Louis",
+   "resumo_en": "Ella and Louis is an album by Ella Fitzgerald and Louis Armstrong, accompanied by the Oscar Peterson Quartet, released in October 1956. Having previously collaborated in the late 1940s for the Decca label, this was the first of three albums that Fitzgerald and Armstrong were to record together for Verve Records, later followed by 1957's Ella and Louis Again and 1959's Porgy and Bess.",
+   "spotify": "1rP6GkPbp6DvIW59005PnR",
+   "youtube": null
+  },
+  {
+   "id": "dcc0d723-e27f-36e8-8438-dbbde7eb9a67",
+   "titulo": "Ella Fitzgerald Sings the Cole Porter Song Book",
+   "data": "1956-09",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/617fe930-78f2-4b41-9e7d-db0a5f4f6023/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Through the Night",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Anything Goes",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Miss Otis Regrets (She’s Unable to Lunch Today)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Too Darn Hot",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "In the Still of the Night",
+     "duracao": "2:40"
+    },
+    {
+     "n": 6,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Do I Love You?",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m Always True to You in My Fashion",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Let’s Do It (Let’s Fall in Love)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Just One of Those Things",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Ev’ry Time We Say Goodbye",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "All of You",
+     "duracao": "1:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Begin the Beguine",
+     "duracao": "3:39"
+    },
+    {
+     "n": 14,
+     "titulo": "Get Out of Town",
+     "duracao": "3:24"
+    },
+    {
+     "n": 15,
+     "titulo": "I Am in Love",
+     "duracao": "4:08"
+    },
+    {
+     "n": 16,
+     "titulo": "From This Moment On",
+     "duracao": "3:16"
+    },
+    {
+     "n": 17,
+     "titulo": "I Love Paris",
+     "duracao": "4:56"
+    },
+    {
+     "n": 18,
+     "titulo": "You Do Something to Me",
+     "duracao": "2:20"
+    },
+    {
+     "n": 19,
+     "titulo": "Ridin’ High",
+     "duracao": "3:17"
+    },
+    {
+     "n": 20,
+     "titulo": "Easy to Love",
+     "duracao": "3:24"
+    },
+    {
+     "n": 21,
+     "titulo": "It’s All Right With Me",
+     "duracao": "3:06"
+    },
+    {
+     "n": 22,
+     "titulo": "Why Can’t You Behave?",
+     "duracao": "5:04"
+    },
+    {
+     "n": 23,
+     "titulo": "What Is This Thing Called Love?",
+     "duracao": "2:01"
+    },
+    {
+     "n": 24,
+     "titulo": "You’re the Top",
+     "duracao": "3:37"
+    },
+    {
+     "n": 25,
+     "titulo": "Love for Sale",
+     "duracao": "5:52"
+    },
+    {
+     "n": 26,
+     "titulo": "It’s Delovely",
+     "duracao": "2:04"
+    },
+    {
+     "n": 27,
+     "titulo": "Night and Day",
+     "duracao": "3:02"
+    },
+    {
+     "n": 28,
+     "titulo": "Ace in the Hole",
+     "duracao": "1:57"
+    },
+    {
+     "n": 29,
+     "titulo": "So in Love",
+     "duracao": "3:50"
+    },
+    {
+     "n": 30,
+     "titulo": "I’ve Got You Under My Skin",
+     "duracao": "2:43"
+    },
+    {
+     "n": 31,
+     "titulo": "I Concentrate on You",
+     "duracao": "3:12"
+    },
+    {
+     "n": 32,
+     "titulo": "Don’t Fence Me In",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 107,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Cole_Porter_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Cole Porter Song Book is a 1956 studio double album by American jazz singer Ella Fitzgerald, accompanied by a studio orchestra conducted and arranged by Buddy Bregman, focusing on the songs of Cole Porter. It is the first in a series of thematic LPs devoted to great American songwriters that Fitzgerald recorded from 1956 to 1964.",
+   "spotify": "4iNmDhEZ1WYGecKm9ekWxB",
+   "youtube": "OLAK5uy_mMbYxX5Fp5pvRR3XlDlg_UbitEMpzmv2E"
+  },
+  {
+   "id": "14f06581-a479-4f5c-bcf7-6a6ec98f7dad",
+   "titulo": "Ella and Her Fellas",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/0d275bc5-65eb-42d7-8364-bcd1ec121ac0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Won’t Be Satisfied (Until You Break My Heart)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "That’s the Way It Is",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Stone Cold Dead in the Market (He Had It Coming)",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I Gotta Have My Baby Back",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Sentimental Journey",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "The Frim Fram Sauce",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "It’s Only a Paper Moon",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Dream a Little Dream of Me",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Baby, It’s Cold Outside",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "A‐Tisket A‐Tasket",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Would You Like to Take a Walk (Sump’n Good’ll Come From That)",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Don’cha Go ’way Mad",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b7758e9-6820-3f35-ab83-00ecadee2386",
+   "titulo": "Ella Fitzgerald Sings the Duke Ellington Song Book",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/2f0630af-0406-4aa5-8eb7-e55cd3d98068/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockin’ in Rhythm",
+     "duracao": "5:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Drop Me Off in Harlem",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Day Dream",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Caravan",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Take the “A” Train",
+     "duracao": "6:37"
+    },
+    {
+     "n": 6,
+     "titulo": "I Ain’t Got Nothing but the Blues",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Clementine",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "I Didn’t Know About You",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Beginning to See the Light",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Lost in Meditation",
+     "duracao": "3:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Perdido",
+     "duracao": "6:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Cotton Tail",
+     "duracao": "3:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Do Nothin’ Till You Hear From Me",
+     "duracao": "7:38"
+    },
+    {
+     "n": 14,
+     "titulo": "Just A‐Sittin’ and A‐Rockin’",
+     "duracao": "3:30"
+    },
+    {
+     "n": 15,
+     "titulo": "Solitude",
+     "duracao": "2:04"
+    },
+    {
+     "n": 16,
+     "titulo": "Rocks in My Bed",
+     "duracao": "3:56"
+    },
+    {
+     "n": 17,
+     "titulo": "Satin Doll",
+     "duracao": "3:26"
+    },
+    {
+     "n": 18,
+     "titulo": "Sophisticated Lady",
+     "duracao": "5:18"
+    },
+    {
+     "n": 19,
+     "titulo": "Just Squeeze Me",
+     "duracao": "4:13"
+    },
+    {
+     "n": 20,
+     "titulo": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 21,
+     "titulo": "Azure",
+     "duracao": "2:18"
+    },
+    {
+     "n": 22,
+     "titulo": "I Let a Song Go Out of My Heart",
+     "duracao": "4:08"
+    },
+    {
+     "n": 23,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "2:44"
+    },
+    {
+     "n": 24,
+     "titulo": "Don’t Get Around Much Anymore",
+     "duracao": "4:59"
+    },
+    {
+     "n": 25,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "5:26"
+    },
+    {
+     "n": 26,
+     "titulo": "Mood Indigo",
+     "duracao": "3:24"
+    },
+    {
+     "n": 27,
+     "titulo": "In a Mellow Tone",
+     "duracao": "5:07"
+    },
+    {
+     "n": 28,
+     "titulo": "Love You Madly",
+     "duracao": "4:37"
+    },
+    {
+     "n": 29,
+     "titulo": "Lush Life",
+     "duracao": "3:37"
+    },
+    {
+     "n": 30,
+     "titulo": "Squatty Roo",
+     "duracao": "3:38"
+    },
+    {
+     "n": 31,
+     "titulo": "I’m Just a Lucky So and So",
+     "duracao": "4:12"
+    },
+    {
+     "n": 32,
+     "titulo": "All Too Soon",
+     "duracao": "4:22"
+    },
+    {
+     "n": 33,
+     "titulo": "Everything but You",
+     "duracao": "2:53"
+    },
+    {
+     "n": 34,
+     "titulo": "I Got It Bad and That Ain’t Good",
+     "duracao": "6:11"
+    },
+    {
+     "n": 35,
+     "titulo": "Bli‐Blip",
+     "duracao": "3:01"
+    },
+    {
+     "n": 36,
+     "titulo": "Chelsea Bridge",
+     "duracao": "3:20"
+    },
+    {
+     "n": 37,
+     "titulo": "Portrait of Ella Fitzgerald",
+     "duracao": "16:10"
+    },
+    {
+     "n": 38,
+     "titulo": "The E and D Blues (E for Ella D for Duke)",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 170,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.4,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Duke_Ellington_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Duke Ellington Song Book is a 1957 studio album by the American jazz singer Ella Fitzgerald, accompanied by Duke Ellington and his orchestra, focusing on Ellington's songs.\nPart of Fitzgerald's \"Song Book\" series, it is the only one where the composer is also featured as a performer and the first occasion Fitzgerald recorded with Ellington. It is also the entry in the Song Book series that provided her with the most opportunities to exhibit her skill at scat singing.\nThe greater part of disc three is devoted to two original compositions by Billy Strayhorn, inspired by Fitzgerald's life, character, and artistry. Fitzgerald's performance on this album won her the Grammy Award for Best Jazz Performance, Individual, at the 1st Annual Grammy Awards.\nThe album was released in two volumes: the first features Fitzgerald with the Ellington orchestra, while the second, finds her in a small group setting.\nThis album marked the start of a fruitful artistic relationship for Fitzgerald and Ellington. The 1960s would see them perform on the Côte d'Azur for the album Ella and Duke at the Cote D'Azur (1966), and in Sweden for The Stockholm Concert, 1966. Their only other s",
+   "spotify": "25eBsQypjHakiWu1OnPHCX",
+   "youtube": null
+  },
+  {
+   "id": "69a8029e-37b7-4096-9f97-0ac4adec9e61",
+   "titulo": "Ella Fitzgerald Sings the Duke Ellington Song Book, Volume 2",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/6d1c0840-bdb6-446a-8a0d-2bbc86b5ef47/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Let a Song Go Out of My Heart",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Get Around Much Anymore",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Mood Indigo",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "In a Mellow Tone",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Love You Madly",
+     "duracao": "4:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Lush Life",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Squatty Roo",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "I'm Just a Lucky So and So",
+     "duracao": "4:12"
+    },
+    {
+     "n": 11,
+     "titulo": "All Too Soon",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Everything but You",
+     "duracao": "2:53"
+    },
+    {
+     "n": 13,
+     "titulo": "I Got It Bad and That Ain't Good",
+     "duracao": "6:11"
+    },
+    {
+     "n": 14,
+     "titulo": "Bli-Blip",
+     "duracao": "3:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Chelsea Bridge",
+     "duracao": "3:20"
+    },
+    {
+     "n": 16,
+     "titulo": "Portrait of Ella Fitzgerald",
+     "duracao": "16:10"
+    },
+    {
+     "n": 17,
+     "titulo": "The E and D Blues (E for Ella D for Duke)",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 83,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "95a6a9de-094e-3234-bca2-b7a6918b1d95",
+   "titulo": "Porgy & Bess",
+   "data": "1957-08",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/ddba4270-db92-4d4b-b355-97d53fda5d6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overture",
+     "duracao": "10:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Summertime",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "I Wants to Stay Here",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "My Man’s Gone Now",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "I Got Plenty O’ Nuttin",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Buzzard Song",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Bess, You Is My Woman Now",
+     "duracao": "5:28"
+    },
+    {
+     "n": 8,
+     "titulo": "It Ain’t Necessarily So",
+     "duracao": "6:34"
+    },
+    {
+     "n": 9,
+     "titulo": "What You Want Wid Bess?",
+     "duracao": "1:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Woman Is a Sometime Thing",
+     "duracao": "4:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Oh, Doctor Jesus",
+     "duracao": "2:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Medley: Here Come De Honey Man / Crab Man / Oh, Dey’s So Fresh and Fine",
+     "duracao": "3:29"
+    },
+    {
+     "n": 13,
+     "titulo": "There’s a Boat Dat’s Leavin’ Soon for New York",
+     "duracao": "4:51"
+    },
+    {
+     "n": 14,
+     "titulo": "Oh Bess, Oh Where’s My Bess?",
+     "duracao": "2:36"
+    },
+    {
+     "n": 15,
+     "titulo": "Oh, Lawd, I’m on My Way!",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Porgy_and_Bess_%28Ella_Fitzgerald_and_Louis_Armstrong_album%29",
+   "resumo_en": "Porgy and Bess is a studio album by jazz vocalist and trumpeter Louis Armstrong and singer Ella Fitzgerald, released on Verve Records in 1959. The third and final of the pair's albums for the label, it is a suite of selections from the George Gershwin opera Porgy and Bess. Orchestral arrangements are by Russell Garcia, who had previously arranged the 1956 jazz vocal recording The Complete Porgy and Bess.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7108712f-b350-310b-9419-232dceaaba00",
+   "titulo": "Ella and Louis Again",
+   "data": "1957-10-11",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/23a8977e-9a9c-48c0-947c-eb8b7ff9ada1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Be That Way",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Makin' Whoopee",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "They All Laughed",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Comes Love",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Autumn In New York",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Let's Do It (Let's Fall In Love)",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Stompin' At The Savoy",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "I Won't Dance",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Gee Baby Ain't I Good To You",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_and_Louis_Again",
+   "resumo_en": "Ella and Louis Again is a studio album by Ella Fitzgerald and Louis Armstrong, released in 1957 on Verve Records. It is the sequel to their 1956 album, Ella and Louis. In contrast to their previous collaboration, this album features seven solo vocal tracks by either Armstrong or Fitzgerald amongst its dozen duet tracks. It was reissued as part of a two-compact disc set in 1995, and in The Complete Ella Fitzgerald & Louis Armstrong on Verve in 1997. It was recorded at Radio Recorders and Capitol Studios, Hollywood.",
+   "spotify": "4zWqQOob980K9drUrUGM8M",
+   "youtube": null
+  },
+  {
+   "id": "af90681f-036f-48f7-be9b-156de7e4a61f",
+   "titulo": "Ella and Louis Again, Volume Two",
+   "data": "1957-10-11",
+   "ano": "1957",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let’s Call the Whole Thing Off",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "These Foolish Things (Remind Me of You)",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "I’ve Got My Love to Keep Me Warm",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Willow Weep for Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Puttin’ All My Eggs in One Basket",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "A Fine Romance",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Ill Wind",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is Here to Stay",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Learnin’ the Blues",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e526ce20-1ba5-3b60-a405-358bbb845dea",
+   "titulo": "Like Someone in Love",
+   "data": "1957-12",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/786329ff-87f2-4b90-a353-544125a086b6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "There’s a Lull in My Life",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "More Than You Know",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "What Will I Tell My Heart",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "I Never Had a Chance",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Close Your Eyes",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "We’ll Be Together Again",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Then I’ll Be Tired of You",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Like Someone in Love",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Midnight Sun",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "I Thought About You",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re Blase",
+     "duracao": "4:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Night Wind",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "What’s New",
+     "duracao": "3:08"
+    },
+    {
+     "n": 14,
+     "titulo": "Hurry Home",
+     "duracao": "4:42"
+    },
+    {
+     "n": 15,
+     "titulo": "How Long Has This Been Going On",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Like_Someone_in_Love_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Like Someone in Love is a 1957 studio album by the American jazz singer Ella Fitzgerald, with a studio orchestra arranged and conducted by Frank DeVol. This album represents a fine example of Ella's singing from this period, recorded at the same time as her albums with Louis Armstrong.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dc347819-c7d0-42c2-a8a0-80a40849b281",
+   "titulo": "The First Lady of Song",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/5be47a06-8a49-4f9a-8ec0-d1a765b905ef/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My One and Only Love",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The Impatient Years",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "But Not Like Mine",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I’ve Got the World on a String",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "An Empty Ballroom",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "You Turned the Tables on Me",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Ella’s Contribution to the Blues",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "That’s My Desire",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "A Satisfied Mind",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Careless",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Give a Little – Get a Little",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Blue Lou",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "13c2976d-5c40-305e-959e-d00f70097b06",
+   "titulo": "Ella Fitzgerald Sings the Irving Berlin Song Book",
+   "data": "1958-07-04",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/333eacea-46b7-4204-b85d-193ffa3662dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let’s Face the Music and Dance",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You’re Laughing at Me",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Let Yourself Go",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "You Can Have Him",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Russian Lullaby",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Puttin’ On the Ritz",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Get Thee Behind Me Satan",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Alexander’s Ragtime Band",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Top Hat, White Tie and Tails",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "How About Me",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Cheek to Cheek",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "I Used to Be Color Blind",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Lazy",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "How Deep Is the Ocean (How High Is the Sky)",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "All by Myself",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Remember",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Suppertime",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "How’s Chances",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Heat Wave",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Isn’t This a Lovely Day",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "You Keep Coming Back Like a Song",
+     "duracao": null
+    },
+    {
+     "n": 22,
+     "titulo": "Reaching for the Moon",
+     "duracao": null
+    },
+    {
+     "n": 23,
+     "titulo": "Slumming on Park Avenue",
+     "duracao": null
+    },
+    {
+     "n": 24,
+     "titulo": "The Song Is Ended",
+     "duracao": null
+    },
+    {
+     "n": 25,
+     "titulo": "I’m Putting All My Eggs in One Basket",
+     "duracao": null
+    },
+    {
+     "n": 26,
+     "titulo": "Now It Can Be Told",
+     "duracao": null
+    },
+    {
+     "n": 27,
+     "titulo": "Always",
+     "duracao": null
+    },
+    {
+     "n": 28,
+     "titulo": "It’s a Lovely Day Today",
+     "duracao": null
+    },
+    {
+     "n": 29,
+     "titulo": "Change Partners",
+     "duracao": null
+    },
+    {
+     "n": 30,
+     "titulo": "No Strings (I’m Fancy Free)",
+     "duracao": null
+    },
+    {
+     "n": 31,
+     "titulo": "I’ve Got My Love to Keep Me Warm",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Irving_Berlin_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Irving Berlin Song Book is a 1958 studio album by the American jazz singer Ella Fitzgerald, with a studio orchestra conducted and arranged by Paul Weston, focusing on the songs of Irving Berlin. It was part of the popular and influential Songbook series.",
+   "spotify": "2hK70fCNOlYgTg0sQMzPbj",
+   "youtube": null
+  },
+  {
+   "id": "18f7bb59-93ac-4686-af88-0a45f8f50bd8",
+   "titulo": "Ella Fitzgerald Sings the Gershwin Song Book, Volume 1",
+   "data": "1959",
+   "ano": "1959",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "But Not for Me",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Fascinatin’ Rhythm",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "They All Laughed",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "The Man I Love",
+     "duracao": "3:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Nice Work If You Can Get It",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Clap Yo’ Hands",
+     "duracao": "2:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Let’s Call the Whole Thing Off",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is Here to Stay",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "I Was Doing All Right",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "He Loves and She Loves",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Lorelei",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "(I’ve Got) Beginner’s Luck",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "467f1e95-2839-46ab-b124-be1d54b017f5",
+   "titulo": "Ella Fitzgerald Sings the Gershwin Song Book, Vol. 2",
+   "data": "1959",
+   "ano": "1959",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Someone to Watch Over Me",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "’S Wonderful",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Embraceable You",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "They Can’t Take That Away From Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "For You, for Me, for Evermore",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Soon",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "A Foggy Day",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "I’ve Got a Crush on You",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Looking for a Boy",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Oh, Lady Be Good!",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Who Cares?",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Love Walked In",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "558c2b1b-79b3-3f78-b4ae-14cecc2c9036",
+   "titulo": "Sings Sweet Songs for Swingers",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/b2f45e29-f077-333e-ac72-87712fa2251f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweet and Lovely",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Let’s Fall in Love",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Makin’ Whoopee",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "That Old Feeling",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "I Remember You",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Moonlight Serenade",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Gone With the Wind",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Can’t We Be Friends?",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Out of This World",
+     "duracao": "4:37"
+    },
+    {
+     "n": 10,
+     "titulo": "My Old Flame",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "East of the Sun (and West of the Moon)",
+     "duracao": "3:48"
+    },
+    {
+     "n": 12,
+     "titulo": "Lullaby of Broadway",
+     "duracao": "2:26"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_Sweet_Songs_for_Swingers",
+   "resumo_en": "Ella Fitzgerald Sings Sweet Songs for Swingers is a 1959 album by the American jazz singer Ella Fitzgerald, recorded with a studio Orchestra arranged and conducted by Frank DeVol.\nElla focuses on well known jazz standards by lesser known songwriters, a useful counterbalance to her continuing songbooks project, which at this time found her in the midst of recording the epic George and Ira Gershwin Songbook.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b8a1486e-89bb-33cf-8766-86e033e7bded",
+   "titulo": "Get Happy!",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/046386b1-6775-423e-b455-179709316381/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Somebody Loves Me",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Cheerful Little Earful",
+     "duracao": "2:09"
+    },
+    {
+     "n": 3,
+     "titulo": "You Make Me Feel So Young",
+     "duracao": "2:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Beat Me, Daddy, Eight to the Bar",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Like Young",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Cool Breeze",
+     "duracao": "1:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Moonlight Becomes You",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Skies",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "You Turned the Tables on Me",
+     "duracao": "2:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Gypsy in My Soul",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Goody-Goody",
+     "duracao": "2:31"
+    },
+    {
+     "n": 12,
+     "titulo": "St. Louis Blues",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Get_Happy%21_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Get Happy! is a 1959 album by the American jazz singer Ella Fitzgerald, recorded with various studio orchestras over a two-year period.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ee010160-b42d-3443-a815-4fc0ceb837ff",
+   "titulo": "Ella Swings Lightly",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/f40b645d-5d65-4080-a2da-2547b1bc95be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little White Lies",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You Hit the Spot",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "What’s Your Story, Morning Glory?",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Just You, Just Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "As Long as I Live",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Teardrops From My Eyes",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Gotta Be This or That",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Moonlight on the Ganges",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "My Kinda Love",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Blues in the Night",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "If I Were a Bell",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "You’re an Old Smoothie",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Little Jazz",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "You Brought a New Kind of Love to Me",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Knock Me a Kiss",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "720 in the Books",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Swings_Lightly",
+   "resumo_en": "Ella Swings Lightly is a 1958 studio album by the American jazz singer Ella Fitzgerald, recorded with the Marty Paich Dek-tette. Ella also worked with Marty Paich on her 1967 album Whisper Not. The album features a typical selection of jazz standards from this era, songs from musicals like Frank Loesser's If I Were a Bell, and a famous jazz instrumental vocalised by Ella, Roy Eldridge's Little Jazz.\nThis album won Ella the 1960 Grammy award for the Best Improvised Jazz Solo.",
+   "spotify": "4G7ilgYN2eVuIkwjpKbs6U",
+   "youtube": null
+  },
+  {
+   "id": "13379fdf-2974-3dd3-a69e-f50789e2184f",
+   "titulo": "Ella Fitzgerald Sings the George and Ira Gershwin Song Book",
+   "data": "1959-11-01",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/c162072e-b819-4660-980e-10bbe9f6ddbe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ambulatory Suite (instrumental)",
+     "duracao": "7:21"
+    },
+    {
+     "n": 2,
+     "titulo": "The Preludes (instrumental)",
+     "duracao": "6:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Sam and Delilah",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "But Not for Me",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "My One and Only",
+     "duracao": "2:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Let’s Call the Whole Thing Off",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Beginner’s Luck",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Oh, Lady Be Good",
+     "duracao": "4:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Nice Work If You Can Get It",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Things Are Looking Up",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Just Another Rhumba",
+     "duracao": "5:37"
+    },
+    {
+     "n": 12,
+     "titulo": "How Long Has This Been Going On?",
+     "duracao": "3:48"
+    },
+    {
+     "n": 13,
+     "titulo": "’S Wonderful",
+     "duracao": "3:32"
+    },
+    {
+     "n": 14,
+     "titulo": "The Man I Love",
+     "duracao": "3:54"
+    },
+    {
+     "n": 15,
+     "titulo": "That Certain Feeling",
+     "duracao": "3:06"
+    },
+    {
+     "n": 16,
+     "titulo": "By Strauss",
+     "duracao": "2:33"
+    },
+    {
+     "n": 17,
+     "titulo": "Someone to Watch Over Me",
+     "duracao": "4:35"
+    },
+    {
+     "n": 18,
+     "titulo": "The Real American Folk Song (Is a Rag)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 19,
+     "titulo": "Who Cares?",
+     "duracao": "3:05"
+    },
+    {
+     "n": 20,
+     "titulo": "Looking for a Boy",
+     "duracao": "3:05"
+    },
+    {
+     "n": 21,
+     "titulo": "They All Laughed",
+     "duracao": "3:06"
+    },
+    {
+     "n": 22,
+     "titulo": "My Cousin in Milwaukee",
+     "duracao": "3:11"
+    },
+    {
+     "n": 23,
+     "titulo": "Somebody From Somewhere",
+     "duracao": "3:09"
+    },
+    {
+     "n": 24,
+     "titulo": "A Foggy Day",
+     "duracao": "3:50"
+    },
+    {
+     "n": 25,
+     "titulo": "Clap Your Hands",
+     "duracao": "2:28"
+    },
+    {
+     "n": 26,
+     "titulo": "For You, for Me, for Everyone",
+     "duracao": "3:23"
+    },
+    {
+     "n": 27,
+     "titulo": "Stiff Upper Lip",
+     "duracao": "2:50"
+    },
+    {
+     "n": 28,
+     "titulo": "Boy Wanted",
+     "duracao": "3:33"
+    },
+    {
+     "n": 29,
+     "titulo": "Strike Up the Band",
+     "duracao": "2:33"
+    },
+    {
+     "n": 30,
+     "titulo": "Soon",
+     "duracao": "2:20"
+    },
+    {
+     "n": 31,
+     "titulo": "I’ve Got a Crush on You",
+     "duracao": "3:26"
+    },
+    {
+     "n": 32,
+     "titulo": "Bidin’ My Time",
+     "duracao": "2:40"
+    },
+    {
+     "n": 33,
+     "titulo": "Aren’t You Kind of Glad We Did?",
+     "duracao": "3:28"
+    },
+    {
+     "n": 34,
+     "titulo": "Of Thee I Sing (Baby)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 35,
+     "titulo": "“The Half of It, Dearie” Blues",
+     "duracao": "3:45"
+    },
+    {
+     "n": 36,
+     "titulo": "I Was Doing All Right",
+     "duracao": "3:25"
+    },
+    {
+     "n": 37,
+     "titulo": "He Loves and She Loves",
+     "duracao": "2:46"
+    },
+    {
+     "n": 38,
+     "titulo": "Love Is Sweeping the Country",
+     "duracao": "3:24"
+    },
+    {
+     "n": 39,
+     "titulo": "Treat Me Rough",
+     "duracao": "2:54"
+    },
+    {
+     "n": 40,
+     "titulo": "Love Is Here to Stay",
+     "duracao": "3:52"
+    },
+    {
+     "n": 41,
+     "titulo": "Slap That Bass",
+     "duracao": "3:23"
+    },
+    {
+     "n": 42,
+     "titulo": "Isn’t It a Pity?",
+     "duracao": "3:23"
+    },
+    {
+     "n": 43,
+     "titulo": "Shall We Dance?",
+     "duracao": "3:08"
+    },
+    {
+     "n": 44,
+     "titulo": "Love Walked In",
+     "duracao": "3:52"
+    },
+    {
+     "n": 45,
+     "titulo": "You’ve Got What Gets Me",
+     "duracao": "2:13"
+    },
+    {
+     "n": 46,
+     "titulo": "They Can’t Take That Away From Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 47,
+     "titulo": "Embraceable You",
+     "duracao": "4:49"
+    },
+    {
+     "n": 48,
+     "titulo": "I Can’t Be Bothered Now",
+     "duracao": "2:48"
+    },
+    {
+     "n": 49,
+     "titulo": "Boy! What Love Has Done to Me!",
+     "duracao": "3:46"
+    },
+    {
+     "n": 50,
+     "titulo": "Fascinatin’ Rhythm",
+     "duracao": "3:22"
+    },
+    {
+     "n": 51,
+     "titulo": "Funny Face",
+     "duracao": "3:23"
+    },
+    {
+     "n": 52,
+     "titulo": "Lorellei",
+     "duracao": "3:21"
+    },
+    {
+     "n": 53,
+     "titulo": "Oh, So Nice",
+     "duracao": "3:40"
+    },
+    {
+     "n": 54,
+     "titulo": "Let’s Kiss and Make Up",
+     "duracao": "3:49"
+    },
+    {
+     "n": 55,
+     "titulo": "I Got Rhythm",
+     "duracao": "3:07"
+    }
+   ],
+   "duracao_min": 193,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_George_and_Ira_Gershwin_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the George and Ira Gershwin Song Book is a box set by American jazz singer Ella Fitzgerald that contains songs by George and Ira Gershwin with arrangements by Nelson Riddle. It was produced by Norman Granz, Fitzgerald's manager and the founder of Verve Records. Fifty-nine songs were recorded in the span of eight months in 1959. It is one of the eight album releases comprising what is possibly Fitzgerald's greatest musical legacy: Ella Fitzgerald Sings The Complete American Songbook, in which she recorded, with top arrangers and musicians, a comprehensive collection of both well-known and obscure songs from the Great American Songbook canon, written by the likes of Cole Porter, Rodgers & Hart, Irving Berlin, Duke Ellington, George and Ira Gershwin, Harold Arlen, Jerome Kern, and Johnny Mercer.\nFitzgerald's recording of \"But Not for Me\" won the 1960 Grammy Award for Best Vocal Performance, Female.\nIra Gershwin subsequently said that \"I never knew how good our songs were until I heard Ella Fitzgerald sing them\". Gershwin helped Fitzgerald, Granz and Riddle with the selection of songs. The songs were written by Ira and his brother George between 1924 and 1937. Ira",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "67006347-32cf-4449-b6b4-e14d7bb3a376",
+   "titulo": "Let No Man Write My Epitaph",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/8bec2429-c9b7-4c3e-a06c-6a667d992140/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Coffee",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Angel Eyes",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "I Cried for You",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "I Can’t Give You Anything but Love",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Then You’ve Never Been Blue",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "I Hadn’t Anyone Till You",
+     "duracao": "2:51"
+    },
+    {
+     "n": 7,
+     "titulo": "My Melancholy Baby",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Misty",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "September Song",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "One for My Baby (And One More for the Road)",
+     "duracao": "4:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Who’s Sorry Now",
+     "duracao": "3:28"
+    },
+    {
+     "n": 12,
+     "titulo": "I’m Getting Sentimental Over You",
+     "duracao": "2:37"
+    },
+    {
+     "n": 13,
+     "titulo": "Reach for Tomorrow",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_Songs_from_the_Soundtrack_of_%22Let_No_Man_Write_My_Epitaph%22",
+   "resumo_en": "Ella Fitzgerald Sings Songs from the Soundtrack of \"Let No Man Write My Epitaph\" is a 1960 album by the American jazz singer Ella Fitzgerald, accompanied by the pianist Paul Smith. Let No Man Write My Epitaph was a 1960 Hollywood crime drama film featuring Fitzgerald.\nUntil 2014 this album was only available on CD as The Intimate Ella, and is considered one of Ella's greatest recordings. Ella's 1950 Decca album Ella Sings Gershwin, is in a similar vein, with Ella accompanied by the pianist Ellis Larkins.\nThe album hints at a depth of emotional understanding that critics often complained was missing in Ella's reading of jazz lyrics, and once again establishes her as one of the supreme interpreters of the Great American Songbook. Scott Yanow's review of the album (on Allmusic) declared, \"Listeners who [think] Ella Fitzgerald... had trouble giving the proper emotional intensity to lyrics will be surprised by this sensitive and often haunting set\".\nIn 2020, the album was rereleased as part of the Verve compilation The Complete Piano Duets.\nDownBeat reviewer Barbara Gardner gave the album 3 stars, calling it a \"terribly flat drab collection of torch tunes. \"There are so many elements wo",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b016b13a-33b5-3885-993e-418f978d68af",
+   "titulo": "Hello Love",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/d16c5cae-4b49-44e6-a9b3-b8f8069f4d7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Go to My Head",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Willow Weep for Me",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m Thru With Love",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Spring Will Be a Little Late This Year",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Everything Happens to Me",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Lost in a Fog",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "I’ve Grown Accustomed to His Face",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ll Never Be the Same",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "So Rare",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Tenderly",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Stairway to the Stars",
+     "duracao": "2:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Moonlight in Vermont",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hello%2C_Love_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Hello Love is a 1959 studio album by the American jazz singer Ella Fitzgerald, recorded over two sessions in 1957 and 1959.\nThe album focuses on well known songs not included in Fitzgerald's epic Songbooks project, and several of the songs are tunes that she had recently recorded in duet with Louis Armstrong.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7fdfdc43-7793-3df3-8665-45d5e083f213",
+   "titulo": "Ella Wishes You a Swinging Christmas",
+   "data": "1960-11-01",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/ff5a27cf-d2cf-3eb8-bb83-e0a5366c3941/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jingle Bells",
+     "duracao": "2:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Santa Claus Is Coming to Town",
+     "duracao": "2:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Have Yourself a Merry Little Christmas",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "What Are You Doing New Year’s Eve?",
+     "duracao": "3:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Sleigh Ride",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "The Christmas Song",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Good Morning Blues",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Let It Snow! Let It Snow! Let It Snow!",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Winter Wonderland",
+     "duracao": "2:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Rudolph, the Red‐Nosed Reindeer",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Frosty the Snow Man",
+     "duracao": "2:14"
+    },
+    {
+     "n": 12,
+     "titulo": "White Christmas",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Wishes_You_a_Swinging_Christmas",
+   "resumo_en": "Ella Wishes You a Swinging Christmas is a 1960 album by the American jazz singer Ella Fitzgerald with a studio orchestra arranged and conducted by Frank DeVol. The tracks consist of secular holiday songs, in contrast to her 1967 Christmas album.\nIt is Fitzgerald's only complete Verve album of Christmas tunes. Verve had issued a 7-inch 45 rpm single in 1959, featuring \"The Christmas Song\" with \"The Secret of Christmas\" on the B-side; both were recorded with Russ Garcia and His Orchestra in September 1959. The album has been reissued several times with variations to the cover artwork.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "845afd12-a118-352c-b214-fda1a89c34cc",
+   "titulo": "Ella Fitzgerald Sings the Harold Arlen Song Book",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/40f88f7a-5bf2-4e16-b460-1933bdc05d6a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blues in the Night",
+     "duracao": "7:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Let’s Fall in Love",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Stormy Weather",
+     "duracao": "5:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Between the Devil and the Deep Blue Sea",
+     "duracao": "2:26"
+    },
+    {
+     "n": 5,
+     "titulo": "My Shining Hour",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Hooray for Love",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "This Time the Dream’s on Me",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "That Old Black Magic",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "I’ve Got the World on a String",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Let’s Take a Walk Around the Block",
+     "duracao": "4:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Ill Wind (You’re Blowin’ Me No Good)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Ac‐Cent‐Tchu‐Ate the Positive",
+     "duracao": "3:37"
+    },
+    {
+     "n": 13,
+     "titulo": "When the Sun Comes Out",
+     "duracao": "5:10"
+    },
+    {
+     "n": 14,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "3:24"
+    },
+    {
+     "n": 15,
+     "titulo": "As Long as I Live",
+     "duracao": "3:48"
+    },
+    {
+     "n": 16,
+     "titulo": "Happiness Is a Thing Called Joe",
+     "duracao": "3:30"
+    },
+    {
+     "n": 17,
+     "titulo": "It’s Only a Paper Moon",
+     "duracao": "3:37"
+    },
+    {
+     "n": 18,
+     "titulo": "The Man That Got Away",
+     "duracao": "5:21"
+    },
+    {
+     "n": 19,
+     "titulo": "One for My Baby (and One More for the Road)",
+     "duracao": "3:58"
+    },
+    {
+     "n": 20,
+     "titulo": "It Was Written in the Stars",
+     "duracao": "5:11"
+    },
+    {
+     "n": 21,
+     "titulo": "Get Happy",
+     "duracao": "3:33"
+    },
+    {
+     "n": 22,
+     "titulo": "I Gotta Right to Sing the Blues",
+     "duracao": "5:12"
+    },
+    {
+     "n": 23,
+     "titulo": "Out of This World",
+     "duracao": "2:46"
+    },
+    {
+     "n": 24,
+     "titulo": "Over the Rainbow",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 101,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Harold_Arlen_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Harold Arlen Song Book is a 1961 (see 1961 in music) album by the American jazz singer Ella Fitzgerald, with a studio orchestra conducted and arranged by Billy May. This album marked the only time that Fitzgerald worked with May.\nThe Harold Arlen Song Book is the sixth album in Fitzgerald's series of recordings of songs written by the pantheon of Broadway composers who formed the body of work now considered the Great American Songbook.\nThe cover art is a drawing by Henri Matisse.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "957ecf93-f184-3378-959b-c19cc8f947ec",
+   "titulo": "Clap Hands, Here Comes Charlie!",
+   "data": "1961-11",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/95e3f55c-013c-45b9-b7de-5eb35cfd01c6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Night in Tunisia",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "You’re My Thrill",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "My Reverie",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Stella by Starlight",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "'Round Midnight",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Jersey Bounce",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Signing Off",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Cry Me a River",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "This Year’s Kisses",
+     "duracao": "2:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Good Morning Heartache",
+     "duracao": "4:21"
+    },
+    {
+     "n": 11,
+     "titulo": "(I Was) Born to Be Blue",
+     "duracao": "2:45"
+    },
+    {
+     "n": 12,
+     "titulo": "Clap Hands, Here Comes Charlie!",
+     "duracao": "2:46"
+    },
+    {
+     "n": 13,
+     "titulo": "Spring Can Really Hang You Up the Most",
+     "duracao": "6:17"
+    },
+    {
+     "n": 14,
+     "titulo": "Music Goes 'Round and 'Round",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.9,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clap_Hands%2C_Here_Comes_Charlie%21",
+   "resumo_en": "Clap Hands, Here Comes Charlie! is a 1961 studio album by Ella Fitzgerald, with a jazz quartet led by Lou Levy. The painting on the cover is by Jean Dubuffet. The liner notes are by Benny Green of the London Observer.",
+   "spotify": "051AdKfsuNyfiUc81mkJIR",
+   "youtube": null
+  },
+  {
+   "id": "efd17113-15ff-3b5c-8fe1-128eaac242b0",
+   "titulo": "Ella Swings Gently With Nelson",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/d578e974-0f74-4e10-8347-fbe0fb18015f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweet and Slow",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Georgia on My Mind",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "I Can’t Get Started",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Street of Dreams",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Imagination",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "The Very Thought of You",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s a Blue World",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Darn That Dream",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "She’s Funny That Way",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "I Wished on the Moon",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "It’s a Pity to Say Goodnight",
+     "duracao": "2:37"
+    },
+    {
+     "n": 12,
+     "titulo": "My One and Only Love",
+     "duracao": "3:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Body and Soul",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Swings_Gently_with_Nelson",
+   "resumo_en": "Ella Swings Gently with Nelson is a 1962 studio album by the American jazz singer Ella Fitzgerald, with an orchestra arranged and conducted by Nelson Riddle.\nThis album is one of a pair, the other being Ella Swings Brightly with Nelson, that were released in 1962.",
+   "spotify": "68HQ7PHFqcnIMUkQW1aeNh",
+   "youtube": null
+  },
+  {
+   "id": "3560f23c-4b90-391a-b999-57c7cee25fd1",
+   "titulo": "Ella Fitzgerald Sings the Jerome Kern Songbook",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/debd266d-0aed-386f-b352-c3bed74701cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let’s Begin",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "A Fine Romance",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "All the Things You Are",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ll Be Hard to Handle",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "You Couldn’t Be Cuter",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "She Didn’t Say Yes",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m Old Fashioned",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Remind Me",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "The Way You Look Tonight",
+     "duracao": "4:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Yesterdays",
+     "duracao": "2:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Can’t Help Lovin’ Dat Man",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Why Was I Born?",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.1,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Jerome_Kern_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Jerome Kern Song Book is a 1963 studio album by the American jazz singer Ella Fitzgerald accompanied by an orchestra arranged and conducted by Nelson Riddle. The album focuses on the songs of the composer Jerome Kern.\nThis was the second of Fitzgerald's Song Book series to have been orchestrated by Riddle; their previous collaboration was her George and Ira Gershwin Song Book in 1959. Fitzgerald and Riddle also recorded two albums of standards, Ella Swings Brightly with Nelson and Ella Swings Gently with Nelson, in 1962.\nThis was the seventh and penultimate album in Fitzgerald's Song Book series of songs written by musical theater composers; it was preceded by 1961's Ella Fitzgerald Sings the Harold Arlen Song Book and followed by Ella Fitzgerald Sings the Johnny Mercer Song Book in 1964.\nThe album was awarded four and a half stars by Down Beat magazine in 1963.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "91a762f4-81a7-3999-a0d6-cec864a6f00c",
+   "titulo": "These Are the Blues",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/f75ae504-7e17-4366-bfe3-8ccd9540fb03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jail House Blues",
+     "duracao": "5:28"
+    },
+    {
+     "n": 2,
+     "titulo": "In the Evening (When the Sun Goes Down)",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "See, See Rider",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "You Don't Know My Mind",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Trouble in Mind",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "How Long, How Long Blues",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Cherry Red",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Down Hearted Blues",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "St. Louis Blues",
+     "duracao": "6:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Hear Me Talking to Ya",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/These_Are_the_Blues",
+   "resumo_en": "These are the Blues is a 1963 studio album by the American jazz singer Ella Fitzgerald featuring trumpeter Roy Eldridge and organist Wild Bill Davis. Sleeve artwork was painted by David Stone Martin. This is Fitzgerald's only example of recording an entire album of blues songs.",
+   "spotify": "6eS30IzjPolEblbYlUg2j6",
+   "youtube": null
+  },
+  {
+   "id": "fc5e58a0-c8b2-360a-95b7-a5712bab3660",
+   "titulo": "Ella Sings Broadway",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/738ef87e-c9de-3c6c-880d-02bdc85b489a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hernando’s Hideaway",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "If I Were a Bell",
+     "duracao": "2:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Warm All Over",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Almost Like Being in Love",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Dites‐moi",
+     "duracao": "2:31"
+    },
+    {
+     "n": 6,
+     "titulo": "I Could Have Danced All Night",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Show Me the Way to Get Out of This World",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "No Other Love",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Steam Heat",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Whatever Lola Wants",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Guys and Dolls",
+     "duracao": "2:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Somebody Somewhere",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Sings_Broadway",
+   "resumo_en": "Ella Sings Broadway is a 1963 studio album by the American jazz singer Ella Fitzgerald, with an orchestra arranged and conducted by Marty Paich. Shortly before the sessions for Ella Sings Broadway , Ella had recorded two singles with Marty Paich, the Antonio Carlos Jobim song \"Desafinado\" and a bossa nova version of the jazz standard \"Stardust\".\nThis album is a musical departure for Ella in many senses. As the author David Hajdu comments in his liner notes for the 2001 reissue of Ella Sings Broadway, virtually every important singer of standards recorded an album of musical-theatre songs, Sinatra with The Concert Sinatra (1963) and My Kind of Broadway (1965), Sarah Vaughan with Great Songs From Hit Shows (1958) and Doris Day with Show Time (1960).\nThese singers, especially Sinatra and Fitzgerald, had acquired a reputation of being consummate performers of the Great American Songbook, a songbook which by and large had been written before the outbreak of the Second World War, and which had been aped in its popularity with youth by rock and roll by the time of the Vietnam War. With many George and Ira Gershwin, Cole Porter and Irving Berlin standards having been written in the 1920s a",
+   "spotify": "4X0dKIj2BqsMUhC9yTRFei",
+   "youtube": null
+  },
+  {
+   "id": "bdfc8417-0478-3060-a31e-d22744364ec1",
+   "titulo": "Ella and Basie!",
+   "data": "1963-09",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/e820ae5e-32e7-4361-9e92-6bed58b03f7b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honeysuckle Rose",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "’Deed I Do",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Into Each Life Some Rain Must Fall",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Them There Eyes",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Dream a Little Dream of Me",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Tea for Two",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Satin Doll",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m Beginning to See the Light",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Shiny Stockings",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "My Last Affair",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Ain’t Misbehavin’",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "On the Sunny Side of the Street",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.9,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_and_Basie%21",
+   "resumo_en": "Ella and Basie! is a 1963 studio album by Ella Fitzgerald, accompanied by Count Basie and his orchestra, with arrangements by Quincy Jones. It was later reissued with slightly different cover art as On the Sunny Side of the Street.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2efb3860-6c09-36fd-b2e7-22ab7206aa3e",
+   "titulo": "Hello, Dolly!",
+   "data": "1964-01-01",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/5595d72c-a8b7-40cf-82c2-c1c9b9f33dc5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hello, Dolly!",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "People",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Can’t Buy Me Love",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "The Sweetest Sounds",
+     "duracao": "2:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Miss Otis Regrets",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "My Man",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "How High the Moon",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Volare",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Memories of You",
+     "duracao": "2:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Lullaby of the Leaves",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Pete Kelly’s Blues",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hello%2C_Dolly%21_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Hello, Dolly! is a 1964 studio album by the American jazz singer Ella Fitzgerald.\n\"Hello, Dolly!\", \"People\", \"Can't Buy Me Love\", and \"The Sweetest Sounds\" were recorded in London, England, on April 7. The other eight tracks were recorded in New York City on March 3 and March 4.  Three songs recorded at the latter sessions remain unreleased: \"There! I've Said It Again\", \"I'll See You in My Dreams\", and \"There Are Such Things\". It is unknown whether the recordings exist in the Verve Records vaults today.\nHer version of the Beatles song \"Can't Buy Me Love\" was a minor hit single in 1964, peaking at No. 34 in the UK singles chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8a60ee63-8f86-3510-b406-96807fcfa6ac",
+   "titulo": "Ella Fitzgerald Sings the Johnny Mercer Song Book",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/5f8d2529-2fd1-41d0-a219-7e718c41fe62/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too Marvelous for Words",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Early Autumn",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Day In-Day Out",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Laura",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "This Time the Dream's on Me",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Skylark",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Single-O",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Something's Gotta Give",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Trav'lin' Light",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Midnight Sun",
+     "duracao": "4:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Dream",
+     "duracao": "2:58"
+    },
+    {
+     "n": 12,
+     "titulo": "I Remember You",
+     "duracao": "3:38"
+    },
+    {
+     "n": 13,
+     "titulo": "When a Woman Loves a Man",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald_Sings_the_Johnny_Mercer_Song_Book",
+   "resumo_en": "Ella Fitzgerald Sings the Johnny Mercer Song Book is a 1964 studio album by the American jazz singer Ella Fitzgerald, with the Nelson Riddle Orchestra, focusing on the songs of Johnny Mercer. It was recorded in Los Angeles, California. This is Fitzgerald's fifth and final collaboration with Riddle during her years on the Verve label.  It is also the last of the \"Song Book\" series of LPs dedicated to great American songwriters, which had begun in 1956 with Ella Fitzgerald Sings the Cole Porter Song Book.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "03510992-9fd7-30e3-9a17-cf8b20bed0b3",
+   "titulo": "Ella at Duke’s Place",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/c84f2fae-e3c6-40c1-894c-ea2c918c4e21/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Something to Live For",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "A Flower Is a Lovesome Thing",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Passion Flower",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "I Like the Sunrise",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Azure",
+     "duracao": "6:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Imagine My Frustation",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Duke's Place",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Brown Skin Gal in the Calico Gown",
+     "duracao": "5:02"
+    },
+    {
+     "n": 9,
+     "titulo": "What Am I Here For",
+     "duracao": "5:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Cotton Tail",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_at_Duke%27s_Place",
+   "resumo_en": "Ella at Duke's Place is a 1965 studio album by Ella Fitzgerald and Duke Ellington, accompanied by his Orchestra. While it was the second (and last) studio album made by Fitzgerald and Ellington, following the 1957 song book recording, a live double album Ella and Duke at the Cote D'Azur was recorded in 1966.\nElla at Duke's Place was nominated for Best Female Pop Vocal Performance at the 1967 Grammy Awards.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "95d5c540-330e-37a9-b042-3c8dd73cc4e0",
+   "titulo": "Whisper Not",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/fd44d39e-bad2-433e-af88-4805cf33f83f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweet Georgia Brown",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Whisper Not",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "I Said No",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Thanks for the Memory",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Spring Can Really Hang You Up the Most",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Old MacDonald Had a Farm",
+     "duracao": "2:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Time After Time",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "You’ve Changed",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "I’ve Got Your Number",
+     "duracao": "3:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Lover Man (Oh Where Can You Be?)",
+     "duracao": "4:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Wives and Lovers",
+     "duracao": "2:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Matchmaker",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "media": 7.5,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Whisper_Not_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Whisper Not is a 1966 studio album by American jazz singer Ella Fitzgerald with the Marty Paich Orchestra. She had previously recorded with Marty Paich and his more familiar Dek-tette on the 1957 album Ella Swings Lightly.\nWhisper Not is Ella's penultimate recording for the Verve label. Her 11 years on the Verve label had seen her make her most acclaimed recordings, critically and commercially. The jazz critic Will Friedwald described her pre-Verve work on Decca as \"seeming a mere prelude\" and her \"post-Verve years as an afterthought\".",
+   "spotify": "1RoqgK11h7AAQ7PYfkLwIw",
+   "youtube": null
+  },
+  {
+   "id": "82d728f2-c4e4-374e-9ed0-77858ecaa370",
+   "titulo": "Brighten the Corner",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/dbbcaaff-8f7d-3bb9-b7fb-00dfcdeb4e94/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Abide With Me",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Just a Closer Walk With Thee",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "The Old Rugged Cross",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Brighten the Corner Where You Are",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "I Need Thee Every Hour",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "In the Garden",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "God Be With You Till We Meet Again",
+     "duracao": "1:19"
+    },
+    {
+     "n": 8,
+     "titulo": "God Will Take Care of You",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "The Church in the Wildwood",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Throw Out the Lifeline",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "I Shall Not Be Moved",
+     "duracao": "2:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Let the Lower Lights Be Burning",
+     "duracao": "2:46"
+    },
+    {
+     "n": 13,
+     "titulo": "What a Friend We Have in Jesus",
+     "duracao": "4:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Rock of Ages, Cleft for Me",
+     "duracao": "1:58"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brighten_the_Corner",
+   "resumo_en": "Brighten the Corner is a 1967 studio album by the American jazz singer Ella Fitzgerald, debut album on Capitol Records. The album charted at #172 in the Billboard Hot 200 album charts.\nThe album was reissued by Capitol Records on CD in 1991 and together, on one CD, with the album \"Ella Fitzgerald's Christmas\" in 2006.\nThe album was Ella's first since leaving the Verve label, which had seen her produce her most acclaimed body of work. It marked a sharp change of direction for Fitzgerald, as Brighten the Corner saw Ella sing Christian hymns, reflecting her own spirituality, and eschewing the Great American Songbook standards on which she had previously concentrated.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "063f7a7e-56e3-3591-b1b8-a8f2122ccc60",
+   "titulo": "Ella Fitzgerald’s Christmas",
+   "data": "1967-11",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/d1a90fce-b423-456a-87de-12816467fd9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O Holy Night - Remastered 2006",
+     "duracao": "1:48"
+    },
+    {
+     "n": 2,
+     "titulo": "It Came Upon a Midnight Clear - Remastered 2006",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Hark! The Herald Angels Sing - Remastered 2006",
+     "duracao": "1:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Away in a Manger - Remastered 2006",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Joy to the World - Remastered 2006",
+     "duracao": "1:40"
+    },
+    {
+     "n": 6,
+     "titulo": "The First Noel - Remastered/2006",
+     "duracao": "1:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Silent Night - Remastered 2006",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "O Come All Ye Faithful - Remastered 2006",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Sleep, My Little Jesus - Remastered 2006",
+     "duracao": "2:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Angels We Have Heard on High - Remastered 2006",
+     "duracao": "1:45"
+    },
+    {
+     "n": 11,
+     "titulo": "O Little Town of Bethlehem - Remastered 2006",
+     "duracao": "2:10"
+    },
+    {
+     "n": 12,
+     "titulo": "We Three Kings - Remastered 2006",
+     "duracao": "2:07"
+    },
+    {
+     "n": 13,
+     "titulo": "God Rest Ye Merry Gentlemen - Remastered 2006",
+     "duracao": "1:26"
+    },
+    {
+     "n": 14,
+     "titulo": "Abide With Me",
+     "duracao": "3:15"
+    },
+    {
+     "n": 15,
+     "titulo": "Just a Closer Walk With Thee",
+     "duracao": "5:04"
+    },
+    {
+     "n": 16,
+     "titulo": "The Old Rugged Cross",
+     "duracao": "3:53"
+    },
+    {
+     "n": 17,
+     "titulo": "Brighten the Corner Where You Are",
+     "duracao": "2:35"
+    },
+    {
+     "n": 18,
+     "titulo": "I Need Thee Every Hour",
+     "duracao": "3:40"
+    },
+    {
+     "n": 19,
+     "titulo": "In the Garden",
+     "duracao": "3:17"
+    },
+    {
+     "n": 20,
+     "titulo": "God Be With You Till We Meet Again",
+     "duracao": "1:22"
+    },
+    {
+     "n": 21,
+     "titulo": "God Will Take Care of You",
+     "duracao": "3:32"
+    },
+    {
+     "n": 22,
+     "titulo": "The Church in the Wildwood",
+     "duracao": "3:03"
+    },
+    {
+     "n": 23,
+     "titulo": "Throw Out the Lifeline - Remastered 2006",
+     "duracao": "3:15"
+    },
+    {
+     "n": 24,
+     "titulo": "I Shall Not Be Moved",
+     "duracao": "2:47"
+    },
+    {
+     "n": 25,
+     "titulo": "Let the Lower Lights Be Burning",
+     "duracao": "2:50"
+    },
+    {
+     "n": 26,
+     "titulo": "What a Friend We Have in Jesus",
+     "duracao": "4:04"
+    },
+    {
+     "n": 27,
+     "titulo": "Rock of Ages, Cleft for Me",
+     "duracao": "2:00"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald%27s_Christmas",
+   "resumo_en": "Ella Fitzgerald's Christmas is a 1967 studio album by Ella Fitzgerald, her second release for Capitol Records. The album consists of religious songs, in contrast to the secular Ella Wishes You a Swinging Christmas (1960). It charted at #27 on the Billboard Holiday Albums chart.",
+   "spotify": "6oWnPa4HkHVL4Wv1sLeXR3",
+   "youtube": null
+  },
+  {
+   "id": "2d4e7eea-f269-3bbf-bf1c-14397b45f4c0",
+   "titulo": "Misty Blue",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/dee14917-42b6-393c-abe0-1bd6210b9d48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Misty Blue",
+     "duracao": "2:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Walking in the Sunshine",
+     "duracao": "2:32"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s Only Love",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Evil on Your Mind",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "I Taught Him Everything He Knows",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Don’t Let That Doorknob Hit You",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Turn the World Around",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "The Chockin’ Kind",
+     "duracao": "2:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Born to Lose",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "This Gun Don’t Care",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Don’t Touch Me",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Misty_Blue_%28album%29",
+   "resumo_en": "Misty Blue is a 1968 studio album by the American jazz singer Ella Fitzgerald, featuring mostly renditions of recent country music hits. The single \"I Taught Him Everything He Knows\" reached Billboard's Easy Listening chart.",
+   "spotify": "0PhxXALCqhK16DyF8qjmlH",
+   "youtube": null
+  },
+  {
+   "id": "489936d4-889e-3e41-a993-57894a45b826",
+   "titulo": "30 by Ella",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/8574347c-767b-48c0-b5b2-dbbe69b9a2b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Mother’s Eyes / Try a Little Tenderness / I Got It Bad (and That Ain’t Good) / Everything I Have Is Yours / I Never Knew (I Could Love Anybody Like I’m Loving You) / Goodnight, My Love",
+     "duracao": "12:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Four or Five Times / Maybe / Taking a Chance on Love / Elmer’s Tune / At Sundown / It’s a Wonderful World",
+     "duracao": "6:18"
+    },
+    {
+     "n": 3,
+     "titulo": "On Green Dolphin Street / How Am I to Know / Just Friends / I Cried for You / Seems Like Old Times / You Stepped Out of a Dream",
+     "duracao": "7:05"
+    },
+    {
+     "n": 4,
+     "titulo": "If I Gave My Heart to You / Once in a While / Ebb Tide / The Lamp Is Low / Where Are You / Thinking of You",
+     "duracao": "11:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Candy / All I Do Is Dream of You / Spring Is Here / 720 In the Books / It Happened in Monterey / What Can I Say After I Say I’m Sorry",
+     "duracao": "6:14"
+    },
+    {
+     "n": 6,
+     "titulo": "No Regrets / I’ve Got a Feeling You’re Fooling / Don’t Blame Me / Deep Purple / Rain / You’re a Sweetheart",
+     "duracao": "9:47"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/30_by_Ella",
+   "resumo_en": "30 by Ella is a 1968 studio album by the American jazz singer Ella Fitzgerald.\nThe album's unusual construction of six medleys of songs were arranged by Benny Carter. This album was Fitzgerald's final recording made for Capitol Records. The following album release on Capitol from Fitzgerald, Misty Blue had been recorded in late 1967.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "430c0b13-8c95-4cd1-adbb-1a33311e0536",
+   "titulo": "Ella",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/d7538b6c-cd70-4403-aa59-108744629d70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get Ready",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "The Hunter Gets Captured by the Game",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Yellow Man",
+     "duracao": "2:21"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ll Never Fall in Love Again",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Got to Get You Into My Life",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "I Wonder Why",
+     "duracao": "3:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Ooo Baby Baby",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Savoy Truffle",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Open You Window",
+     "duracao": "2:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Knock on Wood",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Ella is a 1969 studio album by the American jazz singer Ella Fitzgerald and the first of two albums she recorded for the  Warner Bros.-owned Reprise label. This album continues the theme set on Fitzgerald's previous album, Sunshine of Your Love, mainly consisting of cover versions of popular songs from the late 1960s. The production of this recording was in the hands of Richard Perry, who had joined the Reprise label in 1967. Perry later went on to produce albums by Barbra Streisand and Diana Ross. \nThe album was re-issued on CD with alternative artwork, in 1989. It was released together on one CD with Ella's final album recorded for Reprise label, Things Ain't What They Used to Be (And You Better Believe It).",
+   "spotify": "1gIOAaCU8xAxXqxpVBrvK7",
+   "youtube": null
+  },
+  {
+   "id": "ddd113ef-9bb4-4f09-a8fe-6d5d11f2784b",
+   "titulo": "Things Ain’t What They Used to Be (and You Better Believe It)",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/9e928a5a-2236-419e-88ea-2d489e49389a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sunny",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Mas que nada",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "A Man and a Woman",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Days of Wine and Roses",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Coffee",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Tuxedo Junction",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "I Heard It Through the Grapevine",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Dream of Anybody but Me",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Things Ain’t What They Used to Be",
+     "duracao": "3:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Willow Weep for Me",
+     "duracao": "4:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Manteca",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Just When We’re Falling in Love",
+     "duracao": "2:29"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Things_Ain%27t_What_They_Used_to_Be_%28And_You_Better_Believe_It%29",
+   "resumo_en": "Things Ain't What They Used to Be is a 1970 studio album by the American jazz singer Ella Fitzgerald - the final album that Fitzgerald recorded on the Reprise Records label. The album was re-issued on CD with alternative artwork in 1989. It was released together on one CD with Ella's first album recorded for Reprise label, Ella.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0ed5bfb3-dfdb-3e8d-91b8-eea11e9a9e94",
+   "titulo": "Ella Loves Cole",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/708b0563-b86b-43a5-92ae-acfddef2a66e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Down in the Depths",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "At Long Last Love",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "I’ve Got You Under My Skin",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "So Near and Yet So Far",
+     "duracao": "2:16"
+    },
+    {
+     "n": 6,
+     "titulo": "All of You",
+     "duracao": "2:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Without Love",
+     "duracao": "2:47"
+    },
+    {
+     "n": 8,
+     "titulo": "My Heart Belongs to Daddy",
+     "duracao": "2:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Love for Sale",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Just One of Those Things",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "I Concentrate on You",
+     "duracao": "4:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Anything Goes",
+     "duracao": "2:46"
+    },
+    {
+     "n": 13,
+     "titulo": "C’est magnifique",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Loves_Cole",
+   "resumo_en": "Ella Loves Cole is a 1972 studio album by Ella Fitzgerald, arranged by Nelson Riddle, of songs written by Cole Porter.\nThis was Fitzgerald's first album of songs dedicated to a single composer since 1964's Ella Fitzgerald Sings the Johnny Mercer Song Book (also arranged by Riddle), and her second collection of songs by Porter, her first since 1956's Cole Porter songbook. She later recorded Ella Abraça Jobim, dedicated to Antônio Carlos Jobim. Fitzgerald and Riddle would collaborate again on her 1982 album The Best Is Yet to Come.\nThe album was re-released on Pablo as Dream Dancing in 1978, with the addition of two new tracks: \"Dream Dancing\" and \"After You\". Ella Loves Cole was remastered again in 2002, with colours added to the cover.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "24da479c-8b1d-3903-98f6-e1cd897ebaa6",
+   "titulo": "Take Love Easy",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/a40f3182-aad8-3aeb-a7ae-0057d61b090b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take Love Easy",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Once I Loved",
+     "duracao": "2:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Be That Way",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "You’re Blasé",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Lush Life",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "A Foggy Day",
+     "duracao": "6:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Gee Baby, Ain’t I Good to You",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "You Go to My Head",
+     "duracao": "5:45"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want to Talk About You",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Take_Love_Easy",
+   "resumo_en": "Take Love Easy is an album by the jazz singer Ella Fitzgerald with guitarist Joe Pass, released in 1974.",
+   "spotify": "5NZGDIpLXWOJVzR74C3Cd7",
+   "youtube": null
+  },
+  {
+   "id": "866adf73-13a0-304c-ad89-b608e440672c",
+   "titulo": "Fitzgerald and Pass… Again",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/98611ab1-b569-3e74-bcd4-2fb65fb95a33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Ain’t Got Nothin’ but the Blues",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "’Tis Autumn",
+     "duracao": "5:07"
+    },
+    {
+     "n": 3,
+     "titulo": "My Old Flame",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "That Old Feeling",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Rain",
+     "duracao": "2:24"
+    },
+    {
+     "n": 6,
+     "titulo": "I Didn’t Know About You",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "You Took Advantage of Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ve Got the World on a String",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "All Too Soon",
+     "duracao": "4:27"
+    },
+    {
+     "n": 10,
+     "titulo": "The One I Love (Belongs to Somebody Else)",
+     "duracao": "4:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Solitude",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Nature Boy",
+     "duracao": "2:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Tennessee Waltz",
+     "duracao": "3:51"
+    },
+    {
+     "n": 14,
+     "titulo": "One Note Samba (Samba de uma nota só)",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fitzgerald_and_Pass..._Again",
+   "resumo_en": "Fitzgerald and Pass...Again is a 1976 studio album by Ella Fitzgerald, accompanied by jazz guitarist Joe Pass, the second of four duet albums they recorded together after Take Love Easy (1973).\nFitzgerald's performance on this album won her the 1977 Grammy Award for Best Jazz Vocal Album. The duo would record two later albums together, Speak Love (1983), and Easy Living (1986).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8e698496-47b3-332f-9e7b-712314d0ea20",
+   "titulo": "Ella and Oscar",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/9e68f9d9-b09d-3406-8c06-e1bfd675dc70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mean to Me",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "How Long Has This Been Going On?",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "When Your Lover Has Gone",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "More Than You Know",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "There’s a Lull in My Life",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Midnight Sun",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "I Hear Music",
+     "duracao": "5:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Street of Dreams",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "April in Paris",
+     "duracao": "8:37"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_and_Oscar",
+   "resumo_en": "Ella and Oscar is a 1975 album by Ella Fitzgerald, accompanied by pianist Oscar Peterson and, for the second half of the album, double bassist Ray Brown.\nFitzgerald's two previous albums with piano accompaniment were 1950's Ella Sings Gershwin (with Ellis Larkins) and 1960's Ella Fitzgerald Sings Songs from Let No Man Write My Epitaph with Paul Smith.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0b7f7617-e0d8-46a0-96e6-a6c61a089660",
+   "titulo": "The George And Ira Gershwin Songbook",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/b9bc974f-119b-4cca-ac0a-061c45728478/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Man I Love",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "A Foggy Day",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Oh Lady Be Good!",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Nice Work if You Can Get It",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "They All Laughed",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Who Cares?",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Love is Here to Stay",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "'S Wonderful",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Lorelei",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Fascinating Rhythm",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Soon",
+     "duracao": "2:20"
+    },
+    {
+     "n": 12,
+     "titulo": "I've Got a Crush on You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 13,
+     "titulo": "Bidin' My Time",
+     "duracao": "2:38"
+    },
+    {
+     "n": 14,
+     "titulo": "Of Thee I Sing (Baby)",
+     "duracao": "3:05"
+    },
+    {
+     "n": 15,
+     "titulo": "I Got Rhythm",
+     "duracao": "3:05"
+    },
+    {
+     "n": 16,
+     "titulo": "That Certain Feeliing",
+     "duracao": "3:01"
+    },
+    {
+     "n": 17,
+     "titulo": "The Half of It Dearie, Blues",
+     "duracao": "3:45"
+    },
+    {
+     "n": 18,
+     "titulo": "My Cousin in Milwaukee",
+     "duracao": "3:05"
+    },
+    {
+     "n": 19,
+     "titulo": "I Can't Be Bothered Now",
+     "duracao": "2:47"
+    },
+    {
+     "n": 20,
+     "titulo": "Embraceable You",
+     "duracao": "4:49"
+    },
+    {
+     "n": 21,
+     "titulo": "They Can't Take That Away From Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 22,
+     "titulo": "Clap Yo' Hands",
+     "duracao": "2:27"
+    },
+    {
+     "n": 23,
+     "titulo": "Things Are Looking Up",
+     "duracao": "3:01"
+    },
+    {
+     "n": 24,
+     "titulo": "By Strauss",
+     "duracao": "2:28"
+    },
+    {
+     "n": 25,
+     "titulo": "Someone to Watch Over Me",
+     "duracao": "4:29"
+    },
+    {
+     "n": 26,
+     "titulo": "Isn't It a Pity?",
+     "duracao": "3:23"
+    },
+    {
+     "n": 27,
+     "titulo": "Shall We Dance?",
+     "duracao": "3:06"
+    },
+    {
+     "n": 28,
+     "titulo": "But Not for Me",
+     "duracao": "3:30"
+    },
+    {
+     "n": 29,
+     "titulo": "You've Got What Gets Me",
+     "duracao": "2:12"
+    },
+    {
+     "n": 30,
+     "titulo": "Let's Call the Whole Thing Off",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 99,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "48145947-5fff-3cf0-861b-bbaea31dcaaa",
+   "titulo": "Dream Dancing: Ella Fitzgerald & Cole Porter",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/b4fa6daf-991a-3dc9-84ec-715a87c7541d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dream Dancing",
+     "duracao": "4:02"
+    },
+    {
+     "n": 2,
+     "titulo": "I’ve Got You Under My Skin",
+     "duracao": "3:17"
+    },
+    {
+     "n": 3,
+     "titulo": "I Concentrate on You",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "My Heart Belongs to Daddy",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Love for Sale",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "So Near and Yet So Far",
+     "duracao": "2:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Down in the Depths",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "After You",
+     "duracao": "3:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Just One of Those Things",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "4:21"
+    },
+    {
+     "n": 11,
+     "titulo": "All of You",
+     "duracao": "2:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Anything Goes",
+     "duracao": "2:51"
+    },
+    {
+     "n": 13,
+     "titulo": "At Long Last Love",
+     "duracao": "2:27"
+    },
+    {
+     "n": 14,
+     "titulo": "C’est magnifique",
+     "duracao": "2:32"
+    },
+    {
+     "n": 15,
+     "titulo": "Without Love",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dream_Dancing_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Dream Dancing is a 1978 album by Ella Fitzgerald. Thirteen of the tracks on this album were recorded in June 1972 and originally released on Fitzgerald's 1972 Atlantic album Ella Loves Cole. In 1978, Pablo Records repackaged the album with the addition of two new recordings from February 1978.",
+   "spotify": "0M9vTY7yPs5e3HOr2wxkO8",
+   "youtube": null
+  },
+  {
+   "id": "5c9fea64-0a35-3074-bfe1-13319f50ddc5",
+   "titulo": "Lady Time",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/7ad420a2-399a-45e0-a075-0536f9246f95/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Walkin’",
+     "duracao": "5:39"
+    },
+    {
+     "n": 2,
+     "titulo": "All or Nothing at All",
+     "duracao": "6:37"
+    },
+    {
+     "n": 3,
+     "titulo": "I Never Had a Chance",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "I Cried for You (Now It’s Your Turn to Cry Over Me)",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "What Will I Tell My Heart",
+     "duracao": "2:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Since I Fell for You",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "And the Angels Sing",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m Confessin’ (That I Love You)",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Mack the Knife",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "That’s My Desire",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "I’m in the Mood for Love",
+     "duracao": "4:37"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lady_Time",
+   "resumo_en": "Lady Time is a 1978 (see 1978 in music) studio album by the American jazz singer Ella Fitzgerald, accompanied by the unusual combination of an organist, Jackie Davis, and a drummer, Louie Bellson.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a8e646ef-6139-31c9-92c8-2c8aa15e8a36",
+   "titulo": "“Fine and Mellow”: Ella Fitzgerald Jams",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/27f4b4b9-d8aa-4ab2-b13d-cebd776c2646/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fine and Mellow",
+     "duracao": "6:07"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Just a Lucky So and So",
+     "duracao": "6:41"
+    },
+    {
+     "n": 3,
+     "titulo": "(I Don’t Stand) a Ghost of a Chance With You",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Rockin’ in Rhythm",
+     "duracao": "6:01"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m in the Mood for Love",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "’Round Midnight",
+     "duracao": "4:40"
+    },
+    {
+     "n": 7,
+     "titulo": "I Can’t Give You Anything but Love",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "The Man I Love",
+     "duracao": "6:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Polka Dots and Moonbeams",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fine_and_Mellow_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "Fine and Mellow is an album by Ella Fitzgerald, recorded in early 1974 but not released until 1979. The album won the Grammy Award for Best Jazz Vocal Album in 1980, Fitzgerald's second win in four years.\nThe album is subtitled Ella Fitzgerald Jams and represents a return to the informal jam sessions at the Jazz at the Philharmonic Concerts in the 1940s and 1950s. A review in Audio magazine called it \"Ella's best album in years.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d8fae106-b387-4eaa-8ade-355393e2f8d5",
+   "titulo": "Ella Abraça Jobim: Ella Fitzgerald Sings the Antonio Carlos Jobim Song Book",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/1e9f1ae7-7149-405c-a051-66d55e0c63e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Somewhere in the Hills (Favela)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The Girl From Ipanema (Garota de Ipanema)",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Dindi",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Off Key (Desafinado)",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Water to Drink (Agua de beber)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Dreamer (Vivo sonhando)",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Quiet Nights of Quiet Stars (Corcovado)",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Bonita",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "One Note Samba (Samba de uma nota só)",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Ever Go Away (Por causa de você)",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Triste",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "How Insensitive (Insensatez)",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "He’s a Carioca (Ele é carioca)",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "This Love That I’ve Found (Só tinha de ser com você)",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "A felicidade",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Wave",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Song of the Jet (Samba do avião)",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Photograph (Fotografia)",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Useless Landscape (Inútil paisagem)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Abra%C3%A7a_Jobim",
+   "resumo_en": "Ella Abraça Jobim or Ella Fitzgerald Sings the Antonio Carlos Jobim Song Book is a 1981 studio album by Ella Fitzgerald, devoted to the songs of Antônio Carlos Jobim.\nIt was reissued on CD in 1991, although the CD version does not include the songs \"Don't Ever Go Away\" and \"Song of the Jet\".\nThough it is subtitled as such, the album is not usually considered part of Fitzgerald's Song Book series, the last of the Song Book albums having been recorded in 1964.\nIt was Fitzgerald's first album of music devoted to a single composer since 1972's Ella Loves Cole, and it was her only album recorded entirely in the bossa nova style, though she had been singing Jobim's songs since the mid-1960s.\nFitzgerald never worked with Antônio Carlos Jobim, though she appeared alongside Frank Sinatra for a 1967 television special that also featured Jobim.\nThe title has a pun, as Ela (with a single l) translates as \"she\". It can be translated as 'She Hugs Jobim' (Ela Abraça Jobim) or 'Ella Hugs Jobim\".",
+   "spotify": "5Yt8Xf70ZQaKUIgKWpPrZY",
+   "youtube": null
+  },
+  {
+   "id": "56ff9405-42d4-3718-b3d3-d3cc69883258",
+   "titulo": "A Classy Pair",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/498631cd-cce1-4d37-8f21-3f170abd15d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honeysuckle Rose",
+     "duracao": "6:16"
+    },
+    {
+     "n": 2,
+     "titulo": "My Kind of Trouble Is You",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Teach Me Tonight",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Organ Grinder’s Swing",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Worry ’bout Me",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Gettin’ Sentimental Over You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain’t Misbehavin’",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Just A‐Sittin’ and A‐Rockin’",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Lorraine",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Classy_Pair",
+   "resumo_en": "A Classy Pair is a 1979 studio album by the American jazz singer Ella Fitzgerald, accompanied by the Count Basie Orchestra, with arrangements by Benny Carter.\nThis was Fitzgerald and Basie's second studio recording after Ella and Basie! (1963), and features re-recordings of two songs from the earlier album, \"Honeysuckle Rose\" and \"Ain't Misbehavin'\". The two musicians worked together much more frequently during her Pablo years than they had during her years on the Verve label, and this album marked the end of a connection that had begun in 1957.",
+   "spotify": "7lY0ueDRGzfPq2hL9RVQ1U",
+   "youtube": null
+  },
+  {
+   "id": "980a14d7-38bc-35b1-b18f-01c757e671af",
+   "titulo": "The Best Is Yet to Come",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/f529d425-fc6a-46b9-aa82-e9e30af3d7ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Be That Way",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "God Bless the Child",
+     "duracao": "4:42"
+    },
+    {
+     "n": 3,
+     "titulo": "I Wonder Where Our Love Has Gone",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "You’re Driving Me Crazy",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Any Old Time",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Good‐Bye",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Autumn in New York",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "The Best Is Yet to Come",
+     "duracao": "5:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Deep Purple",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Somewhere in the Night",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Best_Is_Yet_to_Come_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "The Best Is Yet to Come is a 1982 studio album by the American jazz singer Ella Fitzgerald, accompanied by a studio orchestra arranged and conducted by Nelson Riddle.\nThe last of Fitzgerald's seven collaborations with Riddle, their work together on the Verve label more than fifteen years earlier is considered some of Fitzgerald's finest, both musically and critically.\nFitzgerald's performance on the album won her the 1984 Grammy Award for Best Jazz Vocal Performance, Female, one of three Grammys she won for her work with Riddle.",
+   "spotify": "11BaB4rOwoig7CzzZzHZh5",
+   "youtube": null
+  },
+  {
+   "id": "dc7c41ae-9639-3443-bca3-b170a5603599",
+   "titulo": "Speak Love",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/6c96011e-2afc-33cd-a073-ba6d1050f667/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Speak Low",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Comes Love",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "There’s No You",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "I May Be Wrong (but I Think You’re Wonderful)",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "At Last",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Gone With the Wind",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue and Sentimental",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Girl Talk",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Georgia on My Mind",
+     "duracao": "6:12"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Speak_Love",
+   "resumo_en": "Speak Love is a 1983 studio album by the American jazz singer Ella Fitzgerald, accompanied by the jazz guitarist Joe Pass.\nIt is the third of Fitzgerald's series of duets with Pass, following Take Love Easy (1973) and Fitzgerald and Pass... Again (1976) a later album, Easy Living, followed in 1986.\nThe title of the album refers to the first line of the opening song on the album, \"Speak Low\", a quotation from Much Ado About Nothing.",
+   "spotify": "3o4Rf2UD4zvE0n66twCZ3f",
+   "youtube": null
+  },
+  {
+   "id": "8f7d250b-6d7b-3cf2-92f3-72a7c74b166b",
+   "titulo": "Nice Work If You Can Get It",
+   "data": "1983-05-23",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/10638952-09e0-4405-ab89-56c3073216c0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Foggy Day",
+     "duracao": "6:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Nice Work If You Can Get It",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "But Not for Me",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Let’s Call the Whole Thing Off",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "How Long Has This Been Going On?",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Who Cares?",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "I’ve Got a Crush on You / Someone to Watch Over Me / Embraceable You",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "They Can’t Take That Away From Me",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.1,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nice_Work_If_You_Can_Get_It_%28album%29",
+   "resumo_en": "Nice Work If You Can Get It is a 1983 studio album by Ella Fitzgerald and André Previn, with accompaniment from the double bassist Niels-Henning Ørsted Pedersen.\nIt was Fitzgerald's only album recorded with Previn, and represented her first album of single composer material since her 1981 album Ella Abraça Jobim.\nNice Work If You Can Get It was the last in a long line of collaborations that Fitzgerald made with predominantly jazz piano accompaniment. Her earlier albums in a similar vein were Ella Sings Gershwin (1950), Ella Fitzgerald Sings Songs from \"Let No Man Write My Epitaph\" (1960), and Ella and Oscar (1975). For these albums she was accompanied by the pianists Ellis Larkins, Paul Smith, and Oscar Peterson respectively. Nice Work If You Can Get It was also Fitzgerald's first all Gershwin album since 1959's Ella Fitzgerald Sings the George and Ira Gershwin Songbook.\nThe album cover is a caricature of Fitzgerald, Previn, and the Gershwin brothers by the American cartoonist Al Hirschfeld. The album notes were written by Benny Green.",
+   "spotify": "2kwggpypFGnVnENKGWUhGQ",
+   "youtube": null
+  },
+  {
+   "id": "ea3517c8-9c47-3275-8e7b-1b6782108641",
+   "titulo": "“Easy Living”",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/eabd4538-87a6-4455-a3d8-ac9fb462e709/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Ship",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Be That Way",
+     "duracao": "3:03"
+    },
+    {
+     "n": 3,
+     "titulo": "My Man",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Worry ’bout Me",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "The Days of Wine and Roses",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Easy Living",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don’t Stand a Ghost of a Chance With You",
+     "duracao": "6:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Love for Sale",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Moonlight in Vermont",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "On Green Dolphin Street",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Why Don’t You Do Right?",
+     "duracao": "2:58"
+    },
+    {
+     "n": 12,
+     "titulo": "By Myself",
+     "duracao": "3:29"
+    },
+    {
+     "n": 13,
+     "titulo": "I Want a Little Girl",
+     "duracao": "2:49"
+    },
+    {
+     "n": 14,
+     "titulo": "I’m Making Believe",
+     "duracao": "2:40"
+    },
+    {
+     "n": 15,
+     "titulo": "Slow Boat to China",
+     "duracao": "5:06"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.8,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Easy_Living_%28Ella_Fitzgerald_and_Joe_Pass_album%29",
+   "resumo_en": "Easy Living is a 1986 studio album by Ella Fitzgerald, accompanied by guitarist Joe Pass. Fitzgerald was nominated for the Grammy Award for Best Jazz Vocal Performance, Female at the 30th Annual Grammy Awards for her performance on this album.\nThis was the fourth and final album in Fitzgerald's series of duets with Pass, the three earlier albums being Take Love Easy (1973), Fitzgerald and Pass... Again (1976) and Speak Love (1983).",
+   "spotify": "3ZMBYCg1h0k8E6qbhEoYuE",
+   "youtube": null
+  },
+  {
+   "id": "4b1d593f-aedf-354b-aadf-278607a26f10",
+   "titulo": "All That Jazz",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/1ffdbf63-96f1-4997-b10c-5e08abcfdbf0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dream a Little Dream of Me",
+     "duracao": "5:00"
+    },
+    {
+     "n": 2,
+     "titulo": "My Last Affair",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Baby, Don’t You Quit Now",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Oh, Look at Me Now",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "The Jersey Bounce",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "When Your Lover Has Gone",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "That Old Devil Called Love",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "All That Jazz",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Just When We’re Falling in Love (Robbins’ Nest)",
+     "duracao": "5:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Good Morning Heartache",
+     "duracao": "5:28"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 2.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/All_That_Jazz_%28Ella_Fitzgerald_album%29",
+   "resumo_en": "All That Jazz was the final studio album by vocalist Ella Fitzgerald, released in 1990. Fitzgerald's performance on this album won her the Grammy Award for Best Jazz Vocal Performance, Female, at the 33rd Grammy Awards.\nReviewing the album in The New York Times, music critic Stephen Holden wrote, \"Although the voice of the first lady of song has lost much of its heavenly sweetness, the years have not seriously undermined many of her other qualities, most particularly her rhythmic acuity.\"",
+   "spotify": "0phYcyB60CMLZXawGL1zp5",
+   "youtube": null
+  },
+  {
+   "id": "7f328fe8-6bad-4f6a-8936-d1e8104d098e",
+   "titulo": "I Love Paris",
+   "data": "1993",
+   "ano": "1993",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "That Old Black Magic",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can’t Get Started",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Lover",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Where or When",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "You Do Something to Me",
+     "duracao": "2:25"
+    },
+    {
+     "n": 7,
+     "titulo": "So in Love",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "How High the Moon",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "I Love Paris",
+     "duracao": "5:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Just One of Those Things",
+     "duracao": "3:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Let’s Do It, Let’s Fall in Love",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Blue Lou",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "81068632-90c1-4fe1-92dc-41964f0c26c8",
+   "titulo": "Jazz Portraits Ella Fitzgerald",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/e3de4b6a-9f86-4527-842a-43ff08c007d1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(If You Can't Sing) You'll Have to Swing It (Mr. Paganini)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Love You're Just a Laugh",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Swinging on the Reservation",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "I Got the Spring Fever Blues",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock It for Me",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Holiday in Harlem",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Crying Mood",
+     "duracao": "2:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Just a Simple Melody",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Is the Thing So They Say",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "You Showed Me the Way",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "My Melancholy Baby",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "All My Life",
+     "duracao": "3:10"
+    },
+    {
+     "n": 13,
+     "titulo": "If Dreams Come True",
+     "duracao": "2:38"
+    },
+    {
+     "n": 14,
+     "titulo": "Take Another Guess",
+     "duracao": "2:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Pack Up Your Sins and Go to the Devil",
+     "duracao": "2:56"
+    },
+    {
+     "n": 16,
+     "titulo": "I Love Each Move You Make",
+     "duracao": "3:00"
+    },
+    {
+     "n": 17,
+     "titulo": "Sugar Pie",
+     "duracao": "3:06"
+    },
+    {
+     "n": 18,
+     "titulo": "I Got a Guy",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5d5c2695-01c3-36e9-a824-5d70ea34767b",
+   "titulo": "Ella Swings Brightly With Nelson",
+   "data": "1993-07-20",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/e65bbd8b-4fd9-4a53-83c5-cfc05e737f70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When Your Lover Has Gone",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Be That Way",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Me or Leave Me",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "I Hear Music",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "What Am I Here For?",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Gonna Go Fishin’",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "I Won’t Dance",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "I Only Have Eyes for You",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "The Gentleman Is a Dope",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Mean to Me",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Alone Together",
+     "duracao": "2:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Pick Yourself Up",
+     "duracao": "2:10"
+    },
+    {
+     "n": 13,
+     "titulo": "Call Me Darling",
+     "duracao": "2:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Somebody Loves Me",
+     "duracao": "2:37"
+    },
+    {
+     "n": 15,
+     "titulo": "Cheerful Little Earful",
+     "duracao": "2:06"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_Swings_Brightly_with_Nelson",
+   "resumo_en": "Ella Swings Brightly with Nelson is a 1962 studio album by the American jazz singer Ella Fitzgerald, accompanied by an orchestra arranged by Nelson Riddle.\nThis album is one of a pair that Fitzgerald and Riddle recorded and released in 1962, the other being Ella Swings Gently with Nelson. Fitzgerald and Riddle had last worked together on her 1959 album Ella Fitzgerald Sings the George and Ira Gershwin Songbook.\nFitzgerald's performance on this album won her the Grammy Award for Best Vocal Performance, Female at the 5th Annual Grammy Awards, this was Fitzgerald's seventh Grammy.",
+   "spotify": "10TbblruH62MEiCcK6nEjx",
+   "youtube": null
+  },
+  {
+   "id": "3d03bcc5-1f65-4015-a663-0d22a277dadc",
+   "titulo": "How High the Moon",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/2f2e9804-df84-42f2-bc05-a16cb00fe5d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How High the Moon",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Flying Home",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Oh Johnny",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "As You Desire Me",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "There’s a Small Hotel",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Robbin’s Nest",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Diga, Diga, Doo",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Lou",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want the Waiter With the Water",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Lemon Drop",
+     "duracao": "1:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Sing Song Swing",
+     "duracao": "2:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Old Mother Hubbard",
+     "duracao": "1:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Limehouse Blues",
+     "duracao": "3:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Thou Swell",
+     "duracao": "2:02"
+    },
+    {
+     "n": 15,
+     "titulo": "Mr. Paganini",
+     "duracao": "4:16"
+    },
+    {
+     "n": 16,
+     "titulo": "Starlit Hour",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "94f040ea-1535-4355-9316-cb6069f57db6",
+   "titulo": "Sings Christmas",
+   "data": "1997",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/adab13e5-5bf5-413f-b293-1dab78a4fa4e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O Holy Night",
+     "duracao": "1:48"
+    },
+    {
+     "n": 2,
+     "titulo": "It Came Upon A Midnight Clear",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Hark The Herald Angels Sing",
+     "duracao": "1:49"
+    },
+    {
+     "n": 4,
+     "titulo": "The First Noel",
+     "duracao": "1:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Silent Night",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "O Come All Ye Faithful",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Sleep My Little Jesus",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "O Little Town Of Bethlehem",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "We Three Kings",
+     "duracao": "2:08"
+    },
+    {
+     "n": 10,
+     "titulo": "God Rest Ye Merry, Gentlemen",
+     "duracao": "1:28"
+    }
+   ],
+   "duracao_min": 22,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "506a52f5-4ae9-3609-87ff-ebd38835ea31",
+   "titulo": "Lullabies of Birdland / Sweet and Hot",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/6a821b55-fdb2-471b-85cf-ba1d3880ca2b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lullaby of Birdland",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Rough Ridin’",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Angel Eyes",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Smooth Sailing",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Oh, Lady Be Good",
+     "duracao": "3:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Later",
+     "duracao": "2:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Ella Hums the Blues",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "How High the Moon",
+     "duracao": "3:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Air Mail Special",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Flyin’ Home",
+     "duracao": "2:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Thanks for the Memory",
+     "duracao": "2:29"
+    },
+    {
+     "n": 13,
+     "titulo": "It Might as Well Be Spring",
+     "duracao": "2:41"
+    },
+    {
+     "n": 14,
+     "titulo": "You’ll Never Know",
+     "duracao": "3:09"
+    },
+    {
+     "n": 15,
+     "titulo": "I Can’t Get Started",
+     "duracao": "3:06"
+    },
+    {
+     "n": 16,
+     "titulo": "Moanin’ Low",
+     "duracao": "2:41"
+    },
+    {
+     "n": 17,
+     "titulo": "Taking a Chance on Love",
+     "duracao": "3:08"
+    },
+    {
+     "n": 18,
+     "titulo": "That Old Black Magic",
+     "duracao": "2:30"
+    },
+    {
+     "n": 19,
+     "titulo": "Old Devil Moon",
+     "duracao": "2:59"
+    },
+    {
+     "n": 20,
+     "titulo": "Lover, Come Back to Me",
+     "duracao": "2:01"
+    },
+    {
+     "n": 21,
+     "titulo": "Between the Devil and the Deep Blue Sea",
+     "duracao": "2:17"
+    },
+    {
+     "n": 22,
+     "titulo": "You’ll Have to Swing It (Mr Paganini)",
+     "duracao": "5:09"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ee8b0c17-2a1b-4648-8aee-9bee862e0b7e",
+   "titulo": "That Old Black Magic",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/27850134-14d7-4026-a1f2-21b00d8b4054/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Lover, Come Back to Me",
+     "duracao": "1:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Moonlight in Vermont",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "That Old Black Magic",
+     "duracao": "2:26"
+    },
+    {
+     "n": 5,
+     "titulo": "We Can’t Go on This Way",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "A Tisket, a Tasket",
+     "duracao": "2:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Stairway to the Stars",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Be That Way",
+     "duracao": "4:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Can’t We Be Friends?",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "It’s a Blue World",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Chewing Gum",
+     "duracao": "3:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Cheek to Cheek",
+     "duracao": "5:54"
+    },
+    {
+     "n": 13,
+     "titulo": "The Starlit Hour",
+     "duracao": "3:14"
+    },
+    {
+     "n": 14,
+     "titulo": "A Fine Romance",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "290b7f73-37b3-3b37-839a-29eb930cb4fe",
+   "titulo": "One O’Clock Jump",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/e0981b7c-64f7-4611-aebf-97ded7d0e0da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too Close for Comfort",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Smack Dab in the Middle",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Amazing Love",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Only Forever",
+     "duracao": "3:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Worry About Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Stop, Pretty Baby, Stop",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "One O’Clock Jump",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Jamboree",
+     "duracao": "2:00"
+    },
+    {
+     "n": 9,
+     "titulo": "I Don’t Like You No More",
+     "duracao": "2:41"
+    },
+    {
+     "n": 10,
+     "titulo": "From Coast to Coast",
+     "duracao": "8:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Too Close for Comfort (alternate take)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 12,
+     "titulo": "One O’Clock Jump (EP version)",
+     "duracao": "2:26"
+    },
+    {
+     "n": 13,
+     "titulo": "One O’Clock Jump (alternate take)",
+     "duracao": "5:57"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "435a51f8-faa0-3daf-81eb-3c33489e6d3a",
+   "titulo": "Rhythm Is My Business",
+   "data": "1999-01-26",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/57858ce5-f313-4056-9247-e2f9021cc93c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rough Ridin’",
+     "duracao": "2:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Broadway",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "You Can Depend on Me",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Runnin’ Wild",
+     "duracao": "2:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Show Me the Way to Go Out of This World ’Cause That’s Where Everything",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "I’ll Always Be in Love With You",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Hallelujah, I Love Him So",
+     "duracao": "2:36"
+    },
+    {
+     "n": 8,
+     "titulo": "I Can’t Face the Music",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "No Moon at All",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Laughin’ on the Outside",
+     "duracao": "4:55"
+    },
+    {
+     "n": 11,
+     "titulo": "After You’ve Gone",
+     "duracao": "4:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Taking a Chance on Love",
+     "duracao": "2:37"
+    },
+    {
+     "n": 13,
+     "titulo": "If I Could Be With You",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.9,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rhythm_Is_My_Business",
+   "resumo_en": "Rhythm Is My Business is a 1962 studio album by the American jazz singer Ella Fitzgerald. The album was recorded with a big band and arranged and conducted by the American R&B organist Bill Doggett.\nDownBeat magazine gave this album 3½ stars, commenting that the emphasis here was on \"swinging\". Billboard reviewed the album in September 1962 and said that it \"rates a lot of play\".",
+   "spotify": "2YmioRpHchcSObTv10OkEu",
+   "youtube": null
+  },
+  {
+   "id": "7bc3ef85-1337-4f14-a557-666a6059f76c",
+   "titulo": "I Want To Be Happy",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/f825de1f-ef2a-414f-a327-46a1e8b13705/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Want To Be Happy",
+     "duracao": "4:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Darktown Strutters' Ball",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "You'll Have To Swing It (Mr Paganini)",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Sing Me A Swing Song (And Let Me Dance)",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "All Over Nothing At All",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Sugar Blues",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "My Heart Belongs To Daddy",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Saving Myself For You",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Bei Mir Bist Du Schon",
+     "duracao": "3:07"
+    },
+    {
+     "n": 10,
+     "titulo": "If Dreams Come True",
+     "duracao": "2:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Holiday In Harlem",
+     "duracao": "3:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Crying My Heart Out For You",
+     "duracao": "3:06"
+    },
+    {
+     "n": 13,
+     "titulo": "If You Ever Should Leave",
+     "duracao": "3:04"
+    },
+    {
+     "n": 14,
+     "titulo": "I Got It Bad And That Ain't Good",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "Can't Help Lovin' Dat Man",
+     "duracao": "2:47"
+    },
+    {
+     "n": 16,
+     "titulo": "Takin' A Chance On Love",
+     "duracao": "3:05"
+    },
+    {
+     "n": 17,
+     "titulo": "Imagination",
+     "duracao": "2:57"
+    },
+    {
+     "n": 18,
+     "titulo": "The Dipsy Doodle",
+     "duracao": "3:14"
+    },
+    {
+     "n": 19,
+     "titulo": "It's My Turn Now",
+     "duracao": "2:58"
+    },
+    {
+     "n": 20,
+     "titulo": "Cryin' Mood",
+     "duracao": "2:38"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2e993213-217b-4c74-8949-b2353efbcb92",
+   "titulo": "All My Life",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/546d8bc2-dbb3-4d29-81d3-95ad4e264b72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I'll Chase The Blues Away",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "All My Life",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Mr Paganini You'll Have To Swing It",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Organ Grinder's Swing",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "You Showed Me The Way",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "I Got A Guy",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Hallelujah!",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "A Ticket A Tasket",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "I Found My Yellow Basket",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Undecided",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Stairway To The Star",
+     "duracao": "3:19"
+    },
+    {
+     "n": 12,
+     "titulo": "My Man",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "You Don't Know What Love Is",
+     "duracao": "3:26"
+    },
+    {
+     "n": 14,
+     "titulo": "Cow Cow Boogie",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "It's Only A Papermoon",
+     "duracao": "2:37"
+    },
+    {
+     "n": 16,
+     "titulo": "Flying Home",
+     "duracao": "2:30"
+    },
+    {
+     "n": 17,
+     "titulo": "Stone Cold Dead In The Market",
+     "duracao": "2:41"
+    },
+    {
+     "n": 18,
+     "titulo": "You Won't Be Satisfied",
+     "duracao": "2:55"
+    },
+    {
+     "n": 19,
+     "titulo": "The Frim Fram Sauce",
+     "duracao": "3:14"
+    },
+    {
+     "n": 20,
+     "titulo": "I'm Just A Lucky So And So",
+     "duracao": "2:57"
+    },
+    {
+     "n": 21,
+     "titulo": "Sentimental Journey",
+     "duracao": "3:19"
+    },
+    {
+     "n": 22,
+     "titulo": "That's My Desire",
+     "duracao": "3:03"
+    },
+    {
+     "n": 23,
+     "titulo": "Oh! Lady Be Good",
+     "duracao": "3:16"
+    },
+    {
+     "n": 24,
+     "titulo": "Almost Like Being In Love",
+     "duracao": "2:03"
+    },
+    {
+     "n": 25,
+     "titulo": "Lover Man",
+     "duracao": "4:31"
+    },
+    {
+     "n": 26,
+     "titulo": "My Baby Likes to Bebop",
+     "duracao": "2:43"
+    },
+    {
+     "n": 27,
+     "titulo": "How High the Moon",
+     "duracao": "3:17"
+    },
+    {
+     "n": 28,
+     "titulo": "Robbin's Nest",
+     "duracao": "2:28"
+    },
+    {
+     "n": 29,
+     "titulo": "Black Coffee",
+     "duracao": "3:07"
+    },
+    {
+     "n": 30,
+     "titulo": "Perdido",
+     "duracao": "8:25"
+    },
+    {
+     "n": 31,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:09"
+    },
+    {
+     "n": 32,
+     "titulo": "I've Got the World on a String",
+     "duracao": "3:18"
+    },
+    {
+     "n": 33,
+     "titulo": "Dream a Little Dream of Me",
+     "duracao": "3:06"
+    },
+    {
+     "n": 34,
+     "titulo": "Can Anyone Explain?",
+     "duracao": "3:12"
+    },
+    {
+     "n": 35,
+     "titulo": "How Long Has this Been Going on?",
+     "duracao": "3:17"
+    },
+    {
+     "n": 36,
+     "titulo": "Someone to Watch over Me",
+     "duracao": "3:17"
+    },
+    {
+     "n": 37,
+     "titulo": "Smooth Sailing",
+     "duracao": "3:07"
+    },
+    {
+     "n": 38,
+     "titulo": "I Don't Want to Make a Change",
+     "duracao": "3:15"
+    },
+    {
+     "n": 39,
+     "titulo": "Rough Ridin'",
+     "duracao": "3:16"
+    },
+    {
+     "n": 40,
+     "titulo": "Air Mail Special",
+     "duracao": "3:04"
+    },
+    {
+     "n": 41,
+     "titulo": "Angel Eyes",
+     "duracao": "2:54"
+    },
+    {
+     "n": 42,
+     "titulo": "Early Automn",
+     "duracao": "3:15"
+    },
+    {
+     "n": 43,
+     "titulo": "Ella's Contribution to the Blues",
+     "duracao": "2:35"
+    },
+    {
+     "n": 44,
+     "titulo": "Blue Lou",
+     "duracao": "2:49"
+    },
+    {
+     "n": 45,
+     "titulo": "My Funny Valentine",
+     "duracao": "2:53"
+    },
+    {
+     "n": 46,
+     "titulo": "How High the Moon",
+     "duracao": "3:15"
+    },
+    {
+     "n": 47,
+     "titulo": "Makin' Whopee",
+     "duracao": "3:06"
+    },
+    {
+     "n": 48,
+     "titulo": "Nice Work if You Can Get it",
+     "duracao": "2:38"
+    },
+    {
+     "n": 49,
+     "titulo": "Lullaby of Birdland",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 155,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1286983d-b924-4cfe-859e-6b1b70802b5e",
+   "titulo": "It Ain't Over...",
+   "data": "2007",
+   "ano": "2007",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moonlight In Vermont",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Airmail Special",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Lullaby of Birdland",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Flying Home",
+     "duracao": "2:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Smooth Sailing",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Tenderly",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "A Foggy Day",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Angel Eyes",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "April in Paris",
+     "duracao": "6:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Oh, Lady Be Good!",
+     "duracao": "3:08"
+    },
+    {
+     "n": 12,
+     "titulo": "How High The Moon - Live",
+     "duracao": "8:01"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3b925458-026d-4fbd-8169-321c9c2ee413",
+   "titulo": "Sings Cole Porter",
+   "data": "2007-02-12",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/3be904e9-82a2-47a6-a824-c845f7e59f00/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Begin the Beguine",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Let’s Do It",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Anything Goes",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "You Do Something to Me",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "You’re the Top",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Night and Day",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ve Got You Under My Skin",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "What Is This Thing Called Love",
+     "duracao": "2:02"
+    },
+    {
+     "n": 10,
+     "titulo": "From This Moment On",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Too Darn Hot",
+     "duracao": "3:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Ridin’ High",
+     "duracao": "3:17"
+    },
+    {
+     "n": 13,
+     "titulo": "Easy to Love",
+     "duracao": "3:21"
+    },
+    {
+     "n": 14,
+     "titulo": "I Love Paris",
+     "duracao": "4:52"
+    },
+    {
+     "n": 15,
+     "titulo": "It’s De‐Lovely",
+     "duracao": "2:39"
+    },
+    {
+     "n": 16,
+     "titulo": "Don’t Fence Me In",
+     "duracao": "3:17"
+    },
+    {
+     "n": 17,
+     "titulo": "All Through the Night",
+     "duracao": "3:11"
+    },
+    {
+     "n": 18,
+     "titulo": "So in Love",
+     "duracao": "3:46"
+    },
+    {
+     "n": 19,
+     "titulo": "Miss Otis Regrets",
+     "duracao": "2:59"
+    },
+    {
+     "n": 20,
+     "titulo": "In the Still of the Night",
+     "duracao": "2:36"
+    },
+    {
+     "n": 21,
+     "titulo": "Every Time We Say Goodbye",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c54d9e7b-3fa8-49b7-b214-f87c38a9f8fc",
+   "titulo": "Miss Ella’s Playhouse",
+   "data": "2008-08-19",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/ba8fb5ff-ddda-4d59-8330-72ed521f820a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A‐Tisket, A‐Tasket",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "The Organ Grinder’s Swing",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "The Muffin Man",
+     "duracao": "2:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Chew‐Chew‐Chew (Chew Your Bubble Gum)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Melinda the Mousie",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Old Mother Hubbard",
+     "duracao": "2:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Molasses, Molasses (Its Icky Sticky Goo)",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "The Bean Bag Song",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Two Men in a Flying Saucer",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "The Hot Canary",
+     "duracao": "3:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Old McDonald",
+     "duracao": "2:14"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "279f191a-b736-47b4-9e73-8b09ce1d6ed0",
+   "titulo": "Jazz at the Philharmonic: The Ella Fitzgerald Set",
+   "data": "2016-03-25",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/3aca089b-208c-4e15-ab1f-d182e1353886/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Norman Granz Announces Ella Fitzgerald",
+     "duracao": "0:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Robbins Nest",
+     "duracao": "2:22"
+    },
+    {
+     "n": 3,
+     "titulo": "A New Shade of Blues",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Old Mother Hubbard",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Just a Lucky So‐And‐So",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Somebody Loves Me",
+     "duracao": "1:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Owl- Introduction of Ella Fitzgerald",
+     "duracao": "0:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Flying Home",
+     "duracao": "5:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Oh, Lady Be Good",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Black Coffee",
+     "duracao": "3:38"
+    },
+    {
+     "n": 12,
+     "titulo": "A‐Tisket, A‐Tasket",
+     "duracao": "2:36"
+    },
+    {
+     "n": 13,
+     "titulo": "How High the Moon",
+     "duracao": "5:48"
+    },
+    {
+     "n": 14,
+     "titulo": "Norman Granz Announcement",
+     "duracao": "0:29"
+    },
+    {
+     "n": 15,
+     "titulo": "Perdido",
+     "duracao": "8:37"
+    },
+    {
+     "n": 16,
+     "titulo": "Bill",
+     "duracao": "2:55"
+    },
+    {
+     "n": 17,
+     "titulo": "Why Don’t You Do Right",
+     "duracao": "3:12"
+    },
+    {
+     "n": 18,
+     "titulo": "A Foggy Day",
+     "duracao": "2:46"
+    },
+    {
+     "n": 19,
+     "titulo": "Lullaby of Birdland",
+     "duracao": "2:16"
+    },
+    {
+     "n": 20,
+     "titulo": "The Man That Got Away",
+     "duracao": "4:36"
+    },
+    {
+     "n": 21,
+     "titulo": "Hernando’s Hideaway",
+     "duracao": "3:17"
+    },
+    {
+     "n": 22,
+     "titulo": "Later",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9e2aa3d8-731e-4c2e-a00b-4d60e20316af",
+   "titulo": "Live in Cologne, 1974 (Live)",
+   "data": "2016-06-17",
+   "ano": "2016",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "There’ll Never Be Another You (live)",
+     "duracao": "2:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Good Morning Heartache (live)",
+     "duracao": "5:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Different Kinds of Music (live)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "It Don’t Mean a Thing (live)",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "The Man I Love (live)",
+     "duracao": "8:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Lemon Drop (live)",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Gee Baby Ain’t I Good to You (live)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "These Foolish Things (live)",
+     "duracao": "5:47"
+    },
+    {
+     "n": 9,
+     "titulo": "The Boy From Ipanema (live)",
+     "duracao": "8:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Mack the Knife (live)",
+     "duracao": "5:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Just a Lucky So and So (live)",
+     "duracao": "6:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Now’s the Time (live)",
+     "duracao": "6:54"
+    },
+    {
+     "n": 13,
+     "titulo": "Announcement (live)",
+     "duracao": "0:53"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2dedc86d-7d2f-4c58-8a0e-f295347378d3",
+   "titulo": "Ella Sings the Blues",
+   "data": "2023-06-15",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/ba698fef-1570-4132-b763-cd8ba18e1998/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smooth Sailing",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "See, See Rider",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "How Long, How Long Blues",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Blues in the Night",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "I Ain’t Got Nothin’ but the Blues",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Basin Street Blues",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Pete Kelly’s Blues",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Evening (When the Sun Goes Down)",
+     "duracao": "2:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Ella Hums the Blues",
+     "duracao": "5:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Wee Baby Blues - Live",
+     "duracao": "5:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Good Morning Blues",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Cherry Red",
+     "duracao": "4:12"
+    },
+    {
+     "n": 13,
+     "titulo": "I Gotta Right to Sing the Blues",
+     "duracao": "5:12"
+    },
+    {
+     "n": 14,
+     "titulo": "St. Louis Blues (live from Rome / 1958)",
+     "duracao": "6:31"
+    },
+    {
+     "n": 15,
+     "titulo": "Swingin’ Shepherd Blues (alternate take)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 16,
+     "titulo": "Beale Street Blues",
+     "duracao": "2:26"
+    },
+    {
+     "n": 17,
+     "titulo": "Later",
+     "duracao": "2:32"
+    },
+    {
+     "n": 18,
+     "titulo": "Too Young for the Blues (alternate single version)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 19,
+     "titulo": "Joe Williams Blues (live in Berlin, 1961)",
+     "duracao": "5:27"
+    },
+    {
+     "n": 20,
+     "titulo": "I’ll Chase the Blues Away (single version / matrix 39614)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 21,
+     "titulo": "A New Shade of Blues",
+     "duracao": "3:01"
+    },
+    {
+     "n": 22,
+     "titulo": "Trouble in Mind",
+     "duracao": "3:33"
+    },
+    {
+     "n": 23,
+     "titulo": "St. Louis Blues",
+     "duracao": "4:02"
+    },
+    {
+     "n": 24,
+     "titulo": "Every Day I Have the Blues",
+     "duracao": "5:11"
+    },
+    {
+     "n": 25,
+     "titulo": "Party Blues",
+     "duracao": "3:57"
+    }
+   ],
+   "duracao_min": 95,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "aa8fecf2-db3e-4d96-a52c-b2e42b7dfce7",
+   "titulo": "The Christmas Songs",
+   "data": "2024-11-09",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/b1aff684-8f9c-4985-889b-de0d38b49f3c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "White Christmas - Restored 2024",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Santa Claus Is Coming To Town - Restored 2024",
+     "duracao": "2:19"
+    },
+    {
+     "n": 3,
+     "titulo": "The Christmas Song - Restored 2024",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Jingle Bells - Restored 2024",
+     "duracao": "2:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Have Yourself A Merry Little Christmas - Restored 2024",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Let It Snow! Let It Snow! Let It Snow! - Restored 2024",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Winter Wonderland - Restored 2024",
+     "duracao": "2:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Rudolph The Red-Nosed Reindeer - Restored 2024",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Frosty The Snowman - Restored 2024",
+     "duracao": "2:12"
+    },
+    {
+     "n": 10,
+     "titulo": "What Are You Doing New Year's Eve - Restored 2024",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "White Christmas (Alternate take) - Restored 2024",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Frosty The Snowman (Alternate Take) - Restored 2024",
+     "duracao": "2:13"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "40bd6214-daf2-438d-b83a-238a6d259c4c",
+   "titulo": "Jukebox Ella: The Complete Verve Singles, Volume 2",
+   "data": "2025-11-14",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/311a938f-ee44-4278-9076-cae1ff689aac/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It’s All Right With Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Let’s Do It (Let’s Fall in Love)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "What Is This Thing Called Love?",
+     "duracao": "2:03"
+    },
+    {
+     "n": 4,
+     "titulo": "All of You",
+     "duracao": "1:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Stars Fell on Alabama",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Can’t We Be Friends?",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Manhattan",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Stairway to the Stars",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Goody, Goody",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "St. Louis Blues",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Stompin’ at the Savoy (Parts 1 & 2)",
+     "duracao": "6:36"
+    },
+    {
+     "n": 12,
+     "titulo": "What Will I Tell My Heart?",
+     "duracao": "3:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Midnight Sun",
+     "duracao": "3:55"
+    },
+    {
+     "n": 14,
+     "titulo": "Teardrops From My Eyes",
+     "duracao": "3:47"
+    },
+    {
+     "n": 15,
+     "titulo": "Little Jazz",
+     "duracao": "3:05"
+    },
+    {
+     "n": 16,
+     "titulo": "They Can’t Take That Away From Me",
+     "duracao": "3:10"
+    },
+    {
+     "n": 17,
+     "titulo": "Oh, Lady Be Good",
+     "duracao": "4:01"
+    },
+    {
+     "n": 18,
+     "titulo": "I’ve Grown Accustomed to His Face",
+     "duracao": "3:06"
+    },
+    {
+     "n": 19,
+     "titulo": "I’m Through With Love",
+     "duracao": "3:48"
+    },
+    {
+     "n": 20,
+     "titulo": "Let’s Call the Whole Thing Off",
+     "duracao": "4:29"
+    },
+    {
+     "n": 21,
+     "titulo": "You Make Me Feel So Young",
+     "duracao": "2:22"
+    },
+    {
+     "n": 22,
+     "titulo": "Like Young",
+     "duracao": "3:02"
+    },
+    {
+     "n": 23,
+     "titulo": "Cool Breeze",
+     "duracao": "1:58"
+    },
+    {
+     "n": 24,
+     "titulo": "Beat Me Daddy, Eight to the Bar",
+     "duracao": "2:30"
+    },
+    {
+     "n": 25,
+     "titulo": "Gone With the Wind",
+     "duracao": "2:35"
+    },
+    {
+     "n": 26,
+     "titulo": "Lorelei",
+     "duracao": "3:21"
+    },
+    {
+     "n": 27,
+     "titulo": "Mack the Knife",
+     "duracao": "5:04"
+    },
+    {
+     "n": 28,
+     "titulo": "How High the Moon (Parts 1 & 2)",
+     "duracao": "7:11"
+    },
+    {
+     "n": 29,
+     "titulo": "I Can’t Give You Anything but Love",
+     "duracao": "3:30"
+    },
+    {
+     "n": 30,
+     "titulo": "Reach for Tomorrow",
+     "duracao": "2:26"
+    },
+    {
+     "n": 31,
+     "titulo": "Jingle Bells",
+     "duracao": "2:24"
+    },
+    {
+     "n": 32,
+     "titulo": "Good Morning Blues",
+     "duracao": "3:17"
+    },
+    {
+     "n": 33,
+     "titulo": "(You’ll Have to Swing It) Mr. Paganini",
+     "duracao": "4:07"
+    },
+    {
+     "n": 34,
+     "titulo": "You’re Driving Me Crazy",
+     "duracao": "3:29"
+    },
+    {
+     "n": 35,
+     "titulo": "Cry Me a River",
+     "duracao": "4:15"
+    },
+    {
+     "n": 36,
+     "titulo": "Clap Hands, Here Comes Charlie!",
+     "duracao": "2:45"
+    },
+    {
+     "n": 37,
+     "titulo": "I’ll Always Be in Love With You",
+     "duracao": "2:52"
+    },
+    {
+     "n": 38,
+     "titulo": "I Could Have Danced All Night",
+     "duracao": "2:24"
+    },
+    {
+     "n": 39,
+     "titulo": "Shiny Stockings",
+     "duracao": "3:35"
+    },
+    {
+     "n": 40,
+     "titulo": "Into Each Life Some Rain Must Fall",
+     "duracao": "3:20"
+    },
+    {
+     "n": 41,
+     "titulo": "See, See Rider",
+     "duracao": "2:42"
+    },
+    {
+     "n": 42,
+     "titulo": "Trouble in Mind",
+     "duracao": "3:34"
+    },
+    {
+     "n": 43,
+     "titulo": "Can’t Buy Me Love",
+     "duracao": "2:38"
+    },
+    {
+     "n": 44,
+     "titulo": "Hello Dolly",
+     "duracao": "2:54"
+    },
+    {
+     "n": 45,
+     "titulo": "And the Angels Sing",
+     "duracao": "4:03"
+    },
+    {
+     "n": 46,
+     "titulo": "A Hard Day’s Night",
+     "duracao": "3:24"
+    },
+    {
+     "n": 47,
+     "titulo": "Duke’s Place",
+     "duracao": "4:15"
+    },
+    {
+     "n": 48,
+     "titulo": "Imagine My Frustration (Parts 1 & 2)",
+     "duracao": "4:51"
+    },
+    {
+     "n": 49,
+     "titulo": "Whisper Not",
+     "duracao": "3:03"
+    },
+    {
+     "n": 50,
+     "titulo": "Old MacDonald",
+     "duracao": "2:14"
+    }
+   ],
+   "duracao_min": 170,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

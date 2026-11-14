@@ -1,0 +1,680 @@
+{
+ "id": "abba",
+ "nome": "ABBA",
+ "cena": "Ícones do pop",
+ "mbid": "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+ "wikidata": "Q18233",
+ "tipo": "Group",
+ "pais": "SE",
+ "inicio": "1972",
+ "fim": "2022",
+ "ativa": false,
+ "generos": [
+  "pop",
+  "disco",
+  "europop",
+  "glam rock",
+  "pop rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/ABBA",
+ "resumo_pt": "ABBA é um grupo sueco de música pop formado em Estocolmo em 1972 por Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, e Anni-Frid Lyngstad. O nome do grupo é um acrônimo formado pelas iniciais do primeiro nome de cada membro. Tornaram-se um dos grupos de maior sucesso comercial na história da música, liderando as paradas mundiais de 1974 a 1982. Os ABBA venceram o Eurovision Song Contest 1974 no The Dome, em Brighton, Reino Unido, dando à Suécia seu primeiro triunfo no concurso. É o grupo de maior sucesso que participou da competição.\nDesde então, os ABBA ganharam popularidade empregando ritmos cativantes em suas canções, com letras simples e um som único, caracterizado pela harmonia das vozes femininas e da técnica wall of sound, efeito criado pelo produtor musical Phil Spector. Björn e Agnetha casaram-se meses antes da formação do quarteto, enquanto Benny e Frida se casaram apenas em 1978; os quatro lidaram com obrigações artísticas ao mesmo tempo que se ocupavam com as suas novas famílias. As suas gravações tiveram um impacto comercial, facto que levou o grupo a tornar-se o mais bem-sucedido da gravadora Universal Music Group e a ser a banda que mais vendeu discos nos anos 1970.\nOs ABBA foram o primeiro grupo pop europeu a fazer sucesso em países anglófonos fora da Europa, principalmente na Austrália, Nova Zelândia, África do Sul, Canadá e, em menor proporção, nos Estados Unidos. No entanto, no auge de sua popularidade, os dois casamentos foram dissolvidos e essas mudança",
+ "resumo_en": "ABBA (  AB-ə, Swedish: [ˈâbːa]) were a Swedish pop music group formed in Stockholm in 1972 by Agnetha Fältskog, Björn Ulvaeus, Benny Andersson and Anni-Frid Lyngstad. They are among the most renowned and commercially successful musical groups in history.\nIn 1974, ABBA won the Eurovision Song Contest for Sweden with their song \"Waterloo\", which was chosen as the best song in the competition's history during its 50th anniversary celebration in 2005. During their peak, ABBA comprised two married couples: Fältskog and Ulvaeus, and Lyngstad and Andersson. As their fame grew, their personal lives suffered, leading to the dissolution of both marriages. These relationship changes were reflected in the group's later music, which featured darker and more introspective lyrics.\nAfter ABBA disbanded in December 1982, Andersson and Ulvaeus continued their success writing music for stage, musicals and films, while Fältskog and Lyngstad pursued solo careers. Ten years after the group's breakup, the compilation ABBA Gold was released and became a worldwide best-seller. In 1999, ABBA's music was adapted into Mamma Mia!, a stage musical that toured globally. As of October 2024, it remains one of the ten longest-running productions on Broadway (closed in 2015) and the West End (still running). A film of the same name, released in 2008, became the highest-grossing film in the United Kingdom that year. A sequel, Mamma Mia! Here We Go Again, was released in 2018.\nABBA are one of the best-selling mu",
+ "albuns": [
+  {
+   "id": "506764b9-89d4-357a-8c66-a9d0bf526fd1",
+   "titulo": "Ring Ring",
+   "data": "1973-03-26",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/1bcd0638-b247-4cd5-9570-e15fb1a5e775/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ring, Ring",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Another Town, Another Train",
+     "duracao": "3:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Disillusion",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "People Need Love",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "She’s My Kind of Girl",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Nina, Pretty Ballerina",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Isn’t Easy (But It Sure Is Hard Enough)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Me and Bobby and Bobby’s Brother",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "He Is Your Brother",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "I Saw It in the Mirror",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "I Am Just a Girl",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Rock ’n’ Roll Band",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.8,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ring_Ring_%28album%29",
+   "resumo_en": "Ring Ring is the debut studio album by the Swedish group ABBA, initially credited as Björn & Benny, Agnetha & Frida. It was released in Scandinavia on 26 March 1973, and later in a limited number of other territories, including West Germany, Australia, South Africa and Mexico, through Polar Music. It reached the top ten in Australia, Norway, and Sweden. The album was re-released in Australasia in 1975, but was not released in the United Kingdom until 1992, and the United States until 1995.",
+   "spotify": "3Il2ad1NGO9zoY1FIVBuHD",
+   "youtube": null
+  },
+  {
+   "id": "1f78ea53-5e9c-46b6-8cd4-9d8a9c547a85",
+   "titulo": "Waterloo",
+   "data": "1974-03-04",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/41692017-39d2-4d57-8bc6-e461278f92a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Waterloo (Swedish version)",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Sitting in the Palmtree",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "King Kong Song",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Hasta mañana",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "My Mama Said",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Dance (While the Music Still Goes On)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Honey, Honey",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Watch Out",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "What About Livingstone",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Gonna Sing You My Lovesong",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Suzy-Hang-Around",
+     "duracao": "3:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Waterloo (English version)",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.4,
+    "fontes": 4
+   },
+   "publico": 6.3,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waterloo_%28album%29",
+   "resumo_en": "Waterloo is the second studio album by the Swedish pop group ABBA, and the first released internationally. It was originally released on 4 March 1974 in Sweden through Polar Music. The album's lead single won ABBA the 1974 Eurovision Song Contest and became a global hit, launching the group's career. The album topped the charts in Sweden and Norway while also reaching the top ten in Finland and Germany.",
+   "spotify": "4hHXvnHGn6pmHhdnnmNdmn",
+   "youtube": null
+  },
+  {
+   "id": "5ee43a5f-94eb-3f0c-a1ec-e0476251d95f",
+   "titulo": "ABBA",
+   "data": "1975-04-21",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/057efeed-09d9-4af9-b3c8-5a9fa3658451/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mamma Mia",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Hey, Hey Helen",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Tropical Loveland",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "SOS",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Man in the Middle",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Bang-A-Boomerang",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "I Do, I Do, I Do, I Do, I Do",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Rock Me",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Intermezzo No. 1",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "I've Been Waiting for You",
+     "duracao": "3:41"
+    },
+    {
+     "n": 11,
+     "titulo": "So Long",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 7.1,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/ABBA_%28album%29",
+   "resumo_en": "ABBA is the third studio album by the Swedish pop group ABBA. It was originally released on 21 April 1975 through Polar Music and features the hits \"SOS\", \"I Do, I Do, I Do, I Do, I Do\" and \"Mamma Mia\". The album topped the charts in Australia, Norway, Sweden and reached the top ten in the Netherlands, Finland, Italy, and New Zealand.",
+   "spotify": "5zT1JLIj9E57p3e1rFm9Uq",
+   "youtube": null
+  },
+  {
+   "id": "e464e167-83ab-3b59-88bd-262cf552056e",
+   "titulo": "Arrival",
+   "data": "1976-10-11",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/17c6d9f0-3d00-381e-892d-b40fdf995257/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When I Kissed the Teacher",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Dancing Queen",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "My Love, My Life",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Dum Dum Diddle",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Knowing Me, Knowing You",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Money, Money, Money",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "That’s Me",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Why Did It Have to Be Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Tiger",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Arrival",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.8,
+    "fontes": 8
+   },
+   "publico": 6.9,
+   "publico_votos": 15,
+   "wikipedia": "https://en.wikipedia.org/wiki/Arrival_%28ABBA_album%29",
+   "resumo_en": "Arrival is the fourth studio album by the Swedish pop group ABBA. It was originally released in Sweden on 11 October 1976 by Polar Records. It became one of ABBA's most successful albums to date, producing some of their biggest hits: \"Dancing Queen\", \"Money, Money, Money\" and \"Knowing Me, Knowing You\". The track \"Fernando\", which had been released as a single in March 1976, was included on the Australian and New Zealand versions of the album. Arrival was the best-selling album of 1977 in the United Kingdom and was certified gold by the Recording Industry Association of America.\nIn 2024, the album was selected for preservation in the United States National Recording Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".",
+   "spotify": "1V6a99EbTTIegOhWoPxYI9",
+   "youtube": "OLAK5uy_kOnW3BfzZ9ep4oHKxXVd-YXCwOLeRT4mU"
+  },
+  {
+   "id": "819a08ac-170e-3c0e-8a1d-8e3138d56f77",
+   "titulo": "The Album",
+   "data": "1977-12-12",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/c402338c-bc31-3011-9169-fa6f75b61210/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eagle",
+     "duracao": "5:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Take a Chance on Me",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "One Man, One Woman",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "The Name of the Game",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Move On",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Hole in Your Soul",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Thank You for the Music",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "I Wonder (Departure)",
+     "duracao": "4:34"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m a Marionette",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 6
+   },
+   "publico": 7.1,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/ABBA%3A_The_Album",
+   "resumo_en": "ABBA: The Album (also known as simply The Album) is the fifth studio album by the Swedish pop group ABBA. It was released in Scandinavia on 12 December 1977 through Polar Music, but due to the massive amount of pre-orders, the UK pressing plants were not able to press sufficient copies before Christmas 1977 and so it was not released in the UK until January 1978. The album was released in conjunction with ABBA: The Movie, with the same cover, technically functioning as the soundtrack, with several of the songs featured in the film. Altogether, the album contains nine songs.\nThe album contained two UK number-one singles, \"Take a Chance on Me\" and \"The Name of the Game\", as well as European hits \"Eagle\" and \"Thank You for the Music\".",
+   "spotify": "5rHIYv9tgmZjvvMOMhho2x",
+   "youtube": null
+  },
+  {
+   "id": "7401fb97-46e6-32cd-bd59-6c49debaa3ae",
+   "titulo": "Voulez‐vous",
+   "data": "1979-04-23",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/15024342-4d6f-4df4-a2cb-581b25ef4eef/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "As Good as New",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Voulez‐vous",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "I Have a Dream",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Angeleyes",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "The King Has Lost His Crown",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Does Your Mother Know",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "If It Wasn’t for the Nights",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Chiquitita",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Lovers (Live a Little Longer)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Kisses of Fire",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.2,
+    "fontes": 9
+   },
+   "publico": 7.5,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Voulez-Vous",
+   "resumo_en": "Voulez-Vous (pronounced [vule vu]; French for \"Do you want (to)?\") is the sixth studio album by the Swedish pop group ABBA. Released on 23 April 1979, the album yielded five hits, all of them big 1979 singles in Britain – \"Chiquitita\", \"Does Your Mother Know\", \"I Have a Dream\" and the double A-side \"Voulez-Vous\"/\"Angeleyes\". \nThe title track showed the group embracing disco music, which at the time was at its peak. The album topped the charts in a number of countries and ranked among Britain's five best-selling albums of the year.\nIt was the first ABBA album to be mainly recorded at Polar Studios in Stockholm, and the only ABBA album to include a studio recording made outside Sweden: the instrumental backing track for the title track was partly recorded at Criteria Studios in Miami.\nVoulez-Vous was first released on CD in 1984. The album has been digitally remastered and reissued four times: first in 1997, then in 2001 and in 2005 as part of The Complete Studio Recordings box set, and yet again in 2010 for the Voulez-Vous Deluxe Edition.",
+   "spotify": "366R23DbfxqjZo6AUBrQjv",
+   "youtube": null
+  },
+  {
+   "id": "24944755-2f68-3778-974e-f572a9e30108",
+   "titulo": "Super Trouper",
+   "data": "1980-11-03",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/02ba879d-48d7-4601-92ac-fa82d020a419/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Super Trouper",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "The Winner Takes It All",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "On and On and On",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Andante, andante",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Me and I",
+     "duracao": "4:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Happy New Year",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Our Last Summer",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "The Piper",
+     "duracao": "3:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Lay All Your Love on Me",
+     "duracao": "4:35"
+    },
+    {
+     "n": 10,
+     "titulo": "The Way Old Friends Do",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 8
+   },
+   "publico": 7.6,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Super_Trouper_%28album%29",
+   "resumo_en": "Super Trouper is the seventh studio album by the Swedish pop group ABBA, released on 3 November 1980 via Polar Music. A pop and pop rock record, it was the last album to be recorded while members Anni-Frid Lyngstad and Benny Andersson were married, as the two would divorce in 1981. The album's title is taken from the spotlight of the same name.\nSuper Trouper received a positive reception from music critics, and has even been named by some as their best studio album. It was a hugely successful album, becoming the United Kingdom's best-selling album of 1980 despite the late release into the year. Reportedly, the album received one million advance orders in the country. Elsewhere, the album topped charts in Belgium, the Netherlands, Finland, Germany, Norway, and the group's native Sweden. The album has reportedly sold over eight million copies worldwide.",
+   "spotify": "1nVUhbpkGwlTKxSIF6UJyM",
+   "youtube": "OLAK5uy_nfbdHZA0VilB7SVhxGZVbWRZPO7vcvxcI"
+  },
+  {
+   "id": "76bb9f69-b5c1-31be-9bbf-b4b3d98988b0",
+   "titulo": "The Visitors",
+   "data": "1981-11-30",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/a06f5072-62a1-472a-b30e-f0b9d4145549/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Visitors",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Head Over Heels",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "When All Is Said and Done",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Soldiers",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "I Let the Music Speak",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "One of Us",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Two for the Price of One",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Slipping Through My Fingers",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Like an Angel Passing Through My Room",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 8
+   },
+   "publico": 6.7,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Visitors_%28ABBA_album%29",
+   "resumo_en": "The Visitors is the eighth studio album by the Swedish pop group ABBA. It was released on 30 November 1981.\nWith The Visitors, ABBA took several steps away from the \"lighter\" pop music they had recorded previously and the album is often regarded as a more complex and mature effort. The opening track, \"The Visitors\", with its ominous synthesizer sounds and the distinctive lead vocal by Frida, announced a change in musical style. With Benny and Frida going their separate ways, the pain of splitting up was explored yet again in \"When All Is Said and Done\". The major hit single on the album, \"One of Us\", also depicted the end of a love story. Elsewhere there were Cold War themes—highly topical at the time—and further songs of isolation and regret.\nThe Visitors was one of the first albums to be digitally recorded and mixed. The Visitors was also one of the earliest to be manufactured commercially on compact disc, it was released after 52nd Street by Billy Joel (the first available in this format). The Visitors has been reissued in digitally remastered form four times—first in 1997, then in 2001, again in 2005 as part of The Complete Studio Recordings box set and most recently in 2012, a",
+   "spotify": "0lXoZDB0yfxncR0cyrWDmf",
+   "youtube": null
+  },
+  {
+   "id": "9077617d-b73f-4498-b415-175d5b843790",
+   "titulo": "Voyage",
+   "data": "2021-11-05",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/8d4a3302-79f2-4525-9f44-6e92632c6566/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Still Have Faith in You",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "When You Danced With Me",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Things",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Shut Me Down",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Just a Notion",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "I Can Be That Woman",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Keep an Eye on Dan",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Bumblebee",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "No Doubt About It",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Ode to Freedom",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 72,
+    "media": 6.8,
+    "fontes": 10
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Voyage_%28ABBA_album%29",
+   "resumo_en": "Voyage is the ninth and final studio album by the Swedish pop group ABBA, released on 5 November 2021. With ten songs written by Benny Andersson and Björn Ulvaeus, it is the group's first album of new material in forty years, following The Visitors (1981). The album was supported by the dual single release of \"I Still Have Faith in You\" and \"Don't Shut Me Down\", released alongside the album announcement on 2 September 2021. \"Just a Notion\" was issued as the third single on 22 October 2021, followed by the fourth single \"Little Things\" on 3 December. A digital concert residency in support of the album, ABBA Voyage, opened in London on 27 May 2022.\nVoyage debuted atop the charts of Australia, Austria, Belgium, the Czech Republic, Denmark, Finland, France, Germany, Iceland, Ireland, the Netherlands, New Zealand, Norway, Sweden, Switzerland and England. It also became the group's highest-charting studio album ever in Canada and the United States (as well as their first top ten album in the latter country), debuting at number two on the charts in both countries. The album was nominated for Album of the Year and Best Pop Vocal Album at the 2023 Grammy Awards, in addition to nominations f",
+   "spotify": "0uUtGVj0y9FjfKful7cABY",
+   "youtube": "PLxA687tYuMWiaZm97zAKxm6AGNVEWBm9F"
+  }
+ ]
+}

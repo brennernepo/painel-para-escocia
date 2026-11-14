@@ -1,0 +1,861 @@
+{
+ "id": "anathema",
+ "nome": "Anathema",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "20aa23e3-3532-42ca-acf6-e8c2e9df2688",
+ "wikidata": "Q487396",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1990",
+ "fim": "2020",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "alternative rock",
+  "doom metal",
+  "metal",
+  "death-doom metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Anathema_%28Festimad_2007%29.jpg/500px-Anathema_%28Festimad_2007%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Anathema",
+ "resumo_pt": "Anathema foi uma banda inglesa formada em 1990 na cidade de Liverpool. Inicialmente do gênero doom metal e pioneira do gothic metal, a banda mostrou influências de rock progressivo a partir de seu quarto álbum - Alternative 4, de 1998.",
+ "resumo_en": "Anathema were an English rock band from Liverpool, formed in 1990 by Vincent and Daniel Cavanagh, bassist Jamie Cavanagh, drummer/keyboardist John Douglas, and vocalist Darren \"Daz\" White.\nThe band maintained an active concert schedule throughout their career. They first toured in 1992 with American death metal band Cannibal Corpse. They since performed throughout Europe, the United States, Central America, Australia, New Zealand, India, and Turkey. In the latter stages of their career, the band performed at venues such as London's O2 Arena, Wembley Arena, and the London Palladium, and appeared on stage with Stephen Hawking at Starmus Festival 3.\nAnathema released 11 studio albums, including Distant Satellites (2014), which included the song \"Anathema\", named the Anthem of the Year at the third annual Progressive Music Awards. Three years later, The Optimist was named Album of the Year at the Progressive Music Awards.",
+ "albuns": [
+  {
+   "id": "6ef92924-c769-3fdd-a7c9-c698a5371677",
+   "titulo": "Serenades",
+   "data": "1993-02-28",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/9d65112d-393a-411c-984e-469579d8633c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lovelorn Rhapsody",
+     "duracao": "6:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Sweet Tears",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "J'ai fait une promesse",
+     "duracao": "2:40"
+    },
+    {
+     "n": 4,
+     "titulo": "They (Will Always) Die",
+     "duracao": "7:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Sleepless",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Sleep in Sanity",
+     "duracao": "6:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Scars of the Old Stream",
+     "duracao": "1:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Under a Veil (of Black Lace)",
+     "duracao": "7:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Where Shadows Dance",
+     "duracao": "1:58"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 6.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Serenades_%28album%29",
+   "resumo_en": "Serenades is the full-length debut album by British rock band Anathema. It was released in February 1993 through Peaceville Records.\nIt is their only album to feature Darren White on lead vocals. Rhythm guitarist Vincent Cavanagh sang lead on all subsequent albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "104e5fe9-7f6e-3d41-8efb-4cf40713a9a1",
+   "titulo": "The Silent Enigma",
+   "data": "1995-08-17",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/02e10ce9-264c-4c57-98ae-185ac76ade69/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Restless Oblivion",
+     "duracao": "8:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Shroud of Frost",
+     "duracao": "7:31"
+    },
+    {
+     "n": 3,
+     "titulo": "... Alone",
+     "duracao": "4:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Sunset of the Age",
+     "duracao": "6:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Nocturnal Emission",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Cerulean Twilight",
+     "duracao": "7:05"
+    },
+    {
+     "n": 7,
+     "titulo": "The Silent Enigma",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "A Dying Wish",
+     "duracao": "8:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Orchid",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 3
+   },
+   "publico": 8.4,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Silent_Enigma",
+   "resumo_en": "The Silent Enigma is the second album by British rock band Anathema, released in 1995 through Peaceville Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "57b566b5-0752-3298-a06c-bd694f57c3a6",
+   "titulo": "Eternity",
+   "data": "1996-11-11",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/225764bb-b2da-4fb4-a183-d1864e497962/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sentient",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Angelica",
+     "duracao": "5:50"
+    },
+    {
+     "n": 3,
+     "titulo": "The Beloved",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Eternity, Part I",
+     "duracao": "5:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Eternity, Part II",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Hope",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Suicide Veil",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Radiance",
+     "duracao": "5:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Far Away",
+     "duracao": "5:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Eternity, Part III",
+     "duracao": "4:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Cries on the Wind",
+     "duracao": "5:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Ascension",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 7.8,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Eternity_%28Anathema_album%29",
+   "resumo_en": "Eternity is the third album by the British rock band Anathema. It was released in November 1996 through Peaceville Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dcd35970-42f8-3525-9def-1648bcd13292",
+   "titulo": "Alternative 4",
+   "data": "1998-06-17",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/3bc03e13-bd0b-4c0e-bf85-59146429eb79/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shroud of False",
+     "duracao": "1:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Fragile Dreams",
+     "duracao": "5:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Empty",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Lost Control",
+     "duracao": "5:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Re-Connect",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Inner Silence",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Alternative 4",
+     "duracao": "6:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Regret",
+     "duracao": "7:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Feel",
+     "duracao": "5:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Destiny",
+     "duracao": "2:13"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": 8.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alternative_4_%28album%29",
+   "resumo_en": "Alternative 4 is the fourth studio album by the English rock band Anathema. It was released on 22 June 1998 through Peaceville Records. Like the band's third album Eternity, Alternative 4 is sung with clean vocals.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e1e0a4a1-4188-3c9b-bd7c-5e795200acd9",
+   "titulo": "Judgement",
+   "data": "1999-06-21",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/34f2a7ce-1d82-49e5-b77e-a374a469b72a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Deep",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Pitiless",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Forgotten Hopes",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Destiny Is Dead",
+     "duracao": "1:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Make It Right (F.F.S.)",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "One Last Goodbye",
+     "duracao": "5:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Parisienne Moonlight",
+     "duracao": "2:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Judgement",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Look Too Far",
+     "duracao": "4:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Emotional Winter",
+     "duracao": "5:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Wings of God",
+     "duracao": "6:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Anyone, Anywhere",
+     "duracao": "4:50"
+    },
+    {
+     "n": 13,
+     "titulo": "2000 & Gone",
+     "duracao": "4:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Transacoustic",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Judgement_%28Anathema_album%29",
+   "resumo_en": "Judgement is the fifth album by the British rock band Anathema. It was released in June 1999 through Music for Nations.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cd557df6-edd5-3036-a494-bdbb3b7fffd7",
+   "titulo": "A Fine Day to Exit",
+   "data": "2001-10-01",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/6f1b3d67-012f-4665-a8c4-cbaac588c47d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pressure",
+     "duracao": "6:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Release",
+     "duracao": "5:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Looking Outside Inside",
+     "duracao": "6:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Leave No Trace",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Underworld",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Barriers",
+     "duracao": "5:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Panic",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "A Fine Day to Exit",
+     "duracao": "6:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Temporary Peace",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Fine_Day_to_Exit",
+   "resumo_en": "A Fine Day to Exit is the sixth album by the British rock band Anathema. It was released on 9 October 2001 through Music for Nations.\nThis is the only occasion where an Anathema album has John Douglas credited as a writer for around half of the songs. He wrote \"Pressure\", \"Looking Outside Inside\", \"Panic\" (co-written with Daniel Cavanagh), the title track and the hidden acoustic track at the end of \"Temporary Peace\" called \"In the Dog's House\".\nIt is the last album with bassist Dave Pybus, and the first with keyboardist Les Smith.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f45499fb-ce0e-30cc-903e-130fa0fafdf9",
+   "titulo": "A Natural Disaster",
+   "data": "2003-11-03",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/a974561a-7836-4114-83cd-9be43d712991/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Harmonium",
+     "duracao": "5:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Balance",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Closer",
+     "duracao": "6:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Are You There?",
+     "duracao": "4:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Childhood Dream",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Pulled Under at 2000 Metres a Second",
+     "duracao": "5:23"
+    },
+    {
+     "n": 7,
+     "titulo": "A Natural Disaster",
+     "duracao": "6:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Flying",
+     "duracao": "5:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Electricity",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Violence",
+     "duracao": "10:45"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": 8.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Natural_Disaster",
+   "resumo_en": "A Natural Disaster is the seventh album by the British rock band Anathema. It was released on 3 November 2003 in the United Kingdom and on 24 February 2004 in the United States through Music for Nations.",
+   "spotify": "19xO3wMKknhz76awUMZ9j7",
+   "youtube": null
+  },
+  {
+   "id": "6e3c34c4-3e0d-4dbf-841a-1ad1eabee9eb",
+   "titulo": "We’re Here Because We’re Here",
+   "data": "2010-05-26",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/e43311bc-0480-4e6f-95ae-84d884dd8821/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thin Air",
+     "duracao": "5:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Summernight Horizon",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Dreaming Light",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Everything",
+     "duracao": "5:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Angels Walk Among Us",
+     "duracao": "5:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Presence",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "A Simple Mistake",
+     "duracao": "8:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Get Off Get Out",
+     "duracao": "5:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Universal",
+     "duracao": "7:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Hindsight",
+     "duracao": "8:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Thin Air",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Summernight Horizon",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Dreaming Light",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Everything",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Angels Walk Among Us",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Presence",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "A Simple Mistake",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Get Off Get Out",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Universal",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Hindsight",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": 9.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/We%27re_Here_Because_We%27re_Here_%28album%29",
+   "resumo_en": "We're Here Because We're Here is the eighth album by the British rock band Anathema. It was released on 31 May 2010. The working title of the album was Horizons. The album was mixed by Steven Wilson of Porcupine Tree.",
+   "spotify": "6PUlONgKzDV3zCOR3BHfkV",
+   "youtube": null
+  },
+  {
+   "id": "17ec88d1-4009-4360-9c1c-1498394b383a",
+   "titulo": "Weather Systems",
+   "data": "2012-04-16",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/01e16332-6f22-46db-b6a8-c3d35b350212/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Untouchable, Part 1",
+     "duracao": "6:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Untouchable, Part 2",
+     "duracao": "5:33"
+    },
+    {
+     "n": 3,
+     "titulo": "The Gathering of the Clouds",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Lightning Song",
+     "duracao": "5:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Sunlight",
+     "duracao": "4:55"
+    },
+    {
+     "n": 6,
+     "titulo": "The Storm Before the Calm",
+     "duracao": "9:23"
+    },
+    {
+     "n": 7,
+     "titulo": "The Beginning and the End",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "The Lost Child",
+     "duracao": "7:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Internal Landscapes",
+     "duracao": "8:52"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 9.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Weather_Systems_%28Anathema_album%29",
+   "resumo_en": "Weather Systems is the ninth album by the British rock band Anathema. It was released on 16 April 2012 in Europe via Kscope and 24 April 2012 in the US via The End Records. The band describes the album as  \"not background music for parties. The music is written to deeply move the listener\". The album was recorded in Liverpool, North Wales and Oslo, each place significant to Anathema's past, present and future. The record was produced by band members Vincent Cavanagh and Daniel Cavanagh, as well as Christer-André Cederberg.\nRecorded and released between the departure of Les Smith and the full-time joining of live member Daniel Cardoso, it is the first album of the band to not feature a full-time keyboardist since Judgement in 1999; instead, keyboard duties were shared between Vincent and Daniel Cavanagh, and drummer John Douglas. On future albums, Douglas would become the band's dedicated keyboardist, with Cardoso taking over as their primary drummer.\nThe album's official track list was announced on 2 February 2012.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "170bd638-00f6-4992-8e42-2dbd41f6b023",
+   "titulo": "Distant Satellites",
+   "data": "2014-06-06",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/2eaa5c80-a585-45ef-aecd-f12c7229ea76/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Lost Song, Part 1",
+     "duracao": "5:53"
+    },
+    {
+     "n": 2,
+     "titulo": "The Lost Song, Part 2",
+     "duracao": "5:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Dusk (Dark Is Descending)",
+     "duracao": "6:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Ariel",
+     "duracao": "6:28"
+    },
+    {
+     "n": 5,
+     "titulo": "The Lost Song, Part 3",
+     "duracao": "5:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Anathema",
+     "duracao": "6:40"
+    },
+    {
+     "n": 7,
+     "titulo": "You're Not Alone",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Firelight",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Distant Satellites",
+     "duracao": "8:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Take Shelter",
+     "duracao": "6:07"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 80,
+    "media": 8.1,
+    "fontes": 6
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Distant_Satellites",
+   "resumo_en": "Distant Satellites (stylised as distant satellites) is the tenth studio album by the British rock band Anathema. It was released in June 2014 via Kscope and reached #33 in the UK album charts.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b52c0fd7-a819-4f86-8f7e-d12eb4dc39d4",
+   "titulo": "The Optimist",
+   "data": "2017-06-09",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/2b8a39dc-bc97-4a2c-9b07-59af8b3f9644/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "32.63N 117.14W",
+     "duracao": "1:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Leaving It Behind",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Endless Ways",
+     "duracao": "5:49"
+    },
+    {
+     "n": 4,
+     "titulo": "The Optimist",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "San Francisco",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Springfield",
+     "duracao": "5:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Ghosts",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Can't Let Go",
+     "duracao": "5:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Close Your Eyes",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Wildfires",
+     "duracao": "5:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Back to the Start",
+     "duracao": "7:36"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 80,
+    "media": 7.6,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Optimist_%28Anathema_album%29",
+   "resumo_en": "The Optimist is the eleventh and final studio album by the British rock band Anathema. It was issued on 9 June 2017, through Kscope, three years after their last release, Distant Satellites. The idea for The Optimist originated from the cover artwork of the band's 2001 album, A Fine Day to Exit. The coordinates from the first track point to Silver Strand beach in San Diego County, California, which is shown on the cover of A Fine Day to Exit. The Optimist won Album of the Year at the 2017 Progressive Music Awards.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

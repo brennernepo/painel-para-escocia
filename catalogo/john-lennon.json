@@ -1,0 +1,1037 @@
+{
+ "id": "john-lennon",
+ "nome": "John Lennon",
+ "cena": "Clássicos do rock",
+ "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+ "wikidata": "Q1203",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1940",
+ "fim": "1980",
+ "ativa": false,
+ "generos": [
+  "rock",
+  "pop",
+  "experimental",
+  "singer-songwriter",
+  "classic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/John_Lennon",
+ "resumo_pt": "John Winston Ono Lennon (nascido John Winston Lennon; Liverpool, 9 de outubro de 1940 – Nova Iorque, 8 de dezembro de 1980) foi um cantor, compositor e ativista da paz britânico que fundou os Beatles, a banda de maior sucesso comercial na história da música popular. Sua parceria de composição com o colega de banda Paul McCartney foi uma das mais célebres da história da música. Juntamente com George Harrison e Ringo Starr, o grupo alcançou fama mundial durante a década de 1960. Em 1969, Lennon começou a Plastic Ono Band com sua segunda esposa, Yoko Ono, e continuou a seguir carreira solo após a separação dos Beatles em abril de 1970.\nNascido em Liverpool, Lennon se interessou pelo gênero skiffle quando adolescente. Em 1956, formou sua primeira banda, The Quarrymen, que culminou na criação dos Beatles em 1960. Inicialmente ele era o líder de fato do grupo, porém foi perdendo gradualmente este posto para McCartney. Lennon se caracterizou por sua natureza rebelde e sagaz em sua música, escrita, desenho, em filmes e entrevistas. No auge de sua fama na década de 1960, ele publicou dois livros: In His Own Write e A Spaniard in the Works, ambos coletâneas de escritos sem sentido e desenhos de rabisco. Começando em 1967 por \"All You Need Is Love\", suas canções foram adotadas como hinos pelo movimento antiguerra e pela contracultura da época.\nEntre 1968 e 1972, Lennon produziu mais de uma dúzia de gravações com Ono, incluindo uma trilogia de álbuns de vanguarda, seu primeiro álbum solo",
+ "resumo_en": "John Winston Ono Lennon (born John Winston Lennon; 9 October 1940 – 8 December 1980) was an English musician, songwriter and activist. He gained global fame as the founder of the Beatles, in which he was the co-lead vocalist and played rhythm guitar, later adopting lead and bass guitar, keyboards and other instruments. Lennon's songwriting partnership with Paul McCartney remains the most successful in history.\nBorn in Liverpool, Lennon became involved in the skiffle craze as a teenager. In 1956, he formed the Quarrymen, which evolved into the Beatles in 1960. He initially was the group's de facto leader, a role he gradually seemed to cede to McCartney. In the mid-1960s Lennon authored In His Own Write and A Spaniard in the Works, both collections of nonsense writings and line drawings. Starting with \"All You Need Is Love\" in 1967, his songs were adopted as anthems by the counterculture and anti-war movement. In 1969, he started the Plastic Ono Band with his second wife, multimedia artist Yoko Ono, held the two-week-long anti-war demonstration bed-in for peace, and left the Beatles to embark on a solo career. Lennon and Ono collaborated on many works, including a trilogy of avant-garde albums and several films. From 1969 to 1975, he achieved four UK top-10 singles  with \"Give Peace a Chance\", \"Instant Karma!\", \"Imagine\", and \"Happy Xmas (War Is Over)\".\nIn 1970, Lennon released his debut solo album John Lennon/Plastic Ono Band, his first of four LPs co-produced with Phil Specto",
+ "albuns": [
+  {
+   "id": "b7cb0753-b05f-35c7-bcc2-85e1c783bd0f",
+   "titulo": "Unfinished Music No. 1: Two Virgins",
+   "data": "1968-11-11",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/1de85e12-80c6-48ff-ab66-6b3b148afaeb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Two Virgins, Side One",
+     "duracao": "14:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Two Virgins, Side Two",
+     "duracao": "14:44"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 4.3,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Unfinished_Music_No._1%3A_Two_Virgins",
+   "resumo_en": "Unfinished Music No. 1: Two Virgins is the debut and first of three collaborative experimental albums released by John Lennon and Yoko Ono on Apple Records. It was the result of an all-night session of musical experimentation with Ono in Lennon's home studio at Kenwood, while his wife, Cynthia Lennon, was on holiday in Greece. Lennon and Ono's 1968 debut recording is known not only for its avant-garde content, but also for its cover, which shows the couple naked. This made the album controversial to both the public and the parent record company EMI, which refused to distribute it. In an attempt to avoid controversy, the LP record was sold in a brown paper bag, and distributed by Track and Tetragrammaton in the United Kingdom and the United States respectively. Two Virgins, while failing to chart in the UK, reached number 124 in the US. The album was followed six months later by Unfinished Music No. 2: Life with the Lions.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ae59682d-3dfe-3a0c-b9e5-87623bd0ae6f",
+   "titulo": "Unfinished Music No. 2: Life With the Lions",
+   "data": "1969-05-26",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/feca8da3-9f25-4469-9047-aac946532a77/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cambridge 1969",
+     "duracao": "26:28"
+    },
+    {
+     "n": 2,
+     "titulo": "No Bed for Beatle John",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Baby’s Heartbeat",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Two Minutes Silence",
+     "duracao": "2:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Radio Play",
+     "duracao": "12:34"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Unfinished_Music_No._2%3A_Life_with_the_Lions",
+   "resumo_en": "Unfinished Music No. 2: Life with the Lions is the second of three collaborative experimental albums of avant-garde music by John Lennon and Yoko Ono, released in May 1969 on Zapple, a sub label of Apple. It was a successor to 1968's highly controversial Unfinished Music No. 1: Two Virgins, and was followed by the Wedding Album. The album peaked in the United States at number 174, 50 places lower than the previous album. The album, whose title is a play on words of the BBC Radio show Life with The Lyons, was recorded at Queen Charlotte's Hospital in London and live at Cambridge University, in November 1968 and March 1969, respectively. The Cambridge performance, to which Ono had been invited and to which she brought Lennon, was Lennon and Ono's second as a couple. A few of the album's tracks were previewed by the public, thanks to Aspen magazine. The album was remastered in 1997.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9ea6179c-075e-3784-b0e0-62813bd94723",
+   "titulo": "Wedding Album",
+   "data": "1969-10-20",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/abbde007-4bb3-3f97-9378-e900b288f75c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "John & Yoko",
+     "duracao": "22:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Amsterdam",
+     "duracao": "24:59"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wedding_Album",
+   "resumo_en": "Wedding Album is the third and final in a succession of three collaborative experimental albums by John Lennon and Yoko Ono. It followed Unfinished Music No. 1: Two Virgins and Unfinished Music No. 2: Life with the Lions. In Britain, the album was released credited by \"John and Yoko\", without last names mentioned. In the United States, it was released credited by \"John Ono Lennon & Yoko Ono Lennon.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8be83468-4917-390d-82b6-d890f058cd22",
+   "titulo": "John Lennon/Plastic Ono Band",
+   "data": "1970-12-11",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/dba99324-d642-3c64-a275-cf1423119315/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mother",
+     "duracao": "5:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Hold On",
+     "duracao": "1:53"
+    },
+    {
+     "n": 3,
+     "titulo": "I Found Out",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Working Class Hero",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Isolation",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Remember",
+     "duracao": "4:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Love",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Well Well Well",
+     "duracao": "5:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Look at Me",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "God",
+     "duracao": "4:10"
+    },
+    {
+     "n": 11,
+     "titulo": "My Mummy's Dead",
+     "duracao": "0:49"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.6,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band",
+   "resumo_en": "John Lennon/Plastic Ono Band is the first solo album by English musician John Lennon after the break-up of the Beatles. Backed by the Plastic Ono Band (consisting of Lennon on guitar, Ringo Starr on drums, and Klaus Voormann on bass), it was released by Apple Records on 11 December 1970 in tandem with the similarly titled album by his wife, Yoko Ono. At the time of its issue, John Lennon/Plastic Ono Band received mixed reviews overall, but later came to be widely regarded as one of Lennon's best solo albums.\nCo-produced by Lennon, Ono and Phil Spector, it followed Lennon's recording of three experimental releases with Ono and a live album from the 1969 version of the Plastic Ono Band. John Lennon/Plastic Ono Band contains a largely raw production sound with songs heavily influenced by Lennon's recent primal therapy. Its lyrics reflect Lennon's personal issues and includes themes of child-parent abandonment and psychological suffering. The tracks were recorded in September and October 1970 at Abbey Road Studios in London, simultaneously with Ono's solo album.\nJohn Lennon/Plastic Ono Band peaked at number eight on the UK Albums Chart and number six on the US Billboard 200. In 1987, R",
+   "spotify": "0DFYbYCcHCEJPcN1hODG6K",
+   "youtube": null
+  },
+  {
+   "id": "f242f304-0f1f-33a5-81a2-7a965b30e3b5",
+   "titulo": "Imagine",
+   "data": "1971-09-09",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/0cdc8f6b-ce1d-457b-885d-4fa31e8307c7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Imagine",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Crippled Inside",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Jealous Guy",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "It's So Hard",
+     "duracao": "2:26"
+    },
+    {
+     "n": 5,
+     "titulo": "I Don't Wanna Be a Soldier Mama I Don't Wanna Die",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Gimme Some Truth",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Oh My Love",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "How Do You Sleep?",
+     "duracao": "5:34"
+    },
+    {
+     "n": 9,
+     "titulo": "How?",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Oh Yoko!",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 8.2,
+   "publico_votos": 17,
+   "wikipedia": "https://en.wikipedia.org/wiki/Imagine_%28John_Lennon_album%29",
+   "resumo_en": "Imagine is the second solo studio album by the English musician John Lennon, released on 9 September 1971 by Apple Records. Co-produced by Lennon, his wife Yoko Ono and Phil Spector, the album's elaborate sound contrasts the basic, small-group arrangements of his first album, John Lennon/Plastic Ono Band (1970). The opening title track is widely considered to be his signature song.\nLennon recorded the album from early to mid-1971 at his Ascot Sound Studios, EMI Recording Studios and the Record Plant in New York City, with musicians that included his ex-Beatles bandmate George Harrison, keyboardist Nicky Hopkins, bassist Klaus Voormann and drummers Alan White and Jim Keltner. The lyrics reflect peace, love, politics, Lennon's experience with primal scream therapy and, following a period of high personal tensions, an attack on his former writing partner Paul McCartney in \"How Do You Sleep?\". Extensive footage from the sessions was recorded for a scrapped documentary; parts were released on the documentary film Imagine: John Lennon (1988). The documentary John & Yoko: Above Us Only Sky, based on that footage, was released in 2018.\nImagine was a critical and commercial success, reachin",
+   "spotify": "0xzaemKucrJpYhyl7TltAk",
+   "youtube": "OLAK5uy_lGrRNQgOTYMrj34p1kk-wNXumTq9mwv_Y"
+  },
+  {
+   "id": "e5153705-e798-343c-aeaf-1777db763dd6",
+   "titulo": "Some Time in New York City",
+   "data": "1972-09-15",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/8c365b14-b2a8-4101-920c-e34810f4d16e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Woman Is the Nigger of the World",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Sisters, o Sisters",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Attica State",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Born in a Prison",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "New York City",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Sunday Bloody Sunday",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "The Luck of the Irish",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "John Sinclair",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Angela",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "We're All Water",
+     "duracao": "7:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Cold Turkey",
+     "duracao": "8:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Don't Worry Kyoko",
+     "duracao": "16:00"
+    },
+    {
+     "n": 13,
+     "titulo": "Well (Baby Please Don't Go)",
+     "duracao": "4:40"
+    },
+    {
+     "n": 14,
+     "titulo": "Jamrag",
+     "duracao": "5:36"
+    },
+    {
+     "n": 15,
+     "titulo": "Scumbag",
+     "duracao": "6:07"
+    },
+    {
+     "n": 16,
+     "titulo": "Au",
+     "duracao": "6:22"
+    }
+   ],
+   "duracao_min": 91,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.6,
+    "fontes": 7
+   },
+   "publico": 8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Some_Time_in_New_York_City",
+   "resumo_en": "Some Time in New York City is the fourth collaborative studio album, and second live album by John Lennon and Yoko Ono as Plastic Ono Band. A double album, it includes backing by the American rock band Elephant's Memory. Released in June 1972 in the US and in September 1972 in the UK on Apple Records, it is Lennon's sixth album to be released under his own name, and his fourth collaboration with Ono. Like Lennon's previous solo albums, it was co-produced by Lennon, Ono and Phil Spector. The album's agitprop lyrics are politically charged compared to its predecessors, addressing political and social issues and topics such as sexism, incarceration, colonialism, and racism.\nRecording for the album's studio portion took place between December 1971 and March 1972 while the live portion, released as Live Jam, was recorded on 15 December 1969 at the Lyceum Ballroom in London for a UNICEF charity concert and on 6 June 1971 at Fillmore East in New York City. Musicians who contributed to the 1969 performance include Eric Clapton, George Harrison, Nicky Hopkins, Keith Moon and Klaus Voormann, while the 1971 performance features Frank Zappa and his band the Mothers of Invention.\nPreceded by th",
+   "spotify": null,
+   "youtube": "OLAK5uy_l646chh47hEseTDG7VkygHSAlQQOcjVfo"
+  },
+  {
+   "id": "611a001d-dae3-390c-babf-bba33ee4ba31",
+   "titulo": "Mind Games",
+   "data": "1973-10-29",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/fa51b781-f776-3a1a-8865-0817b07b2d90/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mind Games",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Tight A$",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Aisumasen (I’m Sorry)",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "One Day (at a Time)",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Bring On the Lucie (Freda Peeple)",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Nutopian International Anthem",
+     "duracao": "0:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Intuition",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Out the Blue",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Only People",
+     "duracao": "3:26"
+    },
+    {
+     "n": 10,
+     "titulo": "I Know (I Know)",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "You Are Here",
+     "duracao": "4:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Meat City",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 7
+   },
+   "publico": 7.7,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mind_Games_%28John_Lennon_album%29",
+   "resumo_en": "Mind Games is the third solo studio album by the English musician John Lennon. It was recorded at Record Plant Studios in New York in mid-1973. The album was released in the US on 29 October 1973 and in the UK on 16 November 1973. It was Lennon's first self-produced recording without help from Phil Spector. Like his previous album, the politically topical and somewhat abrasive Some Time in New York City, Mind Games received mixed reviews upon release. It reached number 13 in the UK and number 9 in the US, where it was certified gold in both territories.\nThe album was recorded while Lennon was having difficulties with US immigration and at the beginning of his 18-month separation from Yoko Ono. The title track was released as a single at the same time as the album. The album itself was later reissued several times throughout the 1970s and 1980s, and as an expanded super deluxe box in 2024.",
+   "spotify": "2GoiwFkRtErx0CHn6zaFJu",
+   "youtube": null
+  },
+  {
+   "id": "cf90044e-b161-3cda-99c7-2390802023b9",
+   "titulo": "Walls and Bridges",
+   "data": "1974-10-04",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/e71ee970-8b48-4536-8ce8-f028519cd361/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Going Down on Love",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Whatever Gets You Thru the Night",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Old Dirt Road",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "What You Got",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Bless You",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Scared",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "#9 Dream",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Surprise, Surprise (Sweet Bird of Paradox)",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Steel and Glass",
+     "duracao": "4:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Beef Jerky",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Nobody Loves You (When You're Down and Out)",
+     "duracao": "5:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Ya Ya",
+     "duracao": "1:05"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.7,
+    "fontes": 9
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Walls_and_Bridges",
+   "resumo_en": "Walls and Bridges is the fourth solo studio album by the English musician John Lennon. It was issued by Apple Records on 26 September 1974 in the United States and on 4 October in the United Kingdom. Written, recorded and released during his 18-month separation from Yoko Ono, the album captured Lennon in the midst of his \"Lost Weekend\". Walls and Bridges was an American number-one album on both the Billboard and Record World charts and included two hit singles, \"Whatever Gets You thru the Night\" and \"#9 Dream\". The first of these was Lennon's first number-one hit in the United States as a solo artist, and his only solo chart-topping single in either the US or Britain during his lifetime.\nThe album was certified silver in the UK, and gold in the US. It was Lennon's last album of self-penned material released solely under his own name during his lifetime.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "316bd588-952e-34b0-aeff-b8fd43ef9cf8",
+   "titulo": "Rock ’n’ Roll",
+   "data": "1975-02-17",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/6cbca6b6-52ed-4310-a94d-030f4ab76e30/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Be‐Bop‐A‐Lula",
+     "duracao": "2:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Stand by Me",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Medley: Rip It Up / Ready Teddy",
+     "duracao": "1:34"
+    },
+    {
+     "n": 4,
+     "titulo": "You Can’t Catch Me",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Ain’t That a Shame",
+     "duracao": "2:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Do You Wanna Dance",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Sweet Little Sixteen",
+     "duracao": "3:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Slippin’ and Slidin’",
+     "duracao": "2:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Peggy Sue",
+     "duracao": "2:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Medley: Bring It On Home to Me / Send Me Some Lovin’",
+     "duracao": "3:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Bony Moronie",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Ya Ya",
+     "duracao": "2:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Just Because",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.3,
+    "fontes": 8
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_%27n%27_Roll_%28John_Lennon_album%29",
+   "resumo_en": "Rock 'n' Roll is the fifth and final solo album by the English musician John Lennon. Released in February 1975, it is a covers album of rock and roll songs from the late 1950s and early 1960s. \nRecording the album was troubled and spanned an entire year: Phil Spector produced sessions in October 1973 at A&M Studios, and Lennon produced sessions in October 1974 at the Record Plant. Lennon was being sued by Morris Levy over copyright infringement over one line in his Beatles song \"Come Together\". As part of an agreement, Lennon had to include three Levy-owned songs on Rock 'n' Roll. Spector disappeared with the session recordings and was subsequently involved in a motor accident, leaving the album's tracks unrecoverable until the beginning of the Walls and Bridges sessions. With Walls and Bridges coming out first, featuring one Levy-owned song, Levy sued Lennon expecting to see Lennon's Rock 'n' Roll album.\nThe album reached number 6 in both the United Kingdom and the United States, later being certified Gold in both countries. It was supported by the single \"Stand by Me\", which peaked at number 20 in the US, and 30 in the UK. The cover photo was taken by Jürgen Vollmer during the Be",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "790ec782-7344-366c-af67-4a427bcaf991",
+   "titulo": "Double Fantasy",
+   "data": "1980-11-17",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/0d09169a-f017-49eb-ac3d-2fa2ce7844a4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Just Like) Starting Over",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Kiss Kiss Kiss",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Cleanup Time",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Give Me Something",
+     "duracao": "1:34"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Losing You",
+     "duracao": "3:58"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Moving On",
+     "duracao": "2:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Beautiful Boy (Darling Boy)",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Watching the Wheels",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Your Angel",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Woman",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Beautiful Boys",
+     "duracao": "2:54"
+    },
+    {
+     "n": 12,
+     "titulo": "Dear Yoko",
+     "duracao": "2:33"
+    },
+    {
+     "n": 13,
+     "titulo": "Every Man Has a Woman Who Loves Him",
+     "duracao": "4:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Hard Times Are Over",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.6,
+    "fontes": 11
+   },
+   "publico": 7.5,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Double_Fantasy",
+   "resumo_en": "Double Fantasy is the fifth collaborative studio album by John Lennon and Yoko Ono, the seventh studio album released by John Lennon under his own name, and the final one before Lennon's death. Released in November 1980 on Geffen Records, the album marked Lennon's short-lived return to recording music full-time, following his five-year hiatus to raise his son Sean. Recording sessions took place at the Hit Factory in New York City between August and October 1980. The final album features songs from both Lennon and Ono, largely alternating between the two in its track listing. Other tracks recorded by Lennon from the sessions were compiled by Ono for release on Milk and Honey in 1984.\nUpon its release, the album stumbled on music charts and received widespread negative reviews from music critics, with many focusing on the album's idealisation of Lennon and Ono's marriage. However, following Lennon's murder three weeks after its release, it became a worldwide commercial success and went on to win the 1981 Grammy Award for Album of the Year. In subsequent decades, the album has been viewed favourably, with Lennon's songs in particular garnering praise as some of his finest.\nIn 2010, On",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9e51160b-c309-334a-84f9-80feb0112a8f",
+   "titulo": "Milk and Honey",
+   "data": "1984-01-19",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/684b7379-d402-4443-ac13-ab951d3382dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Stepping Out",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Sleepless Night",
+     "duracao": "2:33"
+    },
+    {
+     "n": 3,
+     "titulo": "I Don’t Wanna Face It",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Be Scared",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Nobody Told Me",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "O’ Sanity",
+     "duracao": "1:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Borrowed Time",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Your Hands",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "(Forgive Me) My Little Flower Princess",
+     "duracao": "2:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Let Me Count the Ways",
+     "duracao": "2:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Grow Old With Me",
+     "duracao": "3:03"
+    },
+    {
+     "n": 12,
+     "titulo": "You’re the One",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ef49d775-aa9b-3104-90a0-6f84834aee64",
+   "titulo": "Imagine: John Lennon: Music From the Motion Picture",
+   "data": "1988-10-05",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/c6ecbd0f-0ccc-44c6-b9a9-4c5001c5a84b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Real Love",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Twist and Shout",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Help!",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "In My Life",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Strawberry Fields Forever",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "A Day in the Life",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Revolution",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Ballad of John and Yoko",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Julia",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Don't Let Me Down",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Give Peace a Chance",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "How?",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Imagine (short rehearsal)",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "God",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Mother",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Stand by Me",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Jealous Guy",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Woman",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Beautiful Boy",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "(Just Like) Starting Over",
+     "duracao": null
+    },
+    {
+     "n": 21,
+     "titulo": "Imagine",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Imagine%3A_John_Lennon_%28soundtrack%29",
+   "resumo_en": "Imagine: John Lennon is a soundtrack album of popular music compiled for the 1988 documentary film Imagine: John Lennon from songs written or co-written by John Lennon. Originally released that year as a double album, it now remains available on one CD.\nBridging his two musical phases together, as a member of the Beatles and a solo artist (similar to George Harrison's earlier The Best of George Harrison), Imagine: John Lennon is a career-spanning collection of Lennon's many musical highlights.  In addition there are a couple of heretofore unreleased recordings: an acoustic demo of \"Real Love\" taped in 1979 (an alternative recording of which would be finished by the Beatles for 1996's Anthology 2) and a rehearsal take of \"Imagine\" in mid-1971 before the final take was captured. It also features for the first time a clean-intro version of \"A Day in the Life\", that would appear later on the CD release of the Beatles' 1967–1970 compilation.\nImagine: John Lennon, with its wealth of stock Lennon footage and self-narration, proved to be a well-received film and its soundtrack sold well in the United States, reaching No. 31 and going gold.  In the United Kingdom, the album peaked at No. 64",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6e4107ee-07b0-3dad-bc33-8abbc39b9337",
+   "titulo": "The U.S. vs. John Lennon: Music From the Motion Picture",
+   "data": "2006-09-26",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/ddb68751-c8d4-4455-98eb-45ea91a25898/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Power to the People",
+     "duracao": "3:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Nobody Told Me",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Working Class Hero",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "I Found Out",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Bed Peace",
+     "duracao": "0:12"
+    },
+    {
+     "n": 6,
+     "titulo": "The Ballad of John & Yoko",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Give Peace a Chance",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Love",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Attica State (live)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Happy Xmas (War Is Over)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "I Don't Wanna Be a Soldier Mama I Don't Wanna Die",
+     "duracao": "6:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Imagine",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "How Do You Sleep? (instrumental score)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "New York City",
+     "duracao": "4:31"
+    },
+    {
+     "n": 15,
+     "titulo": "John Sinclair (live)",
+     "duracao": "3:43"
+    },
+    {
+     "n": 16,
+     "titulo": "Scared",
+     "duracao": "4:35"
+    },
+    {
+     "n": 17,
+     "titulo": "God",
+     "duracao": "4:08"
+    },
+    {
+     "n": 18,
+     "titulo": "Here We Go Again",
+     "duracao": "4:48"
+    },
+    {
+     "n": 19,
+     "titulo": "Gimme Some Truth",
+     "duracao": "3:15"
+    },
+    {
+     "n": 20,
+     "titulo": "Oh My Love",
+     "duracao": "2:44"
+    },
+    {
+     "n": 21,
+     "titulo": "Instant Karma! (We All Shine On)",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 76,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_U.S._vs._John_Lennon_%28soundtrack%29",
+   "resumo_en": "The U.S. vs. John Lennon is a soundtrack to the 2006 documentary film The U.S. vs. John Lennon. It was released in September 2006 and it peaked at number 19 on the US Top Soundtracks chart on 14 October that year.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

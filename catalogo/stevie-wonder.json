@@ -1,0 +1,2068 @@
+{
+ "id": "stevie-wonder",
+ "nome": "Stevie Wonder",
+ "cena": "Ícones do pop",
+ "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+ "wikidata": "Q714",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1950",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "soul",
+  "funk",
+  "contemporary r&b",
+  "pop",
+  "pop soul"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/SWonderBSTHyde060719-72_%28cropped%29.jpg/500px-SWonderBSTHyde060719-72_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Stevie_Wonder",
+ "resumo_pt": "Stevie Wonder, nome artístico de Stevland Hardaway Morris (nascido Judkins; Saginaw, 13 de maio de 1950), é um cantor, compositor, multi-instrumentista, produtor musical e ativista de causas sociais estadunidense. Stevie é um dos artistas musicais mais vendidos de todos os tempos, com mais de 100 milhões de discos vendidos em todo o mundo. Ele ganhou 25 Grammy Awards, sendo o artista masculino mais premiado na história da premiação. Ele também ganhou um Globo de Ouro e um Oscar de Melhor Canção Original, por \"I Just Called to Say I Love You\", tema do filme, A Dama de Vermelho, de 1984. Considerado um dos maiores músicos de todos os tempos, Stevie é creditado como pioneiro e influenciador por músicos de diversos gêneros.\nStevie iniciou sua carreira com apenas onze anos, ao assinar um contrato com o selo Tamla Records, da gravadora Motown Records, onde recebeu o nome artístico de \"Little Stevie Wonder\". Aos 13 anos, seu single de 1963, \"Fingertips (Pt. 2)\", se tornou um hit número 1 na Billboard Hot 100, fazendo dele o artista solo mais jovem a liderar essa parada. Ele conseguiu aclamação da crítica com os álbuns: Innervisions (1973), Fulfillingness' First Finale (1974) e Songs in the Key of Life (1976), que ganharam o Grammy de Álbum do Ano, fazendo dele o único artista a ter ganho essa categoria com três lançamentos consecutivos. Durante a década de 1980, ele liderou grades eventos, fez colaborações de sucesso (incluindo, \"Ebony and Ivory\" e \"We Are The World\"), e teve um imp",
+ "resumo_en": "Stevland Hardaway Morris (  STEEV-lənd; né Judkins; born May 13, 1950), known professionally as Stevie Wonder, is an American singer-songwriter, musician, and record producer. He is widely regarded as one of the most influential musicians of the 20th century, and is credited as a pioneer and influence by musicians across a range of genres that include R&B, pop, soul, gospel, funk, and jazz. Wonder's use of synthesizers and other electronic musical instruments in the 1970s reshaped the conventions of contemporary R&B. He also helped drive such genres into the album era, crafting his LPs as cohesive and consistent, in addition to socially conscious statements with complex compositions.\nBlind since shortly after his birth, Wonder was a child prodigy who signed with Motown's Tamla label at the age of 11, where he was given the professional name Little Stevie Wonder. As a teenager, he established himself as one of Motown's most successful acts, known for his excited harmonica playing and high-pitched singing. His single \"Fingertips\" topped the Billboard Hot 100 when he was 13, making him the youngest solo artist ever to top the chart. Wonder's critical and commercial peak, termed his \"classic period\" (1972–1976), began with the albums Music of My Mind and Talking Book (1972), which abandoned the Motown sound in favor of a synthesizer- and keyboard-driven one. With Innervisions (1973), Fulfillingness' First Finale (1974), and Songs in the Key of Life (1976), he became the first Bla",
+ "albuns": [
+  {
+   "id": "882f4306-4921-39de-b5b1-4e6b7b9c8842",
+   "titulo": "The Jazz Soul of Little Stevie",
+   "data": "1962-09",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/b916a584-d250-4d90-b60b-c6814eba5586/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fingertips",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The Square",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Soul Bongo",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Manhattan at Six",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Paulsby",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Some Other Time",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Wondering",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Session Number 112",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Bam",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 7.2,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Jazz_Soul_of_Little_Stevie",
+   "resumo_en": "The Jazz Soul of Little Stevie is the debut studio album by Little Stevie Wonder, released in September 1962 on Tamla Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5edf3718-6dd1-3ad2-aa29-9ea8947a6c17",
+   "titulo": "With a Song in My Heart",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/575a8a8f-50c9-416f-a55d-2f630abebed3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "With a Song in My Heart",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "When You Wish Upon a Star",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Smile",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Make Someone Happy",
+     "duracao": "5:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Dream",
+     "duracao": "2:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Put on a Happy Face",
+     "duracao": "2:39"
+    },
+    {
+     "n": 7,
+     "titulo": "On the Sunny Side of the Street",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Get Happy",
+     "duracao": "2:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Give Your Heart a Chance",
+     "duracao": "2:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Without a Song",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/With_a_Song_in_My_Heart_%28Stevie_Wonder_album%29",
+   "resumo_en": "With a Song in My Heart is the third studio album by Stevie Wonder, released on December 28, 1963, on the Tamla (Motown) label. The album was his first to drop the \"Little\" prefix from his stage name, as the 13-year-old singer followed the example of his labelmate Marvin Gaye by covering a selection of pop standards. Like Gaye and other Motown acts, label president Berry Gordy intended to establish his artists on a crossover basis. The album did not immediately bring success for Wonder on the adult contemporary market. Veteran jazz musician Ernie Wilkins arranged and conducted the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ab5fea4f-efa4-39eb-a955-25451d37db8a",
+   "titulo": "Tribute to Uncle Ray",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/4f71bf3a-e275-47f5-834c-952863f3d786/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hallelujah I Love Her So",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Ain’t That Love",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t You Know",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "The Masquerade",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Frankie & Johnny",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Drown in My Own Tears",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Come Back Baby",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Mary Ann",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Sunset",
+     "duracao": "3:28"
+    },
+    {
+     "n": 10,
+     "titulo": "My Baby’s Gone",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tribute_to_Uncle_Ray",
+   "resumo_en": "Tribute to Uncle Ray is the second studio album by Little Stevie Wonder, released by Motown in October 1962, shortly after The Jazz Soul of Little Stevie. Even though it was released second, it had been recorded first, when Wonder was 11 years old. The album was an attempt by Berry Gordy and Motown to associate the young Wonder with the successful and popular Ray Charles, who was also a blind African-American musician. Like Wonder's debut, this album failed to generate hit singles, as Motown struggled to find a sound to fit Wonder, who was just 12 when this album was released.",
+   "spotify": "4cRXNd7yK3I8TU5CU9fob7",
+   "youtube": null
+  },
+  {
+   "id": "e1d16dc3-0a8b-3a60-88c6-59d0290a59db",
+   "titulo": "Stevie at the Beach",
+   "data": "1964-06-23",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/506e7a4f-55c5-4461-a01b-4ec0b2d4dd17/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Castles in the Sand",
+     "duracao": "2:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Ebb Tide",
+     "duracao": "1:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Sad Boy",
+     "duracao": "2:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Red Sails in the Sunset",
+     "duracao": "2:03"
+    },
+    {
+     "n": 5,
+     "titulo": "The Beachcomber",
+     "duracao": "1:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Castles in the Sand (instrumental)",
+     "duracao": "1:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Party Street",
+     "duracao": "2:21"
+    },
+    {
+     "n": 8,
+     "titulo": "The Party at the Beach House",
+     "duracao": "2:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Hey Harmonica Man",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Beach Stomp",
+     "duracao": "2:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Beyond the Sea",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stevie_at_the_Beach",
+   "resumo_en": "Stevie at the Beach is the fourth studio album by American singer-songwriter Stevie Wonder, released by Tamla (Motown) on June 23, 1964. Theme-oriented around beach and surf culture, the album failed to achieve commercial success, with only \"Hey Harmonica Man\" reaching the charts. Following earlier attempts by the label to market Wonder as a Ray Charles-style artist or a lounge singer, the album struggled to find an audience. Wonder returned to commercial success in 1965 as Motown granted him greater creative autonomy.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55a5f466-492e-3284-997a-830b3f333e58",
+   "titulo": "Up‐Tight (Everything’s Alright)",
+   "data": "1966-05-04",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/439c903c-bd1e-4bea-b5c6-41a6bda8b84c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love a Go Go",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Hold Me",
+     "duracao": "2:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Blowin’ in the Wind",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Nothing’s Too Good for My Baby",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Teach Me Tonight",
+     "duracao": "2:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Uptight (Everything’s Alright)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain’t That Asking for Trouble",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "I Want My Baby Back",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Pretty Little Angel",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Music Talk",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Contract on Love",
+     "duracao": "2:08"
+    },
+    {
+     "n": 12,
+     "titulo": "With a Child’s Heart",
+     "duracao": "3:07"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.2,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Up-Tight",
+   "resumo_en": "Up-Tight (shown as Up-Tight Everything's Alright on the cover) is the fifth album by American singer-songwriter Stevie Wonder. It was released by Motown on the Tamla label on May 4, 1966.",
+   "spotify": "0qnHA4SDco9mPuWGzDqVDK",
+   "youtube": null
+  },
+  {
+   "id": "ca2f3772-14cd-3700-9ec8-1c7b0ad263ad",
+   "titulo": "Down to Earth",
+   "data": "1966-11-16",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/73088acd-487c-4bcb-be87-e44bde3eb695/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Place in the Sun",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Bang Bang",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Down to Earth",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Thank You Love",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Be Cool Be Calm (And Keep Yourself Together)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Sylvia",
+     "duracao": "2:31"
+    },
+    {
+     "n": 7,
+     "titulo": "My World Is Empty Without You",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "The Lonesome Road",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Angel Baby (Don’t You Ever Leave Me)",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Mr. Tambourine Man",
+     "duracao": "2:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Sixteen Tons",
+     "duracao": "2:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Hey Love",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Down_to_Earth_%28Stevie_Wonder_album%29",
+   "resumo_en": "Down to Earth is the sixth studio album by American singer-songwriter Stevie Wonder, released on November 16, 1966, on the Tamla (Motown) label. The album was a departure from Wonder's earlier, teen pop-driven albums, and, along with its predecessor, Up-Tight, it re-established the sixteen-year-old Wonder, whose voice had recently changed, as a Motown hitmaker.\nThe album features the hit single \"A Place in the Sun\". Another single, \"Hey Love\", became a hit for Detroit soul singer Bettye LaVette in 1969 (released as a B-side to \"With a Little Help from My Friends\").",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "44b01422-10cd-3aab-b434-864c5bc64cbd",
+   "titulo": "I Was Made to Love Her",
+   "data": "1967-08-27",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/7059fdf7-1b30-4ebc-b374-dc95a61b7c25/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Was Made to Love Her",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Send Me Some Lovin’",
+     "duracao": "2:30"
+    },
+    {
+     "n": 3,
+     "titulo": "I’d Cry",
+     "duracao": "2:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Everybody Needs Somebody (I Need You)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Respect",
+     "duracao": "2:18"
+    },
+    {
+     "n": 6,
+     "titulo": "My Girl",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby Don’t You Do It",
+     "duracao": "2:10"
+    },
+    {
+     "n": 8,
+     "titulo": "A Fool for You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Can I Get a Witness",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "I Pity the Fool",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Please, Please, Please",
+     "duracao": "2:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Every Time I See You I Go Wild",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I_Was_Made_to_Love_Her_%28album%29",
+   "resumo_en": "I Was Made to Love Her is the seventh studio album by American musician Stevie Wonder, recorded at Hitsville U.S.A., Detroit, and released on August 28, 1967, under Tamla Records, a Motown subsidiary.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ebf58ff1-f544-363d-ae04-d82a3c09316c",
+   "titulo": "Someday at Christmas",
+   "data": "1967-11-27",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/2df401f6-35a8-4b29-a31f-7a756c5e5824/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Someday at Christmas",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Silver Bells",
+     "duracao": "2:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Ave Maria",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "The Little Drummer Boy",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "One Little Christmas Tree",
+     "duracao": "2:43"
+    },
+    {
+     "n": 6,
+     "titulo": "The Day That Love Began",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "The Christmas Song",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Bedtime for Toys",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Christmastime",
+     "duracao": "2:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Twinkle Twinkle Little Me",
+     "duracao": "3:11"
+    },
+    {
+     "n": 11,
+     "titulo": "A Warm Little Home on a Hill",
+     "duracao": "3:23"
+    },
+    {
+     "n": 12,
+     "titulo": "What Christmas Means to Me",
+     "duracao": "2:26"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Someday_at_Christmas",
+   "resumo_en": "Someday at Christmas is the eighth studio album by Stevie Wonder, first released on November 27, 1967 by Motown Records under its Tamla imprint. Produced by Henry Cosby, it marked Wonder's first Christmas album. Someday at Christmas consists of twelve tracks, featuring four cover versions of Christmas standards and carols, as well as eight original songs, chiefly penned by Ron Miller along with his wife Aurora as well as Bryan and Deborah Wells, including its title track and \"What Christmas Means to Me\". \"Twinkle Twinkle Little Me\" had been included two years earlier on The Supremes' Christmas album Merry Christmas.\nUpon its original release, Someday at Christmas failed to chart in the United States, although it peaked at number 50 on the Swedish Albums Chart. It has since been reissued several times, most recently in 2003 as part of Universal Music's Christmas edition of their successful 20th Century Masters series, including additional tracks. In 2020, it peaked at number 28 on the US Top Holiday Albums. The title track \"Someday at Christmas\" was previously released as a single in 1966 and reached number 24 on Billboard's Christmas Singles chart that year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "667e6f70-2edc-3e95-9546-464c9d5863b7",
+   "titulo": "For Once in My Life",
+   "data": "1968-11",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/a7fb2f3c-6532-4f91-a46a-ceee32cb5c16/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "For Once in My Life",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Shoo‐Be‐Doo‐Be‐Doo‐Da‐Day",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "You Met Your Match",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "I Wanna Make Her Love Me",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m More Than Happy (I’m Satisfied)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "I Don’t Know Why",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Sunny",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "I’d Be a Fool Right Now",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Ain’t No Lovin’",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "God Bless the Child",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Do I Love Her",
+     "duracao": "2:55"
+    },
+    {
+     "n": 12,
+     "titulo": "The House on the Hill",
+     "duracao": "2:36"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/For_Once_in_My_Life_%28Stevie_Wonder_album%29",
+   "resumo_en": "For Once in My Life is the tenth studio album by American singer-songwriter Stevie Wonder on Motown Records, released in November 1968. Then 18 years old, Wonder had established himself as one of Motown's consistent hit-makers. This album continued Wonder's growth as a vocalist and songwriter, and is the first album where he shares credit as producer. It featured four songs that hit the Hot 100 charts: \"For Once in My Life\" (No. 2), \"Shoo-Be-Doo-Be-Doo-Da-Day\" (No. 9) and the modest hits \"I Don't Know Why\" (No. 39) and \"You Met Your Match\" (No. 35). It also marked the debut of the Hohner Clavinet on a Stevie Wonder album, which would become a mainstay on albums to come.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9fe10bfe-04ef-333f-9dfa-e27769be68f9",
+   "titulo": "Eivets Rednow",
+   "data": "1968-11-20",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/8465eb37-92c3-47dc-92ab-942716b8b106/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alfie",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "More Than a Dream",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "A House Is Not a Home",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "How Can You Believe",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Never My Love / Ask the Lonely",
+     "duracao": "2:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Ruby",
+     "duracao": "6:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Which Way the Wind",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Bye Bye World",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Grazing in the Grass",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Eivets_Rednow",
+   "resumo_en": "Eivets Rednow is the ninth studio album by American singer, songwriter, and musician Stevie Wonder, under the name Eivets Rednow. Released on the Gordy Records label on November 20, 1968, it is a fully instrumental album and was the first to have songs that are solely credited to Wonder. The album was created as a follow-up to the successful single \"Alfie\". \"A House Is Not a Home\", another song by Burt Bacharach and Hal David, also appears on the album. The album reached No. 37 on the U.S. R&B charts. \"Eivets Rednow\" is an ananym of \"Stevie Wonder\"; Wonder's name does not appear on the cover of the original releases.\nWonder plays the harmonica, drums, piano and clavinet on this album, though like his debut album, he does not sing on any of the tracks. On some reissues, \"How do you spell Stevie Wonder backwards\" is printed on the top corner of the album sleeve in small print.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "71c6b3f3-2be4-341b-a96b-4fe508dd52ea",
+   "titulo": "My Cherie Amour",
+   "data": "1969-08-29",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/e375e90d-6019-4040-82d0-362bc7cb1d8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Cherie Amour",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Hello Young Lovers",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "At Last",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Light My Fire",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "The Shadow of Your Smile",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "You and Me",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Pearl",
+     "duracao": "2:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Somebody Knows, Somebody Cares",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Yester-Me, Yester-You, Yesterday",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Angie Girl",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Give Your Love",
+     "duracao": "3:47"
+    },
+    {
+     "n": 12,
+     "titulo": "I've Got You",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_Cherie_Amour_%28album%29",
+   "resumo_en": "My Cherie Amour is the eleventh album by American singer-songwriter Stevie Wonder released on the Tamla (Motown) label on August 29, 1969, his eleventh studio album. The album yielded a pair of top 10 hits in the Billboard Hot 100, including the title track (No. 4) and \"Yester-Me, Yester-You, Yesterday\" (No. 7), as well as Wonder's takes on the 1967 hit \"Light My Fire\" by The Doors, \"Hello, Young Lovers\" from The King and I and \"The Shadow of Your Smile\" from the 1965 film The Sandpiper. It reached No. 12 in the UK albums chart and No. 34 in the US pop albums chart.",
+   "spotify": "51DUbu4v2tjYXxgy4I8vrG",
+   "youtube": null
+  },
+  {
+   "id": "56b96aba-d067-3037-98b5-94c4970b27d0",
+   "titulo": "Signed, Sealed & Delivered",
+   "data": "1970-08-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/a943ea0c-e47e-42a6-9e93-72b6173d2e01/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Never Had a Dream Come True",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "We Can Work It Out",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Signed, Sealed, Delivered I’m Yours",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Heaven Help Us All",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "You Can’t Judge a Book by Its Cover",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Sugar",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Wonder Why",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Anything You Want Me to Do",
+     "duracao": "2:21"
+    },
+    {
+     "n": 9,
+     "titulo": "I Can’t Let My Heaven Walk Away",
+     "duracao": "2:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Joy (Takes Over Me)",
+     "duracao": "2:12"
+    },
+    {
+     "n": 11,
+     "titulo": "I Gotta Have a Song",
+     "duracao": "2:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Something to Say",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Signed%2C_Sealed_%26_Delivered_%28album%29",
+   "resumo_en": "Signed, Sealed & Delivered is the twelfth studio album by American recording artist Stevie Wonder, released on August 7, 1970, by Tamla Records. The album featured four singles that reached the Billboard Hot 100: \"Signed, Sealed, Delivered I'm Yours\" (No. 3), \"Heaven Help Us All\" (No. 9), \"Never Had a Dream Come True\" (No. 26), and Wonder's cover of the Beatles' \"We Can Work It Out\" (No. 13). The album peaked at No. 25 on the Billboard Top LPs chart and No. 7 on the R&B Albums chart.\nThough his name had appeared in a shared production capacity on the 1968 album For Once in My Life, this was the first album on which Wonder was heavily spotlighted for his producer role, personally producing two of the tracks and co-producing three others. He also co-wrote seven of the album's twelve songs.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dac1eba4-b1c1-3dc1-9077-1ee3170ff577",
+   "titulo": "Where I’m Coming From",
+   "data": "1971-04-12",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/36063b09-c9a8-49dd-bfbb-a67cf9ab6eb9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Look Around",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Do Yourself a Favor",
+     "duracao": "5:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Think of Me as Your Soldier",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Something Out of the Blue",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "If You Really Love Me",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "I Wanna Talk to You",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Take Up a Course in Happiness",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Never Dreamed You'd Leave in Summer",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Sunshine in Their Eyes",
+     "duracao": "7:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Where_I%27m_Coming_From",
+   "resumo_en": "Where I'm Coming From is the thirteenth studio album by Stevie Wonder. The album was released by Motown Records on April 9, 1971, and peaked on the Billboard Pop Albums at No. 62, and on the Billboard R&B Albums Chart at No. 7. All nine songs were written by Wonder and Motown singer-songwriter Syreeta Wright, Wonder's first wife. It was the last album produced under his first contract with Motown Records. Including live albums, this is Wonder's fifteenth album overall, and thirteenth studio album.",
+   "spotify": "2oV8OJKtyGR7MwXH45rOoE",
+   "youtube": null
+  },
+  {
+   "id": "5a253b10-e9f8-334c-b343-7f14e92402c2",
+   "titulo": "Music of My Mind",
+   "data": "1972-03-03",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/54d0d4ee-1b1b-464c-8bbe-dd4417acf276/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Having You Around",
+     "duracao": "7:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Superwoman",
+     "duracao": "8:04"
+    },
+    {
+     "n": 3,
+     "titulo": "I Love Every Little Thing About You",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Sweet Little Girl",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Happier Than the Morning Sun",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Girl Blue",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Seems So Long",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Keep On Running",
+     "duracao": "6:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Evil",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Music_of_My_Mind",
+   "resumo_en": "Music of My Mind is the fourteenth studio album by American singer, songwriter, and musician Stevie Wonder. It was released on March 3, 1972, by Tamla Records, and was Wonder's first to be released under a new contract with Motown that allowed him full artistic control over his music. For the album, Wonder recruited electronic music pioneers Malcolm Cecil and Robert Margouleff as associate producers, employing their custom TONTO synthesizer. The album hit No. 21 on the Billboard Top LPs & Tape chart, and critics found it representative of Wonder's artistic growth. It is generally considered by modern critics to be the first album of Wonder's \"classic period\".",
+   "spotify": "2MCX7reL7JSe8OqBoIWssA",
+   "youtube": null
+  },
+  {
+   "id": "58c6d809-bfa7-3b25-acf3-a99d53402b08",
+   "titulo": "Talking Book",
+   "data": "1972-10-27",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/31137e7a-dce1-4066-9c7a-05de177f1163/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Are the Sunshine of My Life",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Maybe Your Baby",
+     "duracao": "6:50"
+    },
+    {
+     "n": 3,
+     "titulo": "You and I",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Tuesday Heartbreak",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "You’ve Got It Bad Girl",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Superstition",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Big Brother",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Blame It on the Sun",
+     "duracao": "3:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Lookin’ for Another Pure Love",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "I Believe (When I Fall in Love It Will Be Forever)",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": 7.8,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Talking_Book",
+   "resumo_en": "Talking Book is the fifteenth studio album by American singer, songwriter, and musician Stevie Wonder, released on October 27, 1972, by Tamla, a subsidiary of Motown Records. This album and Music of My Mind, released earlier the same year, are generally considered to mark the start of Wonder's \"classic period\". The sound of the album is sharply defined by Wonder's use of keyboards and synthesizers.\nThe album peaked at number three on the Billboard top albums chart and finished at number three on Billboard's year-end chart for 1973. \"Superstition\" reached number one on the Billboard Hot 100 and Hot Soul Singles charts, and \"You Are the Sunshine of My Life\" hit number one on the Hot 100 and Easy Listening charts. Talking Book earned Wonder his first Grammy Award, with \"You Are the Sunshine of My Life\" winning Best Male Pop Vocal Performance at the 16th Grammy Awards; \"Superstition\" also won Best Male R&B Vocal Performance and Best R&B Song. Often included in lists of the greatest albums of all time, Talking Book was voted number 322 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000), and Rolling Stone ranked it number 59 on its list of the \"500 Greatest Albums of ",
+   "spotify": "7vgpBNK5xPmS3Mu2Hl9O0D",
+   "youtube": null
+  },
+  {
+   "id": "e626b377-74c5-3b97-8f16-8cef5e1c04ea",
+   "titulo": "Innervisions",
+   "data": "1973-08-03",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/0fd0ff67-798e-4c33-b625-8e1c7ed95858/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too High",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Visions",
+     "duracao": "5:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Living for the City",
+     "duracao": "7:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Golden Lady",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Higher Ground",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Jesus Children of America",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "All in Love Is Fair",
+     "duracao": "3:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't You Worry 'bout a Thing",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "He's Misstra Know-It-All",
+     "duracao": "5:35"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 9
+   },
+   "publico": 9.1,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Innervisions",
+   "resumo_en": "Innervisions is the sixteenth studio album by American singer, songwriter, and musician Stevie Wonder, released on August 3, 1973, by Tamla, a subsidiary of Motown Records. A landmark recording of Wonder's \"classic period\", the album has been regarded as completing his transition from the \"Little Stevie Wonder\" known for romantic ballads into a more musically mature, conscious, and grown-up artist. \nOn Innervisions, Wonder continued to experiment with the revolutionary T.O.N.T.O. (The Original New Timbral Orchestra) synthesizer system developed by Malcolm Cecil and Robert Margouleff. Wonder's previous two albums, 1972’s Music of My Mind and Talking Book, boosted his standing in the music industry, transforming him from a reliable hitmaker into a \"master\" of the new album format. Ahead of Innervisions, Cecil and Margouleff were pushing Wonder to shift his lyrical themes, allowing for political and metaphysical issues to be discussed in his music instead of primarily singing about romance. The album's second single, “Living for the City” is considered its centerpiece.\nInnervisions peaked at number four on the Billboard Top LPs & Tape chart and number one on the Billboard Soul LPs cha",
+   "spotify": "5jgI8Eminx9MmLBontDWq8",
+   "youtube": null
+  },
+  {
+   "id": "95e58ee5-5421-38b0-a937-803b004c7ae8",
+   "titulo": "Fulfillingness’ First Finale",
+   "data": "1974-07-22",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/53a9fa24-8648-4623-9217-ed91434217e7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Smile Please",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Heaven Is 10 Zillion Light Years Away",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Too Shy to Say",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Boogie On Reggae Woman",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Creepin’",
+     "duracao": "4:20"
+    },
+    {
+     "n": 6,
+     "titulo": "You Haven’t Done Nothin’",
+     "duracao": "3:22"
+    },
+    {
+     "n": 7,
+     "titulo": "It Ain’t No Use",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "They Won’t Go When I Go",
+     "duracao": "5:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Bird of Beauty",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Please Don’t Go",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.4,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fulfillingness%27_First_Finale",
+   "resumo_en": "Fulfillingness' First Finale is the seventeenth studio album by American singer, songwriter, musician, and producer Stevie Wonder, released on July 22, 1974, by Tamla, a subsidiary of Motown Records. It is the fourth of five albums from what is considered Wonder's \"classic period\".\nThe album was Wonder's second to top the Billboard Top LPs & Tape chart, where it remained for two weeks, and also reached number one on the Billboard Soul LPs chart, where it spent eight non-consecutive weeks between October 5 and Christmas 1974. At the 17th Annual Grammy Awards, it won in three categories: Album of the Year (Wonder's second consecutive win in this category), Best Male Pop Vocal, and Best Male Rhythm and Blues Vocal Performance (for \"Boogie On Reggae Woman\") at the ceremony held in 1975. Retrospectively, the album was voted number 413 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000) and included in the book 1001 Albums You Must Hear Before You Die.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f",
+   "titulo": "Songs in the Key of Life",
+   "data": "1976-09-28",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/4f0d5cb0-d9af-438f-b4c1-645cd233975c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love’s in Need of Love Today",
+     "duracao": "7:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Have a Talk With God",
+     "duracao": "2:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Village Ghetto Land",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Contusion",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Sir Duke",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "I Wish",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Knocks Me Off My Feet",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Pastime Paradise",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Summer Soft",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Ordinary Pain",
+     "duracao": "6:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Isn’t She Lovely",
+     "duracao": "6:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Joy Inside My Tears",
+     "duracao": "6:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Black Man",
+     "duracao": "8:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Ngiculela - Es Una Historia / I Am Singing",
+     "duracao": "3:48"
+    },
+    {
+     "n": 15,
+     "titulo": "If It’s Magic",
+     "duracao": "3:11"
+    },
+    {
+     "n": 16,
+     "titulo": "As",
+     "duracao": "7:07"
+    },
+    {
+     "n": 17,
+     "titulo": "Another Star",
+     "duracao": "8:19"
+    },
+    {
+     "n": 18,
+     "titulo": "Saturn",
+     "duracao": "4:54"
+    },
+    {
+     "n": 19,
+     "titulo": "Ebony Eyes",
+     "duracao": "4:10"
+    },
+    {
+     "n": 20,
+     "titulo": "All Day Sucker",
+     "duracao": "5:06"
+    },
+    {
+     "n": 21,
+     "titulo": "Easy Goin’ Evening (My Mama’s Call)",
+     "duracao": "3:58"
+    }
+   ],
+   "duracao_min": 105,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.4,
+    "fontes": 7
+   },
+   "publico": 8.6,
+   "publico_votos": 18,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Life",
+   "resumo_en": "Songs in the Key of Life is the eighteenth studio album by the American singer, songwriter and musician Stevie Wonder. A double album which included an extra EP, it was released on September 28, 1976, by Tamla Records, a division of Motown. The album is regarded as the culmination of Wonder's \"classic period\" of recording, which began in 1972 with Music of My Mind.\nBy 1974, Wonder was one of the most successful figures in popular music; his previous albums Music of My Mind (1972), Talking Book (1972), Innervisions (1973), and Fulfillingness' First Finale (1974) marked a long string of consecutive critical successes. However, by March 1975, Wonder seriously considered quitting the music industry and emigrating to Ghana to aid children with disabilities. Plans for a farewell concert had already begun when Wonder changed his mind and signed a new contract with Motown on August 5, 1975. This outlined a seven-year, seven-album deal, with full artistic control. This deal included $13 million up front, a potential bonus of up to $20 million, 20% of the royalties, and ownership of the publishing rights. At the time, it was the biggest recording deal in history.\nSongs in the Key of Life was",
+   "spotify": "0BBWJ3L9fhkmNLdt4zs4fu",
+   "youtube": null
+  },
+  {
+   "id": "610a4b7e-061e-3de3-9bd3-b58d04d0482a",
+   "titulo": "Stevie Wonder’s Journey Through the Secret Life of Plants",
+   "data": "1979-10-30",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/b461f4ec-b929-45be-bec2-da2ec1d58640/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Earth's Creation",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "The First Garden",
+     "duracao": "2:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Voyage to India",
+     "duracao": "6:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Same Old Story",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Venus' Flytrap and the Bug",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Ai No, Sono",
+     "duracao": "2:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Seasons",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Power Flower",
+     "duracao": "5:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Send One Your Love (Instrumental)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Race Babbling",
+     "duracao": "8:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Send One Your Love",
+     "duracao": "4:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Outside My Window",
+     "duracao": "5:29"
+    },
+    {
+     "n": 13,
+     "titulo": "Black Orchid",
+     "duracao": "3:47"
+    },
+    {
+     "n": 14,
+     "titulo": "Ecclesiastes",
+     "duracao": "3:42"
+    },
+    {
+     "n": 15,
+     "titulo": "Kesse Ye Lolo De Ye",
+     "duracao": "3:01"
+    },
+    {
+     "n": 16,
+     "titulo": "Come Back as a Flower",
+     "duracao": "5:02"
+    },
+    {
+     "n": 17,
+     "titulo": "A Seed's a Star - Tree Medley",
+     "duracao": "5:54"
+    },
+    {
+     "n": 18,
+     "titulo": "The Secret Life of Plants",
+     "duracao": "4:16"
+    },
+    {
+     "n": 19,
+     "titulo": "Tree",
+     "duracao": "5:48"
+    },
+    {
+     "n": 20,
+     "titulo": "Finale",
+     "duracao": "7:02"
+    }
+   ],
+   "duracao_min": 90,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.1,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stevie_Wonder%27s_Journey_Through_%22The_Secret_Life_of_Plants%22",
+   "resumo_en": "Stevie Wonder's Journey Through \"The Secret Life of Plants\" is an album by Stevie Wonder, originally released on the Tamla Motown label on October 30, 1979. It is the soundtrack to the documentary The Secret Life of Plants, directed by Walon Green, which was based on the book of the same name by Peter Tompkins and Christopher Bird. It contains two singles that reached the Billboard Hot 100 charts: \"Send One Your Love\" (No. 4) and the minor hit \"Outside My Window\" (No. 52). The single \"Black Orchid\" reached No. 63 in the UK.",
+   "spotify": "3LSgLZrSXELqWt5eqb6XMY",
+   "youtube": null
+  },
+  {
+   "id": "6fbde199-c971-3d4f-a8df-ca13a998e3c7",
+   "titulo": "Hotter Than July",
+   "data": "1980-09-29",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/7785a272-40ce-4ac2-a6f8-ec85ca9c87e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Did I Hear You Say You Love Me",
+     "duracao": "4:07"
+    },
+    {
+     "n": 2,
+     "titulo": "All I Do",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Rocket Love",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "I Ain’t Gonna Stand for It",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "As If You Read My Mind",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Master Blaster (Jammin’)",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Do Like You",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Cash in Your Face",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Lately",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Happy Birthday",
+     "duracao": "5:57"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hotter_than_July",
+   "resumo_en": "Hotter than July is the nineteenth studio album by American singer, songwriter, and musician Stevie Wonder, released on September 29, 1980, by Tamla, a subsidiary of Motown Records. Wonder primarily recorded the album in Los Angeles, California, at Wonderland Studios, which he had recently acquired. The album peaked at number three on the Billboard Top LPs & Tape chart and was certified Platinum by the Recording Industry Association of America (RIAA) on February 3, 1981. It was Wonder's most successful album in the UK, where it peaked at number two on the UK Albums Chart and produced four top-10 singles. Music videos were produced for the album's first, third, and fourth singles.\nThe album was nominated for Favorite Soul/R&B Album at the 1982 American Music Awards.",
+   "spotify": null,
+   "youtube": "OLAK5uy_knItc8DOji3qS_SIzkInaZq-RcwC8U_Lk"
+  },
+  {
+   "id": "640d41e3-9fe6-3b6e-b0a1-e51355e7aa9e",
+   "titulo": "The Woman in Red",
+   "data": "1984-08-28",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/0c67cef1-1728-4dec-89a0-e79ede6d277d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Woman in Red",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s You",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s More Than You (instrumental)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "I Just Called to Say I Love You",
+     "duracao": "6:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Light in Flight",
+     "duracao": "6:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Moments Aren’t Moments",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Weakness",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Drive Drunk",
+     "duracao": "6:36"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Woman_in_Red_%28soundtrack%29",
+   "resumo_en": "The Woman in Red: Original Motion Picture Soundtrack is the second soundtrack album released by American musician Stevie Wonder on the Motown label. Also featuring Dionne Warwick, the album was released in 1984 for the film of the same name (starring Gene Wilder). It features Wonder's biggest hit, \"I Just Called to Say I Love You\", which hit number one internationally and won the Academy Award for Best Original Song, and also features the follow-up hit, \"Love Light in Flight\" (a US top-20 hit) and \"Don't Drive Drunk\", the song and the accompanying music video for which were used in the Ad Council and the US Department of Transportation's Drunk Driving Prevention public service announcement the following year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "59dd99b2-031c-39f7-9bf9-74c9faed3192",
+   "titulo": "In Square Circle",
+   "data": "1985-05-07",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/09a0588d-2ef8-4e37-a65a-c87926f900dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Part‐Time Lover",
+     "duracao": "4:09"
+    },
+    {
+     "n": 2,
+     "titulo": "I Love You Too Much",
+     "duracao": "5:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Whereabouts",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Stranger on the Shore of Love",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Never in Your Sun",
+     "duracao": "4:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Spiritual Walkers",
+     "duracao": "5:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Land of La La",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Go Home",
+     "duracao": "5:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Overjoyed",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "It’s Wrong (Apartheid)",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_Square_Circle",
+   "resumo_en": "In Square Circle is the twentieth studio album by American singer-songwriter Stevie Wonder, released in September 1985 on Tamla Records.\nIn Square Circle spent 12 weeks at number one on the US Billboard Top R&B Albums chart. The album also made the top five on the US Billboard 200 and peaked at No. 5 on the UK Pop Albums chart.",
+   "spotify": "1nLKZqTGA48v3I8dNFkvQt",
+   "youtube": "OLAK5uy_nTHX4e1i7nHmY7SbpQZul8APjNbjeOMVI"
+  },
+  {
+   "id": "05177b0d-6b30-3cc0-802e-2ea00c2e1846",
+   "titulo": "Characters",
+   "data": "1987-11-06",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/093b9bf0-0316-4581-a446-412c2a71407a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Will Know",
+     "duracao": "5:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Dark ’n’ Lovely",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "In Your Corner",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "With Each Beat of My Heart",
+     "duracao": "5:55"
+    },
+    {
+     "n": 5,
+     "titulo": "One of a Kind",
+     "duracao": "5:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Skeletons",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Get It",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Galaxy Paradise",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Cryin’ Through the Night",
+     "duracao": "5:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Free",
+     "duracao": "4:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Let Me Make Your Love Come Down",
+     "duracao": "5:22"
+    },
+    {
+     "n": 12,
+     "titulo": "My Eyes Don’t Cry",
+     "duracao": "7:08"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.8,
+    "fontes": 7
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Characters_%28Stevie_Wonder_album%29",
+   "resumo_en": "Characters is the twenty-first studio album by American singer-songwriter Stevie Wonder, released in late 1987 on Tamla Records. The album features six singles, including the Grammy-nominated \"Skeletons\" (No. 19) and \"You Will Know\" (No. 77), which both reached number one on the Billboard R&B Singles chart (the former being the most-recent American top-40 hit of Wonder's career). The album also contained a duet with Michael Jackson, \"Get It\" (No. 80), that was a minor hit.",
+   "spotify": "6U9Jnl7C9FVWLE17F2BCuY",
+   "youtube": "OLAK5uy_lgWrQpQi_UaR6MnwMA2Y0Kf3poIEbp3oU"
+  },
+  {
+   "id": "4780aa91-2df9-3c3c-b492-960c29905516",
+   "titulo": "Jungle Fever",
+   "data": "1991-05-28",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/c534284a-6f56-44fa-8271-853533503f4d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fun Day",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Queen in the Black",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "These Three Words",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Each Other’s Throat",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "If She Breaks Your Heart",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Gotta Have You",
+     "duracao": "6:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Make Sure You’re Sure",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Jungle Fever",
+     "duracao": "4:56"
+    },
+    {
+     "n": 9,
+     "titulo": "I Go Sailing",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Chemical Love",
+     "duracao": "4:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Lighting Up the Candles",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jungle_Fever_%28soundtrack%29",
+   "resumo_en": "Jungle Fever is a soundtrack album by American R&B singer-songwriter, producer, and multi-instrumentalist Stevie Wonder, recorded for the film Jungle Fever. It was released by the Motown label on May 28, 1991.\nThree hit singles were released from the soundtrack: the first and most successful single was \"Gotta Have You\" (Hot 100 No. 92, R&B No. 3), the second single was \"Fun Day\" (R&B No. 6, UK No. 63), and the final single was \"These Three Words\" (R&B No. 7).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "96f22cb3-70e8-3628-99e6-541bf85b774a",
+   "titulo": "Conversation Peace",
+   "data": "1995-03-21",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/314c854d-129c-4dc3-9799-f9778dcc767c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rain Your Love Down",
+     "duracao": "6:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Edge of Eternity",
+     "duracao": "6:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Taboo to Love",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Take the Time Out",
+     "duracao": "5:05"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m New",
+     "duracao": "5:41"
+    },
+    {
+     "n": 6,
+     "titulo": "My Love Is With You",
+     "duracao": "6:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Treat Myself",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Tomorrow Robins Will Sing",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Sensuous Whisper",
+     "duracao": "5:47"
+    },
+    {
+     "n": 10,
+     "titulo": "For Your Love",
+     "duracao": "5:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Cold Chill",
+     "duracao": "6:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Sorry",
+     "duracao": "6:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Conversation Peace",
+     "duracao": "6:41"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Conversation_Peace",
+   "resumo_en": "Conversation Peace is the twenty-second studio album by American singer, songwriter and musician Stevie Wonder, released on March 21, 1995, by Motown Records. The album was Wonder's first full-length non-soundtrack studio album since 1987's Characters. It yielded the hits \"For Your Love\" (a Grammy winner for Wonder for Best R&B Male Vocal Performance) and the reggae-flavored \"Tomorrow Robins Will Sing\". Conversation Peace also saw Wonder reuniting with Robert Margouleff, who assisted during Wonder's \"classic period\" from 1972 to 1974.\nWonder wrote about 40 songs in 1993 after being invited to stay for six weeks in Ghana by President Jerry John Rawlings. A number of these songs were eventually shaped into album form. Motown announced in August 1993 that Conversation Peace would be released later that year; however, Wonder continued to work on the album through 1994 until its release in March 1995, when Vibe magazine reported that the album had been in development \"off and on for at least the past four\" years.\nA circulating outtake from these sessions, \"Ms and Mr Little Ones\", was later released on Natural Wonder (1995).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "300253f6-28c6-3bdb-8f45-ac88959e0bb8",
+   "titulo": "A Time to Love",
+   "data": "2005-10-18",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/17462683-ea08-4626-a568-2193e3a814aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If Your Love Cannot Be Moved",
+     "duracao": "6:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Sweetest Somebody I Know",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Moon Blue",
+     "duracao": "6:44"
+    },
+    {
+     "n": 4,
+     "titulo": "From the Bottom of My Heart",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Please Don't Hurt My Baby",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "How Will I Know",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "My Love Is on Fire",
+     "duracao": "6:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Passionate Raindrops",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Tell Your Heart I Love You",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "True Love",
+     "duracao": "3:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Shelter in the Rain",
+     "duracao": "4:19"
+    },
+    {
+     "n": 12,
+     "titulo": "So What the Fuss",
+     "duracao": "5:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Can't Imagine Love Without You",
+     "duracao": "3:45"
+    },
+    {
+     "n": 14,
+     "titulo": "Positivity",
+     "duracao": "5:07"
+    },
+    {
+     "n": 15,
+     "titulo": "A Time to Love",
+     "duracao": "9:17"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 66,
+    "media": 6.8,
+    "fontes": 7
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Time_to_Love_%28album%29",
+   "resumo_en": "A Time to Love is the twenty-third studio album by Stevie Wonder, his first since Conversation Peace in 1995. Originally to have been completed in 2004, it was finally released to stores on October 18, 2005, following an exclusive digital release on Apple's iTunes Music Store on September 27.\nThe first single, issued in April 2005, was \"So What the Fuss\", which featured Prince on guitar and En Vogue on backing vocals. Follow-up singles included \"Positivity\" with his daughter Aisha Morris, \"From the Bottom of My Heart\" and \"Shelter in the Rain\".\nThe song \"Shelter in the Rain\" was in tribute to his first wife, the singer Syreeta Wright, who died of cancer the year before the album was released. Wonder was quoted as saying he would have had Wright singing lead on it had she lived.\nThough multiple follow-ups have been announced as being in various stages of development, A Time to Love stands as Wonder's most recent album to date.",
+   "spotify": "3Ap0lD8hS2j3fQVCz4mkB5",
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,1991 @@
+{
+ "id": "howlin-wolf",
+ "nome": "Howlin’ Wolf",
+ "cena": "Blues essencial",
+ "mbid": "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
+ "wikidata": "Q44780",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1910",
+ "fim": "1976",
+ "ativa": false,
+ "generos": [
+  "blues",
+  "chicago blues",
+  "electric blues",
+  "acid rock",
+  "acoustic chicago blues"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Howlin_Wolf_AABF_1970_JT.jpg/500px-Howlin_Wolf_AABF_1970_JT.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Howlin%27_Wolf",
+ "resumo_pt": "Chester Arthur Burnett (White Station, 10 de junho de 1910 — Hines, 10 de janeiro de 1976), mais conhecido como Howlin' Wolf foi um importante cantor, compositor e guitarrista de blues. Com uma voz rouca e alta e um físico avantajado, Wolf é um dos mais significativos cantores de blues clássico de Chicago. Seu estilo ligeiramente tímido contrastava com as menos crua mas ainda assim poderosas apresentações de seu astro contemporâneo Muddy Waters.\nHowlin' Wolf, Sonny Boy Williamson II, Little Walter e Muddy Waters são geralmente citados como os melhores músicos de blues que gravaram pela Chess Records. Em 2004, a revista Rolling Stone colocou Wolf como número #51 na sua lista de \"100 Melhores artistas de todos os tempos\".",
+ "resumo_en": "Chester Arthur Burnett (June 10, 1910 – January 10, 1976), better known by his stage name Howlin' Wolf, was an American blues singer, guitarist and harmonica player. He was at the forefront of transforming acoustic Delta blues into electric Chicago blues, and over a four-decade career, recorded blues, rhythm and blues, rock and roll, and psychedelic rock. He is regarded as one of the most influential blues musicians ever.\nBorn into poverty in Mississippi, Burnett became a protégé of Delta blues musician Charley Patton in the 1930s. In the Deep South, he began a solo career by performing with other notable blues musicians of the day. By the end of the decade, he had established himself in the Mississippi Delta. Following a number of legal issues, a stint in prison, and Army service, he was recruited by A&R man Ike Turner to record for producer Sam Phillips in Memphis. His first record \"Moanin' at Midnight\" (1951) led to a record deal with Chess Records in Chicago. Between 1951 and 1969, six of his songs reached the Billboard R&B chart. His studio albums include Howlin' Wolf a.k.a. The Rocking Chair Album, a collection of singles from 1957 to 1961, The Howlin' Wolf Album (1969), Message to the Young (1971), The London Howlin' Wolf Sessions (1971), and The Back Door Wolf (1973). His reputation grew throughout the blues revival of the 1960s, and he continued to perform until November 1975, when he performed for the last time alongside fellow blues musician B.B. King. He died on J",
+ "albuns": [
+  {
+   "id": "75d0f3a2-5938-3f4d-b845-174b81eace3b",
+   "titulo": "Moanin’ in the Moonlight",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/2659f70a-a9db-3cf9-9053-5dfcdb5581ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moanin’ at Midnight",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "How Many More Years",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Smokestack Lightnin’",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Baby, How Long",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "No Place to Go",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "All Night Boogie",
+     "duracao": "2:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Evil",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m Leavin’ You",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Moanin’ for My Baby",
+     "duracao": "2:51"
+    },
+    {
+     "n": 10,
+     "titulo": "I Asked for Water (She Gave Me Gasoline)",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Forty‐Four",
+     "duracao": "2:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Somebody in My Home",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moanin%27_in_the_Moonlight",
+   "resumo_en": "Moanin' in the Moonlight is a compilation album and the first album by American blues artist Howlin' Wolf, released by Chess Records in 1959. It contains songs recorded between 1951 and 1959 previously issued as singles, including one of his best-known, \"Smokestack Lightning\". Rolling Stone ranked it number 477 on its 2020 list of \"the 500 Greatest Albums of All Time\".",
+   "spotify": "76MT4lqzC1oSvSYnHHjMam",
+   "youtube": null
+  },
+  {
+   "id": "8d3ff9b5-33fc-4381-ad3c-c89441c3f3af",
+   "titulo": "Big City Blues",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/8df4328d-d8e9-4311-8510-ff821c6304aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rinding in the Moonlight",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Worried About My Baby",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Twisting and Turning",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "House Rockin Boogie",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Morning at Midnight",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Crying at Daylight",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Brown Skin Woman",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Keep What You Got",
+     "duracao": "2:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Backside Boogie",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Dog Me Around",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8619edca-cb46-355d-a3a0-d27ca32fab2d",
+   "titulo": "Howlin’ Wolf",
+   "data": "1962-01-11",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/32cd3ff7-346d-4816-a2e9-9c576904beeb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shake for Me",
+     "duracao": "2:12"
+    },
+    {
+     "n": 2,
+     "titulo": "The Red Rooster",
+     "duracao": "2:22"
+    },
+    {
+     "n": 3,
+     "titulo": "You’ll Be Mine",
+     "duracao": "2:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Who’s Been Talkin’",
+     "duracao": "2:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Wang‐Dang‐Doodle",
+     "duracao": "2:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Baby",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Spoonful",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Going Down Slow",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Down in the Bottom",
+     "duracao": "2:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Back Door Man",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Howlin’ for My Baby",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Tell Me",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.2,
+    "fontes": 4
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Howlin%27_Wolf_%28album%29",
+   "resumo_en": "Howlin' Wolf is the second album from the Chicago blues singer/guitarist/harmonicist, Howlin' Wolf. Released in 1962, it is a collection of twelve Chess  singles that they previously released between June, 1957 and December, 1961 . Because of the illustration on its sleeve (by Don S. Bronstein), the album is often called The Rockin' Chair Album, a nickname even added to the cover on some reissue pressings of the LP.",
+   "spotify": "26TtzBrPdUkHMSTPSbctbl",
+   "youtube": null
+  },
+  {
+   "id": "cecc7a47-5057-3407-830e-7e5d61de6a77",
+   "titulo": "The Super Super Blues Band",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/d93820f9-ba76-4976-9346-2cfa74806b9a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Long Distance Call",
+     "duracao": "9:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Ooh Baby / Wrecking My Love Life",
+     "duracao": "6:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Little Angel",
+     "duracao": "6:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Spoonful",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Diddley Daddy",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "The Red Rooster",
+     "duracao": "7:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Goin' Down Slow",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Super_Super_Blues_Band",
+   "resumo_en": "The Super Super Blues Band is an album by blues musicians Howlin' Wolf, Muddy Waters, and Bo Diddley, released on the Checker label in 1968. It is one of several Chess albums of the 1960s to document an informal jam session between several of the label's artists, alongside Two Great Guitars (1964) and Super Blues (1967).",
+   "spotify": "3hYDvg91x5TuC0G7m7Ubyc",
+   "youtube": null
+  },
+  {
+   "id": "ef1a1438-458f-3484-b90a-4757cecc2598",
+   "titulo": "The Howlin’ Wolf Album",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/343cb403-dbe2-4d05-ae26-b84089a083ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Spoonfull",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Tail Dragger",
+     "duracao": "4:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Smokestack Lightning",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Moanin' at Midnight",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Built for Comfort",
+     "duracao": "5:11"
+    },
+    {
+     "n": 6,
+     "titulo": "The Red Rooster",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Evil",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Down in the Bottom",
+     "duracao": "2:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Three Hundred Pounds of Joy",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Back Door Man",
+     "duracao": "6:53"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Howlin%27_Wolf_Album",
+   "resumo_en": "The Howlin' Wolf Album is a studio album by Howlin' Wolf, released in 1969. It features members of Rotary Connection as his backing band. The album mixed blues with psychedelic rock arrangements of several of Wolf's classic songs. Howlin' Wolf strongly disliked the album, which is noted on the album's cover art. The album peaked at number 69 on Billboard magazine's \"Black Albums\" chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "35e40ca5-abe1-4385-88f7-b26da9925ffc",
+   "titulo": "Message to the Young",
+   "data": "1971-03-16",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/c8523d50-f51b-3766-8af7-7b37049bbe5d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If I Were a Bird",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "I Smell a Rat",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Miss James",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Message to the Young",
+     "duracao": "5:46"
+    },
+    {
+     "n": 5,
+     "titulo": "She’s Looking Good",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Just as Long",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Romance Without Finance",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Turn Me On",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Message_to_the_Young",
+   "resumo_en": "Message to the Young is the eighth album by blues musician Howlin' Wolf released by Chess Records in 1971.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "904d0e93-b827-3053-875e-6cc551291209",
+   "titulo": "The London Howlin’ Wolf Sessions",
+   "data": "1971-11",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/9f50be88-b6c4-38d2-b37f-347492891e98/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockin’ Daddy",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "I Ain’t Superstitious",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Sittin’ on Top of the World",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Worried About My Baby",
+     "duracao": "2:59"
+    },
+    {
+     "n": 5,
+     "titulo": "What a Woman!",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Poor Boy",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Built for Comfort",
+     "duracao": "2:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Who’s Been Talking?",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "The Red Rooster (false start and dialogue)",
+     "duracao": "2:03"
+    },
+    {
+     "n": 10,
+     "titulo": "The Red Rooster",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Do the Do",
+     "duracao": "2:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Highway 49",
+     "duracao": "2:50"
+    },
+    {
+     "n": 13,
+     "titulo": "Wang Dang Doodle",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_London_Howlin%27_Wolf_Sessions",
+   "resumo_en": "The London Howlin' Wolf Sessions is an album by blues musician Howlin' Wolf released in 1971 on Chess Records, and on Rolling Stones Records in Britain. It was one of the first super session blues albums, setting a blues master among famous musicians from the second generation of rock and roll, in this case Eric Clapton, Steve Winwood, Charlie Watts, and Bill Wyman. It peaked at #79 on the Billboard 200.",
+   "spotify": "5bnZJHA4vbDY6Bkd9wI93g",
+   "youtube": null
+  },
+  {
+   "id": "9979bc29-6bd8-40af-a021-d10b42806d98",
+   "titulo": "The Back Door Wolf",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/ad4cd96e-cfaf-4fb9-95b4-3bc55953f595/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moving",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Coon on the Moon",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Speak Now Woman",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Trying to Forget You",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Stop Using Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Leave Here Walking",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "The Back Door Wolf",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "You Turn Slick On Me",
+     "duracao": "4:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Watergate Blues",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Can't Stay Here",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "856e1133-13f5-40a4-bcb5-09c285688ac4",
+   "titulo": "London Revisited",
+   "data": "1974-01",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1dd1e133-22d1-4a70-9d96-6b66cc088cba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Days",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Highway 41",
+     "duracao": "7:19"
+    },
+    {
+     "n": 3,
+     "titulo": "I Almost Lost My Mind",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Lovin' Man",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Goin' Down Slow",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "The Killing Floor",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "I Want To Have A Word With You",
+     "duracao": "4:05"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5dd941c1-c395-3910-b7e3-9bd59408b9a8",
+   "titulo": "Change My Way",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/de5587c3-4b0d-4e72-bac8-f5855c486efd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mr. Airplane Man",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Me Darlin’",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Change My Way",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "I Walked From Dallas",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "I Better Go Now",
+     "duracao": "2:41"
+    },
+    {
+     "n": 6,
+     "titulo": "New Crawlin’ King Snake",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Just Like I Treat You",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ve Been Abused",
+     "duracao": "2:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Laugh at Me",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "I Didn’t Know",
+     "duracao": "2:23"
+    },
+    {
+     "n": 11,
+     "titulo": "I Ain’t Superstitious",
+     "duracao": "2:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Howlin’ Blues",
+     "duracao": "2:44"
+    },
+    {
+     "n": 13,
+     "titulo": "My Mind Is Ramblin’",
+     "duracao": "2:51"
+    },
+    {
+     "n": 14,
+     "titulo": "Do the Do",
+     "duracao": "2:11"
+    },
+    {
+     "n": 15,
+     "titulo": "Hidden Charms",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "da899155-9822-4594-b976-6434079590e3",
+   "titulo": "The Great Howlin’ Wolf",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/e39e7365-4115-4fc8-b29d-1e2d9ffb20e6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moanin’ at Midnight",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Baby How Long",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Evil",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "I Asked for Water",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Sittin’ on Top of the World",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Wang Dang Doddle",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "The Red Rooster",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Like I Treat You",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "I Ain’t Superstitious",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Goin’ Down Slow",
+     "duracao": "4:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Me Darlin’",
+     "duracao": "2:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Killing Floor",
+     "duracao": "2:50"
+    },
+    {
+     "n": 13,
+     "titulo": "My Country Sugar Mama",
+     "duracao": "2:36"
+    },
+    {
+     "n": 14,
+     "titulo": "My Mind Is Ramblin’",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cb2786a6-d3e7-436d-9130-d66a65f6f0d7",
+   "titulo": "all my blues",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/2630f407-bde3-4952-ac66-76e3100c1d5e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shake It For Me",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Me",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Dust My Broom",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "I Didn't Mean to Hurt Your Feelings",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Rockin' the Blues",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "All My Life",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Goin' Down Slow",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Howlin' for My Darlin'",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Forty Four",
+     "duracao": "7:06"
+    },
+    {
+     "n": 10,
+     "titulo": "The Red Rooster",
+     "duracao": "5:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Evil",
+     "duracao": "5:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Blind Love",
+     "duracao": "4:42"
+    },
+    {
+     "n": 13,
+     "titulo": "My Baby Walked Off",
+     "duracao": "2:58"
+    },
+    {
+     "n": 14,
+     "titulo": "Bluebird",
+     "duracao": "2:45"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cd4ed2b4-b62d-48d0-a031-4df95aae8718",
+   "titulo": "The Memphis Sessions",
+   "data": "2007-04-20",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/67bf506c-d90c-4f4c-9979-4a4d359dffc4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All in the Mood (Everybody's in the Mood)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Bluebird",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "California Blues",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "California Boogie",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Chocolate Drop",
+     "duracao": "2:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Color and Kind",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Come Back Home",
+     "duracao": "2:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Decoration Day",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Dorothy Mae",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Dorothy Mae (alternate take)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Drinkin' C.V. Wine",
+     "duracao": "3:02"
+    },
+    {
+     "n": 12,
+     "titulo": "I Got a Woman",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Look a Here",
+     "duracao": "2:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Mr. Highway Man",
+     "duracao": "2:25"
+    },
+    {
+     "n": 15,
+     "titulo": "My Baby Walked Off",
+     "duracao": "2:57"
+    },
+    {
+     "n": 16,
+     "titulo": "Smile at Me",
+     "duracao": "2:04"
+    },
+    {
+     "n": 17,
+     "titulo": "Well That's Alright",
+     "duracao": "2:55"
+    },
+    {
+     "n": 18,
+     "titulo": "Oh Red",
+     "duracao": "2:36"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d8b612bc-9a2c-4b7b-a790-e48cf52196c1",
+   "titulo": "Moonlighting, with Howlin' Wolf",
+   "data": "2014-10-15",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/edfa07f9-7d69-403d-ad46-1c2e209032ce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Back Door Man",
+     "duracao": "2:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Built for Comfort",
+     "duracao": "2:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Do the Do",
+     "duracao": "2:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Evil",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Forty-Four",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Highway 49",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "How Many More Years",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Howlin' for My Baby",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "I Ain't Superstitious",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "I Asked for Water",
+     "duracao": "2:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Killing Floor",
+     "duracao": "2:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Moanin' at Midnight",
+     "duracao": "2:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Poor Boy",
+     "duracao": "2:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Rockin' Daddy",
+     "duracao": "3:40"
+    },
+    {
+     "n": 15,
+     "titulo": "Sittin' on Top of the World",
+     "duracao": "3:46"
+    },
+    {
+     "n": 16,
+     "titulo": "Smokestack Lightnin'",
+     "duracao": "3:07"
+    },
+    {
+     "n": 17,
+     "titulo": "Wang Dang Doodle",
+     "duracao": "4:25"
+    },
+    {
+     "n": 18,
+     "titulo": "What a Woman",
+     "duracao": "2:54"
+    },
+    {
+     "n": 19,
+     "titulo": "Who's Been Talkin'",
+     "duracao": "2:22"
+    },
+    {
+     "n": 20,
+     "titulo": "Worried About My Baby",
+     "duracao": "2:58"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5e9cb46b-5fb7-42d2-8a85-ed732920edd8",
+   "titulo": "Bluebird",
+   "data": "2017-08-16",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/6be372fd-07a5-4486-8408-e8c63fd88632/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bluebird",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "My Last Affair",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Trouble No More",
+     "duracao": "2:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Just My Kind",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Come to My Baby",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Howlin' Blues",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "My People's Gone",
+     "duracao": "2:24"
+    },
+    {
+     "n": 8,
+     "titulo": "The Wolf Is At Your Door",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby How Long",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Dorothy Mae",
+     "duracao": "2:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Who Will Be Next",
+     "duracao": "2:37"
+    },
+    {
+     "n": 12,
+     "titulo": "California Blues No. 1",
+     "duracao": "2:59"
+    },
+    {
+     "n": 13,
+     "titulo": "I'm the Wolf",
+     "duracao": "2:54"
+    },
+    {
+     "n": 14,
+     "titulo": "Worried All the Time",
+     "duracao": "3:11"
+    },
+    {
+     "n": 15,
+     "titulo": "Streamline Woman",
+     "duracao": "2:47"
+    },
+    {
+     "n": 16,
+     "titulo": "I Better Go Now",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cef4cad7-bcc9-4507-99cf-cbcfe12efee0",
+   "titulo": "Legends: Howlin' Wolf",
+   "data": "2017-11-27",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/804a7c04-7a71-419e-ba48-58ffa7b0e605/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Who Will Be Next",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "All Night Boogie All Night Long",
+     "duracao": "2:15"
+    },
+    {
+     "n": 3,
+     "titulo": "The Wolf Is at Your Door",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "You Can't Be Beat",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Rockin' Daddy",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Don't Mess with My Baby",
+     "duracao": "2:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby, How Long",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Crying At Daybreak",
+     "duracao": "3:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Evil (Is Going On)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Come to Me Baby",
+     "duracao": "2:24"
+    },
+    {
+     "n": 11,
+     "titulo": "How Many More Years",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Howlin' Blues",
+     "duracao": "2:43"
+    },
+    {
+     "n": 13,
+     "titulo": "I Asked for Water (She Gave Me Gasoline)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 14,
+     "titulo": "I'll Be Around",
+     "duracao": "3:11"
+    },
+    {
+     "n": 15,
+     "titulo": "Forty Four",
+     "duracao": "2:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Moanin' At Midnight",
+     "duracao": "2:55"
+    },
+    {
+     "n": 17,
+     "titulo": "So Glad",
+     "duracao": "2:09"
+    },
+    {
+     "n": 18,
+     "titulo": "Howlin' Wolf Boogie",
+     "duracao": "2:45"
+    },
+    {
+     "n": 19,
+     "titulo": "Sitting On Top Of The World",
+     "duracao": "2:33"
+    },
+    {
+     "n": 20,
+     "titulo": "Spoonful",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0d652cad-5d60-482b-a916-d5f82a0a29d7",
+   "titulo": "Wang Dang Doodle",
+   "data": "2017-12-20",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/248ccd30-b0de-49c9-aed5-2b61c49e0501/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cause of It All",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Killing Floor",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Red Rooster",
+     "duracao": "5:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Built for Comfort",
+     "duracao": "2:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Do the Do",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Highway 49",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Worried About You",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Poor Boy",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Wang Dang Doodle",
+     "duracao": "4:55"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "545fb23c-594e-40c6-8fbd-f374681a350a",
+   "titulo": "Ain't Superstitious",
+   "data": "2017-12-20",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/23a5a126-7bf2-4c38-a151-0831bcfc7c97/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ain't Superstitious",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Goin' Down Slow",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Somebody Walking in My House",
+     "duracao": "2:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Commit A Crime",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "My Mind Is Rambling",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "I Walked From Dallas",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "My Country Sugar Mama",
+     "duracao": "2:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Louise",
+     "duracao": "2:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold On the Money",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Streamline Woman",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "85d4f262-312d-4395-bdad-702df71f048d",
+   "titulo": "Blues Is My Business (24 Success)",
+   "data": "2018-03-30",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/fd7a91bd-fdef-4bf0-9c3e-df6857fbc97e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shake for Me",
+     "duracao": "2:18"
+    },
+    {
+     "n": 2,
+     "titulo": "The Red Rooster",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "You'll Be Mine",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Who's Been Talkin'",
+     "duracao": "2:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Wang-Dang Doodle",
+     "duracao": "2:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Baby",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Spoonful",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Going Down Slow",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Down in the Bottom",
+     "duracao": "2:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Back Door Man",
+     "duracao": "2:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Howlin' for My Baby",
+     "duracao": "2:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Tell Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Moaning at Midnight",
+     "duracao": "2:55"
+    },
+    {
+     "n": 14,
+     "titulo": "How Many More Years",
+     "duracao": "2:41"
+    },
+    {
+     "n": 15,
+     "titulo": "Smoke Stack Lightinin'",
+     "duracao": "3:07"
+    },
+    {
+     "n": 16,
+     "titulo": "Baby How Long",
+     "duracao": "2:54"
+    },
+    {
+     "n": 17,
+     "titulo": "No Place to Go",
+     "duracao": "2:57"
+    },
+    {
+     "n": 18,
+     "titulo": "All Night Boogie",
+     "duracao": "2:16"
+    },
+    {
+     "n": 19,
+     "titulo": "Evil",
+     "duracao": "2:52"
+    },
+    {
+     "n": 20,
+     "titulo": "I'm Leaving You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 21,
+     "titulo": "Moaning for My Baby",
+     "duracao": "2:50"
+    },
+    {
+     "n": 22,
+     "titulo": "I Asked For Water",
+     "duracao": "2:52"
+    },
+    {
+     "n": 23,
+     "titulo": "Forty Four",
+     "duracao": "2:49"
+    },
+    {
+     "n": 24,
+     "titulo": "Somebody in My Home",
+     "duracao": "2:28"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fa389d67-79a0-42ec-b643-e00c6c0c7e76",
+   "titulo": "Little Red Rooster",
+   "data": "2019-04-23",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/3f1022c8-fce1-4c42-9925-bea04ecd43ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All My Life",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Blind Love",
+     "duracao": "4:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Evil",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "How Many More Years",
+     "duracao": "2:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Howlin' For My Darlin'",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Red Rooster",
+     "duracao": "5:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Rockin' The Blues",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Shake It For Me",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "df65e5d8-a168-44a1-9c63-905e8ce220b2",
+   "titulo": "Who's Been Talking",
+   "data": "2019-06-13",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/ad69bb15-a356-4ec4-ad34-09f96e4f47d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sittin' On Top of the World",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Who's Been Talking",
+     "duracao": "2:25"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm Leaving You",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "My Life",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Spoonful",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Come to Me Baby",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Morning At Midnight",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "No Place to Go",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Getting Old and Grey",
+     "duracao": "2:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Smokestack Lightnin'",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "I Love My Baby",
+     "duracao": "2:57"
+    },
+    {
+     "n": 12,
+     "titulo": "All Night Boogie",
+     "duracao": "2:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Poor Boy",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d170e6f3-922c-432a-9b75-b6d255596680",
+   "titulo": "One World",
+   "data": "2019-08-02",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/9ee98413-fb8a-4692-ab87-b17edc64ede6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How Many More Years",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "No Place to Go",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Evil",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Somebody in My Home",
+     "duracao": "2:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby How Long",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Forty-Four",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "I Asked for Water (She Gave Me Gasoline)",
+     "duracao": "2:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Moanin' for My Baby",
+     "duracao": "2:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Smokestack Lightning",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "I'm Leavin' You",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Moanin' at Midnight",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "All Night Boogie",
+     "duracao": "2:12"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c0db23f6-85bb-442d-b96f-0ae847d7b349",
+   "titulo": "Two Birds",
+   "data": "2019-08-09",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/65932da9-0c68-4164-b23d-0d5c72ca7435/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Going Down Slow",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Howlin' For my Baby",
+     "duracao": "2:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Baby",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Tell Me",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Who's been Talkin'",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "You'll Be Mine",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Back Door Man",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Shake For Me",
+     "duracao": "2:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Down In The Bottom",
+     "duracao": "2:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Wang Dang Doodle",
+     "duracao": "2:20"
+    },
+    {
+     "n": 11,
+     "titulo": "The Red Rooster",
+     "duracao": "2:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Spoonful",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6cdf93cf-f62e-4de5-91ee-711bb399526d",
+   "titulo": "Smokestack' Blues",
+   "data": "2019-08-19",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/e5d2a029-55cc-4b76-9187-9fc48423894f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sittin' On Top of the World",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Who's Been Talking",
+     "duracao": "2:25"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm Leaving You",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "My Life",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Spoonful",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Come to Me Baby",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Morning At Midnight",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "No Place to Go",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Getting Old and Grey",
+     "duracao": "2:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Smokestack Lightnin'",
+     "duracao": "3:06"
+    },
+    {
+     "n": 11,
+     "titulo": "I Love My Baby",
+     "duracao": "2:57"
+    },
+    {
+     "n": 12,
+     "titulo": "All Night Boogie",
+     "duracao": "2:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Poor Boy",
+     "duracao": "2:35"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

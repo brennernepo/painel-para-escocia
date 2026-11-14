@@ -1,0 +1,3557 @@
+{
+ "id": "b-b-king",
+ "nome": "B.B. King",
+ "cena": "Blues essencial",
+ "mbid": "dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3",
+ "wikidata": "Q188969",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1925",
+ "fim": "2015",
+ "ativa": false,
+ "generos": [
+  "blues",
+  "electric blues",
+  "blues rock",
+  "soul blues",
+  "classic blues"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/B.B._King%2C_2006-06-26.jpg/500px-B.B._King%2C_2006-06-26.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/B._B._King",
+ "resumo_pt": "Riley Ben King, mais conhecido como B. B. King, (Itta Bena, 16 de setembro de 1925 – Las Vegas, 14 de maio de 2015) foi um guitarrista de blues, compositor e cantor estadunidense. O \"B. B.\" em seu nome significa Blues Boy, seu pseudônimo como moderador na rádio W. Foi considerado, ao lado de Eric Clapton e Jimi Hendrix, um dos melhores guitarristas do mundo pela revista norte-americana Rolling Stone. Ao longo da sua carreira, B.B. King foi distinguido com 15 prémios Grammy, tendo sido o criador de um estilo musical único e que faria dele um dos músicos mais respeitados e influentes de blues, tendo ganho o epíteto de Rei dos Blues.\nEra apreciado por seus solos, nos quais, ao contrário de muitos guitarristas, preferia usar poucas notas. Certa vez, B.B. King teria dito: \"posso fazer uma nota valer por mil\".",
+ "resumo_en": "Riley B. King (September 16, 1925 – May 14, 2015), known professionally as B. B. King, was an American blues guitarist, singer, songwriter, and record producer. He introduced a sophisticated style of soloing based on fluid string bending, shimmering vibrato, and staccato picking that influenced many later electric guitar blues players. AllMusic recognized King as \"the single most important electric guitarist of the last half of the 20th century\".\nKing was inducted into the Rock and Roll Hall of Fame in 1987 and is one of the most influential blues musicians in history, earning the nickname \"The King of the Blues\", and is referred to as one of the \"Three Kings of the Blues Guitar\" (along with Albert King and Freddie King, none of whom are related). King performed tirelessly throughout his musical career, appearing on average at more than 200 concerts a year into his 70s. In 1956 alone, he appeared at 342 shows.\nBorn and raised in the Mississippi Delta, King was attracted to music and taught himself to play guitar, beginning his career in juke joints and on local radio. King later lived and performed in Memphis and Chicago. As his fame grew, he toured the world extensively.",
+ "albuns": [
+  {
+   "id": "1205dd7c-c111-30d3-b138-caed6343d5ca",
+   "titulo": "Singin’ the Blues",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/ce4dff9d-a364-476e-abfb-f365bb92d7fd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Please Love Me",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "You Upset Me Baby",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Everyday I Have the Blues",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Luck",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "3 O’Clock Blues",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Blind Love",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Woke Up This Morning",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "You Know I Love You",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Little Angel",
+     "duracao": "3:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Ten Long Years",
+     "duracao": "2:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Did You Ever Love a Woman",
+     "duracao": "2:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Crying Won’t Help You",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Singin%27_the_Blues",
+   "resumo_en": "Singin' the Blues is the first LP album by American blues musician B.B. King, released in 1957 by the Bihari brothers on their Crown budget label. It is a compilation album whose songs were issued between 1951 and 1956 on singles by RPM Records and most had reached the Top 10 on Billboard's Race/R&B singles charts. King continued to perform and record several of the songs throughout his career, such as \"Every Day I Have the Blues\", \"Woke Up This Morning\", and \"Sweet Little Angel\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3ae20701-0798-3196-a3b3-fc5a02fe3e53",
+   "titulo": "The Blues",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/3abc74b2-42e4-4623-be09-0104bffe4e92/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Why Do Things Happen to Me",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Ruby Lee",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "When My Heart Beats Like a Hammer",
+     "duracao": "2:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Past Day",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Boogie Woogie Woman",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Early in the Morning",
+     "duracao": "2:36"
+    },
+    {
+     "n": 7,
+     "titulo": "I Want to Get Married",
+     "duracao": "3:04"
+    },
+    {
+     "n": 8,
+     "titulo": "That Ain't the Way to Do It",
+     "duracao": "2:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Troubles, Troubles, Troubles",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Don't You Want a Man Like Me",
+     "duracao": "2:40"
+    },
+    {
+     "n": 11,
+     "titulo": "You Know I Go for You",
+     "duracao": "2:39"
+    },
+    {
+     "n": 12,
+     "titulo": "What Can I Do",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Blues_%28B._B._King_album%29",
+   "resumo_en": "The Blues is the second album by blues artist B.B. King, released in 1958 by the Bihari brothers on their budget Crown label. The album collects 12 tracks that King recorded between 1951 and 1958 for Kent and RPM. As common practice with the record label, Crown released The Blues off the strength of the single \"When My Heart Beats Like a Hammer\", a Top 10 R&B chart single in 1958, to help sell a collection of less-popular songs. King's signature style of single-note riffs and powerful string bends is present on the album, however it is also commanded by horn-driven performances.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dff3259a-81fc-3bca-86d9-2291942d3826",
+   "titulo": "B.B. King Sings Spirituals",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/c702b517-efc9-414f-8149-7fc8c5851759/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Precious Lord",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Save a Seat for Me",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Ole Time Religion",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sweet Chariot",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Servant’s Prayer",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Jesus Gave Me Water",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I Never Heard a Man",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Army of the Lord",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "I Am Willing to Run All the Way",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I’m Working on the Building",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sings_Spirituals",
+   "resumo_en": "Sings Spirituals is the fifth studio album by B. B. King, released in 1960. He is backed by organ, piano, drums and bass, and accompanied vocally by two groups of Angeleno singers: the Charioteers and the Southern California Community Choir.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5b1baedd-e3af-476f-baea-df486c980b17",
+   "titulo": "King of the Blues",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/00b396e1-9907-42f8-abfb-3ef846e0681b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’ve Got a Right to Love My Baby",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "What Way to Go",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Long Nights",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Feel Like a Million",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ll Survive",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Good Man Gone Bad",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "If I Lost You",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "You’re on the Top",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Partin’ Time",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m King",
+     "duracao": "2:19"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b02b5ce7-e990-433c-bfdd-df400582f420",
+   "titulo": "Compositions of Duke Ellington and Others",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/bd031720-4469-4dce-8a32-75a72da7fdfd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cotton Tail",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Solitude",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Jack the Bear",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sophisticated Lady",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Jeep’s Blues",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Take the “A” Train",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Get Around Much Anymore",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Main Stem",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Mood Indigo",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Eastside‐Westside",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6d0948e0-34c3-3f9e-815d-7bb7837808a1",
+   "titulo": "My Kind of Blues",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/8e800a57-da24-4615-bb6d-60f4292a9c2d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Done Lost Your Good Thing Now",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr. Pawnbroker",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Understand",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Someday Baby",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Driving Wheel",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Walking Dr. Bill",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "My Own Fault, Darling",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Catfish Blues",
+     "duracao": "2:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold That Train",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Please Set a Date",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_Kind_of_Blues_%28B._B._King_album%29",
+   "resumo_en": "My Kind of Blues is the seventh studio album by American bluesman B.B. King. According to biographer David McGee, the songs were recorded in 1958 at the Chess Records studios in Chicago.  However, researcher Colin Escott identifies the recordings as being from a March 3, 1960, session, when King was under contract to the Bihari brothers and recorded in the Los Angeles area.\nThe Bihari's budget Crown Records issued the album in 1960. The liner notes contained a blurb about King's \"particular form of jazz ... blues-belter extraordinary\" and little else. McGee notes that King is backed by a small combo composed of pianist Lloyd Glenn, bassist Ralph Hamilton, and drummer Jessie Sailes (most of King's recordings at the time included a horn section).\nThree singles from the album were released by the Bihari's Kent Records; \"Walkin' Mr. Bill\" reached number 23 on Billboard's Hot R&B Sides chart in October 1960. In 2003, My Kind of Blues was reissued on CD by Ace Records with eight bonus tracks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8ed23c3f-0145-3477-8efe-e07517c42ad0",
+   "titulo": "More B. B. King",
+   "data": "1961-11",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/765cfd8c-379e-4fe4-bcab-38908ddc4f3a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bad Case of Love",
+     "duracao": "2:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Get Out of Here",
+     "duracao": "2:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Bad Luck Soul",
+     "duracao": "2:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Shut Your Mouth",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby, Look at You",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "You’re Breaking My Heart",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "My Reward",
+     "duracao": "2:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Cry Anymore",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Blues for Me",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Just Like a Woman",
+     "duracao": "3:14"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f59be4cd-3222-442f-a1f9-914169d813db",
+   "titulo": "Easy Listening Blues",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/92140a1e-0230-42d2-9b96-19757782ed8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Easy Listening Blues",
+     "duracao": "2:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Blues for Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Night Long",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Confessin’",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Touch",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Slow Walk",
+     "duracao": "3:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Walkin’",
+     "duracao": "2:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Hully Gully",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Shoutin’ the Blues",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Rambler",
+     "duracao": "2:29"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "30fa8a07-f102-41c5-819a-9410e4689679",
+   "titulo": "Blues in My Heart",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/3b0df0be-ca2e-4c56-9bdf-ab982a29f8e9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You're Gonna Miss Me",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Got 'em Bad",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Troubles Don't Last",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Your Letter",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can't Explain",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Wrong Road",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "I Need You Baby",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "So Many Days",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Downhearted",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Strange Things",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3d6bdfe8-fad4-3ab3-a21e-5f2175ce879b",
+   "titulo": "The Soul of B.B. King",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/2d9edb03-6361-4951-9568-3900d23e0ddd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Going Home",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "The Letter",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "You Never Know",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Please Remember Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Come Back Baby",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "You Won't Listen",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Sundown",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "You Shouldn't Have Left",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "House Rocker",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Shake Yours",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cc6ad0d2-dcbe-47a7-b885-fa4d7817a5fd",
+   "titulo": "Mr. Blues",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/6358647b-0ac9-4d06-a18c-60032079f48b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Young Dreamers",
+     "duracao": "2:50"
+    },
+    {
+     "n": 2,
+     "titulo": "By Myself",
+     "duracao": "2:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Chains of Love",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "A Mother's Love",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Blues at Midnight",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Sneakin' Around",
+     "duracao": "2:05"
+    },
+    {
+     "n": 7,
+     "titulo": "On My Word of Honor",
+     "duracao": "2:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Tomorrow Night",
+     "duracao": "2:18"
+    },
+    {
+     "n": 9,
+     "titulo": "My Baby's Comin' Home",
+     "duracao": "2:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Guess Who?",
+     "duracao": "2:12"
+    },
+    {
+     "n": 11,
+     "titulo": "You Ask Me",
+     "duracao": "2:08"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm Gonna Sit in Til You Give In",
+     "duracao": "2:12"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2bf728b7-ea04-4279-a62e-7be106bf7fcf",
+   "titulo": "Blues on Top of Blues",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/a46f0477-38f9-4824-8922-5df0217d58f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heartbreaker",
+     "duracao": "2:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Losing Faith in You",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Dance With Me",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "That’s Wrong Little Mama",
+     "duracao": "2:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Having My Say",
+     "duracao": "2:39"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Not Wanted Anymore",
+     "duracao": "2:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Worried Dream",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Paying the Cost to Be the Boss",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Until I Found You",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m Gonna Do What They Do to Me",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Raining in My Heart",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Now That You've Lost Me",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_on_Top_of_Blues",
+   "resumo_en": "Blues on Top of Blues is the fourteenth studio album by B.B. King, released in 1968 on BluesWay BLS-6011. The album peaked at number 46 on Billboard's R&B Albums chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6e985e02-a57d-3fdd-baf5-b4e3e58e48c1",
+   "titulo": "Lucille",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/1d8e727d-d2c6-406a-9193-75349f01ee07/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lucille",
+     "duracao": "10:10"
+    },
+    {
+     "n": 2,
+     "titulo": "You Move Me So",
+     "duracao": "2:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Country Girl",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "No Money, No Luck",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "I Need Your Love",
+     "duracao": "2:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Rainin’ All the Time",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m With You",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Stop Putting the Hurt on Me",
+     "duracao": "2:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Watch Yourself",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucille_%28album%29",
+   "resumo_en": "Lucille is the fifteenth album by blues artist B. B. King. It is named for his famous succession of Gibson guitars, currently the Signature ES-355.",
+   "spotify": "5aowahjEeRgbLALRPb9a2s",
+   "youtube": null
+  },
+  {
+   "id": "a0d17a0b-6ad5-46f5-8ec7-6b8a611bc0bf",
+   "titulo": "His Best – The Electric B.B. King",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/7b53251d-d03b-4732-880f-0ea9213374f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tired of Your Jive",
+     "duracao": "2:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Answer the Door",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The B.B. Jones",
+     "duracao": "2:43"
+    },
+    {
+     "n": 4,
+     "titulo": "All Over Again",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Paying the Cost to Be the Boss",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Think It Over",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "I Done Got Wise",
+     "duracao": "2:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Meet My Happiness",
+     "duracao": "2:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Sixteen",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "You Put It on Me",
+     "duracao": "2:50"
+    },
+    {
+     "n": 11,
+     "titulo": "I Don't Want You Cuttin' Off Your Hair",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/His_Best_%E2%80%93_The_Electric_B._B._King",
+   "resumo_en": "B. B. King (1925–2015) was an American blues musician whose recording career spanned 1949–2008. As with other blues contemporaries, King's material was primarily released on singles until the late 1950s–early 1960s, when long playing record albums became more popular.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e9ce30a0-3db4-3942-b205-1d2cea850c3e",
+   "titulo": "Live & Well",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/07eaa61a-4476-492f-a6bc-784e4eb160c2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Answer the Door",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Just a Little Love",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "My Mood",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Sweet Little Angel",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Please Accept My Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I Want You So Bad",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Friends",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Get Off My Back Woman",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Let's Get Down to Business",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Why I Sing the Blues",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Live_%26_Well_%28B._B._King_album%29",
+   "resumo_en": "Live & Well is a live and studio album by B. B. King, released in 1969. The side A contains five tracks recorded \"live\" at the Village Gate, in New York City, and the side B five titles recorded in 'The Hit Factory' also in New York.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "30cb3e58-162e-3939-bea1-fa01e2f18efb",
+   "titulo": "Completely Well",
+   "data": "1969-12",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/a17b7bf0-c5ba-442f-b2d9-8728f7b6bd20/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "So Excited",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "No Good",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "You're Losin' Me",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "What Happened",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Confessin' the Blues",
+     "duracao": "4:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Key to My Kingdom",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Cryin' Won't Help You Now",
+     "duracao": "6:30"
+    },
+    {
+     "n": 8,
+     "titulo": "You're Mean",
+     "duracao": "9:39"
+    },
+    {
+     "n": 9,
+     "titulo": "The Thrill is Gone",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Completely_Well",
+   "resumo_en": "Completely Well is a 1969 studio album by blues guitarist B. B. King. It is notable for the inclusion of \"The Thrill Is Gone\", which became a hit on both the R&B/soul and pop charts and which earned him a Grammy Award for Best Male R&B Vocal Performance in 1970.\nThe album was released in the US as an LP record in 1969 and as a CD in 1987; in the UK only as an LP. San Francisco critic Ralph J. Gleason's liner notes are mostly a profile of King, with only a passing reference to the actual music contained in King`s commercial breakthrough album.",
+   "spotify": "4LTaOkr8ELqCuQeYS69tCp",
+   "youtube": null
+  },
+  {
+   "id": "d6c097b1-3061-3f6a-9c1a-1cd0798210e2",
+   "titulo": "Indianola Mississippi Seeds",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/973e387d-b8e3-4392-a02c-565b774f78f3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nobody Loves Me but My Mother",
+     "duracao": "1:28"
+    },
+    {
+     "n": 2,
+     "titulo": "You're Still My Woman",
+     "duracao": "6:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Ask Me No Questions",
+     "duracao": "3:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Until' I'm Dead and Cold",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "King's Special",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain't Gonna Worry My Life Anymore",
+     "duracao": "5:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Chains and Things",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Go Underground",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Hummingbird",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Indianola_Mississippi_Seeds",
+   "resumo_en": "Indianola Mississippi Seeds is B. B. King's eighteenth studio album. It was released in October 1970 on ABC Records on LP and May 1989 on MCA Records on CD. On this album B. B. King mixed elements of blues and rock music. Producer Bill Szymczyk decided to follow up on the success of the hit \"The Thrill Is Gone\" by matching King with a musical all-star cast. The result was one of King's most critically acclaimed albums and one of the most highly regarded blues crossover albums of all time.\nThe album appeared on several of Billboard's album charts in 1970, reaching number 26 on the Pop album chart, number seven on the Jazz album chart and eight on Billboard's listing for \"Black Albums.\"  The album also generated several hit singles, \"Chains and Things\", King's own \"Ask Me No Questions\" and Leon Russell's \"Hummingbird\".\nKing himself, also, views the album as one of his greatest achievements.  When asked about his best work, King has said, \"I know the critics always mention Live & Well or Live at the Regal, but I think that Indianola Mississippi Seeds was the best album that I've done artistically.\"",
+   "spotify": "1NgGj5ECcDELHjoQRX2P1l",
+   "youtube": null
+  },
+  {
+   "id": "45c1efd3-f82c-37c2-a169-07901d91e7e4",
+   "titulo": "B.B. King in London",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/990c4d64-babe-3b95-90bd-a81cff85a13c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caldonia",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Shadows",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Alexis' Boogie",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "We Can't Agree",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Ghetto Woman",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Wet Hayshark",
+     "duracao": "2:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Part-Time Love",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Power of the Blues",
+     "duracao": "2:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Ain't Nobody Home",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/B.B._King_in_London",
+   "resumo_en": "B.B. King in London is a studio album, the nineteenth, by B.B. King, recorded in London in 1971. He is accompanied by US session musicians and various British rock- and R&B musicians, including Ringo Starr, Alexis Korner and Gary Wright, as well as members of Spooky Tooth and Humble Pie, Greg Ridley, Steve Marriott, and Jerry Shirley.\nThe album was released in the United Kingdom on November 19, 1971, in order to coincide with the first date of King's tour of the country.\nJohn Lennon had announced that he would perform on some of the tracks, but ended up having no involvement with the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5ac06d89-e48b-37e8-b04d-f548a4c1bebc",
+   "titulo": "Guess Who",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/4077fa5d-40eb-444f-8fd0-ac88bd47d07a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Summer in the City",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Can't Please You",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Any Other Way",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "You Don't Know Nothin' About Love",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Found What I Need",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Neighborhood Affair",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "It Takes a Young Girl",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Better Lovin' Man",
+     "duracao": "4:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Guess Who",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Shouldn't Have Left Me",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Five Long Years",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Guess_Who_%28B._B._King_album%29",
+   "resumo_en": "Guess Who is a studio album by B. B. King. It was released in 1972 by ABC Records.\nAs often with King, several of the tracks are re-recordings of songs he had recorded before. \"Any Other Way\" had appeared with a different arrangement as the b-side of \"Help the Poor\" in 1964. \"Neighborhood Affair\" originally dates back to 1953 and was the b-side of \"Please Hurry Home\". He would re-record the song again in 2003 for the album Reflections. The title track \"Guess Who\" had appeared on his first ABC album, Mr. Blues, in 1963. It went on to become a live staple, appearing on Now Appearing at Ole Miss, Live at the Apollo and Live at the Royal Albert Hall 2011, among others. \"You Shouldn't Have Left\" was first recorded in 1959 and released on (The Soul of) B.B. King in 1963. A 1965 recording of \"Five Long Years\" was first released by Kent on the album The Jungle.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ffa4449f-a349-4b9c-b5f5-5c13e77393cc",
+   "titulo": "L.A. Midnight",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/35f25021-3994-429d-9809-e92d21c446fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got Some Help I Don’t Need",
+     "duracao": "5:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Help the Poor",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Can’t You Hear Me Talking to You?",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Midnight",
+     "duracao": "8:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Sweet Sixteen",
+     "duracao": "7:03"
+    },
+    {
+     "n": 6,
+     "titulo": "(I Believe) I’ve Been Blue Too Long",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Lucille’s Granny",
+     "duracao": "8:02"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/L.A._Midnight",
+   "resumo_en": "L.A. Midnight is the twentieth studio electric blues album by B.B. King released in 1972. It features two extended guitar jams with fellow guitarists Jesse Ed Davis and Joe Walsh (\"Midnight\" and \"Lucille's Granny\"). It also features Taj Mahal on harmonica and guitar. (\"Can't You Hear Me Talking to You\" and \"I've Been Blue Too Long\" respectively). \"Can't You Hear Me Talking to You\" also features Davis on guitar.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5fee9c91-5f52-43fd-944d-c9d9ff79fcad",
+   "titulo": "To Know You Is to Love You",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/abd3775f-c177-4004-ab9c-9c27741baea5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Like to Live the Love",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Respect Yourself",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Are You",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Love",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can’t Leave",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "To Know You Is to Love You",
+     "duracao": "8:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Oh to Me",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Thank You for Loving the Blues",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/To_Know_You_Is_to_Love_You_%28album%29",
+   "resumo_en": "To Know You Is to Love You is an electric blues album by B. B. King, released in 1973. Produced by Dave Crawford in Philadelphia, it includes the participation of Stevie Wonder, the Memphis Horns, and members of MFSB, the house band for Philadelphia International Records in the early and mid-1970s.",
+   "spotify": "4NNfz5aVtfQPh2ZAaBzwur",
+   "youtube": null
+  },
+  {
+   "id": "2525159e-646a-3ce4-8807-4caba396c86e",
+   "titulo": "Friends",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/36384036-aa58-4872-969e-fa51fe858fcd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Friends",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "I Got Them Blues",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Baby I'm Yours",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Up At 5am",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Philadelphia",
+     "duracao": "5:56"
+    },
+    {
+     "n": 6,
+     "titulo": "When Everything Else Is Gone",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "My Song",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a27053ec-9d35-46e7-921d-fe5936ecb6b7",
+   "titulo": "King Size",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/ebe73ae9-aade-41c9-b112-eae67c8633f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't You Lie to Me",
+     "duracao": "6:05"
+    },
+    {
+     "n": 2,
+     "titulo": "I Wonder Why",
+     "duracao": "5:08"
+    },
+    {
+     "n": 3,
+     "titulo": "I Just Want to Make Love to You",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "You Lovin' Turns Me On",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Slow and Easy",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Got My Mojo Working",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Walkin' in the Sun",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Mother Fuyer",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "The Same Love That Made Me Laugh",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "It's Just a Matter of Time",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/King_Size_%28B._B._King_album%29",
+   "resumo_en": "King Size is a studio album by the American musician B. B. King, released in 1977.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6a86ef97-b745-30c4-bd11-a09d288aba67",
+   "titulo": "Midnight Believer",
+   "data": "1978-02-16",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/5505c776-0c73-4c8d-9178-0b53f112a70f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When It All Comes Down (I’ll Still Be Around)",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Midnight Believer",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "I Just Can’t Leave Your Love Alone",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold On (I Feel Our Love Is Changing)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Never Make a Move Too Soon",
+     "duracao": "5:35"
+    },
+    {
+     "n": 6,
+     "titulo": "A World Full of Strangers",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Let Me Make You Cry a Little Longer",
+     "duracao": "5:47"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Midnight_Believer",
+   "resumo_en": "Midnight Believer is an album by the American musician B.B. King, released in 1978 on ABC Records. The album reached No. 27 on the Billboard Top Soul Albums chart.",
+   "spotify": "2EZl1akpBAY1Ytyh5eX6vm",
+   "youtube": null
+  },
+  {
+   "id": "20954f2d-4eef-3a9a-b86e-7aef14f2248e",
+   "titulo": "Take It Home",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/79691913-440b-44d3-bf15-39dfe89109ae/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Better Not Look Down",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Same Old Story (Same Old Song)",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Happy Birthday Blues",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "I've Always Been Lonely",
+     "duracao": "5:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Secondhand Woman",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Tonight I'm Gonna Make You a Star",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "The Beginning of the End",
+     "duracao": "2:21"
+    },
+    {
+     "n": 8,
+     "titulo": "A Story Everybody Knows",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Take It Home",
+     "duracao": "3:07"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.8,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Take_It_Home_%28B._B._King_album%29",
+   "resumo_en": "Take It Home is a studio album by the American musician B.B. King, released in 1979. As with his previous album, Midnight Believer, members of the fusion band the Crusaders participated in the recording sessions.",
+   "spotify": "0GphGl8zU81LAb4xrRkpnH",
+   "youtube": null
+  },
+  {
+   "id": "a96a8598-dc47-3634-8954-7392221e2428",
+   "titulo": "There Must Be a Better World Somewhere",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/0cc1c0d4-6dd7-4320-b1cc-103e8e675f9b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Life Ain’t Nothing but a Party",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Born Again Human",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "There Must Be a Better World Somewhere",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Victim",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "More, More, More",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "You’re Going With Me",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/There_Must_Be_a_Better_World_Somewhere",
+   "resumo_en": "There Must Be a Better World Somewhere is a studio album by B. B. King, released in 1981. It was awarded the Grammy Award for Best Ethnic or Traditional Recording the following year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "374ee207-7712-4ee2-8593-f5db5d89e78e",
+   "titulo": "Love Me Tender",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/b604f350-e143-4953-bbae-d375eea4a873/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One of Those Nights",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Me Tender",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Change on Me",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "(I'd Be) A Legend in My Time",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "You've Always Got the Blues",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Nightlife / Please Send Me Someone to Love",
+     "duracao": "4:31"
+    },
+    {
+     "n": 7,
+     "titulo": "You and Me, Me and You",
+     "duracao": "3:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Since I Met You Baby",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Time Is a Thief",
+     "duracao": "5:25"
+    },
+    {
+     "n": 10,
+     "titulo": "A World I Never Made",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0c782ad4-20ea-3697-8a2a-d6bf8365e79d",
+   "titulo": "Blues ’n’ Jazz",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/979dbc6d-1aac-447d-9be1-6fe5bf7db68b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Inflation Blues",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Broken Heart",
+     "duracao": "2:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Sell My Monkey",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Heed My Warning",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Teardrops From My Eyes",
+     "duracao": "5:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Rainbow Riot",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Darlin’ You Know I Love You",
+     "duracao": "4:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Make Love to Me",
+     "duracao": "4:18"
+    },
+    {
+     "n": 9,
+     "titulo": "I Can’t Let You Go",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_%27N%27_Jazz",
+   "resumo_en": "Blues 'N' Jazz is the 29th album by B.B. King released in 1983. It was recorded on his 58th birthday, September 16, 1983.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0d7df01c-3b3b-3b8f-867f-5a242b057510",
+   "titulo": "Six Silver Strings",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/7214d8c0-b009-4ebe-8c62-bda1a838f030/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Six Silver Strings",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Big Boss Man",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "In the Midnight Hour",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Into the Night",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "My Lucille",
+     "duracao": "3:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Memory Lane",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "My Guitar Sings the Blues",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Double Trouble",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.9,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Six_Silver_Strings",
+   "resumo_en": "Six Silver Strings is the thirtieth studio blues album by B.B. King released in 1985. Promoted as a King's 50th album, the production is split between five David Crawford-produced tracks recorded in Miami with session musicians, and three tracks co-produced by filmmaker John Landis and his Into the Night soundtrack colleague Ira Newborn.\nIn a retrospective review AllMusic criticized the lackluster \"pop rock\" work shown in the Crawford-produced tracks, with uninspired performances from King, but praised the tunes from the Landis/Newborn session, calling \"My Lucille\" an \"underrated signature classic.\" \"My Lucille\" was used in the film Into the Night in a scene where the lead male character walks into a bar.",
+   "spotify": "47hjubIcoy9BQCu7bgtfJm",
+   "youtube": null
+  },
+  {
+   "id": "20ed9bbd-05c4-3e1d-931f-e49d9aa3ab80",
+   "titulo": "King of the Blues: 1989",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/5a50d9df-a8f7-4612-b7dc-71962ec08e07/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(You've Become a) Habit to Me",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Drowning in the Sea of Love",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Can't Get Enough",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Standing on the Edge",
+     "duracao": "5:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Go On",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Let's Straighten It Out",
+     "duracao": "5:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Change in Your Lovin'",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Undercover Man",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Lay Another Log on the Fire",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Business With My Baby Tonight",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Take Off Your Shoes",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "07f2d7e5-3a62-3fe7-995e-399f6f7d3b07",
+   "titulo": "There Is Always One More Time",
+   "data": "1991-10-01",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/5cf7feb3-0f3b-481c-a7a9-d484ed532f2f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m Moving On",
+     "duracao": "4:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Back in L.A.",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "The Blues Come over Me",
+     "duracao": "5:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Fool Me Once",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "The Lowdown",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Mean and Evil",
+     "duracao": "4:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Something Up My Sleeve",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Roll, Roll, Roll",
+     "duracao": "5:58"
+    },
+    {
+     "n": 9,
+     "titulo": "There Is Always One More Time",
+     "duracao": "8:24"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.9,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/There_Is_Always_One_More_Time",
+   "resumo_en": "There Is Always One More Time is an album by the American musician B.B. King, released in 1991. It is dedicated to Doc Pomus, who cowrote the title song. The first single was \"Back in L.A.\"\nKing wrote in the liner notes that There Is Always One More Time was his best album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3429ab19-a807-3776-8080-2a51ccd20bbd",
+   "titulo": "Blues Summit",
+   "data": "1993-06-22",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/e33ff82b-b11d-45ef-b887-c405f842851d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Playin' With My Friends",
+     "duracao": "5:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Since I Met You Baby",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "I Pity the Fool",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "You Shook Me",
+     "duracao": "4:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Something You Got",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "There's Something on Your Mind",
+     "duracao": "6:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Little by Little",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Call It Stormy Monday",
+     "duracao": "7:18"
+    },
+    {
+     "n": 9,
+     "titulo": "You're the Boss",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "We're Gonna Make It",
+     "duracao": "3:52"
+    },
+    {
+     "n": 11,
+     "titulo": "I Gotta Move Out of This Neighborhood/Nobody Loves Me but My Mother",
+     "duracao": "8:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Everybody's Had the Blues",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_Summit",
+   "resumo_en": "Blues Summit is the thirty-third studio album by B.B. King released in 1993 through the MCA label. The album reached peak positions of number 182 on the Billboard 200, and number 64 on Billboard's R&B Albums chart. The album won a Grammy Award in 1994 for Best Traditional Blues Album.\nIt is the first of three duet albums in King's studio album discography. Unlike Deuces Wild and 80, all the guests come from the blues and R&B scene. The only song which is not a duet is the original \"I Gotta Move Out Of This Neighborhood\", which segues into \"Nobody Loves Me But My Mother\" (originally from Indianola Mississippi Seeds). All songs feature the B.B. King band of the era except for \"Playin' With My Friends\" (the only other new song on the album) and \"You Shook Me\", where the accompaniment comes from the Robert Cray Band, plus \"Everybody's Had the Blues\" featuring Joe Louis Walker's band.\nA longer version of \"Call It Stormy Monday\" with the full ending and lacking the horn overdubs of the album version later appeared on the compilation album B.B. King: Anthology.",
+   "spotify": "32jdrc0ij8nZngilndaKfZ",
+   "youtube": null
+  },
+  {
+   "id": "a5576d94-df54-32d1-b0a5-4ae230c75c20",
+   "titulo": "Heart to Heart",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/8baaad71-4ec3-47e0-9914-61f2777e646c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No One Ever Tells You",
+     "duracao": "4:58"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can't Stop Loving You",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "You Don't Know Me",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "It Had to Be You",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "I'm Putting All My Eggs in One Basket",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Glory of Love",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Try a Little Tenderness",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Spirit in the Dark",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Freedom",
+     "duracao": "4:45"
+    },
+    {
+     "n": 10,
+     "titulo": "At Last",
+     "duracao": "5:13"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Heart_to_Heart_%28Diane_Schuur_and_B._B._King_album%29",
+   "resumo_en": "Heart to Heart is an album by Diane Schuur and B.B. King.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "478bc1b7-07e0-4d48-b7e2-0a12f0639a84",
+   "titulo": "John Henry",
+   "data": "1994-02-15",
+   "ano": "1994",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "John Henry",
+     "duracao": "22:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Steel Drivin' Man",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "A Natural Man",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Harmony of Hammers",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Singin' and Hammerin'",
+     "duracao": "1:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Man Vs. Machine",
+     "duracao": "5:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Poundin' Stakes to Kingdom Come",
+     "duracao": "3:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Deep Sleep Blues",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8d729d2e-77a2-35a0-885a-596d47cfd8bf",
+   "titulo": "Deuces Wild",
+   "data": "1997-11-04",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/288d21c3-f69a-4167-8cb4-f20a496b94fc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If You Love Me",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "5:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock Me Baby",
+     "duracao": "6:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Please Send Me Someone to Love",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby I Love You",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain’t Nobody Home",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Pauly’s Birthday Boogie",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "There Must Be a Better World Somewhere",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Confessin’ the Blues",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Hummingbird",
+     "duracao": "4:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Bring It Home to Me",
+     "duracao": "3:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Paying the Cost to Be the Boss",
+     "duracao": "3:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Let the Good Times Roll",
+     "duracao": "5:12"
+    },
+    {
+     "n": 14,
+     "titulo": "Dangerous Mood",
+     "duracao": "4:54"
+    },
+    {
+     "n": 15,
+     "titulo": "Keep It Coming",
+     "duracao": "3:56"
+    },
+    {
+     "n": 16,
+     "titulo": "Cryin’ Won’t Help You Babe",
+     "duracao": "3:54"
+    },
+    {
+     "n": 17,
+     "titulo": "Night Life",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.8,
+    "fontes": 3
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Deuces_Wild_%28B._B._King_album%29",
+   "resumo_en": "Deuces Wild is the thirty-fifth studio album by B.B. King released on November 4, 1997. Every song on the album features a second famous musician.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5a4f074f-2ed7-3e1b-b450-3ebfe25b6709",
+   "titulo": "Blues on the Bayou",
+   "data": "1998-10-20",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/fbf0890e-0b73-40c9-9d02-3f2aeefe4994/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blues Boys Tune",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Case of Love",
+     "duracao": "5:30"
+    },
+    {
+     "n": 3,
+     "titulo": "I’ll Survive",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Mean Ole’ World",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Blues Man",
+     "duracao": "5:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Broken Promise",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Darlin’ What Happened",
+     "duracao": "5:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Shake It Up and Go",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Blues We Like",
+     "duracao": "5:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Good Man Gone Bad",
+     "duracao": "3:22"
+    },
+    {
+     "n": 11,
+     "titulo": "If I Lost You",
+     "duracao": "4:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Tell Me Baby",
+     "duracao": "3:26"
+    },
+    {
+     "n": 13,
+     "titulo": "I Got Some Outside Help I Don’t Need",
+     "duracao": "4:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Blues in \"G\"",
+     "duracao": "3:20"
+    },
+    {
+     "n": 15,
+     "titulo": "If That Ain’t It I Quit",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.1,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_on_the_Bayou",
+   "resumo_en": "Blues on the Bayou is the thirty sixth studio album by B.B. King, released in 1998.\nIn the CD liner notes, B.B. King writes: \"Of the many records Lucille and I have had the pleasure of recording over the years, this one is especially close to my heart. It's also one of the most relaxed and, for me, satisfying [...] No one was telling us what to do. No one needed to tell us what to do.\" He adds that he considers the band playing on this album as his best ever and that he got to the studio with the idea of keeping the music simple (\"I've felt the urge to go back to basics.\"). With this state of mind, the record was cut in four days: \"Found some old B. B. King songs. Wrote some new ones. [...] All live, all real. No overdubs, no high-tech tricks. Just basic blues.\"\nThe album won the 2000 Grammy Award for Best Traditional Blues Album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e6fd2fb1-f0bd-3959-923f-9c0b3f1b0364",
+   "titulo": "Let the Good Times Roll: The Music of Louis Jordan",
+   "data": "1999-10-05",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/f250281f-1c2d-4658-bdd8-b331e2557f5b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ain't Nobody Here but Us Chickens",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Is You Is, or Is You Ain't (My Baby)",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Beware, Brother, Beware",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Somebody Done Changed the Lock on My Door",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Ain't That Just Like a Woman",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Cho Choo Ch'Boogie",
+     "duracao": "2:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Buzz Me",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Early in the Mornin'",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "I'm Gonna Move to the Outskirts of Town",
+     "duracao": "4:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Jack, You're Dead",
+     "duracao": "2:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Knock Me a Kiss",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Let the Good Times Roll",
+     "duracao": "2:39"
+    },
+    {
+     "n": 13,
+     "titulo": "Caldonia",
+     "duracao": "2:17"
+    },
+    {
+     "n": 14,
+     "titulo": "It's a Great, Great Pleasure",
+     "duracao": "2:39"
+    },
+    {
+     "n": 15,
+     "titulo": "Rusty Dusty Blues (Mama Mama Blues)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 16,
+     "titulo": "Sure Had a Wonderful Time Last Night",
+     "duracao": "3:07"
+    },
+    {
+     "n": 17,
+     "titulo": "Saturday Night Fish Fry",
+     "duracao": "4:29"
+    },
+    {
+     "n": 18,
+     "titulo": "Nobody Knows You When You're Down and Out",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Let_the_Good_Times_Roll_%28album%29",
+   "resumo_en": "Let the Good Times Roll: The Music of Louis Jordan is the thirty seventh studio album by B. B. King, released in 1999. It is a tribute album to  jazz saxophonist and singer Louis Jordan, and is made up entirely of covers of songs written or performed by Jordan. The album was released in 1999 on MCA Records.\nAs well as King, the album features other jazz and blues musicians including Dr. John, Earl Palmer and members of Ray Charles' band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1c712d66-5529-32c0-81d7-9a4b2a17c036",
+   "titulo": "Makin’ Love Is Good for You",
+   "data": "2000-04-25",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/14b5cc50-ffe9-479e-9edf-042037973110/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got to Leave This Woman",
+     "duracao": "3:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Since I Fell for You",
+     "duracao": "5:53"
+    },
+    {
+     "n": 3,
+     "titulo": "I Know",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Peace of Mind",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Monday Woman",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain’t No One Like My Baby",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Makin’ Love Is Good for You",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Go No Further",
+     "duracao": "4:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Actions Speak Louder Than Words",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "What You Bet",
+     "duracao": "3:49"
+    },
+    {
+     "n": 11,
+     "titulo": "You’re on Top",
+     "duracao": "3:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Too Good to You Baby",
+     "duracao": "3:15"
+    },
+    {
+     "n": 13,
+     "titulo": "I’m in the Wrong Business",
+     "duracao": "4:37"
+    },
+    {
+     "n": 14,
+     "titulo": "She’s My Baby",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Makin%27_Love_Is_Good_for_You",
+   "resumo_en": "Makin' Love Is Good for You is a 2000 album by American blues musician B. B. King, his thirty-eighth studio album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "866529e9-0ca2-35fa-8c6f-65ec1424ff0e",
+   "titulo": "Riding With the King",
+   "data": "2000-06-07",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/65c96b7f-eae7-4f07-9879-92d937b18b38/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Riding With the King",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Ten Long Years",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Key to the Highway",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Marry You",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Three O’Clock Blues",
+     "duracao": "8:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Help the Poor",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "I Wanna Be",
+     "duracao": "4:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Worried Life Blues",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Days of Old",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "When My Heart Beats Like a Hammer",
+     "duracao": "7:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Hold On I’m Coming",
+     "duracao": "6:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 7.8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Riding_with_the_King_%28B._B._King_and_Eric_Clapton_album%29",
+   "resumo_en": "Riding with the King is a collaborative album by B.B. King and Eric Clapton that was released in 2000. It was their first collaborative album and won the 2001 Grammy Award for Best Traditional Blues Album. The album reached number one on Billboard's Top Blues Albums and was certified 2× Platinum in the United States. Riding with the King was also released on a DVD-Audio in higher resolution and with a 5.1 surround sound mix in 2000.\nThe album was generally well received by reviewers, although some felt that it could have been better, and that the sound on the CD was too polished for a blues album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "74e0a85f-51ab-380e-9dff-17486c5790e2",
+   "titulo": "A Christmas Celebration of Hope",
+   "data": "2001-11-06",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/47b288f1-9dcd-4c3e-8325-e60650b91d2b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Please Come Home for Christmas",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Lonesome Christmas",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Back Door Santa",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Christmas in Heaven",
+     "duracao": "4:49"
+    },
+    {
+     "n": 5,
+     "titulo": "I'll Be Home for Christmas",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "To Someone That I Love",
+     "duracao": "5:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Christmas Celebration",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Merry Christmas Baby",
+     "duracao": "3:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Christmas Love",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Blue Decorations",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Christmas Comes but Once a Year",
+     "duracao": "4:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Bringing in a Brand New Year",
+     "duracao": "2:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Auld Lang Syne",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Christmas_Celebration_of_Hope",
+   "resumo_en": "A Christmas Celebration of Hope is the thirty ninth studio album by American blues guitarist and singer-songwriter B.B. King released in November 2001 through MCA Records. It is a holiday album.\nIn the United States, A Christmas Celebration of Hope reached peak positions of number 151 on the Billboard 200, number one on Billboard's Top Blues Albums chart and number 21 on the Top Holiday Albums chart. The album earned King two Grammy Awards at the 45th Grammy Awards (2003): he, Anthony Daigle and John Holbrook were presented the award for Best Traditional Blues Album and the track \"Auld Lang Syne\" earned King the award for Best Pop Instrumental Performance.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "68e8d834-a5b7-3105-8fb4-40273d47b5a3",
+   "titulo": "Reflections",
+   "data": "2003-06-10",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/1a15b1b7-cfc0-4731-88da-cda8e6de84ec/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Exactly Like You",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "On My Word of Honor",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "I Want a Little Girl",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "I'll String Along With You",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "I Need You",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "A Mother's Love",
+     "duracao": "2:57"
+    },
+    {
+     "n": 7,
+     "titulo": "(I Love You) For Sentimental Reasons",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Neighborhood Affair",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Tomorrow Night",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "There I've Said It Again",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Always on My Mind",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Cross My Heart",
+     "duracao": "4:28"
+    },
+    {
+     "n": 13,
+     "titulo": "What a Wonderful World",
+     "duracao": "3:56"
+    },
+    {
+     "n": 14,
+     "titulo": "Exactly Like You (5.1 mix)",
+     "duracao": "3:19"
+    },
+    {
+     "n": 15,
+     "titulo": "On My Word of Honor (5.1 mix)",
+     "duracao": "3:20"
+    },
+    {
+     "n": 16,
+     "titulo": "I Want a Little Girl (5.1 mix)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 17,
+     "titulo": "I'll String Along With You (5.1 mix)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 18,
+     "titulo": "I Need You (5.1 mix)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 19,
+     "titulo": "A Mother's Love (5.1 mix)",
+     "duracao": "2:58"
+    },
+    {
+     "n": 20,
+     "titulo": "(I Love You) For Sentimental Reasons (5.1 mix)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 21,
+     "titulo": "Neighborhood Affair (5.1 mix)",
+     "duracao": "4:26"
+    },
+    {
+     "n": 22,
+     "titulo": "Tomorrow Night (5.1 mix)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 23,
+     "titulo": "There I've Said It Again (5.1 mix)",
+     "duracao": "3:27"
+    },
+    {
+     "n": 24,
+     "titulo": "Always on My Mind (5.1 mix)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 25,
+     "titulo": "Cross My Heart (5.1 mix)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 26,
+     "titulo": "What a Wonderful World (5.1 mix)",
+     "duracao": "3:57"
+    }
+   ],
+   "duracao_min": 93,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Reflections_%28B._B._King_album%29",
+   "resumo_en": "Reflections is an album by B.B. King, released in 2003. It pays tribute to the big band sound of King's youth.",
+   "spotify": "4U9aaU02DP4rhm9PfAl4Dx",
+   "youtube": null
+  },
+  {
+   "id": "e2c41706-77ee-4693-8865-23edfaeb6efd",
+   "titulo": "Bad Case of Love",
+   "data": "2005-01-01",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/c0f9c27e-e90b-47c8-a8c3-91bcd73cc25c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock Me Baby",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Bad Case of Love",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Ten Long Years",
+     "duracao": "2:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Everyday I Have the Blues",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "You Know I Love You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "3 O'Clock Blues",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "I Had a Woman",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "You Upsets Me Baby",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Woke Up This Morning",
+     "duracao": "2:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Sneakin' Around With You",
+     "duracao": "3:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Days of Old",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ee856d4b-bbc4-3bb6-8c16-397cf4fea00a",
+   "titulo": "80",
+   "data": "2005-09-13",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/8b813553-78ca-49e4-9b06-9b3508a21c9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Early in the Morning",
+     "duracao": "4:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Tired of Your Jive",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "5:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Need Your Love So Bad",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Ain’t Nobody Home",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Hummingbird",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "All Over Again",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Drivin’ Wheel",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "There Must Be a Better World Somewhere",
+     "duracao": "6:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Never Make Your Move Too Soon",
+     "duracao": "4:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Funny How Time Slips Away",
+     "duracao": "4:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Rock This House",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ec58aefc-eb23-4468-b541-0717888e0f1b",
+   "titulo": "Fillemore East NYC June 19,1971",
+   "data": "2008",
+   "ano": "2008",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let Me Love You",
+     "duracao": "6:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Walkin' Doctor Bill",
+     "duracao": "6:58"
+    },
+    {
+     "n": 3,
+     "titulo": "You're So Fine",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Aint That Just Like a Woman",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Instrumental",
+     "duracao": "1:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Instrumental",
+     "duracao": "1:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Please Accept My Love",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "5:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Instrumental",
+     "duracao": "1:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Sixteen",
+     "duracao": "6:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Instrumental",
+     "duracao": "4:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Every Day I Have the Blues",
+     "duracao": "2:19"
+    },
+    {
+     "n": 13,
+     "titulo": "How Blue Can You Get",
+     "duracao": "6:19"
+    },
+    {
+     "n": 14,
+     "titulo": "Instrumental",
+     "duracao": "3:46"
+    },
+    {
+     "n": 15,
+     "titulo": "A Whole Lotta Lovin'",
+     "duracao": "3:35"
+    },
+    {
+     "n": 16,
+     "titulo": "Nobody Loves Me but My Mother",
+     "duracao": "5:22"
+    },
+    {
+     "n": 17,
+     "titulo": "Humminigbird",
+     "duracao": "4:23"
+    },
+    {
+     "n": 18,
+     "titulo": "Instrumental",
+     "duracao": "3:38"
+    },
+    {
+     "n": 19,
+     "titulo": "Intros",
+     "duracao": "1:46"
+    },
+    {
+     "n": 20,
+     "titulo": "Sweet Sixteen",
+     "duracao": "3:44"
+    },
+    {
+     "n": 21,
+     "titulo": "Instrumental",
+     "duracao": "2:39"
+    },
+    {
+     "n": 22,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "5:39"
+    },
+    {
+     "n": 23,
+     "titulo": "Instrumental",
+     "duracao": "1:39"
+    },
+    {
+     "n": 24,
+     "titulo": "Crowd",
+     "duracao": "0:33"
+    }
+   ],
+   "duracao_min": 91,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c9a98028-1023-3a1b-bd97-10c8f2ac8b92",
+   "titulo": "One Kind Favor",
+   "data": "2008-08-26",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/b9b694b0-27b2-35e3-9fd4-60d77867abe3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "See That My Grave Is Kept Clean",
+     "duracao": "4:49"
+    },
+    {
+     "n": 2,
+     "titulo": "I Get So Weary",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Get These Blues Off Me",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "How Many More Years",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Waiting for Your Call",
+     "duracao": "6:02"
+    },
+    {
+     "n": 6,
+     "titulo": "My Love Is Down",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "The World Gone Wrong",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Blues Before Sunrise",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Midnight Blues",
+     "duracao": "3:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Backwater Blues",
+     "duracao": "7:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Sitting on Top of the World",
+     "duracao": "3:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Tomorrow Night",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 83,
+    "media": 9.0,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/One_Kind_Favor",
+   "resumo_en": "One Kind Favor is B.B. King's forty-second and final studio album. Produced by T Bone Burnett, it was released on August 26, 2008, by Geffen Records.\nThe album won the Grammy Award for Best Traditional Blues Album at the 51st Grammy Awards.",
+   "spotify": "4wFZPBgX8pVWOfP3XswyOi",
+   "youtube": null
+  },
+  {
+   "id": "7d329283-0471-430b-b959-cf9768b9b142",
+   "titulo": "The Life of Riley: The Soundtrack",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/178d692d-943b-4b1d-aa9a-4156a3ecc645/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walking Dr. Bill (live on “GTK” Australia, March 18, 1974)",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Nobody Loves Me but My Mother",
+     "duracao": "1:27"
+    },
+    {
+     "n": 3,
+     "titulo": "I’ll Survive",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "To Know You Is to Love You",
+     "duracao": "8:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Paying the Cost to Be the Boss",
+     "duracao": "2:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Miss Martha King",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "3 O’Clock Blues",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "You Know I Love You",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Little Angel",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Catfish Blues (Fishin’ After Me)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Every Day I Have the Blues (recorded live at the Regal Theatre)",
+     "duracao": "2:38"
+    },
+    {
+     "n": 12,
+     "titulo": "How Blue Can You Get (recorded live at the Regal Theatre)",
+     "duracao": "3:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Chains and Things",
+     "duracao": "4:55"
+    },
+    {
+     "n": 14,
+     "titulo": "The Thrill Is Gone",
+     "duracao": "5:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Hummingbird",
+     "duracao": "4:38"
+    },
+    {
+     "n": 16,
+     "titulo": "Caldonia",
+     "duracao": "4:00"
+    },
+    {
+     "n": 17,
+     "titulo": "Sweet Sixteen (live in Africa, 1974)",
+     "duracao": "6:11"
+    },
+    {
+     "n": 18,
+     "titulo": "Hold On (I Feel Our Love Is Changing) (album version)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 19,
+     "titulo": "When Love Comes to Town",
+     "duracao": "4:19"
+    },
+    {
+     "n": 20,
+     "titulo": "Riding With the King",
+     "duracao": "4:25"
+    },
+    {
+     "n": 21,
+     "titulo": "Messy but Good",
+     "duracao": "2:36"
+    },
+    {
+     "n": 22,
+     "titulo": "Worried Dream",
+     "duracao": "2:55"
+    },
+    {
+     "n": 23,
+     "titulo": "Precious Lord",
+     "duracao": "3:23"
+    },
+    {
+     "n": 24,
+     "titulo": "On My Word of Honor",
+     "duracao": "2:56"
+    },
+    {
+     "n": 25,
+     "titulo": "Tired of Your Jive (single version)",
+     "duracao": "2:11"
+    },
+    {
+     "n": 26,
+     "titulo": "Think It Over (single version)",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 97,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

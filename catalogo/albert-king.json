@@ -1,0 +1,1515 @@
+{
+ "id": "albert-king",
+ "nome": "Albert King",
+ "cena": "Blues essencial",
+ "mbid": "10f89195-3af1-46f5-aa36-504aa3309f5a",
+ "wikidata": "Q44809",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1923",
+ "fim": "1992",
+ "ativa": false,
+ "generos": [
+  "blues",
+  "electric blues",
+  "soul blues"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Albert_King_1978.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Albert_King",
+ "resumo_pt": "Albert King (Indianola, 25 de abril de 1923 — Memphis, 21 de dezembro de 1992) foi um influente guitarrista e cantor americano de blues. Foi considerado o 13º maior guitarrista de todos os tempos pela revista norte-americana Rolling Stone.",
+ "resumo_en": "Albert King (né Nelson; April 25, 1923 – December 21, 1992) was an American guitarist and singer, who is often regarded as one of the greatest and most influential blues guitarists ever. He is perhaps best known for his popular and influential album Born Under a Bad Sign (1967) and its title track.  B. B. King, Freddie King, and he, all unrelated, were known as the \"Three Kings of the Blues\". The left-handed Albert King was known for his \"deep, dramatic sound that was widely imitated by both blues and rock guitarists\".\nHe was once nicknamed the \"Velvet Bulldozer\" because of his smooth singing and large size; he stood taller than average, with sources reporting 6 ft 4 in (1.93 m) or 6 ft 7 in (2.01 m), and weighed 250 lb (110 kg), and also because he drove a bulldozer in one of his day jobs early in his career.\nKing was inducted into the Blues Hall of Fame in 1983. He was posthumously inducted into the Rock and Roll Hall of Fame in 2013. In 2023, he was ranked number 22 on Rolling Stone's 250 Greatest Guitarists of All Time.",
+ "albuns": [
+  {
+   "id": "62cc8243-09a3-3b64-872f-7687317a6ae6",
+   "titulo": "The Big Blues",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/39d30881-eb69-431a-aada-394c5c7482a2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let's Have a Natural Ball",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "What Can I Do to Change Your Mind?",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "I Get Evil",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Had You Told It Like It Was (It Wouldn't Be Like It)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 5,
+     "titulo": "This Morning",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "I Walked All Night Long",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Throw Your Love on Me So Strong",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Travelin' to California",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "I've Made Nights by Myself",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "This Funny Feeling",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Ooh-Ee Baby",
+     "duracao": "3:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Dyna Flow",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Big_Blues",
+   "resumo_en": "The Big Blues is an album by Albert King, released by King Records in 1963. It is his first album and the only one before he signed with Stax Records, where he would record most albums during his career. The album was later reissued under the title Travelin' to California.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "022e4221-f872-39e2-bac5-d924c849a52d",
+   "titulo": "Born Under a Bad Sign",
+   "data": "1967-08",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/9f9ec056-1613-4f5d-9341-56e8a68708e3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Born Under a Bad Sign",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Crosscut Saw",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Kansas City",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Oh, Pretty Woman",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Down Don't Bother Me",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "The Hunter",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "I Almost Lost My Mind",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Personal Manager",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Laundromat Blues",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "As the Years Go Passing By",
+     "duracao": "3:50"
+    },
+    {
+     "n": 11,
+     "titulo": "The Very Thought of You",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 5
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Born_Under_a_Bad_Sign",
+   "resumo_en": "Born Under a Bad Sign is the second studio album by American blues musician Albert King, released in August 1967 by Stax Records. It features eleven electric blues songs that were recorded from March 1966 to June 1967, throughout five different sessions. King played with Booker T. & the M.G.'s and the Memphis Horns for these recording sessions. Although the album failed to reach any music chart, it did receive positive reviews from music critics and is often cited as one of the greatest blues albums ever made. Born Under a Bad Sign influenced many guitarists, including Eric Clapton, Mike Bloomfield, Jimi Hendrix, and Stevie Ray Vaughan. Born Under a Bad Sign has been recognized by several music institutions, and has been inducted into the Blues Foundation Hall of Fame, the Grammy Hall of Fame, and the National Recording Registry.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5adc37e9-91f5-30b5-9a1a-b3740a317d33",
+   "titulo": "Blues for Elvis: King Does the King’s Things",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/d0e03a25-f101-4c77-bb83-cab8457c4b32/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hound Dog",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "That's All Right",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "All Shook Up",
+     "duracao": "2:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Jailhouse Rock",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Heartbreak Hotel",
+     "duracao": "6:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Don't Be Cruel",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "One Night",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Me Tender",
+     "duracao": "5:20"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_for_Elvis_%E2%80%93_King_Does_the_King%27s_Things",
+   "resumo_en": "Blues for Elvis – King Does the King's Things is the fifth studio album by Albert King. The songs in the album are versions of songs previously recorded by Elvis Presley. On the album sleeve there is a review by Albert Goldman, music critic for Life, who says, among other things: \"For the first time on record, the King of Blues is meeting the King of Rock ... you're gonna love every minute of this musical feast fit for kings.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e57a671c-15fd-30a7-9ab0-e0bef7861632",
+   "titulo": "Jammed Together",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/71ece2de-fb76-41e2-8949-3eb8fa967c31/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What’d I Say",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Tupelo",
+     "duracao": "6:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Opus de Soul",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Baby, What You Want Me to Do",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Bird",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Homer’s Theme",
+     "duracao": "2:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Trashy Dog",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Turn Your Heater Down",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Water",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Knock on Wood",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jammed_Together",
+   "resumo_en": "Jammed Together is a collaborative album by the American guitarists Albert King, Steve Cropper and Pop Staples, released by Stax Records in May 1969. The record was spearheaded by Stax executive Al Bell with Al Jackson Jr. and is considered a jam session. Despite this, Cropper says the guitarists did not record together due to their busy schedules, instead recording overdubs. Eleven producers are credited on the packaging.\nThe album is largely instrumental, although the three musicians sing a song each, and mixes blues, soul and gospel styles, with a hard rock beat and contemporary underground influences, contributing to the overall album's balance of original material and soul and R&B covers. King dominates the music with his string bending and licks, while Cropper employs a more subdued, relaxed style focused on guitar solos, while Staples plays gospel-style tremolo parts.\nPeaking at number 171 on the Billboard Top LPs and Tape  chart, Jammed Together was one of 27 albums released concurrently by Stax to celebrate their tenth anniversary and new distribution deal with Gulf+Western. Since its release, music critics have contextualized it as a filler release for the guitar album ma",
+   "spotify": "2Q1SnLdsoQtFu7wn1XKln9",
+   "youtube": null
+  },
+  {
+   "id": "ffe72604-897f-3a9d-b548-40bb37720cd8",
+   "titulo": "Years Gone By",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/3ae24124-6fc8-4bc9-a99d-61a80f7acbb5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wrapped Up in Love Again",
+     "duracao": "2:21"
+    },
+    {
+     "n": 2,
+     "titulo": "You Don't Love Me (instrumental)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Cockroach",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Killing Floor",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Lonely Man",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "If the Washing Don't Get You, the Rinsing Will",
+     "duracao": "2:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Drowning on Dry Land",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Drowning on Dry Land (instrumental)",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Heart Fixing Business",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "You Threw Your Love on Me Too Strong",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Sky Is Crying",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.8,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Years_Gone_By",
+   "resumo_en": "Years Gone By is the third studio album by Albert King, released by Stax Records in 1969. In the same year, the album reached number 46 on Billboard R&B Albums chart and number 133 on Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fa5fdde0-a41c-34d0-b836-fc7b364e8e55",
+   "titulo": "Lovejoy",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/ca5c64ab-6951-48a7-a3f0-85fa2f3808ff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honky Tonk Woman",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Bay Area Blues",
+     "duracao": "2:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Corina Corina",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "She Caught the Katy (And Left Me a Mule to Ride)",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "For the Love of a Woman",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Lovejoy, Ill.",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Everybody Wants to Go to Heaven",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Going Back to Iuka",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Like a Road Leading Home",
+     "duracao": "5:22"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lovejoy_%28album%29",
+   "resumo_en": "Lovejoy is a studio album by Albert King, released in 1971. The album peaked at No. 188 on the Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "93c2d44f-0a5d-3aaa-be6a-deabef029e78",
+   "titulo": "I’ll Play the Blues for You",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/2d646956-52e5-487b-9039-23217c57509e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I'll Play the Blues for You",
+     "duracao": "7:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Little Brother",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Breaking Up Somebody's Home",
+     "duracao": "7:19"
+    },
+    {
+     "n": 4,
+     "titulo": "High Cost of Loving",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "I'll Be Doggone",
+     "duracao": "5:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Answer to the Laundromat Blues",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Burn Down the Bridge",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Angel of Mercy",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I%27ll_Play_the_Blues_for_You",
+   "resumo_en": "I'll Play the Blues for You is the seventh studio album by American blues guitarist Albert King released in 1972.\nIn 2017, the single version of the title track was inducted in to the Blues Hall of Fame.\nAn SACD version was released in 2004 and a remastered version was released digitally in June 2026.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d3e73f72-65cd-3496-9068-c7a8439297a6",
+   "titulo": "I Wanna Get Funky",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1f915c11-6b28-47b2-8800-93751516f30b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Wanna Get Funky",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Playing on Me",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Walking the Back Streets and Crying",
+     "duracao": "6:28"
+    },
+    {
+     "n": 4,
+     "titulo": "'Til My Back Ain't Got No Bone",
+     "duracao": "7:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Flat Tire",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "I Can't Hear Nothing but the Blues",
+     "duracao": "4:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Travelin' Man",
+     "duracao": "2:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Cross Cut Saw",
+     "duracao": "7:45"
+    },
+    {
+     "n": 9,
+     "titulo": "That's What the Blues Is All About",
+     "duracao": "3:56"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I_Wanna_Get_Funky",
+   "resumo_en": "I Wanna Get Funky is the eighth studio album by Albert King, covering various blues tunes with heavy funk overtones, recorded in 1972 and released in 1974. With a rhythm section led by the Bar-Kays and horn arrangements by the Memphis Horns, it is considered by AllMusic as a \"another very solid, early-'70s outing\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5d7ed574-6a89-377f-b37d-f8ce76b11938",
+   "titulo": "Albert",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/6ed4ccce-5fba-4d7c-b4ec-6ec9401a9239/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Guitar Man",
+     "duracao": "5:05"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm Ready",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Ain't Nothing You Can Do",
+     "duracao": "7:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I Don't Care What My Baby Do",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Change Of Pace",
+     "duracao": "4:56"
+    },
+    {
+     "n": 6,
+     "titulo": "My Babe",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Running Out Of Steam",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Rub My Back",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "(Ain't It) A Real Good Sign",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d256dfe3-22c2-4eae-8aec-e7b50c6855b0",
+   "titulo": "Truckload of Lovin'",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/3e05a10d-74fb-4f2d-a849-dbd80738d766/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cold Women With Warm Hands",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Gonna Make It Somehow",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Sensation, Communication Together",
+     "duracao": "7:25"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm Your Mate",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Truckload of Lovin'",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Hold Hands With One Another",
+     "duracao": "4:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Cadillac Assembly Line",
+     "duracao": "4:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Nobody Wants a Loser",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7e16a079-2e4e-4cd4-ad41-9284cd8673be",
+   "titulo": "The Pinch",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/7e5f2133-ae30-4801-ba47-4a045d165bb1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Blues Don't Change",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "I'm Doing Fine",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Nice to Be Nice (Ain't That Nice)",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Oh, Pretty Woman",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "King of Kings",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Feel the Need in Me",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Firing Line (I Don't Play with Your Woman, You Don't Play with Mine)",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "The Pinch Paid Off, Part I",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "The Pinch Paid Off, Part II",
+     "duracao": "4:44"
+    },
+    {
+     "n": 10,
+     "titulo": "I Can't Stand the Rain",
+     "duracao": "2:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Ain't It Beautiful",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Blues_Don%27t_Change",
+   "resumo_en": "The Blues Don't Change is an album by American blues musician Albert King. He recorded it at the Stax Records studio in Memphis, Tennessee, in 1973 and 1974.  In 1977, Stax released the album with the same songs and running order as The Pinch.\nThe album is composed of soul- and rhythm and blues-oriented songs written by Mack Rice and others, including a re-working of King's popular 1966 song \"Oh, Pretty Woman\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e2990949-3cc0-3c45-aba1-005c720fe914",
+   "titulo": "King Albert",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/ad213f69-80a8-4ca4-8a2a-05d13fe21604/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Shock",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "You Upset Me Baby",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Chump Change",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Let Me Rock You Easy",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Boot Lace",
+     "duracao": "5:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Mechanic",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Call My Job",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Good Time Charlie",
+     "duracao": "4:45"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "842062de-9b99-3dad-8821-14454006a8a3",
+   "titulo": "New Orleans Heat",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/19ac8d8d-fe72-4f59-b328-c6555cf9ba7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Get Out of My Life Woman",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Born Under a Bad Sign",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "The Feeling",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "We All Wanna Boogie",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "The Very Thought of You",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "I Got the Blues",
+     "duracao": "9:07"
+    },
+    {
+     "n": 7,
+     "titulo": "I Get Evil",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Angel of Mercy",
+     "duracao": "5:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Flat Tire",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "36ba60f3-94ff-45b4-aefc-291221bb3ea3",
+   "titulo": "San Francisco '83",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/63a3b53a-f5d9-456e-ac88-98406e16e954/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honey Bee",
+     "duracao": "3:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Ask Me No Questions",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "I'm Gonna Move to the Outskirts of Town",
+     "duracao": "7:30"
+    },
+    {
+     "n": 4,
+     "titulo": "They Made the Queen Welcome",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Floodin' in California",
+     "duracao": "5:59"
+    },
+    {
+     "n": 6,
+     "titulo": "I Found Love in the Food Stamp Line",
+     "duracao": "6:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Match Box Blues",
+     "duracao": "7:11"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0e28c067-64a9-35f0-846d-b1754c725635",
+   "titulo": "I'm in a Phone Booth, Baby",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/30879663-fff8-4e1c-bb07-f9f4e0099cc2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Phone Booth",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Dust My Broom",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "The Sky Is Crying",
+     "duracao": "5:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Brother, Go Ahead and Take Her",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Your Bread Ain't Done",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Firing Line",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "The Game Goes On",
+     "duracao": "4:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Truck Load of Lovin'",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "You Gotta Sacrifice",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I%27m_in_a_Phone_Booth%2C_Baby",
+   "resumo_en": "I'm in a Phone Booth, Baby is an album by the American blues musician Albert King. It was released in 1984 by Fantasy Records. The album was nominated for a Grammy Award for \"Best Traditional Blues Recording\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "01e35f4e-1df0-3819-859e-81b858e0db8d",
+   "titulo": "The Lost Session",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/412c166d-3444-403a-99d0-34970250719d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She Won't Gimme No Lovin'",
+     "duracao": "5:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Cold in Hand",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Stop Lying",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "All the Way Down",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Tell Me What True Love Is",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Down the Road I Go",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Money Lovin' Women",
+     "duracao": "5:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Sun Gone Down (take 1)",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Brand New Razor",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Sun Gone Down (take 2)",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "21c71032-d130-3153-9a12-5fbaefa971dc",
+   "titulo": "Let's Have a Natural Ball",
+   "data": "1990-03-28",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/f7af75d0-6608-4dff-8220-8a4613a61281/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Walked All Night Long",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "I Get Evil",
+     "duracao": "2:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Throw Your Love on Me So Strong",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "This Morning",
+     "duracao": "2:11"
+    },
+    {
+     "n": 5,
+     "titulo": "I'll Do Anything You Say",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Ooh-Ee Baby",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Blues at Sunrise",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Let's Have a Natural Ball",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "I've Made Nights by Myself",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "What Can I Do to Change Your Mind",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Dyna Flow",
+     "duracao": "2:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Got to Be Some Changes Made",
+     "duracao": "2:14"
+    },
+    {
+     "n": 13,
+     "titulo": "Goin' to California",
+     "duracao": "3:03"
+    },
+    {
+     "n": 14,
+     "titulo": "Had You Told It Like It Was (It Wouldn't Be Like It Is)",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b2ec3be1-7961-3d13-9699-5edb0bb245bf",
+   "titulo": "Red House",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/75af3dc3-ef93-4b48-9472-cf70fbc12661/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stop",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Bluesman",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Let Me Be Lonely",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "When You Walk Out the Door",
+     "duracao": "6:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Problems",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Our Love Is Going to Win",
+     "duracao": "6:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Trouble",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "If You Got It",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Red House",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e5739009-044c-333f-a670-34ac608a2a27",
+   "titulo": "Hard Bargain",
+   "data": "1995-12-15",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/e9d813a5-198d-4880-8be9-9035e6f768ac/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overall Junction",
+     "duracao": "2:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Funk‐Shun",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "You Sure Drive a Hard Bargain",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "You’re Gonna Need Me",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "As the Years Go Passing By",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Drownin’ on Dry Land",
+     "duracao": "4:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Heart Fixing Business",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "The Sky Is Crying",
+     "duracao": "5:33"
+    },
+    {
+     "n": 9,
+     "titulo": "I Get Evil",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Shake ’Em Down",
+     "duracao": "3:13"
+    },
+    {
+     "n": 11,
+     "titulo": "I Believe to My Soul",
+     "duracao": "4:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Got to Be Some Changes Made",
+     "duracao": "4:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Albert’s Groove #2",
+     "duracao": "2:32"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hard_Bargain_%28Albert_King_album%29",
+   "resumo_en": "Hard Bargain is a blues album by Albert King, released in 1996 with outtakes and previously unreleased material recorded between 1966 and 1972.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9aa075ea-7762-4cd7-94ea-ec4bdcd140d0",
+   "titulo": "Smokin’ the Blues",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/16a10755-7ea6-40a6-9847-042b1caedfa6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Born Under a Bad Sign",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Change of Pace",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Get Out of My Life Woman",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Gonna Make It Somehow",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Good Time Charlie",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Guitar Man",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "I Got the Blues",
+     "duracao": "9:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Watermelon Man",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Burn Down the Bridge",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Stormy Monday",
+     "duracao": "7:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Kansas City",
+     "duracao": "6:51"
+    },
+    {
+     "n": 12,
+     "titulo": "You Upset Me Baby",
+     "duracao": "4:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Love Shock",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "825ebfdc-bc7e-4c06-a082-591abec26bc8",
+   "titulo": "Fillmore East, NY, 1971 Plus Early Studio Recordings",
+   "data": "2017",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/5112b596-1e1c-4568-bd8b-b23dad736003/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Intro By Bill Graham",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Knock On Wood (Instrumental)",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Blues Power",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Crosscut Saw",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Personal Manager",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Instrumental Jam",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I Walked All Night Long",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "I Get Evil",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Throw Your Love On Me So Strong",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "This Morning",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "I'll Do Anything You Say",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Ooh-Ee Baby",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Blues At Sunrise",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Let's Have A Natural Ball",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "I've Made Nights By Myself",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "What Can I Do To Change Your Mind",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Dyna Flow",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Got To Be Some Changes Made",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "Goin' To California",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Had You Told It Like It Was (It Wouldn't Be Like It Is)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

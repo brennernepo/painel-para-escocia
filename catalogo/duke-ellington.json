@@ -1,0 +1,8181 @@
+{
+ "id": "duke-ellington",
+ "nome": "Duke Ellington",
+ "cena": "Jazz essencial",
+ "mbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
+ "wikidata": "Q4030",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1899",
+ "fim": "1974",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "big band",
+  "swing",
+  "bebop",
+  "blues"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/500px-Duke_Ellington_-_publicity.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Duke_Ellington",
+ "resumo_pt": "Edward Kennedy \"Duke\" Ellington (Washington, 29 de abril de 1899 — Nova Iorque, 24 de maio de 1974) foi um compositor de jazz, pianista e líder de orquestra estadunidense eternizado com a alcunha de \"The Duke\" e distinguido com a Presidential Medal of Freedom (condecoração americana) em 1969 e com a Legião de Honra (condecoração francesa) em 1973, sendo ambas as distinções as mais elevadas que um civil pode receber. Foi ainda o primeiro músico de jazz a entrar para a Academia Real de Música de Estocolmo, e foi honoris causa nas mais importantes universidades do mundo.\nA música de Duke Ellington foi uma das maiores influências no jazz desde a década de 1920 até à de 1960. Ainda hoje suas obras têm influência apreciável e é, por isso, considerado o maior compositor de jazz americano de todos os tempos. Entre os seus muitos êxitos encontram-se \"Take the A Train\" (letra e música por Billy Strayhorn), \"Satin Doll\", \"Rockin' in Rhythm\", \"Mood Indigo\", \"Caravan\", \"Sophisticated Lady\", e \"It Don't Mean a Thing (If It Ain't Got that Swing)\". Durante os anos 1920 e 30, Ellington partilhava frequentemente seus créditos de compositor com seu manager Irving Mills, até que no final dos anos 1930 desentenderam-se. Billy Strayhorn passou a ser o colaborador de Ellington (nem sempre creditado como tal) desde 1940 até à sua morte nos anos 1970.\nEllington tinha a preocupação de adaptar as suas composições de acordo com o talento dos músicos que compunham a sua orquestra, entre eles estiveram Jo",
+ "resumo_en": "Edward Kennedy \"Duke\" Ellington (April 29, 1899 – May 24, 1974) was an American jazz pianist, composer, and leader of his eponymous jazz orchestra from 1924 through the rest of his life. Music critic Ralph J. Gleason called him \"America's most important composer\".\nBorn and raised in Washington, D.C., Ellington was based in New York City from the mid-1920s and gained a national profile through his orchestra's appearances at the Cotton Club in Harlem. A master at writing miniatures for the three-minute 78 rpm recording format, Ellington wrote or collaborated on more than one thousand compositions; his extensive body of work is the largest recorded personal jazz legacy, and many of his pieces have become standards. He also recorded songs written by his bandsmen, such as Juan Tizol's \"Caravan\", which brought a Spanish tinge to big band jazz.\nAt the end of the 1930s, Ellington began a nearly thirty-year collaboration with composer-arranger-pianist Billy Strayhorn, whom he called his writing and arranging companion. With Strayhorn, he composed multiple extended compositions, or suites, as well as many short pieces. For a few years at the beginning of Strayhorn's involvement, Ellington's orchestra featured bassist Jimmy Blanton and tenor saxophonist Ben Webster, and reached what many claim to be a creative peak for the group. Some years later, following a low-profile period, an appearance by Ellington and his orchestra at the Newport Jazz Festival in July 1956 led to a major revival",
+ "albuns": [
+  {
+   "id": "783a784f-8b61-4437-8ef4-617bbde86e89",
+   "titulo": "The Duke",
+   "data": "1940",
+   "ano": "1940",
+   "capa": "https://coverartarchive.org/release/99063ceb-6b5a-46b8-b6e9-23d24d3aedbb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lazy Rhapsody",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Ramble",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Baby, When You Ain't There",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Lightnin'",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Best Wishes",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Bundle of Blues",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Drop Me Off at Harlem",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Merry-Go-Round",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce4d0379-ee9c-47a2-ad54-c36acff58619",
+   "titulo": "One Night Stand",
+   "data": "1945-11-18",
+   "ano": "1945",
+   "capa": "https://coverartarchive.org/release/2845a8a8-ef74-4bc9-8687-4ca6ba62496a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Theme - Take the \"A\" Train",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "As Long as I Live",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "9:20 Special",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Wonder of You",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Walkin' With My Honey",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Three Cent Stomp",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Take Your Love From Me",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Courtin' Session",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Emancipation Celebration",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Let the Zoomers Drool (Partial)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e510fa7e-9deb-4061-b3be-f958109926a6",
+   "titulo": "Black Brown and Beige: A Duke Ellington Tone Parallel to the American Negro",
+   "data": "1946",
+   "ano": "1946",
+   "capa": "https://coverartarchive.org/release/24143902-a36a-49e3-a72f-00c503fa6e63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I. Work Song",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "II. Come Sunday",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "III. The Blues",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "IV. Three Dances: A. West Indian Dance / B. Emancipation Celebration / C. Sugar Hill Penthouse (Beige!)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e8b6c9cb-ba81-4d07-8125-f1f6a99db106",
+   "titulo": "Mercer Records Presents the Billy Strayhorn Trio",
+   "data": "1951-06",
+   "ano": "1951",
+   "capa": "https://coverartarchive.org/release/e2d29023-4f29-4b9e-9110-2abe9175536b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cotton Tail",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "C Jam Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Flamingo",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Bang-Up Blues",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Tonk",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny Came Lately",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "In a Blue Summer Garden",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Great Times",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5a1e1c50-e710-4e8c-8214-ea3f342705c8",
+   "titulo": "Piano Reflections",
+   "data": "1953",
+   "ano": "1953",
+   "capa": "https://coverartarchive.org/release/80e9dc0e-ead6-4069-8a58-7d817229b9a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "2:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Things Ain’t What They Used to Be",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Reflections in D",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Who Knows",
+     "duracao": "2:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Melancholia",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "All Too Soon",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "3:00"
+    },
+    {
+     "n": 8,
+     "titulo": "B Sharp Blues",
+     "duracao": "2:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Passion Flower",
+     "duracao": "3:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Janet",
+     "duracao": "2:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Retrospection",
+     "duracao": "3:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Dancers in Love",
+     "duracao": "1:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Night Time",
+     "duracao": "2:30"
+    },
+    {
+     "n": 14,
+     "titulo": "Kinda Dukish",
+     "duracao": "2:28"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a1915c4f-211c-449f-8714-a13754c480e0",
+   "titulo": "The Duke Plays Ellington",
+   "data": "1954-08",
+   "ano": "1954",
+   "capa": "https://coverartarchive.org/release/2bd19af1-fe14-40f1-a393-c7e3c0096088/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In a Sentimental Mood",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Reflections in D",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Who Knows?",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Prelude to a Kiss",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "B Sharp Blues",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Passion Flower",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Janet",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Duke_Plays_Ellington",
+   "resumo_en": "The Duke Plays Ellington is an album by American pianist, composer and bandleader Duke Ellington featuring trio sessions recorded for the Capitol label in 1953. The album was rereleased with additional tracks on CD as Piano Reflections in 1989",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "620dd228-71ac-4c58-9e96-adc0edb48105",
+   "titulo": "At Newport",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/265348ab-2b3a-4350-99a4-a110db992b63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the \"A\" Train",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Sophisticated Lady",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "I Got It Bad and That Ain't Good",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Skin Deep",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "You Can Depend on Me",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Newport Jump",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "In a Mellotone",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "86ba50d8-ff17-3b8e-94a8-08e02e6926fa",
+   "titulo": "Back to Back: Duke Ellington and Johnny Hodges Play the Blues",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/de2960d7-0a81-484d-b34b-d36ac45f394a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wabash Blues",
+     "duracao": "6:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Basin Street Blues",
+     "duracao": "8:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Beale Street Blues",
+     "duracao": "7:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Weary Blues",
+     "duracao": "6:55"
+    },
+    {
+     "n": 5,
+     "titulo": "St. Louis Blues",
+     "duracao": "5:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Loveless Love",
+     "duracao": "7:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Royal Garden Blues",
+     "duracao": "5:22"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Back_to_Back%3A_Duke_Ellington_and_Johnny_Hodges_Play_the_Blues",
+   "resumo_en": "Back to Back is a 1959 studio album by Johnny Hodges and Duke Ellington. It was followed by Side by Side (1959), which combines three tracks recorded at one of the same sessions with six tracks recorded in August 1958 by a different, Hodges-led group that did not include Ellington.",
+   "spotify": "6kGYSV9MQnLGVwtSc09QVf",
+   "youtube": null
+  },
+  {
+   "id": "f8d5a1fd-04c9-338c-b1a4-811e3b65f684",
+   "titulo": "Side by Side",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/38101786-3bbe-4366-8b8f-f777d3e164ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stompy Jones",
+     "duracao": "6:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Squeeze Me",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Shoe",
+     "duracao": "5:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Going Up",
+     "duracao": "4:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Just a Memory",
+     "duracao": "5:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Let's Fall in Love",
+     "duracao": "6:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Ruint",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Bend One",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "You Need to Rock",
+     "duracao": "5:50"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Side_by_Side_%28Duke_Ellington_and_Johnny_Hodges_album%29",
+   "resumo_en": "Although it is billed as a Duke Ellington and Johnny Hodges album, Side by Side is a 1959 album mostly under the leadership of Johnny Hodges, Duke Ellington's alto saxophonist for many years. Ellington only appears on three of this album's tracks. The album places Hodges at the fore, backing him with piano by Ellington or Billy Strayhorn and providing other accompaniment by jazz figures like Ben Webster, Roy Eldridge, Harry \"Sweets\" Edison and Jo Jones. The album, a follow-up to Back to Back: Duke Ellington and Johnny Hodges Play the Blues, has remained perpetually in print.",
+   "spotify": "0j7RqsEnjaGpo3aEPQxjrS",
+   "youtube": null
+  },
+  {
+   "id": "46d402fc-44f4-40ea-af53-2c5f1fb299ad",
+   "titulo": "Dance Air Force Date 1960",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/e5925c9e-cfa1-4527-aaaa-74cd08d1ab43/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stardust",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Paris Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Portrait of Louis Armstrong (Such Sweet Thunder)",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Overture (Nutcracker Suite)",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Tenderly",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Black and Tan Fantasy / Creole Love Call / The Mooche",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Take the a Train",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Jeeps Blues",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Moonglow",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9032cfdc-4a1a-4364-b43f-ec26a1e7f272",
+   "titulo": "Blues in Orbit",
+   "data": "1960-01-01",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/4c3d2550-855d-4fc6-9836-bca1d103de73/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Three J's Blues",
+     "duracao": "2:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Smada",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Pie Eye's Blues",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Sweet & Pungent",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "C Jam Blues",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "In a Mellow Tone",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Blues in Blueprint",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "The Swingers Get the Blues, Too",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "The Swinger's Jump",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Blues in Orbit",
+     "duracao": "2:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Villes Ville Is the Place, Man",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_in_Orbit",
+   "resumo_en": "Blues in Orbit is an album by American pianist, composer and bandleader Duke Ellington, recorded for the Columbia label in 1959 and released in 1960.\nThe original liner notes by Teo Macero described this album as primarily a blues album (as most of the track titles indicate). The album was re-released on CD in 2004 with bonus tracks including alternate takes and tracks from earlier sessions.",
+   "spotify": "5nifIOxB4n4XLxgJDqGJUG",
+   "youtube": null
+  },
+  {
+   "id": "65890654-7523-33e0-a825-2bf9fe8efe41",
+   "titulo": "First Time! The Count Meets the Duke",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/c1ff749e-4d4e-4201-9a77-553741eb2e06/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Battle Royal",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "To You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Until I Met You",
+     "duracao": "4:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Wild Man",
+     "duracao": "5:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Segue in C",
+     "duracao": "8:25"
+    },
+    {
+     "n": 7,
+     "titulo": "B D B",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Jumpin' at the Woodside",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/First_Time%21_The_Count_Meets_the_Duke",
+   "resumo_en": "First Time! The Count Meets the Duke is an album by American pianists, composers and bandleaders Duke Ellington and Count Basie with their combined Orchestras recorded and released on the Columbia label in 1961.\nOn stereo releases of the album, Basie's band is featured on the left channel and Ellington's on the right.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a2a439e6-35b8-4be8-ac40-e7794e402091",
+   "titulo": "Recording Together for the First Time",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/a184f261-137c-4f7d-a121-7816935f17eb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Duke’s Place",
+     "duracao": "5:03"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Just a Lucky So and So",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Cottontail",
+     "duracao": "3:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Mood Indigo",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Do Nuthin’ Till You Hear From Me",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "The Beautiful American",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Black and Tan Fantasy",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Drop Me Off in Harlem",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "The Mooche",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "In a Mellow Tone",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c67ec5b5-0a13-36fa-878f-2209b5fcc29b",
+   "titulo": "Piano in the Foreground",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/985188b0-7733-4fdc-b30a-aa3344bd22bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Can't Get Started",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Cong-Go",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Body and Soul",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Blues for Jerry",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Fontainebleau Forest",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Summertime",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "It's Bad to Be Forgotten",
+     "duracao": "3:15"
+    },
+    {
+     "n": 8,
+     "titulo": "A Hundred Dreams Ago",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "So",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Searching (Pleading for Love)",
+     "duracao": "1:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Springtime in Africa",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Piano_in_the_Foreground",
+   "resumo_en": "Piano in the Foreground is an album by American pianist, composer and bandleader Duke Ellington recorded and released on the Columbia label in 1961. It features Ellington in a piano trio setting, emphasizing his own keyboard prowess rather than the big band arrangements more typical of his recordings.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1c18538e-e9be-3449-8be1-f3cdc7b493e0",
+   "titulo": "Money Jungle",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/6a3d8dfe-bc72-4010-861e-a3f51723a4b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Money Jungle",
+     "duracao": "5:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Les Fleurs Africaines (African Flower)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Very Special",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Warm Valley",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Wig Wise",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Caravan",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Solitude",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.9,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Money_Jungle",
+   "resumo_en": "Money Jungle is a studio album by the pianist Duke Ellington with the double bassist Charles Mingus and the drummer Max Roach. It was recorded on September 17, 1962, and released in February 1963 by United Artists Jazz. All but one of the compositions were written by Ellington, with four of the seven on the original LP being recorded for the first time on this album. Later releases on CD added eight tracks from the same recording session.\nThe album was reviewed positively at the time of its release and subsequent reviews have remained highly favorable. Negative comments have concentrated on differences in playing style among the three musicians and an arguably exaggerated generational gap between Ellington and the others, as well as a near-walkout by Mingus mid-session. Hundreds of musicians have been influenced by the recording, in particular by the freedom of individual expression within a small-group setting.",
+   "spotify": "5I3aoewqDpP4TglIl9O7su",
+   "youtube": null
+  },
+  {
+   "id": "17e1a596-ee55-42bd-8a55-9f65e884c624",
+   "titulo": "Duke Ellington and his Orchestra Featuring Paul Gonsalves",
+   "data": "1962-05-01",
+   "ano": "1962",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "C Jam Blues",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Take The \"A\" Train",
+     "duracao": "5:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Happy Go Lucky Local",
+     "duracao": "5:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Jam With Sam",
+     "duracao": "3:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Caravan",
+     "duracao": "6:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Just A-Sittin' And A-Rockin'",
+     "duracao": "4:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Paris Blues",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Ready Go!",
+     "duracao": "5:03"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4f64c4fc-1de9-3b28-970c-e86f78c631be",
+   "titulo": "Duke Ellington & John Coltrane",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/362ec441-b593-48c6-a569-808c3a6b29dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Take the Coltrane",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Nick",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Stevie",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "My Little Brown Book",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Angelica",
+     "duracao": "5:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Feeling of Jazz",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.6,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane",
+   "resumo_en": "Duke Ellington & John Coltrane is an album by the American jazz musicians Duke Ellington and John Coltrane. It was released in January 1963 through Impulse! Records.\nThe album was one of Ellington's many collaborations in the early 1960s with musicians such as Count Basie, Louis Armstrong, Coleman Hawkins, Max Roach, and Charles Mingus, and placed him with a quartet rather than a big band. The quartet was filled out by the bassist and drummer from either of their bands. The album featured Ellington standards (e.g., \"In a Sentimental Mood\"), new Ellington compositions, and a new Coltrane composition (\"Big Nick\").\n\nColtrane said of the session:I was really honored to have the opportunity of working with Duke. It was a wonderful experience. He has set standards I haven't caught up with yet. I would have liked to have worked over all those numbers again, but then I guess the performances wouldn't have had the same spontaneity. And they mightn't have been any better!",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "adfee37a-06ca-342d-b6b9-60eb2b02ceab",
+   "titulo": "The Great Reunion",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/a20ce0d6-a743-4841-8ded-5f9215f75a0c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It Don't Mean a Thing",
+     "duracao": "4:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Solitude",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Get Around Much Anymore",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm Beginning to See the Light",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Just Squeeze Me",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "I Got It Bad and That Ain't Good",
+     "duracao": "5:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Azalea",
+     "duracao": "5:06"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "317998ff-0f2a-4ae4-ad9b-6b96bc49413b",
+   "titulo": "The Early Duke Ellington",
+   "data": "1963-01-23",
+   "ano": "1963",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Harlem Speaks",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Tiger Rag",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "I Would Do Anything for You",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain’t Misbehavin’",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m Just Wild About Harry",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Hyde Park",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m Crazy ’Bout My Baby",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "St. Louis Blues",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Chicago",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Try Your Jive on Me",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0bbc462f-554b-3cc3-b4c5-a78c6a313d5a",
+   "titulo": "Duke Ellington Meets Coleman Hawkins",
+   "data": "1963-02",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/8dc17365-36d8-3f53-921d-69ae364a9540/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Limbo Jazz",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Mood Indigo",
+     "duracao": "5:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Ray Charles' Place",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Wanderlust",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "You Dirty Dog",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Self Portrait (of the Bean)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "The Jeep Is Jumpin'",
+     "duracao": "4:48"
+    },
+    {
+     "n": 8,
+     "titulo": "The Ricitic",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.5,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Duke_Ellington_Meets_Coleman_Hawkins",
+   "resumo_en": "Duke Ellington Meets Coleman Hawkins is a jazz album by Duke Ellington and Coleman Hawkins that was recorded on August 18, 1962, and released in February 1963 by Impulse! Records.\nIn 1995, The New York Times called it \"one of the great Ellington albums, one of the great Hawkins albums and one of the great albums of the 1960s.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c24b56c-3c87-4e67-b2e1-0cc86aad1be8",
+   "titulo": "Duke Ellington, Fletcher Henderson, Artie Shaw and Their Orchestras",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/8ceecec1-f8e7-427a-ae82-f5729762158b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Molten Swing",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Minor Riff",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Satchel Mouth Baby",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "King Porter Stomp",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Tulip or Turnip",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "It Shouldn't Happen to a Dream",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Night and Day",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Along With Me",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "For You, for Me, for Evermore",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I Believe",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "03510992-9fd7-30e3-9a17-cf8b20bed0b3",
+   "titulo": "Ella at Duke’s Place",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/c84f2fae-e3c6-40c1-894c-ea2c918c4e21/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Something to Live For",
+     "duracao": "3:33"
+    },
+    {
+     "n": 2,
+     "titulo": "A Flower Is a Lovesome Thing",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Passion Flower",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "I Like the Sunrise",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Azure",
+     "duracao": "6:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Imagine My Frustation",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Duke's Place",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Brown Skin Gal in the Calico Gown",
+     "duracao": "5:02"
+    },
+    {
+     "n": 9,
+     "titulo": "What Am I Here For",
+     "duracao": "5:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Cotton Tail",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ella_at_Duke%27s_Place",
+   "resumo_en": "Ella at Duke's Place is a 1965 studio album by Ella Fitzgerald and Duke Ellington, accompanied by his Orchestra. While it was the second (and last) studio album made by Fitzgerald and Ellington, following the 1957 song book recording, a live double album Ella and Duke at the Cote D'Azur was recorded in 1966.\nElla at Duke's Place was nominated for Best Female Pop Vocal Performance at the 1967 Grammy Awards.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "44c7e02e-e60e-4428-9ba3-23df9cd3613c",
+   "titulo": "Serenade to Sweden",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/4f53dc7b-e738-4f29-aa3a-36a166fee913/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Serenade to Sweden",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "The Boy in My Dreams",
+     "duracao": "2:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Stoona",
+     "duracao": "2:53"
+    },
+    {
+     "n": 4,
+     "titulo": "La de Doody Doo",
+     "duracao": "2:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Strange Visitor",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Azure",
+     "duracao": "2:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Come Sunday",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "\"C\" Jam Blues",
+     "duracao": "2:36"
+    },
+    {
+     "n": 9,
+     "titulo": "I Didn't Know About You",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Satin Doll",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Take Love Easy",
+     "duracao": "3:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Babsie",
+     "duracao": "2:05"
+    },
+    {
+     "n": 13,
+     "titulo": "(I Want) Something to Live For",
+     "duracao": "2:48"
+    },
+    {
+     "n": 14,
+     "titulo": "I'm Beginning to See the Light",
+     "duracao": "2:38"
+    },
+    {
+     "n": 15,
+     "titulo": "Untitled Lullaby",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Serenade_to_Sweden",
+   "resumo_en": "Serenade to Sweden is an album by American pianist, composer and bandleader Duke Ellington and vocalist Alice Babs recorded in 1963 and released on the Reprise label in 1966. The album was released on CD in 2017 by Real Gone Music.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e9bbdc99-637b-4ad0-af66-83f791bf0ad9",
+   "titulo": "Concert of Sacred Music",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/0d0d6eb8-d1b5-4b6b-9bd6-5ecc037b6724/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In the Beginning God",
+     "duracao": "15:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Tell Me It’s the Truth",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Come Sunday",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "The Lord’s Prayer",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Come Sunday",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Will You Be There? / Ain’t but the One",
+     "duracao": "4:42"
+    },
+    {
+     "n": 7,
+     "titulo": "New World A-Coming",
+     "duracao": "8:26"
+    },
+    {
+     "n": 8,
+     "titulo": "David Danced Before the Lord With All His Might",
+     "duracao": "6:31"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f03bd470-b642-42f1-b4b5-a3f5a39c5fda",
+   "titulo": "The Duke At Tanglewood",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/f9fed608-5a20-4f3b-bbbe-1ec01788860f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caravan",
+     "duracao": "4:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Mood Indigo",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "The Mooch",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Scene",
+     "duracao": "2:31"
+    },
+    {
+     "n": 5,
+     "titulo": "I Let A Song Go Out Of My Heart",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Beginning To See The Light",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Do Nothin' 'Til You Hear From Me",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Sophisticated Lady",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Timon Of Athens March",
+     "duracao": "3:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Solitude",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "I Got It Bad And That Ain't Good",
+     "duracao": "4:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Satin Doll",
+     "duracao": "2:32"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d4661a6-11cc-4fc0-9569-547e141be9f7",
+   "titulo": "Francis A. & Edward K.",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/c42380f9-080e-4d1c-8cba-376a0e3c4088/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Follow Me",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Sunny",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "All I Need Is the Girl",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Indian Summer",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "I Like the Sunrise",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Yellow Days",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Poor Butterfly",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Come Back to Me",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_A._%26_Edward_K.",
+   "resumo_en": "Francis A. & Edward K. is an album by Frank Sinatra with Duke Ellington and his big band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c5176862-2fc7-4410-ba2b-46a6c440ede3",
+   "titulo": "The Far East Suite",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/2a7d0078-25b9-41c8-b03b-263498a7ed75/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tourist Point of View",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Bluebird of Delhi (Mynah)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Isfahan",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Depk",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Mount Harissa",
+     "duracao": "7:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue Pepper (Far East of the Blues)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Agra",
+     "duracao": "2:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Amad",
+     "duracao": "4:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Ad Lib on Nippon",
+     "duracao": "11:31"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fc2984ba-7e6a-43ac-80f2-060657a9459c",
+   "titulo": "Duke Ellington \"North Of The Border\" In Canada",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/0e20aae5-4b64-4cd6-82b9-107ad96747f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Aurora Borealis -",
+     "duracao": "10:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Nameless Hour -",
+     "duracao": "8:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Collage #3 -",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Fair Wind -",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Silent Night, Lonely Night -",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Song And Dance -",
+     "duracao": "9:27"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2a9d2a63-2026-3cdc-9541-84a8cf554642",
+   "titulo": "New Orleans Suite",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/2c75d418-07fd-4611-898f-2b935dbeffb3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blues for New Orleans",
+     "duracao": "7:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Bourbon Street Jingling Jollies",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Portrait of Louis Armstrong",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Thanks for the Beautiful Land on the Delta",
+     "duracao": "3:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Portrait of Wellman Braud",
+     "duracao": "4:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Second Line",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Portrait of Sidney Bechet",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Aristocracy a la Jean LaFitte",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Portrait of Mahalia Jackson",
+     "duracao": "4:53"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d201a53-e917-3746-a4e2-023764cbe3fa",
+   "titulo": "Duke's Big 4",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/b7454479-5b3a-422b-847b-1fd6cf82eb71/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cotton Tail",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "The Blues",
+     "duracao": "5:27"
+    },
+    {
+     "n": 3,
+     "titulo": "The Hawk Talks",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "5:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Love You Madly",
+     "duracao": "6:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Just Squeeze Me (but Don't Tease Me)",
+     "duracao": "6:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Everything but You",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Duke%27s_Big_4",
+   "resumo_en": "Duke's Big 4 is a studio album by the American pianist, composer and bandleader Duke Ellington, featuring a small group session with Joe Pass, Ray Brown and Louie Bellson, recorded in January 1973 and released on the Pablo label in 1974.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d149dfa4-e212-35cc-b915-23ea036a6439",
+   "titulo": "This One's for Blanton!",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/b00b727c-89a5-44f2-bf62-53e2e3426979/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do Nothin' Till You Hear From Me",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Pitter Panther Patter",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Sophisticated Lady",
+     "duracao": "5:27"
+    },
+    {
+     "n": 5,
+     "titulo": "See See Rider",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Fragmented Suite for Piano and Bass: First Movement",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Fragmented Suite for Piano and Bass: Second Movement",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Fragmented Suite for Piano and Bass: Third Movement",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Fragmented Suite for Piano and Bass: Fourth Movement",
+     "duracao": "4:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d5e0ea91-d566-4b8b-9eba-0db0f78c202f",
+   "titulo": "Duke Ellington's Jazz Violin Session",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/ac813929-5abf-4520-bb53-2d9614c9de72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Get Around Much Anymore",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Day Dream",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Cotton Tail",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Pretty Little One",
+     "duracao": "4:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Tricky's Licks",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Blues in C",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "String Along With Strings",
+     "duracao": "6:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Limbo Jazz",
+     "duracao": "5:21"
+    },
+    {
+     "n": 11,
+     "titulo": "The Feeling of Jazz",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fb9e9ff4-d496-43d4-817f-f1fa50833a71",
+   "titulo": "Unknown Session",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/f3d36de7-ef08-4342-ada2-02454100c5f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Everything but You",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Black Beauty",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "All Too Soon",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Something to Live For",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Mood Indigo",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Creole Blues",
+     "duracao": "2:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't You Know I Care",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "A Flower Is a Lovesome Thing",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Mighty Like the Blues",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Tonight I Shall Sleep",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Dual Highway",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Blues",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Unknown_Session",
+   "resumo_en": "Unknown Session is an album by American pianist, composer and bandleader Duke Ellington. It was recorded in 1960 but not released on the Columbia label until 1979.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a89c0397-9073-4086-9a21-5e6c69794086",
+   "titulo": "The Girl's Suite and The Perfume Suite",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/55ae09dc-d8fa-4074-a6e2-8a61fb7cbecc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Girl's Suite: Girls",
+     "duracao": "2:41"
+    },
+    {
+     "n": 2,
+     "titulo": "The Girl's Suite: Mahalia",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "The Girl's Suite: Peg o' My Heart",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "The Girl's Suite: Sweet Adeline",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "The Girl's Suite: Juanita",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "The Girl's Suite: Sylvia",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "The Girl's Suite: Lena",
+     "duracao": "2:23"
+    },
+    {
+     "n": 8,
+     "titulo": "The Girl's Suite: Dinah",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "The Girl's Suite: Clementine",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "The Girl's Suite: Diane",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "The Perfume Suite: Under the Balcony",
+     "duracao": "2:57"
+    },
+    {
+     "n": 12,
+     "titulo": "The Perfume Suite: Strange Feeling",
+     "duracao": "3:55"
+    },
+    {
+     "n": 13,
+     "titulo": "The Perfume Suite: Dancers in Love",
+     "duracao": "2:19"
+    },
+    {
+     "n": 14,
+     "titulo": "The Perfume Suite: Coloratura",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Girl%27s_Suite_and_The_Perfume_Suite",
+   "resumo_en": "The Girl's Suite and The Perfume Suite is an album by the American pianist, composer and bandleader Duke Ellington that compiles recordings from 1957 and 1961. It was released on the Columbia label in 1982.\nRe The Perfume Suite, as per Stanley Dance in the original album notes, \"Originally premiered at Carnegie Hall on 19 December 1944, this four-part work was a deliberate attempt to dazzle a seated audience.  'The premise behind it,' Ellington wrote in Music Is My Mistress, 'was what perfume does to or for the woman who is wearing it, and each part portrayed the mood a woman gets into – or would like to get into – when wearing a certain type of perfume.'\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "de2dafb3-9958-4c8f-8158-3b185059c311",
+   "titulo": "It Don’t Mean a Thing If It Ain’t Got That Swing",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/0a82567f-6f9c-4825-bcc6-26fb67a918f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It Don’t Mean a Thing If It Ain’t Got That Swing",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Ain’t Got Nothin’ but the Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Satin Doll",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Mood Indigo",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Get Around Much Anymore",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I’m Beginning to See the Light",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I’ve Got to Be a Rugcutter",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "I Got It Bad and That Ain’t Good",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Tulip or Turnip",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "It’s Kinda Lonesome Out Tonight",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Poco Mucho",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "85c83ec3-d66d-4d76-8695-39bcf0f17133",
+   "titulo": "Ellington: Suite from The River / Mayuzumi: Essay for String Orchestra",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/211f5c12-e8a0-40bb-9389-bc14d9bd4942/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Suite from The River: I. The Spring",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Suite from The River: II. The Meander",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Suite from The River: III. The Giggling Rapids",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Suite from The River: IV. The Lake",
+     "duracao": "6:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Suite from The River: V. The Vortex",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Suite from The River: VI. The Falls",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Suite from The River: VII. The Whirlpool",
+     "duracao": "3:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Suite from The River: VIII. Twin Cities",
+     "duracao": "5:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Essay for String Orchestra",
+     "duracao": "10:25"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "019f4e8f-8830-4813-829b-db7bca8b027d",
+   "titulo": "Music by Ellington & Bartók",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/75668dd0-e1dd-451d-9e57-685b95a5ce66/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sonata for Solo Violin (1944): I. Tempo di ciaccona",
+     "duracao": "10:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonata for Solo Violin (1944): II. Fuga - Risoluto, non troppo vivo",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Sonata for Solo Violin (1944): III. Melodia - Adagio",
+     "duracao": "7:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Sonata for Solo Violin (1944): IV. Presto",
+     "duracao": "6:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Mainly Black (from Black, Brown and Beige Suite, arr. Nigel Kenney): I. Introduction (feat. double bass: Alec Dankworth)",
+     "duracao": "6:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Mainly Black (from Black, Brown and Beige Suite, arr. Nigel Kenney): II. Come Sunday (feat. double bass: Alec Dankworth)",
+     "duracao": "2:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Mainly Black (from Black, Brown and Beige Suite, arr. Nigel Kenney): III. Work Song (feat. double bass: Alec Dankworth)",
+     "duracao": "7:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Mainly Black (from Black, Brown and Beige Suite, arr. Nigel Kenney): IV. The Blues (Mauve) (feat. double bass: Alec Dankworth)",
+     "duracao": "12:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Mainly Black (from Black, Brown and Beige Suite, arr. Nigel Kenney): V. Come Sunday (feat. double bass: Alec Dankworth)",
+     "duracao": "10:04"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d8454465-d93a-4eb8-b445-281311a764be",
+   "titulo": "Ties & Tails",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/981336dc-541f-4d27-941e-1cf223e9ef39/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ellington Fantasy",
+     "duracao": "4:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Overture to Funny Face",
+     "duracao": "6:10"
+    },
+    {
+     "n": 3,
+     "titulo": "New World a Comin'",
+     "duracao": "10:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Girl Crazy (Scenario for Orchestra)",
+     "duracao": "13:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Sophisticated Lady/Solitude",
+     "duracao": "4:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Gershwin in Hollywood",
+     "duracao": "9:59"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3cf984eb-95d2-4ded-9695-973be4b1c5e6",
+   "titulo": "A Broadway Extravaganza!",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/bef014f0-8ae9-4c90-bff2-7b52c1ca6e99/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Race / Starlight Express",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "All I Ask of You",
+     "duracao": "4:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Nothing Like You've Ever Known",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Memory",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Come Rain or Come Shine / Ridin' on the Moon / Right as the Rain / Two Ladies in the Shade of de Banana Tree / Push de Button",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "A Sleepin' Bee / It's Only a Paper Moon",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Lover Come Back to Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "The Buttercup Willow Affair",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "I Got a Right to Sing the Blues / Mood Indigo",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Another Hundred People / Fidgety Feet",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Anyone Can Whistle / Our Love Is Here to Stay",
+     "duracao": "4:47"
+    },
+    {
+     "n": 12,
+     "titulo": "A Parade in Town / Strike Up the Band",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "871357d2-b311-3a54-8ca6-ba4f7648dd65",
+   "titulo": "Duke Ellington's Sophisticated Ladies (Original Broadway Cast)",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/915a7c6e-ae66-4f28-bf68-b39b2089ad24/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overture",
+     "duracao": "3:37"
+    },
+    {
+     "n": 2,
+     "titulo": "I've Got to Be a Rug Cutter",
+     "duracao": "2:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Music Is a Woman",
+     "duracao": "1:45"
+    },
+    {
+     "n": 4,
+     "titulo": "The Mooche",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Hit Me With a Hot Note and Watch Me Bounce",
+     "duracao": "2:45"
+    },
+    {
+     "n": 6,
+     "titulo": "It Don't Mean a Thing",
+     "duracao": "4:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Bli-Blip",
+     "duracao": "2:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Cotton Tail",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Solitude",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Don't Get Around Much Any More/I Let a Song Go Out of My Heart",
+     "duracao": "1:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Caravan",
+     "duracao": "3:00"
+    },
+    {
+     "n": 13,
+     "titulo": "Something to Live For",
+     "duracao": "3:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Rockin' in Rhythm",
+     "duracao": "2:36"
+    },
+    {
+     "n": 15,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "3:28"
+    },
+    {
+     "n": 16,
+     "titulo": "I'm Beginning to See the Light",
+     "duracao": "3:01"
+    },
+    {
+     "n": 17,
+     "titulo": "Satin Doll/Just Squeeze Me",
+     "duracao": "3:18"
+    },
+    {
+     "n": 18,
+     "titulo": "Echos of Harlem",
+     "duracao": "3:39"
+    },
+    {
+     "n": 19,
+     "titulo": "I'm Just a Lucky So-And-So",
+     "duracao": "2:12"
+    },
+    {
+     "n": 20,
+     "titulo": "Imagine My Frustration",
+     "duracao": "2:25"
+    },
+    {
+     "n": 21,
+     "titulo": "I'm Check Out Goombye/Do Nothing 'til You Hear From Me",
+     "duracao": "1:23"
+    },
+    {
+     "n": 22,
+     "titulo": "I Got It Bad and That Ain't Good/Mood Indigo",
+     "duracao": "5:27"
+    },
+    {
+     "n": 23,
+     "titulo": "Sophisticated Lady",
+     "duracao": "3:08"
+    },
+    {
+     "n": 24,
+     "titulo": "It Don't Mean a Thing (reprise)",
+     "duracao": "2:22"
+    }
+   ],
+   "duracao_min": 71,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2228d8bf-d5b6-4962-a6f6-75e8783db1c0",
+   "titulo": "Echoes of Harlem",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/2744042a-ef9a-499d-a532-018e0e82ac5f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockin' In Rhythm",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Cottontail",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "5:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Perdido",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Come Sunday",
+     "duracao": "5:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Satin Doll",
+     "duracao": "4:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Echoes of Harlem",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Ellington Medley: I Let a Song Go Out Of My Heart - Solitude - Don't Get Around Much Anymore - Sophisticated Lady",
+     "duracao": "10:38"
+    },
+    {
+     "n": 9,
+     "titulo": "Take the 'A' Train",
+     "duracao": "6:55"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "927619a7-d6de-4fc9-af26-38ea2b776bf0",
+   "titulo": "The Feeling of Jazz",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/08e8ad1e-7b8c-49c5-9d53-61f99ee3de86/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Taffy Twist",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Flirtibird",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Smada",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "What Am I Here For?",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Take the 'A' Train",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Gonna Go Fishin'",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Boo - Dah",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Black and Tan Fantasy",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "The Feeling of Jazz",
+     "duracao": "4:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Jump for Joy",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "I Let a Song Go Out of My Heart/Don't Get Around Much Anymore",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5477c828-4fd8-4710-90dd-f243fd79794e",
+   "titulo": "Braggin' in Brass: The Immortal 1938 Year",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/37218246-652a-4084-9f3e-dbd9b56ed1f9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Steppin' Into Swing Society",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Prologue to Black and Tan Fantasy",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "The New Black and Tan Fantasy",
+     "duracao": "2:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Riding on a Blue Note",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Lost in Meditation",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "The Gal From Joe's",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Skrontch",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "I Let a Song Go Out of My Heart",
+     "duracao": "3:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Braggin' in Brass",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Dinah's in a Jam",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "You Gave Me the Gate (And I'm Swingin')",
+     "duracao": "2:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Rose of the Rio Grande",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "Rose of the Rio Grande (alternate take)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Pyramid",
+     "duracao": "2:54"
+    },
+    {
+     "n": 15,
+     "titulo": "When My Sugar Walks Down the Street",
+     "duracao": "2:41"
+    },
+    {
+     "n": 16,
+     "titulo": "A Gypsy Without a Song",
+     "duracao": "2:54"
+    },
+    {
+     "n": 17,
+     "titulo": "The Stevedore's Serenade",
+     "duracao": "2:39"
+    },
+    {
+     "n": 18,
+     "titulo": "A Blues Serenade",
+     "duracao": "2:23"
+    },
+    {
+     "n": 19,
+     "titulo": "Love in Swingtime",
+     "duracao": "2:37"
+    },
+    {
+     "n": 20,
+     "titulo": "Please Forgive Me",
+     "duracao": "3:02"
+    },
+    {
+     "n": 21,
+     "titulo": "Lambeth Walk",
+     "duracao": "2:29"
+    },
+    {
+     "n": 22,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "2:58"
+    },
+    {
+     "n": 23,
+     "titulo": "Hip Chic",
+     "duracao": "2:58"
+    },
+    {
+     "n": 24,
+     "titulo": "Buffet Flat",
+     "duracao": "2:29"
+    },
+    {
+     "n": 25,
+     "titulo": "Mighty Like the Blues",
+     "duracao": "2:37"
+    },
+    {
+     "n": 26,
+     "titulo": "Jazz Potpourri",
+     "duracao": "2:57"
+    },
+    {
+     "n": 27,
+     "titulo": "T.T. on Toast",
+     "duracao": "2:48"
+    },
+    {
+     "n": 28,
+     "titulo": "Battle of Swing",
+     "duracao": "2:58"
+    },
+    {
+     "n": 29,
+     "titulo": "Blue Light",
+     "duracao": "2:39"
+    },
+    {
+     "n": 30,
+     "titulo": "Blue Light (alternate take)",
+     "duracao": "2:42"
+    },
+    {
+     "n": 31,
+     "titulo": "Boy Meets Horn",
+     "duracao": "3:02"
+    },
+    {
+     "n": 32,
+     "titulo": "Slap Happy",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 90,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7cd30504-c66b-3195-abb8-fd7da4563d86",
+   "titulo": "Four Symphonic Works by Duke Ellington",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/906a2e49-67c8-4839-a173-994037b98ee2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black, Brown & Beige - Suite",
+     "duracao": "20:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Three Black Kings",
+     "duracao": "19:16"
+    },
+    {
+     "n": 3,
+     "titulo": "New World A-Comin'",
+     "duracao": "13:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Harlem, for Jazz Band and Orchestra",
+     "duracao": "15:19"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b1cf2a77-b5cb-3051-b501-215112fc9373",
+   "titulo": "Orchestral Works",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/a6e7117b-7f88-427d-be62-220f3d69308b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Poetic Commentary A",
+     "duracao": "1:43"
+    },
+    {
+     "n": 2,
+     "titulo": "New World A'coming",
+     "duracao": "11:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Poetic Commentary B",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Harlem - The Golden Broom & The Green Apple",
+     "duracao": "14:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Poetic Commentary C",
+     "duracao": "1:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Stanza 1: The Golden Broom",
+     "duracao": "10:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Poetic Commentary D",
+     "duracao": "1:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Stanza 2: The Green Apple",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Poetic Commentary E",
+     "duracao": "1:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Stanza 3: The Handsome Traffic Policeman",
+     "duracao": "5:57"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3abb8463-f84b-4513-b0fd-5841cff068fb",
+   "titulo": "Take the Holiday Train",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/35e5b20f-971a-4105-b50e-1f94662748fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It's Beginning to Look a Lot Like Christmas",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Sleigh Ride",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "White Christmas",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Santa Claus Is Coming to Town",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Winter Wonderland",
+     "duracao": "2:40"
+    },
+    {
+     "n": 6,
+     "titulo": "I'll Be Home for Christmas",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Jingle Bells / Silver Bells (medley)",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Christmas Song",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Auld Lang Syne",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 3,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2df15f20-10e1-4724-92f4-4427f14a75c5",
+   "titulo": "Up In Duke's Workshop",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/a5bfc821-261b-47a6-afd3-9ded26b5bb74/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blem",
+     "duracao": "6:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Goof",
+     "duracao": "3:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Dick",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Is Just Around The Corner",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Bateau",
+     "duracao": "5:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Wanderlust",
+     "duracao": "6:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Neo-Creole",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Black Butterfly",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Mendoza",
+     "duracao": "5:43"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c4709ac7-91f6-4335-9b06-82304fd63a5b",
+   "titulo": "Happy Reunion",
+   "data": "1991",
+   "ano": "1991",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Way Back Blues",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Where's The Music?",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Rubber Bottom",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Play The Blues and Go",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "In A Mellotone (Take 1)",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "In A Mellotone (Take 2)",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Happy Reunion (Take 1)",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Happy Reunion (Take 2)",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Diminuendo And Crescendo In Blue (The Wailing Interval)",
+     "duracao": "7:20"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "18b7bee0-7539-4ba6-ae01-bdff95100fe8",
+   "titulo": "The Intimate Ellington",
+   "data": "1992",
+   "ano": "1992",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moon Maiden",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Edward the First",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Symphonette",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Intimate Interlude",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Some Summer Fun",
+     "duracao": "5:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Layin' On Mellow",
+     "duracao": "2:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Elub",
+     "duracao": "2:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Tenz",
+     "duracao": "2:34"
+    },
+    {
+     "n": 9,
+     "titulo": "I Got It Bad (And That Ain't Good)",
+     "duracao": "5:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Sophisticated Lady",
+     "duracao": "5:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Edward the Second",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9d096210-fafa-4ae4-b928-4eafe4f555e5",
+   "titulo": "My People",
+   "data": "1992",
+   "ano": "1992",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ain't But the One/Will You Be There?/99%",
+     "duracao": "5:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Come Sunday/David Danced",
+     "duracao": "6:11"
+    },
+    {
+     "n": 3,
+     "titulo": "My Mother, My Father (Heritage)",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Montage",
+     "duracao": "6:56"
+    },
+    {
+     "n": 5,
+     "titulo": "My People/The Blues Ain't",
+     "duracao": "8:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Workin' Blues/My Man Sends Me/Jail Blues/Lovin' Lover",
+     "duracao": "5:58"
+    },
+    {
+     "n": 7,
+     "titulo": "King Fit the Battle of Alabam'",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "What Color Is Virtue?",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "758f25f0-cdd0-4c34-a861-e44acd517b14",
+   "titulo": "Still: Symphony no. 2 \"Song of a New Race\" / Dawson: Negro Folk Symphony / Ellington: Harlem",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/2a55d4cf-bdc5-4c2f-aa4f-b8f5a3b05209/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Symphony no. 2 \"Song of a New Race\": I. Slowly",
+     "duracao": "9:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Symphony no. 2 \"Song of a New Race\": II. Slowly and deeply expressive",
+     "duracao": "8:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Symphony no. 2 \"Song of a New Race\": III. Moderately fast",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Symphony no. 2 \"Song of a New Race\": IV. Moderately slow",
+     "duracao": "7:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Negro Folk Symphony: I. The Bond of Africa",
+     "duracao": "11:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Negro Folk Symphony: II. Hope in the Night",
+     "duracao": "9:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Negro Folk Symphony: III. O, le' me shine, shine like a Morning Star",
+     "duracao": "7:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Harlem",
+     "duracao": "15:47"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ab5452cb-b559-4426-bbf2-309cbf866ff3",
+   "titulo": "Jazz Tribune No.69: Indispensable",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/e9e8e443-6aa4-4b14-82a0-5d2285922534/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I'm Beginning to See the Light",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Black, Brown and Beige",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Carnegie Blues",
+     "duracao": "2:40"
+    },
+    {
+     "n": 4,
+     "titulo": "The Mood to Be Wooed",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "(Otto Make That) Reef Staccato",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Caravan",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Black and Tan Fantasy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Mood Indigo",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "It Don't Mean a Thing (If You Ain't Got That Swing)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Sophisticated Lady",
+     "duracao": "2:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Tonight I Shall Sleep (with a Smile on My Face)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 14,
+     "titulo": "I Let the Song Go Out of My Heart",
+     "duracao": "3:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Solitude",
+     "duracao": "3:02"
+    },
+    {
+     "n": 16,
+     "titulo": "Black Beauty",
+     "duracao": "2:43"
+    },
+    {
+     "n": 17,
+     "titulo": "Perfume Suite",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Time's a Wastin' (Things Ain't What They Used to Be)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 19,
+     "titulo": "Rockabye River",
+     "duracao": "3:03"
+    },
+    {
+     "n": 20,
+     "titulo": "Suddenly It Jumped",
+     "duracao": "2:48"
+    },
+    {
+     "n": 21,
+     "titulo": "Transblucency",
+     "duracao": "2:56"
+    },
+    {
+     "n": 22,
+     "titulo": "Just Squeeze Me",
+     "duracao": "3:25"
+    },
+    {
+     "n": 23,
+     "titulo": "A Gathering in a Clearing",
+     "duracao": "3:08"
+    },
+    {
+     "n": 24,
+     "titulo": "Beale Street Blues",
+     "duracao": "2:52"
+    },
+    {
+     "n": 25,
+     "titulo": "Memphis Blues",
+     "duracao": "3:00"
+    },
+    {
+     "n": 26,
+     "titulo": "St. Louis Blues",
+     "duracao": "2:58"
+    },
+    {
+     "n": 27,
+     "titulo": "Swamp Fire",
+     "duracao": "2:49"
+    },
+    {
+     "n": 28,
+     "titulo": "Royal Garden Blues",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f89bbe8e-eb85-4a17-af4c-4f0b7fa44c3e",
+   "titulo": "Still: Symphony no. 1 \"Afro-American\" / Ellington: Suite from \"The River\"",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/5c3de8e4-720a-4334-97d7-975f1f579340/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Symphony no. 1 \"Afro-American\": I. Moderato assai",
+     "duracao": "7:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Symphony no. 1 \"Afro-American\": II. Adagio",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Symphony no. 1 \"Afro-American\": III. Animato",
+     "duracao": "3:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Symphony no. 1 \"Afro-American\": IV. Lento, con risoluzione",
+     "duracao": "8:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Suite from \"The River\": I. Spring",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Suite from \"The River\": II. Meander",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Suite from \"The River\": III. Giggling Rapids",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Suite from \"The River\": IV. Lake",
+     "duracao": "6:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Suite from \"The River\": V. Vortex",
+     "duracao": "2:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Suite from \"The River\": VI. Riba",
+     "duracao": "3:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Suite from \"The River\": VII. Village Virgins",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "76af1eb8-a68d-48a5-84dc-68b5668afcdb",
+   "titulo": "One O'Clock Jump",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/43dc4267-bdaf-4af1-837d-fbb866f8d254/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crosstown",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Everything Goes",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Transblucency",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Rugged Romeo",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Tip Toe Topic",
+     "duracao": "2:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Rockabye River",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "The Unbooted Character",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "The Suburbanite",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Moon Mist",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "In a Jam",
+     "duracao": "3:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Indiana",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "I Can't Believe That You're in Love With Me",
+     "duracao": "3:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Someone",
+     "duracao": "3:25"
+    },
+    {
+     "n": 14,
+     "titulo": "The Mooche",
+     "duracao": "4:32"
+    },
+    {
+     "n": 15,
+     "titulo": "Tea for Two",
+     "duracao": "1:54"
+    },
+    {
+     "n": 16,
+     "titulo": "One O'Clock Jump",
+     "duracao": "5:37"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "742a4fcd-3841-3dc0-b7d7-b17f1525c236",
+   "titulo": "Paris Blues",
+   "data": "1998-02-24",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/95725889-661d-4eb8-8a83-e38ed2d4b85a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "2:14"
+    },
+    {
+     "n": 2,
+     "titulo": "You Know Something?",
+     "duracao": "0:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Battle Royal",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Bird Jungle",
+     "duracao": "1:59"
+    },
+    {
+     "n": 5,
+     "titulo": "What's Paris Blues?",
+     "duracao": "0:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Mood Indigo",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Autumnal Suite",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Nite",
+     "duracao": "3:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Wild Man Moore",
+     "duracao": "1:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Paris Stairs",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "I Wasn't Shopping",
+     "duracao": "0:21"
+    },
+    {
+     "n": 12,
+     "titulo": "Guitar Amour",
+     "duracao": "2:02"
+    },
+    {
+     "n": 13,
+     "titulo": "A Return Reservation",
+     "duracao": "0:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Paris Blues",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6c118ed1-dad3-368b-82aa-2093011778e6",
+   "titulo": "Reflections on Duke",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/c2ae6f53-7376-4ed0-8673-eed625968f03/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jubilee Stomp",
+     "duracao": "2:39"
+    },
+    {
+     "n": 2,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "5:14"
+    },
+    {
+     "n": 3,
+     "titulo": "I Got It Bad and That Ain't Good",
+     "duracao": "2:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "3:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Sophisticated Lady",
+     "duracao": "5:56"
+    },
+    {
+     "n": 6,
+     "titulo": "The Clothed Woman",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Day Dream",
+     "duracao": "5:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Tonk",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Beggar's Holiday Suite",
+     "duracao": "9:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Lush Life",
+     "duracao": "6:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Fantasy on Caravan",
+     "duracao": "5:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Comes Sunday",
+     "duracao": "4:54"
+    },
+    {
+     "n": 13,
+     "titulo": "A Single Petal of a Rose",
+     "duracao": "3:46"
+    },
+    {
+     "n": 14,
+     "titulo": "Solitude",
+     "duracao": "5:28"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "381b6851-36ee-49e1-8508-c6f5f1fbb5eb",
+   "titulo": "A Tone Parallel to Harlem",
+   "data": "1999-11-09",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/1b910ab0-d431-457c-9881-69203030daf2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Harlem / A Tone Parallel to Harlem",
+     "duracao": "14:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Ring Dem Bells",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Things Ain’t What They Used to Be / Time’s a Wastin’",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Créole Love Call",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Drop Me Off in Harlem",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Just Squeeze Me (But Don’t Tease Me)",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Caravan",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Harlem Air Shaft",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Moon Mist",
+     "duracao": "4:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Jungle Traps",
+     "duracao": "5:47"
+    },
+    {
+     "n": 12,
+     "titulo": "Duke on My Mind",
+     "duracao": "4:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Lot O’Fingers",
+     "duracao": "2:49"
+    },
+    {
+     "n": 14,
+     "titulo": "Magenta Haze",
+     "duracao": "3:20"
+    },
+    {
+     "n": 15,
+     "titulo": "Diminuendo in Blue — Blow by Blow / Crescendo",
+     "duracao": "8:32"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6aba6f03-8136-3b1e-b82a-16c10320db53",
+   "titulo": "Classic Ellington",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/49a4fb58-f5ce-4095-9c94-f021ff1644f3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "9:09"
+    },
+    {
+     "n": 2,
+     "titulo": "You're the One",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Sophisticated Lady",
+     "duracao": "5:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Harlem (A Tone Parallel to Harlem)",
+     "duracao": "14:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Isfahan",
+     "duracao": "4:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Ad Lib on Nippon",
+     "duracao": "8:56"
+    },
+    {
+     "n": 7,
+     "titulo": "That Doo-Wah Thing",
+     "duracao": "9:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Something to Live For",
+     "duracao": "4:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Come Sunday",
+     "duracao": "5:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Solitude in Transblucency",
+     "duracao": "4:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Maybe",
+     "duracao": "2:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "7:18"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "deac222d-a10e-42f0-9d0e-fcb0494741ea",
+   "titulo": "Swingin' With The Duke",
+   "data": "2000",
+   "ano": "2000",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stompin' At The Savoy",
+     "duracao": "5:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Tune Up",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Take The 'A' Train (Instrumental)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Cool And Groovy",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "September 12th Blues",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Three Trumps",
+     "duracao": "2:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Scene",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Feet Bone",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Wailing Interval",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "The Riff",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Waiting For You",
+     "duracao": "4:09"
+    },
+    {
+     "n": 12,
+     "titulo": "The Sky Fell Down",
+     "duracao": "3:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Countdown",
+     "duracao": "2:34"
+    },
+    {
+     "n": 14,
+     "titulo": "'G' For Groove",
+     "duracao": "4:17"
+    },
+    {
+     "n": 15,
+     "titulo": "West Indian Dance",
+     "duracao": "2:16"
+    },
+    {
+     "n": 16,
+     "titulo": "Harmony In Harlem",
+     "duracao": "4:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Main Stem",
+     "duracao": "3:26"
+    },
+    {
+     "n": 18,
+     "titulo": "Things Ain't What They Used To Be (Instrumental)",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "def25101-3e36-40b2-a9c9-5fadadfa3e5b",
+   "titulo": "Caravan",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/819bbb00-9f93-4116-995f-aa06c308be12/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "2:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Get Around Much Anymore",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Cotton Tail (Shuckin! and Stiffin')",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "I Got It Bad and That Ain't Good",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Concerto for Cootie (Do Nothin' till Your Hear from Me)",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "I Let a Song Go out of My Heart",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Caravan",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Merry-Go-Round",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "In a Mellotone",
+     "duracao": "3:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Sophisticated Lady",
+     "duracao": "3:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Ko-Ko",
+     "duracao": "2:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Harlem Airshaft",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f4e9a283-4130-3dc5-b719-6dccc3a803c8",
+   "titulo": "Collages",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/1cf16862-db06-463d-b5c2-7192eaa1e84f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Aurora Borealis",
+     "duracao": "10:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Nameless Hour",
+     "duracao": "9:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Collage No. 3",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Fair Wind",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Silent Night, Lonely Night",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Song and Dance",
+     "duracao": "9:32"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d953acf-626c-423b-b4c2-8960c40446d8",
+   "titulo": "Ellington: Suite from \"The River\" / Harlem / Solitude / Dawson: Negro Folk Symphony",
+   "data": "2001-04-17",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/09ab6d92-efa0-4dd3-94b4-5fd687f35595/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Negro Folk Symphony: I. The Bond of Africa",
+     "duracao": "11:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Negro Folk Symphony: II. Hope in the Night",
+     "duracao": "9:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Negro Folk Symphony: III. O, Le' Me Shine, Shine Like a Morning Star!",
+     "duracao": "7:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Suite from \"The River\": I. Spring",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Suite from \"The River\": II. Meander",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Suite from \"The River\": III. Giggling Rapids",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Suite from \"The River\": IV. Lake",
+     "duracao": "6:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Suite from \"The River\": V. Vortex",
+     "duracao": "2:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Suite from \"The River\": VI. Riba",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Suite from \"The River\": VII. Village Virgins",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Solitude",
+     "duracao": "3:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Harlem",
+     "duracao": "15:49"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "491ff9e7-aa29-41cc-8635-cd4f95a32ad4",
+   "titulo": "Jazz Caravan",
+   "data": "2002",
+   "ano": "2002",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the \"A\" train",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Creole Love Call",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "The Mooche",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Shout 'Em Aunt Tillie",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Creole Rhapsody, Part 1",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Creole Rhapsody, Part 2",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Rude Interlude",
+     "duracao": "3:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Rumpus in Richmond",
+     "duracao": "2:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Concerto for Cootie",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Dusk",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Me and You",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Transblucency",
+     "duracao": "3:01"
+    },
+    {
+     "n": 13,
+     "titulo": "Tonk",
+     "duracao": "2:48"
+    },
+    {
+     "n": 14,
+     "titulo": "Caravan",
+     "duracao": "4:16"
+    },
+    {
+     "n": 15,
+     "titulo": "Depk",
+     "duracao": "2:39"
+    },
+    {
+     "n": 16,
+     "titulo": "The Majesty of God",
+     "duracao": "7:07"
+    },
+    {
+     "n": 17,
+     "titulo": "Medley: East St. Louis Toodle-O/Lot o'Fingers/Black and Tan Fantasy",
+     "duracao": "7:32"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d056a1d1-5db6-482e-96fc-a76ea8ff8c53",
+   "titulo": "Love You Madly",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/db491461-8d8d-4e91-980d-9c174d2e3ff8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Star-Spangled Banner",
+     "duracao": "1:28"
+    },
+    {
+     "n": 2,
+     "titulo": "The Mooche",
+     "duracao": "5:54"
+    },
+    {
+     "n": 3,
+     "titulo": "How High The Moon",
+     "duracao": "6:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Lullaby Of Birdland",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "The Hawk Talks",
+     "duracao": "3:18"
+    },
+    {
+     "n": 6,
+     "titulo": "The Tatooed Bride",
+     "duracao": "11:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Medley: Don't Get Around Much Anymore/In A Sentimental Mood/Mood Indigo/I'm Beginning To See The Light/Sophisticated Lady/Caravan/It Don't Mean A Thing (If It Ain't Got That Swing)/Solitude/I Let A Song Go Out Of My Heart",
+     "duracao": "7:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Lover Come Back To Me",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d26c859b-901b-48ba-843d-fcebcc9c77d8",
+   "titulo": "I Grandi Del Jazz - Duke Ellington",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/fc7f6164-bb4d-4c47-873d-6e8d4b47556a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caravan",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "St. Louis Blues",
+     "duracao": "5:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Stompy Jones",
+     "duracao": "6:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Going up",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Total jazz",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Jam with Sam",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Loveless love",
+     "duracao": "7:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Diminuendo in blue and blow by blow",
+     "duracao": "7:39"
+    },
+    {
+     "n": 9,
+     "titulo": "La plus belle Africaine",
+     "duracao": "13:58"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ba7da87f-aae7-4b9b-aa45-4ace18c15648",
+   "titulo": "The Blues I Love To Sing",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/053eebc0-45b5-4360-9cdf-274795db6cdf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It Don't Mean A Thing (If It Ain't Got That Swing) (Vocal: Ivie Anderson)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Mood Indigo",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Take It Easy",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Saratoga Swing",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "The Blues I love To Sing (Vocal: Adelaide Hall)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Cotton Club Stomp",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "St Louis Blues (Vocal: Bing Crosby)",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "The Sheik Of Araby",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Blue Tune",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Creole Love Call (Vocal: Adelaide Hall)",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Caravan",
+     "duracao": "2:44"
+    },
+    {
+     "n": 12,
+     "titulo": "I Let A Song Go Out Of My Heart",
+     "duracao": "3:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Solitude (Vocal: Ivie Anderson)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Don't Get Around Much Anymore",
+     "duracao": "3:19"
+    },
+    {
+     "n": 15,
+     "titulo": "Bojangles",
+     "duracao": "3:09"
+    },
+    {
+     "n": 16,
+     "titulo": "Take The 'A' Team",
+     "duracao": "2:55"
+    },
+    {
+     "n": 17,
+     "titulo": "I Got It Bad And That Ain't Good (Vocal: Ivie Anderson)",
+     "duracao": "3:19"
+    },
+    {
+     "n": 18,
+     "titulo": "Perdido",
+     "duracao": "3:11"
+    },
+    {
+     "n": 19,
+     "titulo": "What Am I Here For?",
+     "duracao": "3:26"
+    },
+    {
+     "n": 20,
+     "titulo": "Moon Over Dixie (Vocal:Sonny Greer)",
+     "duracao": "2:56"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c3c2a399-53aa-4ff0-8a8a-937314c640c3",
+   "titulo": "Jazz Moods - Hot",
+   "data": "2004",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/038c47c2-ef2d-4f59-aa2e-a303a61d80d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hot and Bothered",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Cotton Tail",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "The Mooche",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Battle of Swing",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Rockin' in Rhythm",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Braggin' in Brass",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Caravan",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Ring Dem Bells",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Merry-Go-Round",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "East St. Louis Toodle-Oo",
+     "duracao": "3:04"
+    },
+    {
+     "n": 12,
+     "titulo": "In a Jam",
+     "duracao": "2:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Take the ''a'' Train",
+     "duracao": "2:53"
+    },
+    {
+     "n": 14,
+     "titulo": "Tootin' Through the Roof",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8ff24ec6-701d-43bc-b00a-a2f39a6b01cd",
+   "titulo": "Classic Recordings, Vol. 5 (1938): Braggin' in Brass",
+   "data": "2004-01-01",
+   "ano": "2004",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stepping into Swing Society",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "The Gal from Joe's",
+     "duracao": "5:15"
+    },
+    {
+     "n": 3,
+     "titulo": "I Let a Song Go Out of My Heart",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Braggin' in Brass",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Dinah's in a Jam",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "You Gave Me the Gate and I'm Swingin': You Gave Me the Gate (and I'm Swingin')",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Pyramid",
+     "duracao": "2:55"
+    },
+    {
+     "n": 8,
+     "titulo": "When My Sugar Walks Down the Street",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "A Gypsy Without a Song",
+     "duracao": "2:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Watermelon Man",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Please Forgive Me",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Lambeth Walk",
+     "duracao": "2:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "3:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Buffet Flat",
+     "duracao": "2:27"
+    },
+    {
+     "n": 15,
+     "titulo": "T. T. On Toast",
+     "duracao": "2:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Blue Light (Transblucency)",
+     "duracao": "2:43"
+    },
+    {
+     "n": 17,
+     "titulo": "Old King Dooji",
+     "duracao": "2:33"
+    },
+    {
+     "n": 18,
+     "titulo": "Boy Meets Horn",
+     "duracao": "3:02"
+    },
+    {
+     "n": 19,
+     "titulo": "Mighty Like the Blues",
+     "duracao": "2:39"
+    },
+    {
+     "n": 20,
+     "titulo": "Slap Happy",
+     "duracao": "2:45"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "07f3688f-16a3-4bd9-a9db-ceee1ae3a02c",
+   "titulo": "Concept of Freedom",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/d3316ce5-4427-4e4e-9a16-64b847bbf209/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part I",
+     "duracao": "9:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part Ii",
+     "duracao": "8:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part Iii",
+     "duracao": "8:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part Iv",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part V",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part Vi",
+     "duracao": "10:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Comp. No. 257 (30, 31, 46, 69, 90 & 136) / Freedom No. 1, 4 & 6 From the Sacred Concert No. 2: Part Vii",
+     "duracao": "11:04"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4dea6f3c-c220-42b7-b97a-5a9a86fba31d",
+   "titulo": "The Piano Player",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/c7e21edf-1c10-4df3-8c74-ef14d77a9218/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Meditation #1",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Single Petal of a RoseBlues #1",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Blues #1",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Nagoya",
+     "duracao": "8:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Unidentified title/ Little African Flower",
+     "duracao": "1:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Meditation #2",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "T.G.T.T./Little Purple Flower/ The River",
+     "duracao": "6:38"
+    },
+    {
+     "n": 8,
+     "titulo": "The Spring",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "The Run",
+     "duracao": "2:46"
+    },
+    {
+     "n": 10,
+     "titulo": "The Meander",
+     "duracao": "2:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Grap (The Giggling Rapids)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 12,
+     "titulo": "The Lake",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Stud (The Neo-Hip-Hot Cool Kiddies Community)",
+     "duracao": "2:25"
+    },
+    {
+     "n": 14,
+     "titulo": "Riddle",
+     "duracao": "7:01"
+    },
+    {
+     "n": 15,
+     "titulo": "Blues #2",
+     "duracao": "6:47"
+    },
+    {
+     "n": 16,
+     "titulo": "Blues #3",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "59d8af5a-1465-4e52-8077-f9f4a756b325",
+   "titulo": "Rockin' in Rhythm",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/5ba6b61c-483d-415c-8f3d-e1dc1c108f84/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockin' in Rhythm",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Jazz Convulsions",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Black and Blue",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Transblucency",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "St Louis Blues",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Saratoga Swing",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Misty Mornin'",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Creole Love Call",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Take It Easy",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Diga Diga Doo",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "I Let a Song Go Out of My Heart",
+     "duracao": "3:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Caravan",
+     "duracao": "2:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Black and Tan Fantasy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 14,
+     "titulo": "Bojangles",
+     "duracao": "2:54"
+    },
+    {
+     "n": 15,
+     "titulo": "Just Squeeze Me",
+     "duracao": "3:20"
+    },
+    {
+     "n": 16,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "3:04"
+    },
+    {
+     "n": 17,
+     "titulo": "Everything but You",
+     "duracao": "2:52"
+    },
+    {
+     "n": 18,
+     "titulo": "Portrait of Bert Williams",
+     "duracao": "3:11"
+    },
+    {
+     "n": 19,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "3:03"
+    },
+    {
+     "n": 20,
+     "titulo": "The Wonder of You",
+     "duracao": "2:46"
+    },
+    {
+     "n": 21,
+     "titulo": "Someone",
+     "duracao": "3:11"
+    },
+    {
+     "n": 22,
+     "titulo": "I Ain't Got Nothing' but the Blues",
+     "duracao": "2:42"
+    },
+    {
+     "n": 23,
+     "titulo": "A Gathering in a Clearing",
+     "duracao": "3:10"
+    },
+    {
+     "n": 24,
+     "titulo": "The Clothed Woman",
+     "duracao": "2:53"
+    },
+    {
+     "n": 25,
+     "titulo": "Stop, Look and Listen",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e018f7dd-f76e-40ff-878f-07a549400c15",
+   "titulo": "West Coast Swing",
+   "data": "2006",
+   "ano": "2006",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Felanges",
+     "duracao": "4:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Good Woman Blues",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Ting a Ling",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Johnny Come Lately",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "W.C.",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Margie",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Moonlight Fiesta",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Tenderly",
+     "duracao": "4:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Beauty",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "The Jeep is Jumping",
+     "duracao": "3:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Blues at Sundown",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Basin Street Blues",
+     "duracao": "5:30"
+    },
+    {
+     "n": 13,
+     "titulo": "One O'Clock Jump",
+     "duracao": "7:31"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0c4b1457-7312-45e3-b03a-746e6afd287c",
+   "titulo": "Columbia Jazz Profiles",
+   "data": "2008",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/c13c4ceb-5dcf-4b21-89b2-e087ed612eda/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the “A” Train",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Rockin’ in Rhythm",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Creole Love Call",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Mooche",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Sophisticated Lady",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "In a Sentimental Mood",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Caravan",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "I Let a Song Go Out of My Heart",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Crescendo in Blue",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Dimuendo in Blue",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Jeep’s Blues",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "I’m Beginning to See the Light",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Mood Indigo",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Come Sunday",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Satin Doll",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7cdcf05d-e786-4f1a-ad85-12352283c6dc",
+   "titulo": "At the Côte d’Azur with Ella Fitzgerald and Joan Miró/The Last Jam Session",
+   "data": "2008",
+   "ano": "2008",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Opener",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Such Sweet Thunder",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Medley: Black and Tan Fantasy / Creole Love Call / The Mooche",
+     "duracao": "9:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Kinda Dukish",
+     "duracao": "4:36"
+    },
+    {
+     "n": 5,
+     "titulo": "The Shepherd",
+     "duracao": "7:00"
+    },
+    {
+     "n": 6,
+     "titulo": "The Old Train Turn-Around Blues",
+     "duracao": "7:26"
+    },
+    {
+     "n": 7,
+     "titulo": "La Plus Belle Africaine",
+     "duracao": "10:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Satin Doll",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Something to Live For",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Jazz Samba",
+     "duracao": "5:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "1:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Ending Credits",
+     "duracao": "0:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Opening",
+     "duracao": "2:37"
+    },
+    {
+     "n": 14,
+     "titulo": "The Brotherhood",
+     "duracao": "6:42"
+    },
+    {
+     "n": 15,
+     "titulo": "Just Squeeze Me",
+     "duracao": "12:38"
+    },
+    {
+     "n": 16,
+     "titulo": "Carnegie Blues",
+     "duracao": "16:53"
+    },
+    {
+     "n": 17,
+     "titulo": "The Hawk Talks",
+     "duracao": "5:30"
+    },
+    {
+     "n": 18,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "23:16"
+    },
+    {
+     "n": 19,
+     "titulo": "Cotton Tail",
+     "duracao": "8:45"
+    },
+    {
+     "n": 20,
+     "titulo": "Everything but You",
+     "duracao": "5:22"
+    },
+    {
+     "n": 21,
+     "titulo": "Love You Madly",
+     "duracao": "8:42"
+    },
+    {
+     "n": 22,
+     "titulo": "Fragmented Suite for Piano & Bass",
+     "duracao": "5:10"
+    }
+   ],
+   "duracao_min": 158,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "00efaf6c-0b31-4aa3-9d61-0ef3d0ecf044",
+   "titulo": "Blue Note Jazz Inspiration",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/4edaaffc-e521-4565-8a3b-4b67557e5a90/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Satin Doll",
+     "duracao": "2:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Flamingo",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Just a Sittin’ and a Rockin’",
+     "duracao": "3:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Black and Tan Fantasy",
+     "duracao": "5:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Things Ain’t What They Used to Be",
+     "duracao": "6:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Rockin’ in Rhythm",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "C Jam Blues",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Caravan",
+     "duracao": "4:30"
+    },
+    {
+     "n": 10,
+     "titulo": "The Mooche",
+     "duracao": "3:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Mood Indigo",
+     "duracao": "3:59"
+    },
+    {
+     "n": 12,
+     "titulo": "I Got It Bad and That Ain’t Good",
+     "duracao": "5:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Fleurette Africaine (African Flower)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Solitude",
+     "duracao": "5:32"
+    },
+    {
+     "n": 15,
+     "titulo": "Body and Soul",
+     "duracao": "4:53"
+    },
+    {
+     "n": 16,
+     "titulo": "In the Mood",
+     "duracao": "6:00"
+    },
+    {
+     "n": 17,
+     "titulo": "Take the “A” Train (live)",
+     "duracao": "5:05"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2c526bbc-b187-4b86-bae6-7b8fc8694225",
+   "titulo": "Duke Ellington's My People - The Complete Show",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/10cb7e0d-f1bc-41e1-bebd-7b17fb345e1f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jungle Triangle #1",
+     "duracao": "2:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Come Sunday",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Will You Be There / 99% Won't Do",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Ain't but No One",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "David Danced",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Heritage (My Mother, My Father and Love) #1",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "After Bird Jungle",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Montage",
+     "duracao": "6:56"
+    },
+    {
+     "n": 9,
+     "titulo": "My People (Soap Box)",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "The Blues Ain't",
+     "duracao": "5:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Blues at Sundown",
+     "duracao": "2:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Walking and Singing the Blues",
+     "duracao": "2:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Working Blues",
+     "duracao": "2:01"
+    },
+    {
+     "n": 14,
+     "titulo": "My Man Sends Me",
+     "duracao": "1:21"
+    },
+    {
+     "n": 15,
+     "titulo": "Jail Blues",
+     "duracao": "1:58"
+    },
+    {
+     "n": 16,
+     "titulo": "I Love My Lovin' Lover",
+     "duracao": "2:24"
+    },
+    {
+     "n": 17,
+     "titulo": "Jungle Triangle #2",
+     "duracao": "3:45"
+    },
+    {
+     "n": 18,
+     "titulo": "King Fit the Battle of Alabam",
+     "duracao": "3:24"
+    },
+    {
+     "n": 19,
+     "titulo": "King",
+     "duracao": "5:20"
+    },
+    {
+     "n": 20,
+     "titulo": "Purple People",
+     "duracao": "1:39"
+    },
+    {
+     "n": 21,
+     "titulo": "What Color Is Virtue",
+     "duracao": "2:50"
+    },
+    {
+     "n": 22,
+     "titulo": "Purple People - Music",
+     "duracao": "2:09"
+    },
+    {
+     "n": 23,
+     "titulo": "Piano Blues Ouverture",
+     "duracao": "2:52"
+    },
+    {
+     "n": 24,
+     "titulo": "Strange Feeling",
+     "duracao": "4:06"
+    },
+    {
+     "n": 25,
+     "titulo": "Heritage (My Mother, My Father and Love) #2",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a6015061-b98e-439a-9de1-51ee60f7f14e",
+   "titulo": "Black, Brown, and Beige",
+   "data": "2013-02-26",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/6041598d-d5a3-4420-949e-e57b3546a002/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Harlem",
+     "duracao": "14:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Black, Brown, and Beige: I. Black",
+     "duracao": "8:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Black, Brown, and Beige: II. Brown",
+     "duracao": "5:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Black, Brown, and Beige: III. Beige",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Three Black Kings: I. King of the Magi",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Three Black Kings: II. King Solomon",
+     "duracao": "6:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Three Black Kings: III. Martin Luther King",
+     "duracao": "6:59"
+    },
+    {
+     "n": 8,
+     "titulo": "The River: I. The Spring",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "The River: II. The Meander",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "The River: III. The Giggling Rapids",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "The River: IV. The Lake",
+     "duracao": "7:18"
+    },
+    {
+     "n": 12,
+     "titulo": "The River: V. The River",
+     "duracao": "3:19"
+    },
+    {
+     "n": 13,
+     "titulo": "Take the 'A' Train",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c556b291-3e21-4b3c-94b3-1e37a09979d3",
+   "titulo": "Nutcracker Suites",
+   "data": "2013-09-30",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/043abbd6-e3df-43a4-ac37-2153af662c6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Nutcracker Suite, Op. 71a: Overture",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "The Nutcracker Suite, Op. 71a: March",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "The Nutcracker Suite, Op. 71a: Dance of the Sugar Plum Fairy",
+     "duracao": "1:39"
+    },
+    {
+     "n": 4,
+     "titulo": "The Nutcracker Suite, Op. 71a: Trépak (Russian Dance)",
+     "duracao": "1:16"
+    },
+    {
+     "n": 5,
+     "titulo": "The Nutcracker Suite, Op. 71a: Arabian Dance",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "The Nutcracker Suite, Op. 71a: Chinese Dance",
+     "duracao": "1:08"
+    },
+    {
+     "n": 7,
+     "titulo": "The Nutcracker Suite, Op. 71a: Dance of the Mirlitons (Reed Flutes)",
+     "duracao": "2:22"
+    },
+    {
+     "n": 8,
+     "titulo": "The Nutcracker Suite, Op. 71a: Waltz of the Flowers",
+     "duracao": "6:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Nutcracker Suite: Overture",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Nutcracker Suite: Toot Toot Tootie Toot (Dance of the Reed-Pipes)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Nutcracker Suite: Peanut Brittle Brigade (March)",
+     "duracao": "4:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Nutcracker Suite: Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 13,
+     "titulo": "Nutcracker Suite: Entr'acte",
+     "duracao": "1:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Nutcracker Suite: The Volga Vouty (Russian Dance)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "Nutcracker Suite: Chinoiserie (Chinese Dance)",
+     "duracao": "2:57"
+    },
+    {
+     "n": 16,
+     "titulo": "Nutcracker Suite: Danse of the Floreadores (Waltz of the Flowers)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 17,
+     "titulo": "Nutcracker Suite: Arabesque Cookie (Arabian Dance)",
+     "duracao": "5:53"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3175b9a1-50ea-4eb5-be09-696ca4836ea8",
+   "titulo": "Battle of Swing, Vol. 2",
+   "data": "2013-10-09",
+   "ano": "2013",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "On a Turquoise Cloud",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Stomp, Look and Listen",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Maybe I Should Change My Ways",
+     "duracao": "3:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Sultry Serenade",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Golden Cress",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "You're Just an Old Antidisestablishmentarianismist",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Lady of the Lavender Mist",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Hy'a Sue",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Sophisticated Lady",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Tootin' Through the Roof",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Three Cent Stomp",
+     "duracao": "3:02"
+    },
+    {
+     "n": 12,
+     "titulo": "Don't Get Around Much Anymore",
+     "duracao": "3:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Progressive Gavotte",
+     "duracao": "2:57"
+    },
+    {
+     "n": 14,
+     "titulo": "I Like the Sunrise",
+     "duracao": "4:31"
+    },
+    {
+     "n": 15,
+     "titulo": "Snibor",
+     "duracao": "2:53"
+    },
+    {
+     "n": 16,
+     "titulo": "The Tattooed Bride",
+     "duracao": "11:43"
+    },
+    {
+     "n": 17,
+     "titulo": "Brown Betty",
+     "duracao": "3:06"
+    },
+    {
+     "n": 18,
+     "titulo": "Primpin' at the Prom",
+     "duracao": "3:03"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f53204cb-6a65-496e-a968-0a9b4542e333",
+   "titulo": "Battle Of Swing, Vol. 3",
+   "data": "2013-10-09",
+   "ano": "2013",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "C Jam Blues",
+     "duracao": "4:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Perdido",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Flirtibird",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Satin Doll",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Dancers in Love",
+     "duracao": "2:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue Rose",
+     "duracao": "2:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Solitude",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Jeep's Blues",
+     "duracao": "4:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Monologue (Pretty and the Wolf)",
+     "duracao": "2:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Happy Go Lucky Local",
+     "duracao": "3:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Something to Live For",
+     "duracao": "2:44"
+    },
+    {
+     "n": 13,
+     "titulo": "Creole Blues",
+     "duracao": "2:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Dance of the Floreadores (Waltz of the Flowers)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 15,
+     "titulo": "Lotus Blossom",
+     "duracao": "3:14"
+    },
+    {
+     "n": 16,
+     "titulo": "A Midnight in Paris",
+     "duracao": "3:38"
+    },
+    {
+     "n": 17,
+     "titulo": "Asphalt Jungle Theme",
+     "duracao": "2:43"
+    },
+    {
+     "n": 18,
+     "titulo": "Battle Royal",
+     "duracao": "5:34"
+    },
+    {
+     "n": 19,
+     "titulo": "Duke Loves You Madly",
+     "duracao": "0:10"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b9a08eaf-c51b-4c90-89d6-f1c4448ccf01",
+   "titulo": "Battle of Swing, Vol. 1",
+   "data": "2013-10-30",
+   "ano": "2013",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Gal from Joe's",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Caravan",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "In a Jam",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Showboat Shuffle",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Saddest Tale",
+     "duracao": "3:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Slippery Horn",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Ring Dem Bells",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Black Beauty",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Hot and Bothered",
+     "duracao": "2:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Braggin' in Brass",
+     "duracao": "2:44"
+    },
+    {
+     "n": 12,
+     "titulo": "I Let a Song Go out of My Heart",
+     "duracao": "3:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Battle of Swing",
+     "duracao": "2:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Slap Happy",
+     "duracao": "2:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Old King Dooji",
+     "duracao": "2:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Portrait of the Lion",
+     "duracao": "2:24"
+    },
+    {
+     "n": 17,
+     "titulo": "Country Gal",
+     "duracao": "2:57"
+    },
+    {
+     "n": 18,
+     "titulo": "Little Posey",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6593f3db-9c40-4eea-8daf-7c3138173f67",
+   "titulo": "In Gröna Lund 1963",
+   "data": "2014-05-14",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/cab02e14-3c54-4a6f-a801-09c2220368cd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boo-Dah",
+     "duracao": "1:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Laura",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Main Stem",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Take the \"A\" Train",
+     "duracao": "7:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Suite Thursday: Misfit Blues / Schwiphti / Zweet Thursday / Lay-By",
+     "duracao": "20:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Deep Purple",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Silk Lace",
+     "duracao": "6:04"
+    },
+    {
+     "n": 8,
+     "titulo": "New Concerto for Cootie",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Tootie for Cootie",
+     "duracao": "6:00"
+    },
+    {
+     "n": 10,
+     "titulo": "The Star Crossed Lovers",
+     "duracao": "4:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "3:19"
+    },
+    {
+     "n": 12,
+     "titulo": "Intermission Music by Duke Ellington",
+     "duracao": "6:18"
+    },
+    {
+     "n": 13,
+     "titulo": "I Didn't Know About You",
+     "duracao": "3:43"
+    },
+    {
+     "n": 14,
+     "titulo": "All of Me",
+     "duracao": "2:33"
+    },
+    {
+     "n": 15,
+     "titulo": "Jeep's Blues",
+     "duracao": "5:01"
+    },
+    {
+     "n": 16,
+     "titulo": "Rose of the Rio Grande",
+     "duracao": "3:30"
+    },
+    {
+     "n": 17,
+     "titulo": "Black and Tan Fantasy",
+     "duracao": "7:30"
+    },
+    {
+     "n": 18,
+     "titulo": "Kinda Dukish / Rockin' in Rhythm",
+     "duracao": "7:35"
+    },
+    {
+     "n": 19,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "4:00"
+    },
+    {
+     "n": 20,
+     "titulo": "Mr. Gentle and Mr. Cool",
+     "duracao": "8:05"
+    },
+    {
+     "n": 21,
+     "titulo": "Lullaby of Birdland",
+     "duracao": "7:14"
+    },
+    {
+     "n": 22,
+     "titulo": "Mood Indigo",
+     "duracao": "5:38"
+    },
+    {
+     "n": 23,
+     "titulo": "Sophisticated Lady",
+     "duracao": "3:55"
+    },
+    {
+     "n": 24,
+     "titulo": "I Let a Song Go out of My Heart / Don't Get Around Much Anymore",
+     "duracao": "3:57"
+    },
+    {
+     "n": 25,
+     "titulo": "One More Once or One More Bossa Nova",
+     "duracao": "4:12"
+    },
+    {
+     "n": 26,
+     "titulo": "One More Once or One More Twist",
+     "duracao": "1:01"
+    }
+   ],
+   "duracao_min": 139,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dbb15b1b-ade3-429f-84f2-32a24a085401",
+   "titulo": "The Duke: Historically Speaking",
+   "data": "2014-07-24",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/c6c08c12-d85f-4107-ac7c-563f5c5b5265/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "East St. Louis Toodle-O",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Creole Love Call",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Stompy Jones",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "The Jeep Is Jumpin'",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Jack the Bear",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "In a Mellow Tone",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Ko-Ko",
+     "duracao": "2:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Midriff",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Stomp Look and Listen",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "The Unbooted Character",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Lonesome Lullaby",
+     "duracao": "3:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Upper Manhattan Medical Group",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Historically_Speaking_%28Duke_Ellington_album%29",
+   "resumo_en": "Historically Speaking is an album by American pianist, composer and bandleader Duke Ellington recorded for the Bethlehem label in 1956. The album features updated arrangements of many of Ellington's early compositions.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6a986cf3-212a-4ca9-9a33-f6a600e3a303",
+   "titulo": "Manhattan Intermezzo: American and British Works for Piano and Orchestra",
+   "data": "2016-01-08",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/e4eaef6b-035a-4b3e-bcfd-4b02aea71650/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Manhattan Intermezzo",
+     "duracao": "18:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Piano Concerto no. 1: I. Allegro giojoso",
+     "duracao": "9:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Piano Concerto no. 1: II. Andante molto cantabile",
+     "duracao": "2:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Piano Concerto no. 1: III. Toccata con fuoco",
+     "duracao": "7:39"
+    },
+    {
+     "n": 5,
+     "titulo": "New World a-Comin’",
+     "duracao": "13:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Rhapsody in Blue",
+     "duracao": "17:41"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8f368705-80df-47b1-8d3a-e105211d9ebf",
+   "titulo": "Assault on a Queen",
+   "data": "2016-06-08",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/0ee29e21-95fa-4ed3-ada9-ba0c88df3889/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prelude",
+     "duracao": "2:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Mama Bahama",
+     "duracao": "1:07"
+    },
+    {
+     "n": 3,
+     "titulo": "She Walks Well",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Blessings on the Night (Blessings on Thee, Old Landlord)",
+     "duracao": "0:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Can He Swim? / The First Dive",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Rosa's Theme",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "The First Dive (Raising the Sub)",
+     "duracao": "8:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Skeleton Crew",
+     "duracao": "1:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Blessings Intro",
+     "duracao": "2:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Drink Up, Lincoln",
+     "duracao": "1:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Mama Bahama Islander",
+     "duracao": "1:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Blessings on the Night (The Kiss)",
+     "duracao": "2:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Hatch Secured",
+     "duracao": "1:05"
+    },
+    {
+     "n": 14,
+     "titulo": "The First Dive (Fifteen Degrees)",
+     "duracao": "2:43"
+    },
+    {
+     "n": 15,
+     "titulo": "The First Dive (The Tanker)",
+     "duracao": "1:09"
+    },
+    {
+     "n": 16,
+     "titulo": "Gentlemen, the Queen / Explosive Situation",
+     "duracao": "1:36"
+    },
+    {
+     "n": 17,
+     "titulo": "The Big Heist",
+     "duracao": "10:16"
+    },
+    {
+     "n": 18,
+     "titulo": "Finale and She Walks Well",
+     "duracao": "2:43"
+    },
+    {
+     "n": 19,
+     "titulo": "The Big Heist (album version)",
+     "duracao": "5:48"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2467d52a-ac6e-4b11-9aae-2123de6e0138",
+   "titulo": "Blues In Orbit + The Cosmic Scene",
+   "data": "2017-01-13",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/315aa273-f830-402d-b910-49cd1ce9b145/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Three J’s Blues",
+     "duracao": "2:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Smada",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Pie Eye’s Blues",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Sweet & Pungent",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "C Jam Blues",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "In a Mellow Tone",
+     "duracao": "2:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Blues in Blueprint",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "The Swingers Get the Blues, Too",
+     "duracao": "3:10"
+    },
+    {
+     "n": 9,
+     "titulo": "The Swinger’s Jump",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Blues in Orbit",
+     "duracao": "2:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Villes Ville Is the Place, Man",
+     "duracao": "2:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Track 360",
+     "duracao": "2:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Sentimental Lady",
+     "duracao": "4:01"
+    },
+    {
+     "n": 14,
+     "titulo": "Brown Penny",
+     "duracao": "3:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Pie Eye’s Blues (alternate take)",
+     "duracao": "3:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Sweet and Pungent (alternate take)",
+     "duracao": "3:50"
+    },
+    {
+     "n": 17,
+     "titulo": "The Swinger’s Jump (alternate take)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 18,
+     "titulo": "Blues in Orbit (alternate take)",
+     "duracao": "2:37"
+    },
+    {
+     "n": 19,
+     "titulo": "Track 360 (alternate take)",
+     "duracao": "2:01"
+    },
+    {
+     "n": 20,
+     "titulo": "Track 360 (alt Tk 2)",
+     "duracao": "2:08"
+    },
+    {
+     "n": 21,
+     "titulo": "Smada (original 1951 version)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 22,
+     "titulo": "Smada (rare 1951 alt tk)",
+     "duracao": "2:55"
+    },
+    {
+     "n": 23,
+     "titulo": "Brown Penny (original 1947 version)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 24,
+     "titulo": "Avalon",
+     "duracao": "3:24"
+    },
+    {
+     "n": 25,
+     "titulo": "Body and Soul",
+     "duracao": "4:59"
+    },
+    {
+     "n": 26,
+     "titulo": "Bass‐Ment (aka Discontented)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 27,
+     "titulo": "Early Autumn",
+     "duracao": "3:12"
+    },
+    {
+     "n": 28,
+     "titulo": "Jones",
+     "duracao": "2:57"
+    },
+    {
+     "n": 29,
+     "titulo": "Perdido",
+     "duracao": "2:52"
+    },
+    {
+     "n": 30,
+     "titulo": "St. Louis Blues",
+     "duracao": "5:09"
+    },
+    {
+     "n": 31,
+     "titulo": "Spacemen",
+     "duracao": "2:35"
+    },
+    {
+     "n": 32,
+     "titulo": "Midnight Sun",
+     "duracao": "3:40"
+    },
+    {
+     "n": 33,
+     "titulo": "Take the “A” Train",
+     "duracao": "5:02"
+    },
+    {
+     "n": 34,
+     "titulo": "Body and Soul (alt tk)",
+     "duracao": "4:48"
+    },
+    {
+     "n": 35,
+     "titulo": "Jones (alt tk)",
+     "duracao": "2:37"
+    },
+    {
+     "n": 36,
+     "titulo": "Body and Soul (1952 Columbia version)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 37,
+     "titulo": "Body and Soul (1955 Capitol version)",
+     "duracao": "4:52"
+    },
+    {
+     "n": 38,
+     "titulo": "Bass‐Ment (aka Discontented) (1956 version)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 39,
+     "titulo": "Perdido (1959 version)",
+     "duracao": "4:39"
+    },
+    {
+     "n": 40,
+     "titulo": "St. Louis Blues (1959 version)",
+     "duracao": "5:54"
+    },
+    {
+     "n": 41,
+     "titulo": "Spacemen (aka Three Trumps) (1957 version)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 42,
+     "titulo": "Take the “A” Train (1952 version)",
+     "duracao": "8:03"
+    }
+   ],
+   "duracao_min": 149,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3fc549b1-c701-49d2-aba3-ff97cd492000",
+   "titulo": "An Intimate Piano Session",
+   "data": "2017-02-17",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/8cec9c0a-0b44-4498-969d-a74828e29d8b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Anticipation",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Le Sucrier Velours *1",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Lotus Blossom *1",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "A Blue Mural From Two Perspectives *1",
+     "duracao": "1:13"
+    },
+    {
+     "n": 5,
+     "titulo": "I'm Afraid (Of Loving You Too Much)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "I Didn't Know About You",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Loco Madi",
+     "duracao": "0:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Lotus Blossom *2",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "New World A-Comin'",
+     "duracao": "9:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Le Sucrier Velours *2",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Melancholia",
+     "duracao": "4:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Single Petal Of A Rose",
+     "duracao": "2:45"
+    },
+    {
+     "n": 13,
+     "titulo": "The Blues Ain't",
+     "duracao": "4:45"
+    },
+    {
+     "n": 14,
+     "titulo": "Come Sunday",
+     "duracao": "4:56"
+    },
+    {
+     "n": 15,
+     "titulo": "My Mother, My Father And Love",
+     "duracao": "4:46"
+    },
+    {
+     "n": 16,
+     "titulo": "A Blue Mural From Two Perspectives *2",
+     "duracao": "1:56"
+    },
+    {
+     "n": 17,
+     "titulo": "Black Swan",
+     "duracao": "1:56"
+    },
+    {
+     "n": 18,
+     "titulo": "The Lake",
+     "duracao": "4:07"
+    },
+    {
+     "n": 19,
+     "titulo": "Satin Doll",
+     "duracao": "2:27"
+    },
+    {
+     "n": 20,
+     "titulo": "Just Squeeze Me",
+     "duracao": "5:47"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c1804159-4dea-4486-9d0e-3c1c77b53bb0",
+   "titulo": "El bar",
+   "data": "2017-03-24",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/8824e939-0c14-4dd7-9b8f-859bf45ce839/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Portrait of Wellman Braud",
+     "duracao": "4:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Francotiradores",
+     "duracao": "5:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Los muertos no están",
+     "duracao": "5:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Las bombas",
+     "duracao": "1:30"
+    },
+    {
+     "n": 5,
+     "titulo": "El incendio",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Ya estamos muertos",
+     "duracao": "2:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Nos van a meter ahí abajo",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Fuego y tiros",
+     "duracao": "7:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Están ahí fuera, no podemos salir",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Los mensajes",
+     "duracao": "2:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Las dosis",
+     "duracao": "3:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Tenéis que bajar ahí",
+     "duracao": "7:16"
+    },
+    {
+     "n": 13,
+     "titulo": "He estado a punto de matarme",
+     "duracao": "4:24"
+    },
+    {
+     "n": 14,
+     "titulo": "¿A qué esperas? Dispara",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "Te vienes conmigo barbas",
+     "duracao": "5:34"
+    },
+    {
+     "n": 16,
+     "titulo": "Portrait of Wellman Braud",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a080ccbb-1d5c-4c17-a91c-80e99a06d319",
+   "titulo": "Take the A Train",
+   "data": "2017-10-19",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/48b84129-ad5e-4db8-988f-7bd512719866/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the A Train",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Satin Doll",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Blow By Blow",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "VIP Boogie / Jam with Sam",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "The Good Years of Jazz",
+     "duracao": "1:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Medley: It Don't Mean a Thing / Satin Doll / Solitude / I Got it Bad / Don't Get Around Much Anymore / Mood Indigo / I'm Beginning to see the Light / Sophisticated Lady / Caravan",
+     "duracao": "10:18"
+    },
+    {
+     "n": 8,
+     "titulo": "New World A Comin'",
+     "duracao": "8:30"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4c97b662-91b5-4927-8ee4-58fc9c4ca3ba",
+   "titulo": "Duke Ellington and Billy Strayhorn",
+   "data": "2018-01-06",
+   "ano": "2018",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cotton Tail",
+     "duracao": "2:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Flamingo",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Bang-Up Blues",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "C Jam Blues",
+     "duracao": "2:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Tonk",
+     "duracao": "2:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny Come Lately",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "In a Blue Summer Garden",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Great Times",
+     "duracao": "2:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Perdido",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Oscalypso",
+     "duracao": "2:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Take the 'A' Train",
+     "duracao": "2:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Blues for Blanton",
+     "duracao": "2:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Chickasaw",
+     "duracao": "2:54"
+    },
+    {
+     "n": 14,
+     "titulo": "Bop Scotch",
+     "duracao": "3:16"
+    },
+    {
+     "n": 15,
+     "titulo": "The Most !",
+     "duracao": "2:55"
+    },
+    {
+     "n": 16,
+     "titulo": "Chasin' the Bass",
+     "duracao": "2:32"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "201b620f-4940-48e0-9d95-7f65f852d2ab",
+   "titulo": "Piano Duets: Great Times!",
+   "data": "2018-09-22",
+   "ano": "2018",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cottontail",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "C Jam Blues",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Flamingo",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Bang-Up Blues",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Tonk",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny Come Lately",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "In A Blue Summer Garden",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Great Times",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Perdido",
+     "duracao": "2:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Take The “A” Train",
+     "duracao": "2:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Oscalypso",
+     "duracao": "2:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Blues For Blanton",
+     "duracao": "2:36"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "82288008-c546-499b-9395-e28b18be2b92",
+   "titulo": "In My Solitude: Solo Piano and Small Group Performances",
+   "data": "2021-04-16",
+   "ano": "2021",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In My Solitude",
+     "duracao": "5:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Satin Doll (Live, Columbia University, New York City, 1964)",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "In A Sentimental Mood",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Caravan (Live, Columbia University, New York City, 1964)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Melancholia/Reflections In D (Live, Columbia University, New York City, 1964)",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Little African Flower (Live, Columbia University, New York City, 1964)",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Warm Valley",
+     "duracao": "5:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Bird Of Paradise (Live, Columbia University, New York City, 1964)",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Isfahan",
+     "duracao": "2:02"
+    },
+    {
+     "n": 10,
+     "titulo": "I Got It Bad (And That Ain’t Good)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Sunday",
+     "duracao": "2:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Something To Live For",
+     "duracao": "4:49"
+    },
+    {
+     "n": 13,
+     "titulo": "The Single Petal Of A Rose (Live, Columbia University, New York City, 1964)",
+     "duracao": "3:05"
+    },
+    {
+     "n": 14,
+     "titulo": "Things Ain’t What They Used To Be (Live, Columbia University, New York City, 1964)",
+     "duracao": "2:34"
+    },
+    {
+     "n": 15,
+     "titulo": "Tonk (Live, Columbia University, New York City, 1964)",
+     "duracao": "2:11"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4edbc3ed-ce3d-479c-ae23-5b116790c09b",
+   "titulo": "Africa Sings",
+   "data": "2022",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/5cbd0868-55a6-4cef-b339-ef864d7d8cfb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Senye",
+     "duracao": "1:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Three Ifé Songs: Olodumare",
+     "duracao": "7:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Three Ifé Songs: Yemandja",
+     "duracao": "6:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Three Ifé Songs: Oshumare",
+     "duracao": "5:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Black, Brown & Beige: Black",
+     "duracao": "8:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Black, Brown & Beige: Brown",
+     "duracao": "7:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Black, Brown & Beige: Beige",
+     "duracao": "5:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Symphonische Gesänge, Op.20: Song From Dixieland",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Symphonische Gesänge, Op.20: Song Of The Cotton Picker",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Symphonische Gesänge, Op.20: Dead Brown Girl",
+     "duracao": "2:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Symphonische Gesänge, Op.20: Bad Man",
+     "duracao": "2:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Symphonische Gesänge, Op.20: Disillusion",
+     "duracao": "2:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Symphonische Gesänge, Op.20: African Dance",
+     "duracao": "1:23"
+    },
+    {
+     "n": 14,
+     "titulo": "Symphonische Gesänge, Op.20: Arabesque",
+     "duracao": "2:45"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1f74b467-4db3-4765-943b-9af8e4e19728",
+   "titulo": "Ellington In Order, Volume 4 (1932)",
+   "data": "2023-09-15",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/58bbae61-4a92-4f28-a209-6ae948f7f596/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moon over Dixie",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Lazy Rhapsody (a/k/a Creole Rhapsody - Take B)",
+     "duracao": "3:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Lazy Rhapsody (a/k/a Creole Rhapsody - Take A)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Mood Indigo/Hot and Bothered/Creole Love Call (Take 3 - Mono)",
+     "duracao": "7:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Mood Indigo/Hot and Bothered/Creole Love Call (Take 1 - Mono)",
+     "duracao": "7:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Mood Indigo/Hot and Bothered/Creole Love Call (Take 2 - Mono)",
+     "duracao": "7:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Mood Indigo/Hot and Bothered/Creole Love Call (Stereo Mix)",
+     "duracao": "7:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Blue Tune (Take B)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Blue Tune (Take A)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Baby, When You Ain't There",
+     "duracao": "2:41"
+    },
+    {
+     "n": 12,
+     "titulo": "East Saint Louis Toodle-o/Lot O' Fingers/Black and Tan Fantasy (Take 2 - Mono)",
+     "duracao": "7:34"
+    },
+    {
+     "n": 13,
+     "titulo": "East Saint Louis Toodle-o/Lot O' Fingers/Black and Tan Fantasy (Take 1 - Mono)",
+     "duracao": "7:34"
+    },
+    {
+     "n": 14,
+     "titulo": "East Saint Louis Toodle-o/Lot O' Fingers/Black and Tan Fantasy (Stereo Mix)",
+     "duracao": "7:34"
+    },
+    {
+     "n": 15,
+     "titulo": "Dinah",
+     "duracao": "2:56"
+    },
+    {
+     "n": 16,
+     "titulo": "Bugle Call Rag",
+     "duracao": "3:05"
+    },
+    {
+     "n": 17,
+     "titulo": "St. Louis Blues (Take B)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 18,
+     "titulo": "St. Louis Blues (Take A)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 19,
+     "titulo": "Creole Love Call (Take B)",
+     "duracao": "4:08"
+    },
+    {
+     "n": 20,
+     "titulo": "Creole Love Call (Take A)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 21,
+     "titulo": "Rose Room",
+     "duracao": "3:00"
+    },
+    {
+     "n": 22,
+     "titulo": "Blue Harlem",
+     "duracao": "2:51"
+    },
+    {
+     "n": 23,
+     "titulo": "The Sheik of Araby",
+     "duracao": "2:56"
+    },
+    {
+     "n": 24,
+     "titulo": "Swampy River",
+     "duracao": "2:56"
+    },
+    {
+     "n": 25,
+     "titulo": "Fast And Furious",
+     "duracao": "2:48"
+    },
+    {
+     "n": 26,
+     "titulo": "Best Wishes (Take B)",
+     "duracao": "3:10"
+    },
+    {
+     "n": 27,
+     "titulo": "Best Wishes (Take A)",
+     "duracao": "3:08"
+    },
+    {
+     "n": 28,
+     "titulo": "Slippery Horn",
+     "duracao": "3:13"
+    },
+    {
+     "n": 29,
+     "titulo": "Blue Ramble (Take B)",
+     "duracao": "3:13"
+    },
+    {
+     "n": 30,
+     "titulo": "Blue Ramble (Take A)",
+     "duracao": "3:10"
+    },
+    {
+     "n": 31,
+     "titulo": "Clouds In My Heart (Take B)",
+     "duracao": "3:01"
+    },
+    {
+     "n": 32,
+     "titulo": "Clouds In My Heart (Take A)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 33,
+     "titulo": "Blue Mood (Take C)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 34,
+     "titulo": "Blue Mood (Take B)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 35,
+     "titulo": "Blue Mood (Take A)",
+     "duracao": "2:52"
+    },
+    {
+     "n": 36,
+     "titulo": "Ducky Wucky (Take B)",
+     "duracao": "3:00"
+    },
+    {
+     "n": 37,
+     "titulo": "Ducky Wucky (Take A)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 38,
+     "titulo": "Maori",
+     "duracao": "3:27"
+    },
+    {
+     "n": 39,
+     "titulo": "Jazz Cocktail (Take B)",
+     "duracao": "3:12"
+    },
+    {
+     "n": 40,
+     "titulo": "Jazz Cocktail (Take A)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 41,
+     "titulo": "Lightnin' (Take B)",
+     "duracao": "3:08"
+    },
+    {
+     "n": 42,
+     "titulo": "Lightnin' (Take A)",
+     "duracao": "3:05"
+    },
+    {
+     "n": 43,
+     "titulo": "Stars (Take B)",
+     "duracao": "3:03"
+    },
+    {
+     "n": 44,
+     "titulo": "Stars (Take A)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 45,
+     "titulo": "Swing Low (Take B)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 46,
+     "titulo": "Swing Low (Take A)",
+     "duracao": "2:39"
+    },
+    {
+     "n": 47,
+     "titulo": "I Must Have That Man (Take B)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 48,
+     "titulo": "I Must Have That Man! (Take A)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 49,
+     "titulo": "Baby! (Take B)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 50,
+     "titulo": "Baby! (Take A)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 51,
+     "titulo": "Any Time, Any Day, Any Where (Take B)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 52,
+     "titulo": "Any Time, Any Day, Any Where (Take A)",
+     "duracao": "2:49"
+    },
+    {
+     "n": 53,
+     "titulo": "Delta Bound (Take B)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 54,
+     "titulo": "Delta Bound (Take A)",
+     "duracao": "2:49"
+    }
+   ],
+   "duracao_min": 201,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7013ec16-c638-48f5-b241-45896e710258",
+   "titulo": "Copenhagen 1958 (bonus: After Hours 1950)",
+   "data": "2024-05-10",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/8c781659-cae5-4ee0-a13e-e4b7e4c15aef/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the a Train (Theme)",
+     "duracao": "0:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Newport Up",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "My Funny Valentine",
+     "duracao": "6:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Perdido",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Sophisticated Lady",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Sonnet to Hank Cinq",
+     "duracao": "1:28"
+    },
+    {
+     "n": 7,
+     "titulo": "What Else Can You Do With a Drum",
+     "duracao": "2:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Rockin' in Rhythm",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Prelude to a Kiss",
+     "duracao": "4:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Things Ain't What They Used to Be",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "El Gato",
+     "duracao": "4:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Hi fi Fo Fum",
+     "duracao": "2:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Diminuendo and Crescendo in Blue",
+     "duracao": "11:28"
+    },
+    {
+     "n": 14,
+     "titulo": "I Can't Get Started",
+     "duracao": "3:51"
+    },
+    {
+     "n": 15,
+     "titulo": "Body and Soul",
+     "duracao": "10:27"
+    },
+    {
+     "n": 16,
+     "titulo": "A Little Blues",
+     "duracao": "5:00"
+    },
+    {
+     "n": 17,
+     "titulo": "Sophisticated Lady",
+     "duracao": "2:28"
+    },
+    {
+     "n": 18,
+     "titulo": "Mood Indigo",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7d8a5136-1029-46de-877c-7e2035c01eb2",
+   "titulo": "American Classical Masterpieces",
+   "data": "2025-07-23",
+   "ano": "2025",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "4 Dance Episodes from Rodeo: IV. Hoe Down",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Symphony No. 1 in E Minor: III. Juba Dance",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Lady, be Good!, Fascinating Rhythm: I've Got Rhythm (Version for piano)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Candide: Overture",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Symphony No. 4, \"Autochthonous\": III. With a graceful lilt",
+     "duracao": "3:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Adagio for Strings, Op. 11",
+     "duracao": "7:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Woodland Sketches, Op. 51: No. 1: To a Wild Rose",
+     "duracao": "1:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Viola Concerto: II. — (Live)",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Orchestral Set No. 2: III. From Hanover Square North, at the End of a Tragic Day, the Voice of the People Again Arose",
+     "duracao": "6:23"
+    },
+    {
+     "n": 10,
+     "titulo": "String Quartet No. 2, \"Company\": II. —",
+     "duracao": "1:43"
+    },
+    {
+     "n": 11,
+     "titulo": "3 Black Kings (Completed by M. Ellington): No. 3, Martin Luther King",
+     "duracao": "6:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Short Ride in a Fast Machine",
+     "duracao": "4:10"
+    },
+    {
+     "n": 13,
+     "titulo": "Lyric for Strings (Version for string quartet)",
+     "duracao": "6:18"
+    },
+    {
+     "n": 14,
+     "titulo": "A Sarabande for the Only Jim in the World",
+     "duracao": "1:16"
+    },
+    {
+     "n": 15,
+     "titulo": "3 Tone-Pictures, Op. 5: No. 3, The Night Winds (Version for orchestra)",
+     "duracao": "1:37"
+    },
+    {
+     "n": 16,
+     "titulo": "3 Spirituals for Orchestra: No. 3, Oh Freedom",
+     "duracao": "2:28"
+    },
+    {
+     "n": 17,
+     "titulo": "Amahl and the Night Visitors: Shepherds' Dance",
+     "duracao": "3:19"
+    },
+    {
+     "n": 18,
+     "titulo": "Sonatas and Interludes for Prepared Piano: Sonata No. 5",
+     "duracao": "1:51"
+    },
+    {
+     "n": 19,
+     "titulo": "The Four Moons: VII. The Cherokee Variation. Yvonne Chouteau",
+     "duracao": "3:25"
+    },
+    {
+     "n": 20,
+     "titulo": "Merry Mount Suite, Op. 31: II. Children's Dance",
+     "duracao": "1:43"
+    },
+    {
+     "n": 21,
+     "titulo": "and the swallow",
+     "duracao": "3:42"
+    },
+    {
+     "n": 22,
+     "titulo": "The Incredible Flutist Suite: XI. Polka Finale",
+     "duracao": "2:03"
+    },
+    {
+     "n": 23,
+     "titulo": "Mississippi, \"a Journey in Tones\": III Old Creole Days",
+     "duracao": "3:03"
+    },
+    {
+     "n": 24,
+     "titulo": "Variations on L. Mason's Nearer, My God, to Thee in E Major",
+     "duracao": "4:05"
+    },
+    {
+     "n": 25,
+     "titulo": "Main Title Theme",
+     "duracao": "5:26"
+    },
+    {
+     "n": 26,
+     "titulo": "Violin Concerto: III. Allegro - Vigoroso - Poco presto",
+     "duracao": "4:21"
+    },
+    {
+     "n": 27,
+     "titulo": "Symphonette No. 2, \"Second American Symphonette\": II. Pavane",
+     "duracao": "3:20"
+    },
+    {
+     "n": 28,
+     "titulo": "Sleep",
+     "duracao": "4:24"
+    },
+    {
+     "n": 29,
+     "titulo": "To Be Certain of the Dawn, Pt. 2 \"Remembrance\": Interlude. Veil of Tears",
+     "duracao": "4:30"
+    },
+    {
+     "n": 30,
+     "titulo": "American Gothic: III. Pitchfork",
+     "duracao": "7:16"
+    },
+    {
+     "n": 31,
+     "titulo": "Sinfonía No. 4: IV. Muy rápido y rítmico",
+     "duracao": "4:47"
+    },
+    {
+     "n": 32,
+     "titulo": "Jazz Nocturne (Arr. C. Huxley for piano and orchestra)",
+     "duracao": "4:17"
+    },
+    {
+     "n": 33,
+     "titulo": "O magnum mysterium - Live",
+     "duracao": "5:47"
+    },
+    {
+     "n": 34,
+     "titulo": "Percussion Concerto: I. Con forza",
+     "duracao": "5:36"
+    },
+    {
+     "n": 35,
+     "titulo": "Negro Folk Symphony: III. O Let Me Shine!",
+     "duracao": "8:18"
+    },
+    {
+     "n": 36,
+     "titulo": "Still/Rapids: I. Still",
+     "duracao": "5:00"
+    },
+    {
+     "n": 37,
+     "titulo": "Discover the Wild",
+     "duracao": "4:40"
+    },
+    {
+     "n": 38,
+     "titulo": "Rolling River (Sketches on \"Shenandoah\")",
+     "duracao": "5:10"
+    },
+    {
+     "n": 39,
+     "titulo": "Symphony No. 6 \"Gettysburg\": II. Conflict",
+     "duracao": "6:15"
+    },
+    {
+     "n": 40,
+     "titulo": "New England Triptych: I. Be Glad Then, America",
+     "duracao": "5:01"
+    }
+   ],
+   "duracao_min": 170,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

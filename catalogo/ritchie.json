@@ -1,0 +1,694 @@
+{
+ "id": "ritchie",
+ "nome": "Ritchie",
+ "cena": "Rock brasileiro",
+ "mbid": "f9c78c5d-205a-4339-a1d4-9f93e1a91ae4",
+ "wikidata": "Q9069445",
+ "tipo": "Person",
+ "pais": "BR",
+ "inicio": "1952",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "pop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ritchie%2C_Rio_de_Janeiro%2C_15122023.jpg/500px-Ritchie%2C_Rio_de_Janeiro%2C_15122023.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Ritchie",
+ "resumo_pt": "Richard David Court (Beckenham, 6 de março de 1952), artisticamente conhecido como Ritchie, é um cantor e compositor britânico.\nResidente no Brasil desde 1972, é autor de diversos sucessos como \"Menina Veneno\", \"A Vida Tem Dessas Coisas\", \"Pelo Interfone\", \"Casanova\" e \"Voo De Coração\".",
+ "resumo_en": "Richard David Court (born 6 March 1952 in Beckenham), known professionally as Ritchie, is a British-born Brazilian singer-songwriter, musician, composer, dancer and multi-instrumentalist.",
+ "albuns": [
+  {
+   "id": "1df0a7eb-31de-4623-bf16-e2e97edaef91",
+   "titulo": "Vôo de Coração (Edição Comemorativa De 25 Anos)",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/bd0c8daf-849f-4699-9f40-69dfbe342474/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No olhar",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "A vida tem dessas coisas",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Vôo de coração",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Casanova",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Menina veneno",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Preço do prazer",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Pelo interfone",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "A carta (The Letter)",
+     "duracao": "2:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Parabéns pra você",
+     "duracao": "3:50"
+    },
+    {
+     "n": 10,
+     "titulo": "Tudo que eu quero (tranqüilo)",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e3dcd1dc-8bd1-4024-957b-835afaee9195",
+   "titulo": "E a Vida Continua",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/b057b207-2fc2-4abe-ad94-ec319750832c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A mulher invisível",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Bons Amigos",
+     "duracao": "4:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Insônia",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Bad Boy",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Gisella",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Trabalhar é de Lei",
+     "duracao": "5:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Mulheres!",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Só Prá O Vento",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "...E A Vida Continua...",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "O Homem e a Nuvem",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "de87b38b-c60c-41c4-a7ef-ccdc982f5be1",
+   "titulo": "Circular",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/ce88a1e5-53f3-4aae-95e6-1735659286a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Telenotícias",
+     "duracao": "3:53"
+    },
+    {
+     "n": 2,
+     "titulo": "O Trem Vai",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Um, Dois, Três e Já",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "O Nome Do Amor",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Nesse Avião",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Ela Me Descartou",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Overdose",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Coisas Do Coração",
+     "duracao": "1:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Favela Music",
+     "duracao": "4:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Nenhum Lugar",
+     "duracao": "2:45"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4e43d6ac-5cca-4a56-9bd5-d19351bfdc1c",
+   "titulo": "Loucura & Mágica",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/4228db4b-adf1-4138-ac3e-1413b8d572d8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tudo Normal",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Me Gusta La Rumba",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Loucura & Mágica",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Mariana",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Transas",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Guerra Civil",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Mentira",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Forças De Dentro",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Meantime",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6f126de8-4f0a-4cd9-9bc1-3daf29e7dadb",
+   "titulo": "Pra Ficar Contigo",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/669cb9c3-cb1d-4ec7-94cb-e5d212bcbe33/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pra valer",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Pra ficar contigo",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Deja vu",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Horizonte Perdido",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "A Sombra da partida",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "A vida não espera",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Olhos de video tape",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Temporal",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Black magic woman",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "O eterno verão",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3946b77b-ddba-45e6-95a6-a015b3fc583b",
+   "titulo": "Sexto Sentido",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/dc60263b-698b-4c58-a02a-34133d302888/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Relogios",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Mais Voce",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Eu E Meu Radio (Guerra Dos Mundos)",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Deixa Brilhar",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "No Man's Land",
+     "duracao": "4:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Obsessão",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "A Perdida Ilusão",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Ponta Cabeca",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Ondas Sombras E Sonhos",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8c374567-b81c-4eb8-85e3-5fead518067d",
+   "titulo": "Auto-Fidelidade",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/639a4ed5-ff25-4bb4-9572-1910aa7d1bab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Auto-Fidelidade",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Sede de Viver",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Antes Que o Amor Acabe",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Lágrimas Demais",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Lua Lua",
+     "duracao": "4:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadowland",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Ninguém Sabe o Que Eu Sei",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Jardins de Guerra",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "And We Fall",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Um Lugar Ao Sol",
+     "duracao": "4:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Onde Que Eu Errei?",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Radar Radar",
+     "duracao": "4:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Give It All Back",
+     "duracao": "5:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Running For Our Lives",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5ed40db1-6c6d-4741-bb17-cba178fc87b8",
+   "titulo": "Outra Vez (Ao Vivo No Estúdio)",
+   "data": "2009",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/89a5a90b-13a8-44ae-b702-f92913ea3aa5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Mulher Invisível",
+     "duracao": "5:06"
+    },
+    {
+     "n": 2,
+     "titulo": "A Vida Tem Dessas Coisas",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Nesse Avião",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Outra Vez",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Lágrimas Demais",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Loucura e Mágica",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Agora ou Jamais",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Mercy Street",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Vôo de Coração",
+     "duracao": "4:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Só Pra o Vento",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Fala",
+     "duracao": "3:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Shy Moon",
+     "duracao": "4:10"
+    },
+    {
+     "n": 13,
+     "titulo": "Cidade Tatuada",
+     "duracao": "4:25"
+    },
+    {
+     "n": 14,
+     "titulo": "Pelo Interfone",
+     "duracao": "3:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Transas",
+     "duracao": "4:22"
+    },
+    {
+     "n": 16,
+     "titulo": "Menina Veneno",
+     "duracao": "4:43"
+    },
+    {
+     "n": 17,
+     "titulo": "Casanova",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "46c97539-5b37-40ad-bb56-f7f8f270dec3",
+   "titulo": "60",
+   "data": "2012",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/8d3a61d2-9111-4707-ab60-a423034864c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Summer In The City",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "I've Been A Bad, Bad Boy",
+     "duracao": "2:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Don't Let The Sun Catch You Crying",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "All I Have To Do Is Dream",
+     "duracao": "2:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Green Tambourine",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Wichita Lineman",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "The Sun Ain't Gonna Shine Anymore",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "If You Could Read My Mind",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "You're No Good",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Trains, Boats and Planes",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Sunshine Superman",
+     "duracao": "4:58"
+    },
+    {
+     "n": 12,
+     "titulo": "You Only Live Twice",
+     "duracao": "3:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Concrete and Clay",
+     "duracao": "2:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Need Your Love So Bad",
+     "duracao": "5:34"
+    },
+    {
+     "n": 15,
+     "titulo": "(How Can We) Hang On To A Dream",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

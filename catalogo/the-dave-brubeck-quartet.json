@@ -1,0 +1,2273 @@
+{
+ "id": "the-dave-brubeck-quartet",
+ "nome": "The Dave Brubeck Quartet",
+ "cena": "Jazz essencial",
+ "mbid": "7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7",
+ "wikidata": "Q264163",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1951",
+ "fim": "1967",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "cool jazz"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Davebrubeckquartet1967a.jpg/500px-Davebrubeckquartet1967a.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/The_Dave_Brubeck_Quartet",
+ "resumo_pt": "O The Dave Brubeck Quartet (Quarteto de Dave Brubeck), foi um quarteto de jazz, formado em 1951, por Dave Brubeck. Do quarteto também fazia parte Paul Desmond (saxofone).",
+ "resumo_en": "",
+ "albuns": [
+  {
+   "id": "78e0ec53-d294-4a1b-bb96-9bca6a7be30a",
+   "titulo": "The Dave Brubeck Quartet",
+   "data": "1952",
+   "ano": "1952",
+   "capa": "https://coverartarchive.org/release/eacb9d54-8220-4b20-b9df-f1b0d375041f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stardust",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Lulu's Back In Town",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Alice In Wonderland",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "All The Things You Are",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "This Can't Be Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Look For The Silver Lining",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "My Romance",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Just One Of Those Things",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "98751176-cb06-36fa-9591-f028c650efa0",
+   "titulo": "Brubeck Time",
+   "data": "1955-02-14",
+   "ano": "1955",
+   "capa": "https://coverartarchive.org/release/9c836df0-2ada-3873-a6f4-821ac324e630/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Audrey",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Jeepers Creepers",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Pennies From Heaven",
+     "duracao": "6:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Why Do I Love You?",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Stompin' for Mili",
+     "duracao": "5:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Keepin' Out of Mischief Now",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "A Fine Romance",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Brother, Can You Spare a Dime?",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e43b4032-65eb-3a40-b227-3db35bc08df0",
+   "titulo": "Jazz Impressions of the U.S.A.",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/e718dad0-6a11-4f61-a333-7359040578ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ode to a Cowboy",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Summer Song",
+     "duracao": "6:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Yonder for Two",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "History of a Boy Scout",
+     "duracao": "4:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Plain Song",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Curtain Time",
+     "duracao": "4:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Sounds of the Loop",
+     "duracao": "7:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Home at Last",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fd55886b-1e0e-391a-b7a1-4c5c2cfa67ce",
+   "titulo": "Dave Digs Disney",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/7ae56823-881e-43e9-91dd-9ef49cec1aab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alice in Wonderland",
+     "duracao": "9:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Give a Little Whistle",
+     "duracao": "7:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Heigh-Ho",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "When You Wish Upon a Star",
+     "duracao": "4:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Someday My Prince Will Come",
+     "duracao": "8:19"
+    },
+    {
+     "n": 6,
+     "titulo": "One Song",
+     "duracao": "4:59"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a97d5d2e-4546-374d-9723-b2343da1eea5",
+   "titulo": "Jazz Impressions of Eurasia",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/3162e094-61c7-4d52-aa04-771abe29caa3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nomad",
+     "duracao": "7:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Brandenburg Gate",
+     "duracao": "6:55"
+    },
+    {
+     "n": 3,
+     "titulo": "The Golden Horn",
+     "duracao": "5:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Thank You (Dziekuje)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Marble Arch",
+     "duracao": "6:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Calcutta Blues",
+     "duracao": "9:53"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "035a7881-3e2c-39d2-b110-fe26a4de94e5",
+   "titulo": "Time Out",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Rondo A La Turk",
+     "duracao": "6:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Strange Meadow Lark",
+     "duracao": "7:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Take Five",
+     "duracao": "5:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Three To Get Ready",
+     "duracao": "5:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Kathy's Waltz",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Everybody's Jumpin'",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Pick Up Sticks",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.0,
+    "fontes": 5
+   },
+   "publico": 8.8,
+   "publico_votos": 10,
+   "wikipedia": "https://en.wikipedia.org/wiki/Time_Out_%28Dave_Brubeck_Quartet_album%29",
+   "resumo_en": "Time Out is a studio album by the American jazz group the Dave Brubeck Quartet, released in 1959 by Columbia Records. Recorded at Columbia’s 30th Street Studio in New York City, the album is noted for its pioneering use of unconventional time signatures for jazz, including 98, 64, and 54. Musically, it represents a subtle fusion of cool and West Coast influences.\nTime Out peaked at number two on the Billboard albums chart and became the first jazz album to sell one million copies. Its standout single, \"Take Five\", was also the first jazz single to sell over one million copies. By 1963, the album had sold more than 500,000 units, and in 2011, it was certified double platinum by the Recording Industry Association of America, recognizing sales of over two million copies.\nThe album was inducted into the Grammy Hall of Fame in 2009, and in 2005, it was selected for preservation in the United States National Recording Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".",
+   "spotify": "0nTTEAhCZsbbeplyDMIFuA",
+   "youtube": "OLAK5uy_nq-wcj4l74wIaHRSrsnyRfr95gt_6QVEQ"
+  },
+  {
+   "id": "23ef2ca2-578f-3658-ae9c-cf22bbaeb3b3",
+   "titulo": "Gone With the Wind",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/e19358c8-9896-4c38-b3d7-e91841faa3d3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Swanee River",
+     "duracao": "5:22"
+    },
+    {
+     "n": 2,
+     "titulo": "The Lonesome Road",
+     "duracao": "7:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Georgia on My Mind",
+     "duracao": "6:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Camptown Races (take 1)",
+     "duracao": "1:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Camptown Races (take 2)",
+     "duracao": "2:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Shortnin' Bread",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Basin Street Blues",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Ol' Man River",
+     "duracao": "2:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Gone With the Wind",
+     "duracao": "6:21"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0b7c388d-cb7b-36da-9238-beaf8c9dcf26",
+   "titulo": "Southern Scene",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/ed942e77-a2f0-41a4-9c0d-00e76cbedc31/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Oh, Susanna!",
+     "duracao": "2:43"
+    },
+    {
+     "n": 2,
+     "titulo": "(When It's) Sleepy Time Down South",
+     "duracao": "5:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Rock Getaway",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Jeannie With the Light Brown Hair",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Deep in the Heart of Texas",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "At the Darktown Strutters' Ball",
+     "duracao": "1:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Nobody Knows the Trouble I've Seen",
+     "duracao": "5:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Happy Times",
+     "duracao": "2:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Darling Nellie Gray",
+     "duracao": "5:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Southern Scene",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9ba70629-5e45-442b-979f-ebe1f9f4d968",
+   "titulo": "The Riddle",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/eb169141-92e5-4708-a39e-69af12d2d2b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hey, Ho, Anybody Home?",
+     "duracao": "5:20"
+    },
+    {
+     "n": 2,
+     "titulo": "The Twig",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Ground",
+     "duracao": "5:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Offshoot",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Swingin Round",
+     "duracao": "7:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Quiet Mood",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "The Riddle",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Yet We Shall Be Merry",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c5149ab9-ceb5-411e-96c6-b011526d1aa8",
+   "titulo": "Tonight Only!",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/6e30cdb2-cffb-4948-bdb1-e83726c918e3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Melanctha",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Weep No More",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Talkin' and Walkin'",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Briar Bush",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Paradiddle Joe",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Late Lament",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Strange Meadowlark",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Tristesse",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Tonight Only",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "aa579b27-eabe-32e5-9ace-97316f490a2b",
+   "titulo": "Bernstein Plays Brubeck Plays Bernstein",
+   "data": "1960-08",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/176e47d1-174b-33c7-bff5-3de68b7b78f7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dialogues for Jazz Combo and Orchestra: I. Allegro",
+     "duracao": "5:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Dialogues for Jazz Combo and Orchestra: II. Andante-Ballad",
+     "duracao": "5:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Dialogues for Jazz Combo and Orchestra: III. Adagio-Ballad",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Dialogues for Jazz Combo and Orchestra: IV. Allegro-Blues",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Maria",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "I Feel Pretty",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Somewhere",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "A Quiet Girl",
+     "duracao": "2:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Tonight",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "249a47f5-45ec-3789-afae-bf06cddfa20a",
+   "titulo": "Time Further Out",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/5cb94677-21c0-449f-966c-8b3c8b8a8db5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It’s a Raggy Waltz",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Bluette",
+     "duracao": "5:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Charles Matthew Hallelujah",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Far More Blue",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Far More Drums",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Maori Blues",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Unsquare Dance",
+     "duracao": "2:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Bru’s Boogie Woogie",
+     "duracao": "2:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Blue Shadows in the Street",
+     "duracao": "6:33"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e456a7a2-8e38-3616-ae07-133bf752b13d",
+   "titulo": "Near-Myth",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/77ed3670-eb59-4af3-a80b-db018d417f5d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Unihorn",
+     "duracao": "5:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Bach An’All",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Siren Song",
+     "duracao": "5:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Pan's Pipes",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "By Jupiter",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Baggin’ the Dragon",
+     "duracao": "6:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Apollo’s Axe",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "The Sailor and the Mermaid",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Nep-Tune",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Pan Dance",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8e729952-9ac6-38a1-bd46-136245e03e8b",
+   "titulo": "Countdown: Time in Outer Space",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/f6ad0f20-d43b-4744-b7e6-1ec47794216f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Countdown",
+     "duracao": "2:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Eleven Four",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Why Phillis Waltz",
+     "duracao": "2:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Someday My Prince Will Come",
+     "duracao": "6:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Castilian Blues",
+     "duracao": "2:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Castilian Drums",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Fast Life",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Waltz Limp",
+     "duracao": "4:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Three’s a Crowd",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Danse Duet",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Back to Earth",
+     "duracao": "3:20"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Countdown%E2%80%94Time_in_Outer_Space",
+   "resumo_en": "Countdown—Time in Outer Space  is a studio album released by the Dave Brubeck Quartet in 1962 on Columbia LP record CS 8575 (stereo) and CL 1775 (mono).  The front cover features the 1959 painting Orange and Black Wall by Franz Kline.  In Australia the album appeared on the Coronet label.  It was re-released, for the first time in digital format, in 2004 as part of a compact disc collection titled Dave Brubeck: For All Time.  It was again released as part of the box set The Dave Brubeck Quartet: the Columbia Studio Albums Collection 1955–1966.  Both CD re-releases feature a bonus track titled \"Fatha\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6b988971-5e2b-37e0-a956-101d26472656",
+   "titulo": "Bossa Nova U.S.A.",
+   "data": "1962-01-03",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/34847980-9dd3-4953-a442-b13d1570dca0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bossa Nova U.S.A.",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Vento fresco (Cool Wind)",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "The Trolley Song",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Theme for June",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Coracao sensivel (Tender Heart)",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Irmao amigo (Brother Friend)",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "There'll Be No Tomorrow",
+     "duracao": "5:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Cantiga nova swing",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Lamento",
+     "duracao": "4:48"
+    },
+    {
+     "n": 10,
+     "titulo": "This Can't Be Love",
+     "duracao": "6:50"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bossa_Nova_U.S.A.",
+   "resumo_en": "Bossa Nova U.S.A.  is a 1963 studio album by the Dave Brubeck Quartet. Columbia released it in the United States as LP record CS 8798 (stereo) and CL 1998 (mono), and in England as SBPG 62127. It was also released by CBS in Australia, as catalog SPB 233.038.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6a56e3b8-83e6-3f4a-883b-df459353c8e6",
+   "titulo": "Brandenburg Gate: Revisited",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/0c7b5261-9910-3b66-8c67-050007d13cbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brandenburg Gate",
+     "duracao": "18:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Summer Song",
+     "duracao": "4:13"
+    },
+    {
+     "n": 3,
+     "titulo": "In Your Own Sweet Way",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "G Flat Theme",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Kathy's Waltz",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.9,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brandenburg_Gate%3A_Revisited",
+   "resumo_en": "Brandenburg Gate: Revisited is a studio album by The Dave Brubeck Quartet accompanied by an orchestra arranged by Howard Brubeck.\nThe album peaked at 137 on the Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cc5c1087-969c-3b36-a298-424ad82ace81",
+   "titulo": "Time Changes",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/b87fd674-8557-414e-9eb8-0cdc33b30249/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Iberia",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Unisphere",
+     "duracao": "5:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Shim Wha",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "World's Fair",
+     "duracao": "2:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Cable Car",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Elementals",
+     "duracao": "16:35"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ceb669ac-5f05-3f03-854e-bf1195773b44",
+   "titulo": "Jazz Impressions of New York",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/e56cb151-4b43-4f54-9f6e-17340f7b5771/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Theme From \"Mr. Broadway\"",
+     "duracao": "2:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Broadway Bossa Nova",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Autumn in Washington Square",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Something to Sing About",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Sixth Sense",
+     "duracao": "6:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Spring in Central Park",
+     "duracao": "2:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Lonely Mr. Broadway",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Summer on the Sound",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Winter Ballad",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "Broadway Romance",
+     "duracao": "5:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Upstage Rumba",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ad2253e8-8b2a-3eca-b6e9-f1a5243fb2dd",
+   "titulo": "Jazz Impressions of Japan",
+   "data": "1964-06-16",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/9e9e9100-a981-4276-b131-5d267fb57925/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tokyo Traffic",
+     "duracao": "5:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Rising Sun",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Toki's Theme",
+     "duracao": "2:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Fujiyama",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Zen Is When",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "The City Is Crying",
+     "duracao": "6:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Osaka Blues",
+     "duracao": "5:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Koto Song",
+     "duracao": "3:05"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1ea097f0-33b1-3144-b503-d066658fce10",
+   "titulo": "Angel Eyes",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/0b58c544-2b99-4ee9-be62-54c79d1b16c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let's Get Away From It All",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Violets for Your Furs",
+     "duracao": "5:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Angel Eyes",
+     "duracao": "7:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Will You Still Be Mine?",
+     "duracao": "5:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Everything Happens to Me",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Man With a Candy Cigar",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "The Night We Called It a Day",
+     "duracao": "6:11"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "686b9c96-a9ec-3bff-88f2-aa466b7502aa",
+   "titulo": "Anything Goes",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/7d216c8f-986a-36a7-8afb-732c528b33de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anything Goes",
+     "duracao": "5:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Love for Sale",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Night and Day",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "What Is This Thing Called Love?",
+     "duracao": "6:21"
+    },
+    {
+     "n": 5,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Just One of Those Things",
+     "duracao": "6:23"
+    },
+    {
+     "n": 7,
+     "titulo": "You're the Top",
+     "duracao": "6:39"
+    },
+    {
+     "n": 8,
+     "titulo": "All Through the Night",
+     "duracao": "8:30"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2ffc0739-9492-3b09-b2d1-d5ab1098e9a8",
+   "titulo": "My Favorite Things",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/64811202-5b45-45a9-9366-512f138f7974/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Favorite Things",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Over and Over Again",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Why Can't I?",
+     "duracao": "6:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Girl Blue",
+     "duracao": "5:29"
+    },
+    {
+     "n": 5,
+     "titulo": "This Can't Be Love",
+     "duracao": "6:54"
+    },
+    {
+     "n": 6,
+     "titulo": "My Romance",
+     "duracao": "6:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Circus on Parade",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "The Most Beautiful Girl in the World",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9c8fe2ef-b8f3-3dd5-a017-6560e1222570",
+   "titulo": "Music From West Side Story",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/5b93bdde-0ae3-4c8e-b1a4-0262586f8c66/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "1 Dialogues For Jazz Combo And Orchestra, I - Allegro",
+     "duracao": "6:55"
+    },
+    {
+     "n": 2,
+     "titulo": "2 Dialogues For Jazz Combo And Orchestra, II - Andante - Ballad",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "3 Dialogues For Jazz Combo And Orchestra, III - Adagio - Ballad",
+     "duracao": "5:06"
+    },
+    {
+     "n": 4,
+     "titulo": "4 Dialogues For Jazz Combo And Orchestra, IV - Allegro - Blues",
+     "duracao": "5:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Maria",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "I Feel Pretty",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Somewhere",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "A Quiet Girl",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Tonight",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "248f098b-863c-38f6-b703-4db66727ed9c",
+   "titulo": "Tritonis",
+   "data": "1980",
+   "ano": "1980",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brother, Can You Spare a Dime?",
+     "duracao": "7:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Like Someone in Love",
+     "duracao": "5:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Theme for June",
+     "duracao": "7:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Lord Lord",
+     "duracao": "6:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Mr. Fats",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Tritonis",
+     "duracao": "8:10"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tritonis",
+   "resumo_en": "Tritonis is a 1980 album by the Dave Brubeck Quartet.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e6f032dc-eba2-3382-816e-9d0cb9276d91",
+   "titulo": "Paper Moon",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/32d73c89-a009-4cab-b99f-a47cd2fb3319/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Music, Maestro, Please!",
+     "duracao": "8:58"
+    },
+    {
+     "n": 2,
+     "titulo": "I Hear a Rhapsody",
+     "duracao": "6:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Symphony",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I Thought About You",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "It's Only a Paper Moon",
+     "duracao": "5:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Long Ago and Far Away",
+     "duracao": "8:03"
+    },
+    {
+     "n": 7,
+     "titulo": "St. Louis Blues",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "58355e93-b737-3328-beee-57e8133ba2b0",
+   "titulo": "Reflections",
+   "data": "1986",
+   "ano": "1986",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reflections of You",
+     "duracao": "5:27"
+    },
+    {
+     "n": 2,
+     "titulo": "A Misty Morning",
+     "duracao": "6:27"
+    },
+    {
+     "n": 3,
+     "titulo": "I'd Walk A Country Mile",
+     "duracao": "6:26"
+    },
+    {
+     "n": 4,
+     "titulo": "My One Bad Habit",
+     "duracao": "5:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Blues for Newport",
+     "duracao": "4:48"
+    },
+    {
+     "n": 6,
+     "titulo": "We Will All Remember Paul",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Michael, My Second Son",
+     "duracao": "5:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Lake Tahoe",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bd80ccc8-8100-32f6-824c-515e40e01ed2",
+   "titulo": "Blue Rondo",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/9318e27e-b563-4908-b061-8e50964ca24b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How Does Your Garden Grow?",
+     "duracao": "5:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Festival Hall",
+     "duracao": "5:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Easy as You Go",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Blue Rondo a la Turk",
+     "duracao": "7:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Dizzy's Dream",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "I See Satie",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Swing Bells",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Strange Meadowlark",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Elana Joy",
+     "duracao": "5:13"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fe0d6015-adec-3648-81cf-46f2c3ab3299",
+   "titulo": "Stardust",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/1aac81f0-7994-4290-9696-b80eb7ff8516/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mam'selle",
+     "duracao": "2:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Stardust",
+     "duracao": "7:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Frenesi",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Me and My Shadow",
+     "duracao": "2:32"
+    },
+    {
+     "n": 5,
+     "titulo": "At a Perfume Counter",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Crazy Chris",
+     "duracao": "3:25"
+    },
+    {
+     "n": 7,
+     "titulo": "A Foggy Day",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Somebody Loves Me",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Lyon's Busy",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Look for the Silver Lining",
+     "duracao": "3:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Stardust",
+     "duracao": "3:07"
+    },
+    {
+     "n": 12,
+     "titulo": "At a Perfume Counter",
+     "duracao": "15:05"
+    },
+    {
+     "n": 13,
+     "titulo": "Alice in Wonderland",
+     "duracao": "3:38"
+    },
+    {
+     "n": 14,
+     "titulo": "All the Things You Are",
+     "duracao": "3:23"
+    },
+    {
+     "n": 15,
+     "titulo": "Lulu's Back in Town",
+     "duracao": "2:25"
+    },
+    {
+     "n": 16,
+     "titulo": "My Romance",
+     "duracao": "2:41"
+    },
+    {
+     "n": 17,
+     "titulo": "Just One of Those Things",
+     "duracao": "3:12"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5111adfb-5515-3d87-956c-56c138d4b39b",
+   "titulo": "Take Five",
+   "data": "1995",
+   "ano": "1995",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m in a Dancing Mood",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Two Part Contention",
+     "duracao": "10:08"
+    },
+    {
+     "n": 3,
+     "titulo": "The Duke",
+     "duracao": "2:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Take the “A” Train (#1)",
+     "duracao": "6:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Gone With the Wind",
+     "duracao": "5:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Lonesome Road",
+     "duracao": "8:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Take the “A” Train (#2)",
+     "duracao": "5:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Eleven Four",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Take Five",
+     "duracao": "5:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Blue Rondo à la Turk",
+     "duracao": "8:01"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b254403-9d27-3ff3-a2bb-d2d5beb948a9",
+   "titulo": "Brubeck Desmond",
+   "data": "1996-03-06",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/8c5a4297-5657-4119-ad3e-f793bc47ced5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crazy Chris",
+     "duracao": "3:24"
+    },
+    {
+     "n": 2,
+     "titulo": "A Foggy Day",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Lyon's Busy",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Somebody Loves Me",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "At a Perfume Counter",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Mam'selle",
+     "duracao": "2:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Me and My Shadow",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Frenesi",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "This Can't Be Love",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Look for the Silver Lining",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "My Romance",
+     "duracao": "2:38"
+    },
+    {
+     "n": 12,
+     "titulo": "I May Be Wrong",
+     "duracao": "2:54"
+    },
+    {
+     "n": 13,
+     "titulo": "Just One of Those Things",
+     "duracao": "3:15"
+    },
+    {
+     "n": 14,
+     "titulo": "Lulu's Back in Town",
+     "duracao": "2:23"
+    },
+    {
+     "n": 15,
+     "titulo": "Street in Singapore",
+     "duracao": "2:42"
+    },
+    {
+     "n": 16,
+     "titulo": "All the Things You Are",
+     "duracao": "3:21"
+    },
+    {
+     "n": 17,
+     "titulo": "Alice in Wonderland",
+     "duracao": "3:37"
+    },
+    {
+     "n": 18,
+     "titulo": "Stardust",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dcabdea7-c536-347d-944b-cd845b39975e",
+   "titulo": "Brubeck & Rushing",
+   "data": "1998",
+   "ano": "1998",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "There'll Be Some Changes Made",
+     "duracao": "2:10"
+    },
+    {
+     "n": 2,
+     "titulo": "My Melancholy Baby",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Blues in the Dark",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "I Never Knew (I Could Love Anyone Like I'm Loving You)",
+     "duracao": "2:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Ain't Misbehavin'",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Evenin'",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "All by Myself",
+     "duracao": "2:34"
+    },
+    {
+     "n": 8,
+     "titulo": "River, Stay 'Way From My Door",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "You Can Depend on Me",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Am I Blue?",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Shine on Harvest Moon",
+     "duracao": "2:09"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "99bc1b3c-e49c-31d2-bf9a-95e997f17808",
+   "titulo": "So What's New?",
+   "data": "1998-04-28",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/aba57a97-0412-40d9-be03-ee6b01746912/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It's Déjà Vu All Over Again",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Fourth of July",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "The Things You Never Remember",
+     "duracao": "8:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Marian McPartland",
+     "duracao": "4:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Brotherly Love",
+     "duracao": "6:37"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Still in Love With a Girl Named Oli",
+     "duracao": "5:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Her Name Is Nancy",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Chorale",
+     "duracao": "5:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Sahra",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Waltzing",
+     "duracao": "7:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Five for Ten Small Fingers",
+     "duracao": "3:00"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9b073b81-6b1b-3b77-bbc8-ffac4a9fe994",
+   "titulo": "The Crossing",
+   "data": "2001",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/c069addf-c6b9-4ebb-82a9-d437f4d713b3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Crossing",
+     "duracao": "7:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Day After Day",
+     "duracao": "6:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Mariel",
+     "duracao": "8:24"
+    },
+    {
+     "n": 4,
+     "titulo": "All My Love",
+     "duracao": "4:59"
+    },
+    {
+     "n": 5,
+     "titulo": "¿Por qué no? (Why Not?)",
+     "duracao": "5:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Chasin' Yourself",
+     "duracao": "6:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Bessie",
+     "duracao": "7:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Randy Jones",
+     "duracao": "7:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold Fast to Dreams",
+     "duracao": "7:43"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Crossing_%28Dave_Brubeck_album%29",
+   "resumo_en": "The Crossing is 2001 studio album by pianist Dave Brubeck and his quartet.\nMany of the pieces on the album were dedicated to various people in Brubeck's life. \"All My Love\" was dedicated to his wife, Iola, \"Bessie\" for his mother, and \"Mariel\" to his fourth grandchild. \"Randy Jones\" was a tribute to Brubeck's longtime drummer, Randy Jones.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f68d0c01-bf79-353a-aff2-b53413fdc04c",
+   "titulo": "London Flat, London Sharp",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/a90e8497-b0e5-49ef-95d4-3331359fd4f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "London Flat, London Sharp",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "To Sit and Dream",
+     "duracao": "5:07"
+    },
+    {
+     "n": 3,
+     "titulo": "The Time of Our Madness",
+     "duracao": "7:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Unisphere",
+     "duracao": "7:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Steps to Peace",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Forty Days",
+     "duracao": "6:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Cassandra",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Yes, We All Have Our Cross to Bear",
+     "duracao": "8:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Mr. Fats",
+     "duracao": "8:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Ballad of the Rhine",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3f5c7012-adbf-410b-8772-0fc0f87973e0",
+   "titulo": "Luminescence Disc 1",
+   "data": "2006-12-05",
+   "ano": "2006",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Guitar Improvisation",
+     "duracao": "7:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Move to the Groove",
+     "duracao": "7:19"
+    },
+    {
+     "n": 3,
+     "titulo": "All the Things You Are",
+     "duracao": "10:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Sassy Samba",
+     "duracao": "7:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Arthedoc",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Man",
+     "duracao": "7:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue Rondo a la Turk",
+     "duracao": "7:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Ol’ Bill Basie",
+     "duracao": "6:16"
+    },
+    {
+     "n": 9,
+     "titulo": "Take Five",
+     "duracao": "7:10"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d22dc6f9-b838-45ec-b468-b2acb64da66d",
+   "titulo": "Time OutTakes",
+   "data": "2020-12-04",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/873a0274-e187-418f-a538-4211d7debc8f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Rondo à la Turk",
+     "duracao": "8:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Strange Meadowlark",
+     "duracao": "7:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Take Five",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Three to Get Ready",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Cathy's Waltz",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm in a Dancing Mood",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Watusi Jam",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "[Band Banter From the 1959 Recording Sessions]",
+     "duracao": "4:36"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

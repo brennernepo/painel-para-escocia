@@ -1,0 +1,1852 @@
+{
+ "id": "napalm-death",
+ "nome": "Napalm Death",
+ "cena": "Descobertas do acervo",
+ "mbid": "ce7bba8b-026b-4aa6-bddb-f98ed6d595e4",
+ "wikidata": "Q321762",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1982",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "grindcore",
+  "deathgrind",
+  "death metal",
+  "metal",
+  "crust punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/W0896-Hellfest2013_NapalmDeath_72218.JPG/500px-W0896-Hellfest2013_NapalmDeath_72218.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Napalm_Death",
+ "resumo_pt": "Napalm Death é uma banda de metal extremo da Inglaterra, formada no ano de 1981 por Nicholas Bullen e Miles Ratledge no vilarejo de Meriden, próximo a cidade de Birmingham.  Não há nenhum integrante original remanescente no grupo, que atualmente consiste no vocalista  Mark \"Barney\" Greenway, no baixista Shane Embury, no guitarrista Mitch Harris e no baterista Danny Herrera. Vários atuais e antigos integrantes do Napalm Death formaram outras bandas e projetos paralelos como Carcass, Godflesh, Cathedral, Scorn, Lock Up, Jesu e Venomous Concept.\nO grupo é considerado pioneiro dos gêneros musicais grindcore e death metal, apesar de terem iniciado a carreira tocando hardcore punk. O estilo do Napalm Death inclui   guitarras muito distorcidas, blast beats, ritmo extremamente rápido, vocal gutural, canções de curta duração e letras com temáticas sociais e políticas. A banda foi uma das pioneira em iniciar o lado mais profundo, extremo, cru e podre do rock and roll no geral; sendo o grindcore o esgoto mais abissal do gênero rock.\nO álbum de estreia da banda, Scum (1987), tornou-se muito influente sobre a cena do metal extremo, sendo listado entre os \"50 melhores álbuns britânicos da história\" pela revista Kerrang! em 2005. O Napalm Death lançou até hoje 16 álbuns de estúdio e está, segundo Nielsen SoundScan, entre as sete bandas de death metal que mais venderam álbuns nos Estados Unidos.",
+ "resumo_en": "Napalm Death are an English grindcore band formed in Meriden, West Midlands, in 1981. The band currently consists of bassist Shane Embury, drummer Danny Herrera, lead vocalist Barney Greenway and guitarist John Cooke. None of the founding band members remain in the band. From 1989 to 2004, Napalm Death were a five-piece band after they added Jesse Pintado and Mitch Harris as replacements for guitarist Bill Steer. Following Pintado's departure, the band reverted to a four-piece. Mitch Harris left the band in 2014 to focus on his personal life. Since Mitch's indefinite hiatus, guitarist John Cooke can be seen on guitar during live shows. \nThe band is credited as pioneers of the grindcore genre by incorporating elements of crust punk and death metal, using a noise-filled sound that uses distorted, down-tuned guitars, grinding overdrive bass, high-speed tempo, blast beats, vocals that consist of incomprehensible growls or high-pitched shrieks, extremely short songs, and sociopolitical lyrics. After hiring drummer Mick Harris in 1985, the band gained immense speed and started pushing the limits of how fast drums can be played. The band's debut album Scum, released in 1987 by Earache Records, proved substantially influential throughout the global metal and punk communities. By their third album Harmony Corruption (1990), the band shifted to death metal and began writing longer and more complex songs. In 1991, the other members of Napalm Death fired Mick Harris due to him not being ",
+ "albuns": [
+  {
+   "id": "28fde873-9dcd-35f7-9521-8d446ee2753b",
+   "titulo": "Scum",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/40da074a-13c3-4eec-8ace-8344b9b0cc9f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Multinational Corporations",
+     "duracao": "1:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Instinct of Survival",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "The Kill",
+     "duracao": "0:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Scum",
+     "duracao": "2:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Caught… in a Dream",
+     "duracao": "1:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Polluted Minds",
+     "duracao": "0:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Sacrificed",
+     "duracao": "1:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Siege of Power",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Control",
+     "duracao": "1:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Born on Your Knees",
+     "duracao": "1:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Human Garbage",
+     "duracao": "1:32"
+    },
+    {
+     "n": 12,
+     "titulo": "You Suffer",
+     "duracao": "0:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Life?",
+     "duracao": "0:43"
+    },
+    {
+     "n": 14,
+     "titulo": "Prison Without Walls",
+     "duracao": "0:38"
+    },
+    {
+     "n": 15,
+     "titulo": "Point of No Return",
+     "duracao": "0:34"
+    },
+    {
+     "n": 16,
+     "titulo": "Negative Approach",
+     "duracao": "0:32"
+    },
+    {
+     "n": 17,
+     "titulo": "Success?",
+     "duracao": "1:08"
+    },
+    {
+     "n": 18,
+     "titulo": "Deceiver",
+     "duracao": "0:28"
+    },
+    {
+     "n": 19,
+     "titulo": "C.S.",
+     "duracao": "1:14"
+    },
+    {
+     "n": 20,
+     "titulo": "Parasites",
+     "duracao": "0:23"
+    },
+    {
+     "n": 21,
+     "titulo": "Pseudo Youth",
+     "duracao": "0:41"
+    },
+    {
+     "n": 22,
+     "titulo": "Divine Death",
+     "duracao": "1:20"
+    },
+    {
+     "n": 23,
+     "titulo": "As the Machine Rolls On",
+     "duracao": "0:42"
+    },
+    {
+     "n": 24,
+     "titulo": "Common Enemy",
+     "duracao": "0:16"
+    },
+    {
+     "n": 25,
+     "titulo": "Moral Crusade",
+     "duracao": "1:32"
+    },
+    {
+     "n": 26,
+     "titulo": "Stigmatised",
+     "duracao": "1:03"
+    },
+    {
+     "n": 27,
+     "titulo": "M.A.D.",
+     "duracao": "1:36"
+    },
+    {
+     "n": 28,
+     "titulo": "Dragnet",
+     "duracao": "1:01"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 7.9,
+    "fontes": 7
+   },
+   "publico": 8.4,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scum_%28Napalm_Death_album%29",
+   "resumo_en": "Scum is the debut studio album by English grindcore band Napalm Death, released on 1 July 1987 by Earache Records. The two sides of Scum were recorded by two different lineups in sessions separated by about a year; the only musician in both incarnations was drummer Mick Harris.\nScum sold over 10,000 copies in its first year of release, reaching number four on the UK Indie chart. Since then, it has become known as a formative release in the grindcore genre. In 2005, Scum was voted the 50th best British album of all time by Kerrang! readers. In 2009, it was ranked number five in Terrorizer's list of essential European grindcore albums. It is also listed in Robert Dimery's book 1001 Albums You Must Hear Before You Die. Loudwire put it in the list of the best 10 metal albums of 1987.",
+   "spotify": "51wqCUWehVrNj2Ltc83zJu",
+   "youtube": null
+  },
+  {
+   "id": "0d648645-15fa-3384-b820-ad8c47908045",
+   "titulo": "From Enslavement to Obliteration",
+   "data": "1988-09",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/acbc27e1-8944-437e-bda7-7aaf9e1003c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Evolved as One",
+     "duracao": "3:13"
+    },
+    {
+     "n": 2,
+     "titulo": "It’s a M.A.N.S World!",
+     "duracao": "0:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Lucid Fairytale",
+     "duracao": "1:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Private Death",
+     "duracao": "0:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Impressions",
+     "duracao": "0:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Unchallenged Hate",
+     "duracao": "2:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Uncertainty Blurs the Vision",
+     "duracao": "0:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Cock‐Rock Alienation",
+     "duracao": "1:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Retreat to Nowhere",
+     "duracao": "0:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Think for a Minute",
+     "duracao": "1:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Display to Me…",
+     "duracao": "2:43"
+    },
+    {
+     "n": 12,
+     "titulo": "From Enslavement to Obliteration",
+     "duracao": "1:35"
+    },
+    {
+     "n": 13,
+     "titulo": "Blind to the Truth",
+     "duracao": "0:21"
+    },
+    {
+     "n": 14,
+     "titulo": "Social Sterility",
+     "duracao": "1:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Emotional Suffocation",
+     "duracao": "1:06"
+    },
+    {
+     "n": 16,
+     "titulo": "Practise What You Preach",
+     "duracao": "1:23"
+    },
+    {
+     "n": 17,
+     "titulo": "Inconceivable?",
+     "duracao": "1:06"
+    },
+    {
+     "n": 18,
+     "titulo": "Worlds Apart",
+     "duracao": "1:24"
+    },
+    {
+     "n": 19,
+     "titulo": "Obstinate Direction",
+     "duracao": "1:01"
+    },
+    {
+     "n": 20,
+     "titulo": "Mentally Murdered",
+     "duracao": "2:13"
+    },
+    {
+     "n": 21,
+     "titulo": "Sometimes",
+     "duracao": "1:06"
+    },
+    {
+     "n": 22,
+     "titulo": "Make Way!",
+     "duracao": "1:36"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/From_Enslavement_to_Obliteration",
+   "resumo_en": "From Enslavement to Obliteration is the second studio album by English grindcore band Napalm Death, released in 1988. It is the final studio album with vocalist Lee Dorrian and guitarist Bill Steer, and the first to feature bassist Shane Embury, the band's longest-tenured member to date. A remastered version was released on 2 April 2012. Loudwire put it on the list of the 10 best metal albums of 1988. It is one of the first albums to mix deep guttural growl vocals and high screeches with blast beats.",
+   "spotify": "4veFj7IvUM9q3Z0S0A4y0F",
+   "youtube": null
+  },
+  {
+   "id": "804686ff-d9b9-3791-a49c-f446f468f482",
+   "titulo": "Harmony Corruption",
+   "data": "1990-08",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/3e5635ee-e984-454c-82e9-f20e1a0ee362/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Vision Conquest",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "If the Truth Be Known",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Inner Incineration",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Malicious Intent",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Unfit Earth",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Circle of Hypocrisy",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "The Chains That Bind Us",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Mind Snare",
+     "duracao": "3:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Extremity Retained",
+     "duracao": "2:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Suffer the Children",
+     "duracao": "4:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Rise Above",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Success",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "From Enslavement to Obliteration",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Control",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Walls of Confinement",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Instinct of Survival",
+     "duracao": null
+    },
+    {
+     "n": 17,
+     "titulo": "Siege of Power",
+     "duracao": null
+    },
+    {
+     "n": 18,
+     "titulo": "Avalanche Master Song",
+     "duracao": null
+    },
+    {
+     "n": 19,
+     "titulo": "You Suffer",
+     "duracao": null
+    },
+    {
+     "n": 20,
+     "titulo": "Deceiver",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.2,
+    "fontes": 5
+   },
+   "publico": 6.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harmony_Corruption",
+   "resumo_en": "Harmony Corruption is the third studio album by British grindcore band Napalm Death. It was released in the UK by Earache Records on 30 July 1990 and in the United States by Combat Records on 7 December 1990. This is the first album by the band recorded as a five piece.",
+   "spotify": "1UfXjeHkdogWNQNFE1d8Mz",
+   "youtube": null
+  },
+  {
+   "id": "404d101f-82ca-385f-93c9-4a7391ea5a83",
+   "titulo": "Utopia Banished",
+   "data": "1992-05",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/2e4f8b68-4b9c-31c4-8dd2-3e097d4ff556/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Discordance",
+     "duracao": "1:25"
+    },
+    {
+     "n": 2,
+     "titulo": "I Abstain",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Dementia Access",
+     "duracao": "2:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Christening of the Blind",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "The World Keeps Turning",
+     "duracao": "2:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Idiosyncratic",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Aryanisms",
+     "duracao": "3:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Cause and Effect, Part II",
+     "duracao": "2:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Judicial Slime",
+     "duracao": "2:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Distorting the Medium",
+     "duracao": "1:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Got Time to Kill",
+     "duracao": "2:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Upward and Uninterested",
+     "duracao": "2:07"
+    },
+    {
+     "n": 13,
+     "titulo": "Exile",
+     "duracao": "2:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Awake (to a Life of Misery)",
+     "duracao": "2:05"
+    },
+    {
+     "n": 15,
+     "titulo": "Contemptuous",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.6,
+    "fontes": 5
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Utopia_Banished",
+   "resumo_en": "Utopia Banished is the fourth studio album by the British grindcore band Napalm Death. It was released in 1992 by Earache Records. It is the first album featuring Danny Herrera on drums following the departure of Mick Harris. Metal Hammer ranked it as one of the 20 best metal albums of 1992.",
+   "spotify": "1Il8KB8350igCizZuFMZNH",
+   "youtube": null
+  },
+  {
+   "id": "dba99c2f-5a5f-382c-9971-a2278a4b67f4",
+   "titulo": "Fear, Emptiness, Despair",
+   "data": "1994-03",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/b9e92ea4-7e80-43ae-b888-bdcf3b6ca6af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Twist the Knife (Slowly)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Hung",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Remain Nameless",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Plague Rages",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "More Than Meets the Eye",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Primed Time",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "State of Mind",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Armageddon X 7",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Retching on the Dirt",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Fasting on Deception",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Throwaway",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.3,
+    "fontes": 9
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fear%2C_Emptiness%2C_Despair",
+   "resumo_en": "Fear, Emptiness, Despair is the fifth studio album by British grindcore band Napalm Death, released on 2 May 1994. Napalm Death's inclusion on the Mortal Kombat soundtrack brought significant exposure to the band and this album, alongside the fact that the band's label Earache had formed a partnership with Columbia Records which allowed the album to disseminate to a wider audience. RAW magazine listed Fear, Emptiness, Despair as one of the essential album of the 1990s.\nIn a 2017 interview, bassist Shane Embury listed the album as his least favourite of Napalm Death's discography, citing the division between the vocalist Barney Greenway and the remainder of the band, and the high corporate influence over the band during the album's production as factors that undermined the final result.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cefe438d-bd2b-39d1-b18e-369e643867a9",
+   "titulo": "Diatribes",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/40d937c8-d684-400a-8e85-a912f3bb5cc2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Greed Killing",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Glimpse Into Genocide",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Ripe for the Breaking",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Cursed to Crawl",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Cold Forgiveness",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "My Own Worst Enemy",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Just Rewards",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Dogma",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Take the Strain",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Diatribes",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Placate, Sedate, Eradicate",
+     "duracao": "3:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Corrosive Elements",
+     "duracao": "4:01"
+    },
+    {
+     "n": 13,
+     "titulo": "Greed Killing",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "My Own Worst Enemy",
+     "duracao": "3:36"
+    },
+    {
+     "n": 15,
+     "titulo": "Self Betrayal",
+     "duracao": "4:38"
+    },
+    {
+     "n": 16,
+     "titulo": "Finer Truth, White Lies",
+     "duracao": "2:59"
+    },
+    {
+     "n": 17,
+     "titulo": "Antibody",
+     "duracao": "2:51"
+    },
+    {
+     "n": 18,
+     "titulo": "All Links Severed",
+     "duracao": "2:40"
+    },
+    {
+     "n": 19,
+     "titulo": "Plague Rages (Live)",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.6,
+    "fontes": 5
+   },
+   "publico": 6.5,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Diatribes_%28album%29",
+   "resumo_en": "Diatribes is the sixth studio album by English grindcore band Napalm Death, released in January 1996 on Earache Records. It was released as double 10\" vinyl, regular CD, special digipak CD with space for the Greed Killing EP and MC. In 2010, Earache issued a re-release of Diatribes in a box set that also included the Greed Killing EP and the live album Bootlegged in Japan.",
+   "spotify": "6ac7doSPAvysrGLU3VQv9A",
+   "youtube": null
+  },
+  {
+   "id": "007dde6c-5059-323e-a15d-7f25f0aa3a81",
+   "titulo": "Inside the Torn Apart",
+   "data": "1997-06-02",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/73adff82-9aaf-443c-b888-3bdcd1fdc07f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breed to Breathe",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Birth in Regress",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Section",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Reflect on Conflict",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Down in the Zero",
+     "duracao": "3:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Inside the Torn Apart",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "If Symptoms Persist",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Prelude",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Indispose",
+     "duracao": "3:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Purist Realist",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "Lowpoint",
+     "duracao": "3:15"
+    },
+    {
+     "n": 12,
+     "titulo": "The Lifeless Alarm",
+     "duracao": "4:39"
+    },
+    {
+     "n": 13,
+     "titulo": "Time Will Come",
+     "duracao": "3:21"
+    },
+    {
+     "n": 14,
+     "titulo": "Bled Dry",
+     "duracao": "2:21"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 6
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inside_the_Torn_Apart",
+   "resumo_en": "Inside the Torn Apart is the seventh studio album by British extreme metal band Napalm Death. It was released by Earache in June 1997 on double vinyl, regular CD, digipak CD and MC.",
+   "spotify": "14cWgrRWAgdPh0q5cDa577",
+   "youtube": null
+  },
+  {
+   "id": "46672e32-d8db-3b1b-81b6-2985ff31bbe2",
+   "titulo": "Words From the Exit Wound",
+   "data": "1998-10-26",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/65859199-0ec0-49ef-a6fe-6ca75c21277b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Infiltraitor",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Repression Out of Uniform",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Next of Kin to Chaos",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Trio-Degradable / Affixed by Disconcern",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Cleanse Impure",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Devouring Depraved",
+     "duracao": "3:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Ulterior Exterior",
+     "duracao": "1:49"
+    },
+    {
+     "n": 8,
+     "titulo": "None the Wiser?",
+     "duracao": "4:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Clutching at Barbs",
+     "duracao": "2:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Incendiary Incoming",
+     "duracao": "3:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Thrown Down a Rope",
+     "duracao": "3:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Sceptic in Perspective",
+     "duracao": "6:57"
+    },
+    {
+     "n": 13,
+     "titulo": "Hung (live)",
+     "duracao": "3:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Greed Killing (live)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 15,
+     "titulo": "Suffer the Children (live)",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Words_from_the_Exit_Wound",
+   "resumo_en": "Words from the Exit Wound is the eighth studio album by British extreme metal band Napalm Death, released in 1998 by Earache. It was issued only on CD. It is considered the final album of the band's \"experimental\" period, while simultaneously foreshadowing the band's return to a more traditional death metal and grindcore sound.",
+   "spotify": "0QwDcUAX2xmdxngDf05o7u",
+   "youtube": null
+  },
+  {
+   "id": "a4f59d1d-9a67-3509-908f-93c01f0ca19f",
+   "titulo": "Enemy of the Music Business",
+   "data": "2000-09-25",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/14e115b2-bac3-48ae-847f-724f3f29f5b6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Taste the Poison",
+     "duracao": "1:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Next on the List",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Constitutional Hell",
+     "duracao": "2:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Vermin",
+     "duracao": "2:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Volume of Neglect",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Thanks for Nothing",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Can’t Play, Won’t Pay",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Blunt Against the Cutting Edge",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Cure for the Common Complaint",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Necessary Evil",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "C.S. (Conservative Shithead), Part 2",
+     "duracao": "2:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Mechanics of Deceit",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "(The Public Get) What the Public Doesn’t Want",
+     "duracao": "3:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Fracture in the Equation / [untitled]",
+     "duracao": "11:08"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Enemy_of_the_Music_Business",
+   "resumo_en": "Enemy of the Music Business is the ninth studio album by the British band Napalm Death, released in 2000. This album, along with Words from the Exit Wound, are the only Napalm Death studio albums that were released only on CD until 2013. London-based Secret Records has re-issued the album on CD (with covers EP Leaders Not Followers included as bonus tracks) and 180g LP. This is the last release that has Jesse Pintado actually performing. Kerrang put it on the list of the best 50 albums of the 2000, at the position number 19.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d0488994-1f65-409f-ba37-0a9fea72fdec",
+   "titulo": "Order of the Leech",
+   "data": "2002-10-21",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/5d853757-2844-4173-89d5-26fee65d5c0f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Continuing War on Stupidity",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "The Icing on the Hate",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Forced to Fear",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Narcoleptic",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Out of Sight Out of Mind",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "To Lower Yourself (Blind Servitude)",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Lowest Common Denominator",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Forewarned Is Disarmed?",
+     "duracao": "2:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Per Capita",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Farce and Fiction",
+     "duracao": "2:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Blows to the Body",
+     "duracao": "3:12"
+    },
+    {
+     "n": 12,
+     "titulo": "The Great Capitulator",
+     "duracao": "2:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Terror Rain",
+     "duracao": "1:46"
+    },
+    {
+     "n": 14,
+     "titulo": "Thaw",
+     "duracao": "1:13"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Order_of_the_Leech",
+   "resumo_en": "Order of the Leech is the tenth studio album by the British grindcore band Napalm Death, released in 2002 through Spitfire. Although credited in the line-up, Jesse Pintado never performed. The second guitar is actually Mitch Harris overdubbing, hence marking this album's lineup as today's lineup. \"The Great Capitulator\" is 2:49. At the end of the song, a long silence follows from 2:50 to 9:56. At 9:57, a soundbite comes fading in of a fan speaking of his attitude to metal music, mentioning bands like Krabathor or Immortal. His speech is then translated in Czech. It is the last album in a trilogy to feature these kinds of soundbites, with the others being Leaders Not Followers EP and Enemy of the Music Business.",
+   "spotify": "3poKu6fvdHCDj2Kw7JYX37",
+   "youtube": null
+  },
+  {
+   "id": "30a2d147-f1c3-38b1-be7b-c0d52a286cc0",
+   "titulo": "Leaders Not Followers: Part 2",
+   "data": "2004-07-22",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/0e101a1f-e2b5-4e4f-9add-621e62a232b5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lowlife",
+     "duracao": "2:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Face Down in the Dirt",
+     "duracao": "1:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Devastation",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Messiah",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Victims of a Bomb Raid",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Night of Pain",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "War’s No Fairytale",
+     "duracao": "1:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Conform",
+     "duracao": "1:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Master",
+     "duracao": "2:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Fire Death Fate",
+     "duracao": "3:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Riot of Violence",
+     "duracao": "4:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Game of the Arseholes",
+     "duracao": "1:23"
+    },
+    {
+     "n": 13,
+     "titulo": "Clangor of War",
+     "duracao": "2:33"
+    },
+    {
+     "n": 14,
+     "titulo": "Dope Fiend",
+     "duracao": "1:36"
+    },
+    {
+     "n": 15,
+     "titulo": "I’m Tired",
+     "duracao": "0:52"
+    },
+    {
+     "n": 16,
+     "titulo": "Troops of Doom",
+     "duracao": "2:30"
+    },
+    {
+     "n": 17,
+     "titulo": "Bedtime Story",
+     "duracao": "2:25"
+    },
+    {
+     "n": 18,
+     "titulo": "Blind Justice",
+     "duracao": "1:06"
+    },
+    {
+     "n": 19,
+     "titulo": "Hate, Fear and Power",
+     "duracao": "0:29"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 8
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leaders_Not_Followers%3A_Part_2",
+   "resumo_en": "Leaders Not Followers: Part 2 is a cover album by British grindcore band Napalm Death, released in 2004 by Century Media. It contains covers of various hardcore punk and heavy metal songs. Although Jesse Pintado is credited for playing guitars, guitarist Mitch Harris revealed in an interview with The Metal Forge in 2005 that Pintado did not contribute to Leaders Not Followers: Part 2.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "84f50079-6e14-3a60-b725-e5802e656676",
+   "titulo": "The Code Is Red… Long Live the Code",
+   "data": "2005-04-19",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/33de809b-5545-4693-a3f8-425a0caa3c1e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silence Is Deafening",
+     "duracao": "3:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Right You Are",
+     "duracao": "0:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Diplomatic Immunity",
+     "duracao": "1:45"
+    },
+    {
+     "n": 4,
+     "titulo": "The Code Is Red… Long Live the Code",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Climate Controllers",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Instruments of Persuasion",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "The Great and the Good",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Crash the Pose",
+     "duracao": "1:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Sold Short",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "All Hail the Grey Dawn",
+     "duracao": "4:14"
+    },
+    {
+     "n": 11,
+     "titulo": "Vegetative State",
+     "duracao": "3:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Pay for the Privilege of Breathing",
+     "duracao": "1:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Pledge Yourself to You",
+     "duracao": "3:15"
+    },
+    {
+     "n": 14,
+     "titulo": "Losers",
+     "duracao": "4:22"
+    },
+    {
+     "n": 15,
+     "titulo": "Striding Purposefully Backwards",
+     "duracao": "2:54"
+    },
+    {
+     "n": 16,
+     "titulo": "Morale",
+     "duracao": "4:45"
+    },
+    {
+     "n": 17,
+     "titulo": "Our Pain Is Their Power",
+     "duracao": "2:10"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.4,
+    "fontes": 7
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Code_Is_Red...Long_Live_the_Code",
+   "resumo_en": "The Code Is Red...Long Live the Code is Napalm Death's eleventh studio album and was recorded at Foel Studio, Llanfair Caereinion, with producer Russ Russell. It was released on 25 April 2005. A music video for \"Silence Is Deafening\", directed by Roger Johansson, was released later that year.\nSome editions of the album were released with a bonus disc that contains material from a variety of death metal bands, such as Aborted. The Napalm Death song \"Silence Is Deafening\" is the first track on the compilation.\nThe album features guest appearances by Jello Biafra of Dead Kennedys, Jamey Jasta of Hatebreed, and Jeffrey Walker of Carcass.\nIn 2017, Decibel released a special magazine issue relating to the 30th Anniversary of Napalm Death. This issue included a Decibel Magazine Hall of Fame induction for The Code Is Red... Long Live the Code.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "12bc0a01-a985-31c1-876b-15c8857f3850",
+   "titulo": "Smear Campaign",
+   "data": "2006-09-18",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/6478e1d2-089a-4b30-984d-4cb2d527d720/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Weltschmerz",
+     "duracao": "1:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Sink Fast, Let Go",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Fatalist",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Puritanical Punishment Beating",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "When All Is Said and Done",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Freedom Is the Wage of Sin",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "In Deference",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Short‐Lived",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Identity Crisis",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Shattered Existence",
+     "duracao": "3:11"
+    },
+    {
+     "n": 11,
+     "titulo": "Eyes Right Out",
+     "duracao": "3:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Warped Beyond Logic",
+     "duracao": "2:00"
+    },
+    {
+     "n": 13,
+     "titulo": "Rabid Wolves (For Christ)",
+     "duracao": "1:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Deaf and Dumbstruck (Intelligent Design)",
+     "duracao": "2:46"
+    },
+    {
+     "n": 15,
+     "titulo": "Persona Non Grata",
+     "duracao": "2:47"
+    },
+    {
+     "n": 16,
+     "titulo": "Smear Campaign",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.9,
+    "fontes": 7
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Smear_Campaign_%28album%29",
+   "resumo_en": "Smear Campaign is the twelfth studio album by grindcore band Napalm Death. It was recorded with producer Russ Russell at Foel Studios, Wales, and was released on 15 September 2006. It was released as a regular CD, and as a digipak edition featuring two bonus tracks and a sticker of the cover artwork. Differently coloured versions of the cover art exist.\nShortly before the release, Barney Greenway mentioned that the album features a guest appearance by Anneke van Giersbergen, ex-vocalist for the Dutch rock band The Gathering, saying, \"[She] has offered up a few parts to a track, which I've yet to hear. But before some people recoil in horror about Napalm going operatic rock or whatever, this was done for good effect and relevance to the track. It will work. It will rock. I'm sure. And we're grateful to Anneke (who is an awesome vocalist in her own right) in advance for giving it a stab.\"\nSmear Campaign is a concept album criticising religion in general.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "065b7776-657e-361e-a6c0-43616b1c0a95",
+   "titulo": "Time Waits for No Slave",
+   "data": "2009-01-23",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/33828a07-1020-4764-a44d-53a7bdea0e3d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Strong-Arm",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Diktat",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Work to Rule",
+     "duracao": "3:16"
+    },
+    {
+     "n": 4,
+     "titulo": "On the Brink of Extinction",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Time Waits for No Slave",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Life and Limb",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Downbeat Clique",
+     "duracao": "4:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Fallacy Dominion",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Passive Tense",
+     "duracao": "3:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Larceny of the Heart",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Procrastination on the Empty Vessel",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Feeling Redundant",
+     "duracao": "3:23"
+    },
+    {
+     "n": 13,
+     "titulo": "A No-Sided Argument",
+     "duracao": "2:13"
+    },
+    {
+     "n": 14,
+     "titulo": "De-Evolution Ad Nauseam",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 9.0,
+    "fontes": 6
+   },
+   "publico": 5.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Time_Waits_for_No_Slave",
+   "resumo_en": "Time Waits for No Slave is the thirteenth studio album by the British grindcore band Napalm Death. It was released through Century Media on 23 January 2009.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0abf0087-d0c6-4a47-b91c-48e287db7fd6",
+   "titulo": "Utilitarian",
+   "data": "2012-02-24",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/7120a7be-1d16-4d33-b961-e30b3e0ba1e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Circumspect",
+     "duracao": "2:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Errors in the Signals",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Everyday Pox",
+     "duracao": "2:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Protection Racket",
+     "duracao": "3:53"
+    },
+    {
+     "n": 5,
+     "titulo": "The Wolf I Feed",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Quarantined",
+     "duracao": "2:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Fall on Their Swords",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Collision Course",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Orders of Magnitude",
+     "duracao": "3:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Think Tank Trials",
+     "duracao": "2:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Blank Look About Face",
+     "duracao": "3:10"
+    },
+    {
+     "n": 12,
+     "titulo": "Leper Colony",
+     "duracao": "3:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Aim Without an Aim",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "Everything in Mono",
+     "duracao": "2:49"
+    },
+    {
+     "n": 15,
+     "titulo": "Nom de guerre",
+     "duracao": "1:06"
+    },
+    {
+     "n": 16,
+     "titulo": "Analysis Paralysis",
+     "duracao": "3:21"
+    },
+    {
+     "n": 17,
+     "titulo": "Opposites Repellent",
+     "duracao": "1:22"
+    },
+    {
+     "n": 18,
+     "titulo": "A Gag Reflex",
+     "duracao": "3:27"
+    },
+    {
+     "n": 19,
+     "titulo": "Standardization",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 74,
+    "media": 8.3,
+    "fontes": 9
+   },
+   "publico": 6.2,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Utilitarian_%28album%29",
+   "resumo_en": "Utilitarian is the fourteenth studio album by British grindcore band Napalm Death. It was released in the UK on 27 February 2012 and globally on 28 February 2012.\nThe magazine Loudwire named it as second best metal album of 2012. Loudwire also put \"The Wolf I feed\" at the 64 spot on their best metal songs of the 2010s list.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6d5e5ad9-d356-43e3-9b3d-360a35273232",
+   "titulo": "Apex Predator – Easy Meat",
+   "data": "2015-01-23",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/21ba46ba-fe1c-459b-9a6a-0ad71d4df22c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Apex Predator – Easy Meat",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Smash a Single Digit",
+     "duracao": "1:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Metaphorically Screw You",
+     "duracao": "2:07"
+    },
+    {
+     "n": 4,
+     "titulo": "How the Years Condemn",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Stubborn Stains",
+     "duracao": "3:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Timeless Flogging",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Dear Slum Landlord…",
+     "duracao": "2:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Cesspits",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Bloodless Coup",
+     "duracao": "2:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Beyond the Pale",
+     "duracao": "3:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Stunt Your Growth",
+     "duracao": "2:08"
+    },
+    {
+     "n": 12,
+     "titulo": "Hierarchies",
+     "duracao": "3:15"
+    },
+    {
+     "n": 13,
+     "titulo": "One‐Eyed",
+     "duracao": "2:50"
+    },
+    {
+     "n": 14,
+     "titulo": "Adversarial / Copulating Snakes",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "metacritic": 89,
+    "media": 8.9,
+    "fontes": 10
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Apex_Predator_%E2%80%93_Easy_Meat",
+   "resumo_en": "Apex Predator – Easy Meat is the fifteenth studio album by British grindcore band Napalm Death, released on 23 January 2015 through Century Media. Since the band recorded the album in segments, recording took almost a year. In advance of the release, Napalm Death issued details of the then upcoming album such as artwork and track listing as well as two new songs. The first video clip taken from Apex Predator coincided with the release. Reviews of Apex Predator were overwhelmingly positive, while it also entered a number of American and European charts.\nRolling Stone put the album on the list of the best 20 metal albums of 2015.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6b8d5503-dcad-4a7b-aa9a-c17142063eab",
+   "titulo": "Throes of Joy in the Jaws of Defeatism",
+   "data": "2020-09-18",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/05ea0674-247c-46c6-b29e-75fb4112f4c0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fuck the Factoid",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Backlash Just Because",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "That Curse of Being in Thrall",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Contagion",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Joie de ne pas vivre",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Invigorating Clutch",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Zero Gravitas Chamber",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Fluxing of the Muscle",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Amoral",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Throes of Joy in the Jaws of Defeatism",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Acting in Gouged Faith",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Air’s Turned Foul in Here",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "A Bellyful of Salt and Spleen",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 86,
+    "media": 8.6,
+    "fontes": 7
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Throes_of_Joy_in_the_Jaws_of_Defeatism",
+   "resumo_en": "Throes of Joy in the Jaws of Defeatism is the sixteenth studio album by British grindcore band Napalm Death. It was released on 18 September 2020 through Century Media.\nIt is the band's first full-length studio album since 2015's Apex Predator – Easy Meat, making it their longest gap between albums.\nMetal Hammer named it as the second best metal album of 2020.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e7a36dd0-a879-4cfe-9ed1-0f78c4fca565",
+   "titulo": "Savage Imperial Death March",
+   "data": "2025-02-16",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/d2e74e18-9128-47cf-905a-95f9419c75ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tossing Coins Into the Fountain of Fuck",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Some Kind of Antichrist",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Nine Days of Rain",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Rip the God",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Stealing Horses",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Death Hour",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

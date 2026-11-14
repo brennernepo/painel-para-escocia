@@ -1,0 +1,618 @@
+{
+ "id": "angela-ro-ro",
+ "nome": "Angela Ro Ro",
+ "cena": "Rock brasileiro",
+ "mbid": "6baa862e-65dc-418d-a994-80cb89775c07",
+ "wikidata": "Q4762550",
+ "tipo": "Person",
+ "pais": "BR",
+ "inicio": "1949",
+ "fim": "2025",
+ "ativa": false,
+ "generos": [
+  "mpb",
+  "singer-songwriter"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818087963604%29_%28cropped%29.jpg/500px-26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818087963604%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Angela_Ro_Ro",
+ "resumo_pt": "Angela Maria Diniz Gonsalves (Rio de Janeiro, 5 de dezembro de 1949 – Rio de Janeiro, 8 de setembro de 2025), mais conhecida como Angela Ro Ro, foi uma cantora, compositora e pianista brasileira. Angela Ro Ro foi considerada pela revista Rolling Stone a trigésima terceira maior voz da música brasileira.\nO apelido \"Ro Ro\" foi dado na infância por meninos do seu bairro devido a sua voz rouca.\nAs composições que assinou foram gravadas por artistas como Maria Bethânia, Ney Matogrosso e Marina Lima. Simone e Zélia Duncan gravaram \"Agito e Uso\" (CD Amigo É Casa, 2008).",
+ "resumo_en": "Angela Maria Diniz Gonsalves (5 December 1949 – 8 September 2025), best known by the stage name Angela Ro Ro, based on an onomatopoeia of her laughter, was a Brazilian singer-songwriter. She was influenced by her idols Ella Fitzgerald, Maysa Matarazzo and Jacques Brel.\nHer debut album was voted by Rolling Stone Brazil one of the greatest Brazilian albums of all time. Ro Ro was one of the first singers in Brazil to come out as a lesbian.\nFrom 2004 to 2005, Ro Ro hosted the musical talk show Escândalo on Canal Brasil.\nShe died on 8 September 2025, at the age of 75.",
+ "albuns": [
+  {
+   "id": "501a6519-8218-3df9-a631-882e069d58df",
+   "titulo": "Angela Ro Ro",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/14d22d9a-8fb9-4764-a039-e7c5bc561831/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cheirando A Amor",
+     "duracao": "2:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Gota De Sangue",
+     "duracao": "2:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Tola Foi Você",
+     "duracao": "2:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Não Há Cabeça",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Amor, Meu Grande Amor",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Me Acalmo Danando",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Agito E Uso",
+     "duracao": "2:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Mares Da Espanha",
+     "duracao": "3:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Minha Mãezinha",
+     "duracao": "2:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Balada Da Arrasada",
+     "duracao": "2:46"
+    },
+    {
+     "n": 11,
+     "titulo": "A Mim E A Mais Ninguém",
+     "duracao": "3:05"
+    },
+    {
+     "n": 12,
+     "titulo": "Abre O Coração",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7fc39137-e895-3fa3-8bc2-12b4e6e13e5c",
+   "titulo": "Só nos Resta Viver",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/18a25a07-38e9-498b-90d7-4a5e773a2f05/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Renúncia",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Só nos resta viver",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Bárbara",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Vai embora!",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "My sweet...",
+     "duracao": "3:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Devoção",
+     "duracao": "1:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Preciso tanto!!!",
+     "duracao": "4:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Fica comigo esta noite",
+     "duracao": "2:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Blues do arranco",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Bobagem",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Meu mal é a birita",
+     "duracao": "3:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Tango da bronquite",
+     "duracao": "2:09"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "05938bbe-bc62-3aa4-add2-12f9e2668a4c",
+   "titulo": "Escândalo",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/22d2a05b-0940-46c5-8927-6c27bf5969a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Perdoai-os Pai",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Came e Case",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Escândalo",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Tão Beata Tão à-Toa",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Na Cama",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Vou Lá no Fundo",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Perco o Rumo",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Fraca e Abusada",
+     "duracao": "2:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Coitadinha, Bem Feito!",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Passarinho",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Mistério",
+     "duracao": "3:40"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9dbca64f-51f5-3584-9866-40ec146c9e81",
+   "titulo": "Simples Carinho",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/9e43538b-491a-4a62-9545-4571f6dcdcfb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Simples carinho",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Quem me quiser",
+     "duracao": "4:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Demais",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Pecado nada original",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Bandeyra",
+     "duracao": "2:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Querem nos matar",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Se você voltar",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Cambalache",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Camisa-de-força",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Mestre luz",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Sistema",
+     "duracao": "2:30"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "76addbb2-95d4-30b1-a3e4-2fede0e22ee0",
+   "titulo": "Eu Desatino",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/3a3844f5-4c46-475f-973e-dc8bcdeffd41/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Janis",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Isca De Piranha",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Laura Regina Hilária",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Nóia",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Eu Desatino!",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Solitários Interplanetários",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Eu Não!",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "E Tome Polca",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Mônica",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Musa Amada",
+     "duracao": "2:50"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "484eca07-2132-38df-96ea-25d6b387ee6f",
+   "titulo": "Prova de Amor",
+   "data": "1988",
+   "ano": "1988",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Photo Kirlian",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Sempre uma dose a mais",
+     "duracao": "4:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Viciado em regras",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Funk do negão",
+     "duracao": "4:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Cadê?",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Meu Benzinho",
+     "duracao": "5:18"
+    },
+    {
+     "n": 7,
+     "titulo": "How green was your monkey",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Rockaby",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Karma secular",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Prova de amor",
+     "duracao": "1:34"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d80b2e9a-4599-3483-865d-1745a85c0316",
+   "titulo": "Acertei no Milênio",
+   "data": "2006",
+   "ano": "2006",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O Cinema, A Princesa e o Mar",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Acertei no Milênio",
+     "duracao": "2:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Boemia do Sono",
+     "duracao": "2:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Sim, Doi",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Viciei em Você",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "All of Me",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Don't Let Me Be Misunderstood",
+     "duracao": "5:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Gota D'Água",
+     "duracao": "5:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Coquinho",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Fila de Ex-mulher",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Raiado de Amor",
+     "duracao": "3:24"
+    },
+    {
+     "n": 12,
+     "titulo": "Garota Marta Hari",
+     "duracao": "3:46"
+    },
+    {
+     "n": 13,
+     "titulo": "50 Anos",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "221fe055-6840-4c55-a687-1189b30c2197",
+   "titulo": "Compasso",
+   "data": "2006-08-07",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/8d89c135-ab55-4073-8407-3bf6bd59b449/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Compasso",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Contagem regressiva",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Paixão",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Dá pé!",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Menti pra você",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Sem adeus",
+     "duracao": "3:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Chance de amar",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Loucura maior",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Arranca essa flor!",
+     "duracao": "3:26"
+    },
+    {
+     "n": 10,
+     "titulo": "Não adianta",
+     "duracao": "4:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Bater não dói!",
+     "duracao": "4:01"
+    },
+    {
+     "n": 12,
+     "titulo": "Nossos enganos",
+     "duracao": "4:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Dorme, sonha...",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

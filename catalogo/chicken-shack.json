@@ -1,0 +1,616 @@
+{
+ "id": "chicken-shack",
+ "nome": "Chicken Shack",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "282ed0dc-064e-480c-b827-5b5e9500f045",
+ "wikidata": "Q968313",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1965",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues",
+  "blues rock",
+  "british blues",
+  "hard rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Chicken_shack.jpg/500px-Chicken_shack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/Chicken_Shack",
+ "resumo_pt": "",
+ "resumo_en": "Chicken Shack are a British blues and rock band, founded in the mid-1960s by Stan Webb (guitar and vocals), Andy Silvester (bass guitar), and Alan Morley (drums), who were later joined by Christine Perfect (later McVie) (vocals and keyboards) in 1967. Chicken Shack has performed with various line-ups, Stan Webb being the only constant member.",
+ "albuns": [
+  {
+   "id": "9d57c9fb-07c5-3897-bbc4-68320751ef2c",
+   "titulo": "Forty Blue Fingers, Freshly Packed and Ready to Serve",
+   "data": "1968-06",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/e94953af-dd14-4b1b-9bc4-eca031efd5dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Letter",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Lonesome Whistle Blues",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "When the Train Comes Back",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "San-Ho-Zay",
+     "duracao": "3:08"
+    },
+    {
+     "n": 5,
+     "titulo": "King of the World",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "See See Baby",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "First Time I Met the Blues",
+     "duracao": "6:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Webbed Feet",
+     "duracao": "2:57"
+    },
+    {
+     "n": 9,
+     "titulo": "You Ain’t No Good",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "What You Did Last Night",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "01f2bac5-928c-3c89-96e3-98ddfa9eccbb",
+   "titulo": "100 Ton Chicken",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/957144eb-65fa-4db1-84bf-99ffb44df391/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Road of Love",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Look Ma, I'm Cryin'",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Evelyn",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Reconsider Baby",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Weekend Love",
+     "duracao": "2:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Midnight Hour",
+     "duracao": "2:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Tears in the Wind",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Horse and Cart",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "The Way It Is",
+     "duracao": "4:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Still Worried About My Woman",
+     "duracao": "3:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Anji",
+     "duracao": "1:36"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/100_Ton_Chicken",
+   "resumo_en": "100 Ton Chicken is the third studio album by the blues band, Chicken Shack, released in 1969. This album was Paul Raymond's first album as a member of Chicken Shack, replacing Christine Perfect.\nUnlike its predecessors, 40 Blue Fingers, Freshly Packed and Ready to Serve and O.K. Ken?, 100 Ton Chicken did not reach the UK Albums Chart. Peter Kurtz, writing for AllMusic, noted \"Sorry, but this chicken laid a 20-ton rotten egg\".\nThe entire album and the rest of the Chicken Shack sessions on Blue Horizon were made available on the CD compilation Chicken Shack - The Complete Blue Horizon Sessions (2007). Several outtakes from the 100 Ton Chicken sessions were made available for the first time on this compilation. \"Smartest Girl in the World\" and \"Hideaway\" were both unpublished outtakes. \"The Things You Put Me Through\" was also an outtake but it had been released as the B side to the single \"Tears in the Wind\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bcc25ac3-d049-3789-bbe0-b6694bf6cc9f",
+   "titulo": "O.K. Ken?",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/ba22549e-cb61-4e4d-8b64-e542e5b0e5e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baby's Got Me Crying",
+     "duracao": "2:34"
+    },
+    {
+     "n": 2,
+     "titulo": "The Right Way Is My Way",
+     "duracao": "2:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Get Like You Used to Be",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Pony and Trap",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Tell Me",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "A Woman Is the Blues",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "I Wanna See My Baby",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Remington Ride",
+     "duracao": "3:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Fishing in Your River",
+     "duracao": "4:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Mean Old World",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Sweet Sixteen",
+     "duracao": "6:23"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/O.K._Ken%3F",
+   "resumo_en": "O.K. Ken? is the second studio album by the blues band Chicken Shack, released in February 1969. O.K Ken? reached number 9 in the UK Albums Chart, three places higher than its predecessor, 40 Blue Fingers, Freshly Packed and Ready to Serve. It was the last album with Christine Perfect as a member of Chicken Shack.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "38e17383-b86b-4d3c-8ca6-f4fb17eb8a8a",
+   "titulo": "Accept Chicken Shack",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/bdf03d02-9ab6-456b-aaad-cad08ebfb36a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Diary of Your Life",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Pocket",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Never Ever",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Sad Clown",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Maudie",
+     "duracao": "2:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Telling Your Fortune",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Tired Eyes",
+     "duracao": "2:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Some Other Time",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Going Round",
+     "duracao": "2:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Andalucian Blues",
+     "duracao": "2:19"
+    },
+    {
+     "n": 11,
+     "titulo": "You Knew You Did Your Bid",
+     "duracao": "2:24"
+    },
+    {
+     "n": 12,
+     "titulo": "She Didn’t Use Her Loaf",
+     "duracao": "4:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Apple Tart",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Accept_%28Chicken_Shack_album%29",
+   "resumo_en": "Accept is the fourth studio album by the blues band, Chicken Shack, released in 1970.  Accept was Chicken Shack's last album on the Blue Horizon label.  This album was also the last for Andy Sylvester, Dave Bidwell and Paul Raymond as members of Chicken Shack. It also marks a departure from pure blues to a more progressive and psychedelic sound.\nThe entire album and the rest of the Chicken Shack sessions on Blue Horizon were made available on the CD compilation Chicken Shack – The Complete Blue Horizon Sessions (2007).\nThe German heavy metal band Accept took its name from this album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5e4ca662-8f01-3fec-903d-0e4d04a44592",
+   "titulo": "Imagination Lady",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/460d5c2d-986f-4d70-9719-7c14e51b0b09/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crying Won't Help You Now",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Daughter of the Hillside",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "If I Were a Carpenter",
+     "duracao": "6:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Going Down",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Poor Boy",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Telling Your Fortune",
+     "duracao": "11:10"
+    },
+    {
+     "n": 7,
+     "titulo": "The Loser",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Imagination_Lady",
+   "resumo_en": "Imagination Lady is the fifth studio album by the blues band Chicken Shack, released in 1972 on the Deram record label. It was reissued by Esoteric Recordings in July 2012 on CD in the UK.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "824d49ce-4caf-3ee7-97c6-fa49511e47f9",
+   "titulo": "Unlucky Boy",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/cd603572-dd19-46c4-80ae-d9f38421e269/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Know Could Be Right",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Revelation",
+     "duracao": "5:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Prudence’s Party",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Too Late to Cry",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Stan the Man",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Unlucky Boy",
+     "duracao": "2:36"
+    },
+    {
+     "n": 7,
+     "titulo": "As Time Goes Passing By",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Jammin’ With the Ash",
+     "duracao": "6:59"
+    },
+    {
+     "n": 9,
+     "titulo": "He Knows the Rules",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Unlucky_Boy",
+   "resumo_en": "Unlucky Boy is the sixth studio album by the blues band Chicken Shack, released in 1973.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d7efaae8-294d-4051-92be-838298c890f3",
+   "titulo": "The Collection",
+   "data": "1988",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/1775b2f1-5207-40ea-a6a8-2202a9712576/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Letter",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "When the Train Comes Back",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Lonesome Whistle Blues",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "You Ain't No Good",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby's Got Me Crying",
+     "duracao": "2:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Right Way Is My Way",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Get Like You Used to Be",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "A Woman Is the Blues",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "I Wanna See My Baby",
+     "duracao": "3:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Remington Ride",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Mean Old World",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "San-Ho-Zay",
+     "duracao": "3:02"
+    },
+    {
+     "n": 13,
+     "titulo": "The Way It Is",
+     "duracao": "4:26"
+    },
+    {
+     "n": 14,
+     "titulo": "Tears in the Wind",
+     "duracao": "2:41"
+    },
+    {
+     "n": 15,
+     "titulo": "Maudie",
+     "duracao": "2:53"
+    },
+    {
+     "n": 16,
+     "titulo": "Some Other Time",
+     "duracao": "3:05"
+    },
+    {
+     "n": 17,
+     "titulo": "Andalucian Blues",
+     "duracao": "2:19"
+    },
+    {
+     "n": 18,
+     "titulo": "Crazy 'Bout You Baby",
+     "duracao": "3:03"
+    },
+    {
+     "n": 19,
+     "titulo": "Close to Me",
+     "duracao": "2:41"
+    },
+    {
+     "n": 20,
+     "titulo": "I Rather Go Blind",
+     "duracao": "3:14"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "38a4d36b-cbbd-3504-a78b-0f90bc37da90",
+   "titulo": "The Creeper",
+   "data": "2006-01-12",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/aaf44dc2-74c3-4e41-9a95-ffa30ae47e15/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Creeper",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Delilah",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Riding With the Devil",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Think",
+     "duracao": "2:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Stop Knocking My Door",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue Vein",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "It's Easy If You're Lonely",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "The Guitar Playing Derelict",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Dr Brown",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Red Haired Lady",
+     "duracao": "3:12"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

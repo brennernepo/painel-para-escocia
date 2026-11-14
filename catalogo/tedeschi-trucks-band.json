@@ -1,0 +1,726 @@
+{
+ "id": "tedeschi-trucks-band",
+ "nome": "Tedeschi Trucks Band",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "e33e1ccf-a3b9-4449-a66a-0091e8f55a60",
+ "wikidata": "Q2115419",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "2010",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "blue-eyed soul",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tedeschi_Trucks_Band_in_Vancouver%2C_Canada%2C_May_25%2C_2024.jpg/500px-Tedeschi_Trucks_Band_in_Vancouver%2C_Canada%2C_May_25%2C_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Tedeschi_Trucks_Band",
+ "resumo_pt": "A Tedeschi Trucks Band é um grupo musical norte‑americano formado em 2010 e sediado em Jacksonville, Florida. A banda é liderada pelo casal Susan Tedeschi (voz e guitarra) e Derek Trucks (guitarra), ambos com carreiras consolidadas. Desde então, o grupo lançou vários álbuns de estúdio e ao vivo e manteve uma atividade regular em digressão.",
+ "resumo_en": "The Tedeschi Trucks Band () is an American musical group based in Jacksonville, Florida. Formed in 2010, the band is led by married couple Susan Tedeschi and Derek Trucks. Their debut album, Revelator (2011), won the 2012 Grammy Award for Best Blues Album. The band has released six studio and three live albums.",
+ "albuns": [
+  {
+   "id": "4416e00f-bb4d-4018-986d-d5e7e7db220d",
+   "titulo": "Revelator",
+   "data": "2011-06-07",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/6004a683-c6da-4023-8453-8533f2d9112d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Come See About Me",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Let Me Slide",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Midnight in Harlem",
+     "duracao": "5:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Bound for Glory",
+     "duracao": "5:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Simple Things",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Until You Remember",
+     "duracao": "6:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Ball and Chain",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "These Walls",
+     "duracao": "6:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Learn How to Love",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Shrimp and Grits (interlude)",
+     "duracao": "1:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Has Something Else to Say",
+     "duracao": "5:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Shelter / Ghost Light",
+     "duracao": "7:58"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Revelator_%28Tedeschi_Trucks_Band_album%29",
+   "resumo_en": "Revelator is the debut album by the 11-piece American blues rock group Tedeschi Trucks Band released on June 7, 2011, by Sony Masterworks. Recorded in Derek and Susan's Swamp Raga Studios in Jacksonville, co-produced by Derek with producer/engineer Jim Scott. The album won the Grammy Award for Best Blues Album at the 54th Annual Grammy Awards.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a150b518-727b-42b6-af7a-e09ffb4317b6",
+   "titulo": "Made Up Mind",
+   "data": "2013-08-15",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/98cd3623-da17-46be-8e80-a9a19c951ed0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Made Up Mind",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Do I Look Worried",
+     "duracao": "4:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Idle Wind",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Misunderstood",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Part of Me",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Whiskey Legs",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s So Heavy",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "All That I Need",
+     "duracao": "5:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet and Low",
+     "duracao": "5:04"
+    },
+    {
+     "n": 10,
+     "titulo": "The Storm",
+     "duracao": "6:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Calling Out to You",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 76,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Made_Up_Mind",
+   "resumo_en": "Made Up Mind is the second studio album from blues-rock group Tedeschi Trucks Band. It was released August 20, 2013 by Masterworks Records.\nIn 2014, it won a Blues Music Award in the 'Rock Blues Album of the Year' category.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "130e337f-1940-43b8-abfb-e6150a9dfe87",
+   "titulo": "Let Me Get By",
+   "data": "2016-01-29",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/4185f661-0f4b-4fd6-b56e-fcba5760a121/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anyhow",
+     "duracao": "6:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Laugh About It",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Know What It Means",
+     "duracao": "5:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Right on Time",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Let Me Get By",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Just as Strange",
+     "duracao": "3:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Crying Over You/ Swamp Raga",
+     "duracao": "8:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Hear Me",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want More",
+     "duracao": "7:14"
+    },
+    {
+     "n": 10,
+     "titulo": "In Every Heart",
+     "duracao": "6:18"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Let_Me_Get_By",
+   "resumo_en": "Let Me Get By is the third studio album from blues-rock group Tedeschi Trucks Band, released in 2016.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "271a313c-2e60-42e5-88ba-d48c3fb808f4",
+   "titulo": "Signs",
+   "data": "2019-02-15",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/215dae20-6165-470d-9316-63061258ceca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Signs, High Times",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Gonna Be There",
+     "duracao": "5:48"
+    },
+    {
+     "n": 3,
+     "titulo": "When Will I Begin",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Walk Through This Life",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Strengthen What Remains",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Still Your Mind",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Hard Case",
+     "duracao": "3:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Shame",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "All the World",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "They Don’t Shine",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "The Ending",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Signs_%28Tedeschi_Trucks_Band_album%29",
+   "resumo_en": "Signs is the fourth studio album by American blues rock group Tedeschi Trucks Band. The album was released on February 15, 2019, by Fantasy Records, on the same day that Kofi Burbridge, the band's keyboardist, died.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2f14acb9-2b5a-4a34-89fe-823ecfb90bd7",
+   "titulo": "I Am the Moon: I. Crescent",
+   "data": "2022-06-03",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/176d3f0c-b6b2-46e8-921b-8c9c3258e6b6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hear My Dear",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Fall In",
+     "duracao": "5:48"
+    },
+    {
+     "n": 3,
+     "titulo": "I Am the Moon",
+     "duracao": "5:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Circles 'Round The Sun",
+     "duracao": "6:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Pasaquan",
+     "duracao": "12:16"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "766977a5-162d-4d03-9511-bfe581268bfa",
+   "titulo": "I Am the Moon: II. Ascension",
+   "data": "2022-07-01",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/6e439558-66cf-4b92-b014-b1b51d86323d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Playing With My Emotions",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Ain't That Something",
+     "duracao": "5:28"
+    },
+    {
+     "n": 3,
+     "titulo": "All The Love",
+     "duracao": "9:03"
+    },
+    {
+     "n": 4,
+     "titulo": "So Long Savior",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Rainy Day",
+     "duracao": "4:47"
+    },
+    {
+     "n": 6,
+     "titulo": "La Di Da",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Hold That Line",
+     "duracao": "6:06"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "865f3a40-a7e8-48a9-852e-2553a66393c1",
+   "titulo": "I Am the Moon: III. The Fall",
+   "data": "2022-07-26",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/dfb3ddfe-3698-43f9-abca-62a606afa92d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Somehow",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "None Above",
+     "duracao": "2:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Yes We Will",
+     "duracao": "6:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Gravity",
+     "duracao": "6:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Emmaline",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Take Me as I Am",
+     "duracao": "5:27"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1b9c5c36-3634-4a52-aab6-e04a8051345c",
+   "titulo": "I Am the Moon: IV. Farewell",
+   "data": "2022-08-26",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/60d35061-3b46-4a04-a290-b318c179da17/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Last Night in the Rain",
+     "duracao": "4:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Soul Sweet Song",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "D’Gary",
+     "duracao": "6:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Where Are My Friends?",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can Feel You Smiling",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Another Day",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c1dddefb-596b-41cd-b887-49a687dc317c",
+   "titulo": "I Am the Moon",
+   "data": "2022-09-09",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/fe58cc80-3c22-45a7-a646-23a108b01da1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hear My Dear",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Fall In",
+     "duracao": "5:47"
+    },
+    {
+     "n": 3,
+     "titulo": "I Am The Moon",
+     "duracao": "5:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Circles 'Round The Sun",
+     "duracao": "6:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Pasaquan",
+     "duracao": "12:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Playing With My Emotions",
+     "duracao": "4:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Ain’t That Something",
+     "duracao": "5:25"
+    },
+    {
+     "n": 8,
+     "titulo": "All That Love",
+     "duracao": "9:01"
+    },
+    {
+     "n": 9,
+     "titulo": "So Long Savior",
+     "duracao": "2:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Rainy Day",
+     "duracao": "4:49"
+    },
+    {
+     "n": 11,
+     "titulo": "La Di Da",
+     "duracao": "4:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Hold That Line",
+     "duracao": "6:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Somehow",
+     "duracao": "5:09"
+    },
+    {
+     "n": 14,
+     "titulo": "None Above",
+     "duracao": "2:33"
+    },
+    {
+     "n": 15,
+     "titulo": "Yes We Will",
+     "duracao": "6:31"
+    },
+    {
+     "n": 16,
+     "titulo": "Gravity",
+     "duracao": "6:44"
+    },
+    {
+     "n": 17,
+     "titulo": "Emmaline",
+     "duracao": "3:35"
+    },
+    {
+     "n": 18,
+     "titulo": "Take Me As I Am",
+     "duracao": "5:27"
+    },
+    {
+     "n": 19,
+     "titulo": "Last Night In The Rain",
+     "duracao": "4:53"
+    },
+    {
+     "n": 20,
+     "titulo": "Soul Sweet Song",
+     "duracao": "3:55"
+    },
+    {
+     "n": 21,
+     "titulo": "D’Gary",
+     "duracao": "6:44"
+    },
+    {
+     "n": 22,
+     "titulo": "Where Are My Friends?",
+     "duracao": "5:20"
+    },
+    {
+     "n": 23,
+     "titulo": "I Can See You Smiling",
+     "duracao": "3:47"
+    },
+    {
+     "n": 24,
+     "titulo": "Another Day",
+     "duracao": "4:26"
+    }
+   ],
+   "duracao_min": 130,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I_Am_the_Moon",
+   "resumo_en": "I Am the Moon is the fifth studio album by American blues rock group Tedeschi Trucks Band. It is a quadruple album which was initially released in four separate parts over consecutive full moons in 2022: Crescent (released on June 3), Ascension (released on July 1), The Fall (released on July 29) and Farewell (released on August 26), with each album including a corresponding short film. The completed album was released via Fantasy Records on September 9, 2022 and is the band's first since 2019's Signs.\nConceptually, the project is based on the story of Layla and Majnun, a romantic poem of Arabian origin about star-crossed lovers.\nIt was ranked as the 10th best guitar album of 2022 by Guitar World readers.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a8b717df-56ec-415b-9933-f75e81a60991",
+   "titulo": "Future Soul",
+   "data": "2026-03-20",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/232e13a5-026b-4057-bb58-baec7a3ab40b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crazy Cryin",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "I Got You",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Am I",
+     "duracao": "4:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Hero",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "What in the World",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Future Soul",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Under the Knife",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Be Kind",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Devil Be Gone",
+     "duracao": "4:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Shout Out",
+     "duracao": "4:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Ride On",
+     "duracao": "3:16"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

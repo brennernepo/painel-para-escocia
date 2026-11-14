@@ -1,0 +1,2753 @@
+{
+ "id": "john-coltrane",
+ "nome": "John Coltrane",
+ "cena": "Jazz essencial",
+ "mbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
+ "wikidata": "Q7346",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1926",
+ "fim": "1967",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "free jazz",
+  "hard bop",
+  "avant-garde jazz",
+  "modal jazz"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/2/23/John_Coltrane_1963a.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/John_Coltrane",
+ "resumo_pt": "John William Coltrane (23 de setembro de 1926 — 17 de julho de 1967) foi um saxofonista e compositor de jazz norte-americano, habitualmente considerado pela crítica especializada como o maior sax tenor do jazz e um dos mais importantes jazzistas e compositores deste gênero de todos os tempos. Sua influência no mundo da música ultrapassa os limites do jazz, indo desde o rock até a música erudita.\nAtuou principalmente durante as décadas de 1950 e 1960. Embora tocasse antes de 1955, seus principais anos foram entre 1955 e 1967, durante os quais reformulou o jazz e influenciou gerações de outros músicos. As gravações de Coltrane foram prolíficas: ele lançou cerca de 50 gravações como líder nestes doze anos, e apareceu em outras tantas lideradas por outros músicos. Através de sua carreira, a música de Coltrane foi tomando progressivamente uma dimensão espiritual que iria consagrar seu legado musical.\nJunto com os saxofonistas tenores Coleman Hawkins, Lester Young e Sonny Rollins, Coltrane mudou as perspectivas de seu instrumento. Coltrane recebeu uma citação especial do Prémio Pulitzer de Música em 2007, por sua \"perita improvisação, musicalidade suprema e um dos ícones centrais na história do jazz\".",
+ "resumo_en": "John William Coltrane (September 23, 1926 – July 17, 1967) was an American jazz saxophonist, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.\nBorn and raised in North Carolina, Coltrane moved to Philadelphia after high school, where he immersed himself in the local jazz scene, studied music, and served in the Navy toward the end of World War II before making his professional debut in 1945. Working in the bebop and hard bop idioms early in his career, Coltrane helped pioneer the use of modes and was one of the players at the forefront of free jazz. He led at least fifty recording sessions and appeared on many albums by other musicians, including trumpeter Miles Davis and pianist Thelonious Monk. Over the course of his career, Coltrane's music took on an increasingly spiritual dimension, as exemplified on his most acclaimed album A Love Supreme (1965) and others. Decades after his death, Coltrane remains influential, and he has received numerous posthumous awards, including a special Pulitzer Prize, and he was canonized by the African Orthodox Church.\nHis second wife was pianist and harpist Alice Coltrane. The couple had three children: John Jr. (1964-1982), a bassist; Ravi (born 1965), a saxophonist; and Oran (born 1967), a saxophonist, guitarist, drummer, and singer.",
+ "albuns": [
+  {
+   "id": "8032a88d-0680-480a-91ed-34001c9c3773",
+   "titulo": "Mating Call",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/897d15d8-f729-4bcd-b32f-eed22d65e20d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mating Call",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Soultrane",
+     "duracao": "5:21"
+    },
+    {
+     "n": 3,
+     "titulo": "On a Misty Night",
+     "duracao": "6:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Gnid",
+     "duracao": "5:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Super Jet",
+     "duracao": "5:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Romas",
+     "duracao": "6:50"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a801b39f-b75b-3131-8d42-141bf3c694dd",
+   "titulo": "Coltrane",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/908b62cb-aede-34b3-9cc0-1296d37e08b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bakai",
+     "duracao": "8:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Violets for Your Furs",
+     "duracao": "6:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Was",
+     "duracao": "7:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Straight Street",
+     "duracao": "6:19"
+    },
+    {
+     "n": 5,
+     "titulo": "While My Lady Sleeps",
+     "duracao": "4:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Chronic Blues",
+     "duracao": "8:11"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.9,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Coltrane_%281957_album%29",
+   "resumo_en": "Coltrane is a studio album by the American jazz musician John Coltrane. It was released in October 1957 through Prestige Records. The recordings took place at the studio of Rudy Van Gelder in Hackensack, New Jersey, and document Coltrane's first session as a leader. It has been reissued at times under the title of The First Trane!.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b2e2ac12-8ff3-3b22-876b-e753d1541c3a",
+   "titulo": "Mal/2",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/b76b6bfa-0710-47fa-8d99-e015512f7ce8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "From This Moment On",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "J.M.'s Dream Doll",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "The Way You Look Tonight",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "One by One",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Explain",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Potpourri",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e3bbcc3e-1ab9-3e82-8023-b0188ade2c29",
+   "titulo": "Interplay for 2 Trumpets and 2 Tenors",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/78262678-70a7-495d-90b3-255c5b5ccf54/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Interplay",
+     "duracao": "9:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Anatomy",
+     "duracao": "11:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Light Blue",
+     "duracao": "7:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Soul Eyes",
+     "duracao": "17:29"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Interplay_for_2_Trumpets_and_2_Tenors",
+   "resumo_en": "Interplay for 2 Trumpets and 2 Tenors is a jazz album released in November 1957 by Prestige Records. It is credited to Idrees Sulieman, Webster Young, John Coltrane and Bobby Jaspar, with Mal Waldron, Kenny Burrell, Paul Chambers and Art Taylor.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1d4203bc-d096-3cea-a54e-8f01548b43a4",
+   "titulo": "Tenor Conclave",
+   "data": "1957-04",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/72478b97-72a1-417a-b7b1-7128bf9ec5bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tenor Conclave",
+     "duracao": "11:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Just You, Just Me",
+     "duracao": "9:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Bob’s Boys",
+     "duracao": "8:21"
+    },
+    {
+     "n": 4,
+     "titulo": "How Deep Is the Ocean?",
+     "duracao": "15:04"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cb6ef28b-5ba3-33b2-ac1b-76261a088794",
+   "titulo": "John Coltrane with the Red Garland Trio",
+   "data": "1958",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/d6aba148-36b9-499b-b3ce-ad16f70c5d89/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Traneing In",
+     "duracao": "12:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Slow Dance",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Bass Blues",
+     "duracao": "7:42"
+    },
+    {
+     "n": 4,
+     "titulo": "You Leave Me Breathless",
+     "duracao": "7:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Soft Lights And Sweet Music",
+     "duracao": "4:40"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Coltrane_with_the_Red_Garland_Trio",
+   "resumo_en": "John Coltrane with the Red Garland Trio is the third studio album by the jazz musician John Coltrane. It was released in early 1958 through Prestige Records. The recording took place at Rudy Van Gelder's studio on August 23, 1957.\nIt was reissued in 1961 as Traneing In with a new catalogue number and cover design. The album was reissued on compact disc in 2007 as part of the Concord Music Group remastering series by original recording engineer Rudy Van Gelder.",
+   "spotify": "0TTjeQSDvtsfLckoCAsDs0",
+   "youtube": null
+  },
+  {
+   "id": "12349ce8-2087-3d16-93da-70cd65621774",
+   "titulo": "Blue Train",
+   "data": "1958-02",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/4ca248f9-8f10-462b-a3bd-6ff48f25f151/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Train",
+     "duracao": "10:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Moment’s Notice",
+     "duracao": "9:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Locomotion",
+     "duracao": "7:16"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m Old Fashioned",
+     "duracao": "7:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Lazy Bird",
+     "duracao": "7:08"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 4
+   },
+   "publico": 9.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blue_Train_%28album%29",
+   "resumo_en": "Blue Train is a studio album by the jazz saxophonist and composer John Coltrane. It was released in January 1958 through Blue Note Records, and is Coltrane's only session as leader for the label. The recording was engineered by Rudy Van Gelder and took place at his studio in Hackensack, New Jersey, on September 15, 1957.\nColtrane wrote four of the record's five tracks. His playing exhibits early elements of the signature style for which he later became known. The album attained a gold sales certification from the Recording Industry Association of America in 2001.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9adc20e2-650a-4843-8e8b-8a63f4c620bb",
+   "titulo": "Wheelin’ & Dealin’",
+   "data": "1958-04",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/5df7e7e6-cedf-4024-8d43-209a2c3bc7b1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Things Ain’t What They Used to Be",
+     "duracao": "8:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Wheelin’",
+     "duracao": "11:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Robbins’ Nest",
+     "duracao": "15:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Dealin’",
+     "duracao": "10:15"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.1,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wheelin%27_%26_Dealin%27_%28Prestige_Records_album%29",
+   "resumo_en": "Wheelin' & Dealin' is an album by Frank Wess, John Coltrane, Paul Quinichette, Mal Waldron, Doug Watkins and Art Taylor released in April 1958 by Prestige Records. It was later reissued on New Jazz Records in 1964. On a small number of reissues, it is credited to \"The Prestige All Stars\", a name used by Prestige for various combinations of musicians who were under contract to the label.  The compact disc reissue adds two alternate takes that did not appear on the initial vinyl releases.",
+   "spotify": "3o3UkxAab2WS9JUqDTgHEA",
+   "youtube": null
+  },
+  {
+   "id": "f8718b6e-ba89-3341-8f87-a7ac479dbf3f",
+   "titulo": "Soultrane",
+   "data": "1958-10",
+   "ano": "1958",
+   "capa": "https://coverartarchive.org/release/e0b78863-2e8d-3786-bca6-4382058f5c8c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good Bait",
+     "duracao": "12:04"
+    },
+    {
+     "n": 2,
+     "titulo": "I Want to Talk About You",
+     "duracao": "10:51"
+    },
+    {
+     "n": 3,
+     "titulo": "You Say You Care",
+     "duracao": "6:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Theme for Ernie",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Russian Lullaby",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.9,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Soultrane",
+   "resumo_en": "Soultrane is a studio album by the jazz musician John Coltrane. It was released in 1958 through Prestige Records, with catalogue no. 7142. It was recorded in mono at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.",
+   "spotify": "4ERhBs0TIHvLYjRLj86eRG",
+   "youtube": "OLAK5uy_kRvrgCy_eOP6mBau9h2U3B2wIZUuEesDc"
+  },
+  {
+   "id": "27c10c86-5b11-3897-81d0-740209abce98",
+   "titulo": "Cattin’ with Coltrane and Quinichette",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/cc33ef87-cee6-47fb-b5ae-2363c202bea4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cattin'",
+     "duracao": "7:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Sunday",
+     "duracao": "6:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Exactly Like You",
+     "duracao": "6:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Anatomy",
+     "duracao": "8:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Vodka",
+     "duracao": "9:03"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cattin%27_with_Coltrane_and_Quinichette",
+   "resumo_en": "Cattin' with Coltrane and Quinichette is a studio album by jazz musicians John Coltrane and Paul Quinichette released in October 1959 on Prestige Records. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, and issued two years after the recording sessions took place, and after Coltrane's Prestige contract had ended.",
+   "spotify": "5Z4vzMMC7Ci7QQaog0aj18",
+   "youtube": null
+  },
+  {
+   "id": "2b52695d-4030-32a8-95c9-e37a93341d9f",
+   "titulo": "The Ray Draper Quintet featuring John Coltrane",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/1a2252c5-343d-3ecb-8419-35cbba443271/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Clifford’s Kappa",
+     "duracao": "9:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Filidé",
+     "duracao": "7:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Two Sons",
+     "duracao": "5:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Paul’s Pal",
+     "duracao": "7:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Under Paris Skies",
+     "duracao": "7:44"
+    },
+    {
+     "n": 6,
+     "titulo": "I Hadn’t Anyone Till You",
+     "duracao": "3:04"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c426105-e67d-4774-8a02-5abc93fc92ad",
+   "titulo": "The Cats",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/b5a225d6-c977-4090-af34-02c7bab87d70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Minor Mishap",
+     "duracao": "7:23"
+    },
+    {
+     "n": 2,
+     "titulo": "How Long Has This Been Going On?",
+     "duracao": "5:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Eclypso",
+     "duracao": "7:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Solacium",
+     "duracao": "9:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Tommy's Tune",
+     "duracao": "11:58"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 7.7,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Cats_%28album%29",
+   "resumo_en": "The Cats is a jazz album released in December 1959 on New Jazz, a subsidiary label of Prestige Records. It is credited to pianist Tommy Flanagan, saxophonist John Coltrane, guitarist Kenny Burrell, and trumpeter Idrees Sulieman. It was issued after Coltrane's Prestige contract had ended. The record was the first to feature Coltrane, Burrell, and Flanagan playing together in a small group. Eleven months later, the three recorded Kenny Burrell & John Coltrane, which was first released in April 1963 on the New Jazz label.",
+   "spotify": "7FEY6sEjTiPReTdSp0oOj6",
+   "youtube": null
+  },
+  {
+   "id": "11954f38-fa97-4b38-a7bc-3f23767367ab",
+   "titulo": "Soul Junction",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/0f3c8db2-f276-4c8a-ae95-28f9375038f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Soul Junction",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Woody'n You",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Birk's Works",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I've Got It Bad",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Hallelujah",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6",
+   "titulo": "Giant Steps",
+   "data": "1960-01-27",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/22689758-ffc1-450f-bb48-52b577077dba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Giant Steps",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Cousin Mary",
+     "duracao": "5:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Countdown",
+     "duracao": "2:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Spiral",
+     "duracao": "5:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Syeeda’s Song Flute",
+     "duracao": "7:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Naima",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Mr. P.C.",
+     "duracao": "6:57"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.9,
+    "fontes": 7
+   },
+   "publico": 8.2,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Giant_Steps",
+   "resumo_en": "Giant Steps is a studio album by the jazz saxophonist John Coltrane. It was released in February 1960 through Atlantic Records. It was Coltrane's first album as leader for the label, with which he had signed a new contract the previous year. The record is regarded as one of the most influential jazz albums of all time, and many of its tracks have become practice templates for jazz saxophonists. In 2004, it was one of fifty recordings chosen that year by the Library of Congress to be added to the National Recording Registry. It attained gold record status in 2018, having sold 500,000 copies.\nTwo tracks, \"Naima\" and \"Syeeda's Song Flute\", are respectively named after Coltrane's wife at the time and her daughter, whom he adopted. A third, \"Mr. P.C.\", takes its name from the initials of bassist Paul Chambers, who played on the album. A fourth, \"Cousin Mary\", is named in honor of Mary Lyerly, Coltrane's younger cousin.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "20052b09-e445-3bca-b8b5-110c0efd559f",
+   "titulo": "Thelonious Monk with John Coltrane",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/4f1b80df-2f09-47ef-828a-e609332653ca/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ruby, My Dear",
+     "duracao": "6:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Trinkle, Tinkle",
+     "duracao": "6:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Off Minor",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Nutty",
+     "duracao": "6:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Epistrophy",
+     "duracao": "3:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Functional",
+     "duracao": "9:46"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thelonious_Monk_with_John_Coltrane",
+   "resumo_en": "Thelonious Monk with John Coltrane is a 1961 studio album by the American jazz pianist Thelonious Monk issued on Jazzland Records, a subsidiary of Riverside Records. It consists of material recorded in 1957, when Monk worked extensively with John Coltrane, but was only issued after Coltrane had become a prominent bandleader and composer himself.\nThe original LP was assembled by the label with material from three different sessions. The impetus for the album was the discovery of three usable studio tracks recorded by the Thelonious Monk Quartet with Coltrane in July 1957, at the beginning of the band's six-month residency at the Five Spot Café in Greenwich Village. To round out the release, producer Orrin Keepnews included two outtakes from the June 1957 sessions for Monk's Music and one outtake from Thelonious Himself recorded in April 1957.\nThe album was reissued on CD in 2000 by Fantasy Records; a take of \"Monk's Mood\" from the Thelonious Himself sessions was added as a bonus track. It was inducted into the Grammy Hall of Fame in 2007.",
+   "spotify": "4ilCrGOkyuk4zOyOgoQYrn",
+   "youtube": "OLAK5uy_k94ry2zwR6PN0L5vsjuXXfOtLFgQWxLCk"
+  },
+  {
+   "id": "4e30ce8d-7031-3689-b65e-dd5159b9ee70",
+   "titulo": "Settin’ the Pace",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/4771ae0c-3bfb-32b8-b0af-aa80ed0d8ec3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I See Your Face Before Me",
+     "duracao": "10:00"
+    },
+    {
+     "n": 2,
+     "titulo": "If There Is Someone Lovelier Than You",
+     "duracao": "9:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Melonae",
+     "duracao": "14:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Rise ’n’ Shine",
+     "duracao": "7:14"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Settin%27_the_Pace",
+   "resumo_en": "Settin' the Pace is a studio album by the jazz musician and composer John Coltrane. It was released in December 1961 through Prestige Records. It is assembled from previously unissued tracks from a recording session at the studio of Rudy Van Gelder in Hackensack, New Jersey in 1958. Coltrane on tenor saxophone is accompanied by Red Garland on piano, Paul Chambers on bass, and Art Taylor on drums. With Garland and Chambers, Coltrane had played together since at least October 1955 in Miles Davis' band. With Art Taylor they were part of the Tenor Conclave recordings in September 1956. As a quartet they had already recorded two albums for Prestige, John Coltrane with the Red Garland Trio and Soultrane. The material the quartet recorded on this session were extended interpretations of three popular songs and \"Little Melonae\", a classic bebop tune written by Jackie McLean. Of note is Coltrane's use of the sheets of sound technique, particularly on \"Little Melonae\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7a0612cb-03ed-3d66-8001-b58084a56b59",
+   "titulo": "Coltrane Jazz",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/1388c0db-e0f5-4729-bb4a-9b52e4c192da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Old Lady",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Village Blues",
+     "duracao": "5:22"
+    },
+    {
+     "n": 3,
+     "titulo": "My Shining Hour",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Fifth House",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Harmonique",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Like Sonny",
+     "duracao": "5:53"
+    },
+    {
+     "n": 7,
+     "titulo": "I'll Wait and Pray",
+     "duracao": "3:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Some Other Blues",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Coltrane_Jazz",
+   "resumo_en": "Coltrane Jazz is a studio album by the jazz musician John Coltrane. It was released in early 1961 on Atlantic Records. Most of the album features Coltrane playing with his former Miles Davis bandmates, pianist Wynton Kelly, bassist Paul Chambers and drummer Jimmy Cobb during two sessions in November and December, 1959. The exception is the track \"Village Blues\", which was recorded October 21, 1960. \"Village Blues\" comes from the first recording session featuring Coltrane playing with pianist McCoy Tyner and drummer Elvin Jones, who toured and recorded with Coltrane as part of his celebrated \"classic quartet\" from 1960 to 1965.",
+   "spotify": "1rYvimVGwIQgc5IhBwLBuX",
+   "youtube": null
+  },
+  {
+   "id": "9ba035a7-3f7c-3d96-9e07-0e0d45af41af",
+   "titulo": "Olé Coltrane",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/f0bd1b2e-bb84-36fc-a251-30d5f1c66b00/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Olé",
+     "duracao": "18:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Dahomey Dance",
+     "duracao": "10:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Aisha",
+     "duracao": "7:35"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.6,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ol%C3%A9_Coltrane",
+   "resumo_en": "Olé Coltrane is a studio album by the jazz musician and composer John Coltrane. It was released in November 1961 by Atlantic Records. The album was recorded at A&R Studios in New York, and was the last of Coltrane's Atlantic albums to be made under his own supervision.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b2f17c9e-4038-37e2-a200-eeb5ac492e4f",
+   "titulo": "Bags & Trane",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/0c0a5b7e-3e18-438b-a711-58a6302ba876/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bags & Trane",
+     "duracao": "7:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Three Little Words",
+     "duracao": "7:30"
+    },
+    {
+     "n": 3,
+     "titulo": "The Night We Called It a Day",
+     "duracao": "4:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Be-Bop",
+     "duracao": "8:01"
+    },
+    {
+     "n": 5,
+     "titulo": "The Late Late Blues",
+     "duracao": "9:36"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b60cdf20-74b7-3bed-b233-0f4818235895",
+   "titulo": "My Favorite Things",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/1dbacf08-e08c-4f44-a409-81ea1fb4b8aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Favorite Things",
+     "duracao": "13:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Every Time We Say Goodbye",
+     "duracao": "5:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Summertime",
+     "duracao": "11:35"
+    },
+    {
+     "n": 4,
+     "titulo": "But Not for Me",
+     "duracao": "9:34"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.5,
+    "fontes": 4
+   },
+   "publico": 9.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_Favorite_Things_%28John_Coltrane_album%29",
+   "resumo_en": "My Favorite Things is a studio album by the jazz musician John Coltrane. It was released in March 1961 on Atlantic Records. It was the first album to feature Coltrane playing soprano saxophone. An edited version of the title track became a hit single that gained popularity in 1961 on radio. The record became a major commercial success.",
+   "spotify": "3nLStxdTkSzihxm7FTLzCP",
+   "youtube": "OLAK5uy_m0vIo-YyZ69FBSR0mT_P-NU6bzMUmBYvM"
+  },
+  {
+   "id": "e15f29fe-0636-3816-aa47-467c20537550",
+   "titulo": "High Pressure",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/da2450c9-9a0d-484c-aa52-1414e474e3f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Soft Winds",
+     "duracao": "13:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Solitude",
+     "duracao": "8:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Undecided",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "What Is There to Say",
+     "duracao": "5:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Two Bass Hit",
+     "duracao": "8:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "711ef782-d201-345e-916c-1d1b15f06e24",
+   "titulo": "Lush Life",
+   "data": "1961-01",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/febbc1b7-bf5f-4845-a159-21068a2bd99b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Like Someone in Love",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "I Love You",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Trane's Slo Blues",
+     "duracao": "6:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Lush Life",
+     "duracao": "13:54"
+    },
+    {
+     "n": 5,
+     "titulo": "I Hear a Rhapsody",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.7,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lush_Life_%28John_Coltrane_album%29",
+   "resumo_en": "Lush Life is a studio album by the jazz musician John Coltrane. It was released in early 1961 through Prestige Records. It was assembled from previously unissued tracks from three recording sessions at Van Gelder Studio in Hackensack, New Jersey in 1957 and 1958. As Coltrane's profile increased during the 1960s, some years after the end of his Prestige contract, the label used unissued recordings to create new albums without Coltrane's input or approval.",
+   "spotify": "63vpVRMhMQQZj4c7SRfP4y",
+   "youtube": null
+  },
+  {
+   "id": "1b45ff7c-3ce2-3bfe-bc62-f3f527ae984b",
+   "titulo": "Dig It!",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/fd1d165c-0e17-4048-9abd-ed396e1a1c87/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Billie's Bounce",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Crazy Rhythm",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "CTA",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Lazy Mae",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dig_It%21",
+   "resumo_en": "Dig It! is a jazz album by The Red Garland Quintet, recorded in 1957 and 1958 but not released on the Prestige label as PRLP 7229 until 1962.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f9aab952-b2c7-3f31-ad82-5cab900e834b",
+   "titulo": "Coltrane Plays the Blues",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/8fb8407c-9266-4de7-a605-3b4d59abf796/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blues to Elvin",
+     "duracao": "7:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Blues to Bechet",
+     "duracao": "5:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Blues to You",
+     "duracao": "6:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Mr. Day",
+     "duracao": "7:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Mr. Syms",
+     "duracao": "5:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Mr. Knight",
+     "duracao": "7:30"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Coltrane_Plays_the_Blues",
+   "resumo_en": "Coltrane Plays the Blues is an album of music by the jazz musician John Coltrane. It was released in July 1962 by Atlantic Records. It was recorded at Atlantic Studios during the sessions for My Favorite Things, assembled after Coltrane had stopped recording for the label and was under contract to Impulse Records. Like Prestige Records before them, as Coltrane's fame grew during the 1960s, Atlantic used unissued recordings and released them without either Coltrane's input or approval.\nOn September 19, 2000, Rhino Records reissued Coltrane Plays the Blues as part of its Atlantic 50th Anniversary Jazz Gallery series. Included were five bonus tracks, all of which had appeared in 1995 on The Heavyweight Champion: The Complete Atlantic Recordings.",
+   "spotify": "37i2cYpaPCjBVKQX8xszqv",
+   "youtube": null
+  },
+  {
+   "id": "fd73eeda-af05-3ff8-a0e0-1c1f4aedbbf8",
+   "titulo": "Standard Coltrane",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/4018d284-315a-4d97-92b9-07fd8102c9cb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don't Take Your Love From Me",
+     "duracao": "9:17"
+    },
+    {
+     "n": 2,
+     "titulo": "I'll Get By",
+     "duracao": "8:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Spring Is Here",
+     "duracao": "6:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Invitation",
+     "duracao": "10:22"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Standard_Coltrane",
+   "resumo_en": "Standard Coltrane is an album by the jazz musician and composer John Coltrane. It was released in October 1962 by Prestige Records. It was recorded at a single recording session at the studio of Rudy Van Gelder in Hackensack, New Jersey, in 1958. This album was rereleased in 1970 as The Master (PR 7825) with that version rereleased on CD to include the other four tunes recorded at the same 11 July session. Those other tunes had previously been released on two other albums assembled from unissued recordings (Stardust and Bahia).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4f64c4fc-1de9-3b28-970c-e86f78c631be",
+   "titulo": "Duke Ellington & John Coltrane",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/362ec441-b593-48c6-a569-808c3a6b29dd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Take the Coltrane",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Big Nick",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Stevie",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "My Little Brown Book",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Angelica",
+     "duracao": "5:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Feeling of Jazz",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.6,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane",
+   "resumo_en": "Duke Ellington & John Coltrane is an album by the American jazz musicians Duke Ellington and John Coltrane. It was released in January 1963 through Impulse! Records.\nThe album was one of Ellington's many collaborations in the early 1960s with musicians such as Count Basie, Louis Armstrong, Coleman Hawkins, Max Roach, and Charles Mingus, and placed him with a quartet rather than a big band. The quartet was filled out by the bassist and drummer from either of their bands. The album featured Ellington standards (e.g., \"In a Sentimental Mood\"), new Ellington compositions, and a new Coltrane composition (\"Big Nick\").\n\nColtrane said of the session:I was really honored to have the opportunity of working with Duke. It was a wonderful experience. He has set standards I haven't caught up with yet. I would have liked to have worked over all those numbers again, but then I guess the performances wouldn't have had the same spontaneity. And they mightn't have been any better!",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5148324e-104c-3151-8f0a-b2981f15d37c",
+   "titulo": "Kenny Burrell & John Coltrane",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/6437a18d-9af8-49ea-85de-66c88778d1cd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Freight Trane",
+     "duracao": "7:21"
+    },
+    {
+     "n": 2,
+     "titulo": "I Never Knew",
+     "duracao": "7:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Lyresto",
+     "duracao": "5:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Why Was I Born",
+     "duracao": "3:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Paul",
+     "duracao": "14:04"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6324bb2f-8ff2-31f1-990d-cc6afc2d6614",
+   "titulo": "John Coltrane and Johnny Hartman",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/332fdc7e-7fba-30fe-b328-ac8c9c9b0690/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "They Say It's Wonderful",
+     "duracao": "5:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Dedicated to You",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "My One and Only Love",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Lush Life",
+     "duracao": "5:30"
+    },
+    {
+     "n": 5,
+     "titulo": "You Are Too Beautiful",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Autumn Serenade",
+     "duracao": "4:19"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman",
+   "resumo_en": "John Coltrane and Johnny Hartman is a studio album by saxophonist John Coltrane and vocalist Johnny Hartman which was released through Impulse! Records in July or August 1963. It was inducted into the Grammy Hall of Fame in 2013.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a43136ba-aeb3-35bf-a4f5-d7c7ada39a1d",
+   "titulo": "Impressions",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/d609a8b8-0128-42b4-b0d7-b7acab79cc38/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "India",
+     "duracao": "14:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Up 'Gainst the Wall",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Impressions",
+     "duracao": "15:03"
+    },
+    {
+     "n": 4,
+     "titulo": "After the Rain",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.8,
+    "fontes": 6
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Impressions_%28John_Coltrane_album%29",
+   "resumo_en": "Impressions is an album of live and studio recordings by the American jazz saxophonist and composer John Coltrane. It was released through Impulse! Records in July 1963.",
+   "spotify": "1Nupy0wf53QLwfYYfHOjXe",
+   "youtube": "OLAK5uy_mGL4VYQpvcaQLhRtRDAf_0985M9k5cynk"
+  },
+  {
+   "id": "d896901e-1e17-3b97-829f-79bc92ddb832",
+   "titulo": "Dakar",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/550bc2c5-3c37-3d52-be79-b73385abc310/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dakar",
+     "duracao": "7:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Mary's Blues",
+     "duracao": "6:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Route 4",
+     "duracao": "6:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Velvet Scene",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Witches' Pit",
+     "duracao": "6:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Cat Walk",
+     "duracao": "7:13"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dakar_%28album%29",
+   "resumo_en": "Dakar is an album by the jazz saxophonist and composer John Coltrane. It was released in November 1963 through Prestige Records.\nDakar is a reissue of one side of the 16+2⁄3 rpm LP  Baritones and French Horns (released in 1958), a portion of which was recorded on April 20, 1957 (the same day Dakar was recorded), and which was a session led by Pepper Adams and Cecil Payne on which Coltrane was a sideman.\nDakar was one of several 1960s Prestige reissues featuring Coltrane to take advantage of his growing stardom in the 1960s.",
+   "spotify": "4Y73uZr8OBCk9NwXuqcAlY",
+   "youtube": null
+  },
+  {
+   "id": "efb51d6c-7291-36a4-a031-3757c32939d0",
+   "titulo": "Stardust",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/eb38ca4a-db88-479b-bfc9-71855347c6eb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stardust",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Time After Time",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Love Thy Neighbor",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Then I'll Be Tired of You",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stardust_%28John_Coltrane_album%29",
+   "resumo_en": "Stardust is an album by  the jazz saxophonist and composer John Coltrane. It was released in July 1963 through Prestige Records. It was assembled from two separate 1958 recording sessions at Rudy Van Gelder's studio in Hackensack, New Jersey.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9d783302-0b02-373e-949c-563d444672e9",
+   "titulo": "Black Pearls",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/6d4e4579-615a-3e36-8988-048bd683c4fc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Pearls",
+     "duracao": "13:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Lover, Come Back to Me",
+     "duracao": "7:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Sweet Sapphire Blues",
+     "duracao": "18:13"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.8,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Pearls",
+   "resumo_en": "Black Pearls is a studio album by American jazz musician John Coltrane, released in 1964 on Prestige Records. It was recorded at a single recording session on May 23, 1958, at the studio of Rudy Van Gelder in Hackensack, New Jersey.\nOn that Friday session, \"the songs weren't long enough for a whole album\", recalled producer Bob Weinstock in 2001, \"so I said 'Let's do a slow blues to finish it out'.\" Coltrane invited Weinstock to write the song on the spot, but he didn't know music, so Coltrane replied \"'Just tell me what you want me to play. Should it go like this?' and he would play some notes. After having played a rough melody, he'd say 'Okay, you wrote it.' That was the genesis of 'Sweet Sapphire Blues'\".\nThe title track is a sustained exhibition of Coltrane's sheets of sound technique during his solo.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f9b59fbf-8cbe-346e-8825-3e02adedf8c9",
+   "titulo": "The Believer",
+   "data": "1964-04-20",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/942770ed-9de8-4745-b99b-3662d5c02118/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Believer",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Nakatini Serenade",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Do I Love You Because You’re Beautiful",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Believer_%28John_Coltrane_album%29",
+   "resumo_en": "The Believer is a jazz album by John Coltrane released in 1964 on Prestige Records, catalogue 7292. It was recorded by Rudy Van Gelder in Hackensack, New Jersey in 1957 and 1958.\nAs Coltrane's profile increased, for several years after his Prestige contract had expired, the label issued “new” Coltrane albums. The original album consists of three previously unissued tracks with Coltrane as a leader (\"The Believer\", \"Nakatini Serenade\" and \"Do I Love You Because You're Beautiful?\") from two separate recording sessions in 1958.\nA CD version of the album released by the Original Jazz Classics label in 1996 has two additional tracks recorded in 1957, \"Filidé\" and \"Paul's Pal\", from the 1960 New Jazz Records release The Ray Draper Quintet featuring John Coltrane, catalogue 8228.\nMany versions of the album exist (AllMusic lists nine), including a 2015 vinyl re-release on the Waxtime label (catalogue 772003 LP) and a Japanese CD version with \"20bit K2 Mastering\". A 2006 digital media release by Prestige includes the two additional tracks from the 1996 CD release, but a 2014 Doxy Records release has only the three original tracks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e140c5c0-08fb-3229-8f45-eb7209e3ae62",
+   "titulo": "Coltrane’s Sound",
+   "data": "1964-07",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/f00c3dfd-3769-45f3-bf83-d2cc6ced2657/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Night Has a Thousand Eyes",
+     "duracao": "6:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Central Park West",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Liberia",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Body and Soul",
+     "duracao": "5:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Equinox",
+     "duracao": "8:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Satellite",
+     "duracao": "5:48"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Coltrane%27s_Sound",
+   "resumo_en": "Coltrane's Sound is an album of music by the jazz musician and composer John Coltrane. It was released in 1964 through Atlantic Records. It was recorded at Atlantic Studios in 1960 during the sessions for My Favorite Things, and was assembled after Coltrane had stopped recording for the label and had a contract with Impulse! Records. Like Prestige and Blue Note Records before them, as Coltrane's fame grew during the 1960s Atlantic used unissued recordings and released them without either Coltrane's input or approval.\nOn February 16, 1999, Rhino Records reissued Coltrane's Sound as part of its Atlantic 50th Anniversary Jazz Gallery series. Included were two bonus tracks: \"26-2\" had been previously released on the 1970 album The Coltrane Legacy; and the alternate take of \"Body and Soul\" had been released on the 1975 album Alternate Takes.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "53db452c-7ee6-3037-bd72-fcdb0826ee96",
+   "titulo": "The Last Trane",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/2203c7e2-c2bf-3673-baee-127223ab8842/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lover",
+     "duracao": "7:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Slowtrane",
+     "duracao": "7:19"
+    },
+    {
+     "n": 3,
+     "titulo": "By the Numbers",
+     "duracao": "12:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "8:43"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Trane",
+   "resumo_en": "The Last Trane is an album credited to jazz musician John Coltrane, released in 1966 on Prestige Records, catalogue 7378.\nIt was assembled from unissued material from three separate recording sessions at the studio of Rudy Van Gelder in Hackensack, New Jersey in 1957 and 1958. Coltrane was a sideman on all the original sessions, which were led by trumpeter Donald Byrd, pianist Red Garland or drummer Art Taylor.",
+   "spotify": "31SNcZGpvAU4LJrf2rsJNm",
+   "youtube": null
+  },
+  {
+   "id": "7a03cb01-6921-4ccb-b306-6eae0c4c60e1",
+   "titulo": "The Dealers",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/bfa37a5b-c9cd-42e9-b355-ebf2b2ab36c7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Calypso",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Falling in Love With Love",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Dealin' #1",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Wheelin' #1",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bc126e06-2f61-300c-afe5-e2fe7b10021f",
+   "titulo": "Ascension",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/1be835ea-d6dd-30b6-bdf7-6a0534e67b0b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ascension, Part I",
+     "duracao": "18:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Ascension, Part II",
+     "duracao": "19:15"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.6,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ascension_%28John_Coltrane_album%29",
+   "resumo_en": "Ascension is a studio album by the jazz composer and musician John Coltrane. It was released through Impulse! Records in February 1966. It is considered a watershed in Coltrane's work, with the albums recorded before it being more conventional in structure and the albums recorded after it being looser, free jazz inspired works. In addition, it signaled Coltrane's interest in moving away from the quartet format. AllMusic called it \"the single recording that placed John Coltrane firmly into the avant-garde\". It was recorded at the Van Gelder Studio in June 1965.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "77cf47ba-58cd-3f3d-a5f9-79bf89860421",
+   "titulo": "A Love Supreme",
+   "data": "1965-01",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/2d2b2557-5000-37ae-b18f-1fec5d66b67f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Love Supreme, Part 1: Acknowledgement",
+     "duracao": "7:47"
+    },
+    {
+     "n": 2,
+     "titulo": "A Love Supreme, Part 2: Resolution",
+     "duracao": "7:25"
+    },
+    {
+     "n": 3,
+     "titulo": "A Love Supreme, Part 3: Pursuance / A Love Supreme, Part 4: Psalm",
+     "duracao": "17:50"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 9.2,
+   "publico_votos": 25,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Love_Supreme",
+   "resumo_en": "A Love Supreme is an album by the American jazz saxophonist and composer John Coltrane. It was recorded in one session on December 9, 1964, at Van Gelder Studio in Englewood Cliffs, New Jersey, with a quartet featuring pianist McCoy Tyner, bassist Jimmy Garrison, and drummer Elvin Jones.\nA Love Supreme was released by Impulse! Records in January 1965. Referred to as the saxophonist's \"definitive tone poem\", it ranks among Coltrane's best-selling albums and is widely considered one of the greatest masterpieces in the history of jazz and one of the greatest albums ever made. It was nominated for the 1966 Grammy Award for Best Jazz Instrumental Album.",
+   "spotify": "5DXmUb5WnwvBeNJDgXx3sL",
+   "youtube": null
+  },
+  {
+   "id": "7c4b07f9-0069-34d7-a8a4-2aeb61837445",
+   "titulo": "Bahia",
+   "data": "1965-05",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/a3a4f527-8c21-3e6b-b256-cb872ae3fab0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bahia",
+     "duracao": "6:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Goldsboro Express",
+     "duracao": "4:41"
+    },
+    {
+     "n": 3,
+     "titulo": "My Ideal",
+     "duracao": "7:30"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm a Dreamer (Aren't We All)",
+     "duracao": "6:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Something I Dreamed Last Night",
+     "duracao": "10:48"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.7,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bahia_%28album%29",
+   "resumo_en": "Bahia is an album by jazz musician John Coltrane, released in 1965 on Prestige Records, catalogue 7353. It was recorded at two  sessions at the studio of Rudy Van Gelder in Hackensack, New Jersey in 1958. Prestige drew on a stockpile of Coltrane material for several years after his contract had ended without the saxophonist's input.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "550090da-a050-3e18-9ace-af7d07089d7b",
+   "titulo": "Meditations",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/aae72c35-4f4b-3de9-97e1-6c79dfbd6cdf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Father and the Son and the Holy Ghost",
+     "duracao": "12:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Compassion",
+     "duracao": "6:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Love",
+     "duracao": "8:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Consequences",
+     "duracao": "9:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Serenity",
+     "duracao": "3:30"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.4,
+    "fontes": 4
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Meditations_%28John_Coltrane_album%29",
+   "resumo_en": "Meditations is a 1966 album by John Coltrane. The album was considered the \"spiritual follow-up to A Love Supreme.\" It features Coltrane and Pharoah Sanders as soloists, both playing tenor saxophones. This was the last Coltrane recording to feature his classic quartet lineup of himself, bassist Jimmy Garrison, drummer Elvin Jones and pianist McCoy Tyner (augmented here as a sextet with Sanders and second drummer Rashied Ali), as both Jones and Tyner would quit the band by early 1966. Sanders, Ali, Garrison and Coltrane's wife Alice would comprise his next group.\nAlternative versions of tracks 2–5 had been recorded in September 1965 by the same musicians minus Rashied Ali and Sanders. They were later issued as First Meditations (for quartet) in 1977.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1d44a728-f55e-363d-ad8e-e6837c191a38",
+   "titulo": "The Avant-Garde",
+   "data": "1966-04",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/8b1bf2d6-9626-4f35-8247-ddaffc73f8e7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cherryco",
+     "duracao": "6:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Focus on Sanity",
+     "duracao": "12:07"
+    },
+    {
+     "n": 3,
+     "titulo": "The Blessing",
+     "duracao": "7:50"
+    },
+    {
+     "n": 4,
+     "titulo": "The Invisible",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Bemsha Swing",
+     "duracao": "5:02"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Avant-Garde_%28album%29",
+   "resumo_en": "The Avant-Garde is an album credited to jazz musicians John Coltrane and Don Cherry that was released in 1966 by Atlantic Records. It features Coltrane playing several compositions by Ornette Coleman accompanied by the members of Coleman's quartet: Cherry, Charlie Haden, and Ed Blackwell. The album was assembled from two unissued recording sessions at Atlantic Studios in New York City in 1960.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "09a384e1-e5f0-3f3d-975f-c28c54950e02",
+   "titulo": "Kulu Sé Mama",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/9b0fd90d-113e-47db-bce6-10755e828568/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kulu Sé Mama (Juno Sé Mama)",
+     "duracao": "18:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Vigil",
+     "duracao": "9:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Welcome",
+     "duracao": "5:26"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kulu_S%C3%A9_Mama",
+   "resumo_en": "Kulu Sé Mama is a free jazz album by John Coltrane. Recorded during 1965, it was released in January 1967 as Impulse! A-9106 (AS-9106 for the stereo version), and was the last album released during Coltrane's lifetime.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b620b05d-d868-3dcd-8846-cbbdd3fba0b2",
+   "titulo": "Om",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/b5bc5910-6af0-4115-8f00-e89b752f758d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Om, Part 1",
+     "duracao": "15:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Om, Part 2",
+     "duracao": "14:00"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Om_%28John_Coltrane_album%29",
+   "resumo_en": "Om is a posthumously released album by John Coltrane, recorded on October 1, 1965, one day after the recording of Live in Seattle, and one day prior to the recording of the music heard on A Love Supreme: Live in Seattle. The album, which features Coltrane's quartet plus three additional players, consists of a single 29-minute work that was split into two parts when released on LP. Om was issued by Impulse! in 1968, and was also included on The Major Works of John Coltrane, a compilation CD released in 1992.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d3853000-fd91-3b3d-a8bf-9659298be1e4",
+   "titulo": "Expression",
+   "data": "1967-09",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/1feabe55-a77c-38c1-ad96-7072882140a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ogunde",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "To Be",
+     "duracao": "16:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Offering",
+     "duracao": "8:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Expression",
+     "duracao": "10:50"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.9,
+    "fontes": 4
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Expression_%28album%29",
+   "resumo_en": "Expression is a studio album by jazz saxophonist John Coltrane, recorded in early 1967 and released in late September of that year, around Coltrane's birthday, and two months after his death. This was the first posthumous release of a Coltrane recording. It was also his first charting album, reaching a small No. 194 on the Billboard Top LPs.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "09133649-e5cd-49c8-ab68-0594fea33c04",
+   "titulo": "Selflessness, Featuring My Favorite Things",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/8e5cef62-e621-47ba-a20d-986758a0c8f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Favorite Things",
+     "duracao": "17:31"
+    },
+    {
+     "n": 2,
+     "titulo": "I Want To Talk About You",
+     "duracao": "8:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Selflessness",
+     "duracao": "14:47"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Selflessness%3A_Featuring_My_Favorite_Things",
+   "resumo_en": "Selflessness Featuring My Favorite Things is a posthumous album by jazz musician John Coltrane, released in 1969. The album juxtaposes two tracks (\"My Favorite Things\" and \"I Want to Talk About You\") recorded live at the 1963 Newport Jazz Festival with a single track (\"Selflessness\") recorded in a studio in Los Angeles in 1965.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f9767b01-f76c-3934-accb-c8ea83141564",
+   "titulo": "Cosmic Music",
+   "data": "1968-07",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/649072f9-38f8-49e0-876e-6737b173481b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Manifestation",
+     "duracao": "11:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Lord Help Me to Be",
+     "duracao": "7:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Rev. King",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Sun",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 23,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cosmic_Music",
+   "resumo_en": "Cosmic Music is a jazz album by John Coltrane and Alice Coltrane released after John Coltrane's death. John Coltrane only plays on two tracks, \"Manifestation\" and \"Reverend King\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "11d5b547-502d-3431-8671-6777b65e7cc3",
+   "titulo": "Transition",
+   "data": "1970-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/d5076d7c-5425-439a-82de-df9c7a0f6f9b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Transition",
+     "duracao": "15:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Dear Lord",
+     "duracao": "5:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Suite: Prayer and Meditation: Day / Peace and After / Prayer and Meditation: Evening / Affirmation / Prayer and Meditation: 4 A.M.",
+     "duracao": "21:21"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Transition_%28John_Coltrane_album%29",
+   "resumo_en": "Transition is an album of music by jazz saxophonist John Coltrane, recorded in 1965 but released posthumously only in 1970. As its title indicates, Transition was a bridge between classic quartet recordings like A Love Supreme and the more experimental works of Coltrane's last years.\nColtrane's playing alternates between blues idioms and the free jazz that would dominate his final work. Of the four musicians on this album, pianist McCoy Tyner was still the most grounded in traditional jazz. Bassist Jimmy Garrison and drummer Elvin Jones were finding new ways to approach their instruments, while Coltrane took the lead with a newfound musical freedom.\nTransition's title track is a fifteen-minute modified blues, whilst \"Dear Lord\" is a ballad featuring Roy Haynes substituting for Jones on drums. \"Welcome,\" which replaces \"Dear Lord\" on the album's compact disc release, is a five-minute ballad with a theme pitched high in the tenor saxophone's altissimo register and making extensive use of multiphonics. The closing \"Suite\" is a twenty-minute performance, covering a variety of moods. \"Vigil\", which concludes the CD release of the album, is a fiery duet between Coltrane and Jones.\nThree ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "61782c64-3b25-3ecf-a770-84ecd9cfdfa9",
+   "titulo": "Sun Ship",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/7e74c286-e12e-451d-95da-e80e16a293ea/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sun Ship",
+     "duracao": "6:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Dearly Beloved",
+     "duracao": "6:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Amen",
+     "duracao": "8:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Attaining",
+     "duracao": "11:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Ascent",
+     "duracao": "10:05"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sun_Ship",
+   "resumo_en": "Sun Ship is a posthumously released free jazz album by tenor saxophonist John Coltrane recorded on August 26, 1965. Along with First Meditations, recorded a week later, it was one of the last recording dates for Coltrane's \"Classic Quartet\" with McCoy Tyner, Jimmy Garrison, and Elvin Jones. (Tyner left Coltrane's group at the end of 1965 to form his own trio and to work with Tony Scott, and Jones departed in January 1966, joining Duke Ellington's band.) The recording occurred shortly after a notable performance by the quartet, with Archie Shepp added as a second tenor player, at the DownBeat Jazz Festival at Soldier Field in Chicago, which was described by Ben Ratliff as \"a famous breaking point — a Dylan-at-Newport, or a Rite of Spring,\" with music that he described as \"jagged and vociferous... It aggravated a great part of the crowd, prompting, according to some witnesses, a large exodus.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e5d84483-c0c4-4366-a304-ca4b234c94c0",
+   "titulo": "Infinity",
+   "data": "1972-09",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/61a42542-6217-4007-8d59-391d9d0ec881/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Peace on Earth",
+     "duracao": "9:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Living Space",
+     "duracao": "10:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Joy",
+     "duracao": "8:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Leo",
+     "duracao": "10:08"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Infinity_%28John_Coltrane_album%29",
+   "resumo_en": "Infinity is an album credited to John Coltrane, released on Impulse! Records in 1972. It features overdubs with strings of Coltrane's pieces recorded in 1965 and 1966, at the hands of Alice Coltrane. Her controversial \"re-imagining\" of her husband's late works was criticised by both fans and critics, as she took his original performances and superimposed them over lush orchestral backgrounds and re-dubbed rhythm section parts, as well as recording new solos on piano, organ, harp and timpani.\nTracks 2 and 3 were originally recorded by the \"classic quartet\" (John Coltrane, McCoy Tyner, Jimmy Garrison, Elvin Jones) in 1965, while tracks 1 and 4 were recorded by Coltrane's later ensemble (Pharoah Sanders, Alice Coltrane, Jimmy Garrison, Rashied Ali, and extra percussionist Ray Appleton). On the 1965 tracks, Alice retained the original rhythm section parts, adding string and tamboura parts only, but on the 1966 tracks, Garrison's bass parts were replaced with new recordings by Charlie Haden, and she herself recorded new solos.\nRegarding the criticism she received concerning the overdubs and alterations, Alice Coltrane reflected: \"Some people didn't like the addition of strings... They s",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a7381ef3-498b-3ac8-b39c-78b7fc518c9a",
+   "titulo": "Interstellar Space",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1c334816-dcd6-44c7-9f3f-3c18891ae4f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mars",
+     "duracao": "10:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Venus",
+     "duracao": "8:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Jupiter",
+     "duracao": "5:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Saturn",
+     "duracao": "11:35"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Interstellar_Space",
+   "resumo_en": "Interstellar Space is a studio album by the American jazz saxophonist John Coltrane, featuring the drummer Rashied Ali. It was recorded in 1967, the year of his death, and released by Impulse! Records in September 1974.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "421d9819-70be-3d0c-83be-4f95ea9ef5ea",
+   "titulo": "First Meditations (For Quartet)",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/7d700187-b53c-4f98-b27e-de124ac6876a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love",
+     "duracao": "8:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Compassion",
+     "duracao": "9:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Joy",
+     "duracao": "8:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Consequences",
+     "duracao": "7:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Serenity",
+     "duracao": "5:12"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/First_Meditations_%28for_quartet%29",
+   "resumo_en": "First Meditations (for quartet) is an album by John Coltrane recorded on September 2, 1965, and posthumously released in 1977. It is a quartet version of a suite Coltrane would record as Meditations two months later with an expanded group. Along with Sun Ship, recorded a week earlier, First Meditations represents the final recordings of Coltrane's classic quartet featuring pianist McCoy Tyner, bassist Jimmy Garrison, and drummer Elvin Jones.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ddba8e8c-078f-3c39-8201-44618dc2942e",
+   "titulo": "Stellar Regions",
+   "data": "1995-10-10",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/422f531b-70d5-4823-96ac-eda4d85be88d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seraphic Light",
+     "duracao": "8:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Sun Star",
+     "duracao": "6:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Stellar Regions",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Iris",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Offering",
+     "duracao": "8:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Configuration",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Jimmy's Mode",
+     "duracao": "5:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Tranesonic",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.6,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stellar_Regions",
+   "resumo_en": "Stellar Regions is a posthumous release by John Coltrane, drawn largely from tapes discovered in 1994 by the artist's wife, Alice Coltrane, who plays the piano on the session. Alice Coltrane is also responsible for the titles of the eight numbers featured on the album.\nThe material on the album is not entirely previously unreleased: the same take of \"Offering\" was first issued on Coltrane's final studio album, Expression. Also, the track entitled \"Stellar Regions\" on this album is an early version of \"Venus\", first released in 1974 on the sax-drums duo album, Interstellar Space. Stellar Regions was recorded the week prior to the session that gave rise to that album.\nThe album features Rashied Ali on drums and Jimmy Garrison on bass. Garrison had left Coltrane's group the previous year, but returned for these recordings.\nColtrane plays alto saxophone – something he did very rarely after 1946 – on both versions of \"Tranesonic\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0e41c67e-7968-4aa9-ae9b-c9a78768ff23",
+   "titulo": "Bassoon XX",
+   "data": "2002",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/a1090892-4779-4932-8239-6dce96495011/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Concerto pour basson, orchestre à cordes, harpe et piano: Ia. Recitativo -",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Concerto pour basson, orchestre à cordes, harpe et piano: Ib. Allegro gioviale",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Concerto pour basson, orchestre à cordes, harpe et piano: II. Largo cantabile",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Concerto pour basson, orchestre à cordes, harpe et piano: III. Fugato",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Concerto for Bassoon and Low Strings: I.",
+     "duracao": "10:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Concerto for Bassoon and Low Strings: II.",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Concerto for Bassoon and Low Strings: III.",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Concerto for Bassoon and Low Strings: IV.",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Concerto for Bassoon and Low Strings: V.",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Ciranda das sete notas",
+     "duracao": "9:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Divertissement pour basson et quintette à cordes: I. Vivace",
+     "duracao": "2:15"
+    },
+    {
+     "n": 12,
+     "titulo": "Divertissement pour basson et quintette à cordes: II. Lento",
+     "duracao": "2:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Divertissement pour basson et quintette à cordes: III. Vivo assai",
+     "duracao": "1:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Divertissement pour basson et quintette à cordes: IV. Allegro",
+     "duracao": "2:11"
+    },
+    {
+     "n": 15,
+     "titulo": "In Freundshaft",
+     "duracao": "15:11"
+    },
+    {
+     "n": 16,
+     "titulo": "Giant Steps",
+     "duracao": "3:46"
+    },
+    {
+     "n": 17,
+     "titulo": "Humorous Scherzo, op. 12/9",
+     "duracao": "1:55"
+    },
+    {
+     "n": 18,
+     "titulo": "Lied ohne Name",
+     "duracao": "1:21"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "71882174-43b2-3d3f-82c2-90c67f6229b0",
+   "titulo": "Bach / Coltrane",
+   "data": "2007-12-31",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/85f2f739-7c3c-435a-b801-ac3d99e017c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Art de la Fugue : 1er Contrepoint et improvisation de Raphaël Imbert",
+     "duracao": "3:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Crescent : Partie I",
+     "duracao": "1:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Crescent : Partie II",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Crescent : Partie III",
+     "duracao": "1:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Crescent : Partie IV",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Concerto pour clavier, BWV 1056 : Largo",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Concerto pour clavier, BWV 1056 : Improvisation",
+     "duracao": "2:37"
+    },
+    {
+     "n": 8,
+     "titulo": "He Nevuh Said a Mumbalin’ Word (live) : Introduction",
+     "duracao": "1:19"
+    },
+    {
+     "n": 9,
+     "titulo": "He Nevuh Said a Mumbalin’ Word (live) : He Nevuh Said a Mumbalin’ Word",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Fantaisie, BWV 542",
+     "duracao": "5:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Messe, BWV 232 : Crucifixus",
+     "duracao": "3:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Art de la Fugue : 9e Contrepoint",
+     "duracao": "2:38"
+    },
+    {
+     "n": 13,
+     "titulo": "Song of Praise / Jesu meine Freude, BWV 227 : Partie I",
+     "duracao": "4:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Song of Praise / Jesu meine Freude, BWV 227 : Partie II",
+     "duracao": "6:07"
+    },
+    {
+     "n": 15,
+     "titulo": "Cantate «Vergnütgte Ruh, beliebte Seelenlust», BWV 170",
+     "duracao": "5:50"
+    },
+    {
+     "n": 16,
+     "titulo": "Improvisaton sur B.A.C.H / The Father, the Son and the Holy Ghost",
+     "duracao": "3:46"
+    },
+    {
+     "n": 17,
+     "titulo": "Mit’ Fried und Freud’ ich fahr dahin",
+     "duracao": "7:33"
+    },
+    {
+     "n": 18,
+     "titulo": "Reverend King",
+     "duracao": "4:37"
+    },
+    {
+     "n": 19,
+     "titulo": "Choral de Mi : Partie i",
+     "duracao": "3:40"
+    },
+    {
+     "n": 20,
+     "titulo": "Choral de Mi : Partie ii",
+     "duracao": "1:36"
+    },
+    {
+     "n": 21,
+     "titulo": "’O Welt, ich muß dich lassen, BWV 45",
+     "duracao": "1:02"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5037fee6-c2a7-42ea-875b-3c4331451968",
+   "titulo": "Chasing Trane",
+   "data": "2017-11-17",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/21b167de-099c-40e9-8c70-a94ac27827c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Love Supreme, Pt. I – Acknowledgement",
+     "duracao": "7:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Russian Lullaby",
+     "duracao": "5:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Trane’s Slo Blues",
+     "duracao": "6:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Giant Steps",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "My Favorite Things, Pt. 1",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "My One and Only Love",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Alabama",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "After the Rain",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Moment’s Notice",
+     "duracao": "9:11"
+    },
+    {
+     "n": 10,
+     "titulo": "I Want to Talk About You (live)",
+     "duracao": "8:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Chasin’ the Trane (live)",
+     "duracao": "16:08"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2d7b07d9-9cf4-4ef1-8033-668bd98e9da1",
+   "titulo": "Both Directions at Once: The Lost Album",
+   "data": "2018-06-29",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/10b14a51-9b55-4698-91f1-94e9161dab94/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Untitled Original 11383 (take 1)",
+     "duracao": "5:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Nature Boy",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Untitled Original 11386",
+     "duracao": "8:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Vilia (take 3)",
+     "duracao": "5:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Impressions (take 3)",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Slow Blues",
+     "duracao": "11:28"
+    },
+    {
+     "n": 7,
+     "titulo": "One Up, One Down (take 1)",
+     "duracao": "8:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Vilia (take 5)",
+     "duracao": "4:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Impressions (take 1)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Impressions (take 2)",
+     "duracao": "4:37"
+    },
+    {
+     "n": 11,
+     "titulo": "Impressions (take 4)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Untitled Original 11386 (take 2)",
+     "duracao": "8:41"
+    },
+    {
+     "n": 13,
+     "titulo": "Untitled Original 11386 (take 5)",
+     "duracao": "8:23"
+    },
+    {
+     "n": 14,
+     "titulo": "One Up, One Down (take 6)",
+     "duracao": "7:17"
+    }
+   ],
+   "duracao_min": 89,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 90,
+    "media": 8.7,
+    "fontes": 8
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Both_Directions_at_Once%3A_The_Lost_Album",
+   "resumo_en": "Both Directions at Once: The Lost Album is a studio album recorded by American jazz saxophonist John Coltrane for Impulse! Records and released in 2018. The recordings were made in 1963 during Coltrane's Classic Quartet period but lost for decades.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "70b3a518-4766-4b77-9cb9-1b5b10ec0bb9",
+   "titulo": "Blue World",
+   "data": "2019-09-27",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/27b11943-4038-49d2-99b0-c74a261e45dc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Naima (take 1)",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Village Blues (take 2)",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue World",
+     "duracao": "6:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Village Blues (take 1)",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Village Blues (take 3)",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Like Sonny",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Traneing In",
+     "duracao": "7:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Naima (take 2)",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blue_World_%28album%29",
+   "resumo_en": "Blue World is an album of 1964 John Coltrane recordings, created as a soundtrack for the Canadian film The Cat in the Bag, and released on September 27, 2019. The release has received positive reception from critics.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

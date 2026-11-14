@@ -1,0 +1,3222 @@
+{
+ "id": "bill-evans",
+ "nome": "Bill Evans",
+ "cena": "Jazz essencial",
+ "mbid": "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
+ "wikidata": "Q208205",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1929",
+ "fim": "1980",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "cool jazz",
+  "modal jazz",
+  "post-bop",
+  "hard bop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Bill_Evans.jpg/500px-Bill_Evans.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bill_Evans",
+ "resumo_pt": "William John \"Bill\" Evans (Plainfield, 16 de agosto de 1929 — Nova Iorque, 15 de setembro de 1980) foi um pianista norte-americano, considerado um dos mais importantes músicos de jazz da história, sendo até hoje uma das referências do piano de jazz pós-50.\nSeu uso da harmonia impressionista, suas interpretações inventivas do repertório tradicional de jazz e suas linhas melódicas sincopadas e polirrítmicas influenciaram toda uma geração de pianistas, incluindo Herbie Hancock, Denny Zeitlin, Chick Corea e Keith Jarrett. Seu trabalho continua a influenciar jovens pianistas como Fred Hersch, Esbjörn Svensson, Bill Charlap e Lyle Mays, e músicos que tocam outros instrumentos, como o guitarrista John McLaughlin.",
+ "resumo_en": "William John Evans (August 16, 1929 – September 15, 1980) was an American jazz pianist and composer who worked primarily as the leader of his trio. His extensive use of impressionist harmony, block chords, innovative chord voicings, and trademark rhythmically independent \"singing\" melodic lines continue to influence jazz pianists today.\nBorn in Plainfield, New Jersey, Evans studied classical music at Southeastern Louisiana College and the Mannes School of Music, in New York City, where he majored in composition and received an artist diploma. In 1955, he moved to New York City, where he worked with bandleader and theorist George Russell. In 1958, Evans joined Miles Davis's sextet, which in 1959, then immersed in modal jazz, recorded Kind of Blue, the best-selling jazz album of all time.\nIn late 1959, Evans left Davis's band and began his career as a leader, forming a trio with bassist Scott LaFaro and drummer Paul Motian, a group now regarded as a seminal modern jazz trio. They recorded two studio albums, Portrait in Jazz and Explorations, and two albums recorded during a 1961 engagement at New York's Village Vanguard jazz club: Sunday at the Village Vanguard and Waltz for Debby. A complete set (on three CDs) of their Vanguard recordings was issued decades later. Ten days after this booking ended, LaFaro died in a car crash. After months without public performances, Evans reemerged with a new trio featuring Chuck Israels on bass. In 1963, Evans recorded the Grammy Award–winni",
+ "albuns": [
+  {
+   "id": "addc3ee7-1a0b-3d63-9e44-7385345ed677",
+   "titulo": "New Jazz Conceptions",
+   "data": "1957-02",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/404c240c-1245-4b0e-8377-41a1621a0297/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Love You",
+     "duracao": "3:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Five",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "I Got It Bad and That Ain't Good",
+     "duracao": "1:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Conception",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Easy Living",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Displacement",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Speak Low",
+     "duracao": "5:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Waltz for Debby",
+     "duracao": "1:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Our Delight",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "My Romance",
+     "duracao": "1:58"
+    },
+    {
+     "n": 11,
+     "titulo": "No Cover, No Minimum",
+     "duracao": "7:29"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/New_Jazz_Conceptions",
+   "resumo_en": "New Jazz Conceptions is the debut album by jazz pianist Bill Evans, recorded in two sessions during September 1956 for Riverside Records.",
+   "spotify": "0DtERUqwqrF8lAO3PFzU2H",
+   "youtube": null
+  },
+  {
+   "id": "e5684eee-e595-3a4e-bc1b-a0b7423015a8",
+   "titulo": "The Ivory Hunters",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/08f86393-7217-4e2d-94f1-6af23bf7518f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Honeysuckle Rose",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "As Time Goes By",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "The Way You Look Tonight",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "It Could Happen to You",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "The Man I Love",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I Got Rhythm",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Ivory_Hunters",
+   "resumo_en": "The Ivory Hunters (subtitled Double Barrelled Piano) is an album by jazz pianists Bob Brookmeyer and Bill Evans, originally released on the United Artists label, featuring Evans and Brookmeyer with Percy Heath, and Connie Kay, recorded in 1959.\nBrookmeyer was known primarily as a trombonist who occasionally doubled on piano; this was his only album playing piano exclusively.",
+   "spotify": "7nd9sWNpwz7xWAiVNXz2Tb",
+   "youtube": null
+  },
+  {
+   "id": "4ff40ed9-d478-3037-914a-6f0f185d3ec3",
+   "titulo": "Know What I Mean?",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/2e3c8e95-71fd-4947-96fa-94fb5620449e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Waltz for Debby",
+     "duracao": "5:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Goodbye",
+     "duracao": "6:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Cares?",
+     "duracao": "5:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Venice",
+     "duracao": "2:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Toy",
+     "duracao": "5:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Elsa",
+     "duracao": "5:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Nancy (with the Laughing Face)",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Know What I Mean?",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "239f7b38-fd97-3106-9541-16725875d69e",
+   "titulo": "Empathy",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/d8fd07b5-64b5-48c1-a5d9-6100fc479970/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Washington Twist",
+     "duracao": "6:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Danny Boy",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Let’s Go Back to the Waltz",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "With a Song in My Heart",
+     "duracao": "9:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Goodbye",
+     "duracao": "5:10"
+    },
+    {
+     "n": 6,
+     "titulo": "I Believe in You",
+     "duracao": "5:48"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Empathy_%28Bill_Evans_and_Shelly_Manne_album%29",
+   "resumo_en": "Empathy is a 1962 album by jazz musicians Bill Evans and Shelly Manne. It was recorded and released by Verve Records, the label Evans joined a year after the recording session. The album came about when Manne and Evans were sharing a bill at New York's Village Vanguard nightclub and Verve producer Creed Taylor proposed a studio collaboration for the two bandleaders. Riverside Records, Evans' label during 1962, allowed Evans to participate, and the trio was completed by Manne's bass player of the time, Monty Budwig. The album features some classic jazz standards and two songs by Irving Berlin from the 1962 musical Mr. President.\nThe sculpture on the album cover was by Sheldon Machlin.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "49bd78ff-7920-3819-80be-d42cf606eb85",
+   "titulo": "Interplay",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/54f47e28-5d46-44c8-9712-44f9b6b11dc8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You And The Night And The Music - Remastered 2025",
+     "duracao": "7:05"
+    },
+    {
+     "n": 2,
+     "titulo": "When You Wish Upon A Star - Remastered 2025",
+     "duracao": "5:44"
+    },
+    {
+     "n": 3,
+     "titulo": "I'll Never Smile Again - Remastered 2025",
+     "duracao": "6:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Interplay - Remastered 2025",
+     "duracao": "8:14"
+    },
+    {
+     "n": 5,
+     "titulo": "You Go To My Head - Remastered 2025",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Wrap Your Troubles In Dreams - Remastered 2025",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Interplay_%28Bill_Evans_album%29",
+   "resumo_en": "Interplay is a 1963 album by jazz musician Bill Evans. It was recorded in July 1962 in New York City for Riverside Records. The Interplay Sessions is a 1982 Milestone album that includes the entirety of this album, and tracks recorded for Riverside on August 21 and 22 of the same year with a different lineup (with Zoot Sims and Ron Carter, and without Freddie Hubbard and Percy Heath).\nThe Interplay Sessions peaked at number 26 on the Billboard Jazz Albums charts in 1983. The CD reissue Interplay adds another take of \"I'll Never Smile Again\" as a bonus track. At the Grammy Awards of 1984, Orrin Keepnews won the Grammy Award for Best Album Notes for the reissue.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cf24f192-7cfc-3413-a80d-390b523dfbca",
+   "titulo": "Undercurrent",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/2810f503-c196-44e6-80f0-e5f494c411a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Funny Valentine",
+     "duracao": "5:20"
+    },
+    {
+     "n": 2,
+     "titulo": "I Hear a Rhapsody",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Dream Gypsy",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Romain",
+     "duracao": "5:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Skating in Central Park",
+     "duracao": "5:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Darn That Dream",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.2,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Undercurrent_%28Bill_Evans_and_Jim_Hall_album%29",
+   "resumo_en": "Undercurrent is a 1962 jazz album by the pianist Bill Evans and the guitarist Jim Hall. The two artists collaborated again in 1966 on the album Intermodulation.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce1b8742-da12-4813-840f-9a0697f3a174",
+   "titulo": "The Gary McFarland Orchestra",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/a423c886-04be-4ea4-94f6-73063466117a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reflections in the Park",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Night Images",
+     "duracao": "5:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Tree Patterns",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Peachtree",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Misplaced Cowpoke",
+     "duracao": "10:16"
+    },
+    {
+     "n": 6,
+     "titulo": "A Moment Alone",
+     "duracao": "6:13"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Gary_McFarland_Orchestra",
+   "resumo_en": "The Gary McFarland Orchestra is an album by composer, conductor, and vibraphonist Gary McFarland with an orchestra featuring guest soloist jazz pianist Bill Evans recorded in early 1963 for Verve.\nEvans biographer Peter Pettinger notes that \"McFarland had met Evans when a student at Lenox [Music Inn] in 1959. While planning an album of his own compositions, he ran into the pianist again and plucked up the courage to invite him onto it.\" McFarland said, \"I built the album around Bill—around everything he is, his melodic gift, his harmonic conceptions, his ... well, his magic. That's what it really is. Magic. ... For my taste, he's the perfect pianist. He does everything perfectly.\"\nThe album consists of six original compositions by McFarland scored for an 11-piece ensemble that includes two violas and two cellos along with highly notable jazz performers such as guitarist Jim Hall, bassist Richard Davis, and Phil Woods on clarinet. Evans remained \"a faithful admirer\" of McFarland after this project and later added his composition \"Gary's Theme\" to his repertoire, recording it on the album You Must Believe in Spring.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "db235c76-1560-30dd-9a92-94c71440fd91",
+   "titulo": "Conversations With Myself",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/0ba96782-2003-408a-a923-d2a34853172f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "’Round Midnight",
+     "duracao": "6:33"
+    },
+    {
+     "n": 2,
+     "titulo": "How About You?",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Spartacus Love Theme",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Blue Monk",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Stella by Starlight",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Hey, There",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "N.Y.C.’s No Lark",
+     "duracao": "5:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Just You, Just Me",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.7,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Conversations_with_Myself_%28album%29",
+   "resumo_en": "Conversations with Myself is a 1963 album by American jazz pianist Bill Evans recorded for Verve Records, overdubbing three piano tracks for each track.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2c42a245-69b2-3294-912f-0f2430904b80",
+   "titulo": "Trio 64",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/aaeca09b-bd5c-4385-9b17-9b9afd76ba9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Little Lulu",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "A Sleeping Bee",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Always",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Santa Claus Is Coming to Town",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ll See You Again",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "For Heaven’s Sake",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Dancing in the Dark",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Everything Happens to Me",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trio_64",
+   "resumo_en": "Trio 64 is an album by the American jazz musician Bill Evans, released in 1964. It was simultaneously Gary Peacock's first and only recording with Evans and Paul Motian's final recording with the pianist.",
+   "spotify": "4rLPJEiZuhRRswnBGBgVvv",
+   "youtube": "OLAK5uy_lKzxqoTkSb9xjnfJJdhD2F0ugCbpoIO0s"
+  },
+  {
+   "id": "04099e2a-3d89-331b-b447-5fddfee7a921",
+   "titulo": "Waltz for Debby",
+   "data": "1964-12",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/115fa22e-2e53-4454-966a-4bc2308f560f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Jag vet en dejlig rosa",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Once Upon a Summertime",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "So Long Big Time",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Monicas vals",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Lucky to Be Me",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Vindarna sucka uti skogarna",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "It Could Happen to You",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Some Other Time",
+     "duracao": "5:35"
+    },
+    {
+     "n": 10,
+     "titulo": "Om natten",
+     "duracao": "1:40"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waltz_for_Debby_%281964_album%29",
+   "resumo_en": "Waltz for Debby is a 1964 album in English and Swedish by the Swedish singer Monica Zetterlund and an American jazz trio led by pianist Bill Evans. Evans met Zetterlund on a tour of Sweden and was \"bowled over\" by her EP recording of \"Waltz for Debby\" with a Swedish text titled \"Monicas vals\". Evans's manager, Helen Keane, set up a recording session for them at the end of the Swedish tour.\nThe album was re-released on CD by West Wind in 1997 and reissued by Verve Records in 2006.",
+   "spotify": "5jMKNvYYHH08quqLK3ylTC",
+   "youtube": null
+  },
+  {
+   "id": "902e2187-39c0-3391-89f7-9081a7c11130",
+   "titulo": "Bill Evans Trio With Symphony Orchestra",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/76be23da-c096-4526-91da-3389181aa1ee/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Granadas",
+     "duracao": "5:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Valse",
+     "duracao": "5:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Prelude",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Time Remembered",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Pavane",
+     "duracao": "4:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Elegia",
+     "duracao": "5:12"
+    },
+    {
+     "n": 7,
+     "titulo": "My Bells",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Interlude",
+     "duracao": "6:04"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bill_Evans_Trio_with_Symphony_Orchestra",
+   "resumo_en": "Bill Evans Trio with Symphony Orchestra is an album by American jazz pianist Bill Evans and his trio, released in 1966, featuring jazz arrangements of works by classical composers Granados, J.S. Bach, Scriabin, Fauré, and Chopin. The trio is accompanied by an orchestra consisting of strings and woodwinds arranged and conducted by Claus Ogerman. Originals by both Evans and Ogerman are also included.\nThe opening track, \"Granadas,\" is based on the \"maiden\" theme of Granados's \"The Maiden and the Nightingale\" from his piano suite Goyescas but does not employ the \"nightingale\" theme. The two Evans originals, \"Time Remembered\" and \"My Bells,\" had previously been recorded by a quintet led by Evans, featuring saxophonist Zoot Sims and guitarist Jim Hall; but since the pianist did not approve the release of that album, which appeared only posthumously, this was the first time recordings of these pieces reached the public. The Ogerman piece, \"Elegia,\" is adapted from his Concerto for Orchestra and Jazz Piano.\nEvans stated, \"I really enjoyed making this album with Claus and record my deepest respect and admiration for him.\" The pianist would go on to make another orchestral album with Ogerman",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1b1a1e84-3ffb-3892-bd51-0cb53910970b",
+   "titulo": "A Simple Matter of Conviction",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/448219c8-87a4-4849-96bc-60cb4006deed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Simple Matter of Conviction",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Stella by Starlight",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Unless It's You",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Laura",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "My Melancholy Baby",
+     "duracao": "5:17"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Getting Sentimental Over You",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Star Eyes",
+     "duracao": "4:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Only Child",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "These Things Called Changes",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Simple_Matter_of_Conviction",
+   "resumo_en": "A Simple Matter of Conviction is an album by jazz pianist Bill Evans, released in 1967 on Verve. It's the second and last collaboration between Evans and Shelly Manne after their 1962  Empathy album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "619677cb-b2fd-3b22-bc6a-8d7c157d77f1",
+   "titulo": "Intermodulation",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/bffce114-950b-4778-9c50-91348e862ed1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I've Got You Under My Skin",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "My Man's Gone Now",
+     "duracao": "6:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn Out the Stars",
+     "duracao": "7:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Angel Face",
+     "duracao": "6:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Jazz Samba",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "All Across the City",
+     "duracao": "4:49"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Intermodulation_%28album%29",
+   "resumo_en": "Intermodulation is a 1966 jazz album by pianist Bill Evans and guitarist Jim Hall.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bdcebfc8-100e-3242-a28d-3aa4b6cbb029",
+   "titulo": "Further Conversations With Myself",
+   "data": "1967-07-06",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/ceacce82-d572-4e3a-8733-bba9ebd16bb0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Emily",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Yesterdays",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Santa Claus Is Comin' to Town",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Funny Man",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "The Shadow of Your Smile",
+     "duracao": "8:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Little Lulu",
+     "duracao": "2:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Quiet Now",
+     "duracao": "7:52"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Further_Conversations_with_Myself",
+   "resumo_en": "Further Conversations with Myself is a 1967 album by jazz pianist Bill Evans. All the pieces are solo with piano overdubs, a method Evans used on his earlier release Conversations with Myself. This time, however, he employed only two piano tracks instead of three. The album was nominated for a Grammy. It was reissued on CD by Verve in 1999.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "11bc3876-ee35-3dd3-9427-0a8f451180b9",
+   "titulo": "Alone",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/0d9b1fa1-2f28-4cb5-8dd2-ae3896b28cda/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Here's That Rainy Day",
+     "duracao": "5:00"
+    },
+    {
+     "n": 2,
+     "titulo": "A Time for Love",
+     "duracao": "5:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Midnight Mood",
+     "duracao": "5:19"
+    },
+    {
+     "n": 4,
+     "titulo": "On a Clear Day (You Can See Forever)",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Never Let Me Go",
+     "duracao": "14:32"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "media": 8.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alone_%28Bill_Evans_album%29",
+   "resumo_en": "Alone is a solo piano album by jazz musician Bill Evans, recorded in the fall of 1968 for Verve Records, featuring a particularly notable 14+-minute performance of the jazz standard \"Never Let Me Go\". Evans contributed notes to the album, including the following statement:\n\nPerhaps the hours of greatest pleasure in my life have come about as a result of the capacity of the piano to be in itself a complete expressive musical medium. In retrospect, I think that these countless hours of aloneness with music unified the directive energy of my life. At those times when I have achieved this sense of oneness while playing alone, the many technical or analytic aspects of the music happened of themselves with positive rightness which always served to remind me that to understand music most profoundly one only has to be listening well. Perhaps it is a peculiarity of mine that despite the fact that I am a professional performer, it is true that I have always preferred playing without an audience. This has nothing to do with my desire to communicate or not, but rather I think just a problem of personal self-consciousness which had to be conquered through discipline and concentration. Yet, to k",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e0135be5-205f-4162-99f3-5832cab4cb96",
+   "titulo": "The Bill Evans Album",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/101f05b1-f014-4d53-9505-65a2ede6e349/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Funkallero",
+     "duracao": "7:51"
+    },
+    {
+     "n": 2,
+     "titulo": "The Two Lonely People",
+     "duracao": "6:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Sugar Plum",
+     "duracao": "7:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Waltz for Debby",
+     "duracao": "7:44"
+    },
+    {
+     "n": 5,
+     "titulo": "T.T.T. (Twelve Tone Tune)",
+     "duracao": "6:41"
+    },
+    {
+     "n": 6,
+     "titulo": "RE: Person I Knew",
+     "duracao": "5:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Comrade Conrad",
+     "duracao": "7:38"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Bill_Evans_Album",
+   "resumo_en": "The Bill Evans Album is a recording by the jazz pianist Bill Evans, released in 1971 on the Columbia label. It was his first album to feature all compositions written (or co-written), arranged, and performed by him. On the record, Evans plays both an acoustic and a Fender Rhodes electric piano.\nOf the album's seven compositions, four were new for this project: \"The Two Lonely People,\" \"Sugar Plum,\" \"T.T.T. (Twelve Tone Tune),\" and \"Comrade Conrad.\" Of these, \"The Two Lonely People\" would become a regular part of the pianist's performing repertoire and was recorded many times. \"T.T.T.\" is a tone row composition, employing the serial technique of composer Arnold Schoenberg; however, Evans \"clothe[d] the line with diatonic harmony\" and believed that twelve-tone music \"was incompatible with the art of improvising.\"\nThe title of the song \"Re: Person I Knew\" (recorded first on his 1962 Moon Beams album) is an anagram of the name of Evans's producer at Riverside Records, Orrin Keepnews. The lineup of Evans originals is rounded out by two of his best-known compositions, \"Funkallero,\" which although previously recorded by the pianist on several occasions was first released here, and \"Waltz ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1e435c68-d824-3ca2-8498-6d0eacdb6c36",
+   "titulo": "Stan Getz & Bill Evans",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/4bd38626-3a4f-4510-b367-9c6ef83080df/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Night and Day",
+     "duracao": "6:49"
+    },
+    {
+     "n": 2,
+     "titulo": "But Beautiful",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Funkallero",
+     "duracao": "6:44"
+    },
+    {
+     "n": 4,
+     "titulo": "My Heart Stood Still",
+     "duracao": "8:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Melinda",
+     "duracao": "5:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Grandfather's Waltz",
+     "duracao": "6:30"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stan_Getz_%26_Bill_Evans",
+   "resumo_en": "Stan Getz & Bill Evans (subtitled Previously Unreleased Recordings) is an album by jazz saxophonist Stan Getz and pianist Bill Evans, recorded in 1964 for the Verve label, but not released until 1974.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "387ddf77-98bb-4be6-a532-58c660251402",
+   "titulo": "Peace Piece and Other Pieces",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/fc9c6912-7112-45a4-90cc-31205813e81f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Minority",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Young and Foolish",
+     "duracao": "5:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Lucky to Be Me",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Night and Day",
+     "duracao": "7:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Epilogue",
+     "duracao": "0:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Tenderly",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Peace Piece",
+     "duracao": "6:41"
+    },
+    {
+     "n": 8,
+     "titulo": "What Is There to Say?",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Oleo",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Epilogue",
+     "duracao": "0:39"
+    },
+    {
+     "n": 11,
+     "titulo": "You and the Night and the Music",
+     "duracao": "7:20"
+    },
+    {
+     "n": 12,
+     "titulo": "My Heart Stood Still",
+     "duracao": "5:21"
+    },
+    {
+     "n": 13,
+     "titulo": "Green Dolphin Street",
+     "duracao": "8:09"
+    },
+    {
+     "n": 14,
+     "titulo": "How Am I to Know?",
+     "duracao": "6:18"
+    },
+    {
+     "n": 15,
+     "titulo": "Woody’n You (take 1)",
+     "duracao": "4:25"
+    },
+    {
+     "n": 16,
+     "titulo": "Woody’n You (take 2)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 17,
+     "titulo": "Loose Bloose",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 84,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "838ae094-2d08-317e-b26d-6f6ab0bcbab3",
+   "titulo": "Intuition",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/716dd7cc-1468-4018-b368-7a30442e169a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Invitation",
+     "duracao": "6:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Serge",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Show - Type Tune",
+     "duracao": "4:07"
+    },
+    {
+     "n": 4,
+     "titulo": "The Nature of Things",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Are You All the Things",
+     "duracao": "5:01"
+    },
+    {
+     "n": 6,
+     "titulo": "A Face Without a Name",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Falling Grace",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Hi Lili, Hi Lo",
+     "duracao": "7:18"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Intuition_%28Bill_Evans_album%29",
+   "resumo_en": "Intuition is a jazz album by pianist Bill Evans and bassist Eddie Gómez released by Fantasy Records in 1975.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a2cec67f-9233-3587-b0f2-3e317d8f8e4a",
+   "titulo": "The Tony Bennett / Bill Evans Album",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/1c8755e2-2828-406b-b602-8b927d05e0f0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Young and Foolish",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "The Touch of Your Lips",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Some Other Time",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "When in Rome",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "We’ll Be Together Again",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "My Foolish Heart",
+     "duracao": "4:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Waltz for Debby",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "But Beautiful",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Days of Wine and Roses",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Tony_Bennett/Bill_Evans_Album",
+   "resumo_en": "The Tony Bennett Bill Evans Album is a 1975 studio album by singer Tony Bennett and pianist Bill Evans.\nTheir second album together, Together Again, was released in 1977. Both albums plus alternate takes and additional tracks were released on The Complete Tony Bennett/Bill Evans Recordings by Fantasy Records in 2009.\nOn November 8, 2011, Sony Music Distribution included the CD in a box set entitled The Complete Collection.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "727d9f53-df75-3ae9-8cba-b1646d9f6a48",
+   "titulo": "Alone (Again)",
+   "data": "1975-12-16",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/91dea4ef-1c5e-4390-a36f-fc92abd96e02/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Touch of Your Lips",
+     "duracao": "7:07"
+    },
+    {
+     "n": 2,
+     "titulo": "In Your Own Sweet Way",
+     "duracao": "8:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Make Someone Happy",
+     "duracao": "7:15"
+    },
+    {
+     "n": 4,
+     "titulo": "What Kind of Fool Am I?",
+     "duracao": "6:10"
+    },
+    {
+     "n": 5,
+     "titulo": "People",
+     "duracao": "13:38"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alone_%28Again%29",
+   "resumo_en": "Alone (Again) is a solo piano album by American jazz pianist Bill Evans, recorded in December 1975. A follow-up to his earlier solo album Alone, it was released in 1977 on Fantasy Records and reissued on CD in 1994 by Original Jazz Classics. At the time it was recorded, Evans had been playing an increasing number of solo dates and was inspired after hearing Marian McPartland play solo in Monterey. Evans's manager Helen Keane commented:\n\nAs much as Bill enjoyed playing alone at home, and although by this time he regularly included a solo section in his concert program, he found recording in this context very difficult. It was probably the only area he felt insecure about musically, and the fact that he'd gotten a Grammy for Alone didn't seem to help.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c735b20-3fcd-375b-b43a-5932b8296e3c",
+   "titulo": "On Green Dolphin Street",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/f8d5da47-66ef-3807-88f7-70079949738c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You and the Night and the Music",
+     "duracao": "7:23"
+    },
+    {
+     "n": 2,
+     "titulo": "My Heart Stood Still",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Green Dolphin Street",
+     "duracao": "8:13"
+    },
+    {
+     "n": 4,
+     "titulo": "How Am I to Know?",
+     "duracao": "6:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Woody 'n' You (take 1)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Woody 'n' You (take 2)",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Loose Bloose",
+     "duracao": "5:37"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/On_Green_Dolphin_Street_%28Bill_Evans_album%29",
+   "resumo_en": "On Green Dolphin Street  is an album by jazz pianist Bill Evans, recorded with bassist Paul Chambers and drummer Philly Joe Jones in early 1959, shortly before the Kind of Blue sessions in which both Evans and Chambers participated, but not released until 1975 as part of the double LP Peace Piece and Other Pieces. In 1995, it was issued on CD by Milestone Records under the current title, which comes from the jazz standard \"On Green Dolphin Street\" by Bronislaw Kaper, which Evans had first recorded the previous year with Miles Davis.\nThe CD edition (MCD-9235-2) also includes the first take of \"All of You\" from the Village Vanguard engagement by the 1961 Bill Evans Trio with bassist Scott LaFaro and drummer Paul Motian.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7d85436c-73f0-3321-b3a2-eee5af4cd607",
+   "titulo": "Quintessence",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/b05fcaaa-5b2a-4b7a-9920-33bcf66c09c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweet Dulcinea Blue",
+     "duracao": "6:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Martina",
+     "duracao": "8:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Second Time Around",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "A Child Is Born",
+     "duracao": "7:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Bass Face",
+     "duracao": "10:09"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Quintessence_%28Bill_Evans_album%29",
+   "resumo_en": "Quintessence is an album by American jazz pianist Bill Evans. It was recorded in 1976 for Fantasy Records and released the following year. At this time usually playing solo or with his trio, for these sessions Evans was the leader of an all-star quintet featuring Harold Land on tenor saxophone, guitarist Kenny Burrell, Ray Brown on bass, and Philly Joe Jones on drums.\nEvans had never previously worked with Land, Burrell, or Brown, but the quintet instrumentation, with tenor sax and guitar, mirrors that of the second Interplay session of 1962. One track, \"The Second Time Around,\" is played by trio only. As with many Evans albums from this period, it includes a selection by Michel Legrand, in this case \"Martina,\" which Barbra Streisand had recorded in 1965.",
+   "spotify": "2huiSdnPrdziYZaHCsCy29",
+   "youtube": null
+  },
+  {
+   "id": "9a1f6d14-793e-3754-9a39-7ac78517bd6a",
+   "titulo": "Together Again",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/98262b29-2951-40cf-b16e-5f38f691df24/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Bad and the Beautiful",
+     "duracao": "2:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Lucky to Be Me",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Make Someone Happy",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "You’re Nearer",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "A Child Is Born",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "The Two Lonely People",
+     "duracao": "4:27"
+    },
+    {
+     "n": 7,
+     "titulo": "You Don’t Know What Love Is",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Maybe September",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Lonely Girl",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "You Must Believe in Spring",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.9,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Together_Again_%28Tony_Bennett_and_Bill_Evans_album%29",
+   "resumo_en": "Together Again is a 1977 studio album by singer Tony Bennett and jazz pianist Bill Evans. It was originally issued on Bennett's own Improv Records label, which went out of business later that year, but was subsequently reissued on Concord.\nTheir first album together, The Tony Bennett/Bill Evans Album, had been released by Fantasy Records in 1975. Both albums plus alternate takes and additional tracks were later released as The Complete Tony Bennett/Bill Evans Recordings by Fantasy in 2009.\nOn November 8, 2011, Sony Music Distribution included the CD in a box set entitled The Complete Collection.",
+   "spotify": "1yUFdO8zkXXDh2ENNaOWxY",
+   "youtube": null
+  },
+  {
+   "id": "31a8e7de-cb37-3aec-9215-480f8816d92f",
+   "titulo": "New Conversations",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/4c3709d0-af4b-447c-b54e-ebe2db78ad60/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Song for Helen",
+     "duracao": "7:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Nobody Else but Me",
+     "duracao": "4:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Maxine",
+     "duracao": "4:38"
+    },
+    {
+     "n": 4,
+     "titulo": "For Nenette",
+     "duracao": "7:18"
+    },
+    {
+     "n": 5,
+     "titulo": "I Love My Wife",
+     "duracao": "6:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Remembering the Rain",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "After You",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Reflections in D",
+     "duracao": "7:01"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/New_Conversations",
+   "resumo_en": "New Conversations is an album by the American jazz pianist Bill Evans, released by Warner Bros. in 1978.\nIt is Evans' third and final release in which he overdubs different keyboard tracks with previously played ones. The first release recorded in this manner was Conversations with Myself (1963) followed by Further Conversations with Myself (1967).\nA noteworthy difference in this release is that Evans plays the Fender Rhodes electric piano as well as his customary acoustic piano.\nThe liner notes for the album were written by the noted jazz critic Nat Hentoff. In them, he says, \"As you will hear, Bill does not let the technology of multi-tracking dominate him in the least. This is a thoroughly musical, not at all mechanical, achievement.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6238c49a-71df-3532-90fe-6a0ad3091d30",
+   "titulo": "Affinity",
+   "data": "1978-09-07",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/a4135064-8ba8-4c85-acf9-3ca1af18d493/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Do It for Your Love",
+     "duracao": "7:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Sno’ Peas",
+     "duracao": "5:56"
+    },
+    {
+     "n": 3,
+     "titulo": "This Is All I Ask",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The Days of Wine and Roses",
+     "duracao": "6:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Jesus’ Last Ballad",
+     "duracao": "5:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Tomato Kiss",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "The Other Side of Midnight (Noelle’s Theme)",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue and Green",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Body and Soul",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Affinity_%28Bill_Evans_album%29",
+   "resumo_en": "Affinity is an album by American jazz pianist Bill Evans released in 1979, featuring Belgian harmonica player Toots Thielemans. Evans plays a Rhodes piano on some of the tracks, and saxophonist and flutist Larry Schneider appears on some of them as well. The album represents the recording debut of bassist Marc Johnson, and drummer Eliot Zigmund, who had left the trio the previous year, puts in a guest appearance as a studio musician.\nEvans said of Thielemans, \"He is the only harmonica player in jazz. And I just love his whole feeling for music and melody. How he does it on a harmonica, nobody will ever know. I have stopped trying to figure it out.\" Thielemans had worked with singer-songwriter Paul Simon and introduced his ballad \"I Do It for Your Love\" (from the album Still Crazy After All These Years) to Evans, who reharmonized it, recorded it here as the opening track, and made it a prominent part of his repertoire during the last two years of his life. Affinity also features a new version of \"Blue in Green\" from Kind of Blue, although it is mislabeled as \"Blue And Green\" on the back cover.\nIn addition, the album includes the Henry Mancini song \"Days of Wine and Roses,\" which Eva",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c9e250ec-2e09-4cab-a558-5c5330ea7506",
+   "titulo": "Autumn Leaves = 枯葉",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/55025ff3-5bc7-4b6d-98fa-a8746a76666a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Emily",
+     "duracao": "5:50"
+    },
+    {
+     "n": 2,
+     "titulo": "A Sleeping Bee",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Alfie",
+     "duracao": "5:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Who Can I Turn To",
+     "duracao": "6:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Very Early",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Round Midnight",
+     "duracao": "6:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Autumn Leaves",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Quiet Now",
+     "duracao": "5:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Come Rain Or Come Shine",
+     "duracao": "5:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Nardis",
+     "duracao": "6:52"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Autumn_Leaves_%28Bill_Evans_album%29",
+   "resumo_en": "Autumn Leaves is a 1980 album by Bill Evans with Eddie Gómez on bass and Marty Morell on drums. It was released by Lotus, an Italian record label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0cf4e31e-14a0-3c31-bcc3-9cad55817aac",
+   "titulo": "You Must Believe in Spring",
+   "data": "1981-02-02",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/03a59e5e-f439-4fd1-bc3d-1447a26bed6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "B Minor Waltz (For Ellaine)",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "You Must Believe in Spring",
+     "duracao": "5:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Gary’s Theme",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "We Will Meet Again (For Harry)",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "The Peacocks",
+     "duracao": "6:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Sometime Ago",
+     "duracao": "4:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Theme From M*A*S*H (a.k.a. Suicide Is Painless)",
+     "duracao": "5:53"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/You_Must_Believe_in_Spring_%28Bill_Evans_album%29",
+   "resumo_en": "You Must Believe in Spring is an album by American jazz pianist Bill Evans, recorded with bassist Eddie Gómez and drummer Eliot Zigmund in August 1977 and released in February 1981, shortly after Evans' death in September 1980.\nUnlike most posthumous releases of the pianist's recordings, this material had been authorized by Evans for release. It has been described as \"one of Bill Evans' most beloved recordings and features possibly the best-sounding audio of any album he ever did.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "286a7bb0-b15e-3d77-b9ed-0885156e4688",
+   "titulo": "Eloquence",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/34fc104e-609a-452c-aea1-a18f9a9ba60c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gone With the Wind",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Saudade Do Brasil",
+     "duracao": "5:43"
+    },
+    {
+     "n": 3,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "6:09"
+    },
+    {
+     "n": 4,
+     "titulo": "But Beautiful",
+     "duracao": "3:41"
+    },
+    {
+     "n": 5,
+     "titulo": "All of You",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Since We Met",
+     "duracao": "3:40"
+    },
+    {
+     "n": 7,
+     "titulo": "But Not for Me / Isn’t It Romantic / The Opener",
+     "duracao": "5:08"
+    },
+    {
+     "n": 8,
+     "titulo": "When in Rome",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "It Amazes Me",
+     "duracao": "2:28"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Eloquence_%28Bill_Evans_album%29",
+   "resumo_en": "Eloquence is an album composed of songs played by jazz musicians Bill Evans and Eddie Gomez between the years of 1973 and 1975. It was released posthumously in 1982 on Fantasy Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ea20a592-cf9a-466c-9e91-4dd5a992af5e",
+   "titulo": "Unknown Session",
+   "data": "1983",
+   "ano": "1983",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Loose Bloose (take 3)",
+     "duracao": "5:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Loose Bloose (take 2 and 4)",
+     "duracao": "7:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Fudgesickle Built for Four",
+     "duracao": "4:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Time Remembered",
+     "duracao": "6:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Fankallero",
+     "duracao": "6:12"
+    },
+    {
+     "n": 6,
+     "titulo": "My Bells",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "There Came You",
+     "duracao": "5:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Fun Ride",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a50483ce-4024-4554-a16c-4e379eefe150",
+   "titulo": "More From The Vanguard",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/9ce76843-581e-439f-9753-09295e0968cb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alice In Wonderland",
+     "duracao": "6:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Detour Ahead",
+     "duracao": "7:13"
+    },
+    {
+     "n": 3,
+     "titulo": "All Of You",
+     "duracao": "8:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Gloria's Step",
+     "duracao": "6:54"
+    },
+    {
+     "n": 5,
+     "titulo": "My Romance",
+     "duracao": "7:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Jade Visions",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Waltz For Debby",
+     "duracao": "6:49"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2277e46c-1f48-3949-a71e-1a2b016047fe",
+   "titulo": "Loose Blues",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/3f29dd6c-b91a-4d71-9bac-7b358d19ba40/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Loose Bloose",
+     "duracao": "7:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Loose Bloose (alternate)",
+     "duracao": "5:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Remembered",
+     "duracao": "6:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Funkallero",
+     "duracao": "6:11"
+    },
+    {
+     "n": 5,
+     "titulo": "My Bells",
+     "duracao": "5:22"
+    },
+    {
+     "n": 6,
+     "titulo": "There Came You",
+     "duracao": "5:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Fudgesickle Built for Four",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Fun Ride",
+     "duracao": "5:15"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loose_Blues",
+   "resumo_en": "Loose Bloose (released as Unknown Session in Japan) is an album by jazz pianist Bill Evans released on the Milestone label, featuring performances by Evans with Zoot Sims, Jim Hall, Ron Carter, and Philly Joe Jones, recorded in 1962.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4d8ec883-61fc-422a-9125-2c09f4a48aec",
+   "titulo": "Midnight Mood",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/3d05198d-d674-4cc7-840c-9f589501b53d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Two Lonely People",
+     "duracao": "8:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Midnight Mood",
+     "duracao": "8:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Who Can I Turn To?",
+     "duracao": "7:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Time Remembered",
+     "duracao": "6:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Waltz For Debby",
+     "duracao": "8:20"
+    },
+    {
+     "n": 6,
+     "titulo": "My Romance",
+     "duracao": "8:49"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "66366aec-d3f7-326b-890e-d52ad7a51c8d",
+   "titulo": "We Will Meet Again",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/bb347910-4346-488e-873c-7f1922ba8ecf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Comrade Conrad",
+     "duracao": "10:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Laurie",
+     "duracao": "8:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Bill's Hit Tune",
+     "duracao": "10:52"
+    },
+    {
+     "n": 4,
+     "titulo": "For All We Know (We May Never Meet Again)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Five",
+     "duracao": "9:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Only Child",
+     "duracao": "10:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Peri's Scope",
+     "duracao": "6:14"
+    },
+    {
+     "n": 8,
+     "titulo": "We Will Meet Again",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/We_Will_Meet_Again",
+   "resumo_en": "We Will Meet Again is a quintet album by jazz pianist Bill Evans, released by Warner Bros. in 1980. It is Evans' last studio recording and the only one that features his final trio with Marc Johnson on bass and Joe LaBarbera on drums. (The playing of that trio, though, is copiously documented on live recordings). In this quintet setting, the group is rounded out by Tom Harrell on trumpet and Larry Schneider, who had also appeared on the album Affinity, on tenor saxophone, soprano saxophone, and alto flute. Evans plays both acoustic and electric pianos.\nOn the back cover of the album appear the words \"In Loving Dedication to My Late Brother, Harry L. Evans 1927-1979.\" Harry Evans, who was suffering from schizophrenia, had committed suicide earlier that year. He had been a music educator and an accomplished pianist in his own right. Biographer Peter Pettinger notes that Bill Evans \"loved and admired his older brother unconditionally, and he took his suicide very hard.\"\nKeith Shadwick says that at this time, Evans' own physical condition was \"visibly deteriorating\" but that \"[p]aradoxically, he was playing with more inner forcefulness of purpose than at any time since his earliest yea",
+   "spotify": "5aBbSg7CnyhmFz88eAAY5L",
+   "youtube": null
+  },
+  {
+   "id": "0fdb020f-3e55-3eb3-8076-42315c3c27cc",
+   "titulo": "Symbiosis",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/08fc2be0-8cf9-4d85-a4cf-254a8bb608fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "1st Movement (Moderato, Various Tempi): a)",
+     "duracao": "7:55"
+    },
+    {
+     "n": 2,
+     "titulo": "1st Movement (Moderato, Various Tempi): b)",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "1st Movement (Moderato, Various Tempi): c)",
+     "duracao": "11:54"
+    },
+    {
+     "n": 4,
+     "titulo": "2nd Movement (Largo- Andante - Maestoso - Largo): a)",
+     "duracao": "9:13"
+    },
+    {
+     "n": 5,
+     "titulo": "2nd Movement (Largo- Andante - Maestoso - Largo): b)",
+     "duracao": "6:46"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Symbiosis_%28Bill_Evans_album%29",
+   "resumo_en": "Symbiosis is an album by jazz pianist Bill Evans with an orchestra playing a two-movement work composed by conductor Claus Ogerman, recorded in February 1974 and originally released on the German MPS label.\nIt was the third orchestral album by Evans and Ogerman, following Plays the Theme from The V.I.P.s and Other Great Songs (1963) and Bill Evans Trio with Symphony Orchestra (1966), which mostly consisted of relatively brief arrangements of works by other composers, modern and classical.\nOgerman said that his composition is divided into two \"entirely opposed night pieces.\" He described them as follows:\n\nThe tranquillo of the second movement (largo) releases the inner tension of the first. However, both movements share one joint foundation. The second movement is almost in its entirety a (slowed-down) repeat of a fast 41-bar 16th-note woodwind/saxophone passage of the first movement. ... This transfiguration is preceded by two new largo themes for piano and accompanying orchestra. The piano concludes the piece by establishing once more the D-Major theme of the first largo.\nThe work's two movements are divided into subsections (a, b, and c for the first movement and a and b for the ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2666e0ed-0642-4511-bd58-e56bfa0a4cff",
+   "titulo": "Blue Rondo",
+   "data": "1997",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/505e34e7-b2da-4d89-92a9-72e2d9d1997d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blue Rondo a la Turk",
+     "duracao": "7:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Première rhapsodie",
+     "duracao": "7:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Waltz for Debby",
+     "duracao": "8:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Clarinet Sonatina, H.42: I. Modere",
+     "duracao": "2:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Clarinet Sonatina, H.42: II. Lent et soutenu",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Clarinet Sonatina, H.42: III. Vif et rythmique",
+     "duracao": "1:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Minha Saudade (My Longing)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "3 Pieces for Solo Clarinet: No. 1. Sempre piano e molto tranquillo: quarter note = 52",
+     "duracao": "2:04"
+    },
+    {
+     "n": 9,
+     "titulo": "3 Pieces for Solo Clarinet: No. 2. quarter note = 168",
+     "duracao": "1:09"
+    },
+    {
+     "n": 10,
+     "titulo": "3 Pieces for Solo Clarinet: No. 3. quarter note = 160",
+     "duracao": "1:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Yardbird Suite",
+     "duracao": "4:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Clarinet Sonata, FP184: I. Allegro tristemente",
+     "duracao": "5:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Clarinet Sonata, FP184: II. Romanza: Tres calme",
+     "duracao": "5:59"
+    },
+    {
+     "n": 14,
+     "titulo": "Clarinet Sonata, FP184: III. Allegro con fuoco",
+     "duracao": "3:13"
+    },
+    {
+     "n": 15,
+     "titulo": "A Child Is Born",
+     "duracao": "5:44"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1453e0a8-543a-39b1-baf2-bd6954800182",
+   "titulo": "Tenderly: An Informal Session",
+   "data": "2001-07-10",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/c50da853-c9c3-47fa-82d2-31f3ea36d1bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tenderly",
+     "duracao": "6:46"
+    },
+    {
+     "n": 2,
+     "titulo": "I’ll Take Romance",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Laura",
+     "duracao": "7:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Blues #1",
+     "duracao": "5:12"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ll Know",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Like Someone in Love",
+     "duracao": "1:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Letters",
+     "duracao": "1:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Thou Swell",
+     "duracao": "1:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Airegin",
+     "duracao": "5:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Everything Happens to Me",
+     "duracao": "5:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Blues #2",
+     "duracao": "8:17"
+    },
+    {
+     "n": 12,
+     "titulo": "Stella by Starlight",
+     "duracao": "2:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Funkallero",
+     "duracao": "3:03"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tenderly%3A_An_Informal_Session",
+   "resumo_en": "Tenderly: An Informal Session is an album featuring some of the earliest recordings by jazz pianist Bill Evans with Don Elliott recorded at  Elliott's studio in 1956 and 1957 but not released until 2001 on the Milestone label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "feacc1dc-f660-3ce7-ae02-665f4f8d5c78",
+   "titulo": "Marian McPartland's Piano Jazz",
+   "data": "2002-08-27",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/b45c67aa-7269-49d6-909d-4a0d76f3472a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Waltz for Debby",
+     "duracao": "1:34"
+    },
+    {
+     "n": 2,
+     "titulo": "[interview]",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "All of You",
+     "duracao": "2:19"
+    },
+    {
+     "n": 4,
+     "titulo": "[interview]",
+     "duracao": "0:18"
+    },
+    {
+     "n": 5,
+     "titulo": "All of You",
+     "duracao": "0:39"
+    },
+    {
+     "n": 6,
+     "titulo": "[interview]",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "In Your Own Sweet Way",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "[interview], Demonstration: The Touch of Your Lips",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "The Touch of Your Lips",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "[interview]",
+     "duracao": "4:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Reflections in D",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "[interview]",
+     "duracao": "2:43"
+    },
+    {
+     "n": 13,
+     "titulo": "Days of Wine and Roses",
+     "duracao": "3:16"
+    },
+    {
+     "n": 14,
+     "titulo": "[interview]",
+     "duracao": "2:34"
+    },
+    {
+     "n": 15,
+     "titulo": "This Is All I Ask",
+     "duracao": "4:00"
+    },
+    {
+     "n": 16,
+     "titulo": "[interview]",
+     "duracao": "0:43"
+    },
+    {
+     "n": 17,
+     "titulo": "While We're Young",
+     "duracao": "4:27"
+    },
+    {
+     "n": 18,
+     "titulo": "[interview]",
+     "duracao": "1:03"
+    },
+    {
+     "n": 19,
+     "titulo": "I Love You",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d447abc0-2cbf-3386-8a67-b7846ce6af4b",
+   "titulo": "A Day in New York",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/82a70265-e5c7-469a-9ac8-9ccafd6f2b38/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Five",
+     "duracao": "7:46"
+    },
+    {
+     "n": 2,
+     "titulo": "She’s Different",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "The Lady Is a Tramp",
+     "duracao": "4:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Tenderly",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Blues for Three Horns",
+     "duracao": "6:12"
+    },
+    {
+     "n": 6,
+     "titulo": "I Remember You",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Lullaby of the Leaves",
+     "duracao": "8:56"
+    },
+    {
+     "n": 8,
+     "titulo": "A Shoulder to Cry On",
+     "duracao": "3:01"
+    },
+    {
+     "n": 9,
+     "titulo": "At Home With the Blues",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "There Will Never Be Another You",
+     "duracao": "4:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Portrait of Ravi",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Body and Soul",
+     "duracao": "4:49"
+    },
+    {
+     "n": 13,
+     "titulo": "I Can’t Get Started",
+     "duracao": "6:57"
+    },
+    {
+     "n": 14,
+     "titulo": "Gone With the Wind",
+     "duracao": "6:01"
+    },
+    {
+     "n": 15,
+     "titulo": "The Explorer",
+     "duracao": "6:30"
+    },
+    {
+     "n": 16,
+     "titulo": "If I’m Lucky",
+     "duracao": "3:04"
+    },
+    {
+     "n": 17,
+     "titulo": "The Chant",
+     "duracao": "3:37"
+    },
+    {
+     "n": 18,
+     "titulo": "Villa Jazz",
+     "duracao": "4:50"
+    },
+    {
+     "n": 19,
+     "titulo": "Zonk",
+     "duracao": "5:33"
+    },
+    {
+     "n": 20,
+     "titulo": "Blues for Five",
+     "duracao": "4:51"
+    },
+    {
+     "n": 21,
+     "titulo": "Third Moon",
+     "duracao": "7:39"
+    },
+    {
+     "n": 22,
+     "titulo": "For Pete’s Sake",
+     "duracao": "6:44"
+    },
+    {
+     "n": 23,
+     "titulo": "Just One of Those Things",
+     "duracao": "7:33"
+    },
+    {
+     "n": 24,
+     "titulo": "Franzy Pants",
+     "duracao": "7:22"
+    }
+   ],
+   "duracao_min": 129,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f3727fe5-8c62-4065-ad15-1218223aaf2b",
+   "titulo": "Nardis",
+   "data": "2003-03-26",
+   "ano": "2003",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "How My Heart Sings",
+     "duracao": "4:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Time to Remember",
+     "duracao": "5:20"
+    },
+    {
+     "n": 3,
+     "titulo": "12 Toned Tune",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Waltz for Debby",
+     "duracao": "4:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Nardis",
+     "duracao": "6:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Stella by Starlight",
+     "duracao": "4:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Someday My Prince Will Come",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Round Midnight",
+     "duracao": "7:23"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "816da1df-18a1-3be0-8ec0-736cdd5f5474",
+   "titulo": "What's New",
+   "data": "2003-04-23",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/4822f1e8-8b3c-4484-af82-fa5e11423fa7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Straight No Chaser",
+     "duracao": "5:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Lover Man",
+     "duracao": "6:23"
+    },
+    {
+     "n": 3,
+     "titulo": "What's New",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Autumn Leaves",
+     "duracao": "6:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Time Out for Chris",
+     "duracao": "7:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Spartacus Love Theme",
+     "duracao": "5:01"
+    },
+    {
+     "n": 7,
+     "titulo": "So What",
+     "duracao": "9:13"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/What%27s_New_%28Bill_Evans_album%29",
+   "resumo_en": "What's New is an album by jazz pianist Bill Evans with flautist Jeremy Steig which was released in 1969 on the Verve label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "796f179c-3f7b-4be1-abe7-64f3ec5254dc",
+   "titulo": "Play the Arrangements of Jimmy Giuffre",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/6e808e2c-0f76-4ca5-8771-80497fa5732e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Palo Alto",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "When Your Lover Has Gone",
+     "duracao": "5:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Cork 'n' Bib",
+     "duracao": "9:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Somp'm Outa' Nothin'",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Someone to Watch Over Me",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Uncharted",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Moonlight in Vermont",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "The Song Is You",
+     "duracao": "5:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Darn That Dream",
+     "duracao": "1:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Everything I've Got Belongs to You",
+     "duracao": "4:48"
+    },
+    {
+     "n": 11,
+     "titulo": "You Don't Know What Love Is",
+     "duracao": "4:19"
+    },
+    {
+     "n": 12,
+     "titulo": "I Didn't Know About You",
+     "duracao": "4:00"
+    },
+    {
+     "n": 13,
+     "titulo": "I'm Getting Sentimental Over You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 14,
+     "titulo": "You're Driving Me Crazy",
+     "duracao": "4:11"
+    },
+    {
+     "n": 15,
+     "titulo": "You're Clear Out of This World",
+     "duracao": "4:08"
+    },
+    {
+     "n": 16,
+     "titulo": "The More I See You",
+     "duracao": "3:39"
+    },
+    {
+     "n": 17,
+     "titulo": "You Are Too Beautiful",
+     "duracao": "4:12"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a4572ff4-a347-4308-9baf-bf2055990d4b",
+   "titulo": "Complete Quartet Recordings",
+   "data": "2005",
+   "ano": "2005",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Guys and Dolls",
+     "duracao": "6:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Adelaide",
+     "duracao": "8:30"
+    },
+    {
+     "n": 3,
+     "titulo": "If I Were a Bell",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Luck Be a Lady",
+     "duracao": "6:23"
+    },
+    {
+     "n": 5,
+     "titulo": "I've Never Been in Love Before",
+     "duracao": "7:01"
+    },
+    {
+     "n": 6,
+     "titulo": "I'll Know",
+     "duracao": "6:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Django",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "74c14087-81d9-312f-bcd9-f80ba854ba8a",
+   "titulo": "Theme From The V.I.P.s and Other Great Songs",
+   "data": "2008-03-18",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/3f2c48dc-56a2-4fd9-b994-f211e029d6ae/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Theme From \"Mr. Novak\"",
+     "duracao": "2:06"
+    },
+    {
+     "n": 2,
+     "titulo": "The Caretakers Theme",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "More",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Walk on the Wild Side",
+     "duracao": "2:36"
+    },
+    {
+     "n": 5,
+     "titulo": "The Days of Wine and Roses",
+     "duracao": "2:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Theme From \"The V.I.P.s\"",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Hollywood",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweet September",
+     "duracao": "2:18"
+    },
+    {
+     "n": 9,
+     "titulo": "On Green Dolphin Street",
+     "duracao": "2:45"
+    },
+    {
+     "n": 10,
+     "titulo": "The Man With the Golden Arm",
+     "duracao": "2:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Laura",
+     "duracao": "2:32"
+    },
+    {
+     "n": 12,
+     "titulo": "On Broadway",
+     "duracao": "2:33"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "35f8d4f6-b8a6-409e-99f9-646cca8b2f0b",
+   "titulo": "In a Sentimental Mood",
+   "data": "2014-04-04",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/40a70a20-ba18-4032-ba5d-3128db54d125/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "In a Sentimental Mood",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "What Is This Thing Called Love?",
+     "duracao": "5:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Lover Man (Oh, Where Can You Be?)",
+     "duracao": "5:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Danny Boy",
+     "duracao": "10:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Like Someone in Love",
+     "duracao": "6:27"
+    },
+    {
+     "n": 6,
+     "titulo": "In Your Own Sweet Way",
+     "duracao": "2:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Easy to Love",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Some Other Time",
+     "duracao": "6:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Who Cares?",
+     "duracao": "5:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Time Remembered",
+     "duracao": "5:35"
+    },
+    {
+     "n": 11,
+     "titulo": "Everything Happens to Me",
+     "duracao": "4:47"
+    },
+    {
+     "n": 12,
+     "titulo": "My Heart Stood Still",
+     "duracao": "4:34"
+    },
+    {
+     "n": 13,
+     "titulo": "How About You?",
+     "duracao": "2:50"
+    },
+    {
+     "n": 14,
+     "titulo": "A Sleepin' Bee",
+     "duracao": "4:10"
+    },
+    {
+     "n": 15,
+     "titulo": "Stella by Starlight",
+     "duracao": "4:53"
+    },
+    {
+     "n": 16,
+     "titulo": "Hey, There",
+     "duracao": "4:31"
+    },
+    {
+     "n": 17,
+     "titulo": "Blue Monk",
+     "duracao": "4:34"
+    },
+    {
+     "n": 18,
+     "titulo": "N.Y.C.'s No Lark",
+     "duracao": "5:37"
+    },
+    {
+     "n": 19,
+     "titulo": "Bemsha Swing",
+     "duracao": "2:57"
+    },
+    {
+     "n": 20,
+     "titulo": "Spartacus Love Theme",
+     "duracao": "5:11"
+    },
+    {
+     "n": 21,
+     "titulo": "How About You?",
+     "duracao": "4:06"
+    },
+    {
+     "n": 22,
+     "titulo": "'Round Midnight",
+     "duracao": "6:36"
+    },
+    {
+     "n": 23,
+     "titulo": "Just You, Just Me",
+     "duracao": "2:37"
+    }
+   ],
+   "duracao_min": 115,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "682bfa16-d2b1-4e1e-b7d6-74b245de3889",
+   "titulo": "Momentum Vol. 2",
+   "data": "2015-12-02",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/3f875a09-65ce-42f4-b509-6012754ea8c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Romance",
+     "duracao": "10:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Sugar Plum",
+     "duracao": "11:33"
+    },
+    {
+     "n": 3,
+     "titulo": "The Two Lonely People",
+     "duracao": "8:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Who Can I Turn to",
+     "duracao": "7:49"
+    },
+    {
+     "n": 5,
+     "titulo": "What Are You Doing the Rest of Your Life?",
+     "duracao": "5:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Nardis",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d288b4e9-6152-49d9-b968-c01a65af6c78",
+   "titulo": "Momentum Vol. 1",
+   "data": "2015-12-02",
+   "ano": "2015",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Re: Person I Knew",
+     "duracao": "7:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Elsa",
+     "duracao": "7:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn Out The Stars",
+     "duracao": "5:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Gloria's Step",
+     "duracao": "9:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Emily",
+     "duracao": "7:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Quiet Now",
+     "duracao": "5:38"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5bef5007-b566-4ad3-a744-2a46239af679",
+   "titulo": "Coffee and Cigarettes",
+   "data": "2023-05-20",
+   "ano": "2023",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Some Other Time",
+     "duracao": "5:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Lucky to Be Me",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Night and Day",
+     "duracao": "7:36"
+    },
+    {
+     "n": 4,
+     "titulo": "What Is There to Say",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Detour Ahead",
+     "duracao": "7:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Peace Piece",
+     "duracao": "6:42"
+    },
+    {
+     "n": 7,
+     "titulo": "I Wish I Knew",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Haunted Heart",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet and Lovely",
+     "duracao": "5:55"
+    },
+    {
+     "n": 10,
+     "titulo": "My Foolish Heart",
+     "duracao": "4:58"
+    },
+    {
+     "n": 11,
+     "titulo": "My Romance",
+     "duracao": "7:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Tenderly",
+     "duracao": "3:34"
+    },
+    {
+     "n": 13,
+     "titulo": "Waltz for Debby",
+     "duracao": "7:00"
+    },
+    {
+     "n": 14,
+     "titulo": "Young and Foolish",
+     "duracao": "5:54"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a95a210d-bbd5-4712-82d5-3d93a048664d",
+   "titulo": "Evans on Evans",
+   "data": "2024-10-24",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/e8f8e774-2f76-47d9-bfa4-0a95376ec8fd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Peri's Scope",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Re: Person I Knew",
+     "duracao": "4:31"
+    },
+    {
+     "n": 3,
+     "titulo": "For Nenette",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Very Early",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Turn Out The Stars",
+     "duracao": "5:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Five",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Time Remembered",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Waltz For Debby",
+     "duracao": "5:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Peace Piece",
+     "duracao": "5:38"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

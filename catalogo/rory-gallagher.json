@@ -1,0 +1,791 @@
+{
+ "id": "rory-gallagher",
+ "nome": "Rory Gallagher",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "933fdeae-ec68-48e9-a752-8bcfd44bc429",
+ "wikidata": "Q331922",
+ "tipo": "Person",
+ "pais": "IE",
+ "inicio": "1948",
+ "fim": "1995",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "rock",
+  "blues",
+  "hard rock",
+  "folk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rory_Gallagher_acoustic.jpg/500px-Rory_Gallagher_acoustic.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Rory_Gallagher",
+ "resumo_pt": "William Rory Gallagher (Ballyshannon, 2 de março de 1948 – Londres, 14 de junho de 1995) foi um multi-instrumentista, compositor e produtor de rock e blues irlandês.",
+ "resumo_en": "William Rory Gallagher ( GAL-ə-hər; 2 March 1948 – 14 June 1995) was an Irish musician, singer, and songwriter. Regarded as \"Ireland's first rock star\",  he is known for his virtuosic style of guitar playing and live performances. He has sometimes been referred to as \"the greatest guitarist you've never heard of\".\nGallagher gained international recognition in the late 1960s as the frontman and lead guitarist of the blues rock power trio Taste. Following the band's break-up in 1970, he launched a solo career and was voted Guitarist of the Year by Melody Maker magazine in 1972. Gallagher played over 2,000 concerts worldwide throughout his career, including many in Northern Ireland during the Troubles. He had global record sales exceeding 30 million.\nDuring the 1980s, Gallagher continued to tour and record new music, but his popularity declined due to shifting trends in the music industry. His health also began to deteriorate, resulting in a liver transplant in March 1995 at King's College Hospital in London. Following the operation, he contracted a staphylococcal infection (MRSA) and died three months later at the age of 47.\nGallagher has been commemorated posthumously with statues in Ballyshannon and Belfast, and public spaces renamed in his memory in Dublin, Cork, and Paris. He has been commemorated on an An Post set of postage stamps and a Central Bank of Ireland commemorative coin. Since 2002, the Rory Gallagher International Tribute Festival has been held annually in Bally",
+ "albuns": [
+  {
+   "id": "4cc2fc96-c8ec-369d-8db9-b51fa44529f9",
+   "titulo": "Rory Gallagher",
+   "data": "1971-05-23",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/9b44ed69-04f9-4b7e-8e93-a7a2fc261922/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Laundromat",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Just the Smile",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "I Fall Apart",
+     "duracao": "5:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Wave Myself Goodbye",
+     "duracao": "3:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Hands Up",
+     "duracao": "5:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Sinner Boy",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "For the Last Time",
+     "duracao": "6:34"
+    },
+    {
+     "n": 8,
+     "titulo": "It’s You",
+     "duracao": "2:39"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Not Surprised",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Can’t Believe It’s True",
+     "duracao": "7:17"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rory_Gallagher_%28album%29",
+   "resumo_en": "Rory Gallagher is the debut solo album by Irish blues rock musician Rory Gallagher, released in 1971. It marked his departure from the first band he formed, Taste. After disbanding Taste, Gallagher auditioned some of the best musicians available at the time. Noel Redding and Mitch Mitchell, the bassist and drummer for the Jimi Hendrix Experience, were among those considered for the new combo.  He decided on two Belfast musicians, drummer Wilgar Campbell and bass guitarist Gerry McAvoy, to be the core of his new power trio band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a3ad04c2-d906-374b-a080-2a632482572c",
+   "titulo": "Deuce",
+   "data": "1971-11-28",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/df7f378f-e027-432d-8a84-a7e7508f75f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Used to Be",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Not Awake Yet",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Know Where I’m Going",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Maybe I Will",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Whole Lot of People",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "In Your Town",
+     "duracao": "5:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Should’ve Learnt My Lesson",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "There’s a Light",
+     "duracao": "5:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Out of My Mind",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Crest of a Wave",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Deuce_%28Rory_Gallagher_album%29",
+   "resumo_en": "Deuce is the second solo album by Rory Gallagher, released in 1971. In contrast with his previous album, Rory Gallagher, where Gallagher tried for a precise, organized sound, Deuce was his first of many attempts to capture the energy of a live performance in the studio.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "99802cfc-8ba3-3047-9a02-a69345dfbb52",
+   "titulo": "Blueprint",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/13b77d20-ac3b-4a81-ba88-253d0cdc7963/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Walk on Hot Coals",
+     "duracao": "7:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Daughter of the Everglades",
+     "duracao": "6:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Banker’s Blues",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Hands Off",
+     "duracao": "4:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Race the Breeze",
+     "duracao": "6:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Seventh Son of a Seventh Son",
+     "duracao": "8:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Unmilitary Two‐Step",
+     "duracao": "2:49"
+    },
+    {
+     "n": 8,
+     "titulo": "If I Had a Reason",
+     "duracao": "4:30"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blueprint_%28Rory_Gallagher_album%29",
+   "resumo_en": "Blueprint is the third studio album and fourth album overall by Irish guitarist Rory Gallagher, released as a vinyl record in 1973. It entered the UK album charts on 24 February, and reached No. 12. With his first band Taste and with his solo band up to this point Gallagher was one of the first guitarists to lead a power trio lineup.  With Blueprint Gallagher included a keyboardist for the first time.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a44b1687-4787-36ca-b34e-71ce4dce2cc1",
+   "titulo": "Tattoo",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/8d3f7280-e20a-4d57-882c-f3f31d1fb012/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tattoo’d Lady",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Cradle Rock",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "20:20 Vision",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "They Don’t Make Them Like You Anymore",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Livin’ Like a Trucker",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Sleep on a Clothes‐Line",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Who’s That Coming",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "A Million Miles Away",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Admit It",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tattoo_%28Rory_Gallagher_album%29",
+   "resumo_en": "Tattoo is the fourth studio album and fifth album overall released by Rory Gallagher, in 1973.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e5e6adaf-eed2-3339-8019-bdbd24be1474",
+   "titulo": "Against the Grain",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/2619c509-c3fb-4665-b8bd-9b66a5cb8726/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let Me In",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Cross Me off Your List",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Ain’t Too Good",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Souped‐Up Ford",
+     "duracao": "6:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Bought and Sold",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "I Take What I Want",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Lost at Sea",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "All Around Man",
+     "duracao": "6:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Out on the Western Plain",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "At the Bottom",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Against_the_Grain_%28Rory_Gallagher_album%29",
+   "resumo_en": "Against the Grain is the fifth studio album and seventh album overall by Irish musician Rory Gallagher, released in 1975. It was his first album with his new record company Chrysalis. Having previously only released one cover version on a studio album, \"Against The Grain\" includes two, one by Leadbelly and one from the Porter/Hayes songwriting team. The album received very favourable reviews.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3a822c2a-924f-3f9a-ba29-f1f02d3c971b",
+   "titulo": "Calling Card",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/0ba52257-077f-41ac-aa34-0294d5eccaa9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do You Read Me",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Country Mile",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Moonchild",
+     "duracao": "4:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Calling Card",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "I’ll Admit You’re Gone",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Secret Agent",
+     "duracao": "5:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Jackknife Beat",
+     "duracao": "7:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Edged in Blue",
+     "duracao": "5:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Barley and Grape Rag",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Calling_Card",
+   "resumo_en": "Calling Card is the sixth studio album and eighth album overall by Irish singer and guitarist Rory Gallagher. Released in 1976, it marked the second of four albums he released on Chrysalis Records during the 1970s. The album was co-produced by Gallagher and Roger Glover, the bassist for Deep Purple and Rainbow. This collaboration was notable as it was Gallagher's first experience working with a high profile producer and remains his only successful partnership of such collaboration.\nCalling Card also marked the end of an era for Gallagher's band, as it was the last album to feature Rod de'Ath on (drums) and Lou Martin on (keyboards). Following the Calling Card tour (1976-1977), Gallagher restructured his line up, retaining only his long-time bass guitarist Gerry McAvoy. He hired Ted McKenna as the new drummer, forming a revised power trio that became his core group from early 1978 until 1980.",
+   "spotify": "2ERwoelRrN2Nj3vhBNd5U6",
+   "youtube": null
+  },
+  {
+   "id": "50404a29-97ac-3ce1-a1de-5045c06f45c8",
+   "titulo": "Photo‐Finish",
+   "data": "1978-10",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/27c15e70-560b-370d-a7f1-95682ce538cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shin Kicker",
+     "duracao": "4:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Brute Force & Ignorance",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Cruise on Out",
+     "duracao": "4:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Cloak & Dagger",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Overnight Bag",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadow Play",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "The Mississippi Sheiks",
+     "duracao": "6:01"
+    },
+    {
+     "n": 8,
+     "titulo": "The Last of the Independents",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Fuel to the Fire",
+     "duracao": "6:21"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Photo-Finish",
+   "resumo_en": "Photo-Finish is the seventh studio album and ninth album overall by Irish musician Rory Gallagher, released in 1978. It marked a turning point in Gallagher's career. Most of the songs on Photo-Finish were initially recorded on what was to be an earlier album, but Gallagher was unhappy with the recordings. He fired the drummer and keyboardist from his current band and replaced only the drummer, changing the band to a power trio as his original bands had been.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8ce7000d-2dcd-3fa5-85a7-bbd556b59d43",
+   "titulo": "Top Priority",
+   "data": "1979-08-14",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/2cfa7455-2c15-4f38-ba37-74c16781f8f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Follow Me",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Philby",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Wayward Child",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Keychain",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "At the Depot",
+     "duracao": "2:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Bad Penny",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Just Hit Town",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Off the Handle",
+     "duracao": "5:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Public Enemy No. 1",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Top_Priority",
+   "resumo_en": "Top Priority is Rory Gallagher's eighth studio album and tenth album overall. It was his fourth and final studio album for Chrysalis Records both in the UK and USA. The album was the second with his revised power trio band. Like the previous album Photo-Finish, Top Priority is a return to hard rock. The ballads, acoustic and folk influences that were seen on albums such as Calling Card are replaced by more conventional but powerful blues rock.\nThe album title reflects the pressure that Gallagher often felt regarding the business end of making music. After the release of Photo-Finish Gallagher's band had a successful tour of the United States that resulted in good press both in the states and at home. Chrysalis was eager to keep the momentum going and encouraged Rory to release another studio album quickly, telling him they would make it their \"Top Priority\" and actively promote it.  To remind the executives of their promise Gallagher used the phrase for the album title.\nThe song \"Philby\" was based on Kim Philby who was a famous Cold War British double agent for the Soviets. The song is an example of Gallagher's fascination with men on the outside of society. For the guitar solo Gal",
+   "spotify": "2Gy1OXRuo5R9T08krf4oiw",
+   "youtube": null
+  },
+  {
+   "id": "f2695e61-591e-33e7-b705-bcc1cd4e9c64",
+   "titulo": "Jinx",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/c533308e-f141-4522-95f7-746c406a3275/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Signals",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "The Devil Made Me Do It",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Double Vision",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Easy Come, Easy Go",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Guns",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Jinxed",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Bourbon",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Ride on Red, Ride On",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Loose Talk",
+     "duracao": "3:50"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jinx_%28Rory_Gallagher_album%29",
+   "resumo_en": "Jinx is the twelfth album and the ninth studio album by the Irish musician Rory Gallagher. It was his final album for Chrysalis Records; the remainder of his work would be issued on independent labels. It was his last studio album for five years.\nIn 2000 it was remastered with different track order and bonus tracks. The length of some songs is also different from the LP.",
+   "spotify": "4YwUivPLoADbuKLO4y2uqW",
+   "youtube": null
+  },
+  {
+   "id": "496f533b-6311-3f50-98cf-2b2a69a53887",
+   "titulo": "Defender",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/6e1bd2a9-33ef-3a48-a6f7-4c01fc0d1512/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kickback City",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Loanshark Blues",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Continental Op",
+     "duracao": "4:34"
+    },
+    {
+     "n": 4,
+     "titulo": "I Ain't No Saint",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Failsafe Day",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Road to Hell",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Doing Time",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Smear Campaign",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Start Me to Talkin'",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Seven Days",
+     "duracao": "5:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Seems to Me",
+     "duracao": "4:54"
+    },
+    {
+     "n": 12,
+     "titulo": "No Peace for the Wicked",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Defender_%28album%29",
+   "resumo_en": "Defender is the thirteenth album and tenth studio album by Irish musician Rory Gallagher. Coming after a five-year hiatus from the recording studio, it was his first album released on the Capo label.\nThe song \"Continental Op\" was inspired by the nameless fictional detective created by Dashiell Hammett, and was dedicated to Hammett.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "96dc33d0-5641-3e0b-bd31-1ffb15feda61",
+   "titulo": "Fresh Evidence",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/a0525b3a-2616-4c92-bbb6-9835b4371017/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kid Gloves",
+     "duracao": "5:40"
+    },
+    {
+     "n": 2,
+     "titulo": "The King of Zydeco",
+     "duracao": "3:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Middle Name",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Alexis",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Empire State Express",
+     "duracao": "5:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Ghost Blues",
+     "duracao": "8:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Heaven’s Gate",
+     "duracao": "5:09"
+    },
+    {
+     "n": 8,
+     "titulo": "The Loop",
+     "duracao": "2:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Walkin’ Wounded",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Slumming Angel",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Never Asked You for Nothin’",
+     "duracao": "4:29"
+    },
+    {
+     "n": 12,
+     "titulo": "Bowed Not Broken",
+     "duracao": "3:26"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fresh_Evidence",
+   "resumo_en": "Fresh Evidence is Rory Gallagher's eleventh and last studio album, his fourteenth album overall. The album was unusual in that Gallagher used more additional musicians and spent more time recording than he normally did. Not as unusual, the songs show his love for blues artists such as Robert Johnson and Son House and for other genres such as Zydeco as well. The album is influenced by his deteriorating health, and explores themes of ill health, mortality, and fighting back against overwhelming odds.",
+   "spotify": "2BGmgSOZOolKFSZ6gG8tEJ",
+   "youtube": null
+  }
+ ]
+}

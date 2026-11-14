@@ -1,0 +1,1163 @@
+{
+ "id": "beth-hart",
+ "nome": "Beth Hart",
+ "cena": "Blues rock: a turma do Rory Gallagher",
+ "mbid": "3fe817fc-966e-4ece-b00a-76be43e7e73c",
+ "wikidata": "Q204804",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1972",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "soul",
+  "blues",
+  "electric blues",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Beth_Hart_Band_at_The_Blockley168_1_%285496952713%29.jpg/500px-Beth_Hart_Band_at_The_Blockley168_1_%285496952713%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Beth_Hart",
+ "resumo_pt": "Beth Hart (Los Angeles, 24 de janeiro de 1972) é uma cantora, compositora e multi-instrumentista estadunidense.\nEla tornou-se famosa após sua canção “LA Song (Out of This Town)”, tornar-se trilha-sonora de um episódio da 10ª temporada do seriado “Beverly Hills, 90210”.\nSeus estilos de músicas são rock'n roll, Blues rock, jazz fusion,e soul.",
+ "resumo_en": "Beth Hart (born January 24, 1972) is an American musician from Los Angeles, California. She rose to fame with the release of her 1999 single \"L.A. Song (Out of This Town)\" from her second album Screamin' for My Supper. The single was a number one hit in New Zealand, as well as reaching the top five of the US Adult Contemporary and Top 10 on the Billboard Adult Top 40 charts.\nHart has had several well received collaborations with guitarist Joe Bonamassa, beginning with Don't Explain (2011), followed with the Grammy-nominated Seesaw (2013) and Live in Amsterdam (2014). Live in Amsterdam topped the Billboard Blues Album Chart, a chart that she has reached six times. Her latest work with Bonamassa was the 2018 album Black Coffee. Hart has had two number one singles in Denmark, \"As Good as It Gets\" and \"Learning to Live\", and a double platinum-selling album, Leave the Light On.",
+ "albuns": [
+  {
+   "id": "044b5dea-107a-33bf-a809-c70dbe9aaed2",
+   "titulo": "Screamin’ for My Supper",
+   "data": "1999-08-03",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/6b7bf3bf-c83e-4e78-b69e-5f4db8e42c92/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just a Little Hole",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Delicious Surprise",
+     "duracao": "3:48"
+    },
+    {
+     "n": 3,
+     "titulo": "L.A. Song (Out of This Town)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Is That Too Much to Ask",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "By Her",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Get Your Shit Together",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Stay",
+     "duracao": "4:49"
+    },
+    {
+     "n": 8,
+     "titulo": "G.O.P.",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Skin",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Girls Say",
+     "duracao": "3:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Sky Is Falling",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Mama",
+     "duracao": "4:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Favorite Things",
+     "duracao": "3:33"
+    },
+    {
+     "n": 14,
+     "titulo": "House of Sin",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Screamin%27_for_My_Supper",
+   "resumo_en": "Screamin' for My Supper is the second studio album by American singer/songwriter Beth Hart. It was released on August 3, 1999, by Atlantic Records. The album features her most notable single to date, \"L.A. Song (Out of This Town)\", which was a number-one hit in New Zealand and a Top 5 hit on the US Adult Contemporary Singles Chart. The album peaked at number 143 on the Billboard albums chart in the US; and number 22 on the RIANZ albums chart in New Zealand. \"Delicious Surprise\" was later recorded by Jo Dee Messina on her 2005 album of the same name, from which it was released as a single.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "333cb793-337e-376f-bff8-6f54fe9905ea",
+   "titulo": "Leave the Light On",
+   "data": "2003-10-21",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/6de7db42-01fd-49e8-9bb1-b8b2c40c6002/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lifts You Up",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Leave the Light On",
+     "duracao": "4:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Bottle of Jesus",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "World Without You",
+     "duracao": "4:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Lay Your Hands on Me",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Broken Ugly",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Lifetime",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "If God Only Knew",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Monkey Back",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Sky Full of Clover",
+     "duracao": "4:03"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ll Stay With You",
+     "duracao": "3:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Is That Too Much to Ask",
+     "duracao": "3:16"
+    },
+    {
+     "n": 13,
+     "titulo": "And So We Are",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Leave_the_Light_On_%28Beth_Hart_album%29",
+   "resumo_en": "Leave the Light On is an album by Beth Hart. Several versions of this album exist, ranging from the very original release in New Zealand in the spring of 2003 (on Warner Music NZ), the standard international version released worldwide later in the fall of 2003 (on Koch Records), then several specialized reissues in various European markets over the following few years. The German release (on Universal Music GmbH) contains entirely new recordings of three previously released songs, as well as three newer songs that would later be re-recorded for her next studio album 37 Days.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4d6c47c6-c228-346b-bdee-f1df790de523",
+   "titulo": "37 Days",
+   "data": "2007-07-30",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/244692c7-0538-4402-87cb-5b1a9bbcfac3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Good as It Gets",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Jealousy",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "One-Eyed Chicken",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Over You",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Sick",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Face Forward",
+     "duracao": "2:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Soulshine",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Forever Young",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Easy",
+     "duracao": "6:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Heaven Look Down",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Missing You",
+     "duracao": "4:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Waterfalls",
+     "duracao": "3:53"
+    },
+    {
+     "n": 13,
+     "titulo": "Crashing Down",
+     "duracao": "6:19"
+    },
+    {
+     "n": 14,
+     "titulo": "At the Bottom",
+     "duracao": "4:53"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/37_Days_%28album%29",
+   "resumo_en": "37 Days is an album by American singer Beth Hart released in parts of Europe in 2007, followed in the UK in 2008. A DVD version of the album is also available, where each track is played to synced pro-shot video footage of that given song being recorded in studio. The UK version of the CD release contains live bonus tracks of \"LA Song,\" \"Learning to Live,\" and \"Leave the Light On\" tacked on at the end of the disc. The track \"Soul Shine\" is a cover of the song \"Soulshine\", originally written by Allman Brothers guitarist Warren Haynes.\nThe album name, 37 Days, refers to how long it took to record the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f6271b61-4abc-4afd-bae0-5bc1e923596c",
+   "titulo": "Beth Hart & The Ocean of Souls",
+   "data": "2009-04-20",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/f503b4c2-e048-413d-aa72-287cf2c2d739/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Halfway to Heaven",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Just Call Me Up",
+     "duracao": "3:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Can’t Hear the Word",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Get Over It",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Suffers All",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "I Felt Him Cry",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Lucy in the Sky With Diamonds",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Am I the One",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "It’s Too Late",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Show Me the Way",
+     "duracao": "4:50"
+    },
+    {
+     "n": 11,
+     "titulo": "Love Thing",
+     "duracao": "3:49"
+    },
+    {
+     "n": 12,
+     "titulo": "On With the Show",
+     "duracao": "4:11"
+    },
+    {
+     "n": 13,
+     "titulo": "Keep on Goin’",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "878d6ce5-7327-430c-8311-9e88d4e0ccd1",
+   "titulo": "My California",
+   "data": "2010-10-04",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/37d67216-82b4-4572-baf3-bb0cc02dd44f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My California",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Life Is Calling",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Happiness... Any Day Now",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Is the Hardest",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Love Is Good Enough",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Drive",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Sister Heroine",
+     "duracao": "4:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Take It Easy on Me",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Like You (And Everyone Else)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Everybody Is Sober",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Weight of the World",
+     "duracao": "4:50"
+    },
+    {
+     "n": 12,
+     "titulo": "Oh Me Oh My",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 9.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_California",
+   "resumo_en": "My California is the fifth studio album by Beth Hart, released in 2010. Hart worked with Danish producer Rune Westberg, who had already worked on Beth's previous albums 37 Days and Leave the Light On. Westberg challenged Hart not to \"scream with animal savagery\", not to rely on the power of her voice but rather on the power of emotions. This makes My California a unique album in Hart's discography, with a constancy throughout the tracks that the fans were not used to with the previous albums.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e00305af-1c72-469b-9a7c-6dc665ca9adc",
+   "titulo": "Don’t Explain",
+   "data": "2011-09-26",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/0b2d51df-a6c2-4e00-8374-62307ead9bb2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sinner’s Prayer",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Chocolate Jesus",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Your Heart Is as Black as Night",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "For My Friends",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Explain",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "I’d Rather Go Blind",
+     "duracao": "8:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Something’s Got a Hold on Me",
+     "duracao": "6:05"
+    },
+    {
+     "n": 8,
+     "titulo": "I’ll Take Care of You",
+     "duracao": "5:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Well, Well",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Ain’t No Way",
+     "duracao": "6:50"
+    },
+    {
+     "n": 11,
+     "titulo": "I’ll Take Care of You",
+     "duracao": "3:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Chocolate Jesus",
+     "duracao": "2:22"
+    },
+    {
+     "n": 13,
+     "titulo": "L.A. Song",
+     "duracao": "4:19"
+    },
+    {
+     "n": 14,
+     "titulo": "At the Bottom",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Don%27t_Explain_%28Beth_Hart_and_Joe_Bonamassa_album%29",
+   "resumo_en": "Don't Explain is a 2011 cover album recorded by American singer Beth Hart and blues rock guitarist Joe Bonamassa.",
+   "spotify": "01wNKNEpY0svUkPYOlKmzs",
+   "youtube": null
+  },
+  {
+   "id": "04216ce4-4f2b-4aea-bd46-bba545abefe5",
+   "titulo": "Bang Bang Boom Boom",
+   "data": "2012-10-05",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/9e62293b-ddf3-4f8e-b5d6-b9b1af7975b2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Baddest Blues",
+     "duracao": "4:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Bang Bang Boom Boom",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Better Man",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Caught Out in the Rain",
+     "duracao": "7:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Thru the Window of My Mind",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "With You Everyday",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Spirit of God",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Swing My Thing Back Around",
+     "duracao": "4:52"
+    },
+    {
+     "n": 9,
+     "titulo": "There in Your Heart",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "The Ugliest House on Our Block",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Everything Must Change",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bang_Bang_Boom_Boom",
+   "resumo_en": "Bang Bang Boom Boom is the sixth studio album by American singer-songwriter Beth Hart, released on October 5, 2012 by Provogue/Mascot Label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1774e056-5890-43e2-9ecf-f89da06c1f1c",
+   "titulo": "Seesaw",
+   "data": "2013-05-16",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/9db73675-4f8c-4ddc-b283-6b903e67056a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Them There Eyes",
+     "duracao": "2:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Close to My Fire",
+     "duracao": "5:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Nutbush City Limits",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "I Love You More Than You’ll Ever Know",
+     "duracao": "7:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Can’t Let Go",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Miss Lady",
+     "duracao": "4:56"
+    },
+    {
+     "n": 7,
+     "titulo": "If I Tell You I Love You",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Rhymes",
+     "duracao": "5:05"
+    },
+    {
+     "n": 9,
+     "titulo": "A Sunday Kind of Love",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "See Saw",
+     "duracao": "3:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Strange Fruit",
+     "duracao": "5:47"
+    },
+    {
+     "n": 12,
+     "titulo": "The Making of Seesaw",
+     "duracao": "48:25"
+    },
+    {
+     "n": 13,
+     "titulo": "Nutbush City Limits",
+     "duracao": "3:34"
+    },
+    {
+     "n": 14,
+     "titulo": "Rhymes",
+     "duracao": "5:00"
+    },
+    {
+     "n": 15,
+     "titulo": "Strange Fruit",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 112,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Seesaw_%28album%29",
+   "resumo_en": "Seesaw is a cover album of soul and blues classics recorded by American singer Beth Hart and blues rock guitarist Joe Bonamassa in 2013. It follows up on the success of their initial collaboration for the Don't Explain cover album in 2011. Seesaw was nominated for a Grammy Award for Best Blues Album of 2013.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2a9854b6-7e92-48f6-815a-2b68071be51b",
+   "titulo": "Better Than Home",
+   "data": "2015-04-10",
+   "ano": "2015",
+   "capa": "https://coverartarchive.org/release/d2622da2-1a5f-4cf6-a48a-3b1b9006b8f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Might as Well Smile",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Tell ’em to Hold On",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Her You Belong to Me",
+     "duracao": "5:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Trouble",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Better Than Home",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "St. Teresa",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "We’re Still Living in the City",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "The Mood That I’m In",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Mechanical Heart",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "As Long as I Have a Song",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Better_Than_Home",
+   "resumo_en": "Better Than Home is the seventh solo studio album by American singer-songwriter Beth Hart. Hart's husband and her manager convinced her to work with the production team of Rob Mathes and Michael Stevens, whom she had met when she performed at the Kennedy Center Honors in 2012. Hart had worked with Kevin Shirley for her last three albums, but she was persuaded to try a different team and go a different direction. The production team challenged Hart to leave behind the darker themes and to \"write more about my joy and what I believe in and what my love is.\" Hart was pushed to write songs that came from a different source, from when she was happy or having a good time. One song on the album, \"Tell Her You Belong to Me\", took her a year and a half to write.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3110d645-490d-40b8-8464-2c42355ff6eb",
+   "titulo": "Fire on the Floor",
+   "data": "2016-10-14",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/1dd0f522-f6a0-4bdc-a168-e09d4a49a140/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jazz Man",
+     "duracao": "3:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Gangster",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Coca Cola",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Let’s Get Together",
+     "duracao": "3:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Is a Lie",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Fat Man",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Fire on the Floor",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Woman You’ve Been Dreaming Of",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby Shot Me Down",
+     "duracao": "3:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Good Day to Cry",
+     "duracao": "4:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Picture in a Frame",
+     "duracao": "4:39"
+    },
+    {
+     "n": 12,
+     "titulo": "No Place Like Home",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 5
+   },
+   "publico": 9.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fire_on_the_Floor",
+   "resumo_en": "Fire on the Floor is the eighth solo studio album by American singer-songwriter Beth Hart. It was released on October 14, 2016 in Europe, Australia, and New Zealand—and on February 3, 2017 in the rest of the world.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "406aebd4-c604-4009-9680-757e05295bbb",
+   "titulo": "Black Coffee",
+   "data": "2018-01-26",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/5eae0c76-8218-4264-8b4d-25762e989164/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Give It Everything You Got",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Damn Your Eyes",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Coffee",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Lullaby of the Leaves",
+     "duracao": "5:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Why Don’t You Do Right",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Saved",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Sitting on Top of the World",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Joy",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Soul on Fire",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Addicted",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Rain or Come Shine",
+     "duracao": "5:05"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Black_Coffee_%28Beth_Hart_and_Joe_Bonamassa_album%29",
+   "resumo_en": "Black Coffee is the third cover album recorded by American singer Beth Hart and blues rock guitarist Joe Bonamassa, released on January 26, 2018 on J&R Adventures and Mascot Label Group. It follows their 2013 cover album together titled Seesaw.",
+   "spotify": null,
+   "youtube": "OLAK5uy_k8gyk0k7KpV7Dtm6dJks6Cqgu6jvgJaDo"
+  },
+  {
+   "id": "c73a29eb-2afa-4bdf-9f11-2eaae734699f",
+   "titulo": "War in My Mind",
+   "data": "2019-09-27",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/620b0c53-e20e-4958-8ec0-590582cad2fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bad Woman Blues",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "War in My Mind",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Without Words in the Way",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Let It Grow",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Try a Little Harder",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Sister Dear",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Spanish Lullabies",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Rub Me for Luck",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Sugar Shack",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Woman Down",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Thankful",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "I Need a Hero",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.2,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/War_in_My_Mind",
+   "resumo_en": "War in My Mind is the ninth solo studio album by American singer-songwriter Beth Hart, released on September 27, 2019. The album was produced by Rob Cavallo. Hart was slated tour the UK and Europe in support of the album in 2020, but had to cancel a large fraction due to the COVID-19 pandemic.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d1d728b5-e00c-4258-8279-c6011a64d2f6",
+   "titulo": "A Tribute to Led Zeppelin",
+   "data": "2022-02-25",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/23a705c7-497a-4081-8d95-784898649a8f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Whole Lotta Love",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Kashmir",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Stairway to Heaven",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Crunge",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Dancing Days / When the Levee Breaks",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Black Dog",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "No Quarter / Babe I’m Gonna Leave You",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Good Times Bad Times",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "The Rain Song",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Tribute_to_Led_Zeppelin",
+   "resumo_en": "A Tribute to Led Zeppelin is a cover album and the tenth solo studio album by American singer-songwriter Beth Hart, released on February 25, 2022, through Provogue Records and Mascot Label Group. It was produced by Rob Cavallo and features string arrangements from David Campbell. The album debuted at number one in the UK (Rock & Metal Albums) and in the  Netherlands (Album Top 100).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "85ee4462-2156-4822-bd89-d892688e9ed2",
+   "titulo": "You Still Got Me",
+   "data": "2024-10-25",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/1809522d-773f-4728-957e-cc5e0913f203/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Savior With a Razor",
+     "duracao": "4:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Suga n My Bowl",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Never Underestimate a Gal",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Drunk on Valentine",
+     "duracao": "5:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Wanna Be Big Bad Johnny Cash",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Wonderful World",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Little Heartbreak Girl",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Call the Police",
+     "duracao": "6:30"
+    },
+    {
+     "n": 9,
+     "titulo": "You Still Got Me",
+     "duracao": "6:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Pimp Like That",
+     "duracao": "4:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Machine Gun Vibrato",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/You_Still_Got_Me_%28Beth_Hart_album%29",
+   "resumo_en": "You Still Got Me is the eleventh solo studio album by American singer-songwriter Beth Hart. It was released on October 25, 2024, through Provogue Records and Mascot Label Group. It marks her first studio release of original material in five years, following War in My Mind (2019). Produced by Kevin Shirley, it features contributions from Slash and Eric Gales.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,928 @@
+{
+ "id": "focus",
+ "nome": "Focus",
+ "cena": "Progressivo e psicodelia: a turma do Pink Floyd",
+ "mbid": "821e11d6-cfec-44a7-9615-06a4e631c975",
+ "wikidata": "Q288918",
+ "tipo": "Group",
+ "pais": "NL",
+ "inicio": "1969",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "progressive rock",
+  "symphonic prog",
+  "jazz fusion",
+  "art rock",
+  "classic rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/2/25/Focus_-_TopPop_1974_6.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Focus_%28banda%29",
+ "resumo_pt": "Focus é uma banda de rock progressivo holandesa fundada em 1969 pelo organista e flautista Thijs van Leer, sendo hoje considerada como uma das maiores e mais importantes desse estilo musical. Suas extensas e quase exclusivas composições instrumentais e improvisações continham várias referências à música erudita. Um exemplo é a referência à ópera de Monteverdi na canção \"Eruption\", do álbum Moving Waves. Outra demonstração está na referência a Johann Sebastian Bach em \"Carnival Fugue\", do álbum Focus 3, ou ainda das referências ao Renascimento de \"Anonymus II\", do mesmo álbum.",
+ "resumo_en": "Focus is a Dutch progressive rock band formed in Amsterdam in 1969 by keyboardist, vocalist, and flautist Thijs van Leer, drummer Hans Cleuver, bassist Martijn Dresden, and guitarist Jan Akkerman. The band has undergone numerous formations in its history; since December 2016, it has comprised Van Leer, drummer Pierre van der Linden, guitarist Menno Gootjes, and bassist Udo Pannekeet. They have sold one million RIAA-certified albums in the United States.\nAfter the addition of Akkerman to Van Leer's rock trio in late 1969, the band named themselves Focus and initially worked for a Dutch production of the rock musical Hair. Their debut album, Focus Plays Focus (1970), gained little attention but the follow-up, Moving Waves (1971), and its lead single \"Hocus Pocus\", earned the band international recognition. Their success continued with Focus 3 (1972) and Hamburger Concerto (1974), the former containing their second hit single, \"Sylvia\". After recording two albums with various musicians, including guitarist Phillip Catherine, singer P. J. Proby, and drummers Colin Allen, David Kemper, and Steve Smith, Focus dissolved in 1978. They briefly reunited in 1990 and 1997.\nIn 2002, Van Leer reformed Focus with a new line-up that saw Van der Linden rejoining the group in 2004. The albums Focus 8 (2002), Focus 9 / New Skin (2006), and Focus X (2012) were well received, and Focus continue to perform worldwide. Their most recent album is Focus 12 (2024). Focus remain one of the most successf",
+ "albuns": [
+  {
+   "id": "7fc3c2ac-ef9f-3b95-9e18-ae407ea12f2a",
+   "titulo": "In and Out of Focus",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/7daae22d-9d21-4daf-8f5e-64a3616ef3b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Focus (instrumental)",
+     "duracao": "9:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Why Dream?",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Happy Nightmare (Mescaline)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Anonymus",
+     "duracao": "7:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Beauty",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Sugar Island",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Focus (vocal)",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/In_and_Out_of_Focus",
+   "resumo_en": "Focus Plays Focus is the first studio album by Dutch rock band Focus, released in September 1970 on Imperial Records. It is the only album recorded by the group's original line-up consisting of organist and vocalist Thijs van Leer, bassist Martijn Dresden, drummer Hans Cleuver, and guitarist Jan Akkerman. It was renamed In and Out of Focus for the international version of the album released in January 1971 which included their debut single \"House of the King\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1a76a454-a72e-3397-b6fb-fc351df00472",
+   "titulo": "Focus II",
+   "data": "1971-10",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/6f01cc8b-ff93-4416-ae70-b22ee3030a29/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hocus Pocus",
+     "duracao": "6:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Le Clochard (“Bread”)",
+     "duracao": "1:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Janis",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Moving Waves",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Focus II",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Eruption",
+     "duracao": "22:35"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Moving_Waves",
+   "resumo_en": "Focus II (better known by its international title, Moving Waves) is the second studio album by Dutch progressive rock band Focus, released in October 1971 on Imperial Records. Following the departure of original bassist Martin Dresden and drummer Hans Cleuver in 1970, the band recruited Cyril Havermans and Pierre van der Linden, respectively, and prepared material for a new album. Recording took place in London in April and May 1971 with Mike Vernon as producer. The album features \"Hocus Pocus\", a hard rock song featuring keyboardist Thijs van Leer's yodelling, scat singing, and whistling, and \"Eruption\", a 22-minute track inspired by the opera Euridice by Italian composer Jacopo Peri.\nThe album was released to a mostly positive response and remains one of their most commercially successful albums, reaching No. 2 in the UK, No. 4 in the Netherlands, and No. 8 in the US. \"Hocus Pocus\" was released as a single in the Netherlands in June 1971, followed by its international release in 1973, where it reached No. 9 in the US and No. 20 in the UK. The album is certified gold by the Recording Industry Association of America for selling 500,000 copies in the US.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b7591e01-e9a6-4a73-b9e2-1a3d510f5065",
+   "titulo": "Focus 3",
+   "data": "1972-11",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/07d3e7be-a533-4616-a48a-39ad530f593b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Round Goes the Gossip",
+     "duracao": "5:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Remembered",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Sylvia",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Carnival Fugue",
+     "duracao": "6:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Focus III",
+     "duracao": "6:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Answers? Questions! Questions? Answers!",
+     "duracao": "14:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Anonymus II (Part 1)",
+     "duracao": "19:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Anonymus II (Conclusion)",
+     "duracao": "7:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Elspeth of Nottingham",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "House of the King",
+     "duracao": "2:23"
+    }
+   ],
+   "duracao_min": 70,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_3",
+   "resumo_en": "Focus 3 is the third studio album by Dutch rock band Focus, released as a double album in November 1972 on Imperial Records. Recorded after touring in support of their previous album, Moving Waves (1971), the album saw the band write extended pieces and is their first with bassist Bert Ruiter in the group's line-up.\nFocus 3 received a positive reception upon its release. It went to No. 1 in the Netherlands for one week and reached No. 6 on the UK Albums Chart and No. 35 on the US Billboard 200. \"Sylvia\" was released as the album's sole single, which reached No. 4 in the UK and No. 89 in the US. The album was certified gold by the Recording Industry Association of America for selling in excess of 500,000 copies.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a0d98b00-20ba-3129-ab70-3fc53424016b",
+   "titulo": "Hamburger Concerto",
+   "data": "1974-05",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/7965d74b-52a3-4213-a55b-3ab8c26c25f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Delitiae Musicae",
+     "duracao": "1:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Harem Scarem",
+     "duracao": "5:51"
+    },
+    {
+     "n": 3,
+     "titulo": "La Cathedrale de Strasbourg",
+     "duracao": "4:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Birth",
+     "duracao": "7:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Hamburger Concerto",
+     "duracao": "20:15"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hamburger_Concerto",
+   "resumo_en": "Hamburger Concerto is the fourth studio album by the Dutch progressive rock band Focus, released in May 1974. It peaked at No. 20 on the UK charts. The title track is based on Variations on a Theme by Haydn by Johannes Brahms. The composition also incorporates the first two verses of the Dutch Christmas carol O Kerstnacht, schoner dan de dagen at around 15 minutes, and the Third Quarter chime from the Westminster Quarters is quoted in the track's final seconds. The first track is based on a galliard of Joachim van den Hove, Delitiae Musicae.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c7541c03-2f23-37b4-a6b5-50d7c86bce8e",
+   "titulo": "Mother Focus",
+   "data": "1975-10",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/952f1a52-0846-4a3c-99e4-fdb6a64f5f65/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mother Focus",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "I Need a Bathroom",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Bennie Helder",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Soft Vanilla",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Hard Vanilla",
+     "duracao": "2:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Tropic Bird",
+     "duracao": "2:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Focus IV",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Someone’s Crying… What!",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "All Together… Oh That!",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "No Hang Ups",
+     "duracao": "2:56"
+    },
+    {
+     "n": 11,
+     "titulo": "My Sweetheart",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Father Bach",
+     "duracao": "1:33"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mother_Focus",
+   "resumo_en": "Mother Focus is the fifth studio album by the band Focus, released in 1975 on Polydor (cat. no. 2310 408) in Europe, on Atco Records in North America and on EMI in Japan. \nSome tracks on the album mark a departure from the progressive rock style that dominated the group's prior work, and herald a funk music style with light jazz and pop at the centre. Unlike previous albums, the tracks were also much shorter, the longest being 3:55. Bassist Bert Ruiter provided most of the themes, as van Leer had just recorded a solo album, O My Love, of his own music, and Jan Akkerman withheld compositions for Eli, his forthcoming album with Kaz Lux.\nThe closing track, \"Father Bach\", is credited as a 'traditional tune', arranged and adopted by Thijs van Leer, but in reality it consists of the opening lines of J. S. Bach’s St. Matthew Passion.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4a9fc107-02b4-3bb6-9206-4e1d74db4357",
+   "titulo": "Ship of Memories",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/c93be663-4216-4d52-9290-b06f1754bb85/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "P’s March",
+     "duracao": "4:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Can’t Believe My Eyes",
+     "duracao": "5:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Focus V",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Out of Vesuvius",
+     "duracao": "5:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Glider",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Red Sky at Night",
+     "duracao": "5:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Spoke the Lord Creator",
+     "duracao": "2:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Crackers",
+     "duracao": "2:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Ship of Memories",
+     "duracao": "1:48"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ship_of_Memories",
+   "resumo_en": "Ship of Memories is a compilation album from the Dutch rock band Focus, released in 1976 on EMI-Bovema. During a period of group inactivity, longtime associate Hubert Terheggen asked their producer Mike Vernon to select previously unreleased material for official release. Compiled without any active involvement by any band member, the recordings date from January 1970 to mid-1975, and largely during unproductive recording sessions in 1973 for a follow-up studio album to Focus 3 (1972).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55eee566-ee37-3a52-b7da-342345a6c5ac",
+   "titulo": "Focus con Proby",
+   "data": "1978-01",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/a9694616-d058-4a5a-95c3-26dc9d9158ab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wingless",
+     "duracao": "5:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Orion",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Night Flight",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Eddy",
+     "duracao": "5:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Sneezing Bull",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Brother",
+     "duracao": "5:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Tokyo Rose",
+     "duracao": "5:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Maximum",
+     "duracao": "8:40"
+    },
+    {
+     "n": 9,
+     "titulo": "How Long",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_con_Proby",
+   "resumo_en": "Focus con Proby is the sixth studio album by the Dutch rock band Focus, released in 1978 on EMI Records. It features five tracks with vocals from American singer P. J. Proby. The record also features guitarists Eef Albers and Philip Catherine, drummer Steve Smith (then with Jean-Luc Ponty and later to become part of Journey), as well as the two Focus members from previous albums. Smith and Albers would later go on to collaborate on the second album of Smith's band Vital Information.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0ea31b3a-5f1b-3342-90de-ded9d586295e",
+   "titulo": "Focus 8",
+   "data": "2002-01",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/8b703cd5-5fb4-41ed-add0-43334ff9a25a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock & Rio",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Tamara’s Move",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Fretless Love",
+     "duracao": "6:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Hurkey Turkey",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "De ti o de mi",
+     "duracao": "6:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Focus 8",
+     "duracao": "6:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Što čes raditi ostatac života",
+     "duracao": "5:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Neurotika (rehearsal take)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Brother",
+     "duracao": "5:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Blizu tebe",
+     "duracao": "6:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Flower Shower",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_8",
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "679c00d4-5664-3e01-bc3c-fe11b9ca6fc3",
+   "titulo": "Focus 9 / New Skin",
+   "data": "2006-09-01",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/c8def2d3-a8e6-40b0-bce8-dc9de536ca36/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Beauty",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Focus 7",
+     "duracao": "5:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Hurkey Turkey 2",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Sylvia’s Stepson – Ubatuba",
+     "duracao": "4:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Niels’ Skin",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Just Like Eddy",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Aya‐Yuppie‐Hippie‐Yee",
+     "duracao": "5:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Focus 9",
+     "duracao": "7:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Curtain Call",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Ode to Venus",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "European Rap(sody)",
+     "duracao": "10:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Pim",
+     "duracao": "3:01"
+    },
+    {
+     "n": 13,
+     "titulo": "It Takes 2 2 Tango",
+     "duracao": "8:03"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_9_/_New_Skin",
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "78f66dfd-60d4-44f5-9665-82183d421037",
+   "titulo": "Focus X",
+   "data": "2012-11-02",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/02b0c21a-08b6-4fa5-8bb5-181c3b4f5d96/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Father Bacchus",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Focus 10",
+     "duracao": "5:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Victoria",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Amok in Kindergarten",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "All Hens on Deck",
+     "duracao": "5:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Birds Come Fly Over (Le Tango)",
+     "duracao": "5:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Hoeratio",
+     "duracao": "5:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Talk of the Clown",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Message Magique",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Crossroads",
+     "duracao": "5:39"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_X",
+   "resumo_en": "Focus X is the tenth studio album by the Dutch progressive rock band Focus, released on 5 November 5, 2012 by Eastworld Recordings.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8a500396-51f5-4ea1-85e4-c725c52d16c8",
+   "titulo": "Golden Oldies",
+   "data": "2014-04-13",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/a514c3d0-48d4-4f0a-b1f7-028f54618908/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hocus Pocus",
+     "duracao": "6:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Tommy",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "House of the King",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Focus 1",
+     "duracao": "6:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Sylvia",
+     "duracao": "5:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Focus 3 & 2",
+     "duracao": "7:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Aya Yippie Hippie Yee",
+     "duracao": "5:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Neurotica",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "Brother",
+     "duracao": "6:29"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Golden_Oldies_%28album%29",
+   "resumo_en": "The discography of the progressive rock band Focus consists of 11 studio albums, one compilation album, six live albums, and eight singles.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b5cef2bf-e883-42e0-aa56-4854e3c1cd24",
+   "titulo": "Focus 8.5 / Beyond the Horizon",
+   "data": "2016",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/419f84b8-a532-46e0-8aa8-300fc58c2000/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Focus Zero",
+     "duracao": "10:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Hola, cómo estás?",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock 5",
+     "duracao": "7:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Millennium",
+     "duracao": "7:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Înaltă",
+     "duracao": "5:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Talking Rhythms",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Surrexit Christus",
+     "duracao": "5:35"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_8.5_/_Beyond_the_Horizon",
+   "resumo_en": "The discography of the progressive rock band Focus consists of 11 studio albums, one compilation album, six live albums, and eight singles.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3941a00b-050e-475c-8d16-559902e9c5ae",
+   "titulo": "Focus 11",
+   "data": "2019-01-25",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/04599f4f-2112-4bba-bb48-ec7e315bb66b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Who’s Calling?",
+     "duracao": "5:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Heaven",
+     "duracao": "4:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Theodora Na Na Na",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "How Many Miles",
+     "duracao": "4:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Mazzel",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "Winnie",
+     "duracao": "5:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Palindrome",
+     "duracao": "5:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Clair‐Obscur",
+     "duracao": "3:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Mare Nostrum",
+     "duracao": "5:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Final Analysis",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Focus 11",
+     "duracao": "6:11"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Focus_11",
+   "resumo_en": "Focus 11 is the thirteenth studio album by Dutch progressive rock band Focus, released in November 2018 on in and Out of Focus Records. It is their first album to feature bassist Udo Pannekeet, who replaced Bobby Jacobs in 2016.\nThe album cover was produced by renowned artist Roger Dean.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce397027-ab9b-44a0-93f6-4f981e8a6a4b",
+   "titulo": "Focus 12",
+   "data": "2024-07-05",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/68894686-278d-4449-b62a-239b5f8b91bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fjord Focus",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Focus 13",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Béla",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Meta Indefinita",
+     "duracao": "4:39"
+    },
+    {
+     "n": 5,
+     "titulo": "All Aboard",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Born to Be You",
+     "duracao": "1:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Nura",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Bowie",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Positano",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Gaia",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

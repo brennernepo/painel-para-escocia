@@ -1,0 +1,281 @@
+{
+ "id": "janis-joplin",
+ "nome": "Janis Joplin",
+ "cena": "Descobertas do acervo",
+ "mbid": "76c9a186-75bd-436a-85c0-823e3efddb7f",
+ "wikidata": "Q1514",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1943",
+ "fim": "1970",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "psychedelic rock",
+  "rock",
+  "soul",
+  "acid rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Janis_Joplin_1970.JPG/500px-Janis_Joplin_1970.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Janis_Joplin",
+ "resumo_pt": "Janis Lyn Joplin (Port Arthur, 19 de janeiro de 1943 – Los Angeles, 4 de outubro de 1970) foi uma cantora, compositora e multi-instrumentista norte-americana. É considerada a \"Rainha do Rock and Roll\", \"a maior cantora de rock dos anos 1960\" e \"a maior cantora de blues e soul da sua geração\". Ela alcançou proeminência no fim dos anos 1960, como vocalista da Big Brother and the Holding Company, e posteriormente como artista solo, acompanhada de suas bandas de suporte: a Kozmic Blues e a Full Tilt Boogie. A revista Rolling Stone a considerou entre os 100 maiores artistas de todos os tempos.\nInfluenciada por grandes nomes do jazz e do blues, como Aretha Franklin, Billie Holiday, Etta James, Big Mama Thornton, Odetta, Leadbelly e Bessie Smith, Janis fez de sua voz potente e metálica, ao mesmo tempo suave, a sua característica mais conhecida, tornando-se um dos ícones mundiais do rock psicodélico, marcando a geração dos anos 1960. Todavia, seu vício em drogas e álcool encurtou sua carreira. Morreu em 1970, no auge do sucesso, após uma overdose de heroína e álcool, aos 27 anos, sendo incluída na lista do Clube dos 27, que reúne todos os músicos que morreram com essa idade. Com uma trajetória pessoal e profissional demasiadamente curta, mas vivida intensamente, Janis deixou seu poderoso legado musical, tendo lançado quatro álbuns: Big Brother and the Holding Company (1967), Cheap Thrills (1968), I Got Dem Ol' Kozmic Blues Again Mama! (1969) e o póstumo Pearl (1971), que foi o último",
+ "resumo_en": "Janis Lyn Joplin (January 19, 1943 – October 4, 1970) was an American singer-songwriter and musician. One of the most iconic and successful rock performers of her era, she was noted for her powerful mezzo-soprano vocals and her stage presence.\nIn 1967, she rose to prominence following an appearance at the Monterey International Pop Festival in Monterey, California, where she was the lead singer of the then little-known San Francisco psychedelic rock band Big Brother and the Holding Company. After releasing two albums with the band, she left Big Brother to continue as a solo artist with her own backing groups, first the Kozmic Blues Band and then the Full Tilt Boogie Band. She performed at the 1969 Woodstock Festival and on the Festival Express train tour. Five singles by Joplin reached the US Billboard Hot 100, including a cover of the Kris Kristofferson song \"Me and Bobby McGee\", which posthumously reached number one in March 1971. Her most popular songs include her cover versions of \"Piece of My Heart\", \"Cry Baby\", \"Down on Me\", \"Ball and Chain\", and \"Summertime\", as well as her original song \"Mercedes Benz\", which was her final recording.\nJoplin died of a heroin overdose in October 1970, at the age of 27. A second solo album, Pearl, was released in January 1971, three months after her death. It reached number one on the Billboard 200. In 1995, she became the first female solo artist to be inducted into the Rock and Roll Hall of Fame in her first year of eligibility. Rollin",
+ "albuns": [
+  {
+   "id": "2464c8f8-7d3f-32e4-afaa-870ccb18d869",
+   "titulo": "Big Brother & The Holding Company",
+   "data": "1967-09",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/cec06c9a-41e6-4690-a5c9-c5c4209b44e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bye, Bye Baby",
+     "duracao": "2:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Easy Rider",
+     "duracao": "2:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Intruder",
+     "duracao": "2:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Light Is Faster Than Sound",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Call on Me",
+     "duracao": "2:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Women Is Losers",
+     "duracao": "2:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Blindman",
+     "duracao": "1:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Down on Me",
+     "duracao": "2:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Caterpillar",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "All Is Loneliness",
+     "duracao": "2:17"
+    }
+   ],
+   "duracao_min": 23,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6906dd24-1425-3f07-97df-aa8791d27265",
+   "titulo": "I Got Dem Ol’ Kozmic Blues Again Mama!",
+   "data": "1969-10",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/b03cca0e-0502-4080-ac34-caf8f902e018/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Try (Just A Little Bit Harder)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Maybe",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "One Good Man",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "As Good As You've Been To This World",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "To Love Somebody",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Kozmic Blues",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Little Girl Blue",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Work Me, Lord",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": 8.8,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/I_Got_Dem_Ol%27_Kozmic_Blues_Again_Mama%21",
+   "resumo_en": "I Got Dem Ol' Kozmic Blues Again Mama! is the debut solo and third studio album overall by American singer-songwriter Janis Joplin, released on September 11, 1969, by Columbia Records. It was the first album which Joplin recorded after leaving her former band, Big Brother and the Holding Company, and the only solo album released during her lifetime.",
+   "spotify": "0Mey1UxGISq7ZCnibFtTQO",
+   "youtube": null
+  },
+  {
+   "id": "99878359-e736-3cdc-a225-548ad17d1c76",
+   "titulo": "Pearl",
+   "data": "1971-01",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/5f2c02a5-a492-4cca-9308-b8eefd46dad5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Move Over",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Cry Baby",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "A Woman Left Lonely",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Half Moon",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Buried Alive in the Blues",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "My Baby",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Me & Bobby McGee",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Mercedes Benz",
+     "duracao": "1:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Trust Me",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Get It While You Can",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 8.4,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pearl_%28Janis_Joplin_album%29",
+   "resumo_en": "Pearl is the second and final solo album by the American singer Janis Joplin, released on January 11, 1971, by Columbia Records, three months after Joplin's death. It was the final album with Joplin's direct participation, and her only one recorded with the Full Tilt Boogie Band, her final touring unit. It peaked at No. 1 on the Billboard 200, holding that spot for nine weeks. Pearl was certified quadruple Platinum by the Recording Industry Association of America (RIAA). It was ranked number 259 on Rolling Stone magazine's 2020 list of the \"500 Greatest Albums of All Time\".",
+   "spotify": "1VZxhoM9WH2huBOT6QxFCw",
+   "youtube": null
+  },
+  {
+   "id": "5e4875de-9fea-4225-a80b-9d9baf90466d",
+   "titulo": "The Legendary Typewriter Tape 6/25/64 Jorma's House",
+   "data": "2022-12-02",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/753dc7ec-33c3-473f-b804-5c0a1c64816f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "\"Are We Taping Now?\"",
+     "duracao": "0:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Trouble in Mind",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Long Black Train",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "Kansas City Blues",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Hesitation Blues",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Nobody Knows You When You're Down and Out",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "\"How 'Bout This?\"",
+     "duracao": "1:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Daddy, Daddy, Daddy",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 23,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

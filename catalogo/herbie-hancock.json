@@ -1,0 +1,2748 @@
+{
+ "id": "herbie-hancock",
+ "nome": "Herbie Hancock",
+ "cena": "Jazz essencial",
+ "mbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+ "wikidata": "Q105875",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1940",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "jazz",
+  "hard bop",
+  "jazz fusion",
+  "electro",
+  "jazz-funk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/HerbieHancock.jpg/500px-HerbieHancock.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Herbie_Hancock",
+ "resumo_pt": "Herbert Jeffrey Hancock (Chicago, 12 de abril de 1940) é um pianista, tecladista, líder de banda, compositor e ator norte-americano, considerado um dos mestres do jazz.\nTocou ao lado de grandes músicos, com destaque para sua colaboração com Miles Davis nos anos 60, em um quinteto que se tornou antológico na história do Jazz. Ali, Hancock foi introduzido ao piano elétrico Fender Rhodes, ao qual adaptou-se imediatamente e  tão logo experimentou a improvisada adaptação de um pedal de wah-wah e uma câmara de eco (um Echoplex). Harold Rhodes, pai do piano elétrico, ao noticiar essas estranhas e até então originais conexões, providencia para que esses conectores constem em todos os novos modelos deste piano.\nUma década adiante, emergindo do universo de Miles Davis, Herbie Hancock monta um grupo, o The Headhunters, com maiores aproximações à tradição popular afro-americana, de uma sonoridade bem mais acessível ao grande público e de grande sucesso. No álbum de título homônimo ao deste grupo, Head Hunters (1973), Hancock alterna bem sucedidas experimentações pelo eletrofunk com pitadas daquele espírito do quinteto de Miles.\nSua discografia inclui discos voltados para o Jazz assim como algumas incursões pelo Fusion, Funk e Música Clássica. Poucos pianistas têm ou tiveram uma carreira tão fecunda quanto Hancock, que já atravessa algumas décadas como um dos maiores pianistas da história do Jazz. Gravou, em 1978, com Chick Corea um dos mais belos e surreais trabalhos de dupla ao piano: A",
+ "resumo_en": "Herbert Jeffrey Hancock (born April 12, 1940) is an American jazz musician, bandleader, and composer. He started his career with trumpeter Donald Byrd's group. Hancock soon joined the Miles Davis Quintet, where he helped to redefine the role of a jazz rhythm section and was one of the primary architects of the post-bop sound. In the 1970s, he experimented with jazz fusion, funk, and electro styles using a wide array of synthesizers and electronics. It was during this time that he released one of his best-known and most influential albums, Head Hunters.\nHancock's best-known compositions include \"Cantaloupe Island\", \"Watermelon Man\", \"Maiden Voyage\", and \"Chameleon\", all of which are jazz standards. During the 1980s, he had a hit single with the electronic instrumental \"Rockit\", a collaboration with bassist/producer Bill Laswell. Hancock has won an Academy Award and 14 Grammy Awards, including Album of the Year for his 2007 album River: The Joni Letters, a tribute to his friend Joni Mitchell. In 2024, Neil McCormick of The Daily Telegraph ranked Hancock as the greatest keyboard player of all time. In 2025, he received the Polar Music Prize.\nSince 2012, Hancock has served as a professor at the University of California, Los Angeles, where he teaches at the UCLA Herb Alpert School of Music. He is also the chairman of the Herbie Hancock Institute of Jazz (known as the Thelonious Monk Institute of Jazz until 2019).",
+ "albuns": [
+  {
+   "id": "b481d115-5b42-316b-a525-c669c762c73b",
+   "titulo": "Takin’ Off",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/a4de06d8-ec13-3d7e-abf0-42509a1c31f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Watermelon Man",
+     "duracao": "7:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Three Bags Full",
+     "duracao": "5:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Empty Pockets",
+     "duracao": "6:11"
+    },
+    {
+     "n": 4,
+     "titulo": "The Maze",
+     "duracao": "6:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Driftin’",
+     "duracao": "7:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Alone and I",
+     "duracao": "6:28"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 4
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Takin%27_Off",
+   "resumo_en": "Takin' Off is the debut album by jazz pianist Herbie Hancock released in 1962 by Blue Note Records. The album features veteran tenor saxophonist Dexter Gordon, trumpeter Freddie Hubbard, bassist Butch Warren and drummer Billy Higgins. The album is a creative example of music in the hard bop idiom. The bluesy track \"Watermelon Man\" almost made it into the Top 100 of the singles charts, and went on to become a jazz standard. Hancock released a funk arrangement of “Watermelon Man” on his 1973 album Head Hunters. Takin' Off was initially released on CD in 1996 and then again in remastered form in 2007 by Rudy Van Gelder.",
+   "spotify": "78zFODbCw2bTVGKunFVZwA",
+   "youtube": null
+  },
+  {
+   "id": "c9ef901d-b50a-3c41-8086-f070a89243f5",
+   "titulo": "My Point of View",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/32e20329-93cd-48e8-9d73-aff6f3295ea1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blind Man, Blind Man",
+     "duracao": "8:22"
+    },
+    {
+     "n": 2,
+     "titulo": "A Tribute to Someone",
+     "duracao": "8:45"
+    },
+    {
+     "n": 3,
+     "titulo": "King Cobra",
+     "duracao": "6:56"
+    },
+    {
+     "n": 4,
+     "titulo": "The Pleasure Is Mine",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "And What If I Don't",
+     "duracao": "6:34"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/My_Point_of_View",
+   "resumo_en": "My Point of View is the second album by pianist Herbie Hancock. It was released in 1963 on Blue Note Records as  BLP 4126 and BST 84126. Musicians featured are trumpeter Donald Byrd, trombonist Grachan Moncur III, tenor saxophonist Hank Mobley, guitarist Grant Green (on two tracks), bassist Chuck Israels and drummer Tony Williams.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9df09ba5-e7d9-334c-8c26-fef56a88d67a",
+   "titulo": "Empyrean Isles",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/3796e346-e40b-4334-b306-b8cf96dafcd2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Finger Snap",
+     "duracao": "7:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Oliloqui Valley",
+     "duracao": "8:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Cantaloupe Island",
+     "duracao": "5:34"
+    },
+    {
+     "n": 4,
+     "titulo": "The Egg",
+     "duracao": "14:01"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.4,
+    "fontes": 5
+   },
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Empyrean_Isles",
+   "resumo_en": "Empyrean Isles is the fourth studio album by the American jazz pianist Herbie Hancock, released on Blue Note Records in November 1964. The album features Hancock alongside trumpeter Freddie Hubbard, bassist Ron Carter, and drummer Tony Williams.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "aa29d999-eeb5-32d2-ba55-decd632ab624",
+   "titulo": "Inventions & Dimensions",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/f8663cb8-4aa7-4cfa-9548-b27c64266a6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Succotash",
+     "duracao": "7:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Triangle",
+     "duracao": "11:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Jack Rabbit",
+     "duracao": "6:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Mimosa",
+     "duracao": "8:40"
+    },
+    {
+     "n": 5,
+     "titulo": "A Jump Ahead",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inventions_%26_Dimensions",
+   "resumo_en": "Inventions & Dimensions is the third album by Herbie Hancock, recorded on August 30, 1963, for Blue Note Records. It features Hancock with bassist Paul Chambers and percussionists Willie Bobo and Chihuahua Martinez. The album was reissued in the 1970s as Succotash, credited to Hancock and Bobo, but with the sides reversed. Inventions & Dimensions is unusual in prominently featuring Latin percussion whilst not being a Latin jazz album, rather presenting Hancock's further exploration of modal jazz and post-bop idioms.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c5e5e8ad-dc89-319e-8b2d-b3ff5e59fcea",
+   "titulo": "Maiden Voyage",
+   "data": "1965-05-17",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/8b3ca77d-647d-4e3e-b3a9-e7d5dd17f3e0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Maiden Voyage",
+     "duracao": "7:57"
+    },
+    {
+     "n": 2,
+     "titulo": "The Eye of the Hurricane",
+     "duracao": "6:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Little One",
+     "duracao": "8:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Survival of the Fittest",
+     "duracao": "10:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Dolphin Dance",
+     "duracao": "9:16"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 4
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Maiden_Voyage_%28Herbie_Hancock_album%29",
+   "resumo_en": "Maiden Voyage is the fifth album led by jazz musician Herbie Hancock, and was recorded by Rudy Van Gelder on March 17, 1965, for Blue Note Records. It was issued as BLP 4195 and BST 84195. Featuring Hancock with tenor saxophonist George Coleman, trumpeter Freddie Hubbard, bassist Ron Carter and drummer Tony Williams, it is a concept album aimed at creating an oceanic atmosphere. As such, many of the track titles refer to marine biology or the sea, and the musicians develop the concept through their use of space. The album was presented with the Grammy Hall of Fame Award in 1999.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "89c2edc5-b5be-3400-a402-da615d6f3ee6",
+   "titulo": "Blow-Up",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/07c6a2a8-ced5-49f7-803e-de7cfbc1cf63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Main Title Blow-Up",
+     "duracao": "1:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Verushka, Part 1",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Verushka, Part 2",
+     "duracao": "2:11"
+    },
+    {
+     "n": 4,
+     "titulo": "The Naked Camera",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Bring Down the Birds",
+     "duracao": "1:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Jane's Theme",
+     "duracao": "5:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Stroll On",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "The Thief",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "The Kiss",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Curiosity",
+     "duracao": "1:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Thomas Studies Photos",
+     "duracao": "1:12"
+    },
+    {
+     "n": 12,
+     "titulo": "The Bed",
+     "duracao": "2:37"
+    },
+    {
+     "n": 13,
+     "titulo": "End Title Blow-Up",
+     "duracao": "0:52"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blow-Up_%28soundtrack%29",
+   "resumo_en": "Blow-Up is a soundtrack album by American jazz pianist Herbie Hancock, featuring music composed for Michelangelo Antonioni's 1966 film Blowup. MGM Records released the album in the United States on 20 February 1967, and in the United Kingdom on 10 May. The album features performances by Hancock, trumpeters Freddie Hubbard and Joe Newman, alto saxophonist Phil Woods, tenor saxophonist Joe Henderson, guitarist Jim Hall, bassist Ron Carter and drummer Jack DeJohnette. Although Jimmy Smith is credited with playing organ on the album, some sources claim it was actually Paul Griffin who was at the sessions.\nThe liner notes to a 2000s CD release indicate that Hancock first recorded the score in London with British musicians, but rejected the results and re-recorded the music in New York. According to a Library of Congress listing, additional uncredited musicians at the New York sessions included Don Rendell on tenor sax and Gordon Beck on organ. London sessions are said to have involved Hancock, Rendell and Beck, along with Ian Carr on trumpet, Pete McGurk on acoustic bass, and Chris Karan on drums. Hancock is also listed as being the arranger and music director.\nThe album also includes \"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "074888c4-8d51-327b-a61c-46916453046a",
+   "titulo": "Speak Like a Child",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/09fbe547-2f17-4843-bc42-09db1a80b6c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Riot",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Speak Like a Child",
+     "duracao": "7:48"
+    },
+    {
+     "n": 3,
+     "titulo": "First Trip",
+     "duracao": "5:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Toys",
+     "duracao": "5:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Goodbye to Childhood",
+     "duracao": "7:06"
+    },
+    {
+     "n": 6,
+     "titulo": "The Sorcerer",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Speak_Like_a_Child_%28album%29",
+   "resumo_en": "Speak Like a Child, the sixth album by American jazz pianist Herbie Hancock, which was recorded and released by Blue Note Records in 1968, features Thad Jones's (uncredited) arrangements of Hancock's compositions for an unusual front line of Jerry Dodgion on alto flute, Peter Phillips on bass trombone, and Thad Jones on flugelhorn. Critic Nat Hentoff described the album as an \"impressive further stage in the evolution of Herbie Hancock as writer and player,\" saying it is characterized by a \"singular quality of incisive, searching lyricism.\" Unusually, none of the wind players perform solos on any song. The rhythm section is bassist Ron Carter and drummer Mickey Roker.\nThe cover photograph was taken by David Bythewood, an acquaintance of Hancock. The photo depicts Hancock in silhouette kissing his wife-to-be, Gigi Meixner.",
+   "spotify": "5KnNC5kCRiEGk7dZMjr07r",
+   "youtube": null
+  },
+  {
+   "id": "53b9138c-757b-3106-b924-223aa774148f",
+   "titulo": "Fat Albert Rotunda",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/838bb52b-9b1a-4735-ac95-16f309920292/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wiggle-Waggle",
+     "duracao": "5:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Fat Mama",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Me a Bedtime Story",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Oh! Oh! Here He Comes",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Jessica",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Fat Albert Rotunda",
+     "duracao": "6:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Lil' Brother",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.1,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fat_Albert_Rotunda",
+   "resumo_en": "Fat Albert Rotunda is the eighth album by jazz keyboardist Herbie Hancock, released in 1969.  It was Hancock's first release for Warner Bros. Records after his departure from Blue Note Records. The music was originally done for the TV special Hey, Hey, Hey, It's Fat Albert, which later inspired the Fat Albert and the Cosby Kids TV show.\nFat Albert Rotunda and the two albums that followed it, Mwandishi and Crossings, were reissued in one set as Mwandishi: The Complete Warner Bros. Recordings in 1994 and as The Warner Bros. Years (1969-1972) in 2014.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7111ef27-de81-378b-8f37-2215601f6e2f",
+   "titulo": "The Prisoner",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/ee4e6809-ea70-4641-9ded-a984c4974f9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Have a Dream",
+     "duracao": "11:00"
+    },
+    {
+     "n": 2,
+     "titulo": "The Prisoner",
+     "duracao": "7:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Firewater",
+     "duracao": "7:34"
+    },
+    {
+     "n": 4,
+     "titulo": "He Who Lives in Fear",
+     "duracao": "6:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Promise of the Sun",
+     "duracao": "7:55"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Prisoner_%28album%29",
+   "resumo_en": "The Prisoner is the seventh Herbie Hancock album, recorded in 1969 and released in January 1970 for the Blue Note label, his final project for the label before moving to Warner Bros. Records. It is dedicated to the memory of Dr. Martin Luther King Jr., who had been assassinated the previous year. Hancock suggested at the time that he had been able to get closer to his real self with this music than on any other previous album. Participating musicians include tenor saxophonist Joe Henderson, trumpeter Johnny Coles (on flugelhorn), trombonist Garnett Brown, flautist Hubert Laws, bassist Buster Williams and drummer Albert “Tootie” Heath. Hancock praised flute player Laws, suggesting that he was one of the finest flautists in classical or jazz music.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce7d7974-1f6b-3a44-9431-5e0520f9fa63",
+   "titulo": "Jammin’ With Herbie",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/83a10353-676b-4533-a8b8-19c5116a178e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jammin’ With Herbie",
+     "duracao": "6:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Herbie’s Blues",
+     "duracao": "5:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock Your Soul",
+     "duracao": "6:51"
+    },
+    {
+     "n": 4,
+     "titulo": "T.C.B With Herbie",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Soul Power",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Cat Call",
+     "duracao": "9:43"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6827887f-d53d-3c73-b63f-155379cc005c",
+   "titulo": "Mwandishi",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/8dc77c56-83a5-432f-8208-4638f0db9c99/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ostinato (Suite for Angela)",
+     "duracao": "13:05"
+    },
+    {
+     "n": 2,
+     "titulo": "You'll Know When You Get There",
+     "duracao": "10:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Wandering Spirit Song",
+     "duracao": "21:23"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mwandishi",
+   "resumo_en": "Mwandishi is the ninth studio album by American jazz pianist Herbie Hancock, released in March 1971. It is the first album to officially feature Hancock’s ‘Mwandishi’ sextet, consisting of reed player Bennie Maupin, trumpeter Eddie Henderson, trombonist Julian Priester, bassist Buster Williams, and drummer Billy Hart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b7afc7b8-e9be-3287-8f64-62e211f64981",
+   "titulo": "Crossings",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/63a4e562-b9fc-40c0-9a35-5e14904906de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sleeping Giant",
+     "duracao": "24:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Quasar",
+     "duracao": "7:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Water Torture",
+     "duracao": "14:04"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 7.4,
+    "fontes": 4
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Crossings_%28Herbie_Hancock_album%29",
+   "resumo_en": "Crossings is the tenth studio album by jazz pianist Herbie Hancock, released in May 1972 on Warner Bros. Records.\nIt is the second album in his Mwandishi period, which saw him experimenting in electronics and funk with a sextet featuring saxophonist Bennie Maupin, trumpeter Eddie Henderson, trombonist Julian Priester, bassist Buster Williams, and drummer Billy Hart. The album is the band's first to feature synthesizer player Patrick Gleeson, originally hired as a technician to help set up Hancock's Moog synthesizer; Hancock was so impressed with Gleeson that he \"asked Gleeson not only to do the overdubs on the album but join the group.\"\nCrossings, along with Fat Albert Rotunda and Mwandishi, was reissued in one set as Mwandishi: The Complete Warner Bros. Recordings in 1994 and as The Warner Bros. Years (1969-1972) in 2014.",
+   "spotify": "1uPpf0LfR227I6vruxYkxZ",
+   "youtube": null
+  },
+  {
+   "id": "57b856a7-e33c-35f3-8268-a7fb318e98b0",
+   "titulo": "Sextant",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/548b1809-ae6d-4bd5-a395-09dd4cb1fd89/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rain Dance",
+     "duracao": "9:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Hidden Shadows",
+     "duracao": "10:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Hornets",
+     "duracao": "19:36"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.9,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sextant_%28album%29",
+   "resumo_en": "Sextant is the eleventh studio album by American jazz pianist Herbie Hancock, released on March 30, 1973, by Columbia Records. It was Hancock's first album on Columbia, and his final album with the \"Mwandishi\" sextet featuring woodwind player Bennie Maupin, trumpeter Eddie Henderson, trombonist Julian Priester, bassist Buster Williams, and drummer Billy Hart. Synthesizer player Patrick Gleeson and percussionist Buck Clarke also appear.\nThe album showcased Hancock's early adoption of synthesizers and electronic effects. Upon release, the record was considered to be a commercial flop, and Hancock subsequently formed a new band, the Headhunters, with only Maupin continuing on from the \"Mwandishi\" band.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "042ae3a9-6051-3c3e-9382-962e18c58858",
+   "titulo": "The Spook Who Sat By The Door",
+   "data": "1973",
+   "ano": "1973",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Revolution",
+     "duracao": "1:39"
+    },
+    {
+     "n": 2,
+     "titulo": "The Spook Who Sat By The Door (Reprise)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Revenge",
+     "duracao": "1:43"
+    },
+    {
+     "n": 4,
+     "titulo": "At The Lounge",
+     "duracao": "1:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Training Day",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "The Stick Up",
+     "duracao": "1:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Main Theme",
+     "duracao": "1:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Underground",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "The Spook Who Sat By The Door",
+     "duracao": "2:52"
+    },
+    {
+     "n": 10,
+     "titulo": "The Big Rip Off",
+     "duracao": "4:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Recruiting",
+     "duracao": "0:50"
+    },
+    {
+     "n": 12,
+     "titulo": "The Pick Up",
+     "duracao": "2:04"
+    },
+    {
+     "n": 13,
+     "titulo": "It Begins",
+     "duracao": "0:36"
+    },
+    {
+     "n": 14,
+     "titulo": "The Plan",
+     "duracao": "0:51"
+    },
+    {
+     "n": 15,
+     "titulo": "CIA Spook",
+     "duracao": "0:08"
+    },
+    {
+     "n": 16,
+     "titulo": "Best Of The Best",
+     "duracao": "0:15"
+    },
+    {
+     "n": 17,
+     "titulo": "Step Outside",
+     "duracao": "0:08"
+    },
+    {
+     "n": 18,
+     "titulo": "Junkie",
+     "duracao": "0:11"
+    },
+    {
+     "n": 19,
+     "titulo": "Man & Machine",
+     "duracao": "0:08"
+    },
+    {
+     "n": 20,
+     "titulo": "Bad Move",
+     "duracao": "0:19"
+    },
+    {
+     "n": 21,
+     "titulo": "I'm Black",
+     "duracao": "0:18"
+    },
+    {
+     "n": 22,
+     "titulo": "Network",
+     "duracao": "0:13"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "322f18bb-5491-38e9-9044-c0a468651eec",
+   "titulo": "Head Hunters",
+   "data": "1973-10-13",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/52dda2f2-d7ee-4ec5-b00e-b1f4f86ebb95/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chameleon",
+     "duracao": "15:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Watermelon Man",
+     "duracao": "6:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Sly",
+     "duracao": "10:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Vein Melter",
+     "duracao": "9:09"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.8,
+    "fontes": 9
+   },
+   "publico": 7.8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Head_Hunters",
+   "resumo_en": "Head Hunters is the twelfth studio album by American pianist, keyboardist and composer Herbie Hancock, released October 26, 1973, on Columbia Records. Recording sessions for the album took place in the evening at Wally Heider Studios and Different Fur Trading Co. in San Francisco, California. Hancock is featured with woodwind player Bennie Maupin from his previous \"Mwandishi\" sextet and three new collaborators – bassist Paul Jackson, percussionist Bill Summers, and drummer Harvey Mason. The latter group of collaborators, which would go on to be known as the Headhunters, also played on Hancock's subsequent studio album Thrust (1974). All of the musicians (with the exception of Mason) play multiple instruments on the album.\nThe album was a commercial and artistic breakthrough for Hancock, crossing over to funk and rock audiences and bringing jazz-funk and jazz fusion to mainstream attention, peaking at number 13 on the Billboard 200. Today the album is regarded as a landmark of fusion and has influenced artists in numerous other genres. In 2008, the Library of Congress inducted it into the National Recording Registry for being \"culturally, historically or aesthetically important\".",
+   "spotify": "5fmIolILp5NAtNYiRPjhzA",
+   "youtube": null
+  },
+  {
+   "id": "a5783383-bc63-3319-b681-2ea87c588ddf",
+   "titulo": "Death Wish",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/13be467a-19f1-47c4-8867-e64d9616f513/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Death Wish (Main Title)",
+     "duracao": "6:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Joanna's Theme",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Do a Thing",
+     "duracao": "2:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Paint Her Mouth",
+     "duracao": "2:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Rich Country",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Suite Revenge: A. Striking Back, B. Riverside Park, C. The Alley, D. Last Stop, E. 8th Avenue Station",
+     "duracao": "9:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Ochoa Knose",
+     "duracao": "2:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Party People",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Fill Your Hand",
+     "duracao": "6:17"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_Wish_%28soundtrack%29",
+   "resumo_en": "Death Wish: Original Soundtrack Recording is a soundtrack album by Herbie Hancock featuring music composed for Dino De Laurentiis' film  Death Wish released on October 11, 1974, on Columbia Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e4bd9276-84c9-3c90-8c90-7797f487fc8d",
+   "titulo": "Thrust",
+   "data": "1974-09-06",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/1fdf8593-b479-4ff0-b512-c6408f8696f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Palm Grease",
+     "duracao": "10:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Actual Proof",
+     "duracao": "9:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Butterfly",
+     "duracao": "11:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Spank-a-Lee",
+     "duracao": "7:11"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thrust_%28album%29",
+   "resumo_en": "Thrust is the fourteenth studio album by American jazz-funk musician Herbie Hancock, released in September 1974 on Columbia Records. The album reached No. 2 on the Billboard Top Soul Albums chart and No. 13 on the Billboard 200 chart. It is the second album featuring the Headhunters: saxophonist Bennie Maupin, bass guitarist Paul Jackson, drummer Mike Clark (replacing Harvey Mason in this role), and percussionist Bill Summers.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f64336b7-a5f0-3068-a6dd-d8bc7d914622",
+   "titulo": "Dedication",
+   "data": "1974-09-21",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/0b734e5f-0047-4fa3-88e1-6a6d93319d06/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Maiden Voyage",
+     "duracao": "7:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Dolphin Dance",
+     "duracao": "11:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Nobu",
+     "duracao": "7:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Cantaloupe Island",
+     "duracao": "13:57"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dedication_%28Herbie_Hancock_album%29",
+   "resumo_en": "Dedication is the thirteenth album by American jazz pianist Herbie Hancock. It was recorded in Japan by Hancock alone in 1974 during a Japanese tour.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0d5158e8-f43f-3dff-b632-d5cf81bd49a3",
+   "titulo": "Man-Child",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/8cef4def-a484-44af-94f9-62c647dfde09/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hang Up Your Hang Ups",
+     "duracao": "7:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Sun Touch",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The Traitor",
+     "duracao": "9:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Bubbles",
+     "duracao": "9:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Steppin' in It",
+     "duracao": "8:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Heartbeat",
+     "duracao": "5:16"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.8,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Man-Child",
+   "resumo_en": "Man-Child is the fifteenth studio album by jazz pianist Herbie Hancock. The record was released on August 22, 1975, by Columbia Records. It was the final studio album to feature the Headhunters, and a number of guest musicians including saxophonist Wayne Shorter, a full brass section, three different guitarists (including DeWayne McKnight), and Stevie Wonder on harmonica.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e5504c7a-09ae-339f-a737-8b4d91bdacf9",
+   "titulo": "Secrets",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/9cd9b7b6-8e41-46c1-b80a-6fdd0ce2741e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Doin’ It",
+     "duracao": "8:02"
+    },
+    {
+     "n": 2,
+     "titulo": "People Music",
+     "duracao": "7:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Cantelope Island",
+     "duracao": "7:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Spider",
+     "duracao": "7:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Gentle Thoughts",
+     "duracao": "7:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Swamp Rat",
+     "duracao": "6:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Sansho Shima",
+     "duracao": "4:50"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0c0141a1-eaa4-3545-b38b-972f356aa24c",
+   "titulo": "Third Plane",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/114a07f8-bd59-4f84-9020-8127d28b6ca9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Third Plane",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Quiet Times",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Lawra",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Stella by Starlight",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "United Blues",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Dolphin Dance",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ff70f2eb-72a3-36e3-98c0-cfcbdf10f949",
+   "titulo": "Sunlight",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/3e33c47d-9922-4585-9929-bb937d1e6a4e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Thought It Was You",
+     "duracao": "8:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Come Running to Me",
+     "duracao": "8:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Sunlight",
+     "duracao": "7:12"
+    },
+    {
+     "n": 4,
+     "titulo": "No Means Yes",
+     "duracao": "6:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Good Question",
+     "duracao": "8:32"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sunlight_%28Herbie_Hancock_album%29",
+   "resumo_en": "Sunlight is an album by keyboardist Herbie Hancock. It features Hancock's vocals through a Sennheiser VSM-201 vocoder, as well as performances by drummer Tony Williams and bassist Jaco Pastorius on “Good Question”.",
+   "spotify": "67PT7U66Ql5HXNf5hP5zzC",
+   "youtube": null
+  },
+  {
+   "id": "77e1397d-f0d2-349c-a711-438dfe7bdae0",
+   "titulo": "Feets Don’t Fail Me Now",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/c5ea891c-d3ff-4509-b2e1-000f48399088/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "You Bet Your Love",
+     "duracao": "7:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Trust Me",
+     "duracao": "5:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Ready or Not",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Tell Everybody",
+     "duracao": "7:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Honey From the Jar",
+     "duracao": "6:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Knee Deep",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Feets%2C_Don%27t_Fail_Me_Now",
+   "resumo_en": "Feets, Don't Fail Me Now is the twenty-second album by jazz pianist Herbie Hancock. The record was released in February 1979 by Columbia Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c906d249-478b-4cac-90ea-54cad607cf26",
+   "titulo": "Butterfly",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/758a174e-7ea4-4c97-9dcd-96bf7f16ff66/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Thought It Was You",
+     "duracao": "7:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Tell Me a Bedtime Story",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Head in the Clouds",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Maiden Voyage",
+     "duracao": "7:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Harvest Time",
+     "duracao": "4:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Sunlight",
+     "duracao": "6:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Butterfly",
+     "duracao": "6:13"
+    },
+    {
+     "n": 8,
+     "titulo": "As",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Butterfly_%28Kimiko_Kasai_album%29",
+   "resumo_en": "Butterfly is a studio album by Kimiko Kasai with Herbie Hancock, originally released only in Japan in 1979.\nThis is the only vocal collection album of Hancock's compositions, including six tracks, with accompaniment by Hancock's regular group.\nThe title track \"Butterfly\" makes an appearance following the original album Thrust (1974), and this is also a vocal version.\nIn 2018, this album was reissued in the UK from Be With Records.",
+   "spotify": "2xbDI0ItU5LUmk2HvFKUcw",
+   "youtube": null
+  },
+  {
+   "id": "e5613b69-080a-307d-b91a-3ab1a96abc6c",
+   "titulo": "The Piano",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/596cafa4-6e8a-4cb2-b4c1-4050d5763d5c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Funny Valentine",
+     "duracao": "7:41"
+    },
+    {
+     "n": 2,
+     "titulo": "On Green Dolphin Street",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Someday My Prince Will Come",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Harvest Time",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Sonrisa",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Manhattan Island",
+     "duracao": "3:56"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue Otani",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f443880d-1a4c-3410-ba69-2e8df98ac1de",
+   "titulo": "Directstep",
+   "data": "1979-01-21",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/03056dc9-4192-4cdf-ae27-936df4959fe8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Butterfly",
+     "duracao": "7:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Shiftless Shuffle",
+     "duracao": "7:02"
+    },
+    {
+     "n": 3,
+     "titulo": "I Thought It Was You",
+     "duracao": "15:32"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Directstep",
+   "resumo_en": "Directstep is the twentieth studio album by jazz pianist Herbie Hancock. The record was released exclusively in Japan on January 21, 1979, via the Japanese CBS/Sony label. Participating musicians include saxophonist Bennie Maupin, keyboardist Webster Lewis, bass guitarist Paul Jackson, guitarist Ray Obiedo, percussionist Bill Summers, and drummer Alphonse Mouzon.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "267be0c0-47b5-38f1-871e-64a6c53b8307",
+   "titulo": "Monster",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/4871bae8-e961-42bf-8a9f-41401508e171/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Saturday Night",
+     "duracao": "7:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Stars in Your Eyes",
+     "duracao": "7:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Go for It",
+     "duracao": "7:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Don't Hold It In",
+     "duracao": "8:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Making Love",
+     "duracao": "6:23"
+    },
+    {
+     "n": 6,
+     "titulo": "It All Comes Round",
+     "duracao": "5:48"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Monster_%28Herbie_Hancock_album%29",
+   "resumo_en": "Monster is the twenty-third album by jazz pianist Herbie Hancock. As a follow-up to the album Feets, Don't Fail Me Now (1979), it continued the trend of disco songs. The album features vocals on each track, this time without vocoder processing. The album also includes an appearance by Carlos Santana on the opening track \"Saturday Night\"; this track was the first of many eventual collaborations with Santana, including the 1980 album The Swing of Delight. The track \"Stars In Your Eyes\" was issued as an extended 12\" single.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a14af19b-b7b8-3ebf-9aa6-9a6b340fc723",
+   "titulo": "Mr. Hands",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/1e5a1830-8752-4f37-b064-d06b1bad4008/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Spiraling Prism",
+     "duracao": "6:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Calypso",
+     "duracao": "6:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Just Around the Corner",
+     "duracao": "7:33"
+    },
+    {
+     "n": 4,
+     "titulo": "4 AM",
+     "duracao": "5:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Shiftless Shuffle",
+     "duracao": "7:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Textures",
+     "duracao": "6:36"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mr._Hands_%28album%29",
+   "resumo_en": "Mr. Hands is the twenty-fourth album by Herbie Hancock. Unlike the preceding album, Monster, which was conceptualized as a dance album, Mr. Hands is a collection of different musical styles with distinct groups. It features bass guitarist Jaco Pastorius on the track \"4 A.M.,\" plus multiple guests including Bennie Maupin, Sheila E. and Ron Carter, plus an all-synthesizer track (\"Textures\") performed entirely by Hancock. \"Shiftless Shuffle\" (originally released on the 1979 Japan-only album Directstep) was recorded by the members of the Headhunters quintet in 1973 during the sessions for the album Head Hunters.  This album was the first on which Hancock used a computer, an Apple II. He continued his relationship with Apple Computer for many years.\nOverlooked when it was originally released, this was Hancock's last outing of \"straight\" electric jazz for some time, as he began to focus more on his R&B influences.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6bdc4f71-b003-344b-bdb6-f915f4a9c9b2",
+   "titulo": "Magic Windows",
+   "data": "1981-07",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/27a4632a-af12-44c1-9b6e-68fcc2900bda/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Magic Number",
+     "duracao": "7:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Tonight's the Night",
+     "duracao": "6:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Everybody's Broke",
+     "duracao": "7:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Help Yourself",
+     "duracao": "6:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Satisfied With Love",
+     "duracao": "6:31"
+    },
+    {
+     "n": 6,
+     "titulo": "The Twilight Clone",
+     "duracao": "8:02"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Magic_Windows",
+   "resumo_en": "Magic Windows is the twenty-fifth album by jazz pianist Herbie Hancock, released on September 29, 1981, on Columbia Records. The album peaked at No. 13 on the US Billboard Top Jazz LPs chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ec22f3cd-61ec-3e07-bbcc-4f56a6ac269c",
+   "titulo": "Quartet",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/709ddec9-4db3-42e2-adb1-13348f8c5172/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Well You Needn't",
+     "duracao": "6:26"
+    },
+    {
+     "n": 2,
+     "titulo": "'Round Midnight",
+     "duracao": "6:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Clear Ways",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "A Quick Sketch",
+     "duracao": "16:24"
+    },
+    {
+     "n": 5,
+     "titulo": "The Eye Of The Hurricane",
+     "duracao": "8:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Parade",
+     "duracao": "7:56"
+    },
+    {
+     "n": 7,
+     "titulo": "The Sorcerer",
+     "duracao": "7:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Pee Wee",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "I Fall In Love Too Easily",
+     "duracao": "5:53"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Quartet_%28Herbie_Hancock_album%29",
+   "resumo_en": "Quartet is the twenty-seventh album by jazz pianist Herbie Hancock, featuring a quartet with trumpeter Wynton Marsalis, bassist Ron Carter and drummer Tony Williams. It was originally issued in Japan on CBS/Sony, and later given a US release by Columbia.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6794c9f7-f8f9-330c-9940-f3b1115093ba",
+   "titulo": "Lite Me Up",
+   "data": "1982-04-22",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/a2c635a9-fd04-4f94-8225-c9704e8115c7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lite Me Up!",
+     "duracao": "3:41"
+    },
+    {
+     "n": 2,
+     "titulo": "The Bomb",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Gettin' to the Good Part",
+     "duracao": "6:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Paradise",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Can't Hide Your Love",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "The Fun Tracks",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Motor Mouth",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Give It All Your Heart",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "media": 2.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lite_Me_Up",
+   "resumo_en": "Lite Me Up is a pop album with a strong disco-funk feel by Herbie Hancock. It was Hancock's twenty-eighth album and first release without producer David Rubinson since 1969. On this album, Hancock was influenced by his long-time friend, producer Quincy Jones and sessions included many musicians associated with Jones including songwriter Rod Temperton, and Steve Lukather and Jeff Porcaro of Toto. The album was the first on which Hancock played the Synclavier, a digital polyphonic synthesizer.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7f86ad0f-d1d0-3732-a395-4e2e648e1262",
+   "titulo": "Future Shock",
+   "data": "1983-08",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/521bc5cd-4340-436d-b182-1be5cf0e7fe9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rockit",
+     "duracao": "5:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Future Shock",
+     "duracao": "8:05"
+    },
+    {
+     "n": 3,
+     "titulo": "TFS",
+     "duracao": "5:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Earth Beat",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Autodrive",
+     "duracao": "6:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Rough",
+     "duracao": "6:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Rockit (mega mix)",
+     "duracao": "6:18"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.1,
+    "fontes": 5
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Future_Shock_%28Herbie_Hancock_album%29",
+   "resumo_en": "Future Shock is the twenty-ninth album by American jazz pianist Herbie Hancock, released in August 1983 by Columbia Records. It was his first release from his electro-funk era and an early example of instrumental hip hop. Participating musicians include bass guitarist Bill Laswell (who co-produced), guitarist Pete Cosey and drummer Sly Dunbar.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "98362b78-8037-37f4-87dc-ea90a26fb31c",
+   "titulo": "Sound-System",
+   "data": "1984-11-01",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/1dace3ed-2a36-4799-b43f-003f5c9d5cc6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hardrock",
+     "duracao": "6:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Metal Beat",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Karabali",
+     "duracao": "5:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Junku",
+     "duracao": "5:31"
+    },
+    {
+     "n": 5,
+     "titulo": "People Are Changing",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Sound-System",
+     "duracao": "5:53"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sound-System_%28album%29",
+   "resumo_en": "Sound-System is the thirtieth album by jazz pianist Herbie Hancock and the second of three albums co-produced by Bill Laswell with the ‘Rockit’ Band. Guest artists include saxophonist Wayne Shorter, guitarist Henry Kaiser, kora player/percussionist Foday Musa Suso and drummer Anton Fier.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "19c93342-8698-348a-bd0e-2d6dfc0c91d4",
+   "titulo": "Village Life",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/f9739d2c-9b44-4ac1-a0e7-327a23d741ad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Moon/Light",
+     "duracao": "7:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Ndan Ndan Nyaria",
+     "duracao": "9:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Early Warning",
+     "duracao": "2:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Kanatente",
+     "duracao": "20:00"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Village_Life",
+   "resumo_en": "Village Life is an album by jazz pianist Herbie Hancock and Mandinka griot Foday Musa Suso. It was recorded in Japan and released in 1985. Hancock and Suso had worked together as part of a larger ensemble for Hancock's 1984 album Sound-System, and Village Life was recorded shortly after a world tour. There are no overdubs, Village Life was recorded live in the studio. The album was coproduced by Bill Laswell.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8bfbf392-a966-3db4-845c-63c6e6acdc98",
+   "titulo": "Round Midnight: Original Motion Picture Soundtrack",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/0603d443-2173-4cd9-a71f-7f5fcfe6c64e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Round Midnight",
+     "duracao": "5:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Body and Soul",
+     "duracao": "5:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Bérangère’s Nightmare",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Fair Weather",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Una Noche con Francis",
+     "duracao": "4:23"
+    },
+    {
+     "n": 6,
+     "titulo": "The Peacocks",
+     "duracao": "7:16"
+    },
+    {
+     "n": 7,
+     "titulo": "How Long Has This Been Going On?",
+     "duracao": "3:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Rhythm‐A‐Ning",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Still Time",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Minuit aux Champs‐Élysées",
+     "duracao": "3:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Chan’s Song (Never Said)",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Round_Midnight_%28soundtrack%29",
+   "resumo_en": "Round Midnight is a soundtrack album by Herbie Hancock featuring music recorded for Bertrand Tavernier's film  Round Midnight released in 1986 on Columbia Records. The album features performances by Hancock, trumpeter  Freddie Hubbard, bassist Ron Carter, drummer Tony Williams, vocalist Bobby McFerrin, tenor saxophonist Dexter Gordon, bassist Pierre Michelot, drummer  Billy Higgins, guitarist John McLaughlin, trumpeter/vocalist Chet Baker, vibraphonist Bobby Hutcherson, saxophonist Wayne Shorter, vocalist Lonette McKee, and pianist Cedar Walton, most of whom appear in the film. It won the Academy Award for Best Music, Original Score in 1986, beating Ennio Morricone's The Mission and Jerry Goldsmith's Hoosiers, among others. Additional music recorded during the making of the film was released under Dexter Gordon's name as The Other Side of Round Midnight (1986).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0d464085-92cc-3b16-8afa-b539ad4be577",
+   "titulo": "Nightwind",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/aae7eb28-917d-412d-a761-86bd2091b957/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When the Lights Go Out",
+     "duracao": "5:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Nightwind",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Roberta",
+     "duracao": "4:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Believe It!",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Tilt",
+     "duracao": "5:40"
+    },
+    {
+     "n": 6,
+     "titulo": "If I Had Love",
+     "duracao": "6:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Is It Safe?",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cce25f29-82e2-36dd-88d6-28f4bc167a9d",
+   "titulo": "Perfect Machine",
+   "data": "1988-05-17",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/be5ece0c-155d-4c40-83d5-7970fae7d53a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Perfect Machine",
+     "duracao": "6:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Obsession",
+     "duracao": "5:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Vibe Alive",
+     "duracao": "5:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Beat Wise",
+     "duracao": "5:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Maiden Voyage/P. Bop",
+     "duracao": "6:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Chemical Residue",
+     "duracao": "6:00"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.6,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Perfect_Machine",
+   "resumo_en": "Perfect Machine is the thirty-second album by jazz pianist Herbie Hancock. It was the third and final album in Hancock's series co-produced by Bill Laswell. Guests include bassist Bootsy Collins.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7db2f449-f18f-38d2-bb8b-560f96ae838f",
+   "titulo": "Out of This World",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/098f6071-793b-47d6-9aeb-4b76983d5fd2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Byrd House",
+     "duracao": "10:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr. Lucky",
+     "duracao": "8:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Day Dreams",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm an Old Cowhand",
+     "duracao": "9:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Curro's",
+     "duracao": "11:50"
+    },
+    {
+     "n": 6,
+     "titulo": "It's a Beautiful Evening",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Out of This World",
+     "duracao": "9:38"
+    }
+   ],
+   "duracao_min": 61,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "56859652-9ec0-312f-bc84-2e2f15fcf39e",
+   "titulo": "Dis Is da Drum",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/ef699421-5454-3190-8b42-c0a194221a39/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Call It '95",
+     "duracao": "4:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Dis Is da Drum",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Shooz",
+     "duracao": "1:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The Melody (On the Deuce by 44)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Mojuba",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Butterfly",
+     "duracao": "6:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Juju",
+     "duracao": "5:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Hump",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Come and See Me",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Rubber Soul",
+     "duracao": "6:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Bo Ba Be Da",
+     "duracao": "8:04"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.5,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dis_Is_da_Drum",
+   "resumo_en": "Dis Is da Drum is Herbie Hancock's thirty-fourth album and his first solo album since leaving Columbia Records. Guests include saxophonist Bennie Maupin, trumpeter Wallace Roney and flautist Hubert Laws.\nTracks like \"Bo Ba Be Da\" and \"Dis Is da Drum\" reflect  Hancock's move towards acid jazz, while \"Butterfly\" makes a fifth appearance on a Hancock album following the original album (Thrust), Kimiko Kasai's album (Butterfly), a live album (Flood), and another studio album (Direct Step). The music video for the title track, directed by Mark Dippé, received a Grammy nomination for Best Music Video, Short Form.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "78b1e062-09c0-3e30-9f31-9b9261085480",
+   "titulo": "A Tribute to Miles",
+   "data": "1994-03-18",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/71d1d6cc-b801-47ce-9921-4eae0eea98c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "So What (live)",
+     "duracao": "10:20"
+    },
+    {
+     "n": 2,
+     "titulo": "RJ",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Little One",
+     "duracao": "7:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Pinocchio",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Elegy",
+     "duracao": "8:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Eighty One",
+     "duracao": "7:31"
+    },
+    {
+     "n": 7,
+     "titulo": "All Blues (live)",
+     "duracao": "15:16"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Tribute_to_Miles",
+   "resumo_en": "A Tribute to Miles is a tribute album recorded by the then surviving members of the Miles Davis \"Second Great\" Quintet: pianist Herbie Hancock, saxophonist Wayne Shorter, bassist Ron Carter and drummer Tony Williams. Taking the Davis role was trumpeter Wallace Roney.\nThis album won all five men the Grammy Award for Best Jazz Instrumental Performance, Individual or Group at the 37th Annual Grammy Awards.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "46715221-4c9a-3f7d-bdc5-d2d15ee0845b",
+   "titulo": "The New Standard",
+   "data": "1996-03-05",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/409a9d67-a21f-4497-86c0-6af7eab33d04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "New York Minute",
+     "duracao": "8:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Mercy Street",
+     "duracao": "8:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Norwegian Wood (This Bird Has Flown)",
+     "duracao": "8:07"
+    },
+    {
+     "n": 4,
+     "titulo": "When Can I See You",
+     "duracao": "6:17"
+    },
+    {
+     "n": 5,
+     "titulo": "You’ve Got It Bad Girl",
+     "duracao": "7:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Is Stronger Than Pride",
+     "duracao": "8:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Scarborough Fair",
+     "duracao": "8:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Thieves in the Temple",
+     "duracao": "7:33"
+    },
+    {
+     "n": 9,
+     "titulo": "All Apologies",
+     "duracao": "5:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Manhattan (Island of Lights and Love)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 11,
+     "titulo": "Your Gold Teeth II",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 77,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.4,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_New_Standard_%28Herbie_Hancock_album%29",
+   "resumo_en": "The New Standard is the thirty-fifth album by jazz pianist Herbie Hancock, released in 1996 on Verve. It consists of jazz renditions of classic and contemporaneous rock and R&B songs. It features an all-star sextet with saxophonist Michael Brecker, guitarist John Scofield, bassist Dave Holland, percussionist Don Alias and drummer Jack DeJohnette.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "929696e9-fff3-3720-8736-0a4af7ab5ef6",
+   "titulo": "1+1",
+   "data": "1997-07-01",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/d0bce212-e3a1-4d2f-aa5c-9320ffe5e0cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Meridianne - A Wood Sylph",
+     "duracao": "6:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Aung San Suu Kyi",
+     "duracao": "5:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Sonrisa",
+     "duracao": "6:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Memory of Enchantment",
+     "duracao": "6:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Visitor From Nowhere",
+     "duracao": "7:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Joanna's Theme",
+     "duracao": "5:25"
+    },
+    {
+     "n": 7,
+     "titulo": "Diana",
+     "duracao": "5:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Visitor From Somewhere",
+     "duracao": "9:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Manhattan Lorelei",
+     "duracao": "7:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Hale-Bopp, Hip-Hop",
+     "duracao": "1:51"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/1%2B1_%28Herbie_Hancock_and_Wayne_Shorter_album%29",
+   "resumo_en": "1 + 1 is a duet studio album by pianist Herbie Hancock and soprano saxophonist Wayne Shorter.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4942f382-8e44-3d31-9b50-07fb940598ea",
+   "titulo": "Gershwin’s World",
+   "data": "1998-10-19",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/ec4db5ab-243a-46e7-991e-5b73a0e9f77a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overture (Fascinating Rhythm)",
+     "duracao": "0:54"
+    },
+    {
+     "n": 2,
+     "titulo": "It Ain't Necessarily So",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "The Man I Love",
+     "duracao": "5:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Here Come de Honey Man",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "St. Louis Blues",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Lullaby",
+     "duracao": "11:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Blueberry Rhyme",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "It Ain't Necessarily So (interlude)",
+     "duracao": "1:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Cotton Tail",
+     "duracao": "4:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Summertime",
+     "duracao": "4:38"
+    },
+    {
+     "n": 11,
+     "titulo": "My Man's Gone Now",
+     "duracao": "1:55"
+    },
+    {
+     "n": 12,
+     "titulo": "Prelude in C# Minor",
+     "duracao": "4:45"
+    },
+    {
+     "n": 13,
+     "titulo": "Concerto for Piano and Orchestra in G, 2nd Movement",
+     "duracao": "9:12"
+    },
+    {
+     "n": 14,
+     "titulo": "Embraceable You",
+     "duracao": "4:38"
+    },
+    {
+     "n": 15,
+     "titulo": "Someone to Watch Over Me",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 72,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.9,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gershwin%27s_World",
+   "resumo_en": "Gershwin's World is the thirty-seventh studio album by the American jazz pianist Herbie Hancock.\nIt contains songs written by George and Ira Gershwin, and their contemporaries. It features several prominent musicians, including Joni Mitchell, Kathleen Battle, Stevie Wonder, Wayne Shorter, Chick Corea, James Carter, Cyro Baptista, Kenny Garrett, Stanley Clarke, and the Orpheus Chamber Orchestra.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2a63fca7-5894-4fe3-9c98-9011ea8541b9",
+   "titulo": "Nightlife Late Night",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/edebbe9e-8168-4080-a201-14aae32f126d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Live and Awake",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Jeepers Creepers",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Scoochie",
+     "duracao": "5:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Birth of the Blues",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "After You're Gone",
+     "duracao": "3:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Far Out",
+     "duracao": "2:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Witch Fire",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Afro Boogie",
+     "duracao": "2:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Them Changes",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Hot and Heavy",
+     "duracao": "2:18"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "64b4db0f-3305-3696-bf30-ed0e2841b061",
+   "titulo": "Future 2 Future",
+   "data": "2001-09-18",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/a1a8287e-a857-3389-912f-1ed65ffd15f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kebero, Part 1",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Wisdom",
+     "duracao": "0:33"
+    },
+    {
+     "n": 3,
+     "titulo": "The Essence",
+     "duracao": "4:54"
+    },
+    {
+     "n": 4,
+     "titulo": "This Is Rob Swift",
+     "duracao": "6:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Black Gravity",
+     "duracao": "5:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Tony Williams",
+     "duracao": "6:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Be Still",
+     "duracao": "5:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Ionosphere",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Kebero, Part 2",
+     "duracao": "4:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Alphabeta",
+     "duracao": "5:29"
+    },
+    {
+     "n": 11,
+     "titulo": "Virtual Hornets",
+     "duracao": "8:50"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.1,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Future_2_Future",
+   "resumo_en": "Future 2 Future is the thirty-eighth album by Herbie Hancock.  Hancock reunited with producer Bill Laswell (who worked on the early 1980s albums Future Shock, Sound-System and Perfect Machine). The two tried to repeat the success of the three previous albums that combine jazz with electronic music.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6b984369-6e16-3600-9f75-b0f1e6f8d8c0",
+   "titulo": "Possibilities",
+   "data": "2005-08-30",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/3d16a702-acaf-49d8-a9ca-51f3cf8ab332/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stitched Up",
+     "duracao": "5:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Safiatou",
+     "duracao": "5:25"
+    },
+    {
+     "n": 3,
+     "titulo": "A Song for You",
+     "duracao": "7:05"
+    },
+    {
+     "n": 4,
+     "titulo": "I Do It for Your Love",
+     "duracao": "5:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Hush, Hush, Hush",
+     "duracao": "4:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Sister Moon",
+     "duracao": "6:54"
+    },
+    {
+     "n": 7,
+     "titulo": "When Love Comes to Town",
+     "duracao": "8:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Don't Explain",
+     "duracao": "4:53"
+    },
+    {
+     "n": 9,
+     "titulo": "I Just Called to Say I Love You",
+     "duracao": "5:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Gelo Na Montanha",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "media": 6.2,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Possibilities",
+   "resumo_en": "Possibilities is the thirty-ninth studio album by American jazz pianist Herbie Hancock, released on August 30, 2005, by Hear Music and Vector Recordings.",
+   "spotify": "3PssgrNcLJCeN6ufVX7DmJ",
+   "youtube": null
+  },
+  {
+   "id": "056a9f39-b5a6-338f-946f-4cc4e22ce1e7",
+   "titulo": "River: The Joni Letters",
+   "data": "2007-09-19",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/382365d3-118e-4bff-b18c-05bd3c404bb7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Court and Spark",
+     "duracao": "7:36"
+    },
+    {
+     "n": 2,
+     "titulo": "Edith and the Kingpin",
+     "duracao": "6:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Both Sides Now",
+     "duracao": "7:39"
+    },
+    {
+     "n": 4,
+     "titulo": "River",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Sweet Bird",
+     "duracao": "8:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Tea Leaf Prophecy",
+     "duracao": "6:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Solitude",
+     "duracao": "5:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Amelia",
+     "duracao": "7:28"
+    },
+    {
+     "n": 9,
+     "titulo": "Nefertiti",
+     "duracao": "7:31"
+    },
+    {
+     "n": 10,
+     "titulo": "The Jungle Line",
+     "duracao": "5:00"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.4,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/River%3A_The_Joni_Letters",
+   "resumo_en": "River: The Joni Letters is the fortieth studio album by American jazz pianist Herbie Hancock, released on September 25, 2007, by Verve. It is a tribute album featuring cover songs of music written by Canadian-American singer-songwriter Joni Mitchell.\nThe album peaked at number five on the US Billboard 200, enjoying a huge post-Grammy winning sales boost. Upon its release, River: The Joni Letters received generally positive reviews from critics and earned several accolades, including Grammy Awards for Album of the Year and Best Contemporary Jazz Album at the 50th Annual Grammy Awards. Hancock's quintet for the album are saxophonist Wayne Shorter, guitarist Lionel Loueke, bassist Dave Holland and drummer Vinnie Colaiuta.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f6bcf178-f71c-4e87-8a5b-960908a7aeef",
+   "titulo": "The Imagine Project",
+   "data": "2010-06-21",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/c5dae258-78b5-48b3-a5e5-03cd1fd4b859/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Imagine",
+     "duracao": "7:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Don’t Give Up",
+     "duracao": "7:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Tempo de Amor",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Space Captain",
+     "duracao": "6:56"
+    },
+    {
+     "n": 5,
+     "titulo": "The Times, They Are A’ Changin’",
+     "duracao": "8:06"
+    },
+    {
+     "n": 6,
+     "titulo": "La Tierra",
+     "duracao": "4:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Tamatant Tilay / Exodus",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Tomorrow Never Knows",
+     "duracao": "5:23"
+    },
+    {
+     "n": 9,
+     "titulo": "A Change Is Gonna Come",
+     "duracao": "8:48"
+    },
+    {
+     "n": 10,
+     "titulo": "The Song Goes On",
+     "duracao": "7:48"
+    }
+   ],
+   "duracao_min": 66,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.8,
+    "fontes": 8
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Imagine_Project",
+   "resumo_en": "The Imagine Project is the forty-first studio album by American jazz pianist Herbie Hancock, released on June 22, 2010. Prominent guests include John Legend, India Arie, Seal, Dave Matthews, Jeff Beck, Chaka Khan, Tedeschi & Trucks, The Chieftains and Los Lobos.",
+   "spotify": "418IYElTJziJTcSaxJy2PA",
+   "youtube": null
+  }
+ ]
+}

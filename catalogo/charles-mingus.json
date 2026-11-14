@@ -1,0 +1,1714 @@
+{
+ "id": "charles-mingus",
+ "nome": "Charles Mingus",
+ "cena": "Jazz essencial",
+ "mbid": "f3b8e107-abe8-4743-b6a3-4a4ee995e71f",
+ "wikidata": "Q107432",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1922",
+ "fim": "1979",
+ "ativa": false,
+ "generos": [
+  "jazz",
+  "avant-garde jazz",
+  "hard bop",
+  "post-bop",
+  "bebop"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Charles_Mingus_1976.jpg/500px-Charles_Mingus_1976.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Charles_Mingus",
+ "resumo_pt": "Charles Mingus (22 de Abril de 1922 – 5 de Janeiro de 1979) foi um contrabaixista, compositor e ocasionalmente pianista de Jazz. Ele também ficou conhecido pelo seu ativismo contra a injustiça racial.\nMingus é geralmente colocado entre os grandes nomes do Jazz, gravando vários álbuns muito apreciados pelos amantes do estilo. As suas melodias não são muitas vezes regravadas devido à sua natureza pouco convencional. No entanto, Mingus foi também um influente e criativo músico, convidando para a sua banda artistas talentosos e, por vezes, menos conhecidos, que ele achou que reuniam as características necessárias para a integrar.\nConsta que Mingus tinha muitas vezes um temível temperamento, o que originou a sua alcunha no mundo do Jazz, \"The Angry Man of Jazz\" (O homem zangado do jazz). Este comportamento negativo resultando em autênticas erupções de raiva em cima do palco, embora com o tempo ele tenha conseguido moderar o seu comportamento.\nÉ considerado um dos grandes compositores da história do Jazz, ao lado de nomes como Thelonious Monk e Duke Ellington.[carece de fontes]?\nMorreu aos 56 anos de idade em Cuernavaca no México, onde tentava obter tratamento e convalescer da doença esclerose lateral amiotrófica. Seu corpo foi cremado e suas cinzas espalhadas no Rio Ganges na Índia.",
+ "resumo_en": "Charles Mingus Jr. (April 22, 1922 – January 5, 1979) was an American jazz upright bassist, composer, bandleader, pianist, and author. A major proponent of collective improvisation, he is considered one of the greatest jazz musicians and composers in history, with a career spanning three decades and collaborations with other jazz greats, such as Duke Ellington, Charlie Parker, Max Roach, and Eric Dolphy. Mingus's work ranged from advanced bebop and avant-garde jazz with small and midsize ensembles to pioneering the post-bop style on seminal recordings like Pithecanthropus Erectus (1956) and Mingus Ah Um (1959) and progressive big band experiments such as The Black Saint and the Sinner Lady (1963).\nMingus's compositions continue to be played by contemporary musicians ranging from the repertory bands Mingus Big Band, Mingus Dynasty, and Mingus Orchestra to high school students who play the charts and compete in the Charles Mingus High School Competition. In 1993, the Library of Congress acquired Mingus's collected papers—including scores, sound recordings, correspondence, and photos—in what it called \"the most important acquisition of a manuscript collection relating to jazz in the Library's history\".",
+ "albuns": [
+  {
+   "id": "cfd56446-3a7a-4ec4-b44b-44def12ff27f",
+   "titulo": "Strings and Keys",
+   "data": "1953",
+   "ano": "1953",
+   "capa": "https://coverartarchive.org/release/6cb003f5-54e3-4eae-9cdd-ab5ba69d27aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Is This Thing Called Love",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Darn That Dream",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Yesterdays",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Body and Soul",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Blue Moon",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue Tide",
+     "duracao": "3:11"
+    }
+   ],
+   "duracao_min": 20,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6edba933-21bc-3903-8390-dd6e4c8952e5",
+   "titulo": "Introducing Paul Bley",
+   "data": "1954",
+   "ano": "1954",
+   "capa": "https://coverartarchive.org/release/1d23c30d-76eb-4aed-8e55-8262e654b5f2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Opus I",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Teapot",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Like Someone in Love",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Spontaneous Combustion",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Split Kick",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I Can’t Get Started",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8615fd59-6254-4ab3-b693-7305b9c246dc",
+   "titulo": "Jazz Collaborations, Vol. I",
+   "data": "1955",
+   "ano": "1955",
+   "capa": "https://coverartarchive.org/release/75239a4b-aa0d-4a0a-b4f1-b189f3395006/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One More",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Can't Get Started",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "More of the Same",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Get Out of the Town",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fbd10784-a555-340d-9373-8455ba72af00",
+   "titulo": "Jazzical Moods",
+   "data": "1955",
+   "ano": "1955",
+   "capa": "https://coverartarchive.org/release/c378ee7e-8def-48ae-8225-785a64d142ce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thrice Upon a Theme",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Four Hands",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "The Spur of the Moment/Echonitus",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "93116428-66e7-3d65-b5ce-c56296b79b3f",
+   "titulo": "Move!",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/2a4b0b5f-b74a-40d6-9435-4e45cde403e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Move",
+     "duracao": "2:36"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can’t Believe That You’re in Love With Me",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "I’ll Remember April",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "September Song",
+     "duracao": "3:32"
+    },
+    {
+     "n": 5,
+     "titulo": "Zing! Went the Strings of My Heart",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "I’ve Got You Under My Skin",
+     "duracao": "2:22"
+    },
+    {
+     "n": 7,
+     "titulo": "I Get a Kick Out of You",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "If I Had You",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Godchild",
+     "duracao": "4:47"
+    },
+    {
+     "n": 10,
+     "titulo": "This Can’t Be Love",
+     "duracao": "2:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Cheek to Cheek",
+     "duracao": "2:40"
+    },
+    {
+     "n": 12,
+     "titulo": "Swedish Pastry",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bc6bf6c9-7a78-3e54-bbff-911845449eb8",
+   "titulo": "Jazz Composers Workshop",
+   "data": "1956",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/7aec234b-6231-4c19-8b0b-1dd6623cc588/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Purple Heart",
+     "duracao": "5:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Gregorian Chant",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Eulogy for Rudy Williams",
+     "duracao": "6:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Tea for Two",
+     "duracao": "6:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Smog L.A.",
+     "duracao": "3:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Level Seven",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Transeason",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Rose Geranium",
+     "duracao": "4:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Getting Together",
+     "duracao": "4:27"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jazz_Composers_Workshop",
+   "resumo_en": "Jazz Composers Workshop is an album featuring jazz bassist Charles Mingus. It combines the earlier album Moods of Mingus with a Wally Cirillo session released earlier on the album Wally Cirillo & Bobby Scott. It was released on the Savoy label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c4d4589f-c6d0-31d1-a9cd-38e31e7cfa70",
+   "titulo": "Pithecanthropus Erectus",
+   "data": "1956-07",
+   "ano": "1956",
+   "capa": "https://coverartarchive.org/release/31efffb2-659e-4d11-8356-2d58de45b824/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pithecanthropus Erectus",
+     "duracao": "10:35"
+    },
+    {
+     "n": 2,
+     "titulo": "A Foggy Day",
+     "duracao": "7:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Profile of Jackie",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Chant",
+     "duracao": "14:53"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 9.5,
+   "publico_votos": 4,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "04ab8739-b3c2-49e1-8bf8-2db7e2b4e19d",
+   "titulo": "Four Trombones",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/b589089d-09e7-4826-8678-38c160901a84/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Now's the Time",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Trombosphere",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Ow!",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Chazzanova",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63d6a510-d766-3cf5-acf7-de765ebcdb0d",
+   "titulo": "A Modern Jazz Symposium of Music and Poetry With Charles Mingus",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/a1f1993c-5020-4936-822a-4bc7fbd31256/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Scenes in the City",
+     "duracao": "11:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Nouroog",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "New York Sketchbook",
+     "duracao": "8:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Duke's Choice",
+     "duracao": "6:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Slippers",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.4,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Modern_Jazz_Symposium_of_Music_and_Poetry",
+   "resumo_en": "A Modern Jazz Symposium of Music and Poetry is an album by the jazz bassist, composer, and band leader Charles Mingus, released by Bethlehem Records in mid-1959. In spite of the title, the album does not contain any poetry.  \"Scenes in the City\", however, includes narration performed by Mel Stewart and written by Lonne Elder III with assistance from Langston Hughes. The composition \"Duke's Choice\" re-appears, in updated form, as \"I X Love\" on the 1963 album Mingus Mingus Mingus Mingus Mingus.  \"Nouroog\", \"Duke's Choice\" and \"Slippers\" form the basis of the suite \"Open Letter to Duke\" on Mingus Ah Um.\nThe CD issues of the album include three bonus tracks: the Dizzy Gillespie standard \"Woody 'n' You\", Charlie Parker's \"Billie's Bounce\", which is listed as \"Bounce\" and miscredited to Mingus, and an alternate take of \"Slippers\".",
+   "spotify": "4eRDdipoSLaDYcMTVBN7T3",
+   "youtube": null
+  },
+  {
+   "id": "ab2fb092-a160-31c8-943a-f14e71083baf",
+   "titulo": "Mingus Three",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/7180d50f-6c0c-4545-8b29-78f57d578ed2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Yesterdays",
+     "duracao": "4:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Back Home Blues",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "I Can't Get Started",
+     "duracao": "6:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Hamp's New Blues",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Summertime",
+     "duracao": "4:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Dizzy Moods",
+     "duracao": "6:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Laura",
+     "duracao": "6:28"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_Three",
+   "resumo_en": "Mingus Three (also referred to as Trio) is an album by American bassist, composer and bandleader Charles Mingus with pianist Hampton Hawes and drummer Dannie Richmond which was recorded in 1957 and first released on the Jubilee label.",
+   "spotify": "1VD4AqJdHvxV1g0M4QJzjJ",
+   "youtube": null
+  },
+  {
+   "id": "b189344c-4611-3f3a-bb94-cc95651e37e3",
+   "titulo": "East Coasting",
+   "data": "1957",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/4ff86025-6cec-49f2-b597-65a25066e3b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Memories of You (take 7)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "East Coasting (take 4)",
+     "duracao": "5:12"
+    },
+    {
+     "n": 3,
+     "titulo": "West Coast Ghost (take 6)",
+     "duracao": "8:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Celia (take 5)",
+     "duracao": "7:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Conversation (take 16)",
+     "duracao": "5:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Fifty-First Street Blues (take 4)",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/East_Coasting",
+   "resumo_en": "East Coasting is an album by Charles Mingus, recorded and released in late 1957. It was reissued on CD with bonus takes in 1993.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "21c5d11d-7228-3827-996e-abeb6d0e08d3",
+   "titulo": "The Clown",
+   "data": "1957-08",
+   "ano": "1957",
+   "capa": "https://coverartarchive.org/release/55a6c226-6f8b-426c-b40d-549afd7888d5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Haitian Fight Song",
+     "duracao": "12:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Cee",
+     "duracao": "7:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Reincarnation of a Lovebird",
+     "duracao": "8:34"
+    },
+    {
+     "n": 4,
+     "titulo": "The Clown",
+     "duracao": "12:11"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.8,
+    "fontes": 3
+   },
+   "publico": 8.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Clown_%28album%29",
+   "resumo_en": "The Clown is a studio album by the jazz bassist and composer Charles Mingus. It was released in September 1957 through Atlantic Records. The recording took place on February 13 and March 12, 1957. The title track features the improvised narration of Jean Shepherd.\nAccording to Nat Hentoff's liner notes, Mingus explained why he chose those four tracks for the album: \"I selected these four over two others that were more intricate because some of those guys had been saying that I didn't swing. So I made some that did. This album also has the first blues I've made on record.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "48ec720b-2fc2-35dd-8130-5b186c4abcbc",
+   "titulo": "Mingus Ah Um",
+   "data": "1959",
+   "ano": "1959",
+   "capa": "https://coverartarchive.org/release/96c5cc73-798b-49d8-9708-51fcaf81931a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Better Git It in Your Soul",
+     "duracao": "7:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Goodbye Pork Pie Hat",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Boogie Stop Shuffle",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Self-Portrait in Three Colors",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Open Letter to Duke",
+     "duracao": "4:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Bird Calls",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Fables of Faubus",
+     "duracao": "8:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Pussy Cat Dues",
+     "duracao": "6:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Jelly Roll",
+     "duracao": "4:01"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 6
+   },
+   "publico": 8.8,
+   "publico_votos": 9,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_Ah_Um",
+   "resumo_en": "Mingus Ah Um is a studio album by the American jazz musician Charles Mingus. It was recorded in May 1959 and released that October through Columbia Records. It was Mingus' first album recorded for Columbia. \nThe album was inducted into the Grammy Hall of Fame in 2013. It was ranked 380th on the 2020 edition of Rolling Stone's 500 Greatest Albums of All Time. The cover features a painting by S. Neil Fujita.\nThe title is a corruption of an imaginary Latin declension. It is common for Latin students to memorize Latin adjectives by first saying the masculine nominative (usually ending in \"-us\"), then the feminine nominative (\"-a\"), and finally the neuter nominative singular (\"-um\")—implying a transformation of his name, Mingus, Minga, Mingum.",
+   "spotify": "4Z8nWz3dGybOP7lhMZpcOo",
+   "youtube": null
+  },
+  {
+   "id": "0bcac9b4-9ad2-3297-9a7d-a4c28cfb2f77",
+   "titulo": "Charles Mingus Presents Charles Mingus",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/a6d0840e-cb4f-4ed3-9156-f60ed7a9d1a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Folk Forms, No. 1",
+     "duracao": "13:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Original Faubus Fables",
+     "duracao": "9:21"
+    },
+    {
+     "n": 3,
+     "titulo": "What Love?",
+     "duracao": "15:24"
+    },
+    {
+     "n": 4,
+     "titulo": "All the Things You Could Be by Now If Sigmund Freud’s Wife Was Your Mother",
+     "duracao": "8:34"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Mingus_Presents_Charles_Mingus",
+   "resumo_en": "Charles Mingus Presents Charles Mingus is an album by the jazz bassist and composer Charles Mingus. It was released in January 1961 through Candid Records. The recording took place in October 1960. The quartet of Mingus, multi-instrumentalist Eric Dolphy, trumpeter Ted Curson, and drummer Dannie Richmond constituted Mingus' core working band at the time, and had been performing the material on this album for weeks at The Showplace in New York. To recreate this atmosphere, Mingus introduces the songs as if he were speaking to the audience, even admonishing them to not applaud or rattle their glasses. This explains why the recordings on Presents would seemingly give off the illusion of a live album, when in fact it is a studio album.\nThe album was recorded in New York for the Candid label, founded by Nat Hentoff. Mingus usually recorded on major labels like Columbia and Atlantic, but he was given more freedom on Hentoff's independent label.\nPresents has received positive reviews from jazz critics and is among Mingus' most acclaimed albums. The album has been listed as part of The Penguin Guide to Jazz's \"Core Collection.\"",
+   "spotify": "1so4ZwuWh2FqCbwFJS6dcF",
+   "youtube": null
+  },
+  {
+   "id": "105a701f-9914-37d6-8835-a8d2423c725c",
+   "titulo": "Mingus",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/1da624d3-16c5-4a6f-91ee-5ccbceda7e89/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "MDM",
+     "duracao": "19:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Stormy Weather",
+     "duracao": "13:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Lock ’Em Up",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 8.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_%28Charles_Mingus_album%29",
+   "resumo_en": "Mingus is an album by the jazz bassist and composer Charles Mingus. The album was recorded in October and November 1960 in New York and released in late 1961 on Nat Hentoff's Candid label.",
+   "spotify": "7eekYLfd79wRwfwveseacu",
+   "youtube": null
+  },
+  {
+   "id": "4b268ec1-e204-3c82-91ea-a4bc9eaf0a75",
+   "titulo": "Mingus Dynasty",
+   "data": "1960",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/7c40b866-61fb-4c41-9b03-32f640553a43/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slop",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Diane",
+     "duracao": "7:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Song With Orange",
+     "duracao": "4:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Gunslinging Bird",
+     "duracao": "4:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Things Ain’t What They Used to Be",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Far Wells, Mill Valley",
+     "duracao": "6:17"
+    },
+    {
+     "n": 7,
+     "titulo": "New Now Know How",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Mood Indigo",
+     "duracao": "8:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Put Me in That Dungeon",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_Dynasty",
+   "resumo_en": "Mingus Dynasty is a jazz album by Charles Mingus, recorded in 1959 and released on Columbia Records in May 1960. It is a companion album to his 1959 record Mingus Ah Um, and was inducted in the Grammy Hall of Fame in 1999. The title, a pun on the Ming dynasty, alludes to Mingus's ancestry, which was partially Chinese.\nTracks one, three, four, and five were released in their unedited form in 1979 on vinyl and in 1999 on CD. The cuts amount to about eight minutes.",
+   "spotify": "4J2iFLCLHjuA07RlzVzLKh",
+   "youtube": null
+  },
+  {
+   "id": "58a66044-fe3b-3b04-98b0-b955c24a2f62",
+   "titulo": "Blues & Roots",
+   "data": "1960-04-04",
+   "ano": "1960",
+   "capa": "https://coverartarchive.org/release/e2d4880b-337e-46d9-9304-6ee3b5cbd642/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wednesday Night Prayer Meeting",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Cryin' Blues",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Moanin'",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Tensions",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "My Jelly Roll Soul",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "E's Flat Ah's Flat Too",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.7,
+    "fontes": 4
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blues_%26_Roots",
+   "resumo_en": "Blues & Roots is an album by Charles Mingus, recorded in 1959 and released on the Atlantic label in 1960. It has been reissued on CD by both Atlantic and Rhino.",
+   "spotify": "4135Au8fMaM0erL2H6oUJy",
+   "youtube": null
+  },
+  {
+   "id": "a4d4097c-2aa7-3cc5-998f-847561f07afa",
+   "titulo": "Pre-Bird",
+   "data": "1961",
+   "ano": "1961",
+   "capa": "https://coverartarchive.org/release/445f7ec2-a2d2-4194-bc0a-980459934cf3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Take the “A” Train",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Prayer for Passive Resistance",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Eclipse",
+     "duracao": "3:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Mingus Fingus No. 2",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Weird Nightmare",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Do Nothin’ Till You Hear From Me (interpolation: I Let a Song Go Out of My Heart)",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Bemoanable Lady",
+     "duracao": "4:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Half-Mast Inhibition",
+     "duracao": "8:12"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "media": 8.8,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pre-Bird",
+   "resumo_en": "Pre-Bird (later re-released as Mingus Revisited) is an album by the jazz bassist and composer Charles Mingus consisting of music that was composed before Mingus first heard Charlie Parker, hence the title Pre-Bird. It was released on Mercury Records in September 1961.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1c18538e-e9be-3449-8be1-f3cdc7b493e0",
+   "titulo": "Money Jungle",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/6a3d8dfe-bc72-4010-861e-a3f51723a4b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Money Jungle",
+     "duracao": "5:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Les Fleurs Africaines (African Flower)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Very Special",
+     "duracao": "4:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Warm Valley",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Wig Wise",
+     "duracao": "3:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Caravan",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Solitude",
+     "duracao": "5:30"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.9,
+    "fontes": 5
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Money_Jungle",
+   "resumo_en": "Money Jungle is a studio album by the pianist Duke Ellington with the double bassist Charles Mingus and the drummer Max Roach. It was recorded on September 17, 1962, and released in February 1963 by United Artists Jazz. All but one of the compositions were written by Ellington, with four of the seven on the original LP being recorded for the first time on this album. Later releases on CD added eight tracks from the same recording session.\nThe album was reviewed positively at the time of its release and subsequent reviews have remained highly favorable. Negative comments have concentrated on differences in playing style among the three musicians and an arguably exaggerated generational gap between Ellington and the others, as well as a near-walkout by Mingus mid-session. Hundreds of musicians have been influenced by the recording, in particular by the freedom of individual expression within a small-group setting.",
+   "spotify": "5I3aoewqDpP4TglIl9O7su",
+   "youtube": null
+  },
+  {
+   "id": "c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932",
+   "titulo": "Oh Yeah",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/51258fa4-29c5-4b86-bfda-b630573ec222/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hog Callin' Blues",
+     "duracao": "7:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Devil Woman",
+     "duracao": "9:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Wham Bam Thank You Ma'am",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Ecclusiastics",
+     "duracao": "6:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Oh Lord Don't Let Them Drop That Atomic Bomb on Me",
+     "duracao": "5:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Eat That Chicken",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Passions of a Man",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 8.2,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Oh_Yeah_%28Charles_Mingus_album%29",
+   "resumo_en": "Oh Yeah is a studio album by the American jazz musician and composer Charles Mingus. It was released in April 1962 through Atlantic Records. It was recorded in 1961, and features Mingus playing piano rather than his usual upright bass, and also singing on three songs.",
+   "spotify": "4tj38XID2vHZmlYxOVR9v4",
+   "youtube": null
+  },
+  {
+   "id": "fab2e359-265d-35cc-897e-64b11b59d18c",
+   "titulo": "Tijuana Moods",
+   "data": "1962",
+   "ano": "1962",
+   "capa": "https://coverartarchive.org/release/7e041c22-f0b6-4709-bc2a-041c477434a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dizzy Moods",
+     "duracao": "5:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Ysabel’s Table Dance",
+     "duracao": "10:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Tijuana Gift Shop",
+     "duracao": "3:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Los Mariachis (The Street Musicians)",
+     "duracao": "10:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Flamingo",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tijuana_Moods",
+   "resumo_en": "Tijuana Moods is an album by Charles Mingus, recorded in 1957 but not released until June 1962. This delay was due to a legal dispute with RCA. The album was reissued in 1986 on CD as New Tijuana Moods with four additional alternate takes and as a double LP with five alternate takes. Two-CD expanded versions with further alternate takes were issued by RCA in 2000 and by Columbia in 2010.\nIn his notes to the 1986 reissue, Ed Michel said that \"[h]ardly anything was recorded as a complete take\" and so both the originally issued takes and the alternate versions had been assembled by editing additional sections into base takes.\nThe name \"Charlie Mingus\" appears on the cover of the original album. Mingus hated all nicknames derived from Charles. (\"Don't call me Charlie; that's not a man's name, that's a name for a horse.\")",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7d0993fc-1226-3e0a-8298-079141c428cc",
+   "titulo": "Reincarnation of a Love Bird",
+   "data": "1963",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/7c05719f-4c53-436b-af6b-42d817aa874f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reincarnation of a Love Bird (take 1)",
+     "duracao": "7:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Wrap Your Troubles in Dreams (take 4)",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "R & R (take 1)",
+     "duracao": "11:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Body and Soul (take 2)",
+     "duracao": "13:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Bugs (take 3)",
+     "duracao": "8:27"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.2,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Reincarnation_of_a_Lovebird",
+   "resumo_en": "Reincarnation of a Lovebird is a studio album by the American jazz bassist and composer Charles Mingus, recorded in November 1960 but published posthumously in 1988.",
+   "spotify": "5jYSg1FIlxTBaDYXr0YVEh",
+   "youtube": null
+  },
+  {
+   "id": "48070ee2-1865-3b11-ba36-360b1453a37a",
+   "titulo": "The Black Saint and the Sinner Lady",
+   "data": "1963-07",
+   "ano": "1963",
+   "capa": "https://coverartarchive.org/release/b5a96b06-e26d-4ed0-b858-71a0810d7a4c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Track A: Solo Dancer",
+     "duracao": "6:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Track B: Duet Solo Dancers",
+     "duracao": "6:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Track C: Group Dancers",
+     "duracao": "7:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Mode D: Trio and Group Dancers / Mode E: Single Solos and Group Dance / Mode F: Group and Solo Dance",
+     "duracao": "18:39"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.2,
+    "fontes": 5
+   },
+   "publico": 8,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Black_Saint_and_the_Sinner_Lady",
+   "resumo_en": "The Black Saint and the Sinner Lady is a studio album by Charles Mingus. It was recorded on January 20, 1963, and released in July of that year by Impulse! Records. The album comprises a single continuous composition—partially written as a ballet—divided into four tracks and six movements. It is widely regarded as one of the greatest jazz records of all time.",
+   "spotify": "5K3hgJYRyL5H40e9a1940R",
+   "youtube": null
+  },
+  {
+   "id": "48848da6-67a2-3e36-bb11-3e9fa18c1d9b",
+   "titulo": "Mingus Mingus Mingus Mingus Mingus",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "II B.S.",
+     "duracao": "7:01"
+    },
+    {
+     "n": 2,
+     "titulo": "I X Love",
+     "duracao": "6:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Celia",
+     "duracao": "6:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Mood Indigo",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Better Get Hit in Yo’ Soul",
+     "duracao": "4:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Theme for Lester Young",
+     "duracao": "5:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Hora Decubitus",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_Mingus_Mingus_Mingus_Mingus",
+   "resumo_en": "Mingus Mingus Mingus Mingus Mingus is a studio album by the American jazz composer and bassist Charles Mingus which was released on January 9, 1964.",
+   "spotify": "12DCd8u80PoRIvBgjQrtuH",
+   "youtube": null
+  },
+  {
+   "id": "a4975d1a-2972-35e0-ad35-73afe6295b1c",
+   "titulo": "Mingus Plays Piano",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/182ff5ac-eebe-3fab-b417-abc28452cdaa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Myself When I Am Real",
+     "duracao": "7:24"
+    },
+    {
+     "n": 2,
+     "titulo": "I Can’t Get Started",
+     "duracao": "3:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Body and Soul",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Roland Kirk’s Message",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Memories of You",
+     "duracao": "4:16"
+    },
+    {
+     "n": 6,
+     "titulo": "She’s Just Miss Popular Hybrid",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Orange Was the Color of Her Dress; Then Silk Blues",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Meditations for Moses",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Old Portrait",
+     "duracao": "3:37"
+    },
+    {
+     "n": 10,
+     "titulo": "I’m Getting Sentimental Over You",
+     "duracao": "3:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Compositional Theme Story: Medleys, Anthems and Folklore",
+     "duracao": "8:16"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_Plays_Piano",
+   "resumo_en": "Mingus Plays Piano is a 1964 solo jazz album by Charles Mingus. The album is notable for Mingus's departure from his usual role as composer and double-bassist in ensemble recordings, instead playing piano without any additional musicians.",
+   "spotify": "5zHrvHvlWNbQYwMEL7IGy4",
+   "youtube": null
+  },
+  {
+   "id": "b4cae724-3acf-35c0-907f-1d62f3312766",
+   "titulo": "Tonight at Noon",
+   "data": "1964",
+   "ano": "1964",
+   "capa": "https://coverartarchive.org/release/b21ad00b-db88-4f1b-b9b6-eed35c5a2f6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tonight at Noon",
+     "duracao": "5:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Invisible Lady",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "“Old” Blues for Walt’s Torin",
+     "duracao": "8:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Peggy’s Blue Skylight",
+     "duracao": "9:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Passions of a Woman Loved",
+     "duracao": "9:43"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tonight_at_Noon",
+   "resumo_en": "Tonight at Noon is an album of music by the jazz bassist and composer Charles Mingus. It was released through Atlantic Records in July 1964. It compiles tracks recorded at two sessions – the 1957 sessions for the album entitled The Clown and the 1961 sessions for Oh Yeah. These tracks have since been added to the CD re-releases of their respective albums as bonus tracks.",
+   "spotify": "2qm3SQabaC7V3lhu5sml5b",
+   "youtube": null
+  },
+  {
+   "id": "ab7de3f5-b9e7-3965-b9aa-ed07b9abbdc3",
+   "titulo": "Blue Bird",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/05085284-78ea-4edd-a588-7c008087ca08/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reincarnation of a Lovebird",
+     "duracao": "13:00"
+    },
+    {
+     "n": 2,
+     "titulo": "I Left My Heart in San Francisco",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Blue Bird",
+     "duracao": "17:00"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d0d9a8b2-4df6-3c28-9cbc-bfacb02ae8c9",
+   "titulo": "Let My Children Hear Music",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/904f83f2-c0b4-4e12-84bf-d41246dfc64b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Shoes of the Fisherman’s Wife Are Some Jive Ass Slippers",
+     "duracao": "9:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Adagio ma non troppo",
+     "duracao": "8:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Don’t Be Afraid, the Clown’s Afraid Too",
+     "duracao": "9:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Hobo Ho",
+     "duracao": "10:07"
+    },
+    {
+     "n": 5,
+     "titulo": "The Chill of Death",
+     "duracao": "7:38"
+    },
+    {
+     "n": 6,
+     "titulo": "The I of Hurricane Sue",
+     "duracao": "10:09"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Let_My_Children_Hear_Music",
+   "resumo_en": "Let My Children Hear Music is an album released by Columbia Records in 1972 of music by composer Charles Mingus, produced by Teo Macero. The music is scored for large jazz orchestra and Mingus worked with several arrangers, orchestrators and conductors, most notably Sy Johnson and Alan Raph, to realize some of his most ambitious compositions. In the original liner notes, Mingus described it as \"the best album I have ever made\".\nMingus was nominated for the 1973 Grammy Award for Best Album Notes (Non-Classical) for the album, losing to Tom T. Hall for Tom T. Hall's Greatest Hits.",
+   "spotify": "03zH4bkGb2jSZAQIVW2px1",
+   "youtube": null
+  },
+  {
+   "id": "e2136bea-cec7-3cb9-b1bc-9de98f9b33a0",
+   "titulo": "Mingus Moves",
+   "data": "1974-04-08",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/659a713b-037b-4ec5-9cef-e88b774a0824/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Canon",
+     "duracao": "5:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Opus 4",
+     "duracao": "6:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Moves",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Wee",
+     "duracao": "9:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Flowers for a Lady",
+     "duracao": "6:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Newcomer",
+     "duracao": "7:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Opus 3",
+     "duracao": "10:28"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingus_Moves",
+   "resumo_en": "Mingus Moves is an album by the jazz composer and bassist Charles Mingus, recorded in 1973 and released in 1974.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "be7e5a00-493c-3c3b-a6ac-00cd1b6389f1",
+   "titulo": "Changes One",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/69af009e-1e38-447e-a43b-203fa5f5095f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Remember Rockefeller at Attica",
+     "duracao": "5:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Sue's Changes",
+     "duracao": "17:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Devil Blues",
+     "duracao": "9:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Duke Ellington's Sound of Love",
+     "duracao": "12:10"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Changes_One_%28Charles_Mingus_album%29",
+   "resumo_en": "Changes One is an album by the jazz composer and bassist Charles Mingus, released in 1975.",
+   "spotify": "254OYgcNQJIccVL79HIWxr",
+   "youtube": null
+  },
+  {
+   "id": "d3d650e0-aa43-36d5-bbde-6a67d50c221a",
+   "titulo": "Changes Two",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/62a15b52-d1b3-4e68-9185-139214f01031/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Free Cell Block F, 'Tis Nazi U.S.A.",
+     "duracao": "6:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Orange Was the Color of Her Dress, Then Silk Blue",
+     "duracao": "17:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Bats and Poles",
+     "duracao": "6:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Duke Ellington's Sound of Love",
+     "duracao": "4:14"
+    },
+    {
+     "n": 5,
+     "titulo": "For Harry Carney",
+     "duracao": "7:59"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Changes_Two",
+   "resumo_en": "Changes Two is an album by Charles Mingus. It was recorded on 27, 28, and 30 December 1974 at Atlantic Studios in New York City—the same sessions which resulted in Mingus's album Changes One. Atlantic Records initially released the record; in 1993, it was issued on CD by Rhino Records.\nThe brief version of \"Duke Ellington's Sound of Love\" features vocals by Jackie Paris.",
+   "spotify": "7o9hJ8konXzGt6nKLy3MuX",
+   "youtube": null
+  },
+  {
+   "id": "f867dffa-0941-38fe-886a-a6753aac4a9e",
+   "titulo": "Three or Four Shades of Blues",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/f8932d40-d6d0-4f12-888a-f89c31791e01/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Better Git Hit in Your Soul",
+     "duracao": "4:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Goodbye, Pork Pie Hat",
+     "duracao": "7:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Noddin' Ya Head Blues",
+     "duracao": "10:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Three or Four Shades of Blues",
+     "duracao": "12:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Nobody Knows",
+     "duracao": "10:09"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.4,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Three_or_Four_Shades_of_Blues",
+   "resumo_en": "Three or Four Shades of Blues is a studio album by the American jazz bassist and bandleader Charles Mingus. It was recorded in sessions held on March 9 and 11, 1977, at New York City's Atlantic Studios, and on March 29 at the Record Plant in Los Angeles. The album features two new versions of Mingus's \"standards\" and three new compositions performed by large ensembles featuring saxophonists Ricky Ford, George Coleman, and Sonny Fortune, pianist Jimmy Rowles, guitarists Larry Coryell, Philip Catherine and John Scofield, bassists Ron Carter and George Mraz, trumpeter Jack Walrath, and drummer Dannie Richmond.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d12c2ad1-7791-323a-a84a-9b852f9b30f8",
+   "titulo": "Cumbia & Jazz Fusion",
+   "data": "1978-05",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/23994593-260f-4bd7-b9a0-b2a307b0ac70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cumbia & Jazz Fusion",
+     "duracao": "27:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Music for “Todo Modo”",
+     "duracao": "22:18"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cumbia_%26_Jazz_Fusion",
+   "resumo_en": "Cumbia & Jazz Fusion is an album by Charles Mingus, recorded for the Atlantic label in 1977. It features two extended compositions written for the film Todo Modo by Mingus and performed by large ensembles featuring Jack Walrath, Jimmy Knepper, Paul Jeffrey, Ricky Ford, Dannie Richmond, Candido, Ray Mantilla, George Adams and Danny Mixon. The CD reissue added two solo performances by Mingus on piano.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fc98413d-08e4-3138-b840-0c589e393ac0",
+   "titulo": "Me, Myself an Eye",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/8911e8aa-e623-4d34-850d-0108d066ce0d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Three Worlds of Drums",
+     "duracao": "30:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Devil Woman",
+     "duracao": "9:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Wednesday Night Prayer Meeting",
+     "duracao": "9:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Carolyn \"Keki\" Mingus",
+     "duracao": "7:46"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5e3095dd-903f-37a5-8e0d-f3d8bea89deb",
+   "titulo": "Something Like a Bird",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/4ee2ff34-1591-40a9-967a-af93221749db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Something Like a Bird, Part 1",
+     "duracao": "19:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Something Like a Bird, Part 2",
+     "duracao": "12:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Farewell Farwell",
+     "duracao": "6:57"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

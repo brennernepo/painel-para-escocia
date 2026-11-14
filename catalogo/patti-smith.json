@@ -1,0 +1,968 @@
+{
+ "id": "patti-smith",
+ "nome": "Patti Smith",
+ "cena": "Descobertas do acervo",
+ "mbid": "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+ "wikidata": "Q557",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1946",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "art rock",
+  "proto-punk",
+  "garage rock",
+  "rock",
+  "punk rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Patti_Smith_at_the_81st_Venice_International_Film_Festival_in_2024.jpg/500px-Patti_Smith_at_the_81st_Venice_International_Film_Festival_in_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Patti_Smith",
+ "resumo_pt": "Patricia Lee Smith (Chicago, 30 de dezembro de 1946) é uma cantora, compositora, poetisa, pintora, autora e fotógrafa americana. O seu álbum de estreia, Horses (1975), tornou-a uma figura influente no movimento punk rock de Nova York. Smith fundiu rock e poesia na sua obra, destacando-se por seu estilo único. Em 1978, a sua música mais conhecida, \"Because the Night\", coescrita com Bruce Springsteen, alcançou o 13.º lugar na Billboard Hot 100 e o 5.º lugar na UK Singles Chart. Conhecida como \"poetisa do punk\", ela trouxe um lado feminista e intelectual à música punk e tornou-se uma das mulheres mais influentes do rock and roll.\nEm 2005, Smith foi nomeada Comandante da Ordem das Artes e das Letras pelo Ministério da Cultura da França. Em 2007, foi introduzida no Hall da Fama do Rock and Roll. Em novembro de 2010, Smith ganhou o National Book Award por sua autobiografia Just Kids, escrita para cumprir uma promessa feita a Robert Mapplethorpe, seu parceiro de longa data. Ela ocupa a 47.ª posição na lista dos 100 Maiores Artistas de Todos os Tempos da revista Rolling Stone, publicada em 2010, e recebeu o Prêmio Polar de Música em 2011.",
+ "resumo_en": "Patricia Lee Smith (born December 30, 1946) is an American singer, songwriter, poet, and author. Her 1975 debut album, Horses, established her as an influential member of the New York City–based punk rock movement, earning the nicknames \"Queen of Punk\" and \"Godmother of Punk\". Smith has fused rock and poetry in her work. In 1978, her most widely known song, \"Because the Night\", co-written with Bruce Springsteen, reached number 13 on the Billboard Hot 100 chart and number five on the UK Singles Chart. Smith is also the author of several works of non-fiction and poetry, and her memoir Just Kids won the National Book Award in 2010.\nIn 2005, Smith was named a Commander of the Ordre des Arts et des Lettres by the French Ministry of Culture. In 2007, she was inducted into the Rock and Roll Hall of Fame. She is ranked 47th on Rolling Stone magazine's 100 Greatest Artists of all Time, published in 2010, and was awarded the Polar Music Prize in 2011.",
+ "albuns": [
+  {
+   "id": "ff8f533c-3cb3-3877-9209-11f433edaad2",
+   "titulo": "Horses",
+   "data": "1975-11",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gloria",
+     "duracao": "5:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Redondo Beach",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Birdland",
+     "duracao": "9:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Free Money",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Kimberly",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Break It Up",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Land",
+     "duracao": "9:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Elegie",
+     "duracao": "2:41"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.9,
+    "fontes": 9
+   },
+   "publico": 8.3,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Horses_%28album%29",
+   "resumo_en": "Horses is the debut studio album by American musician Patti Smith, released on November 10, 1975 by Arista Records. Smith, supported by her regular backing band, recorded the album at Electric Lady Studios in September 1975, choosing former Velvet Underground member John Cale as the album's producer.\nThe music on Horses was informed by the minimalist aesthetic of the punk rock genre, then in its formative years. Smith and her band composed the album's songs using simple chord progressions, while also breaking from punk tradition in their propensity for improvisation and embrace of ideas from avant-garde and other musical styles. With Horses, Smith drew upon her backgrounds in rock music and poetry, aiming to create an album combining both forms. Her lyrics were alternately rooted in her own personal experiences, particularly with her family, and in more fantastical imagery. Horses was additionally inspired by Smith's reflections on the previous era of rock music—with two of its songs being adapted in part from 1960s rock standards, and others containing lyrical allusions and tributes to past rock performers—and her hopes for the music's future.\nAt the time of its release, Horses ex",
+   "spotify": "0OeuSeP8wp8n8OuTqYb61C",
+   "youtube": null
+  },
+  {
+   "id": "92f0659b-0d81-3491-a2ad-6028ddcbd628",
+   "titulo": "Dream of Life",
+   "data": "1988-06",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/033f57f2-e7a4-31c8-af35-a3040e30eb2a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "People Have the Power",
+     "duracao": "5:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Going Under",
+     "duracao": "5:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Up There Down There",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Paths That Cross",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Dream of Life",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Where Duty Calls",
+     "duracao": "7:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Looking for You (I Was)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "The Jackson Song",
+     "duracao": "5:24"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dream_of_Life",
+   "resumo_en": "Dream of Life is the fifth studio album by Patti Smith, released in June 1988 on Arista Records.",
+   "spotify": "3TxNFi3uBnjDBFlfnbmIPe",
+   "youtube": null
+  },
+  {
+   "id": "498d5023-1c87-38e3-b24c-065691b8586f",
+   "titulo": "Gone Again",
+   "data": "1996-06-18",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/888bc005-3878-4054-b548-75ca8bdfe801/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gone Again",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Beneath the Southern Cross",
+     "duracao": "4:35"
+    },
+    {
+     "n": 3,
+     "titulo": "About a Boy",
+     "duracao": "8:16"
+    },
+    {
+     "n": 4,
+     "titulo": "My Madrigal",
+     "duracao": "5:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Summer Cannibals",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Dead to the World",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Wing",
+     "duracao": "4:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Ravens",
+     "duracao": "3:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Wicked Messenger",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Fireflies",
+     "duracao": "9:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Farewell Reel",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.8,
+    "fontes": 9
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gone_Again",
+   "resumo_en": "Gone Again is the sixth studio album by Patti Smith, released June 18, 1996, on Arista Records. The production of the record was preceded by the deaths of many of Smith's close friends and peers, including her husband Fred \"Sonic\" Smith, her brother Todd, Robert Mapplethorpe, Richard Sohl and Kurt Cobain, with whom Smith had sympathized. In addition to this, Gone Again also features the last studio performance of Jeff Buckley, released before his death less than a year later.\nIn May 1999 Rolling Stone magazine placed the album on its list of \"The Essential Recordings of the '90s\".",
+   "spotify": "70BHwvG9ikXsffsWfHrWzi",
+   "youtube": null
+  },
+  {
+   "id": "c27e99ad-6ab4-35dd-b424-204c68755ba6",
+   "titulo": "Peace and Noise",
+   "data": "1997-09-30",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/b96af9e4-9156-32d1-ae95-4740f9982f7d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Waiting Underground",
+     "duracao": "5:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Whirl Away",
+     "duracao": "5:01"
+    },
+    {
+     "n": 3,
+     "titulo": "1959",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Spell",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Don't Say Nothing",
+     "duracao": "5:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Dead City",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue Poles",
+     "duracao": "5:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Death Singing",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Memento Mori",
+     "duracao": "10:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Last Call",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.8,
+    "fontes": 9
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Peace_and_Noise",
+   "resumo_en": "Peace and Noise is the seventh studio album by Patti Smith, released on September 30, 1997, by Arista Records.",
+   "spotify": "3ZsYwM93Semk99fceeRz2r",
+   "youtube": null
+  },
+  {
+   "id": "6d5520df-b433-3376-a0c3-3dba9dc5973a",
+   "titulo": "Gung Ho",
+   "data": "2000-03-20",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/bdf5fd1d-9cb5-470a-a0cf-827e0ea09075/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One Voice",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Lo and Beholden",
+     "duracao": "4:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Boy Cried Wolf",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Persuasion",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Gone Pie",
+     "duracao": "4:04"
+    },
+    {
+     "n": 6,
+     "titulo": "China Bird",
+     "duracao": "4:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Glitter in Their Eyes",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Strange Messengers",
+     "duracao": "8:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Grateful",
+     "duracao": "4:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Upright Come",
+     "duracao": "2:58"
+    },
+    {
+     "n": 11,
+     "titulo": "New Party",
+     "duracao": "4:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Libbie's Song",
+     "duracao": "3:26"
+    },
+    {
+     "n": 13,
+     "titulo": "Gung Ho",
+     "duracao": "11:41"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 73,
+    "media": 6.7,
+    "fontes": 9
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gung_Ho_%28album%29",
+   "resumo_en": "Gung Ho is the eighth studio album by Patti Smith, released March 21, 2000 on Arista Records.",
+   "spotify": "6H6ntLDDo8dC7dHKg1UYSE",
+   "youtube": null
+  },
+  {
+   "id": "dccc8ac2-da0c-3563-95ff-21f9de4cef8c",
+   "titulo": "Trampin’",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/94d27c9b-c359-41a5-994c-06af19fc69e5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jubilee",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Mother Rose",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Stride of the Mind",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Cartwheels",
+     "duracao": "6:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Gandhi",
+     "duracao": "9:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Trespasses",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "My Blakean Year",
+     "duracao": "5:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Cash",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Peaceable Kingdom",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Radio Baghdad",
+     "duracao": "12:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Trampin’",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Jubilee",
+     "duracao": "5:03"
+    },
+    {
+     "n": 13,
+     "titulo": "Break It Up",
+     "duracao": "3:55"
+    },
+    {
+     "n": 14,
+     "titulo": "Beneath the Southern Cross",
+     "duracao": "6:38"
+    },
+    {
+     "n": 15,
+     "titulo": "25th Floor",
+     "duracao": "6:57"
+    },
+    {
+     "n": 16,
+     "titulo": "Cash",
+     "duracao": "4:26"
+    },
+    {
+     "n": 17,
+     "titulo": "Seven Ways of Going",
+     "duracao": "8:17"
+    },
+    {
+     "n": 18,
+     "titulo": "Dancing Barefoot",
+     "duracao": "6:26"
+    },
+    {
+     "n": 19,
+     "titulo": "Free Money",
+     "duracao": "4:59"
+    },
+    {
+     "n": 20,
+     "titulo": "Gandhi",
+     "duracao": "10:38"
+    },
+    {
+     "n": 21,
+     "titulo": "Peaceable Kingdom",
+     "duracao": "5:45"
+    },
+    {
+     "n": 22,
+     "titulo": "Gloria",
+     "duracao": "9:24"
+    }
+   ],
+   "duracao_min": 136,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trampin%27",
+   "resumo_en": "Trampin' is the ninth studio album by Patti Smith, released April 27, 2004. It was the first album Smith released on the Columbia Records label. Rolling Stone magazine placed the record on its list of \"The Top 50 Albums of 2004\".",
+   "spotify": "3od0OdWDIIO8fF9Plb8Qiu",
+   "youtube": null
+  },
+  {
+   "id": "60b69db0-3651-3bb2-9d5b-87d8c09fdf59",
+   "titulo": "Twelve",
+   "data": "2007-04-13",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/0d94257a-9b39-459b-bbba-968a602f3e7d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Are You Experienced?",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Everybody Wants to Rule the World",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Helpless",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Gimme Shelter",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Within You Without You",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "White Rabbit",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Changing of the Guards",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "The Boy in the Bubble",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Soul Kitchen",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Smells Like Teen Spirit",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Midnight Rider",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Pastime Paradise",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 65,
+    "media": 6.4,
+    "fontes": 10
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Twelve_%28Patti_Smith_album%29",
+   "resumo_en": "Twelve is the tenth studio album by Patti Smith, released April 17, 2007 on Columbia Records. The album contains twelve tracks, all of which are covers. It debuted on the Billboard 200 at number 60, with 11,000 copies sold in its first week. A promotional EP entitled Two More was also released, featuring two covers that are not on the album: \"Perfect Day\" by Lou Reed and \"Here I Dreamt I Was an Architect\" by the Decemberists.",
+   "spotify": "2r4tFFrAv3tgLjmCl0rLeR",
+   "youtube": null
+  },
+  {
+   "id": "bfcf3e2e-f81f-4cb5-acbc-8679a6e7c4ed",
+   "titulo": "Banga",
+   "data": "2012-06-04",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/38fcb4c9-7e5a-4b45-9ed6-f64f08d72a0a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Amerigo",
+     "duracao": "4:36"
+    },
+    {
+     "n": 2,
+     "titulo": "April Fool",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Fuji-san",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "This Is the Girl",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Banga",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Maria",
+     "duracao": "5:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Mosaic",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Tarkovsky (The Second Stop Is Jupiter)",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Nine",
+     "duracao": "5:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Seneca",
+     "duracao": "5:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Constantine's Dream",
+     "duracao": "10:19"
+    },
+    {
+     "n": 12,
+     "titulo": "After the Gold Rush",
+     "duracao": "4:13"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 81,
+    "media": 7.9,
+    "fontes": 8
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Banga_%28album%29",
+   "resumo_en": "Banga is the eleventh studio album by American rock musician Patti Smith, released on June 1, 2012, on Columbia Records. Recorded throughout 2011 at New York's Electric Lady Studios and Hoboken's Hobo Recorders, Banga was produced by Smith, Tony Shanahan, Jay Dee Daugherty and collaborator Lenny Kaye. The album includes a number of guest musicians including Tom Verlaine of Television, Italian band Casa del Vento, Jack Petruzzelli and Smith's own children, Jackson and Jesse Paris.\nInspired by Smith's \"unique dreams and observations\", the material on Banga focuses on \"a wide range of human experience\" and features songs about history, current affairs, death and nature. The album was announced alongside the release of its lead single, \"April Fool\", as a digital download on April 1, 2012.",
+   "spotify": "67epO9J9KoY8KSFA4xC4kA",
+   "youtube": null
+  },
+  {
+   "id": "6388bf4a-72c6-407e-b88f-c9038dc82c2c",
+   "titulo": "Killer Road",
+   "data": "2016-06-02",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/3c5c5aaa-4f3d-425c-b7ef-7f476a2ab7c4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Killer Road",
+     "duracao": "4:29"
+    },
+    {
+     "n": 2,
+     "titulo": "My Heart Is Empty",
+     "duracao": "6:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Evening of Light",
+     "duracao": "5:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Saeta",
+     "duracao": "4:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Secret Side",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Fearfully in Danger (live)",
+     "duracao": "6:42"
+    },
+    {
+     "n": 7,
+     "titulo": "I Will Be Seven (live)",
+     "duracao": "6:18"
+    },
+    {
+     "n": 8,
+     "titulo": "The Sphinx (live)",
+     "duracao": "7:07"
+    },
+    {
+     "n": 9,
+     "titulo": "My Only Child",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e3fca626-4e21-4303-a3e9-59c5e6d90d11",
+   "titulo": "The Peyote Dance",
+   "data": "2019-05-31",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/dc80b584-50c0-4cca-acc8-2477fa24c983/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Una nota sobre el peyote",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Indian Culture",
+     "duracao": "9:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Tutuguri: The Rite of the Black Sun",
+     "duracao": "5:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Tutuguri: The Rite of Black Night",
+     "duracao": "9:57"
+    },
+    {
+     "n": 5,
+     "titulo": "The New Revelations of Being",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Alienation and Black Magic",
+     "duracao": "10:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Ivry",
+     "duracao": "6:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Basalówala Aminá Ralámuli Paísila",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0070d13d-51a7-49c6-8908-5735faab7174",
+   "titulo": "Mummer Love",
+   "data": "2019-11-08",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/188c7f59-6bcd-43cd-9046-9a50858437c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Aw Abadir",
+     "duracao": "1:15"
+    },
+    {
+     "n": 2,
+     "titulo": "La Maison de Rimbaud",
+     "duracao": "10:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Eternity",
+     "duracao": "6:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Song of the Highest Tower",
+     "duracao": "4:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Mummer Love",
+     "duracao": "8:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Farewell",
+     "duracao": "8:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Bad Blood",
+     "duracao": "7:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Sensation",
+     "duracao": "3:58"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2fe77004-980d-4ebf-921a-cb0d44b3dd14",
+   "titulo": "Peradam",
+   "data": "2020-09-03",
+   "ano": "2020",
+   "capa": "https://coverartarchive.org/release/3361056d-93c2-41ba-9516-eb9691d76c40/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nanda Devi",
+     "duracao": "3:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Peradam",
+     "duracao": "7:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Knowledge of the Self",
+     "duracao": "5:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Dawn in Rishikesh",
+     "duracao": "4:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Spiritual Death",
+     "duracao": "7:46"
+    },
+    {
+     "n": 6,
+     "titulo": "The Four Cardinal Times",
+     "duracao": "4:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Hymn to the Liquid",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Vera",
+     "duracao": "7:28"
+    },
+    {
+     "n": 9,
+     "titulo": "The Rat",
+     "duracao": "7:50"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce5de1d1-07f3-49d8-aae2-7da52151ccba",
+   "titulo": "Correspondences, Vol. 1",
+   "data": "2024-05-03",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/b05a7173-35f3-41bc-a308-6ebaa78e69fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pasolini",
+     "duracao": "12:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Medea",
+     "duracao": "14:07"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "02bf5478-3408-409b-9e27-be608f2ca064",
+   "titulo": "Correspondences, Volume Two",
+   "data": "2025-05",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/cb5fef21-9928-4c87-ba34-932ee5879652/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Children of Cherbobyl",
+     "duracao": "15:00"
+    },
+    {
+     "n": 2,
+     "titulo": "The Acolyte, the Artist and Nature",
+     "duracao": "13:12"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

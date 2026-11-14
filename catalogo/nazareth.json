@@ -1,0 +1,1964 @@
+{
+ "id": "nazareth",
+ "nome": "Nazareth",
+ "cena": "Descobertas do acervo",
+ "mbid": "88f219d8-4140-4191-af4b-de81c7c587c4",
+ "wikidata": "Q683695",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1968",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "rock",
+  "aor",
+  "classic rock",
+  "soft rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Nazareth_-_Wacken_Open_Air_2018_02.jpg/500px-Nazareth_-_Wacken_Open_Air_2018_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Nazareth",
+ "resumo_pt": "Nazareth é uma banda de rock escocesa formada na cidade de Dunfermline em 1968 pelo vocalista Dan McCafferty, o guitarrista Manny Charlton, o baixista Pete Agnew e o baterista Darrell Sweet. A banda teve vários sucessos, entre eles a composição de Felice Bryant e Boudleaux Bryant, \"Love Hurts\", nos anos 1970. No dia 30 de agosto de 2013, o vocalista Dan McCafferty anunciou sua aposentadoria das turnês em razão de uma doença pulmonar obstrutiva crônica (DPOC). Em 24 de fevereiro de 2014, Linton Osborne foi anunciado como seu substituto. Após cerca de um ano, em 13 de fevereiro de 2015, Carl Sentance assumiu os vocais da banda. Em dezembro de 2025, Carl Sentance deixou o Nazareth, sendo substituído pelo cantor suíço Gianni Pontillo, ex-vocalista da banda Victory.",
+ "resumo_en": "Nazareth are a Scottish hard rock band formed in Dunfermline in 1968 that had many hit singles and albums in Canada, the United Kingdom, and a number of other European countries beginning in the early 1970s. The breadth of their popularity expanded internationally, including in the United States, with their 1975 album Hair of the Dog, which featured their hits \"Hair of the Dog\" and a cover of the ballad \"Love Hurts\". They have continued to record and tour internationally for more than 50 years.",
+ "albuns": [
+  {
+   "id": "61fe7e06-0344-3197-bfc0-4d1fd57bce65",
+   "titulo": "Nazareth",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/21f1b43d-408f-4ba3-a29f-ede06a314f8c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Witchdoctor Woman",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Dear John",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Empty Arms, Empty Heart",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "I Had a Dream",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Red Light Lady",
+     "duracao": "6:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Fat Man",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Country Girl",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Morning Dew",
+     "duracao": "7:11"
+    },
+    {
+     "n": 9,
+     "titulo": "King Is Dead",
+     "duracao": "4:44"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Nazareth_%28album%29",
+   "resumo_en": "Nazareth is the debut album by the Scottish hard rock band Nazareth, released in 1971. The album featured the hit single \"Dear John\" and a cover of \"Morning Dew.\"",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b927b247-1666-360a-91ba-3c5fafaead14",
+   "titulo": "Exercises",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/e4bedd52-44b2-4f1d-8cae-c0e810c30352/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Will Not Be Led",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Cat’s Eye, Apple Pie",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "In My Time",
+     "duracao": "3:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Woke Up This Morning",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Called Her Name",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Fool About You",
+     "duracao": "2:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Love, Now You’re Gone",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Madelaine",
+     "duracao": "5:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Sad Song",
+     "duracao": "2:17"
+    },
+    {
+     "n": 10,
+     "titulo": "1692 (Glen Coe Massacre)",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Exercises_%28album%29",
+   "resumo_en": "Exercises is the second studio album by the Scottish hard rock band Nazareth, released in 1972. Although their music is most accurately described as \"blues-tinged hard rock\" (CD liner notes), this record is quite far from the band's more standard fare, featuring, quite surprisingly, a number of acoustic arrangements, several songs with orchestral strings, and traditional Scottish airs.  Indeed, the album's \"1692 (Glen Coe Massacre)\" is about a real incident in Scottish history, namely, the massacre of Glencoe.  The album is also significant for its Roy Thomas Baker production—only his third project, and well before his breakthrough works with Queen in the mid-seventies—and its oddly 'new wave' cover-art (designed by CCS Associates).  An early version of the Razamanaz song, \"Woke Up This Morning\", also makes an appearance on Side 1. There were no cover versions on the album: it wouldn't be until their 10th studio album, No Mean City, that there was another album totally written by the band members.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "012ced1a-45b5-3736-aaf8-35d6fad66fcc",
+   "titulo": "Loud ’n’ Proud",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/80ab7d54-7ddd-474d-8d38-e03821014b80/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Go Down Fighting",
+     "duracao": "3:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Not Faking It",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn on Your Receiver",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Teenage Nervous Breakdown",
+     "duracao": "3:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Free Wheeler",
+     "duracao": "5:32"
+    },
+    {
+     "n": 6,
+     "titulo": "This Flight Tonight",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Child in the Sun",
+     "duracao": "4:54"
+    },
+    {
+     "n": 8,
+     "titulo": "The Ballad of Hollis Brown",
+     "duracao": "9:11"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loud_%27n%27_Proud",
+   "resumo_en": "Loud 'n' Proud is the fourth studio album by the Scottish hard rock band Nazareth, and their second album released in 1973. The album was produced by Deep Purple's bassist Roger Glover.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1c9736e1-a608-3deb-aa2d-b60d21f6e2ab",
+   "titulo": "Razamanaz",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/477b6475-47b6-4a76-87e3-10c93a29ea6e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Razamanaz",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Alcatraz",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Vigilante Man",
+     "duracao": "5:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Woke Up This Morning",
+     "duracao": "3:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Night Woman",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Bad, Bad Boy",
+     "duracao": "3:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Sold My Soul",
+     "duracao": "4:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Too Bad, Too Sad",
+     "duracao": "2:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Broken Down Angel",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Razamanaz",
+   "resumo_en": "Razamanaz is the third studio album by the Scottish hard rock band Nazareth, released in May 1973. It was the band's first LP record to break the charts and was produced by Roger Glover of Deep Purple, who the band was on tour with at the time. \"Woke Up This Morning\" was re-recorded for this album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3056bf8e-c292-35da-b006-fb719d753211",
+   "titulo": "Rampant",
+   "data": "1974-05",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/d1592659-099b-4054-bf3d-13007776ad8e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Silver Dollar Forger (Parts 1 & 2)",
+     "duracao": "5:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Glad When You’re Gone",
+     "duracao": "4:07"
+    },
+    {
+     "n": 3,
+     "titulo": "Loved and Lost",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Shanghai’d in Shanghai",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Jet Lag",
+     "duracao": "6:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Light My Way",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Sunshine",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Shapes of Things / Space Safari",
+     "duracao": "6:16"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rampant_%28album%29",
+   "resumo_en": "Rampant is the fifth studio album by the Scottish hard rock band Nazareth, released in 1974. It was their third album to be produced by Roger Glover, and proved to be the last time they would work with him.\nThe track \"Loved and Lost\" was sampled by DJ Shadow on \"Enemy Lines\" from his 2011 album The Less You Know, The Better.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d3178fcf-56f6-3188-b921-f57d98876434",
+   "titulo": "Hair of the Dog",
+   "data": "1975-04",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/0112ad5d-038e-460c-863a-2f521a8e55a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hair of the Dog",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Miss Misery",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Guilty",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Changin’ Times",
+     "duracao": "6:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Beggar’s Day",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Rose in the Heather",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Whiski Drinkin’ Woman",
+     "duracao": "5:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Please Don’t Judas Me",
+     "duracao": "9:50"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hair_of_the_Dog_%28album%29",
+   "resumo_en": "Hair of the Dog is the sixth studio album by the Scottish hard rock band Nazareth, released in April 1975. The album was recorded at Escape Studios, Kent, with additional recording and mixing at AIR Studios, London. It is the group's best-known and highest-selling release, with over two million copies sold worldwide.\nAfter three albums with Deep Purple's Roger Glover producing, Manny Charlton stepped into that position, one he filled for several subsequent albums.",
+   "spotify": "4v7ImrdxXL4rYPutcdmyXV",
+   "youtube": null
+  },
+  {
+   "id": "1bc8ecb3-008b-36bd-aa3b-3c9d7300fbb2",
+   "titulo": "Play ’n’ the Game",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/2a92fb44-5328-41c1-b7d1-43e1392d5fd8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Somebody to Roll",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Down Home Girl",
+     "duracao": "5:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Flying",
+     "duracao": "4:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Waiting for the Man",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Born to Love",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "I Want to Do Everything for You",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don’t Want to Go On Without You",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Wild Honey",
+     "duracao": "3:05"
+    },
+    {
+     "n": 9,
+     "titulo": "L.A. Girls",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Play_%27n%27_the_Game",
+   "resumo_en": "Play 'n' the Game is the eighth studio album by Scottish hard rock band Nazareth, released in November 1976.",
+   "spotify": "4aQ1QpaYtSC4xT5rlKPjDc",
+   "youtube": null
+  },
+  {
+   "id": "67d10906-4afd-373f-813c-428e7388c87b",
+   "titulo": "Close Enough for Rock ’n’ Roll",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/3e3d11cf-a62b-4569-b55b-198492b352f1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Telegram",
+     "duracao": "7:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Vicki",
+     "duracao": "2:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Homesick Again",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Vancouver Shakedown",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Born Under the Wrong Sign",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "Loretta",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Carry Out Feelings",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Lift the Lid",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "You're the Violin",
+     "duracao": "4:45"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Close_Enough_for_Rock_%27n%27_Roll",
+   "resumo_en": "Close Enough for Rock 'n' Roll is the seventh studio album by the Scottish hard rock band Nazareth, released in 1976.\nThe lead track, \"Telegram\", describes the band's experience while touring of hangovers, travel by aeroplane and limousine, customs, FM radio, girls, breakfast, press reception, soundcheck and finally the show over a guitar riff that bursts into a short version of the Byrds hit before returning to the riff and the story.  It includes the album title in the lyrics. This references a saying among guitar players: \"It doesn't matter if your guitar isn't fully in tune, as long as it's 'close enough for rock 'n' roll.'\"  \"Telegram\" (parts 1–3 only) was Nazareth's concert opener for many years, including the 1981 shows recorded for the Snaz album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ed5bfedd-6493-32fd-b118-ad81b0d2a994",
+   "titulo": "Expect No Mercy",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/0b28104d-511d-4e4f-8a6e-efdfe916c2e3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Expect No Mercy",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Gone Dead Train",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Shot Me Down",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Revenge Is Sweet",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Gimme What’s Mine",
+     "duracao": "3:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Kentucky Fried Blues",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "New York Broken Toy",
+     "duracao": "3:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Busted",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "Place in Your Heart",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "All the Kings Horses",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Expect_No_Mercy",
+   "resumo_en": "Expect No Mercy is the ninth studio album by Scottish hard rock band Nazareth, released in 1977. The original version was rejected by the label and these versions were the bonus tracks on the Salvo CD. The originally released version saw the reintroduction of a heaviness after the two previously more laid back albums and the tracks were noticeably shorter with only the final track clocking in at over four minutes.",
+   "spotify": "70Wekp5i4CFXyp64QoENXp",
+   "youtube": null
+  },
+  {
+   "id": "601b5e30-af94-3350-981c-3a7ccfe010ff",
+   "titulo": "No Mean City",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/c1a7fe2b-6d84-4378-b6e7-8ba4cd87c437/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just to Get Into It",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "May the Sunshine",
+     "duracao": "4:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Simple Solution",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Star",
+     "duracao": "4:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Claim to Fame",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Whatever You Want Babe",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "What's in It for Me",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "No Mean City, Parts 1 & 2",
+     "duracao": "5:14"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 5.4,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/No_Mean_City_%28album%29",
+   "resumo_en": "No Mean City is the tenth studio album by the Scottish hard rock band Nazareth, released in 1979.  The album title comes from the 1935 novel No Mean City and features artwork illustrated by Rodney Matthews. With this record the band's sound was heavier, considering the addition of guitarist Zal Cleminson of The Sensational Alex Harvey Band. It sold very well at the time, with the main single \"Star\", preceded by \"Whatever You Want Babe\". The popularity of the album allowed the band to play with several big names such as Thin Lizzy, on their 1978/79 tour. It was their first album since their second release, Exercises in 1972, not to contain at least one cover song.",
+   "spotify": "3hm4ERjiF3KDz8jkLSg6Ev",
+   "youtube": null
+  },
+  {
+   "id": "3057a94d-976a-3881-bbe0-0d460cdcd6cc",
+   "titulo": "Malice in Wonderland",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/34a28de2-bde7-4231-a749-c8b7363d80c1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Holiday",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Showdown at the Border",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Talkin’ to One of the Boys",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Heart’s Grown Cold",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Fast Cars",
+     "duracao": "4:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Big Boy",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Talkin’ ’Bout Love",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Fallen Angel",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Ship of Dreams",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Turning a New Leaf",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 5.3,
+    "fontes": 3
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Malice_in_Wonderland_%28Nazareth_album%29",
+   "resumo_en": "Malice in Wonderland is the eleventh studio album by Scottish hard rock band Nazareth, released in February 1980. After the heavy lurch of the previous album, the band chose to follow a more commercial path and the album produced the hit singles \"Holiday\" and \"Heart's Grown Cold\". This is the second and last studio album to feature guitarist Zal Cleminson of the Sensational Alex Harvey Band as a member of the band.\nThe album was re-issued on Compact Disc in June 1990. The larger 2010 edition brought a range of bonus tracks, all extracted from a concert at the legendary Hammersmith Odeon, which were broadcast by the BBC for the In Concert program in 1980. It is a very varied album, with melodic and heavy songs like \"Talkin' to One of the Boys\" and \"Showdown at the Border\" and the flirtation with a reggae feeling in \"Big Boy\".",
+   "spotify": "3qTuS9OqHMbcxh6jN9F8h4",
+   "youtube": null
+  },
+  {
+   "id": "6a0f4783-61f4-3798-8f2b-9bfe59f5182d",
+   "titulo": "The Fool Circle",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/95080022-134b-48a1-9295-5e15819c48b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dressed to Kill",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Another Year",
+     "duracao": "3:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Moonlight Eyes",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Pop the Silo",
+     "duracao": "3:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Let Me Be Your Leader",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "We Are the People",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Every Young Man’s Dream",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Part of You",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Cocaine (live version)",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Victoria",
+     "duracao": "3:19"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Fool_Circle",
+   "resumo_en": "The Fool Circle is the twelfth studio album by Scottish hard rock band Nazareth, released in February 1981. \"Cocaine\" was a live cover of the song written by J. J. Cale and recorded in 1977 by Eric Clapton. There are remastered editions of the album with different sets of bonus tracks.\nBecause in 1997 Castle Communications was unwilling to produce a 2-CD set of the double live album 'Snaz, four tracks were removed so that a remastered version could be released on a single CD. Rob Corich, who was doing the remastering, included these songs here as bonus tracks to rectify this.\nThe Fool Circle is notable for a reggae sound on many of the songs. In an interview bassist Pete Agnew commented:\n\"'Fool Circle' was the nearest we came to making a concept album, trying to inject a bit of humour into a pretty heavy subject. I think the fact that we recorded it on the island of Montserrat might account for a teeny bit of reggae poking its way through.\"",
+   "spotify": "30Csjwc2SLR9GQxWqfEdUE",
+   "youtube": null
+  },
+  {
+   "id": "1a8179ec-7a42-3e98-9bad-f0e1df15cb1d",
+   "titulo": "2 X S",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/cd00133b-859a-4740-9895-8339449ed2f5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Leads to Madness",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Boys in the Band",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "You Love Another",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Gatecrash",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Games",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Back to the Trenches",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Dream On",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Lonely in the Night",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Preservation",
+     "duracao": "4:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Take the Rap",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Mexico",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/2XS",
+   "resumo_en": "2XS is the thirteenth studio album by the Scottish hard rock band Nazareth, released internationally in 1982 by Vertigo Records, whereas its distribution was handled by NEMS International in the United Kingdom and by A&M Records in North America. Recorded and mixed at AIR Studios on the island of Montserrat, the album was produced and engineered by John Punter.\n2XS peaked at number 122 in the United States during a ten-week chart stay, marking the last time Nazareth managed to reach the Billboard 200. Three singles were released from the album. The lead single, \"Love Leads to Madness\", reached number 3 in South Africa and the song itself was a US radio staple peaking at number 19 on the Billboard Mainstream Rock chart. While the second single, \"Games\", failed to chart elsewhere, the third one, \"Dream On\", was a European hit, reaching number 2 in Switzerland, number 4 in Austria and number 15 in Germany.",
+   "spotify": "1N4h1MUXSHbgnE1LuLZCvy",
+   "youtube": null
+  },
+  {
+   "id": "4b03c3c3-548d-3a17-acc3-37a4190a1c6c",
+   "titulo": "Sound Elixir",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/5e2ce0f0-6d07-4c7b-8be8-282af1766cd8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All Nite Radio",
+     "duracao": "4:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Milk and Honey",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Whippin’ Boy",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Rain on the Window",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Backroom Boys",
+     "duracao": "3:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Why Don’t You Read the Book",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "I Ran",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Rags to Riches",
+     "duracao": "3:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Local Still",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Where Are You Now",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sound_Elixir",
+   "resumo_en": "Sound Elixir is the fourteenth studio album by the Scottish hard rock band Nazareth, released in June 1983 by Vertigo Records.",
+   "spotify": "5r0XjKFecCjZYBFoZm6DPF",
+   "youtube": null
+  },
+  {
+   "id": "4cbdf8de-6f33-40c9-9f15-799c4d5e218b",
+   "titulo": "The Catch",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/1ac0f4da-e397-4c9c-af80-8dc4e4f9e3cf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Party Down",
+     "duracao": "6:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Ruby Tuesday",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Last Exit Brooklyn",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Moondance",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Love of Freedom",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "This Month’s Messiah",
+     "duracao": "5:19"
+    },
+    {
+     "n": 7,
+     "titulo": "You Don’t Believe in Us",
+     "duracao": "6:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweetheart Tree",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Road to Nowhere",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Catch_%28album%29",
+   "resumo_en": "The Catch is the fifteenth studio album by the Scottish hard rock band Nazareth, released in 1984. The album in a way was a return to the Nazareth sound and tradition of the albums, covering songs like \"Ruby Tuesday\" and \"Road to Nowhere\".",
+   "spotify": "400n6v38t1Rl7xMJFdtOQy",
+   "youtube": null
+  },
+  {
+   "id": "5ee64e49-30d1-3803-a871-f1b1159fde3c",
+   "titulo": "Cinema",
+   "data": "1986-02",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/54da858c-fc91-4751-910d-efdc46d9100e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cinema",
+     "duracao": "4:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Juliet",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Just Another Heartache",
+     "duracao": "5:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Other Side of You",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Hit the Fan",
+     "duracao": "3:38"
+    },
+    {
+     "n": 6,
+     "titulo": "One From the Heart",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Salty Salty",
+     "duracao": "3:48"
+    },
+    {
+     "n": 8,
+     "titulo": "White Boy",
+     "duracao": "5:08"
+    },
+    {
+     "n": 9,
+     "titulo": "A Veteran’s Song",
+     "duracao": "5:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Telegram",
+     "duracao": "5:59"
+    },
+    {
+     "n": 11,
+     "titulo": "This Flight Tonight",
+     "duracao": "3:38"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cinema_%28Nazareth_album%29",
+   "resumo_en": "Cinema is the sixteenth studio album by the Scottish hard rock band Nazareth, released in 1986 by Vertigo Records.",
+   "spotify": "3pmkdV12TTGlrVoqeiqEuH",
+   "youtube": null
+  },
+  {
+   "id": "1e8138bc-c614-3217-b0de-bc2e03b4c9dc",
+   "titulo": "Snakes ’n’ Ladders",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/0ba18b31-0a7b-4e7b-a634-33b3e83a0d75/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We Are Animals",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Lady Luck",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Hang on to a Dream",
+     "duracao": "4:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Piece of My Heart",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Trouble",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "The Key",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Back to School",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Girls",
+     "duracao": "3:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Donna - Get Off That Crack",
+     "duracao": "4:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Helpless",
+     "duracao": "4:59"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Snakes_%27n%27_Ladders",
+   "resumo_en": "Snakes 'n' Ladders is the seventeenth studio album by Scottish hard rock band Nazareth, released in 1989 through Vertigo Records. It was the final album to feature Manny Charlton, who left the band in 1990.",
+   "spotify": "7LbcbUiDbnuk1D9OyFvx6w",
+   "youtube": null
+  },
+  {
+   "id": "8b8329d1-e33e-3de8-bbd8-8f150768a682",
+   "titulo": "No Jive",
+   "data": "1991-11",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/4115558c-8db4-4ca2-9d9a-83284c0cdffe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hire and Fire",
+     "duracao": "5:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Do You Wanna Play House",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Right Between the Eyes",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Everytime It Rains",
+     "duracao": "4:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Keeping Our Love Alive",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Thinkin’ Man’s Nightmare",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Cover Your Heart",
+     "duracao": "4:35"
+    },
+    {
+     "n": 8,
+     "titulo": "Lap of Luxury",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "The Rowan Tree / Tell Me That You Love Me",
+     "duracao": "4:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Cry Wolf",
+     "duracao": "4:27"
+    },
+    {
+     "n": 11,
+     "titulo": "This Flight Tonight (1991 version)",
+     "duracao": "3:35"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/No_Jive",
+   "resumo_en": "No Jive is the eighteenth studio album by the Scottish hard rock band Nazareth, released in 1991.\nThis album marked the return of guitarist Billy Rankin as a replacement for departing guitarist Manny Charlton.",
+   "spotify": "7fLGiuw0CSi0jwkTmMMUja",
+   "youtube": null
+  },
+  {
+   "id": "1f4e4e7b-e8cf-3e13-b52c-ded4ac3bafc3",
+   "titulo": "Move Me",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/02b36e18-af85-4dba-a4f4-6ab18bf7693d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let Me Be Your Dog",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Can’t Shake Those Shakes",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Crack Me Up",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Move Me",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Steamroller",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Stand by Your Beds",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Rip It Up",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Demon Alcohol",
+     "duracao": "2:58"
+    },
+    {
+     "n": 9,
+     "titulo": "You Had It Comin’",
+     "duracao": "5:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Bring It On Home to Mama",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Burning Down",
+     "duracao": "4:45"
+    },
+    {
+     "n": 12,
+     "titulo": "Love Hurts",
+     "duracao": "4:06"
+    },
+    {
+     "n": 13,
+     "titulo": "Razamanaz (unplugged)",
+     "duracao": "4:34"
+    },
+    {
+     "n": 14,
+     "titulo": "My White Bicycle (unplugged)",
+     "duracao": "2:56"
+    },
+    {
+     "n": 15,
+     "titulo": "This Flight Tonight (unplugged)",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Move_Me_%28Nazareth_album%29",
+   "resumo_en": "Move Me is the nineteenth studio album by the Scottish hard rock band Nazareth, released in 1994.\nThe sonic retooling of Nazareth continued with Billy Rankin standing his ground, taking on more songwriting responsibilities. Of the eleven tracks on the Move Me, eight are credited solely to Rankin, who also received co-writing credits on three others. Returning to CAS Studios in Shuren, Germany, Nazareth teamed up with Tony Taverner to handle the production.",
+   "spotify": "4xF8mxjSbjjyQjSFZBERkx",
+   "youtube": null
+  },
+  {
+   "id": "5e344817-5e1d-3891-b62c-700996290041",
+   "titulo": "Boogaloo",
+   "data": "1998-08",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/1d478b60-5555-431d-acad-6f5b4fdbbc04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Light Comes Down",
+     "duracao": "3:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Cheerleader",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Loverman",
+     "duracao": "4:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Open Up Woman",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Talk Talk",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Nothing So Good",
+     "duracao": "5:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Party in the Kremlin",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "God Save the South",
+     "duracao": "6:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Robber and the Roadie",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Waiting",
+     "duracao": "5:45"
+    },
+    {
+     "n": 11,
+     "titulo": "May Heaven Keep You",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Boogaloo_%28Nazareth_album%29",
+   "resumo_en": "Boogaloo is the twentieth studio album by the Scottish hard rock band Nazareth, released in August 1998. It was produced by Mike Ging.\nIt was the last studio recording to feature drummer and founding member Darrell Sweet before his death in 1999. The album also features guest performances by bassist Pete Agnew's son Lee, who later replaced Sweet as the band's drummer.\nThe album was recorded at the Parkgate studios, Catsfield in East Sussex in 1997. 11 of the 12 tracks were mixed in early 1998, with horns and guitar overdubs added. \nDuring the original recording, the Hale-Bopp comet was clearly visible.\nOriginal versions of some tracks (as mixed in 1997), including one that didn't make the 1998 remix, were included in the Loud And Proud box set.\nThe character on the album artwork is known as 'Boogaloo'. The phrase comes from what the band would say when ready to go onstage – \"Let's Boogaloo\", a choice made in discussion with the fanclub editor who was present during the recording.",
+   "spotify": "3cSW8hGcwSc7KNlkk5HK14",
+   "youtube": null
+  },
+  {
+   "id": "8dbe7475-3f5e-4a8e-8b44-8c90bcf641d8",
+   "titulo": "Then and Now",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/1c8d229b-1d78-4f69-892d-d3a501373d87/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Hurts (Glasgow 1981)",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Broken Down Angel (London 1980)",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Hair of the Dog (Glasgow 1981)",
+     "duracao": "5:51"
+    },
+    {
+     "n": 4,
+     "titulo": "This Flight Tonight (Fort Pierce 1982)",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Razamanaz (Vancouver 1983)",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Expect No Mercy (Glasgow 1981)",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Light Comes Down",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Loverman",
+     "duracao": "4:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Talk Talk",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Party in the Kremlin",
+     "duracao": "3:37"
+    },
+    {
+     "n": 11,
+     "titulo": "God Save the South",
+     "duracao": "6:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Robber and the Roadie",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "93929d52-0504-377d-a005-c55e112eadcf",
+   "titulo": "The Newz",
+   "data": "2008-03-31",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/8f52b8a2-58aa-45ed-9dc3-e2330dc22008/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Goin’ Loco",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Day at the Beach",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Liar",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "See Me",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Enough Love",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Warning",
+     "duracao": "4:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Mean Streets",
+     "duracao": "4:15"
+    },
+    {
+     "n": 8,
+     "titulo": "Road Trip",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Gloria",
+     "duracao": "5:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Keep On Travellin’",
+     "duracao": "3:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Loggin’ On",
+     "duracao": "4:47"
+    },
+    {
+     "n": 12,
+     "titulo": "The Gathering",
+     "duracao": "7:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Dying Breed",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Newz_%28album%29",
+   "resumo_en": "The Newz is the twenty-first studio album by the hard rock band Nazareth, released in March 2008. It is the first album by the band to feature new drummer and Pete Agnew’s son Lee, who replaced original drummer Darrell Sweet, who died in 1999.",
+   "spotify": "7ukvAhVvEbdzbJ68jcjMJF",
+   "youtube": null
+  },
+  {
+   "id": "f1264816-87ce-4dce-b4be-5c2f6374add8",
+   "titulo": "Big Dogz",
+   "data": "2011-04-15",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/00ba63f2-e968-422c-8784-eb71b12b698e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Big Dog’s Gonna Howl",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Claimed",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "No Mean Monster",
+     "duracao": "5:01"
+    },
+    {
+     "n": 4,
+     "titulo": "When Jesus Comes to Save the World",
+     "duracao": "6:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Radio",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Time and Tide",
+     "duracao": "7:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Lifeboat",
+     "duracao": "4:58"
+    },
+    {
+     "n": 8,
+     "titulo": "The Toast",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Watch Your Back",
+     "duracao": "4:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Butterfly",
+     "duracao": "5:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Sleeptalker",
+     "duracao": "5:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Big Boy",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Simple Solution",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "My White Bicycle",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Love Hurts",
+     "duracao": null
+    },
+    {
+     "n": 16,
+     "titulo": "Open Up Woman",
+     "duracao": null
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Big_Dogz",
+   "resumo_en": "Big Dogz is the twenty-second album by the Scottish rock band Nazareth, released in April 2011. It was produced by Jimmy Murrison.",
+   "spotify": "1bV4kxdR26QhiThM5iRsft",
+   "youtube": null
+  },
+  {
+   "id": "39dce2f2-fec8-4117-ad90-3d4b6e3bc41a",
+   "titulo": "Rock ’n’ Roll Telephone",
+   "data": "2014-06-03",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/229b47be-e948-484a-8a3b-847eb97ce365/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boom Bang Bang",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "One Set of Bones",
+     "duracao": "3:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Back 2B4",
+     "duracao": "4:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Winter Sunlight",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Rock 'n' Roll Telephone",
+     "duracao": "5:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Punch a Hole in the Sky",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Long Long Time",
+     "duracao": "4:16"
+    },
+    {
+     "n": 8,
+     "titulo": "The Right Time",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Not Today",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Speakeasy",
+     "duracao": "3:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Just a Ride",
+     "duracao": "2:46"
+    },
+    {
+     "n": 12,
+     "titulo": "God of the Mountain",
+     "duracao": "3:42"
+    },
+    {
+     "n": 13,
+     "titulo": "Wanna Feel Good?",
+     "duracao": "3:46"
+    },
+    {
+     "n": 14,
+     "titulo": "God Save the South (live)",
+     "duracao": "6:57"
+    },
+    {
+     "n": 15,
+     "titulo": "Big Boy (live)",
+     "duracao": "5:36"
+    },
+    {
+     "n": 16,
+     "titulo": "Kentucky Fried Blues (live)",
+     "duracao": "4:29"
+    },
+    {
+     "n": 17,
+     "titulo": "Sunshine (live)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 18,
+     "titulo": "Expect No Mercy (live)",
+     "duracao": "5:04"
+    }
+   ],
+   "duracao_min": 76,
+   "critica": {
+    "media": 9.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_%27n%27_Roll_Telephone",
+   "resumo_en": "Rock 'n' Roll Telephone is the twenty-third album by Scottish rock band Nazareth, released in June 2014 by Union Square Music. It is their last album with original singer Dan McCafferty who left the group before its release, and later died in 2022.",
+   "spotify": "1w8ez5nR8Y96Pa4jinXPwe",
+   "youtube": null
+  },
+  {
+   "id": "bd5d26aa-16ae-47ec-bd1d-2ed8b2eaa369",
+   "titulo": "Tattooed on My Brain",
+   "data": "2018-10-12",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/a054c79e-cc48-4686-a3fd-b5c2573bed13/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Never Dance With the Devil",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Tattooed on My Brain",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "State of Emergency",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Rubik’s Romance",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Pole to Pole",
+     "duracao": "4:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Push",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "The Secret Is Out",
+     "duracao": "5:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Don’t Throw Your Love Away",
+     "duracao": "3:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Crazy Molly",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Silent Symphony",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "What Goes Around",
+     "duracao": "4:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Change",
+     "duracao": "3:55"
+    },
+    {
+     "n": 13,
+     "titulo": "You Call Me",
+     "duracao": "6:10"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tattooed_on_My_Brain",
+   "resumo_en": "Tattooed on My Brain is the 24th studio album by the Scottish hard rock band Nazareth. It was released on 12 October 2018 by Frontiers Records. It was produced by Yann Rouiller who also worked with Nazareth on their previous albums, The Newz (2008) and Rock 'n' Roll Telephone (2014). It is the first Nazareth album to feature new vocalist Carl Sentance, replacing original singer Dan McCafferty who had to leave the band in 2013 due to health issues.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ce388490-add0-43e9-ad22-d47cf53c749c",
+   "titulo": "Surviving the Law",
+   "data": "2022-04-15",
+   "ano": "2022",
+   "capa": "https://coverartarchive.org/release/3d059edb-83bc-4d21-a08b-ce068f09469b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Strange Days",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "You Gotta Pass It Around",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Runaway",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Better Leave It Out",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Mind Bomb",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Sweet Kiss",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Falling in Love",
+     "duracao": "3:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Waiting for the World to End",
+     "duracao": "2:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Let the Whisky Flow",
+     "duracao": "3:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Sinner",
+     "duracao": "2:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Ciggies & Booze",
+     "duracao": "3:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Psycho Skies",
+     "duracao": "3:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Love Breaks",
+     "duracao": "3:11"
+    },
+    {
+     "n": 14,
+     "titulo": "You Made Me",
+     "duracao": "5:14"
+    },
+    {
+     "n": 15,
+     "titulo": "Let the Whisky Flow (acoustic version)",
+     "duracao": "3:08"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Surviving_the_Law",
+   "resumo_en": "Surviving the Law is the 25th studio album by Scottish hard rock band Nazareth. It was released on 15 April 2022 by Frontiers Records and produced by Yann Rouiller who also worked with Nazareth on their previous albums, Tattooed on My Brain (2018), The Newz (2008) and Rock 'n' Roll Telephone (2014). It is the second and last Nazareth album to feature vocalist Carl Sentance before his departure from the band in 2025. Original singer Dan McCafferty had given his blessings to Nazareth's new singer and left the band in 2014 citing health issues. McCafferty died on 08 November 2022.",
+   "spotify": "3Z5yXM2AoHoIUMqNXtZjYI",
+   "youtube": null
+  }
+ ]
+}
