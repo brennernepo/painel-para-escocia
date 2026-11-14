@@ -1,0 +1,1863 @@
+{
+ "id": "gary-numan",
+ "nome": "Gary Numan",
+ "cena": "Descobertas do acervo",
+ "mbid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+ "wikidata": "Q331731",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1958",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "new wave",
+  "post-punk",
+  "electronic",
+  "synth-pop",
+  "gothic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Gary_Numan.jpg/500px-Gary_Numan.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Gary_Numan",
+ "resumo_pt": "Gary Anthony James Webb (Londres, 8 de março de 1958), mais conhecido pelo nome artístico Gary Numan, é um cantor, compositor e músico britânico, sendo considerado um dos pioneiros da música eletrônica. Fundador da banda Tubeway Army, Numan é conhecido por seus hits de 1979 \"Are 'Friends' Electric?\" e \"Cars\", clássicos do synth-pop, movimento do qual Numan é frequentemente citado como uma das figuras mais importantes.\nOs álbuns de Numan nunca bateram recordes de vendas, mas ele é considerado um pioneiro da música eletrônica comercial. O uso de temas de ficção científica e, principalmente, sua combinação da energia da música punk com os recursos da eletrônica, influenciaram diversos artistas dos anos 1980.",
+ "resumo_en": "Gary Anthony James Webb (born 8 March 1958), known professionally as Gary Numan, is an English musician. He entered the music industry as frontman of the new wave band Tubeway Army. The band's second and final album, 1979's Replicas, reached No. 1 on the UK Albums Chart, and spawned a UK No. 1 single with \"Are 'Friends' Electric?\". Following the band's split, he released his debut solo album The Pleasure Principle later in 1979, which also reached No. 1 in the UK and produced another UK No. 1 single with \"Cars\". Although his commercial popularity peaked in the late 1970s and early 1980s, he has maintained a strong cult following since then. He has sold over 10 million records.\nNuman is regarded as a pioneer of electronic music. He developed a signature sound consisting of heavy synthesizer hooks fed through guitar effects pedals, and is also known for his distinctive voice and androgynous \"android\" persona. He received an Ivor Novello Award, the Inspiration Award, from the British Academy of Songwriters, Composers, and Authors in 2017. In June 2025, Numan made his debut at the Glastonbury Festival.",
+ "albuns": [
+  {
+   "id": "2ba66802-18a7-3bf4-958c-db871a6e7f34",
+   "titulo": "The Pleasure Principle",
+   "data": "1979-09-07",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/a3b644af-6ef0-4cbf-a85f-6c979e210238/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Airlane",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Metal",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Complex",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Films",
+     "duracao": "4:11"
+    },
+    {
+     "n": 5,
+     "titulo": "M.E.",
+     "duracao": "5:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Tracks",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Observer",
+     "duracao": "2:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Conversation",
+     "duracao": "7:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Cars",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Engineers",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 9
+   },
+   "publico": 8.3,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Pleasure_Principle_%28album%29",
+   "resumo_en": "The Pleasure Principle is the debut solo studio album by the English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.\nThe album features his biggest hit, \"Cars\".",
+   "spotify": "6wHjdKs7VVPVcqaHRzwqJt",
+   "youtube": null
+  },
+  {
+   "id": "71672090-e958-332d-b2f1-da9dc4aa373c",
+   "titulo": "Telekon",
+   "data": "1980-09-05",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/86c3914c-daf6-4c00-a438-47a52178925c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Wreckage",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "The Aircrash Bureau",
+     "duracao": "5:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Telekon",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Remind Me to Smile",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Sleep by Windows",
+     "duracao": "4:54"
+    },
+    {
+     "n": 6,
+     "titulo": "I’m an Agent",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "I Dream of Wires",
+     "duracao": "5:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Remember I Was Vapour",
+     "duracao": "5:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Please Push No More",
+     "duracao": "5:31"
+    },
+    {
+     "n": 10,
+     "titulo": "The Joy Circuit",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.7,
+    "fontes": 5
+   },
+   "publico": 8.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Telekon",
+   "resumo_en": "Telekon is the second solo studio album by the English new wave musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the \"machine\" section of his career, following Replicas and The Pleasure Principle (both 1979).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0f81f5f3-540a-37a0-95ec-010a0e8288dc",
+   "titulo": "Dance",
+   "data": "1981-09-04",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/1abf1116-d0f8-371e-82f1-5c5486fc759d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slowcar to China",
+     "duracao": "9:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Night Talk",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "A Subway Called ‘You’",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Cry, the Clock Said",
+     "duracao": "9:55"
+    },
+    {
+     "n": 5,
+     "titulo": "She’s Got Claws",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Crash",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Boys Like Me",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Stories",
+     "duracao": "3:08"
+    },
+    {
+     "n": 9,
+     "titulo": "My Brother’s Time",
+     "duracao": "4:34"
+    },
+    {
+     "n": 10,
+     "titulo": "You Are, You Are",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Moral",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": 10,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dance_%28Gary_Numan_album%29",
+   "resumo_en": "Dance is the third solo studio album by the English new wave musician Gary Numan, released on 4 September 1981 by Beggars Banquet Records. It was the first studio album Numan released after his \"Farewell Concerts\" staged at Wembley Arena (although Numan would return to performing live shows in 1982).\nDance features the single \"She's Got Claws\", which reached no. 6 on the singles chart in September 1981 during a six-week chart run. The album itself reached no. 3 on the UK charts and remained on the charts for eight weeks, and was certified with a silver disc in the UK for over 60,000 sales.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ebcedc4a-e640-3b1e-a14a-78928e6eee5a",
+   "titulo": "I, Assassin",
+   "data": "1982-09-03",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/1bf813cd-0c90-3ede-acd5-8f2349252591/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "White Boys and Heroes",
+     "duracao": "6:27"
+    },
+    {
+     "n": 2,
+     "titulo": "War Songs",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "A Dream of Siam",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Music for Chameleons",
+     "duracao": "6:07"
+    },
+    {
+     "n": 5,
+     "titulo": "This Is My House",
+     "duracao": "4:57"
+    },
+    {
+     "n": 6,
+     "titulo": "I, Assassin",
+     "duracao": "5:28"
+    },
+    {
+     "n": 7,
+     "titulo": "The 1930’s Rust",
+     "duracao": "3:58"
+    },
+    {
+     "n": 8,
+     "titulo": "We Take Mystery to Bed",
+     "duracao": "6:13"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 4.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/I%2C_Assassin",
+   "resumo_en": "I, Assassin is the fourth solo studio album by the English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: \"Music for Chameleons\", \"We Take Mystery (To Bed)\" and \"White Boys and Heroes\", all of which reached the UK Top 20 (\"We Take Mystery\" peaked at No. 9, and is Numan's last Top 10 single to date).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "441b18f3-eeec-3670-ab2e-1d2acff4dd1f",
+   "titulo": "Warriors",
+   "data": "1983-09-16",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/e90da312-e8d7-402c-83fe-b38be62649d4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Warriors",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "I Am Render",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "The Iceman Comes",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "This Prison Moon",
+     "duracao": "3:19"
+    },
+    {
+     "n": 5,
+     "titulo": "My Centurion",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Sister Surprise",
+     "duracao": "8:27"
+    },
+    {
+     "n": 7,
+     "titulo": "The Tick Tock Man",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Love Is Like Clock Law",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "The Rhythm of the Evening",
+     "duracao": "4:54"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.0,
+    "fontes": 2
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Warriors_%28Gary_Numan_album%29",
+   "resumo_en": "Warriors is the fifth solo studio album by the English new wave musician Gary Numan, released on 16 September 1983 by Beggars Banquet Records. It would be his last studio release on that label.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "92c486ab-6d47-3e7f-bd66-994cd5552b3f",
+   "titulo": "Berserker",
+   "data": "1984-11",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/76e219b6-f75c-4c4b-8c2a-a18ce61b2492/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Berserker",
+     "duracao": "6:40"
+    },
+    {
+     "n": 2,
+     "titulo": "This Is New Love",
+     "duracao": "8:45"
+    },
+    {
+     "n": 3,
+     "titulo": "The Secret",
+     "duracao": "6:40"
+    },
+    {
+     "n": 4,
+     "titulo": "My Dying Machine",
+     "duracao": "9:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Cold Warning",
+     "duracao": "6:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Pump It Up",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "The God Film",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "A Child With the Ghost",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "The Hunter",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 58,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Berserker_%28Gary_Numan_album%29",
+   "resumo_en": "Berserker is the sixth solo studio album by the English new wave musician Gary Numan, released on 9 November 1984, it was his first album to be released under Numan's own record label, Numa Records.",
+   "spotify": "5e1VHC0WX04srwN0NbozkS",
+   "youtube": null
+  },
+  {
+   "id": "0d7c2366-0c3e-3400-a39c-d3940a0b2559",
+   "titulo": "The Fury",
+   "data": "1985-09",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/376bb05c-9524-4c04-a23b-ad3c59608806/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Call Out the Dogs",
+     "duracao": "4:42"
+    },
+    {
+     "n": 2,
+     "titulo": "This Disease",
+     "duracao": "4:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Your Fascination",
+     "duracao": "4:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Miracles",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "The Pleasure Skin",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Creatures",
+     "duracao": "5:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Tricks",
+     "duracao": "5:43"
+    },
+    {
+     "n": 8,
+     "titulo": "God Only Knows",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "I Still Remember",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Fury_%28album%29",
+   "resumo_en": "The Fury is the seventh solo studio album by the English musician Gary Numan, originally released on 16 September 1985, it was Numan's second release on his self-owned Numa Records label. It saw him continuing to explore the sample-heavy industrial sound that he had developed for his previous album Berserker in 1984.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0648aedd-3d59-3d9e-9868-db6d3623fb76",
+   "titulo": "Strange Charm",
+   "data": "1986-10",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/c526e5c9-63be-4daa-8e97-27781a5106f4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Breathing",
+     "duracao": "6:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Unknown and Hostile",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "The Sleeproom",
+     "duracao": "5:19"
+    },
+    {
+     "n": 4,
+     "titulo": "New Thing From London Town",
+     "duracao": "5:56"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can’t Stop",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Strange Charm",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "The Need",
+     "duracao": "7:07"
+    },
+    {
+     "n": 8,
+     "titulo": "This Is Love",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Strange_Charm",
+   "resumo_en": "Strange Charm is the eighth solo studio album by the English musician Gary Numan, originally released on 27 October 1986, it was Numan's third release on his self-owned Numa Records label. The album was not released in the United States until 1999 when it was issued in a digitally remastered form with five bonus tracks by Cleopatra Records. In the same year it was also reissued with bonus tracks in the United Kingdom by Eagle Records.",
+   "spotify": "2ZKIB3SArOnbm2KD8FSDXe",
+   "youtube": null
+  },
+  {
+   "id": "f3d1df5d-522e-383c-945f-c8abec66ec3c",
+   "titulo": "Metal Rhythm",
+   "data": "1988-10",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/d004cac3-c92d-4105-9ee7-c7f124b06e48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Is Emotion",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Hunger",
+     "duracao": "4:30"
+    },
+    {
+     "n": 3,
+     "titulo": "New Anger",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Devious",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "America",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Voix",
+     "duracao": "5:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Respect",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Young Heart",
+     "duracao": "5:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Cold Metal Rhythm",
+     "duracao": "4:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Don’t Call My Name",
+     "duracao": "3:41"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Metal_Rhythm",
+   "resumo_en": "Metal Rhythm is the ninth solo studio album by the English musician Gary Numan, released in September 1988 by I.R.S. Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "41df0fd7-5bed-3ddb-833f-5cd3ec56a635",
+   "titulo": "Outland",
+   "data": "1991-03",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/7de009f1-40f4-40ab-87a8-dbccbbc834b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Interval 1)",
+     "duracao": "1:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Soul Protection",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Confession",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "My World Storm",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Dream Killer",
+     "duracao": "4:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Dark Sunday",
+     "duracao": "4:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Outland",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Heart",
+     "duracao": "4:05"
+    },
+    {
+     "n": 9,
+     "titulo": "(Interval 2)",
+     "duracao": "0:19"
+    },
+    {
+     "n": 10,
+     "titulo": "From Russia Infected",
+     "duracao": "4:30"
+    },
+    {
+     "n": 11,
+     "titulo": "(Interval 3)",
+     "duracao": "0:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Devotion",
+     "duracao": "4:12"
+    },
+    {
+     "n": 13,
+     "titulo": "Whisper",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Outland_%28Gary_Numan_album%29",
+   "resumo_en": "Outland is the tenth solo studio album by the English musician Gary Numan, released on 18 March 1991. It was Numan's second and last studio album to be released by I.R.S. Records.  It reached Number 39 on the UK charts. The songs \"Heart\" and \"My World Storm\" were released as singles; \"Heart\" charted at Number 43, while \"My World Storm\" eventually became a US-only promo single after a planned UK release was shelved due to the inner turmoil at the label around the release of the album. The latter however reached Number 46 on the US dance chart. The reaction to it was mixed with Q Magazine calling it 'repetitive and full of affectation'.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "db3bcf01-6538-3df4-90b7-c608d55d2b8f",
+   "titulo": "Machine + Soul",
+   "data": "1992-07",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/41c9d262-10d3-44ff-a4de-1f51975890c3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Machine and Soul",
+     "duracao": "5:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Generator",
+     "duracao": "6:13"
+    },
+    {
+     "n": 3,
+     "titulo": "The Skin Game",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Poison",
+     "duracao": "5:05"
+    },
+    {
+     "n": 5,
+     "titulo": "I Wonder",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Emotion",
+     "duracao": "5:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Cry",
+     "duracao": "4:39"
+    },
+    {
+     "n": 8,
+     "titulo": "U Got the Look",
+     "duracao": "3:58"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Isolation",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 3.0,
+    "media": 3.0,
+    "fontes": 1
+   },
+   "publico": 3.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Machine_and_Soul",
+   "resumo_en": "Machine + Soul is the eleventh solo studio album by the English musician Gary Numan, released in 1992. It was a low point, released primarily to help pay off debt, and was the last of his efforts to make his music more radio-friendly. His subsequent work went in the much darker and more industrial direction that would revive his career.\nNuman's two previous studio albums, 1988's Metal Rhythm and 1991's Outland, had been released through IRS Records. However, Numan's relationship with that label had become strained, leading to his quitting IRS and reactivating his own label, Numa Records, on which he had released his work from 1984 until 1986. He continued to release albums on that label, before closing it down permanently after Sacrifice (1994).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "62a5c360-c882-3f4e-8756-11150ea52bca",
+   "titulo": "The Radial Pair",
+   "data": "1994-08",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/b759844c-2250-462a-a116-bed3b4596a35/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Kiss Me and Die",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Mission",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Dark Rain",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Cloud Dancing",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Virus",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Cold House",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Red Sky",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Machine Heart",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f96373ba-bbc1-3e0e-b4f5-910edaa84e0f",
+   "titulo": "Sacrifice",
+   "data": "1994-10",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/09f09b17-21b1-4a21-b50f-8a8d8762e02a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pray",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Deadliner",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "A Question of Faith",
+     "duracao": "4:52"
+    },
+    {
+     "n": 4,
+     "titulo": "Desire",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Scar",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Love and Napalm",
+     "duracao": "5:07"
+    },
+    {
+     "n": 7,
+     "titulo": "You Walk in My Soul",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Magic",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Bleed",
+     "duracao": "6:10"
+    },
+    {
+     "n": 10,
+     "titulo": "The Seed of a Lie",
+     "duracao": "5:27"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sacrifice_%28Gary_Numan_album%29",
+   "resumo_en": "Sacrifice is the twelfth solo studio album by the English musician Gary Numan, released in October 1994 by Numa Records. Its release is often cited as marking the start of a critical and artistic rejuvenation for Numan. The album was released in the US in 1997 with a different title, Dawn, based on the comic book character Dawn. It also carried cover art by Joseph Michael Linsner.\nA number of tracks displayed an antipathy towards religion, a stance that had been noted in isolated songs from early in Numan's career but which became more pronounced on this album and its successors, Exile (1997) and Pure (2000). While Exile was a fictional story, Numan later stated that \"Sacrifice looks at my actual beliefs.\"\nAn \"extended\" version of Sacrifice, approximately twenty five minutes longer than the original, was released in 1995. The same year, most of the tracks appeared on Dark Light, Numan's live recording from the Sacrifice tour.\nThe album was released in 1999 with extra tracks in the US and UK by Eagle Records (Cleopatra Records). The US edition has a somewhat different selection of extra tracks in addition to new artwork, just like earlier reissues of albums that were first published",
+   "spotify": "0UFrd5C8rkG5lyYoskcqIr",
+   "youtube": null
+  },
+  {
+   "id": "d03dd754-b70f-3ccc-bdca-13d3effdf48a",
+   "titulo": "Human",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/b389efbf-acdb-404f-a299-b9fee6f26cb7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Navigators",
+     "duracao": "2:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Bombay",
+     "duracao": "2:29"
+    },
+    {
+     "n": 3,
+     "titulo": "We Fold Space",
+     "duracao": "1:10"
+    },
+    {
+     "n": 4,
+     "titulo": "A Cry in the Dark",
+     "duracao": "2:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Manic",
+     "duracao": "1:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Empire",
+     "duracao": "2:19"
+    },
+    {
+     "n": 7,
+     "titulo": "A Little Lost Soul",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "The Visitor",
+     "duracao": "1:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Magician",
+     "duracao": "2:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Undercover",
+     "duracao": "1:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Halloween",
+     "duracao": "1:13"
+    },
+    {
+     "n": 12,
+     "titulo": "Embryo",
+     "duracao": "1:58"
+    },
+    {
+     "n": 13,
+     "titulo": "Elm Street",
+     "duracao": "1:26"
+    },
+    {
+     "n": 14,
+     "titulo": "Harmonos",
+     "duracao": "2:20"
+    },
+    {
+     "n": 15,
+     "titulo": "Big Alien",
+     "duracao": "1:47"
+    },
+    {
+     "n": 16,
+     "titulo": "Blind Faith",
+     "duracao": "1:09"
+    },
+    {
+     "n": 17,
+     "titulo": "New Life",
+     "duracao": "4:01"
+    },
+    {
+     "n": 18,
+     "titulo": "Fairy Tales",
+     "duracao": "2:52"
+    },
+    {
+     "n": 19,
+     "titulo": "Disease",
+     "duracao": "2:22"
+    },
+    {
+     "n": 20,
+     "titulo": "Tidal Wave",
+     "duracao": "1:21"
+    },
+    {
+     "n": 21,
+     "titulo": "Alone and Afraid",
+     "duracao": "1:19"
+    },
+    {
+     "n": 22,
+     "titulo": "Sahara",
+     "duracao": "1:34"
+    },
+    {
+     "n": 23,
+     "titulo": "Cold",
+     "duracao": "1:41"
+    },
+    {
+     "n": 24,
+     "titulo": "Do You Wonder",
+     "duracao": "1:31"
+    },
+    {
+     "n": 25,
+     "titulo": "Betrayal",
+     "duracao": "1:01"
+    },
+    {
+     "n": 26,
+     "titulo": "Suspicion",
+     "duracao": "1:03"
+    },
+    {
+     "n": 27,
+     "titulo": "The Unborn",
+     "duracao": "1:59"
+    },
+    {
+     "n": 28,
+     "titulo": "Lethal Injection",
+     "duracao": "1:43"
+    },
+    {
+     "n": 29,
+     "titulo": "Frantic",
+     "duracao": "1:04"
+    },
+    {
+     "n": 30,
+     "titulo": "Mother",
+     "duracao": "0:57"
+    },
+    {
+     "n": 31,
+     "titulo": "Black Heart",
+     "duracao": "1:42"
+    },
+    {
+     "n": 32,
+     "titulo": "Thunder Road",
+     "duracao": "0:34"
+    },
+    {
+     "n": 33,
+     "titulo": "Law and Order",
+     "duracao": "2:02"
+    },
+    {
+     "n": 34,
+     "titulo": "Needles",
+     "duracao": "2:27"
+    },
+    {
+     "n": 35,
+     "titulo": "Climax",
+     "duracao": "0:35"
+    },
+    {
+     "n": 36,
+     "titulo": "Inferno",
+     "duracao": "0:47"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Human_%28Gary_Numan_album%29",
+   "resumo_en": "The following is a comprehensive discography of Gary Numan, a British singer and musician. Numan (born Gary Webb, 1958) released his first record in 1978 as part of the outfit Tubeway Army. Initially unsuccessful, the band scored a huge hit in 1979 with the single \"Are 'Friends' Electric?\" and their second album Replicas, both of which reached number one in the UK. Numan then decided to release further recordings under his own name, beginning with the single \"Cars\" later in 1979. Both this and the subsequent album The Pleasure Principle also reached number one in the UK, and Numan became a leading force in the British electronic music scene. He scored a third number-one album in 1980 with Telekon, and more hit singles and albums until the mid-1980s, when his popularity waned. Despite this, he has continued to record and tour on a regular basis up to the present day, and has seen a resurgence in popularity and credibility in recent years. His 2017 studio album, Savage (Songs from a Broken World), entered the UK Albums Chart at number two, which was Numan's highest chart peak since 1980.  2021's Intruder, also entered the UK charts at number two.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "67327c06-3388-3c9a-8eca-036b6e0ef372",
+   "titulo": "Exile",
+   "data": "1997-10-20",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/fe37ceea-33cf-4638-88ed-d48125ca12b9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dominion Day",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Prophecy",
+     "duracao": "5:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Heaven",
+     "duracao": "5:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Dark",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Innocence Bleeding",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "The Angel Wars",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Absolution",
+     "duracao": "4:58"
+    },
+    {
+     "n": 8,
+     "titulo": "An Alien Cure",
+     "duracao": "6:08"
+    },
+    {
+     "n": 9,
+     "titulo": "Exile",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Exile_%28Gary_Numan_album%29",
+   "resumo_en": "Exile is the thirteenth solo studio album by the English musician Gary Numan, released in October 1997 by Eagle Records. Its release continued a critical upswing in Numan's career which began three years earlier with the release of Sacrifice, and which had been boosted by the release of the Random tribute album earlier in 1997.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d95edc19-0cb1-3671-97cb-3297b19cbf8a",
+   "titulo": "Radio Heart",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/bc91ddd1-fa9d-4082-91a1-1dc8f934cbad/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Radio Heart",
+     "duracao": "3:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Blue Nights",
+     "duracao": "4:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Starlight Jingles",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Strange Thing",
+     "duracao": "4:34"
+    },
+    {
+     "n": 5,
+     "titulo": "All Across the Nation",
+     "duracao": "4:03"
+    },
+    {
+     "n": 6,
+     "titulo": "I'm Alone",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Mad About the Girl",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "London Times",
+     "duracao": "3:46"
+    },
+    {
+     "n": 9,
+     "titulo": "The Victim",
+     "duracao": "4:02"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "322f5036-2616-3ff2-b388-0522825711b7",
+   "titulo": "Pure",
+   "data": "2000-10",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/2bc5c4dd-6c34-4a27-b821-cfe307d6d70f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pure",
+     "duracao": "5:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Walking With Shadows",
+     "duracao": "5:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Rip",
+     "duracao": "5:05"
+    },
+    {
+     "n": 4,
+     "titulo": "One Perfect Lie",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "My Jesus",
+     "duracao": "5:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Fallen",
+     "duracao": "2:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Listen to My Voice",
+     "duracao": "5:12"
+    },
+    {
+     "n": 8,
+     "titulo": "A Prayer for the Unborn",
+     "duracao": "5:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Torn",
+     "duracao": "5:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Little InVitro",
+     "duracao": "4:28"
+    },
+    {
+     "n": 11,
+     "titulo": "I Can't Breathe",
+     "duracao": "5:46"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {
+    "allmusic": 6.0,
+    "metacritic": 67,
+    "media": 4.9,
+    "fontes": 8
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pure_%28Gary_Numan_album%29",
+   "resumo_en": "Pure is the fourteenth solo studio album by the English musician Gary Numan, released in October 2000 by Eagle Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "12d60ac1-59a9-3572-9c80-98eba5b345fe",
+   "titulo": "Jagged",
+   "data": "2006-03-13",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/8f314857-46f3-4596-8ca8-12d4c150324f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pressure",
+     "duracao": "5:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Fold",
+     "duracao": "5:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Halo",
+     "duracao": "4:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Slave",
+     "duracao": "6:02"
+    },
+    {
+     "n": 5,
+     "titulo": "In a Dark Place",
+     "duracao": "6:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Haunted",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Blind",
+     "duracao": "7:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Before You Hate It",
+     "duracao": "5:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Melt",
+     "duracao": "5:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Scanner",
+     "duracao": "6:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Jagged",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jagged",
+   "resumo_en": "Jagged is the fifteenth solo studio album by English musician Gary Numan, his first original album in over five years, following Pure in 2000. Stylistically Jagged was a development of its predecessor's chorus-driven, anthemic industrial sound, utilising heavier electronics and more prominent live drumming. Although reaction to the new record was predominantly positive, critical opinion was more heavily divided than had been the case with the almost universal praise enjoyed by Pure. Reaching number 59 in the UK album charts, Jagged charted no higher than the earlier release, some commentators and fans regarding the long time between albums as a missed opportunity for consolidation in the wake of Pure's reception and the number 13 UK chart position attained by Numan's 2003 single with Rico, \"Crazier\". Jagged was the first album issued on Numan's own Mortal Records label, licensed to Cooking Vinyl. The US release, on Metropolis Records, included an alternate mix of \"Fold\" as a bonus track. In April, Numan embarked on a tour of the UK, Europe and North America to promote the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f9217544-8c3d-4c89-9ae9-520d9f7fd753",
+   "titulo": "Dead Son Rising",
+   "data": "2011-09-15",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/73f1d6dc-7b3e-4f81-bec8-936cfd6b85cc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Resurrection",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Big Noise Transmission",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Dead Sun Rising",
+     "duracao": "4:57"
+    },
+    {
+     "n": 4,
+     "titulo": "When the Sky Bleeds, He Will Come",
+     "duracao": "4:47"
+    },
+    {
+     "n": 5,
+     "titulo": "For the Rest of My Life",
+     "duracao": "5:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Not the Love We Dream Of",
+     "duracao": "5:11"
+    },
+    {
+     "n": 7,
+     "titulo": "The Fall",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "We Are the Lost",
+     "duracao": "5:09"
+    },
+    {
+     "n": 9,
+     "titulo": "For the Rest of My Life (reprise)",
+     "duracao": "5:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Into Battle",
+     "duracao": "5:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Not the Love We Dream Of (piano version)",
+     "duracao": "4:52"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 59,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dead_Son_Rising",
+   "resumo_en": "Dead Son Rising is the sixteenth solo studio album by the English musician Gary Numan, released on 15 September 2011 by Mortal Records.\nOn 12 August 2011, The Quietus debuted a radio edit of the song \"Dead Sun Rising\" on their website. On 28 August 2011, the official Gary Numan website debuted a short \"promo edit\" of the video for the first single, \"The Fall\". After the album's release it spent only one week on the UK album charts, entering at number 87 but also reached number 5 in the German alternative albums chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0a6f95a5-94d1-4faa-8213-88a965ad2b78",
+   "titulo": "Splinter: Songs From a Broken Mind",
+   "data": "2013-10-09",
+   "ano": "2013",
+   "capa": "https://coverartarchive.org/release/e6dd6d9a-4af8-46ad-9ebd-8dc8788fb4bd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Am Dust",
+     "duracao": "4:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Here in the Black",
+     "duracao": "4:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Everything Comes Down to This",
+     "duracao": "4:39"
+    },
+    {
+     "n": 4,
+     "titulo": "The Calling",
+     "duracao": "4:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Splinter",
+     "duracao": "5:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Lost",
+     "duracao": "4:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Hurt Bleed",
+     "duracao": "4:52"
+    },
+    {
+     "n": 8,
+     "titulo": "A Shadow Falls on Me",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Where I Can Never Be",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "We’re the Unforgiven",
+     "duracao": "5:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Who Are You",
+     "duracao": "3:45"
+    },
+    {
+     "n": 12,
+     "titulo": "My Last Day",
+     "duracao": "5:30"
+    },
+    {
+     "n": 13,
+     "titulo": "The Dark In Me",
+     "duracao": "4:52"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 79,
+    "media": 7.5,
+    "fontes": 10
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Splinter_%28Songs_from_a_Broken_Mind%29",
+   "resumo_en": "Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by the English musician Gary Numan, released on 14 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8d21c9dc-ae55-4bf5-a884-507fbc96ecc1",
+   "titulo": "From Inside",
+   "data": "2014-10-07",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/77a82967-4b85-4ba2-9aa9-faabedd23070/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Train",
+     "duracao": "3:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Wasteland",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "We Cross a Bridge Over Death",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "On a Red Lake",
+     "duracao": "2:23"
+    },
+    {
+     "n": 5,
+     "titulo": "The Empty House",
+     "duracao": "2:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Memories of Fire",
+     "duracao": "2:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Doody",
+     "duracao": "2:19"
+    },
+    {
+     "n": 8,
+     "titulo": "So Many Bodies",
+     "duracao": "1:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Refinery",
+     "duracao": "2:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Crows",
+     "duracao": "1:38"
+    },
+    {
+     "n": 11,
+     "titulo": "The Killing",
+     "duracao": "1:41"
+    },
+    {
+     "n": 12,
+     "titulo": "My Part in This Is Over",
+     "duracao": "1:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Almost Inhuman",
+     "duracao": "1:57"
+    },
+    {
+     "n": 14,
+     "titulo": "A Moment of Reflection",
+     "duracao": "3:44"
+    },
+    {
+     "n": 15,
+     "titulo": "Nothing Can Stop Us",
+     "duracao": "1:44"
+    },
+    {
+     "n": 16,
+     "titulo": "The Cave In",
+     "duracao": "1:36"
+    },
+    {
+     "n": 17,
+     "titulo": "A Dream About the Dirty-Faced Girl",
+     "duracao": "1:33"
+    },
+    {
+     "n": 18,
+     "titulo": "The Little Fire Engine",
+     "duracao": "2:36"
+    },
+    {
+     "n": 19,
+     "titulo": "Heaven and Hell",
+     "duracao": "4:42"
+    },
+    {
+     "n": 20,
+     "titulo": "Leviathan",
+     "duracao": "3:29"
+    },
+    {
+     "n": 21,
+     "titulo": "The End of the World",
+     "duracao": "3:08"
+    },
+    {
+     "n": 22,
+     "titulo": "Cee, the Light",
+     "duracao": "3:52"
+    },
+    {
+     "n": 23,
+     "titulo": "Falling",
+     "duracao": "1:51"
+    },
+    {
+     "n": 24,
+     "titulo": "Finding Him",
+     "duracao": "2:41"
+    },
+    {
+     "n": 25,
+     "titulo": "The Bandaged Man",
+     "duracao": "2:27"
+    },
+    {
+     "n": 26,
+     "titulo": "Into the Eternal Flames",
+     "duracao": "2:42"
+    }
+   ],
+   "duracao_min": 67,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e98b92d7-4c39-4c9d-9e14-c179717017b5",
+   "titulo": "Savage: Songs From a Broken World",
+   "data": "2017-09-15",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/1b8a70b4-8e47-4b1d-97e8-f4409e715144/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ghost Nation",
+     "duracao": "4:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Bed of Thorns",
+     "duracao": "5:24"
+    },
+    {
+     "n": 3,
+     "titulo": "My Name Is Ruin",
+     "duracao": "6:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The End of Things",
+     "duracao": "5:01"
+    },
+    {
+     "n": 5,
+     "titulo": "And It All Began With You",
+     "duracao": "6:21"
+    },
+    {
+     "n": 6,
+     "titulo": "When the World Comes Apart",
+     "duracao": "5:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Mercy",
+     "duracao": "5:35"
+    },
+    {
+     "n": 8,
+     "titulo": "What God Intended",
+     "duracao": "5:26"
+    },
+    {
+     "n": 9,
+     "titulo": "If I Said",
+     "duracao": "6:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Pray for the Pain You Serve",
+     "duracao": "5:28"
+    },
+    {
+     "n": 11,
+     "titulo": "Broken",
+     "duracao": "5:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Cold",
+     "duracao": "5:36"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 74,
+    "media": 7.5,
+    "fontes": 4
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Savage_%28Songs_from_a_Broken_World%29",
+   "resumo_en": "Savage (Songs from a Broken World) is the eighteenth solo studio album by the English musician Gary Numan, released on 15 September 2017 by BMG and The End. The album was first announced to be a part of a fan-backed Pledge Music Campaign on 12 November 2015. On 9 November 2018, a follow-up EP titled The Fallen was released. The EP features similar artwork to Savage, and it was intended to complement the album.\nThe album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth Top 10 album, and the first since 1982. It proved to be his highest charting album outside of the number-one albums Replicas, The Pleasure Principle and Telekon from 1979 and 1980 and surpassed 1981's Dance, which reached No. 3. It became his first album since Telekon to chart in multiple countries.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "183152da-ab4d-427d-a7e5-8fc62fba3481",
+   "titulo": "Intruder",
+   "data": "2021-05-21",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/5b474cd0-fa4b-48cb-aa22-b47fcbf105c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Betrayed",
+     "duracao": "4:42"
+    },
+    {
+     "n": 2,
+     "titulo": "The Gift",
+     "duracao": "6:07"
+    },
+    {
+     "n": 3,
+     "titulo": "I Am Screaming",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Intruder",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Is This World Not Enough",
+     "duracao": "5:25"
+    },
+    {
+     "n": 6,
+     "titulo": "A Black Sun",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "The Chosen",
+     "duracao": "4:44"
+    },
+    {
+     "n": 8,
+     "titulo": "And It Breaks Me Again",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Saints and Liars",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Now and Forever",
+     "duracao": "5:57"
+    },
+    {
+     "n": 11,
+     "titulo": "The End of Dragons",
+     "duracao": "5:12"
+    },
+    {
+     "n": 12,
+     "titulo": "When You Fall",
+     "duracao": "5:08"
+    },
+    {
+     "n": 13,
+     "titulo": "The End of Dragons (alt)",
+     "duracao": "4:58"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Intruder_%28album%29",
+   "resumo_en": "Intruder is the nineteenth solo studio album by the English musician Gary Numan, released on 21 May 2021 by BMG and The End. It entered UK Albums Chart at number two, on 28 May 2021.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

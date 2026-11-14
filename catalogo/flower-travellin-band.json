@@ -1,0 +1,355 @@
+{
+ "id": "flower-travellin-band",
+ "nome": "Flower Travellin’ Band",
+ "cena": "Descobertas do acervo",
+ "mbid": "50341127-f60e-4550-bccf-4b0ca1cc754f",
+ "wikidata": "Q5462201",
+ "tipo": "Group",
+ "pais": "JP",
+ "inicio": "1967",
+ "fim": "2011",
+ "ativa": false,
+ "generos": [
+  "heavy psych",
+  "hard rock",
+  "progressive rock",
+  "psychedelic rock",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Flowerknitting.png/500px-Flowerknitting.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Flower_Travellin%27_Band",
+ "resumo_pt": "Flower Travellin' Band (フラワー・トラベリン・バンド, Furawā Toraberin Bando) foi uma banda de rock  japonesa formada em 1967. Flower Travellin' Band esteve ligado ao movimento de contracultura do Japão e foi conhecido por sua mistura de heavy metal com rock psicodélico e progressivo. A banda recebeu grande aclamação da crítica, mas não conseguiu êxito comercial e se separou em 1973, para seus membros seguirem carreiras individuais. No fim de 2007, a banda se reuniu mas se desfez permanentemente após a morte do vocalista Joe Yamanaka em 2011.\nEmbora os lançamentos da banda nunca tenham vendido bem, o Flower Travellin' Band continuou sendo respeitado pela indústria musical. Seus álbuns nunca obtiveram vendas esgotadas mas continuam a ser disponibilizados em novos formatos audiófilos, como SHM-CDs. Os ex-membros da banda continuam a tocar as canções do FTB ao vivo juntos sob o nome de Flower Power com outros músicos.",
+ "resumo_en": "Flower Travellin' Band (Japanese: フラワー・トラベリン・バンド, Hepburn: Furawā Toraberin Bando) was a Japanese rock band that was formed in 1967. They were connected to Japan's counterculture movement and noted for their mixture of early heavy metal with psychedelic and progressive rock. They received wide acclaim from critics but failed to achieve commercial success and separated in 1973 to pursue individual careers. The band reunited in late 2007, but permanently disbanded after the 2011 death of vocalist Joe Yamanaka.\nWhile the band's releases have never sold well they continue to be held in high regard by the music industry. Their albums have never been out of print and they continue to be made available on new audiophile formats such as SHM-CDs. Former members of the Flower Travellin' Band continue to perform FTB songs live together under the name Flower Power with other musicians.",
+ "albuns": [
+  {
+   "id": "66ecf029-c30c-414a-afe8-024a42ac71da",
+   "titulo": "切狂言",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/8a217870-43d2-40ef-baf5-233196ece7ba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "切狂言 (芝居小屋の名役者)",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "人間主体の経営と工事",
+     "duracao": "5:46"
+    },
+    {
+     "n": 3,
+     "titulo": "タイム・マシーン",
+     "duracao": "7:48"
+    },
+    {
+     "n": 4,
+     "titulo": "おまえの世界へ......",
+     "duracao": "6:33"
+    },
+    {
+     "n": 5,
+     "titulo": "恋愛墓地",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "女の教室",
+     "duracao": "3:26"
+    },
+    {
+     "n": 7,
+     "titulo": "男から女を見た科学的調査",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8ce31a7f-d4d3-3213-9121-fa4617596bfd",
+   "titulo": "Anywhere",
+   "data": "1970-10-21",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/a07f3519-70e2-4206-9f4e-b2d3d1a72724/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anywhere (intro)",
+     "duracao": "0:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Louisiana Blues",
+     "duracao": "15:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Sabbath",
+     "duracao": "8:57"
+    },
+    {
+     "n": 4,
+     "titulo": "House of Rising Sun",
+     "duracao": "7:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Twenty First Century Schizoid Man",
+     "duracao": "13:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Anywhere (outro)",
+     "duracao": "0:59"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6eb2d39e-69f0-3db4-9d1e-c547069998e2",
+   "titulo": "Satori",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/ab228bbf-5e8f-4bb0-ab98-e7564f019cbd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Satori, Part 1",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Satori, Part 2",
+     "duracao": "7:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Satori, Part 3",
+     "duracao": "10:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Satori, Part 4",
+     "duracao": "10:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Satori, Part 5",
+     "duracao": "7:55"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 3
+   },
+   "publico": 7.2,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/Satori_%28Flower_Travellin%27_Band_album%29",
+   "resumo_en": "Satori is the second album by Japanese rock band Flower Travellin' Band, and their first of original material. It was released in Japan by Atlantic Records in 1971 and in the US and Canada by GRT Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a98c61cf-af44-371b-a2be-a735e7a63b40",
+   "titulo": "Made in Japan",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/4271ae35-dab5-4099-a625-5c116bf24112/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Introduction",
+     "duracao": "0:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Unaware",
+     "duracao": "5:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Aw Give Me Air",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Kamikaze",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Hiroshima",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Spasms",
+     "duracao": "5:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Heaven and Hell",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "That's All",
+     "duracao": "6:39"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Made_in_Japan_%28Flower_Travellin%27_Band_album%29",
+   "resumo_en": "Made in Japan is the third album by Japanese rock band Flower Travellin' Band, released in 1972.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6bebf11e-500e-30d9-a41a-94deede5f14c",
+   "titulo": "Make Up",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/88adad70-f926-45c1-99e9-b2c665591de1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All the Days",
+     "duracao": "7:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Make Up",
+     "duracao": "3:02"
+    },
+    {
+     "n": 3,
+     "titulo": "Look at My Window",
+     "duracao": "11:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Slowly but Surely",
+     "duracao": "6:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Shadows of Lost Days",
+     "duracao": "4:45"
+    },
+    {
+     "n": 6,
+     "titulo": "Broken Strings",
+     "duracao": "8:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Hiroshima",
+     "duracao": "24:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Suede Shoes",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Satori Pt. 2",
+     "duracao": "9:39"
+    },
+    {
+     "n": 10,
+     "titulo": "After the Concert",
+     "duracao": "7:24"
+    }
+   ],
+   "duracao_min": 87,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "408b3b1e-8253-4b23-ba44-4f0d9adb8f4d",
+   "titulo": "We Are Here",
+   "data": "2008-09-17",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/92972fb5-289c-4477-a8b7-3c13780c0ae2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "What Will You Say",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "We Are Here",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "dYE-jobe",
+     "duracao": "5:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Don't Touch My Dreadlocks",
+     "duracao": "5:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Love Is...",
+     "duracao": "9:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Over And Over",
+     "duracao": "6:07"
+    },
+    {
+     "n": 7,
+     "titulo": "The Sleeping Giant (Resurrection)",
+     "duracao": "6:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Will It",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

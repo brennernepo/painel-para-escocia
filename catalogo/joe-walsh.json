@@ -1,0 +1,787 @@
+{
+ "id": "joe-walsh",
+ "nome": "Joe Walsh",
+ "cena": "Descobertas do acervo",
+ "mbid": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+ "wikidata": "Q354033",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1947",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "blues rock",
+  "classic rock",
+  "country rock",
+  "folk rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Joe_Walsh_2019.jpg/500px-Joe_Walsh_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Joe_Walsh",
+ "resumo_pt": "Joseph Fidler \"Joe\" Walsh (Wichita, 20 de novembro de 1947) é um músico, compositor, escritor e guitarrista estadunidense. Foi considerado o 54º melhor guitarrista da história, em enquete da revista norte-americana Rolling Stone.",
+ "resumo_en": "Joseph Fidler Walsh (born Joseph Woodward Fidler; November 20, 1947) is an American guitarist, singer, and songwriter. Best known as a member of the rock band Eagles, his six-decade career includes solo work and stints in other bands: the James Gang, Ringo Starr & His All-Starr Band, and New Zealand's Herbs. He had success as a solo artist and prolific session musician, appearing on other artists' recordings. In 2011, Rolling Stone ranked him No. 54 on its list of \"100 Greatest Guitarists of All Time\".\nIn the mid-1960s, after attending Kent State University, Walsh played with several local Ohio bands before reaching national fame with the James Gang, whose hit \"Funk 49\" showcased his skills. Roger Abramson signed the James Gang to BPI in Cleveland. After leaving the James Gang in 1972, Walsh formed Barnstorm with Joe Vitale and Kenny Passarelli. Though the band produced three albums, their work was marketed as Walsh solo projects. The last Barnstorm album, So What (1974), featured significant contributions from Eagles members.\nAt producer Bill Szymczyk's suggestion, Walsh joined Eagles in 1975 as guitarist and keyboardist, replacing founding member Bernie Leadon. His first album with them was Hotel California. In 1998, a Guitarist magazine reader's poll named the solos by Walsh and Don Felder on \"Hotel California\" the best guitar solos ever. Guitar World ranked it eighth in the Top 100 Guitar Solos. As a member of Eagles, Walsh was inducted into the Rock and Roll Hall of Fame",
+ "albuns": [
+  {
+   "id": "8a182bc8-df8b-3ac1-ae55-f0cc36171a3f",
+   "titulo": "Barnstorm",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/d43c84bd-399c-4886-8948-8fcd88afe501/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Here We Go",
+     "duracao": "4:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Midnight Visitor",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "One and One",
+     "duracao": "1:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Giant Bohemoth",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Mother Says",
+     "duracao": "6:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Birdcall Morning",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Home",
+     "duracao": "2:53"
+    },
+    {
+     "n": 8,
+     "titulo": "I'll Tell the World",
+     "duracao": "3:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Turn to Stone",
+     "duracao": "5:20"
+    },
+    {
+     "n": 10,
+     "titulo": "Comin' Down",
+     "duracao": "1:53"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Barnstorm_%28album%29",
+   "resumo_en": "Barnstorm is the debut studio album by the American rock band Barnstorm, which was formed by guitarist Joe Walsh after he left the James Gang. The album, credited to Walsh as his first solo album, was released in October 1972 on ABC-Dunhill Records. It was the first album to be recorded at Caribou Ranch in Colorado.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3b4294d3-e2c3-3478-9545-ae2b03e81897",
+   "titulo": "The Smoker You Drink, the Player You Get",
+   "data": "1973-06-18",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/bf7d6ffd-71d2-4bf3-87d5-3815d8f77cce/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rocky Mountain Way",
+     "duracao": "5:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Book Ends",
+     "duracao": "2:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Wolf",
+     "duracao": "3:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Midnight Moodies",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Happy Ways",
+     "duracao": "2:41"
+    },
+    {
+     "n": 6,
+     "titulo": "Meadows",
+     "duracao": "4:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Dreams",
+     "duracao": "5:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Days Gone By",
+     "duracao": "5:58"
+    },
+    {
+     "n": 9,
+     "titulo": "(Daydream) Prayer",
+     "duracao": "1:52"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Smoker_You_Drink%2C_the_Player_You_Get",
+   "resumo_en": "The Smoker You Drink, the Player You Get is the second solo studio album by American rock guitarist and singer Joe Walsh, released in 1973 by ABC-Dunhill Records in the United States and the United Kingdom, and was also released in Germany. It proved to be his commercial breakthrough, largely on the strength of the Top 40 hit single, \"Rocky Mountain Way\", which helped propel the album into the Top 10.\nOn this album, Walsh shares the vocals and songwriting with the other three members of Barnstorm: drummer/multi-instrumentalist Joe Vitale, bassist Kenny Passarelli, and new member, keyboardist Rocke Grace. As a result, a variety of styles are explored on this album; there are elements of blues, jazz, folk, pop, and even Caribbean music.  However, the album is only credited to Walsh as a solo artist, not to Barnstorm, which led to the band's demise. After the success of this album, Walsh continued making albums as a solo artist.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a96af8ae-bb13-3db2-98a1-90e828b69c7e",
+   "titulo": "So What",
+   "data": "1974-12-14",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/e559f3da-11bf-4109-8425-b18db094c62a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Welcome to the Club",
+     "duracao": "5:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Falling Down",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Pavane of the Sleeping Beauty",
+     "duracao": "1:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Time Out",
+     "duracao": "4:27"
+    },
+    {
+     "n": 5,
+     "titulo": "All Night Laundry Mat Blues",
+     "duracao": "1:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Turn to Stone",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Help Me Thru the Night",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Country Fair",
+     "duracao": "6:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Song for Emma",
+     "duracao": "4:39"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/So_What_%28Joe_Walsh_album%29",
+   "resumo_en": "So What is the third studio album by the American singer-songwriter and multi-instrumentalist Joe Walsh. It was released in late 1974 on ABC-Dunhill Records.\nIt contains hard rock songs such as \"Welcome To The Club\" and a remake of the Barnstorm track, \"Turn To Stone\".  It also contains more introspective material such as \"Help Me Through the Night\" and \"Song For Emma\".\nOn a few tracks, Don Henley, Glenn Frey, and Randy Meisner of the Eagles contributed backing vocals. Over a year and a half later, Walsh would be drafted into the Eagles to replace founding member Bernie Leadon, playing on their best-selling studio album Hotel California (1976).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "817f9f60-c014-3a4f-b2b0-6fe73cbd0a9f",
+   "titulo": "“But Seriously, Folks…”",
+   "data": "1978-05-16",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/3fb57944-262a-4758-92fb-05eaf0c37e12/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Over and Over",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Second Hand Store",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Indian Summer",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "At the Station",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Tomorrow",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Inner Tube",
+     "duracao": "1:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Theme From Boat Weirdos",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Life’s Been Good",
+     "duracao": "8:56"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/But_Seriously%2C_Folks...",
+   "resumo_en": "But Seriously, Folks... is the fourth studio album by the American singer-songwriter and multi-instrumentalist Joe Walsh. The album was released in mid-1978, on the Asylum label. It included the satirical song \"Life's Been Good\". The original 8:04 (8:57 on CD releases with a speech at the end) album version of this track was edited down to 4:35 for the single release, and this became Walsh's biggest solo hit, peaking at No. 12 on the Billboard Hot 100.\nThe album also featured the other four members of the Eagles – which Walsh had joined two years earlier – as well as singer-keyboardist Jay Ferguson, a former member of the groups Spirit and Jo Jo Gunne (who co-wrote one track on the album), drummer Joe Vitale from Walsh's former band Barnstorm, and bassist Willie Weeks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2becf9eb-c11c-3054-9bdf-aea85018a86b",
+   "titulo": "There Goes the Neighborhood",
+   "data": "1981-05-15",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/46d8eb64-75c4-44c2-bc81-bcbfe233c4aa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Things",
+     "duracao": "5:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Made Your Mind Up",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Down on the Farm",
+     "duracao": "3:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Rivers (of the Hidden Funk)",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "A Life of Illusion",
+     "duracao": "3:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Bones",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Rockets",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "You Never Know",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/There_Goes_the_Neighborhood_%28album%29",
+   "resumo_en": "There Goes the Neighborhood is the fifth solo studio album by the American singer-songwriter, multi-instrumentalist Joe Walsh. The album was recorded shortly after the breakup of his band the Eagles and released in May 1981, by Asylum Records, three years after Walsh's album But Seriously, Folks... (1978).\nThe album features contributions from two Eagles' members Don Felder and Timothy B. Schmit as well as session musicians including Russ Kunkel, David Lindley, Bob Mayo, and Victor Feldman.\nThe album peaked at No. 20 on the Billboard 200. The album only spawned one charting single, \"A Life of Illusion\", which would become one of Walsh's most popular songs and reached No. 34 at on the Billboard Hot 100. The single also topped the Hot Mainstream Rock Tracks chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "96d48a14-87cc-386d-8d8f-6b7146c3be00",
+   "titulo": "You Bought It—You Name It",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/5dceac69-0971-4c42-bda6-e24e83496274/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Can Play That Rock & Roll",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Told You So",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Here We Are Now",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "The Worry Song",
+     "duracao": "4:41"
+    },
+    {
+     "n": 5,
+     "titulo": "\"I.L.B.T.'s\"",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Space Age Whiz Kids",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Love Letters",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Class of '65",
+     "duracao": "4:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Shadows",
+     "duracao": "5:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Theme From Island Weirdos",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/You_Bought_It_%E2%80%93_You_Name_It",
+   "resumo_en": "You Bought It – You Name It is the sixth studio album by the American singer-songwriter and multi-instrumentalist Joe Walsh. The album was released in mid 1983, on the label Warner Bros., two years after Walsh's successful album There Goes the Neighborhood. It was Walsh's second and final studio album to feature George \"Chocolate\" Perry as producer.\nThe album was received negatively by the majority of music critics, while other reviewers noted good points to the album. It was also not as successful as Walsh's previous albums, peaking at #48 on the Billboard 200. However, Walsh found some moderate success with the single \"Space Age Whiz Kids\", about the pinnacle of the 1980s video arcade craze. The single peaked at #52 on the US Billboard Hot 100 chart, and at #21 on the Hot Mainstream Rock Tracks chart. An outtake from The Long Run (1979), \"Told You So\" features a guest appearance from former Eagles' member Don Felder (who also co-wrote the track). The album also features contributions from two other Eagles' members Don Henley, and Timothy B. Schmit, as well as former REO Speedwagon lead singer Mike Murphy, session guitarist Waddy Wachtel, and the drummer Joe Vitale from Walsh's fo",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+   "titulo": "The Confessor",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/05849352-820e-4eb1-b24c-54f51e7b893e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Problems",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "I Broke My Leg",
+     "duracao": "3:11"
+    },
+    {
+     "n": 3,
+     "titulo": "Bubbles",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Slow Dancing",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "15 Years",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "The Confessor",
+     "duracao": "7:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Rosewood Bitters",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Good Man Down",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Dear John",
+     "duracao": "2:40"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Confessor_%28album%29",
+   "resumo_en": "The Confessor is the seventh solo studio album by American rock musician Joe Walsh, released on May 21, 1985 by Warner Bros. Records, and Full Moon Records. It was produced by Grammy Award-winning producer and sound engineer Keith Olsen as well as Walsh himself. The album peaked at number 65 on the Billboard 200.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b02480f4-3234-3291-802e-c0ba7f4911b9",
+   "titulo": "Got Any Gum?",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/3dfcaa54-c8df-4f07-9e2c-a929c8f7faa0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Radio Song",
+     "duracao": "3:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Fun",
+     "duracao": "3:04"
+    },
+    {
+     "n": 3,
+     "titulo": "In My Car",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "Malibu",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Half of the Time",
+     "duracao": "5:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Got Any Gum?",
+     "duracao": "1:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Up to Me",
+     "duracao": "5:21"
+    },
+    {
+     "n": 8,
+     "titulo": "No Peace in the Jungle",
+     "duracao": "5:57"
+    },
+    {
+     "n": 9,
+     "titulo": "Memory Lane",
+     "duracao": "4:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Time",
+     "duracao": "4:07"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Got_Any_Gum%3F",
+   "resumo_en": "Got Any Gum? is the eighth solo studio album by the American singer-songwriter Joe Walsh. It was originally released in October 1987, on the label Warner Brothers in the United States, and Full Moon in the UK, which was the last Walsh album to be released by either of those labels. The album features eight original songs which were written by Walsh with others and by himself, the album also features two covers, including the song \"In My Car\", which was co-written by Walsh with Ringo Starr, the former drummer for The Beatles (the song was originally released on Starr's ninth studio solo album Old Wave, in 1983). The album also features vocal contributions from JD Souther and Survivor's lead vocalist Jimi Jamison.\nThe album was received negatively by the majority of music critics, while other reviewers noted good points to the album. It was also a commercial disappointment, peaking at #113 on the Billboard 200, which marked the beginning of a downturn in Walsh's fortunes on the album charts, and ultimately led to both Warner Bros. and Full Moon dropping him from their labels. Two singles were issued from Got Any Gum?: \"The Radio Song\" and \"In My Car\". The album's first and leading si",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2178d435-5446-308e-80ea-8d867227e219",
+   "titulo": "Ordinary Average Guy",
+   "data": "1991-04-23",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/6eec27ec-ed1b-4c55-9d04-fdaed4d8afc7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Two Sides to Every Story",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Ordinary Average Guy",
+     "duracao": "4:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The Gamma Goochee",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "All of a Sudden",
+     "duracao": "4:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Alphabetical Order",
+     "duracao": "4:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Look at Us Now",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "I’m Actin’ Different",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "Up All Night",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "You Might Need Somebody",
+     "duracao": "4:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Where I Grew Up (prelude to School Days)",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "School Days",
+     "duracao": "5:20"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ordinary_Average_Guy",
+   "resumo_en": "Ordinary Average Guy is the ninth solo studio album by American singer-songwriter and multi-instrumentalist Joe Walsh. The album was released in mid 1991.  It was Walsh's first album of entirely new music since Got Any Gum? in 1987, and his first solo album to be issued internationally by Epic following a four-year alliance with Warner Bros. Records in the United States and Canada. The album features Ringo Starr, Survivor's lead vocalist Jimi Jamison, and the drummer Joe Vitale from Walsh's former band Barnstorm. Vitale also sings the lead vocals on the final track of the album, \"School Days\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "336fb6b8-7129-3180-a57a-0d527f8f2b1e",
+   "titulo": "Songs for a Dying Planet",
+   "data": "1992-08-11",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/36566bd9-e074-4e82-8b15-6a917a01e24e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Shut Up",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Fairbanks Alaska",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Coyote Love",
+     "duracao": "4:43"
+    },
+    {
+     "n": 4,
+     "titulo": "I Know",
+     "duracao": "1:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Certain Situations",
+     "duracao": "4:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Vote for Me",
+     "duracao": "4:22"
+    },
+    {
+     "n": 7,
+     "titulo": "Theme from Baroque Weirdos",
+     "duracao": "1:34"
+    },
+    {
+     "n": 8,
+     "titulo": "The Friend Song",
+     "duracao": "3:33"
+    },
+    {
+     "n": 9,
+     "titulo": "It's All Right",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Will You Still Love Me Tomorrow",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Decades",
+     "duracao": "12:03"
+    },
+    {
+     "n": 12,
+     "titulo": "Song for a Dying Planet",
+     "duracao": "2:01"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Songs_for_a_Dying_Planet",
+   "resumo_en": "Songs for a Dying Planet is the tenth solo studio album by American musician Joe Walsh, released in May 1992 by Epic Records. Keen to re-establish himself after his ill-received previous studio album, Ordinary Average Guy (1991), Walsh enlisted his former record producer Bill Szymczyk. At the end of the track \"Certain Situations,\" one can hear a Morse code message that says \"Register and vote for me.\"\nThe album was received negatively by the majority of music critics and it was also a commercial disappointment, missing the album charts on both sides of the Atlantic, which called an end to Walsh's solo career for 20 years before he released another studio album in 2012 called Analog Man. The song \"Vote for Me\" however was a minor success, peaking at number 10 on the Hot Mainstream Rock Tracks chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fd9bdd90-0d74-4260-a056-af88475e2ee2",
+   "titulo": "Analog Man",
+   "data": "2012-06-05",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/6371c425-0df1-4582-b048-18f45ab196c8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Analog Man",
+     "duracao": "4:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Wrecking Ball",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Lucky That Way",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Spanish Dancer",
+     "duracao": "3:49"
+    },
+    {
+     "n": 5,
+     "titulo": "Funk 50",
+     "duracao": "1:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Band Played On",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Family",
+     "duracao": "4:21"
+    },
+    {
+     "n": 8,
+     "titulo": "One Day at a Time",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Hi‐Roller Baby",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "India",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 57,
+    "media": 6.0,
+    "fontes": 6
+   },
+   "publico": 8,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Analog_Man_%28album%29",
+   "resumo_en": "Analog Man is the eleventh solo studio album by the American singer-songwriter and multi-instrumentalist Joe Walsh, formerly of the James Gang and lead guitarist for the Eagles. The album was released in mid 2012, on the label Fantasy in the United States and the United Kingdom, It is also his first new solo studio album to be released since 1992's Songs for a Dying Planet, 20 years prior. The album features 10 new songs, and was co-produced by Walsh, Jeff Lynne, who also performs various instruments and backing vocals on the album, and Tim Armstrong from the punk band Rancid who co-wrote and plays guitar on one of the album's songs. The album also features contributions from the former Beatles drummer, Ringo Starr, the former Barnstorm members, Kenny Passarelli and Joe Vitale, former James Gang members, Jim Fox and Dale Peters, David Crosby and Graham Nash of Crosby, Stills & Nash and also a duet with Little Richard.\nThe album peaked at No. 12 on the Billboard 200 chart, as well as No. 4 on the top rock albums chart. In the UK it reached No. 53, his first chart album there for 34 years.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

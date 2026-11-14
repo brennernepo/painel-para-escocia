@@ -1,0 +1,703 @@
+{
+ "id": "green-on-red",
+ "nome": "Green on Red",
+ "cena": "Descobertas do acervo",
+ "mbid": "5af94151-9549-4259-97b0-16c348d82f91",
+ "wikidata": "Q466370",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1980",
+ "fim": "2006",
+ "ativa": false,
+ "generos": [
+  "alternative rock",
+  "neo-psychedelia",
+  "paisley underground",
+  "roots rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_On_Red_at_King_Tuts.jpg/500px-Green_On_Red_at_King_Tuts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/Green_on_Red",
+ "resumo_pt": "",
+ "resumo_en": "Green on Red was an American rock band, formed in the Tucson, Arizona punk scene, but based for most of its career in Los Angeles, California, where it was loosely associated with the Paisley Underground. Earlier records have the wide-screen psychedelic sound of first-wave desert rock, while later releases tended more towards traditional country rock.",
+ "albuns": [
+  {
+   "id": "e3767d0c-ff09-3b25-8474-1a325d9b0fb1",
+   "titulo": "Gravity Talks",
+   "data": "1983-07",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/e580eaab-6e70-377a-a72c-1f1c0e63c761/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gravity Talks",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Old Chief",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "5 Easy Pieces",
+     "duracao": "2:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Deliverance",
+     "duracao": "5:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Over My Head",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Snake Bit",
+     "duracao": "4:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Blue Parade",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "That’s What You’re Here For",
+     "duracao": "2:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Brave Generation",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Abigail’s Ghost",
+     "duracao": "2:38"
+    },
+    {
+     "n": 11,
+     "titulo": "Cheap Wine",
+     "duracao": "4:09"
+    },
+    {
+     "n": 12,
+     "titulo": "Narcolepsy",
+     "duracao": "5:34"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.3,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gravity_Talks",
+   "resumo_en": "Gravity Talks is the debut album by American rock band Green on Red, released in 1983.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "61b094be-de05-3bf3-9f4d-332a681f0f89",
+   "titulo": "No Free Lunch",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/bb205d51-d84c-47ea-81de-59e163ea90bd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Keep On Moving",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Honest Man",
+     "duracao": "2:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Ballad of Guy Fawkes",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "No Free Lunch",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Funny How Time Slips Away",
+     "duracao": "3:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Jimmy Boy",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Time Ain’t Nothing",
+     "duracao": "3:16"
+    }
+   ],
+   "duracao_min": 24,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a51992fc-c7c4-39df-a48f-a2ee8d989d8b",
+   "titulo": "Gas Food Lodging",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/2da35aba-2dcf-3a30-8e54-298a92ce49de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "That’s What Dreams",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Black River",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Hair of the Dog",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "This I Know",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Fading Away",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Easy Way Out",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Sixteen Ways",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "The Drifter",
+     "duracao": "2:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Sea of Cortez",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "We Shall Overcome",
+     "duracao": "2:27"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gas_Food_Lodging_%28album%29",
+   "resumo_en": "Gas Food Lodging is an album by the American band Green on Red, released in 1985. It was the band's only album for Enigma Records. George Pelecanos references the album in his novel A Firing Offense.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7fe1df0c-9beb-46df-afb8-e66aeae4114d",
+   "titulo": "The Killer Inside Me",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/5af001c9-190c-4535-ab78-2fc8e4732752/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Clarkesville",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Mighty Gun",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Jamie",
+     "duracao": "3:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Whispering Wind",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Ghost Hand",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Sorry Naomi",
+     "duracao": "4:25"
+    },
+    {
+     "n": 7,
+     "titulo": "No Man’s Land",
+     "duracao": "4:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Track You Down (His Master’s Voice)",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Born to Fight",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "We Ain’t Free",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Killer Inside of Me",
+     "duracao": "5:42"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Killer_Inside_Me_%28album%29",
+   "resumo_en": "The Killer Inside Me is the third studio album by American rock band Green on Red, released in 1987 by record labels Mercury and Phonogram.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6fc8d066-5850-32d2-898f-6387f02afd19",
+   "titulo": "Here Come the Snakes",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/878cf4c1-8c5c-442d-9b63-2dde71f887ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Keith Can't Read",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock & Roll Disease",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Morning Blue",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Zombie for Love",
+     "duracao": "3:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Broken Radio",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "Change",
+     "duracao": "5:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Tenderloin",
+     "duracao": "5:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Way Back Home",
+     "duracao": "2:32"
+    },
+    {
+     "n": 9,
+     "titulo": "D. T. Blues",
+     "duracao": "3:35"
+    },
+    {
+     "n": 10,
+     "titulo": "We Had It All",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Here_Come_the_Snakes",
+   "resumo_en": "Here Come the Snakes is an album by the American band Green on Red, released in 1989. The album cover photo, titled \"Afterward from the Democratic Forest\", is by William Eggleston.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a46a8392-b4ed-4c90-8c44-8036486f69b4",
+   "titulo": "This Time Around",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/79b56fc1-3c29-4c8b-af0a-62964b5e19fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Time Around",
+     "duracao": "3:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Cool Million",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Rev. Luther",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Good Patient Woman",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "You Couldn’t Get Arrested",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "The Quarter",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Foot",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Hold the Line",
+     "duracao": "3:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Pills and Booze",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "We’re All Waiting",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "93f573b0-d5c7-3bf3-ba96-541f1e0425ad",
+   "titulo": "Scapegoats",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/9b586d4d-f8b0-4ec9-9bc4-008dd7185102/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Guy Like Me",
+     "duracao": "2:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Little Things in Life",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Two Lovers (Waitin' to Die)",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Gold in the Graveyard",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Hector's Out",
+     "duracao": "5:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Shed a Tear (For the Lonesome)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Blowfly",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Sun Goes Down",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Where the Rooster Crows",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Baby Loves Her Gun",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b2bbb0d7-489b-335a-a84d-e650d9156954",
+   "titulo": "Too Much Fun",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/88a0f287-1c8d-4bef-94e5-511d4db0c96a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She's All Mine",
+     "duracao": "3:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Frozen in My Headlights",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Is Insane",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Too Much Fun",
+     "duracao": "3:23"
+    },
+    {
+     "n": 5,
+     "titulo": "The Getaway",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "I Owe You One",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Man Needs Woman",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweetest Thing",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Thing or Two",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Hands and Knees",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Wait and See",
+     "duracao": "4:35"
+    },
+    {
+     "n": 12,
+     "titulo": "Rainy Days and Mondays",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "bc370200-69e2-47fe-8ee1-ae7532d03bd1",
+   "titulo": "This Time Around : Too Much Fun",
+   "data": "1998",
+   "ano": "1998",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "This Time Around",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Cool Million",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Rev. Luther",
+     "duracao": "4:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Good Patient Woman",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "You Couldn’t Get Arrested",
+     "duracao": "5:49"
+    },
+    {
+     "n": 6,
+     "titulo": "The Quarter",
+     "duracao": "4:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Hold the Line",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Pills and Booze",
+     "duracao": "3:14"
+    },
+    {
+     "n": 9,
+     "titulo": "We’re All Waiting",
+     "duracao": "3:47"
+    },
+    {
+     "n": 10,
+     "titulo": "She’s All Mine",
+     "duracao": "3:43"
+    },
+    {
+     "n": 11,
+     "titulo": "Frozen in My Headlights",
+     "duracao": "3:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Love Is Insane",
+     "duracao": "3:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Much Fun",
+     "duracao": "3:22"
+    },
+    {
+     "n": 14,
+     "titulo": "The Getaway",
+     "duracao": "4:43"
+    },
+    {
+     "n": 15,
+     "titulo": "I Owe You One",
+     "duracao": "4:45"
+    },
+    {
+     "n": 16,
+     "titulo": "Man Needs Woman",
+     "duracao": "2:43"
+    },
+    {
+     "n": 17,
+     "titulo": "Sweetest Thing",
+     "duracao": "2:31"
+    },
+    {
+     "n": 18,
+     "titulo": "Thing or Two",
+     "duracao": "4:00"
+    },
+    {
+     "n": 19,
+     "titulo": "Hands and Knees",
+     "duracao": "3:08"
+    },
+    {
+     "n": 20,
+     "titulo": "Wait and See",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 78,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

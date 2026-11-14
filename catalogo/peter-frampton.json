@@ -1,0 +1,1298 @@
+{
+ "id": "peter-frampton",
+ "nome": "Peter Frampton",
+ "cena": "Descobertas do acervo",
+ "mbid": "638206ee-0e3d-47cf-9769-d73330b15a87",
+ "wikidata": "Q337089",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1950",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "aor",
+  "hard rock",
+  "pop rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Peter_Frampton_at_the_2011_Ottawa_Bluesfest_%28cropped%29.jpg/500px-Peter_Frampton_at_the_2011_Ottawa_Bluesfest_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Peter_Frampton",
+ "resumo_pt": "Peter Frampton (Beckenham, Londres, 22 de abril de 1950) é um músico britânico.\nMais conhecido por seu trabalho solo nos anos 70 como roqueiro de arena (Album-oriented rock), tornou-se famoso, entretanto, como integrante do The Herd quando se transformou num ídolo das adolescentes na Grã-Bretanha.\nFrampton ficou famoso por ser o primeiro guitarrista a utilizar do recurso da guitarra falada, que seria anos depois usado por Joe Walsh (Eagles), Slash (Guns n' Roses), Richie Sambora (Bon Jovi) e Dave Grohl (Foo Fighters). Ele então passou a trabalhar com Steve Marriott (dos The Small Faces) na banda Humble Pie, assim como em álbuns de Harry Nilsson, Jerry Lee Lewis, George Harrison e Ringo Starr (com quem Peter tem uma forte amizade e admiração).\nSua estreia solo foi em 1972 com Wind of Change. A explosão solo de Frampton veio com Frampton Comes Alive!, seis vezes platina e que incluía os sucessos \"Do You Feel Like We Do\", \"Baby, I Love Your Way\" e \"Show Me the Way\". Foi o álbum \"ao vivo\" mais vendido de todos os tempos.\nEm 2007, ganhou o seu primeiro Grammy pelo seu álbum totalmente instrumental Fingerprints, lançado no fim de 2007 que conta com integrantes do Pearl Jam, Rolling Stones, Allman Brothers Band e outros.\nEm 2024, foi introduzido ao Rock and Roll Hall of Fame.\nDepois do atentado ao World Trade Center em Nova Iorque, Frampton decidiu tornar-se um cidadão americano. Ele teve papel ativo na campanha eleitoral de 2004 do candidato John Kerry.",
+ "resumo_en": "Peter Kenneth Frampton (born 22 April 1950) is an English musician who rose to prominence as a member of the rock bands The Herd and Humble Pie. Later in his career, Frampton found significant success as a solo artist. He has released several albums, including his breakthrough album, the live recording Frampton Comes Alive! (1976), which was the bestselling album of 1976 in the United States, spawning several hit singles and has been certified 8× Platinum by the RIAA in the United States. He has also worked with various other acts such as Ringo Starr, John Entwistle of the Who, David Bowie, Joe Bonamassa, and both Matt Cameron and Mike McCready of Pearl Jam.\nFrampton is known for his signature hit songs \"Show Me the Way\", \"Baby, I Love Your Way\", \"Do You Feel Like We Do\", and \"I'm in You\", all of which remain staples of classic rock radio. He has also appeared as himself in television shows such as The Simpsons, Family Guy, and Madam Secretary. Frampton was inducted into the Rock and Roll Hall of Fame in 2024.",
+ "albuns": [
+  {
+   "id": "72c27e88-0c3d-33e3-a19f-feb75376c8b5",
+   "titulo": "Wind of Change",
+   "data": "1972-05-26",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/c5f4a02a-3049-49be-8df0-2c66c36995fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fig Tree Bay",
+     "duracao": "3:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Wind of Change",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Lady Lieright",
+     "duracao": "2:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Jumping Jack Flash",
+     "duracao": "5:19"
+    },
+    {
+     "n": 5,
+     "titulo": "It’s a Plain Shame",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Oh for Another Day",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "All I Want to Be (Is By Your Side)",
+     "duracao": "6:36"
+    },
+    {
+     "n": 8,
+     "titulo": "The Lodger",
+     "duracao": "5:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Hard",
+     "duracao": "4:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Alright",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wind_of_Change_%28album%29",
+   "resumo_en": "Wind of Change is the debut studio album by English guitarist and singer Peter Frampton, released in 1972 by A&M. The album features appearances by Ringo Starr, Billy Preston and Klaus Voormann.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f00830e3-d4c8-3f16-aedc-188ba02a7509",
+   "titulo": "Frampton’s Camel",
+   "data": "1973-10-20",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/3246e620-7ade-41cc-a97f-f3c450d323a8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got My Eyes on You",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "All Night Long",
+     "duracao": "3:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Lines on My Face",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Which Way the Wind Blows",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "I Believe (When I Fall in Love With You It Will Be Forever)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 6,
+     "titulo": "White Sugar",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Don’t Fade Away",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Just the Time of Year",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Do You Feel Like We Do",
+     "duracao": "6:45"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frampton%27s_Camel",
+   "resumo_en": "Frampton's Camel is the second studio album by English musician and songwriter Peter Frampton, recorded and released in 1973. It was the first album that Frampton recorded in the United States. Most of the album was written in New York City. It reached No. 110 on the US Billboard Top LPs & Tape chart.",
+   "spotify": "6K1LDOSFRGklBxoPTKcLxM",
+   "youtube": null
+  },
+  {
+   "id": "de1bcfa0-a493-358f-8e5e-cdfea2b58b49",
+   "titulo": "Somethin’s Happening",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/ab59c98a-aa30-4992-b047-b557c05c7d70/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Doobie Wah",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Golden Goose",
+     "duracao": "5:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Underhand",
+     "duracao": "3:37"
+    },
+    {
+     "n": 4,
+     "titulo": "I Wanna Go to the Sun",
+     "duracao": "7:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Baby (Somethin’s Happening)",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Waterfall",
+     "duracao": "6:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Magic Moon (Da, Da, Da, Da, Da!)",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Sail Away",
+     "duracao": "7:30"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Somethin%27s_Happening",
+   "resumo_en": "Somethin's Happening is the third studio album by English musician Peter Frampton, released in 1974. It reached No. 125 on the US Billboard Top LPs & Tape chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f4e977f7-4ae9-37e0-9876-640f30e17602",
+   "titulo": "Frampton",
+   "data": "1975-03-03",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/dde296c5-d91b-3696-bd59-01bc884a668b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Day’s Dawning",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Show Me the Way",
+     "duracao": "4:05"
+    },
+    {
+     "n": 3,
+     "titulo": "One More Time",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "The Crying Clown",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Fanfare",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Nowhere’s Too Far (For My Baby)",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Nassau",
+     "duracao": "1:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Baby, I Love Your Way",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Apple of Your Eye",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Penny for Your Thoughts",
+     "duracao": "1:22"
+    },
+    {
+     "n": 11,
+     "titulo": "(I’ll Give You) Money",
+     "duracao": "4:35"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frampton_%28album%29",
+   "resumo_en": "Frampton is the fourth studio album by English rock musician Peter Frampton, released in 1975. It was his last studio release before he went on tour and recorded his live album Frampton Comes Alive!. The most popular songs from the album are \"Show Me the Way\" and \"Baby, I Love Your Way\", which became big hits when released as singles from Frampton Comes Alive! The album peaked No. 32 on the US Billboard Top LPs & Tape chart.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "82a61bed-6a45-3cf7-9eaf-b7ba7dcd2cf0",
+   "titulo": "I’m in You",
+   "data": "1977-07-28",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/e999ea01-c182-4b47-9674-25c9f015fbba/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I’m in You",
+     "duracao": "4:09"
+    },
+    {
+     "n": 2,
+     "titulo": "(Putting My) Heart on the Line",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "St. Thomas (Don’t You Know How I Feel)",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Won’t You Be My Friend",
+     "duracao": "8:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Don’t Have to Worry",
+     "duracao": "5:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Tried to Love",
+     "duracao": "4:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Rocky’s Hot Club",
+     "duracao": "3:25"
+    },
+    {
+     "n": 8,
+     "titulo": "(I’m a) Roadrunner",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Signed, Sealed Delivered (I’m Yours)",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 4.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/I%27m_in_You",
+   "resumo_en": "I'm in You is the fifth studio album by English musician and songwriter Peter Frampton. It was released on 3 June 1977, almost a year and a half after his 1976 signature breakthrough live album, Frampton Comes Alive! It was recorded at Electric Lady Studios in New York, where Frampton's Camel was recorded four years earlier. Stevie Wonder, Richie Hayward, Mike Finnigan and Mick Jagger are featured on the album.\nI'm in You is Frampton's most commercially successful studio album; it rose to the No. 2 slot on the US Billboard 200 and was certified platinum, while in Canada, the album entered the chart directly at #1. The title track became his most successful single yet, reaching No. 2 on the US Billboard Hot 100. On the Cash Box singles chart, \"I'm in You\" reached No. 1, as it also did in Canada.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0b127c53-e883-47e3-aa0a-7b4411da34ae",
+   "titulo": "Where I Should Be",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/538de3f7-a75b-4364-8623-fd5958217e63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Can't Stand It No More",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Got My Feet Back on the Ground",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Where I Should Be (Monkey's Song)",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Everything I Need",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "May I Baby",
+     "duracao": "3:37"
+    },
+    {
+     "n": 6,
+     "titulo": "You Don't Know Like I Know",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "She Don't Reply",
+     "duracao": "3:59"
+    },
+    {
+     "n": 8,
+     "titulo": "We've Just Begun",
+     "duracao": "5:27"
+    },
+    {
+     "n": 9,
+     "titulo": "Take Me by the Hand",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "It's a Sad Affair",
+     "duracao": "4:20"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.0,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Where_I_Should_Be",
+   "resumo_en": "Where I Should Be is the sixth studio album by English musician and songwriter Peter Frampton, released on 30 May 1979 by A&M Records. The album was certified Gold by the RIAA on 3 July 1979.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a4ad955a-69aa-304b-ba9f-473e2338803e",
+   "titulo": "Breaking All the Rules",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/911e98b5-0c16-42a3-bc6d-ff1eab888834/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Profundiza lo que digo (Dig What I Say)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Viernes en mi mente (Friday on My Mind)",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Perdí una parte tuya (Lost a Part of You)",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Rompiendo todas las reglas (Breaking All the Rules)",
+     "duracao": "7:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Alguien ha estado durmiendo (Somebody’s Been Sleeping)",
+     "duracao": "4:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Pueblo de noche (Night Town)",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Los años locos",
+     "duracao": "4:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Yendo a L.A. (Going to L.A.)",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Breaking_All_the_Rules_%28Peter_Frampton_album%29",
+   "resumo_en": "Breaking All the Rules is the seventh studio album by English musician Peter Frampton, released on 14 May 1981 by A&M Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "338fbccc-f187-38cb-a489-57ba7d05e192",
+   "titulo": "The Art of Control",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/65818503-3540-4413-bf88-051856536903/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Read the News",
+     "duracao": "4:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Sleepwalk",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Save Me",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Back to Eden",
+     "duracao": "4:46"
+    },
+    {
+     "n": 5,
+     "titulo": "An Eye for an Eye",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Don’t Think About Me",
+     "duracao": "3:43"
+    },
+    {
+     "n": 7,
+     "titulo": "Heart in the Fire",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Here Comes Caroline",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Barbara’s Vacation",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Art_of_Control",
+   "resumo_en": "The Art of Control is the eighth studio solo album by Peter Frampton, released in 1982 on A&M Records. It was his last for the label.\nAccording to Peter Frampton, the record company, A&M forced him to make a commercial, radio-friendly album that he felt didn't sound like a \"Peter Frampton album\", which has caused him to hate the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55c2f054-6f50-322e-9302-d84a83cb1a02",
+   "titulo": "Premonition",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/26aa539b-b70f-46b8-8ee4-d52f3a4860bd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stop",
+     "duracao": "4:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Hiding From a Heartache",
+     "duracao": "4:57"
+    },
+    {
+     "n": 3,
+     "titulo": "You Know So Well",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Premonition",
+     "duracao": "4:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Lying",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Moving a Mountain",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "All Eyes on You",
+     "duracao": "4:13"
+    },
+    {
+     "n": 8,
+     "titulo": "Into View",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Call of the Wild",
+     "duracao": "5:43"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 3.7,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Premonition_%28Peter_Frampton_album%29",
+   "resumo_en": "Premonition is the ninth studio album by the English musician Peter Frampton, released on 27 January 1986 by Virgin Records, four years after Frampton's previous studio album The Art of Control (1982).  This album featured Frampton's hit from the 1980s, \"Lying\" and the single \"All Eyes on You\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7e2b49f2-1738-3429-8032-9ced561bf506",
+   "titulo": "When All the Pieces Fit",
+   "data": "1989-01-08",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/8535661b-c114-487e-ad98-40f8e295101c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "More Ways Than One",
+     "duracao": "5:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Holding on to You",
+     "duracao": "4:16"
+    },
+    {
+     "n": 3,
+     "titulo": "My Heart Goes Out to You",
+     "duracao": "5:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold Tight",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "People All Over the World",
+     "duracao": "5:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Back to the Start",
+     "duracao": "4:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Mind Over Matter",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Now and Again",
+     "duracao": "4:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Hard Earned Love",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "This Time Around",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/When_All_the_Pieces_Fit",
+   "resumo_en": "When All the Pieces Fit is the tenth studio release by the English musician Peter Frampton and the follow-up to his Premonition album from 1986.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c4ac23f4-e68e-3197-9d24-10e3d5f89604",
+   "titulo": "Peter Frampton",
+   "data": "1994-04-21",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/5822c8a1-8160-4cd6-9029-e8699d5b5133/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Day in the Sun",
+     "duracao": "4:27"
+    },
+    {
+     "n": 2,
+     "titulo": "You Can Be Sure",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "It All Comes Down to You",
+     "duracao": "6:23"
+    },
+    {
+     "n": 4,
+     "titulo": "You",
+     "duracao": "5:08"
+    },
+    {
+     "n": 5,
+     "titulo": "Can’t Take That Away",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Young Island",
+     "duracao": "1:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Off the Hook",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Waiting for Your Love",
+     "duracao": "5:40"
+    },
+    {
+     "n": 9,
+     "titulo": "So Hard to Believe",
+     "duracao": "5:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Out of the Blue",
+     "duracao": "4:24"
+    },
+    {
+     "n": 11,
+     "titulo": "Shelter Through the Night",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Changing All the Time",
+     "duracao": "6:19"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Peter_Frampton_%28album%29",
+   "resumo_en": "Peter Frampton is the eleventh studio album by English singer-songwriter Peter Frampton. Released in 1994, the album, along with three unreleased tracks from 1992's compilation album, Shine On - A Collection, were the artist's only studio releases of the 1990s. The album also features one of the last recordings made by Frampton's former bandmate Steve Marriott on \"Out of the Blue\". An expanded version of the album was issued in 2000. The song \"You Can Be Sure\" received frequent airplay on some Anglo FM radios in Argentina.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5a6cca95-1f0b-3733-a4c7-0072a96c1af6",
+   "titulo": "Now",
+   "data": "2003-08-19",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/a174b0ad-fbb6-4716-babb-31f898c30f35/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Verge of a Thing",
+     "duracao": "2:52"
+    },
+    {
+     "n": 2,
+     "titulo": "Flying Without Wings",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Stands Alone",
+     "duracao": "4:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Not Forgotten",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Hour of Need",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Mia Rose",
+     "duracao": "4:46"
+    },
+    {
+     "n": 7,
+     "titulo": "I'm Back",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "I Need Ground",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "While My Guitar Gently Weeps",
+     "duracao": "6:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Greens",
+     "duracao": "5:59"
+    },
+    {
+     "n": 11,
+     "titulo": "Above It All",
+     "duracao": "3:37"
+    },
+    {
+     "n": 12,
+     "titulo": "No Going Back",
+     "duracao": "3:13"
+    },
+    {
+     "n": 13,
+     "titulo": "Cleveland",
+     "duracao": "4:06"
+    },
+    {
+     "n": 14,
+     "titulo": "How Long Is Forever",
+     "duracao": "4:53"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Now_%28Peter_Frampton_album%29",
+   "resumo_en": "Now is the 12th studio album released by Peter Frampton through 33rd Street Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e20f0c9d-dbd9-3a24-b36f-2f16bd245ec7",
+   "titulo": "Fingerprints",
+   "data": "2006-09-12",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/6a62070d-7e75-49dd-9afd-c38e8eaab04f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boot It Up",
+     "duracao": "3:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Ida y vuelta (Out and Back)",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Black Hole Sun",
+     "duracao": "5:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Float",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "My Cup of Tea",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Shewango Way",
+     "duracao": "3:19"
+    },
+    {
+     "n": 7,
+     "titulo": "Blooze",
+     "duracao": "5:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Cornerstones",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Grab a Chicken (Put It Back)",
+     "duracao": "3:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Double Nickels",
+     "duracao": "3:48"
+    },
+    {
+     "n": 11,
+     "titulo": "Smoky",
+     "duracao": "4:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Blowin’ Smoke",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Oh When…",
+     "duracao": "1:19"
+    },
+    {
+     "n": 14,
+     "titulo": "Souvenirs de nos peres (Memories of Our Fathers)",
+     "duracao": "4:58"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fingerprints_%28Peter_Frampton_album%29",
+   "resumo_en": "Fingerprints, released in 2006, is Peter Frampton's 13th studio album and first instrumental album, and features guest appearances from friends and musical acquaintances, as well as Frampton's signature effect, the talkbox. It was his first album on A&M Records in 24 years.\nFingerprints won the Grammy Award for Best Pop Instrumental Album at the 49th Annual Grammy Awards in 2007.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1d6436ea-7925-4a50-80ff-6b298f181be9",
+   "titulo": "Thank You Mr. Churchill",
+   "data": "2010-04-27",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/1f7802d2-a156-4f8b-bb26-61e1014ba739/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Thank You Mr. Churchill",
+     "duracao": "4:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Solution",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Road to the Sun",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m Due a You",
+     "duracao": "5:00"
+    },
+    {
+     "n": 5,
+     "titulo": "Vaudeville Nanna and the Banjolele",
+     "duracao": "4:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Asleep at the Wheel",
+     "duracao": "6:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Suite Liberte: A. Megumi, B. Huria Watu",
+     "duracao": "7:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Restraint",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "I Want It Back",
+     "duracao": "4:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Invisible Man",
+     "duracao": "4:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Black Ice",
+     "duracao": "4:49"
+    },
+    {
+     "n": 12,
+     "titulo": "I Understand",
+     "duracao": "3:30"
+    },
+    {
+     "n": 13,
+     "titulo": "A Thousand Dreams",
+     "duracao": "5:17"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thank_You_Mr._Churchill",
+   "resumo_en": "Thank You Mr. Churchill is the fourteenth studio album from Peter Frampton, released through New Door Records in North America and through Eagle Rock in Europe.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "97f11885-ac43-428a-b652-8d0fa9e6abd6",
+   "titulo": "Hummingbird in a Box: Songs for a Ballet",
+   "data": "2014-06-23",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/0cbab05c-66cf-4b5f-8e38-059d5429cfbe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Promenade’s Retreat",
+     "duracao": "4:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Hummingbird in a Box",
+     "duracao": "3:55"
+    },
+    {
+     "n": 3,
+     "titulo": "The One in 901",
+     "duracao": "3:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Friendly Fire",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Heart to My Chest",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Shadow of My Mind",
+     "duracao": "3:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Norman Wisdom",
+     "duracao": "3:15"
+    }
+   ],
+   "duracao_min": 28,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "daad7218-4210-4deb-ac7e-4234317313b1",
+   "titulo": "Acoustic Classics",
+   "data": "2016-02-26",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/fe544555-e7e5-46df-9b67-d628e72f08f8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fig Tree Bay",
+     "duracao": "3:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Wind of Change",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "All I Want to Be (Is by Your Side)",
+     "duracao": "4:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Show Me the Way",
+     "duracao": "4:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Lines on My Face",
+     "duracao": "5:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Sail Away",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Baby, I Love Your Way",
+     "duracao": "5:09"
+    },
+    {
+     "n": 8,
+     "titulo": "All Down to Me",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Penny for Your Thoughts",
+     "duracao": "1:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Do You Feel Like I Do",
+     "duracao": "6:13"
+    },
+    {
+     "n": 11,
+     "titulo": "I’m in You",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "09bc9854-44ec-4d71-825f-d87dc881ed62",
+   "titulo": "Peter Frampton Forgets the Words",
+   "data": "2021-04-23",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/75666a99-7ce7-4beb-8708-30fee32387bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "If You Want Me to Stay",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Reckoner",
+     "duracao": "6:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Dreamland",
+     "duracao": "4:04"
+    },
+    {
+     "n": 4,
+     "titulo": "One More Heartache",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Avalon",
+     "duracao": "5:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Isn’t It a Pity",
+     "duracao": "4:50"
+    },
+    {
+     "n": 7,
+     "titulo": "I Don’t Know Why",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Are You Gonna Go My Way",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Loving the Alien",
+     "duracao": "7:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Maybe",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "15fb10da-9587-4e51-8603-388302884ac9",
+   "titulo": "Carry the Light",
+   "data": "2026-05-15",
+   "ano": "2026",
+   "capa": "https://coverartarchive.org/release/14d52ee3-0213-44c1-b3fe-1a878a220ee2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Carry the Light",
+     "duracao": "4:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Buried Treasure",
+     "duracao": "4:45"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m Sorry Elle",
+     "duracao": "4:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Breaking the Mold",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can’t Let It Be",
+     "duracao": "3:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Lions at the Gate",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Islamorada",
+     "duracao": "3:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Can You Take Me There",
+     "duracao": "4:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Tinderbox",
+     "duracao": "5:01"
+    },
+    {
+     "n": 10,
+     "titulo": "At the End of the Day",
+     "duracao": "3:33"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

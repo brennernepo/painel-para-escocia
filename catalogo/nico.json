@@ -1,0 +1,554 @@
+{
+ "id": "nico",
+ "nome": "Nico",
+ "cena": "Descobertas do acervo",
+ "mbid": "37c61bf2-5fb1-47ae-9605-80025d956958",
+ "wikidata": "Q44634",
+ "tipo": "Person",
+ "pais": "DE",
+ "inicio": "1938",
+ "fim": "1988",
+ "ativa": false,
+ "generos": [
+  "avant-folk",
+  "avant-garde",
+  "chamber folk",
+  "rock",
+  "gothic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Velvet_Underground_%26_Nico_publicity_photo_%28retouched%29_%28cropped%29.jpg/500px-Velvet_Underground_%26_Nico_publicity_photo_%28retouched%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Nico",
+ "resumo_pt": "Christa Päffgen (Colônia, 16 de outubro de 1938 – Ibiza, 18 de julho de 1988), mais conhecida pelo pseudônimo Nico, foi uma cantora, compositora, modelo e atriz alemã.\nNico nasceu a 16 de outubro de 1938, em Colônia, na Alemanha. Algumas fontes afirmam que ela teria nascido a 15 de março de 1943, em Budapeste, capital da Hungria.[carece de fontes]?",
+ "resumo_en": "Christa Päffgen (German: [ˈkʁɪsta ˈpɛfɡn̩]; 16 October 1938 – 18 July 1988), known professionally as Nico, was a German singer, songwriter, actress and model. \nNico had roles in films including Federico Fellini's La Dolce Vita (1960) and Andy Warhol's Chelsea Girls (1966). At the insistence of Warhol, she sang lead on three songs of the Velvet Underground's debut album, The Velvet Underground & Nico (1967). At the same time, she released her debut album, Chelsea Girl (1967), composed of songs written by other musicians. At the suggestion of her friend Jim Morrison, she started writing her own material, using a harmonium, not traditionally a rock instrument. John Cale of the Velvet Underground became her musical arranger and produced The Marble Index (1968), Desertshore (1970), The End... (1974) and other albums.\nIn the 1980s, Nico toured extensively in Europe, United States, Australia and Japan. After a concert in Berlin in June 1988, she went on holiday in Ibiza, where she died from a cerebral haemorrhage following a cycling accident.",
+ "albuns": [
+  {
+   "id": "5cbd9d7b-597a-3c5e-bfd1-c2b364215560",
+   "titulo": "The Velvet Underground & Nico",
+   "data": "1967-03",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/d93010e8-79a7-4ff8-8d34-60d4a7319c02/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sunday Morning",
+     "duracao": "2:53"
+    },
+    {
+     "n": 2,
+     "titulo": "I’m Waiting for the Man",
+     "duracao": "4:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Femme Fatale",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Venus in Furs",
+     "duracao": "5:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Run Run Run",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "All Tomorrow’s Parties",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Heroin",
+     "duracao": "7:05"
+    },
+    {
+     "n": 8,
+     "titulo": "There She Goes Again",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "I’ll Be Your Mirror",
+     "duracao": "2:01"
+    },
+    {
+     "n": 10,
+     "titulo": "The Black Angel’s Death Song",
+     "duracao": "3:10"
+    },
+    {
+     "n": 11,
+     "titulo": "European Son",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 10.0,
+    "fontes": 9
+   },
+   "publico": 8.7,
+   "publico_votos": 29,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+   "resumo_en": "The Velvet Underground & Nico is the debut studio album by the American rock band the Velvet Underground and the German singer Nico, released by Verve Records in March 1967. The album was recorded in 1966 on Ludlow Street, New York while the band were featured on Andy Warhol's Exploding Plastic Inevitable tour. Warhol, who designed the album's record sleeve, served as co-producer alongside Tom Wilson. \nThe Velvet Underground & Nico features elements of avant-garde music incorporated into brash, minimal and groove-driven rock music. Lead singer and songwriter Lou Reed delivers explicit lyrics spanning themes of drug abuse, prostitution, sadomasochism and urban life. Due to its abrasive, unconventional sound and controversial lyrical content, the album underperformed commercially and polarized critics upon release. Various record stores banned the album, many radio stations refused to play it, and magazines refused to carry advertisements for it. \nIn the following decades, The Velvet Underground & Nico received widespread critical acclaim, being regarded as ahead of its time, and was included on numerous all-time best album lists. The Observer placed it at No. 1 in their list of the ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ffa420fb-1bb3-3b67-8577-165429008835",
+   "titulo": "Chelsea Girl",
+   "data": "1967-10",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/25e398a4-8a0a-4ab3-9d0d-128dc6106511/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Fairest of the Seasons",
+     "duracao": "4:09"
+    },
+    {
+     "n": 2,
+     "titulo": "These Days",
+     "duracao": "3:33"
+    },
+    {
+     "n": 3,
+     "titulo": "Little Sister",
+     "duracao": "4:26"
+    },
+    {
+     "n": 4,
+     "titulo": "Winter Song",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "It Was a Pleasure Then",
+     "duracao": "8:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Chelsea Girls",
+     "duracao": "7:25"
+    },
+    {
+     "n": 7,
+     "titulo": "I'll Keep It With Mine",
+     "duracao": "3:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Somewhere There's a Feather",
+     "duracao": "2:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Wrap Your Troubles in Dreams",
+     "duracao": "5:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Eulogy to Lenny Bruce",
+     "duracao": "3:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 3
+   },
+   "publico": 6.6,
+   "publico_votos": 8,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chelsea_Girl",
+   "resumo_en": "Chelsea Girl is the debut solo album by the German singer Nico, produced by Tom Wilson. It was released in October 1967 by Verve Records and was recorded following Nico's collaboration with the Velvet Underground on their 1967 debut studio album. The title is a reference to Andy Warhol's 1966 film Chelsea Girls, in which Nico starred.\nMuch of the album features instrumental work and songwriting credits from Velvet Underground members Lou Reed, Sterling Morrison, and John Cale. \"I'll Keep It with Mine\" was written by Bob Dylan, while three songs are by Jackson Browne, who contributed guitar. Wilson added string and flute arrangements against the wishes of Nico.",
+   "spotify": "4jcbc5NOowR1ymMlCMwgHZ",
+   "youtube": null
+  },
+  {
+   "id": "3050773a-bf29-4fa7-84c8-6f975c3c24b4",
+   "titulo": "The Marble Index",
+   "data": "1968-09-19",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/33a1e553-8f02-4845-8aab-083498a26500/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prelude",
+     "duracao": "0:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Lawns of Dawns",
+     "duracao": "3:12"
+    },
+    {
+     "n": 3,
+     "titulo": "No One Is There",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Ari's Song",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Facing the Wind",
+     "duracao": "4:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Julius Caesar (Memento Hodie)",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Frozen Warnings",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Evening of Light",
+     "duracao": "5:33"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.8,
+    "fontes": 8
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Marble_Index",
+   "resumo_en": "The Marble Index is the second studio album by the German musician Nico, released in November 1968 on Elektra Records. The avant-garde sound introduced in the album—a stark contrast with her folk pop debut, Chelsea Girl (1967)—was the result of the combination of Nico's droning harmonium and somber vocals, and the producer John Cale's musical arrangements, which were inspired by modern European classical music. Nico envisioned the release as an attempt to get artistic legitimacy and to change the perception that she was notable only due to her early career as a fashion model.\nAlthough The Marble Index was largely unnoticed when it was released, it has achieved acclaim over time. Nico's unprecedented sound and personal style—both recognised for their tenebrous quality—are considered an influence on several artists. Most notably, they served as a musical and visual prototype for the 1980s gothic rock scene. Nico and Cale continued working together, releasing two more studio albums in the same vein—Desertshore (1970) and The End... (1974)—which are now considered parts of a trilogy.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8c6a8264-be71-33ea-b94f-02c6f83dc6f9",
+   "titulo": "Desertshore",
+   "data": "1970-12-20",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/cc603df5-82ba-4b67-a5de-532f5dcfd4a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Janitor of Lunacy",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "The Falconer",
+     "duracao": "5:43"
+    },
+    {
+     "n": 3,
+     "titulo": "My Only Child",
+     "duracao": "3:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Le Petit Chevalier",
+     "duracao": "1:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Abschied",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Afraid",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Mütterlein",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "All That Is My Own",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.3,
+    "fontes": 3
+   },
+   "publico": 7.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Desertshore",
+   "resumo_en": "Desertshore is the third studio album by German musician Nico. It was released in December 1970 on the Reprise label and co-produced by John Cale and Joe Boyd.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "24cb805d-b6ca-3cf2-860f-e2426829cd1d",
+   "titulo": "The End…",
+   "data": "1974-11-01",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/cb35ed99-388d-4e2f-85ff-ec4812ceda0f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "It Has Not Taken Long",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Secret Side",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "You Forgot to Answer",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Innocent and Vain",
+     "duracao": "3:51"
+    },
+    {
+     "n": 5,
+     "titulo": "Valley of the Kings",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "We’ve Got the Gold",
+     "duracao": "5:44"
+    },
+    {
+     "n": 7,
+     "titulo": "The End",
+     "duracao": "9:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Das Lied der Deutschen",
+     "duracao": "5:29"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 7.6,
+   "publico_votos": 5,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_End...",
+   "resumo_en": "The End... is the fourth studio album by German musician Nico, released in November 1974 through the label Island. It was recorded in summer 1974 at Sound Techniques studio in London and produced by John Cale.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "378454c1-2fc0-4bf7-afc0-88b2a59b5035",
+   "titulo": "Drama of Exile",
+   "data": "1981-07",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/b211e6ed-96b1-414e-91d8-b9323aea7734/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Genghis Khan",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Purple Lips",
+     "duracao": "4:14"
+    },
+    {
+     "n": 3,
+     "titulo": "One More Chance",
+     "duracao": "5:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Henry Hudson",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Waiting for the Man",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Sixty Forty",
+     "duracao": "4:53"
+    },
+    {
+     "n": 7,
+     "titulo": "The Sphinx",
+     "duracao": "3:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Orly Flight",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Heroes",
+     "duracao": "6:07"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Drama_of_Exile",
+   "resumo_en": "Drama of Exile is the fifth studio album by German musician Nico. The album was initially released in 1981 and re-recorded in 1983 as The Drama of Exile. The album featured a Middle Eastern rhythm section and was produced by Corsican bassist Philippe Quilichini. The release is Nico's only studio album not to feature John Cale.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dc0af0a1-70c2-4f63-8ab3-f92bfff6b552",
+   "titulo": "The Drama of Exile",
+   "data": "1983-07",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/74b9a307-7b39-48b8-8afd-2faed7f0cc45/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "One More Chance",
+     "duracao": "4:14"
+    },
+    {
+     "n": 2,
+     "titulo": "The Sphinx",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Saeta",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Genghis Khan",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Heroes",
+     "duracao": "5:42"
+    },
+    {
+     "n": 6,
+     "titulo": "Henry Hudson",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "60/40",
+     "duracao": "4:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Orly Flight",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Vegas",
+     "duracao": "3:30"
+    },
+    {
+     "n": 10,
+     "titulo": "I'm Waiting for the Man",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "36517072-70f1-3b92-84ec-99e97db1452a",
+   "titulo": "Camera Obscura",
+   "data": "1985-07-12",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/7d086c31-3bdb-466e-a966-3597ffdebde3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Camera Obscura",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Tananore",
+     "duracao": "4:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Win a Few",
+     "duracao": "6:10"
+    },
+    {
+     "n": 4,
+     "titulo": "My Funny Valentine",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Das Lied von einsanen Mädchens",
+     "duracao": "5:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Fearfully in Danger",
+     "duracao": "7:25"
+    },
+    {
+     "n": 7,
+     "titulo": "My Heart Is Empty",
+     "duracao": "4:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Into the Arena",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "König",
+     "duracao": "4:08"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": 6.7,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Camera_Obscura_%28album%29",
+   "resumo_en": "Camera Obscura is the sixth and final studio album by German singer Nico, featuring the backing band the Faction. It was recorded in March–April 1985 and released later that year by Beggars Banquet Records. It was produced by John Cale, marking their first studio collaboration since The End... in 1974. It was Nico's final studio album before her death.",
+   "spotify": "2FO8eF8blQXgbXA9N1jSje",
+   "youtube": null
+  }
+ ]
+}

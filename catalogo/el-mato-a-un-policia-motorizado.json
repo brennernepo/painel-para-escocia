@@ -1,0 +1,413 @@
+{
+ "id": "el-mato-a-un-policia-motorizado",
+ "nome": "El Mató a un Policía Motorizado",
+ "cena": "Descobertas do acervo",
+ "mbid": "9eaf4321-20b8-4611-bc82-493a361104e3",
+ "wikidata": "Q6174220",
+ "tipo": "Group",
+ "pais": "AR",
+ "inicio": "2003",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "indie rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/EMAUPM.jpg/500px-EMAUPM.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/%C3%89l_Mat%C3%B3_a_un_Polic%C3%ADa_Motorizado",
+ "resumo_pt": "Él Mató a un Policía Motorizado, também conhecidos como EMAUPM e Él Mato, é uma banda argentina de indie rock da cidade de La Plata criada em 2003. Formada por Santiago \"Motorizado\" (baixo e voz), Willy \"Doctora Muerte\" (bateria), Manuel \"Pantro Puto\" (guitarra), Gustavo \"Niño Elefante\" (guitarra) e Chatrán Chatrán (teclados), a banda combina os estilos punk rock e noise rock conseguindo um som de guitarras fortes destorcidas e em primeiro plano. Entre as influências do grupo estão as bandas  Pixies, Ramones, Weezer, Sonic Youth e The Velvet Underground.",
+ "resumo_en": "Él Mató a un Policía Motorizado, also known as EMAUPM or Él Mató, is an Argentine indie rock band from La Plata established in 2003. It is formed by Santiago \"Motorizado\" (bass and vocals), Willy \"Doctora Muerte\" (drums), Manuel \"Pantro Puto\" (guitar), Gustavo \"Niño Elefante\" (guitar) and Chatrán Chatrán (keyboards). The band's musical influences include Pixies, the Flaming Lips, Weezer, Sonic Youth and the Velvet Underground.",
+ "albuns": [
+  {
+   "id": "10f1fcfe-b41d-3b6b-a64f-4444cb9c8ee2",
+   "titulo": "El mató a un policía motorizado",
+   "data": "2004",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/664ce619-4d27-42a3-9bd7-6b44898a6990/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sábado",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "Tormenta roja",
+     "duracao": "2:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Nuestro verano",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Escupime",
+     "duracao": "3:01"
+    },
+    {
+     "n": 5,
+     "titulo": "Doctora Muerte",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Rock espacial",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Terrorismo en la copa del mundo",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Diamante",
+     "duracao": "2:41"
+    },
+    {
+     "n": 9,
+     "titulo": "Guitarra comunista",
+     "duracao": "2:54"
+    },
+    {
+     "n": 10,
+     "titulo": "Prenderte fuego",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2c238f2b-a1da-4ab7-b5d9-703b8b0f930b",
+   "titulo": "La Dinastía Scorpio",
+   "data": "2012-11-28",
+   "ano": "2012",
+   "capa": "https://coverartarchive.org/release/7aa083e3-e69f-4c1c-9e2c-e23f391c786d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "El magnetismo",
+     "duracao": "1:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Mujeres bellas y fuertes",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Chica de oro",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Más o menos bien",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Yoni B",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Terror",
+     "duracao": "2:12"
+    },
+    {
+     "n": 7,
+     "titulo": "Nuevos discos",
+     "duracao": "4:30"
+    },
+    {
+     "n": 8,
+     "titulo": "La cobra",
+     "duracao": "2:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Noche negra",
+     "duracao": "2:24"
+    },
+    {
+     "n": 10,
+     "titulo": "La cara en el asfalto",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "El fuego que hemos construido",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 8.3,
+   "publico_votos": 3,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c8a906a5-fe09-41aa-b4b3-efc54bd742d6",
+   "titulo": "La síntesis O’Konor",
+   "data": "2017-06-22",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/813b9ae0-12f4-4fb1-9947-cd486a341f9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "El tesoro",
+     "duracao": "4:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Ahora imagino cosas",
+     "duracao": "2:37"
+    },
+    {
+     "n": 3,
+     "titulo": "La noche eterna",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Alguien que lo merece",
+     "duracao": "2:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Las luces",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "La síntesis O’Konor",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Destrucción",
+     "duracao": "5:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Excálibur",
+     "duracao": "1:25"
+    },
+    {
+     "n": 9,
+     "titulo": "El mundo extraño",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Fuego",
+     "duracao": "5:11"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "08d397ee-2206-4350-a18a-b3ed825d5f9b",
+   "titulo": "La otra dimensión",
+   "data": "2019-12-06",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/3114d43b-4501-48b4-96cf-7b490a4f0a58/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Buscando más allá",
+     "duracao": "5:14"
+    },
+    {
+     "n": 2,
+     "titulo": "El perro",
+     "duracao": "3:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Las luces (versión 2019)",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "La casa fantasmal",
+     "duracao": "5:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Postales negras",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Excálibur (versión 2019)",
+     "duracao": "1:53"
+    },
+    {
+     "n": 7,
+     "titulo": "La noche eterna (acústico)",
+     "duracao": "5:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Madre",
+     "duracao": "2:41"
+    },
+    {
+     "n": 9,
+     "titulo": "El tesoro (acústico)",
+     "duracao": "5:20"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "2dfcb3ad-13f6-4846-87ec-0cfb56232ad7",
+   "titulo": "Unas vacaciones raras",
+   "data": "2021-09-03",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/cac52c68-9aa3-4339-ac8e-22bf1de759e4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "La otra ciudad",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "El día del huracán (versión 2021)",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Vienen bajando (versión 2021)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Yoni B (versión 2021)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Día de los muertos (versión 2021)",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Noche negra (versión 2021)",
+     "duracao": "2:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Rey del terror (versión 2021)",
+     "duracao": "5:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Noche de los muertos (versión 2021)",
+     "duracao": "8:51"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7d39ec5d-722d-402f-a4ce-d31ef7a3de71",
+   "titulo": "Súper terror",
+   "data": "2023-07-08",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/3d71c35f-32f8-431a-a107-badd4e63eb44/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Un segundo plan",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Medalla de oro",
+     "duracao": "5:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Diamante roto",
+     "duracao": "3:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Tantas cosas buenas",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "El universo",
+     "duracao": "2:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Coronado",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Voy a disparar al aire",
+     "duracao": "3:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Moderato",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "El número mágico",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "El profeta de fuego",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

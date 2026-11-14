@@ -1,0 +1,323 @@
+{
+ "id": "vardis",
+ "nome": "Vardis",
+ "cena": "Descobertas do acervo",
+ "mbid": "b4b92821-81e0-4121-8594-6d8097574752",
+ "wikidata": "Q3554703",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1973",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "blues rock",
+  "hard rock",
+  "heavy metal",
+  "nwobhm",
+  "rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vardis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://en.wikipedia.org/wiki/Vardis",
+ "resumo_pt": "",
+ "resumo_en": "Vardis are  an English three-piece hard rock, boogie rock and heavy metal band from Wakefield, West Yorkshire, who enjoyed hits between 1978 and 1986, and reformed in 2014.\nThey formed a prominent part of the new wave of British heavy metal scene, then prevalent in the United Kingdom. They consisted of frontman Steve Zodiac (real name Stephen John Hepworth) on guitar and lead vocals Alan Selway on bass guitar and Gary Pearson on drums. Alan Selway was later replaced by Terry Horbury (previously of Dirty Tricks) on bass guitar.",
+ "albuns": [
+  {
+   "id": "b3f24e25-87c8-44c6-ad83-e5efad13bd53",
+   "titulo": "The World’s Insane",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/2e8d1fcc-10ef-46c8-9200-e2972b62d003/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Power Underfoot",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Money Grabber",
+     "duracao": "3:22"
+    },
+    {
+     "n": 3,
+     "titulo": "The World’s Insane",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Blue Rock (I Miss You)",
+     "duracao": "4:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Silver Machine",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Police Patrol",
+     "duracao": "4:19"
+    },
+    {
+     "n": 7,
+     "titulo": "All You’ll Ever Need",
+     "duracao": "4:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Curse the Gods",
+     "duracao": "2:33"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Is Dead",
+     "duracao": "2:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Steamin’ Along",
+     "duracao": "4:17"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6535aa36-e02f-4ceb-bac7-2227066bd40e",
+   "titulo": "Quo Vardis",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/beebab02-16be-4ed1-a6de-ba124e7117db/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do I Stand Accused?",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Where There’s Mods There’s Rockers",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Please Do",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Dream With Me",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Gary Glitter Part One",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Walking",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "To Be With You",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Together Tonight",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Boogie Blitz (Inspired by Griff & Smig)",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "The Plot to Rock the World",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Situation Negative",
+     "duracao": "2:12"
+    },
+    {
+     "n": 12,
+     "titulo": "Jeepster",
+     "duracao": "3:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Many People",
+     "duracao": "3:04"
+    },
+    {
+     "n": 14,
+     "titulo": "Steaming",
+     "duracao": "4:18"
+    }
+   ],
+   "duracao_min": 13,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "941a30be-3342-4820-a2d9-a1025b5c938e",
+   "titulo": "Vigilante",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/ff98a248-0c6d-404f-a734-c3de51a7303e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Mess With the Best (’Cos the Best Don’t Mess)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Radio Rockers",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Learn How to Shoot Straight",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "All the World’s Eyes",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "I Wanna Be a Guitar Hero (Just for You)",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Bad Company (The Contract)",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "I Must Be Mad",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Wild Sound",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Radio-Active",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Running",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "22467919-af86-4a3b-b343-ea09e63cd83a",
+   "titulo": "Red Eye",
+   "data": "2016-05-20",
+   "ano": "2016",
+   "capa": "https://coverartarchive.org/release/6c3e7a5f-923f-4b34-b468-13b0037db750/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Red Eye",
+     "duracao": "4:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Paranoia Strikes",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "I Need You Now",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "The Knowledge",
+     "duracao": "4:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Lightning Man",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Back to School",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Jolly Roger",
+     "duracao": "5:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Head of the Nail",
+     "duracao": "4:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold Me",
+     "duracao": "4:54"
+    },
+    {
+     "n": 10,
+     "titulo": "200 M.P.H.",
+     "duracao": "7:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Living Out of Touch",
+     "duracao": "3:31"
+    },
+    {
+     "n": 12,
+     "titulo": "200 M.P.H. (reprise)",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

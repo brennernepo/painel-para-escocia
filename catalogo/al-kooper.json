@@ -1,0 +1,1114 @@
+{
+ "id": "al-kooper",
+ "nome": "Al Kooper",
+ "cena": "Descobertas do acervo",
+ "mbid": "d6bee229-1957-4891-8d44-c56ac7ea259e",
+ "wikidata": "Q455605",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1944",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "rock",
+  "baroque pop",
+  "blues rock",
+  "electric blues",
+  "pop rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Al_Kooper_22A.jpg/500px-Al_Kooper_22A.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Al_Kooper",
+ "resumo_pt": "Alan Peter Kuperschmidt, mais conhecido como Al Kooper (Nova Iorque, 5 de fevereiro de 1944) é um músico, compositor e produtor musical estadunidense, mais conhecido por ter formado o grupo Blood, Sweat & Tears. Além disso foi músico de estúdio de vários cantores famosos, incluindo Bob Dylan (para qual contribuiu o clássico órgão ouvido em \"Like a Rolling Stone\") e Jimi Hendrix.",
+ "resumo_en": "Al Kooper (born Alan Peter Kuperschmidt; February 5, 1944) is an American songwriter, record producer, and musician. Throughout much of the 1960s and 1970s he was a prolific studio musician, including playing organ on the Bob Dylan song \"Like a Rolling Stone\", French horn and piano on the Rolling Stones song \"You Can't Always Get What You Want\", and lead guitar on Rita Coolidge's \"The Lady's Not for Sale\". He also formed and named Blood, Sweat & Tears, though he did not stay with the group long enough to share in its subsequent popularity. Kooper produced a number of one-off collaboration albums, such as the Super Session album that saw him work separately with guitarists Mike Bloomfield and Stephen Stills.\nIn the 1970s Kooper was a successful manager and producer, recording Lynyrd Skynyrd's first three albums. He has had a successful solo career, writing music for film soundtracks, and has lectured in musical composition. Kooper was selected for induction to the Rock and Roll Hall of Fame in 2023.",
+ "albuns": [
+  {
+   "id": "fda3debc-2e93-312b-a36d-b1567b3fe8c5",
+   "titulo": "I Stand Alone",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/c5f92ca9-267d-493b-9126-2674e682b282/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Overture",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "I Stand Alone",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Camille",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "One",
+     "duracao": "2:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Coloured Rain",
+     "duracao": "3:01"
+    },
+    {
+     "n": 6,
+     "titulo": "Soft Landing on the Moon",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "I Can Love a Woman",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Blue Moon of Kentucky",
+     "duracao": "2:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Toe Hold",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Right Now for You",
+     "duracao": "2:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Hey, Western Union Man",
+     "duracao": "3:43"
+    },
+    {
+     "n": 12,
+     "titulo": "Song & Dance for the Unborn, Frightened Child",
+     "duracao": "4:32"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/I_Stand_Alone_%28Al_Kooper_album%29",
+   "resumo_en": "I Stand Alone is the debut album by the American singer-songwriter Al Kooper, issued in 1969 on Columbia Records. It was recorded after his collaboration with Michael Bloomfield and Stephen Stills on the 1968 album Super Session.",
+   "spotify": "2rQkaneq42H5DMjgvxiqwm",
+   "youtube": null
+  },
+  {
+   "id": "442ebfe8-15c3-3d6f-a9f3-bdf1167fa364",
+   "titulo": "Super Session",
+   "data": "1968-07-22",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/f5dd7107-106b-491d-af0b-9e8c5abba263/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Albert’s Shuffle",
+     "duracao": "6:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Stop",
+     "duracao": "4:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Man’s Temptation",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "His Holy Modal Majesty",
+     "duracao": "9:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Really",
+     "duracao": "5:33"
+    },
+    {
+     "n": 6,
+     "titulo": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+     "duracao": "3:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Season of the Witch",
+     "duracao": "11:08"
+    },
+    {
+     "n": 8,
+     "titulo": "You Don’t Love Me",
+     "duracao": "4:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Harvey’s Tune",
+     "duracao": "2:07"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Super_Session",
+   "resumo_en": "Super Session is an album by the singer and multi-instrumentalist Al Kooper, with the guitarists Mike Bloomfield on the first half and Stephen Stills on the second half. Released by Columbia Records in 1968, it peaked at No. 12 on the Billboard 200 during a 37-week chart stay and was certified gold by RIAA.",
+   "spotify": "1Gpfh1dY8tzO8aTXLjS9DT",
+   "youtube": null
+  },
+  {
+   "id": "6da1b07a-a17a-3301-8905-529f944eda1d",
+   "titulo": "You Never Know Who Your Friends Are",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/5c025745-7b40-4734-8d95-9e15467d4ad5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Magic in My Socks",
+     "duracao": "3:58"
+    },
+    {
+     "n": 2,
+     "titulo": "Lucille",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "Too Busy Thinkin' Bout My Baby",
+     "duracao": "3:24"
+    },
+    {
+     "n": 4,
+     "titulo": "First Time Around",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Loretta: Union Turnpike Eulogy",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Blues, Part IV",
+     "duracao": "5:08"
+    },
+    {
+     "n": 7,
+     "titulo": "You Never Know Who Your Friends Are",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "The Great American Marriage Nothing",
+     "duracao": "4:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Know Why I Love You",
+     "duracao": "3:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Mourning Glory Story",
+     "duracao": "2:19"
+    },
+    {
+     "n": 11,
+     "titulo": "Anna Lee",
+     "duracao": "3:20"
+    },
+    {
+     "n": 12,
+     "titulo": "I'm Never Gonna Let You Down",
+     "duracao": "4:38"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/You_Never_Know_Who_Your_Friends_Are",
+   "resumo_en": "You Never Know Who Your Friends Are is the second solo album by American multi-instrumentalist Al Kooper, issued in 1969 on Columbia Records.",
+   "spotify": "00COZ2JB0OTRmAzlgX7TrF",
+   "youtube": null
+  },
+  {
+   "id": "b8b467b0-7277-3757-bc38-e7a80c50316a",
+   "titulo": "Kooper Session: Al Kooper Introduces Shuggie Otis",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/471ccafd-2f4a-36cd-9d50-171b6def589b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bury My Body",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Double or Nothing",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "One Room Country Shack",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Lookin' for a Home",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "12:15 Slow Goonbash Blues",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Shuggie's Old Time Dee-Di-Lee-Di-Leet-Deet Slide Boogie",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Shuggie's Shuffle",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kooper_Session",
+   "resumo_en": "Kooper Session is the second-in-line of the Super Session albums featuring singer-songwriter Al Kooper. Joining Kooper in the guitar slot is 15-year-old phenomenon Shuggie Otis, son of rhythm and blues pioneer Johnny Otis.\nDivided into two halves, \"The Songs\" (a quartet of arranged gospel and rhythm and blues tracks) and \"The Blues\" (a trio of improvised blues tracks), the album, like Super Session before it, was quickly recorded and featured short, succinct tracks (\"Double or Nothing\", \"One Room Country Shack\") and fluid, drawn out jams highlighting the talents of the artists (\"12:15 Slow Goonbash Blues\", \"Bury My Body\").",
+   "spotify": "5Thk52KriUzwgzfkeKINAm",
+   "youtube": null
+  },
+  {
+   "id": "725beead-6607-3a7d-801d-48b052bc0f21",
+   "titulo": "Easy Does It",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/8e820a5b-8234-4689-9acc-dcce7ab34c49/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brand New Day",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "Piano Solo Introduction",
+     "duracao": "2:00"
+    },
+    {
+     "n": 3,
+     "titulo": "I Got a Woman",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Country Road",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "I Bought You the Shoes",
+     "duracao": "1:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Introduction",
+     "duracao": "0:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Easy Does It",
+     "duracao": "5:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Buckskin Boy",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Theme From \"The Landlord\"",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Sad, Sad Sunshine",
+     "duracao": "5:04"
+    },
+    {
+     "n": 11,
+     "titulo": "Let the Duchess No",
+     "duracao": "3:17"
+    },
+    {
+     "n": 12,
+     "titulo": "She Gets Me Where I Live",
+     "duracao": "3:34"
+    },
+    {
+     "n": 13,
+     "titulo": "A Rose and a Baby Ruth",
+     "duracao": "3:29"
+    },
+    {
+     "n": 14,
+     "titulo": "Baby, Please Don't Go",
+     "duracao": "12:28"
+    },
+    {
+     "n": 15,
+     "titulo": "God Sheds His Grace on Thee",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Easy_Does_It_%28Al_Kooper_album%29",
+   "resumo_en": "Easy Does It is the third solo album by American singer-songwriter Al Kooper, recorded and released in 1970 for Columbia Records.\nA double album, Easy Does It featured Kooper on an expanded number of instruments, including sitar (used to effect on the country-tinged \"Sad, Sad Sunshine\"), vibes and electronic effects. While mostly backed by Bretheren rhythm section Stu Woods and Rick Marotta, Kooper also utilized groups in Nashville and Los Angeles to record the tracks for the album.\nTwo tracks were also featured on the soundtrack to the 1970 counter-culture film, The Landlord, \"Brand New Day\" and \"Love Theme from The Landlord\".",
+   "spotify": "3x5WeV37DxgnHyj0Z39u9q",
+   "youtube": null
+  },
+  {
+   "id": "1ded5b6b-6c18-42ec-986d-632d80e47733",
+   "titulo": "The Landlord",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/e2e3f36f-2a26-4529-8cf2-4ee6f91ce097/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brand New Day",
+     "duracao": "5:19"
+    },
+    {
+     "n": 2,
+     "titulo": "The Landlord",
+     "duracao": "1:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Car Commercial",
+     "duracao": "1:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Walter G's Boogaloo",
+     "duracao": "1:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Crouqet Game",
+     "duracao": "1:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Let Me Love You",
+     "duracao": "2:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Lainie's Theme",
+     "duracao": "1:39"
+    },
+    {
+     "n": 8,
+     "titulo": "Rent Party",
+     "duracao": "1:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Elgar's Fantasy",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "Love Theme",
+     "duracao": "3:13"
+    },
+    {
+     "n": 11,
+     "titulo": "Soul Hoedown",
+     "duracao": "3:00"
+    },
+    {
+     "n": 12,
+     "titulo": "Doin' Me Dirty",
+     "duracao": "2:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Brand New Day",
+     "duracao": "4:01"
+    },
+    {
+     "n": 14,
+     "titulo": "The Axe",
+     "duracao": "2:43"
+    },
+    {
+     "n": 15,
+     "titulo": "God Bless The Children",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4e25a5e9-0b4a-481c-b686-e8ffd6f7c82f",
+   "titulo": "New York City (You're a Woman)",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/5693796b-33c6-4971-8eef-5b123df63728/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "New York City (You're a Woman) (excerpt From \"New York City: 6am to Midnight\" - A Symphony in Progress)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "John the Baptist (Holy John)",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Can You Hear It Now (500 Miles)",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "The Ballad of the Hard Rock Kid",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Going Quietly Mad",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Medley: Oo Wee Baby, I Love You / Love Is a Man's Best Friend",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Back on My Feet",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Come Down in Time",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Dearest Darling",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Nightmare #5",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "The Warning (Someone's on the Cross Again)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/New_York_City_%28You%27re_a_Woman%29",
+   "resumo_en": "New York City (You're a Woman) is the fourth album by American singer-songwriter Al Kooper for Columbia Records, recorded and released in 1971.",
+   "spotify": "309Erivx1eKLFr6TXObapp",
+   "youtube": null
+  },
+  {
+   "id": "49e9de0d-e9b8-39b4-835e-32d86deddbc7",
+   "titulo": "A Possible Projection of the Future / Childhoods End",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/91f1c582-9a12-4194-ae3c-eabee1d7cf91/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Possible Projection Of The Future",
+     "duracao": "6:31"
+    },
+    {
+     "n": 2,
+     "titulo": "The Man In Me",
+     "duracao": "3:42"
+    },
+    {
+     "n": 3,
+     "titulo": "Fly On",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Please Tell Me Why",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "The Monkey Time",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Let Your Love Shine",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Swept For You Baby",
+     "duracao": "3:32"
+    },
+    {
+     "n": 8,
+     "titulo": "Bended Knees (Please Don't Leave Me Now)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Love Trap",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Childhood's End",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Possible_Projection_of_the_Future_/_Childhood%27s_End",
+   "resumo_en": "A Possible Projection of the Future / Childhood's End is American musician Al Kooper's fifth album, recorded for and released by Columbia Records in 1972.\nBegun with a vague storyline that failed to survive beyond the two title tracks, the album was recorded in London, England at George Martin's AIR Studios with one outtake from New York City (You're A Woman). Six original tracks were surrounded by covers of Bob Dylan (\"The Man in Me\", which Kooper had originally produced), Smokey Robinson (\"Swept For You Baby\") and even Jimmy Cliff (\"Please Tell Me Why\").\nThe album cover showed Kooper as an eighty-year-old man, decrepit and clutching a Fender Jaguar guitar.",
+   "spotify": "0sNfc291bBYYMrcnmgBpui",
+   "youtube": null
+  },
+  {
+   "id": "7688772f-7cff-36f5-8f0e-f11791ccad75",
+   "titulo": "Naked Songs",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/2cde97d4-9a14-4f12-8eb9-912429f626a6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(Be Yourself) Be Real",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "As the Years Go Passing By",
+     "duracao": "6:04"
+    },
+    {
+     "n": 3,
+     "titulo": "Jolie",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Blind Baby",
+     "duracao": "3:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Been and Gone",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Sam Stone",
+     "duracao": "4:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Peacock Lady",
+     "duracao": "3:23"
+    },
+    {
+     "n": 8,
+     "titulo": "Touch the Hem of His Garment",
+     "duracao": "4:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Where Were You When I Needed You",
+     "duracao": "3:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Unrequited",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Naked_Songs_%28Al_Kooper_album%29",
+   "resumo_en": "Naked Songs is the sixth album by American singer-songwriter Al Kooper for Columbia Records, released in 1973. Two singles were released in the fall of 1972, preceding the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e2f5fae3-0d65-3397-9344-e38591c2eb76",
+   "titulo": "Act Like Nothing’s Wrong",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/20a5b3f8-c9f8-4cad-b4d3-6a0d74b1541b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Is We on the Downbeat?",
+     "duracao": "0:36"
+    },
+    {
+     "n": 2,
+     "titulo": "This Diamond Ring",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "She Don’t Ever Lose Her Groove",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "I Forgot to Be Your Lover",
+     "duracao": "2:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Missing You",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Out of Left Field",
+     "duracao": "4:58"
+    },
+    {
+     "n": 7,
+     "titulo": "(Please Not) One More Time",
+     "duracao": "3:31"
+    },
+    {
+     "n": 8,
+     "titulo": "In My Own Sweet Way",
+     "duracao": "2:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Turn My Head Towards Home",
+     "duracao": "4:35"
+    },
+    {
+     "n": 10,
+     "titulo": "A Visit to the Rainbow Bar & Grill",
+     "duracao": "0:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Hollywood Vampire",
+     "duracao": "6:09"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Act_Like_Nothing%27s_Wrong",
+   "resumo_en": "Act Like Nothing's Wrong is the seventh solo studio album by the American singer-songwriter Al Kooper, recorded and released in 1976.",
+   "spotify": "1zS0c6RYnFdeeD5ufZaVWt",
+   "youtube": null
+  },
+  {
+   "id": "8a18c9f1-239e-44b1-9aa9-dc843b9bae45",
+   "titulo": "Championship Wrestling",
+   "data": "1982-01-01",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/4cba8085-144e-4326-8559-71d07b58a920/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Wish You Would",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Two Sides (To Every Situation)",
+     "duracao": "3:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Wrestle With This",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Lost Control",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "I’d Rather Be an Old Man’s Sweetheart (Than a Young Man’s Fool)",
+     "duracao": "2:59"
+    },
+    {
+     "n": 6,
+     "titulo": "The Heart Is a Lonely Hunter",
+     "duracao": "4:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Bandstand",
+     "duracao": "4:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Finders Keepers",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Snowblind",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dcd58ba6-eaa2-3979-bc14-80159be6ca05",
+   "titulo": "Rekooperation",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/85f41f2b-5bc3-4b8b-8204-567bbe669926/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Downtime",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "After the Lights Go Down Low",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "When the Spell Is Broken",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "How 'My Ever Gonna Get Over You",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Sneakin Round the Barnyard",
+     "duracao": "5:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Soul Twist-Ed",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Lookin for Clues",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Honky Tonk",
+     "duracao": "5:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Clean Up Woman",
+     "duracao": "2:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Don't Be Cruel",
+     "duracao": "5:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Alvino Johnson's Shuffle",
+     "duracao": "4:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Johnny B. Goode",
+     "duracao": "3:16"
+    },
+    {
+     "n": 13,
+     "titulo": "I Wanna Little Girl",
+     "duracao": "5:19"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4a3b9c4e-72e2-3a36-966d-13d942fabafb",
+   "titulo": "Black Coffee",
+   "data": "2005-07-27",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/32d11853-9ace-4ba2-9648-b0f11a745172/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "My Hands Are Tied",
+     "duracao": "4:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Am I Wrong",
+     "duracao": "3:28"
+    },
+    {
+     "n": 3,
+     "titulo": "How My Ever Gonna Get Over You",
+     "duracao": "5:34"
+    },
+    {
+     "n": 4,
+     "titulo": "Going, Going, Gone",
+     "duracao": "4:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Keep It to Yourself",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Get Ready",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Imaginary Lover",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Green Onions (live!)",
+     "duracao": "6:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Another Man's Prize",
+     "duracao": "6:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Childish Love",
+     "duracao": "3:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Got My Ion Hue",
+     "duracao": "4:18"
+    },
+    {
+     "n": 12,
+     "titulo": "Just for a Thrill",
+     "duracao": "3:54"
+    },
+    {
+     "n": 13,
+     "titulo": "Comin' Back in a Cadillac (live!)",
+     "duracao": "9:54"
+    },
+    {
+     "n": 14,
+     "titulo": "(I Want You To) Tell Me the Truth",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 69,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "be5bf8e7-21ad-4e1a-90b4-f2f4b797240c",
+   "titulo": "White Chocolate",
+   "data": "2008-10-21",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/a9af62d4-8530-496c-b359-29c98f754ee2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Time",
+     "duracao": "4:55"
+    },
+    {
+     "n": 2,
+     "titulo": "You Never Know Til You Get There",
+     "duracao": "4:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Calling You",
+     "duracao": "4:53"
+    },
+    {
+     "n": 4,
+     "titulo": "I Love You More Than Words Can Say",
+     "duracao": "5:30"
+    },
+    {
+     "n": 5,
+     "titulo": "It Takes A Lot To Laugh, It Takes A Train To Cry",
+     "duracao": "4:46"
+    },
+    {
+     "n": 6,
+     "titulo": "I Cried So Hard",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Staxability",
+     "duracao": "4:03"
+    },
+    {
+     "n": 8,
+     "titulo": "You Make Me Feel So Good (All Over)",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Susan",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Hold On",
+     "duracao": "3:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Cast The First Stone",
+     "duracao": "4:16"
+    },
+    {
+     "n": 12,
+     "titulo": "No.1 2 Call Me Baby",
+     "duracao": "3:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Candy Man",
+     "duracao": "3:33"
+    },
+    {
+     "n": 14,
+     "titulo": "I (Who Have Nothing)",
+     "duracao": "3:02"
+    },
+    {
+     "n": 15,
+     "titulo": "(I Don't Know When But) I Know That'll Be There Soon",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 62,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

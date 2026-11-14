@@ -1,0 +1,227 @@
+{
+ "id": "blonde-on-blonde",
+ "nome": "Blonde on Blonde",
+ "cena": "Descobertas do acervo",
+ "mbid": "21c37b55-f74b-4a59-8a79-5a7746451243",
+ "wikidata": "Q4927454",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1967",
+ "fim": "1971",
+ "ativa": false,
+ "generos": [
+  "psychedelic rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://en.wikipedia.org/wiki/Blonde_on_Blonde_%28rock_group%29",
+ "resumo_pt": "",
+ "resumo_en": "Blonde on Blonde was a guitar-led psychedelic rock group from South Wales.\nThe band was formed in Newport in 1967 by vocalist/guitarist Ralph Denyer, drummer Les Hicks, bassist/organist Richard Hopkins and guitarist/sitar player Gareth Johnson. The band was named after Bob Dylan's 1966 album of the same name.\nIn 1968, the quartet left Wales for London, and was joined by guitarist Simon Lawrance, playing clubs such as Middle Earth and appearing on the BBC TV series How Late It Is. Signing to Pye Records, they released their first album, Contrasts, produced by Barry Murray, in 1969. The album included the Robin Williamson covers \"No Sleep Blues\" and \"I Need My Friend\", and a cover of The Beatles' \"Eleanor Rigby\". That summer, they appeared at the Isle of Wight Festival.\n1970's Rebirth was released on Ember Records after a personnel change that saw Ralph Denyer joining Aquila and replaced by school friend David Thomas. Thomas' introduction gave the band a tougher, rock-oriented sound. Their second album included Moody Blues–styled ballads (\"Castles in the Sky\"), progressive rock songs (\"You'll Never Know Me/Release\") and fuzz-guitar-based rockers (\"November\").\nIn 1971, Richard Hopkins left and was replaced by Graham Davis. Blonde on Blonde's final album, Reflections on a Life, was released by Ember Records in 1971, but the band achieved only modest commercial success. They disbanded in early 1972.\nRalph Denyer went on to co-write The Guitar Handbook with Isaac Guillory. He died ",
+ "albuns": [
+  {
+   "id": "64d9358d-a27b-47ed-a636-92727b66d51a",
+   "titulo": "Contrasts",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/b61f8eed-ea75-434f-9ec2-7d39ba01bf2f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ride With Captain Max",
+     "duracao": "5:24"
+    },
+    {
+     "n": 2,
+     "titulo": "Spinning Wheel",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "No Sleep Blues",
+     "duracao": "3:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Goodbye",
+     "duracao": "2:14"
+    },
+    {
+     "n": 5,
+     "titulo": "I Need My Friend",
+     "duracao": "3:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Mother Earth",
+     "duracao": "5:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Eleanor Rigby",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Conversationally Making the Grade",
+     "duracao": "4:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Regency",
+     "duracao": "1:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Island on an Island",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Don't Be Too Long",
+     "duracao": "2:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Jeanette Isabella",
+     "duracao": "3:51"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63fc2142-c566-3e10-a161-8540c22a593e",
+   "titulo": "Rebirth",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/d083d90b-fa53-40ab-bb0e-2bf2f14790bc/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Castles in the Sky",
+     "duracao": "3:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Broken Hours",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Heart Without a Home",
+     "duracao": "5:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Time Is Passing",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Circles",
+     "duracao": "7:23"
+    },
+    {
+     "n": 6,
+     "titulo": "November",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Colour Questions",
+     "duracao": "12:06"
+    },
+    {
+     "n": 8,
+     "titulo": "You'll Never Know Me / Release",
+     "duracao": "7:40"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ba17c136-265a-3aa7-a340-1ea33057fdca",
+   "titulo": "Reflections on a Life",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/e1f31526-9e23-43df-b997-9dd7056b25c9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gene Machine",
+     "duracao": "2:04"
+    },
+    {
+     "n": 2,
+     "titulo": "I Don't Care",
+     "duracao": "2:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Song",
+     "duracao": "6:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Bar Room Blues",
+     "duracao": "5:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Sad Song for an Easy Lady",
+     "duracao": "4:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Ain't It Sad Too",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "The Bargain",
+     "duracao": "4:14"
+    },
+    {
+     "n": 8,
+     "titulo": "The Rut",
+     "duracao": "5:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Happy Families",
+     "duracao": "3:44"
+    },
+    {
+     "n": 10,
+     "titulo": "No. 2 Psychological Decontamination Unit",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "Chorale (Forever)",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

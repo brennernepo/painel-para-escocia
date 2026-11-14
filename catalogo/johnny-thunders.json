@@ -1,0 +1,437 @@
+{
+ "id": "johnny-thunders",
+ "nome": "Johnny Thunders",
+ "cena": "Descobertas do acervo",
+ "mbid": "3b14b1a7-2235-4fcf-a718-383beb79e856",
+ "wikidata": "Q505072",
+ "tipo": "Person",
+ "pais": "US",
+ "inicio": "1952",
+ "fim": "1991",
+ "ativa": false,
+ "generos": [
+  "rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Johnny_Thunders.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Johnny_Thunders",
+ "resumo_pt": "Johnny Thunders (15 de julho de 1952 – 23 de abril de 1991), pseudônimo de John Anthony Genzale Jr., foi um guitarrista, vocalista e compositor estadunidense de rock and roll/punk rock.\nEle foi bastante conhecido no começo dos anos 1970, por ser guitarrista da banda nova-iorquina The New York Dolls. Mais tarde, tornou-se integrante dos The Heartbreakers e, posteriormente, artista solo.",
+ "resumo_en": "John Anthony Genzale (July 15, 1952 – April 23, 1991), known professionally as Johnny Thunders, was an American guitarist, singer, and songwriter. He came to prominence in the early 1970s as a member of New York Dolls. He later formed the Heartbreakers and played as a solo artist.",
+ "albuns": [
+  {
+   "id": "00000519-f708-35a3-be4e-cbe552ece701",
+   "titulo": "So Alone",
+   "data": "1978-10-06",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/4258b856-64dc-47da-9010-4c0b3e5772a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pipe Line",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You Can’t Put Your Arms Around a Memory",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Great Big Kiss",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Ask Me No Questions",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Leave Me Alone",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Daddy Rollin’ Stone",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "London Boys",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Untouchable",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Subway Train",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Downtown",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.4,
+    "fontes": 9
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/So_Alone_%28album%29",
+   "resumo_en": "So Alone is the debut solo studio album by Johnny Thunders, then leader of the Heartbreakers and formerly lead guitarist for New York Dolls. The album was released on October 6, 1978, and was produced by Thunders and Steve Lillywhite. So Alone was preceded by the singles \"Dead or Alive\" and \"You Can't Put Your Arms Round A Memory\", the former originally being omitted from the album and later included as a bonus track on the 1992 reissue. The album featured Heartbreakers-members Walter Lure and Billy Rath, as well as several guest musicians, including Phil Lynott, Steve Marriott, Paul Gray, Peter Perrett, Steve Jones, Paul Cook, Mike Kellie, Patti Palladin, and Chrissie Hynde.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ff6c103b-bca4-3720-b9f9-6c2e6adac6a0",
+   "titulo": "Hurt Me",
+   "data": "1983-08",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/e6bb3b49-1ce9-4d41-9d4d-4c919d95c27f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sad Vacation",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Eve of Destruction",
+     "duracao": "1:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Too Much Too Soon",
+     "duracao": "1:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Joey Joey",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m a Boy I’m a Girl",
+     "duracao": "2:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Go Back to Go",
+     "duracao": "1:15"
+    },
+    {
+     "n": 7,
+     "titulo": "I Like to Play Games",
+     "duracao": "2:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Hurt Me",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Illegitamate Son of Segovia",
+     "duracao": "3:00"
+    },
+    {
+     "n": 10,
+     "titulo": "It Ain’t Me Babe",
+     "duracao": "0:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Diary of a Lover",
+     "duracao": "2:49"
+    },
+    {
+     "n": 12,
+     "titulo": "I’d Rather Be With the Boys",
+     "duracao": "1:57"
+    },
+    {
+     "n": 13,
+     "titulo": "You Can’t Put Your Arms Around a Memory",
+     "duracao": "2:54"
+    },
+    {
+     "n": 14,
+     "titulo": "She’s So Untouchable",
+     "duracao": "2:30"
+    },
+    {
+     "n": 15,
+     "titulo": "Ask Me No Question",
+     "duracao": "2:05"
+    },
+    {
+     "n": 16,
+     "titulo": "She’s So Strange",
+     "duracao": "1:41"
+    },
+    {
+     "n": 17,
+     "titulo": "Lonely Planet Boy",
+     "duracao": "1:38"
+    },
+    {
+     "n": 18,
+     "titulo": "MIA",
+     "duracao": "1:37"
+    },
+    {
+     "n": 19,
+     "titulo": "Cosa Nostra",
+     "duracao": "1:19"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 6.2,
+    "fontes": 4
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hurt_Me_%28album%29",
+   "resumo_en": "Hurt Me is an album by the American musician Johnny Thunders, released in 1984. It was recorded in Paris, with just an acoustic guitar. Richard Hell wrote the lyrics to the title track.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "69d2d4fe-a67b-37b3-8366-6223b591a603",
+   "titulo": "Que Será, Será",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/14026afc-babc-446f-a5e6-f3142052eee3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Short Lives",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "M.I.A.",
+     "duracao": "1:58"
+    },
+    {
+     "n": 3,
+     "titulo": "I Only Wrote This Song for You",
+     "duracao": "2:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Little Bit of Whore",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Cool Operator",
+     "duracao": "6:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Blame It on Mom",
+     "duracao": "2:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Tie Me Up",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Alone in a Crowd",
+     "duracao": "2:37"
+    },
+    {
+     "n": 9,
+     "titulo": "Billy Boy",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Endless Party",
+     "duracao": "2:36"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "74c645ff-6f11-3367-b09f-942bd8ae83af",
+   "titulo": "Copy Cats",
+   "data": "1988-10",
+   "ano": "1988",
+   "capa": "https://coverartarchive.org/release/db22486b-b5f5-41ec-9033-8ac3ceae93a2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Alligator Wine",
+     "duracao": "3:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Two Time Loser",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Treat Her Right",
+     "duracao": "2:12"
+    },
+    {
+     "n": 4,
+     "titulo": "Uptown to Harlem",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Crawfish",
+     "duracao": "3:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Baby It’s You",
+     "duracao": "3:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Can’t Seem to Make You Mine",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "He Cried",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "(I Was) Born to Cry",
+     "duracao": "2:21"
+    },
+    {
+     "n": 10,
+     "titulo": "She Wants to Mambo",
+     "duracao": "3:06"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.1,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Copy_Cats_%28album%29",
+   "resumo_en": "Copy Cats is an album by the American musician Johnny Thunders and the only album by Patti Palladin. The album contains cover versions of rock 'n' roll classics that were originally recorded from 1954 to 1969. Thunders was inspired by John Lennon's 1975 album Rock 'n' Roll, which similarly had new versions of older hits.\nThe album title originated was from being a set of cover versions or copies of other songs, and also and from a song by Gary U.S. Bonds, \"Copycat\", which was recorded for the album but not released.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "27a97dbd-21bf-37d8-afec-e0d838c121cd",
+   "titulo": "The New Too Much Junkie Business",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/d66ae85b-06f7-4217-8a96-1e6cfd022856/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Who Do Voodoo",
+     "duracao": "2:47"
+    },
+    {
+     "n": 2,
+     "titulo": "In Cold Blood",
+     "duracao": "2:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Just Another Girl",
+     "duracao": "4:23"
+    },
+    {
+     "n": 4,
+     "titulo": "Sad Vacation",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Diary of a Lover",
+     "duracao": "2:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Get Off the Phone",
+     "duracao": "1:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Who Need Girls?",
+     "duracao": "2:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Too Much Junkie Business",
+     "duracao": "2:43"
+    },
+    {
+     "n": 9,
+     "titulo": "King of the Gypsies",
+     "duracao": "1:57"
+    },
+    {
+     "n": 10,
+     "titulo": "So Alone",
+     "duracao": "4:36"
+    },
+    {
+     "n": 11,
+     "titulo": "I Love You",
+     "duracao": "2:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Great Big Kiss",
+     "duracao": "6:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Let Go",
+     "duracao": "2:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Jet Boy",
+     "duracao": "1:10"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 3.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Too_Much_Junkie_Business_%28compilation_album%29",
+   "resumo_en": "Too Much Junkie Business is a compilation of studio demos and live recordings, recorded in late 1982 by protopunk guitarist and singer Johnny Thunders. It is one of the original releases by Neil Cooper's then cassette-only label ROIR. It was reissued in 1999 on compact disc as The New Too Much Junkie Business.\nThe album is notable for being one of the few places to find studio versions of Thunders' live staples \"In Cold Blood\" and \"Just Another Girl\", but the album is dominated by live recordings of a typically sloppy and chaotic Thunders performance at the Peppermint Lounge in New York City. Thunders also interjects some studio-recorded interjections throughout the album, including one where he claims that the title track, another live staple, was co-written by Chuck Berry and Bo Diddley along with its actual author, longtime Thunders co-conspirator Walter Lure.\nAnother Thunders composition, \"Who Needs Girls?\", is credited wholly to Booker T. & The MG's because of its resemblance to the veteran Memphis soul act's instrumental \"Green Onions\".",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+{
+ "id": "magazine",
+ "nome": "Magazine",
+ "cena": "Descobertas do acervo",
+ "mbid": "043324ca-100d-48ce-8c7c-fd015afc103b",
+ "wikidata": "Q1475584",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1977",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "post-punk",
+  "art punk",
+  "new wave",
+  "punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Magazine_%28English_band%29.jpg/500px-Magazine_%28English_band%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Magazine_%28banda_brit%C3%A2nica%29",
+ "resumo_pt": "Magazine é uma banda britânica de rock, formada em Manchester, Inglaterra, pelo cantor Howard Devoto e pelo guitarrista John McGeoch. Eles foram um dos pioneiros do gênero pós-punk. Seu primeiro álbum Real Life foi lançado com aclamação da crítica no início de 1978. Em 1980, John McGeoch deixou a banda para se tornar o guitarrista do Siouxsie and the Banshees. \nApós o lançamento de um quarto álbum, a banda encerrou as atividades em 1981, retornando em 2009.",
+ "resumo_en": "Magazine were a British rock band formed in 1977 in Manchester, England by singer Howard Devoto and guitarist John McGeoch. After leaving the punk rock group Buzzcocks in early 1977, Devoto decided to create a more progressive rock band. The original line-up of Magazine was composed of Devoto, McGeoch, Barry Adamson on bass, Bob Dickinson on keyboards and Martin Jackson on drums.\nTheir debut album, Real Life (1978), was critically acclaimed and later considered one of the first British post-punk albums. After releasing two other albums, Secondhand Daylight and The Correct Use of Soap, McGeoch left the band in 1980 to join Siouxsie and the Banshees. Magazine released another studio album and disbanded in 1981. All four of their albums reached the top 40 on the UK Albums Chart.\nThey reunited in 2009 for a UK tour with Noko on guitar. Magazine released an album of new material, No Thyself, in October 2011, followed by a short UK tour.\nMagazine have been cited as an influence by bands and musicians such as Simple Minds, the Smiths, Radiohead, Pulp, Pond, and John Frusciante.",
+ "albuns": [
+  {
+   "id": "5ef7ef5c-f9aa-3800-9f55-ec58130846ba",
+   "titulo": "Real Life",
+   "data": "1978-06-09",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/486a2f59-ff89-41fe-813a-7e250798bf9c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Definitive Gaze",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "My Tulpa",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Shot by Both Sides",
+     "duracao": "4:01"
+    },
+    {
+     "n": 4,
+     "titulo": "Recoil",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Burst",
+     "duracao": "5:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Motorcade",
+     "duracao": "5:41"
+    },
+    {
+     "n": 7,
+     "titulo": "The Great Beautician in the Sky",
+     "duracao": "4:56"
+    },
+    {
+     "n": 8,
+     "titulo": "The Light Pours Out of Me",
+     "duracao": "4:36"
+    },
+    {
+     "n": 9,
+     "titulo": "Parade",
+     "duracao": "5:08"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.6,
+    "fontes": 9
+   },
+   "publico": 7.5,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Real_Life_%28Magazine_album%29",
+   "resumo_en": "Real Life is the debut studio album by the English post-punk band Magazine, released in June 1978 by Virgin Records. It reached number 29 in the UK Albums Chart. The album includes a re-recorded version of the band's debut single \"Shot by Both Sides\", and was preceded by the non-album single \"Touch and Go\", a song from the album's recording sessions.\nReal Life has received critical acclaim and is considered a pioneering post-punk album. It has also been described as new wave and art rock. It was also included in the 2005 book 1001 Albums You Must Hear Before You Die.",
+   "spotify": "57l34nudIa2wEI2q3zdTVo",
+   "youtube": null
+  },
+  {
+   "id": "0f8fdf38-67a4-3fed-be62-34a9497a88ba",
+   "titulo": "Secondhand Daylight",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/26e037e5-87bd-4105-94b9-5000bcdfe86f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Feed the Enemy",
+     "duracao": "5:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Rhythm of Cruelty",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Cut‐Out Shapes",
+     "duracao": "4:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Talk to the Body",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "I Wanted Your Heart",
+     "duracao": "5:05"
+    },
+    {
+     "n": 6,
+     "titulo": "The Thin Air",
+     "duracao": "4:08"
+    },
+    {
+     "n": 7,
+     "titulo": "Back to Nature",
+     "duracao": "6:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Believe That I Understand",
+     "duracao": "4:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Permafrost",
+     "duracao": "5:31"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.2,
+    "fontes": 6
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Secondhand_Daylight",
+   "resumo_en": "Secondhand Daylight is the second studio album by English post-punk band Magazine. It was released on 30 March 1979 by record label Virgin. One single, \"Rhythm of Cruelty\", was released from the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "05377095-d486-36a2-ba87-8536b0648517",
+   "titulo": "The Correct Use of Soap",
+   "data": "1980-05-02",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/6daa62d9-b1a7-43f7-8b1f-d8320d854572/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Because You’re Frightened",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Model Worker",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "I’m a Party",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "You Never Knew Me",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Philadelphia",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "I Want to Burn Again",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Thank You (Falettinme Be Mice Elf Agin)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Sweetheart Contract",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Stuck",
+     "duracao": "4:07"
+    },
+    {
+     "n": 10,
+     "titulo": "A Song From Under the Floorboards",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.7,
+    "fontes": 6
+   },
+   "publico": 5.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Correct_Use_of_Soap",
+   "resumo_en": "The Correct Use of Soap is the third studio album by English post-punk band Magazine, released by Virgin Records in 1980. It contains some of Magazine's best-known and most popular songs, including the singles \"A Song from Under the Floorboards\" and \"Sweetheart Contract\" and their cover of Sly and the Family Stone's \"Thank You (Falettinme Be Mice Elf Agin)\". A different version of the album, entitled An Alternative Use of Soap, was released in Canada in 1980 by then-distributor Polygram Records.\nIt was Magazine's last album with original guitarist John McGeoch, who left the band after the release of the album and joined Siouxsie and the Banshees.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "89717899-9769-3057-9c87-eb3d6bfe5996",
+   "titulo": "Magic, Murder and the Weather",
+   "data": "1981-06",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/3a563242-fa25-4c20-a453-e03891318a67/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "About the Weather",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "So Lucky",
+     "duracao": "4:11"
+    },
+    {
+     "n": 3,
+     "titulo": "The Honeymoon Killers",
+     "duracao": "3:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Vigilance",
+     "duracao": "5:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Come Alive",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "The Great Man’s Secret",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "This Poison",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Naked Eye",
+     "duracao": "3:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Suburban Rhonda",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "The Garden",
+     "duracao": "2:39"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 5.5,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Magic%2C_Murder_and_the_Weather",
+   "resumo_en": "Magic, Murder and the Weather is the fourth studio album by English post-punk band Magazine, and their final album until the band's reformation in 2009. It was released in June 1981 by record label Virgin. One single, \"About the Weather\", was released from the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cb0799ab-5604-481d-9325-9eebc3bec363",
+   "titulo": "No Thyself",
+   "data": "2011-10-24",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/86017023-9b79-4d7c-b524-75b18d50683c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Do the Meaning",
+     "duracao": "4:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Other Thematic Material",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "The Worst of Progress…",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Hello Mister Curtis (With Apologies)",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Physics",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Happening in English",
+     "duracao": "4:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Holy Dotage",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Of Course Howard (1979)",
+     "duracao": "4:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Final Analysis Waltz",
+     "duracao": "4:50"
+    },
+    {
+     "n": 10,
+     "titulo": "The Burden of a Song",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "media": 8.3,
+    "fontes": 3
+   },
+   "publico": 2,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/No_Thyself",
+   "resumo_en": "No Thyself is the fifth and final studio album by the band Magazine, and the first since their 2009 reformation. It was released on the Wire-Sound label on 24 October 2011, about 30 years after the release of their previous studio album, Magic, Murder and the Weather.\nBass guitarist Barry Adamson, while still remaining a member of Magazine, did not participate in the making of No Thyself due to prior obligations in film music. Guitarist John McGeoch had died in 2004. Both musicians were important in previous lineups.  Pete Shelley, who had founded Buzzcocks with Magazine singer Howard Devoto, co-writing early Buzzcocks material and one Magazine song together, contributed to the writing of the first track. The album cover features the painting The Misshapen Polyp Floated on the Shores, a Sort of Smiling and Hideous Cyclops by French artist Odilon Redon.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

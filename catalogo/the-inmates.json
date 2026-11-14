@@ -1,0 +1,655 @@
+{
+ "id": "the-inmates",
+ "nome": "The Inmates",
+ "cena": "Descobertas do acervo",
+ "mbid": "9906ef70-cfa0-4e36-8767-cbe833b66446",
+ "wikidata": "Q7742070",
+ "tipo": "Group",
+ "pais": "GB",
+ "inicio": "1977",
+ "fim": null,
+ "ativa": false,
+ "generos": [],
+ "foto": null,
+ "wikipedia": "https://en.wikipedia.org/wiki/The_Inmates",
+ "resumo_pt": "",
+ "resumo_en": "The Inmates are a British pub rock band, which formed after the split of The Flying Tigers in 1977.  In 1982, they had a medium-sized international hit with a cover of The Standells' \"Dirty Water\", and a UK Top 40 hit with their cover of Jimmy McCracklin's track, \"The Walk\". \"Dirty Water\" reached number 51 in the United States in January 1980. The song led directly to them recording their debut album, First Offence, produced by Vic Maile for Radar Records. Two further albums were quickly recorded; Shot in the Dark again produced by Vic Maile, and Heatwave in Alaska produced by Stuart Coleman.\nAround 1981, lead singer Bill Hurley became ill following a breakdown, and his place was taken for some time by Barrie Masters, who had recently split with Eddie and the Hot Rods.  The Inmates continued to record (True Live Stories, a live album recorded by Vic Maile at London's the Venue nightclub and, Five, a studio album again produced by Maile) and tour with Masters until he decided to reform the Hot Rods, and Hurley was well enough to return to fronting the Inmates.\nIn 1987, The Inmates recorded Meet the Beatles, a live album of Beatles cover versions.  It was re-released on CD with bonus cuts including a live version of \"Dirty Water\".\nOne of The Inmates' songs, \"So Much in Love\" (written by Mick Jagger and Keith Richards), was covered by Los Lonely Boys in the mid-1990s.\nAnother song, \"I Can't Sleep\" from their debut LP First Offence, was included as a chapter heading in the Stephe",
+ "albuns": [
+  {
+   "id": "b779a8a0-2cd6-3ec9-8f6b-c457a9003ef9",
+   "titulo": "First Offence",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/54ce6170-ff87-4a23-8949-0f8bf431d6fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dirty Water",
+     "duracao": "3:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Got Me",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Mr. Unreliable",
+     "duracao": "2:54"
+    },
+    {
+     "n": 4,
+     "titulo": "The Walk",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "I Can’t Sleep",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Jealousy",
+     "duracao": "3:00"
+    },
+    {
+     "n": 7,
+     "titulo": "Three Time Loser",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "You’re the One That Done It",
+     "duracao": "2:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Midnight to Six Man",
+     "duracao": "2:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Jeanie, Jeanie, Jeanie",
+     "duracao": "3:21"
+    },
+    {
+     "n": 11,
+     "titulo": "If Time Could Turn Backwards",
+     "duracao": "4:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Back in History",
+     "duracao": "2:20"
+    },
+    {
+     "n": 13,
+     "titulo": "I Can’t Stop",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "683011fd-725f-49e1-a785-05e532d98542",
+   "titulo": "Shot in the Dark",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/6f2c554a-6304-4b03-8c72-6d75e08170a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "(I Thought I Heard A) Heartbeat",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Tell Me What's Wrong",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "So Much in Love",
+     "duracao": "2:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Stop It Baby",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Waiting Game",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Feelin' Good",
+     "duracao": "2:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Talk Talk",
+     "duracao": "2:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Why When Love Is Gone",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Sweet Rain",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Crime Don't Pay",
+     "duracao": "2:42"
+    },
+    {
+     "n": 11,
+     "titulo": "(She's) Some Kinda Wonderful",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4aff12c9-decd-4d92-8ddc-b8f3fa10fc02",
+   "titulo": "Five",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/15244cfd-c496-435d-8104-2007850ae4d7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let's Move",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "I Think I'm Getting Over You",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Just Like Romeo and Juliet",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Rumours",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Lonely Hearts",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Back on the Streets",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Baby Say Yeah",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Take a Heart",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Sister Jekyll and Hyde",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Love's for Losers",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Heartache",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Sweet Lovin",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "52392fd6-c864-417b-b02c-4cda70ef48dd",
+   "titulo": "Fast Forward",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/0693e162-3617-4a14-987e-92e274804433/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Move On",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Next to You",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Turn Back the Hands of Time",
+     "duracao": "3:04"
+    },
+    {
+     "n": 4,
+     "titulo": "Dangerous Love",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Footdown",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Sweet Nuthin's",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Everything's Alright",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Caroline",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Bad Influence",
+     "duracao": "3:07"
+    },
+    {
+     "n": 10,
+     "titulo": "You're Too Much",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Goodbye So Long",
+     "duracao": "3:04"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a670e08c-e5e9-4dff-8bab-d023ec742d81",
+   "titulo": "Inside Out",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/71756ed4-5f8b-40a9-ad64-f7ad46c01200/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Busted",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Making Time",
+     "duracao": "2:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Rescue Me (S.O.S.)",
+     "duracao": "4:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Night and Day",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Grass Is Greener",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Hey Landlord",
+     "duracao": "3:02"
+    },
+    {
+     "n": 7,
+     "titulo": "It's Better to Have (And Don't Need)",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Nervous Breakdown",
+     "duracao": "2:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Precious Blue",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "My Dark Side",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Come Back Babe (I'm in Love With You)",
+     "duracao": "3:23"
+    },
+    {
+     "n": 12,
+     "titulo": "Forever (Ain't So long)",
+     "duracao": "4:20"
+    },
+    {
+     "n": 13,
+     "titulo": "You Got the Look I Like",
+     "duracao": "3:24"
+    },
+    {
+     "n": 14,
+     "titulo": "Think I'd Better Move On",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8561debc-5135-4e50-8dd3-87e13e6133b3",
+   "titulo": "Wanted",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/37f17c1a-92c8-4cc7-a8fe-7ebec333b3af/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Breakdown (Baby Don’t You Do It)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Security",
+     "duracao": "2:48"
+    },
+    {
+     "n": 3,
+     "titulo": "Paper Thin",
+     "duracao": "3:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Promises",
+     "duracao": "3:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Am I Still Your Man",
+     "duracao": "3:59"
+    },
+    {
+     "n": 6,
+     "titulo": "You Ain’t Never (Been in Love)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "When I Was Young",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "Dead Red Roses",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Jet Black Crow",
+     "duracao": "5:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Hey Now",
+     "duracao": "3:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Gone Too Long",
+     "duracao": "3:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Fire Down Below",
+     "duracao": "4:27"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Hot",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "20796232-0679-40cf-852e-db492b6f26d4",
+   "titulo": "A Whiter Shade of Dirty Water",
+   "data": "1994",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/45edc26b-58c5-446d-bf69-fef08efc8e83/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "He's Waitin'",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Strychnine",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Pushing Too Hard",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Kicks",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Candy",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Louie Louie",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "96 Tears",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Let's Talk About Girls",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Sometimes Good Guys Don't Wear White",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "I'm a Man",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Red River Rock",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Midnight to Six Man '93",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "dbd67899-ac66-45c9-b22f-57e78e0a6279",
+   "titulo": "Silverio",
+   "data": "1996-09",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/efcab2af-7a49-43fe-999c-8bdfdb3386c5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Thing Called Love",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "On the Run",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Crashin' in the Same Car",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "No Other Girl",
+     "duracao": "2:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Find Another Fool",
+     "duracao": "5:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Listen to Your Heart",
+     "duracao": "3:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Turpentine",
+     "duracao": "4:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Name and Number",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Life Savings",
+     "duracao": "3:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Heart of Stone",
+     "duracao": "4:36"
+    },
+    {
+     "n": 11,
+     "titulo": "Stop What You're Doing",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Shape I'm In",
+     "duracao": "3:55"
+    },
+    {
+     "n": 13,
+     "titulo": "Baby Drives Me Crazy",
+     "duracao": "2:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Wait",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

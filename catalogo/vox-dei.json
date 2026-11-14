@@ -1,0 +1,837 @@
+{
+ "id": "vox-dei",
+ "nome": "Vox Dei",
+ "cena": "Descobertas do acervo",
+ "mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+ "wikidata": "Q3106188",
+ "tipo": "Group",
+ "pais": "AR",
+ "inicio": "1967",
+ "fim": "2017",
+ "ativa": false,
+ "generos": [
+  "hard rock",
+  "progressive rock",
+  "rock",
+  "art rock",
+  "blues rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vox_Dei_-_Recital_en_Casa_Rosada_-_16MAR07_-presidencia-govar.jpg/500px-Vox_Dei_-_Recital_en_Casa_Rosada_-_16MAR07_-presidencia-govar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/Vox_Dei_%28band%29",
+ "resumo_pt": "",
+ "resumo_en": "Vox Dei (Latin: Voice of God) was an Argentine rock band credited with recording the country's first concept album, La Biblia. Their most prolific years were the 1970s, when they recorded ten albums.\nVox Dei have had several line-up changes and a five-year hiatus. Their third and most commercially successful line-up featured Ricardo Soulé (guitar and vocals), Willy Quiroga (bass and vocals) and Rubén Basoalto (drums). This line-up was active from 1972 to 1974 (then in 1978 to the 1981 break-up), and was revived from 1986 to 1989, and again from 1996 to 1998. The band's line-up (which featured Willy Quiroga, and guitarist Carlos Gardellini from 1992) has been much more stable in recent years, although drummer Rubén Basoalto's death in 2010 (being succeeded by Simon Quiroga) left Willy Quiroga as the only original member still in the band. Quiroga died on 21 November 2024, at the age of 84.",
+ "albuns": [
+  {
+   "id": "a80e2217-0718-3975-b5ce-20db04e54844",
+   "titulo": "Caliente",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/b4d60c82-8deb-4bdb-88e1-56c3df15275f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Reflejos",
+     "duracao": "6:08"
+    },
+    {
+     "n": 2,
+     "titulo": "No es por falta de suerte",
+     "duracao": "4:17"
+    },
+    {
+     "n": 3,
+     "titulo": "Cuero",
+     "duracao": "4:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Compulsión",
+     "duracao": "3:02"
+    },
+    {
+     "n": 5,
+     "titulo": "Total qué",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Canción para una mujer (que no está)",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Presente",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Caliente_%28Vox_Dei_album%29",
+   "resumo_en": "Caliente is the name of the first album recorded by the Argentine rock band Vox Dei, issued in 1970, their only LP for \"Mandioca\".\nThe band had recorded for \"Mandioca\" two singles between 1969 and 1970.\nDuring the sessions for the next album, La Biblia, Vox Dei still were contractually attached to this label, which went bust in late 1970, and the label \"Disc Jockey\" took over of the production of the next four albums.\nAlso, here appears the first version of \"Presente\", the second version (more famous) appears on Cuero Caliente (1972).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "04e658ff-608c-347a-8268-18d23fe01160",
+   "titulo": "La Biblia",
+   "data": "1971-03-15",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/9b79bf99-397f-472e-bd5d-d5f0797e4ca1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Génesis",
+     "duracao": "6:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Moisés",
+     "duracao": "7:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Las guerras",
+     "duracao": "13:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Profecías",
+     "duracao": "2:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Libros sapienciales",
+     "duracao": "7:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Cristo y nacimiento",
+     "duracao": "3:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Cristo — Muerte y resurrección",
+     "duracao": "10:27"
+    },
+    {
+     "n": 8,
+     "titulo": "Apocalipsis",
+     "duracao": "4:45"
+    }
+   ],
+   "duracao_min": 55,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/La_Biblia",
+   "resumo_en": "La Biblia (pronounced [la ˈβiβlja]; Spanish for \"The Bible\") is the second studio album by the Argentine band Vox Dei, released as a double album on March 15, 1971, by Disc Jockey Records. Considered a milestone of nascent Argentine rock, as well as one of the first rock operas and concept albums of rock en español, La Biblia centers on the Bible's narrative, starting from Genesis and concluding with the Apocalypse.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a783f045-8732-3d4d-ad9b-fafef8d55918",
+   "titulo": "Jeremías pies de plomo",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/2517bedf-babf-4625-bdc7-44fdff1881bb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jeremías, pies de plomo",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Detrás del vidrio, parte I",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Detrás del vidrio, parte II",
+     "duracao": "3:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Juntando semillas en el suelo",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "Sin separarnos más",
+     "duracao": "4:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Ahora es el preciso instante",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Ritmo y blues con armónicas",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Esta noche no parece igual",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Por aquí se te echó de menos",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerem%C3%ADas_Pies_de_Plomo",
+   "resumo_en": "Jeremías Pies de Plomo (Spanish: Lead-Feet Jeremiah) is the third studio album by the Argentine rock band Vox Dei.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b4d0e040-451b-340a-81e2-d5412c5d3b71",
+   "titulo": "Cuero caliente",
+   "data": "1972-12",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/8112e6e2-13b7-4a9d-9866-d4795d55d557/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "El regreso del Dr. Jekill",
+     "duracao": "5:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Reflejos tuyos y míos",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Azúcar amarga",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "El momento en que estás (Presente)",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "A nadie le interesa si quedás atrás (Total qué…)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Canción para una mujer que no está",
+     "duracao": "4:05"
+    },
+    {
+     "n": 7,
+     "titulo": "Compulsión",
+     "duracao": "4:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Tan solo estás recordándome (Cuero)",
+     "duracao": "5:10"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cuero_Caliente",
+   "resumo_en": "Cuero Caliente (Hot Leather) is the fourth album recorded by the Argentine rock band Vox Dei.\nIt is actually a re-make of their first album Caliente from 1970. The original recording label Mandioca had gone bankrupt by mid 1970, and the record was hard to find even in those days, so the band decided to record it again, minus one song: No es por falta de suerte, and adding Azúcar amarga and El regreso del Dr. Jekyll. The result was deemed good enough to satisfy the needs of those who did not own the original LP.\n\"Reflejos tuyos y míos\" it's the first song of Vox Dei with the lead vocals of Rubén Basoalto.\nThe songs performed with Nacho Smilari belong to the 1971 single \"Dónde has estado todo este tiempo\"/\"Tan solo un hombre\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "75c5377c-e416-3263-8e93-ac7ccd1d0bea",
+   "titulo": "Es una nube, no hay duda",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/63e69a83-e911-4c37-96e8-5aceee101137/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Es una nube, no hay duda",
+     "duracao": "5:09"
+    },
+    {
+     "n": 2,
+     "titulo": "El faisán y la codorniz",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Es así y no hay nada que hablar",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Loco, hacela callar",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "La verdadera historia de “Sam el Montañés”",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Prométeme que nunca me dirás adiós",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Por sobre el monte, encima del mar",
+     "duracao": "4:09"
+    },
+    {
+     "n": 8,
+     "titulo": "El mañana es otra historia",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Es_una_Nube%2C_No_Hay_Duda",
+   "resumo_en": "Es Una Nube, No Hay Duda (It's a Cloud, No Doubt About It) is the sixth album by the Argentine rock band Vox Dei, and the first recorded for their new label CBS. Also, is widely regarded as one of the Vox Dei' best albums, and contains classic songs such as the title-track, \"Loco, hacela callar\", and the sweeping ballad \"Prométeme Que Nunca me Dirás Adiós\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f768f1f3-8dcd-468f-b92d-4a96abd31698",
+   "titulo": "Vox Dei para Vox Dei",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/aa93091d-300a-4e5b-9a75-18a107ea49a0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Es necesario salirte a buscar",
+     "duracao": "4:35"
+    },
+    {
+     "n": 2,
+     "titulo": "La luz que crea",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "No hay nada más terrible que el maldito bong",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "No, ni por equivocación",
+     "duracao": "4:18"
+    },
+    {
+     "n": 5,
+     "titulo": "Quiero estar seguro de vivir",
+     "duracao": "2:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Mago de los cuatro vientos",
+     "duracao": "4:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Algo está cambiándome a mí",
+     "duracao": "5:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Quiero darte de mis días",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "Tengo ganas de… estar con buena gente",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vox_Dei_para_Vox_Dei",
+   "resumo_en": "Vox Dei para Vox Dei is the seventh studio album by the Argentine rock band Vox Dei. It is the band's only album with Carlos Rodriguez on rhythm guitar.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "784ffbf8-3f6a-3e60-8b6c-f5a954872d99",
+   "titulo": "Estamos en la pecera",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/faab2ba9-038e-4b41-b7ee-cd65114a4eb5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Estamos en la pecera",
+     "duracao": "8:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Mientras Susy",
+     "duracao": "5:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Choque de corazas",
+     "duracao": "6:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Apurado y confundido",
+     "duracao": "4:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Inventaré mi vida",
+     "duracao": "5:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Debes conocer las cosas que andan mal",
+     "duracao": "7:31"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Estamos_en_la_Pecera",
+   "resumo_en": "Estamos en la pecera is the eighth album recorded by the Argentine rock band Vox Dei.\nFirst without Ricardo Soulé and is the only album with Carlos Michelini.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b034040-5c96-3afe-a9de-7b52b5a4a526",
+   "titulo": "Ciegos de siglos",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/b92c334b-cba4-4d23-a378-f4d56028efcb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "La ceremonia es total",
+     "duracao": "3:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Déjame creer que todo nace hoy",
+     "duracao": "4:12"
+    },
+    {
+     "n": 3,
+     "titulo": "Pateando calle abajo",
+     "duracao": "4:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Espontáneo y simple como un blues",
+     "duracao": "5:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Extraña visita",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Reflexión de dos por miles a medianoche",
+     "duracao": "5:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Sólo hoy te pertenece, mañana es ilusión",
+     "duracao": "5:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Ciegos de siglos",
+     "duracao": "2:51"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ciegos_de_Siglos",
+   "resumo_en": "Ciegos de Siglos (Blind of Centuries) is the ninth album recorded by the Argentine rock band Vox Dei. The band found it hard to attain chart success with this LP and Vox Dei were later dropped by CBS in 1977.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6e5a821e-a406-4a12-9f2f-7d37a4495d36",
+   "titulo": "Gata de noche",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/c426fcac-2a5e-4159-be95-835a748327f6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gata de noche",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Al rey, a mí y a vos",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Puedes pensar lo que quieras de mí",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Piénsalo antes de hablar",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "El espejo de tu cuarto",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Mis botas de rock",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Cómo es el martillo que quisieras tener",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "No dejaré que viva en mí",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Fantasmas en mi cabeza",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Los nervios y las luces",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gata_de_Noche",
+   "resumo_en": "Gata de Noche (Night Cat) is the tenth album recorded by the Argentine rock band Vox Dei.\nThis LP marked Ricardo Soulé's return to the band. It was Vox Dei's last album for the first era, until their break-up in 1981.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "25a14e30-e53f-4ba2-b9cb-f08d8277d8f2",
+   "titulo": "Tengo razones para seguir",
+   "data": "1988",
+   "ano": "1988",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "El día de la victoria",
+     "duracao": "3:59"
+    },
+    {
+     "n": 2,
+     "titulo": "No me vengas con historias",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Espectros I",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Espectros II",
+     "duracao": "2:34"
+    },
+    {
+     "n": 5,
+     "titulo": "A nada le temo más",
+     "duracao": "2:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Tiempo de conversar",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Tengo razones para seguir",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Un corazón dispuesto",
+     "duracao": "3:51"
+    },
+    {
+     "n": 9,
+     "titulo": "En el siglo XXI",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Harley Davidson",
+     "duracao": "3:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Dios es una mujer desnuda",
+     "duracao": "3:44"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ab38adb1-7478-4552-9021-a5f7cffd38ac",
+   "titulo": "Sin darle ya más vueltas",
+   "data": "1994",
+   "ano": "1994",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sin darle ya más vueltas",
+     "duracao": "4:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Como toro",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Cazador implacable",
+     "duracao": "3:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Susana en un sueño",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Si vas por bien",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Mi forma de amar",
+     "duracao": "5:24"
+    },
+    {
+     "n": 7,
+     "titulo": "El amor cabalga en el viento",
+     "duracao": "5:23"
+    },
+    {
+     "n": 8,
+     "titulo": "No es eterno el sol",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Igual que un ariete",
+     "duracao": "4:15"
+    },
+    {
+     "n": 10,
+     "titulo": "El perverso cara dos",
+     "duracao": "3:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Mamalita",
+     "duracao": "2:46"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "eebf1693-6b20-3a8d-89e7-29cd9a30898c",
+   "titulo": "El camino",
+   "data": "2005",
+   "ano": "2005",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "El camino",
+     "duracao": "5:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Tito",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Soltando lastre",
+     "duracao": "4:44"
+    },
+    {
+     "n": 4,
+     "titulo": "No quiero dormir",
+     "duracao": "5:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Ahora es el preciso instante",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Carrera loca",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Compulsión",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Esta canción",
+     "duracao": "3:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Torcazas y pinos",
+     "duracao": "4:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Un corazón dispuesto",
+     "duracao": "4:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Tan solo un hombre",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Río de blues",
+     "duracao": "3:49"
+    },
+    {
+     "n": 13,
+     "titulo": "Jeremías, pies de plomo / El regreso del Dr. Jeckill",
+     "duracao": "8:29"
+    },
+    {
+     "n": 14,
+     "titulo": "[sin título]",
+     "duracao": "0:29"
+    }
+   ],
+   "duracao_min": 60,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/El_Camino_%28Vox_Dei_album%29",
+   "resumo_en": "El Camino is the 13th and last studio album by Argentine rock band Vox Dei, released in 2005.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "907f426d-11b4-4c14-b57b-53b33891efcf",
+   "titulo": "La Cinta Perdida",
+   "data": "2025-08-29",
+   "ano": "2025",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Compulsión",
+     "duracao": "3:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Gata de Noche",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Tan Solo Un Hombre",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Es Una Nube No Hay Duda",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Esta Noche No Parece Igual",
+     "duracao": "1:58"
+    },
+    {
+     "n": 6,
+     "titulo": "Prometeme Que Nunca Me Diras Adiós",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Un Corazón Dispuesto",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "El Momento En Que Estas (Presente)",
+     "duracao": "2:55"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -77,7 +77,9 @@
    "publico": 8.7,
    "publico_votos": 11,
    "wikipedia": "https://en.wikipedia.org/wiki/The_Stooges_%28album%29",
-   "resumo_en": "The Stooges is the self-titled debut studio album by American rock band the Stooges, released on August 5, 1969, by Elektra Records. Considered a landmark proto-punk release, the album peaked at number 106 on the US Billboard Top 200 Albums chart. The tracks \"I Wanna Be Your Dog\" and \"1969\" were released as singles; \"1969\" was featured on Rolling Stone's list of the \"100 Greatest Guitar Songs\" at number 35. In 2020, the album was ranked number 488 on Rolling Stone's 500 Greatest Albums of All Time."
+   "resumo_en": "The Stooges is the self-titled debut studio album by American rock band the Stooges, released on August 5, 1969, by Elektra Records. Considered a landmark proto-punk release, the album peaked at number 106 on the US Billboard Top 200 Albums chart. The tracks \"I Wanna Be Your Dog\" and \"1969\" were released as singles; \"1969\" was featured on Rolling Stone's list of the \"100 Greatest Guitar Songs\" at number 35. In 2020, the album was ranked number 488 on Rolling Stone's 500 Greatest Albums of All Time.",
+   "spotify": null,
+   "youtube": null
   },
   {
    "id": "edd57263-df77-3f1a-8803-8beb5d5b1a64",
@@ -131,7 +133,9 @@
    "publico": 8.4,
    "publico_votos": 11,
    "wikipedia": "https://en.wikipedia.org/wiki/Fun_House_%28The_Stooges_album%29",
-   "resumo_en": "Fun House is the second studio album by the American rock band the Stooges. It was released on July 7, 1970, by Elektra Records. Though initially commercially unsuccessful, Fun House has since developed a strong cult following. Like its predecessor (their 1969 self-titled debut album) and successor (1973's Raw Power), it is considered an integral work in the development of punk rock."
+   "resumo_en": "Fun House is the second studio album by the American rock band the Stooges. It was released on July 7, 1970, by Elektra Records. Though initially commercially unsuccessful, Fun House has since developed a strong cult following. Like its predecessor (their 1969 self-titled debut album) and successor (1973's Raw Power), it is considered an integral work in the development of punk rock.",
+   "spotify": null,
+   "youtube": null
   },
   {
    "id": "1e0da02b-85f2-3566-8151-5eb45e9f80f4",
@@ -211,7 +215,96 @@
    "publico": 4,
    "publico_votos": 3,
    "wikipedia": "https://en.wikipedia.org/wiki/The_Weirdness",
-   "resumo_en": "The Weirdness is the fourth studio album by American proto-punk band The Stooges. Released on 5 March 2007, it was the first Stooges album of new material since Raw Power in 1973, and is also the final album to feature guitarist Ron Asheton, who died in early 2009. Founding members Iggy Pop (vocals), Ron Asheton (guitar), and Scott Asheton (drums) are featured, along with new band member Mike Watt (bass guitar), formerly of Minutemen, and returning guest musician Steve Mackay (saxophone), who appeared on The Stooges' 1970 album, Fun House."
+   "resumo_en": "The Weirdness is the fourth studio album by American proto-punk band The Stooges. Released on 5 March 2007, it was the first Stooges album of new material since Raw Power in 1973, and is also the final album to feature guitarist Ron Asheton, who died in early 2009. Founding members Iggy Pop (vocals), Ron Asheton (guitar), and Scott Asheton (drums) are featured, along with new band member Mike Watt (bass guitar), formerly of Minutemen, and returning guest musician Steve Mackay (saxophone), who appeared on The Stooges' 1970 album, Fun House.",
+   "spotify": "5S38cTeAWT2aqlArzdWbuc",
+   "youtube": null
+  },
+  {
+   "id": "c17b59a6-596f-4cd3-91d4-ad974ff9c99d",
+   "titulo": "Gimme Danger",
+   "data": "2017-02-24",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/78a73cce-5c4c-4264-a18a-322abefa0d13/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gimme Danger (Bowie mix)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "No Fun",
+     "duracao": "5:18"
+    },
+    {
+     "n": 3,
+     "titulo": "I Wanna Be Your Dog",
+     "duracao": "3:12"
+    },
+    {
+     "n": 4,
+     "titulo": "1969",
+     "duracao": "4:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Little Doll",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Down on the Street",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Loose",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "I Got a Right (outtake)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "I’m Sick of You (outtake)",
+     "duracao": "6:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Ramblin’ Rose",
+     "duracao": "4:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Again and Again",
+     "duracao": "2:21"
+    },
+    {
+     "n": 12,
+     "titulo": "I’m a Man",
+     "duracao": "2:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Lost in the Future (take 1)",
+     "duracao": "5:52"
+    },
+    {
+     "n": 14,
+     "titulo": "Asthma Attack",
+     "duracao": "6:28"
+    }
+   ],
+   "duracao_min": 59,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
   }
  ]
 }

@@ -1,0 +1,283 @@
+{
+ "id": "tutti-frutti",
+ "nome": "Tutti Frutti",
+ "cena": "Descobertas do acervo",
+ "mbid": "3a900721-bd60-4e91-82fc-04a62aed7e76",
+ "wikidata": "Q10385714",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1973",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "pop rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/Tutti_Frutti_%28banda%29",
+ "resumo_pt": "Tutti Frutti é uma banda brasileira de rock, formada no início dos anos 70 por músicos do bairro da Pompeia, em São Paulo. Entre 1973 e 1978 - liderada pelo guitarrista Luiz Sérgio Carlini, a banda foi o grupo de apoio de Rita Lee, após a saída da cantora dos Mutantes. Com ela tornaram-se um dos grandes nomes do rock brasileiro na década de 70 e gravaram 4 álbuns de estúdio - Atrás do Porto Tem uma Cidade, Fruto Proibido, Entradas e Bandeiras e Babilônia, 2 álbuns ao vivo - Hollywood Rock e Refestança, em parceria com Gilberto Gil, e várias músicas de sucesso nacional, como \"Mamãe Natureza\", \"Agora Só Falta Você\", \"Esse Tal de Roque Enrow\", \"Luz del Fuego\", \"Ovelha Negra\", \"Corista de Rock\", \"Miss Brasil 2000\" e \"Jardins da Babilônia\". No final de 1978, Carlini levaria consigo o nome da banda, recrutando novos integrantes, como o vocalista Simbas, e lançariam, ainda, mais 1 álbum de estúdio: Você Sabe Qual o Melhor Remédio. Com a fraca recepção do novo disco, o grupo encerraria suas atividades em 1981. Em 1997, volta com nova formação, trazendo Carlini e Franklin Paolillo de sua formação mais conhecida, além da vocalista Helena Theodorellos. Com esta formação apresentariam-se até 2008, quando a vocalista sai do grupo. Então, com a entrada da vocalista Sol Ribeiro, o grupo continua se apresentando até os dias de hoje.",
+ "resumo_en": "Tutti Frutti was a Brazilian rock band formed in the early 1970s by musicians living in the Pompeia neighbourhood, in São Paulo. Between 1973 and 1978, with leading guitarist Luís Sérgio Carlini, the band accompanied Rita Lee in her shows after she had left Os Mutantes. This proved to be a successful association, making Tutti Frutti one of the most prominent Brazilian rock groups in the 1970s. They recorded with Rita Lee several national hits as \"Agora só Falta Você\", \"Esse Tal de Roque Enrow\", \"Ovelha Negra\", \"Corista de Rock\", \"Miss Brasil 2000\" and \"Jardins da Babilônia\". After the association with her came to an end in 1978, the band continued to perform with lead singer Simbas until they finally broke up in 1981. Carlini, who owned the Tutti Frutti brand name, has attempted various other formations since then, achieving only limited success.\nIn 1981, various ex-members of the band joined to form a new rock group named Rádio Táxi, that went on to release a string of hit singles in the early/mid 80s.\nLuís Sérgio Carlini died on 7 May 2026, at the age of 73.",
+ "albuns": [
+  {
+   "id": "31b43c57-fe2f-4fbe-81c9-8194cf2849db",
+   "titulo": "Atrás do porto tem uma cidade",
+   "data": "1974-06",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/b728c7f3-ac61-4923-aac2-3c8386e26fa4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "De pés no chão",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Yo no creo pero...",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Tratos à bola",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Menino bonito",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Pé de meia",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Mamãe Natureza",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Ando jururu",
+     "duracao": "2:18"
+    },
+    {
+     "n": 8,
+     "titulo": "Eclipse do cometa",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Círculo vicioso",
+     "duracao": "3:08"
+    },
+    {
+     "n": 10,
+     "titulo": "...Tem uma cidade",
+     "duracao": "0:59"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c613368-a1d5-3933-b87a-34f6f3eadcf7",
+   "titulo": "Fruto proibido",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/ddb7a1f7-ef1e-4a04-8455-7b46f551008e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dançar pra não dançar",
+     "duracao": "4:13"
+    },
+    {
+     "n": 2,
+     "titulo": "Agora só falta você",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Cartão postal",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Fruto proibido",
+     "duracao": "2:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Esse tal de Roque Enrow",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "O toque",
+     "duracao": "5:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Pirataria",
+     "duracao": "4:28"
+    },
+    {
+     "n": 8,
+     "titulo": "Luz del fuego",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Ovelha negra",
+     "duracao": "5:38"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fruto_Proibido",
+   "resumo_en": "Fruto Proibido (Brazilian Portuguese pronunciation: [ˈfɾutu pɾojˈbidu], 'Forbidden Fruit') is the fourth studio album by Brazilian musician Rita Lee and the second with the band Tutti Frutti, released on 30 June 1975 through the label Som Livre. Seeking to reestablish her career after her 1972 dismissal from Os Mutantes, Lee joined Tutti Frutti the following year and released their first collaborative album, Atrás do Porto Tem uma Cidade (1974), which underperformed commercially. The group and Lee also faced creative constraints and neglect from their then-label, Philips, prompting them to leave and sign with Som Livre under executive João Araújo. American producer Andy Mills, known for his work as a sound engineer for Alice Cooper, was selected by Lee to helm the project.\nMusically, the album blends glam rock and blues rock, with lyrics addressing themes such as parental disdain, farewells, longing for freedom, self-empowerment, and narratives referencing unabashed figures like naturist actress Luz del Fuego and dancer Isadora Duncan. Lee's vocals were noted for their youthful inflections, shifting from the sarcastic tone of her Os Mutantes era to a style conveying rebellion and v",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e30b20f6-2995-4c4c-8d3f-afef3a27155d",
+   "titulo": "Entradas e bandeiras",
+   "data": "1976-07",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/d97bb78b-2a9e-4072-a2bc-2b4a641184a5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Corista de rock",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Lady Babel",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Coisas da vida",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Bruxa amarela",
+     "duracao": "2:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Departamento de criação",
+     "duracao": "3:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Superstafa",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Com a boca no mundo (Tico-tico)",
+     "duracao": "3:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Posso contar comigo",
+     "duracao": "3:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Troca-toca",
+     "duracao": "4:28"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "674b3399-8221-4985-8889-a04df5319d2a",
+   "titulo": "Babilônia",
+   "data": "1978-04",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/42a33d70-6d7f-40b0-88b0-4348df5eb069/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Miss Brasil 2000",
+     "duracao": "3:20"
+    },
+    {
+     "n": 2,
+     "titulo": "Disco voador",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Agora é moda",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Jardins da Babilônia",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "O futuro me absolve",
+     "duracao": "3:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Sem cerimônia",
+     "duracao": "3:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Que loucura",
+     "duracao": "3:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Eu e meu gato",
+     "duracao": "4:15"
+    },
+    {
+     "n": 9,
+     "titulo": "Modinha",
+     "duracao": "3:39"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Babil%C3%B4nia_%28album%29",
+   "resumo_en": "Babilônia is the fourth and final album by Rita Lee & Tutti Frutti. It sold 150,000 copies.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

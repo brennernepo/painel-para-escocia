@@ -1,0 +1,625 @@
+{
+ "id": "concrete-blonde",
+ "nome": "Concrete Blonde",
+ "cena": "Descobertas do acervo",
+ "mbid": "701fc524-b5f2-42f2-9db7-8198cdd6839c",
+ "wikidata": "Q673420",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1982",
+ "fim": "2012",
+ "ativa": false,
+ "generos": [
+  "alternative rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/Concrete_Blonde",
+ "resumo_pt": "Concrete Blonde foi uma banda de rock alternativo formada em Hollywood, Califórnia. Estiveram ativos de 1982 a 1995, de 2001 a 2004, e depois se reuniram em 2010 e se separaram novamente em 2012. Eles são conhecidos principalmente pelas letras e voz pungentes de Johnette Napolitano.\nFizeram muito sucesso na década de 90, quando diversos filmes de ação utilizaram suas músicas como trilha sonora, como por exemplo \"I Want You\" no filme \"Caçadores de Emoção\".",
+ "resumo_en": "Concrete Blonde was an American rock band from Hollywood, California. They were active from 1982 to 1994 and reunited twice: first from 2001 to 2004, then from 2010 to 2012. They were best known for their album Bloodletting (1990), its top-20 single \"Joey\", and Johnette Napolitano's distinctive vocal style.",
+ "albuns": [
+  {
+   "id": "f4096e6e-b148-3a16-9b0e-14447a1f0c8c",
+   "titulo": "Concrete Blonde",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/14f09b2b-60a5-4f6b-8e53-f388c81eeb06/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "True",
+     "duracao": "3:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Your Haunted Head",
+     "duracao": "2:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Dance Along the Edge",
+     "duracao": "5:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Still in Hollywood",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Song for Kim (She Said)",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Beware of Darkness",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Over Your Shoulder",
+     "duracao": "3:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Little Sister",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "(You're the Only One) Can Make Me Cry",
+     "duracao": "2:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Cold Part of Town",
+     "duracao": "3:12"
+    },
+    {
+     "n": 11,
+     "titulo": "True (instrumental)",
+     "duracao": "2:25"
+    },
+    {
+     "n": 12,
+     "titulo": "It'll Chew You Up and Spit You Out",
+     "duracao": "4:34"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Concrete_Blonde_%28album%29",
+   "resumo_en": "Concrete Blonde is the debut studio album by American rock band Concrete Blonde, released in 1986, by I.R.S. Records. The band released an EP three years prior, under the name Dream 6, but rebranded to Concrete Blonde in 1986, chosen by labelmate Michael Stipe as a contrast between their hard rock music and introspective lyrics. Concrete Blonde is the band's first release with the name, and compared to their later work, has a more post-punk sound.\nThree singles were released from the album, \"Still in Hollywood\", \"Dance Along the Edge\" and \"True\", each with a music video, but only the latter charted, reaching No. 42 on the US Mainstream Rock chart and No. 91 on the Australian ARIA charts. The album was not the commercial breakthrough the band was looking for, leading them to declare bankruptcy and take a hiatus. Superfecta Recordings remastered and re-released the album on May 11, 2004.\nCritical reception was relatively kind on release, and the album garnered the band a cult following, but nowadays, the self-titled debut album is seen as one of the weaker albums in Concrete Blonde's discography. Criticism has been drawn towards the raw production, overambition as the band still figu",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "757b0ad9-4117-3ad5-ad64-9c82a72cd5b7",
+   "titulo": "Free",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/0d337373-9631-30dc-8ec0-7b513e21404b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "God Is a Bullet",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Run Run Run",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "It’s Only Money",
+     "duracao": "2:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Help Me",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Sun",
+     "duracao": "2:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Roses Grow",
+     "duracao": "3:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Scene of a Perfect Crime",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Happy Birthday",
+     "duracao": "2:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Conversations",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "Carry Me Away",
+     "duracao": "3:42"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 8.5,
+   "publico_votos": 4,
+   "wikipedia": "https://en.wikipedia.org/wiki/Free_%28Concrete_Blonde_album%29",
+   "resumo_en": "Free is the second album by alternative rock band Concrete Blonde. It marked the addition of bass player Alan Bloch.\nFree peaked at number 90 on the Australian ARIA Charts.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6ae76cc0-027b-34d3-902d-01898bf0350f",
+   "titulo": "Bloodletting",
+   "data": "1990-05",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/46a32c27-90e6-45d2-b785-d6c5b4521c0b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bloodletting (The Vampire Song)",
+     "duracao": "6:07"
+    },
+    {
+     "n": 2,
+     "titulo": "The Sky Is a Poisonous Garden",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Caroline",
+     "duracao": "5:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Darkening of the Light",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "I Don't Need a Hero",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Days and Days",
+     "duracao": "3:14"
+    },
+    {
+     "n": 7,
+     "titulo": "The Beast",
+     "duracao": "3:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Lullabye",
+     "duracao": "4:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Joey",
+     "duracao": "4:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Tomorrow, Wendy",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.9,
+    "fontes": 4
+   },
+   "publico": 7.3,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bloodletting_%28Concrete_Blonde_album%29",
+   "resumo_en": "Bloodletting is the third studio album by American alternative rock band Concrete Blonde. Released on May 15, 1990, the album features guest appearances by R.E.M.'s Peter Buck and Wall of Voodoo's Andy Prieboy.\nBloodletting peaked at number 8 on the Australian ARIA Charts and was certified gold in 1990. It earned a gold certification from the Recording Industry Association of America (RIAA) the following year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "948db786-8e2e-30d2-8443-cdf626f9ba15",
+   "titulo": "Walking in London",
+   "data": "1992",
+   "ano": "1992",
+   "capa": "https://coverartarchive.org/release/9c9a22c1-0956-4761-97cd-38a3b62d52be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ghost of a Texas Ladies' Man",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Walking in London",
+     "duracao": "6:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Les Cœurs Jumeaux",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Woman to Woman",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Why Don't You See Me",
+     "duracao": "4:31"
+    },
+    {
+     "n": 6,
+     "titulo": "City Screaming",
+     "duracao": "4:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Someday?",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "I Wanna Be Your Friend Again",
+     "duracao": "5:18"
+    },
+    {
+     "n": 9,
+     "titulo": "... Long Time Ago",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "It's a Man's World",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Walking_in_London_%28album%29",
+   "resumo_en": "Walking in London is the fourth studio album from rock band Concrete Blonde. It features the song \"...Long Time Ago\" which played over the ending credits of The Shield's series finale.\nWalking in London peaked at number 18 on the Australian ARIA Charts.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7862268a-5399-3bd6-87b8-0beccb154abb",
+   "titulo": "Mexican Moon",
+   "data": "1993-10-19",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/6862c185-3de3-3353-a971-f07730a6fbe3/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Jenny I Read",
+     "duracao": "5:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Mexican Moon",
+     "duracao": "5:03"
+    },
+    {
+     "n": 3,
+     "titulo": "Heal It Up",
+     "duracao": "4:21"
+    },
+    {
+     "n": 4,
+     "titulo": "Jonestown",
+     "duracao": "6:09"
+    },
+    {
+     "n": 5,
+     "titulo": "Rain",
+     "duracao": "3:30"
+    },
+    {
+     "n": 6,
+     "titulo": "I Call It Love",
+     "duracao": "5:17"
+    },
+    {
+     "n": 7,
+     "titulo": "Jesus Forgive Me (For the Things I'm About to Say)",
+     "duracao": "5:17"
+    },
+    {
+     "n": 8,
+     "titulo": "When You Smile",
+     "duracao": "4:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Close to Home",
+     "duracao": "3:32"
+    },
+    {
+     "n": 10,
+     "titulo": "One of My Kind",
+     "duracao": "3:59"
+    },
+    {
+     "n": 11,
+     "titulo": "End of the Line",
+     "duracao": "4:41"
+    },
+    {
+     "n": 12,
+     "titulo": "(Love Is a) Blind Ambition",
+     "duracao": "6:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Bajo la Lune Mexicana",
+     "duracao": "5:07"
+    }
+   ],
+   "duracao_min": 63,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 6.9,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mexican_Moon",
+   "resumo_en": "Mexican Moon is the fifth studio album by alternative rock band Concrete Blonde.\nMexican Moon takes the gothic rock of the previous albums and adds more of a hard rock edge to it.  Johnette Napolitano provided the vocals, bass guitar, samples, and the album artwork. Paul Thompson played drums and James Mankey played guitar.\n\"Jenny I Read\" details the rise to stardom and subsequent fall into happy obscurity of a fashion model (rumoured to be Bettie Page), while \"Mexican Moon\" finds Napolitano singing about a failed romance and fleeing into Mexico.  The song \"Jonestown\" is a critique of the theology surrounding the Jonestown Massacre and opens with a minute-long sample of Jim Jones ranting about warfare. \"End of the Line\" is a Roxy Music song, written by Bryan Ferry and released on Siren.\nOn the closing track, \"Bajo la Lune Mexicana,\" Napolitano (who does not speak Spanish) wrote the Spanish lyrics, which are a literal translation of the lyrics to the album's title track. However, none of the verbs are conjugated, noun gender is ignored, and correct grammar is non-existent; it doesn't detract from the overall translation from Spanish to English.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "34e6569f-0324-30b8-bb2d-70fb9a368bd3",
+   "titulo": "Concrete Blonde y Los Illegals",
+   "data": "1997-05-06",
+   "ano": "1997",
+   "capa": "https://coverartarchive.org/release/06be49dd-3b5c-480e-ba15-8040ec01acd2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Caminando",
+     "duracao": "2:48"
+    },
+    {
+     "n": 2,
+     "titulo": "Viva la Vida",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "La Llorona",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Echoes",
+     "duracao": "4:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Despierta",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Another Hundred Years of Solitude",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Maria Elena (Letter from L.A.)",
+     "duracao": "5:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Ode to Rosa Lopez",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Xich vs. The Migra Zombies",
+     "duracao": "2:07"
+    },
+    {
+     "n": 10,
+     "titulo": "Deportee",
+     "duracao": "4:31"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Concrete_Blonde_y_Los_Illegals",
+   "resumo_en": "Concrete Blonde y Los Illegals is a 1997 collaborative album by American musicians Johnette Napolitano and James Mankey of Concrete Blonde, who joined forces with Los Illegals. The album contains a blend of the gothic-influenced alternative rock of Concrete Blonde and the Chicano punk of Los Illegals. The lyrics are mostly in Spanish.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b7b245d5-7074-3f58-9fb7-2a600ce56b52",
+   "titulo": "Group Therapy",
+   "data": "2002-01-15",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/167b51f4-1f76-4bf0-8626-fe4e93bb993f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Roxy",
+     "duracao": "4:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Violent",
+     "duracao": "6:46"
+    },
+    {
+     "n": 3,
+     "titulo": "When I Was a Fool",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "True, Part III",
+     "duracao": "7:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Tonight",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Valentine",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Your Llorona",
+     "duracao": "5:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Take Me Home",
+     "duracao": "4:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Inside/Outside",
+     "duracao": "6:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Fried",
+     "duracao": "5:05"
+    },
+    {
+     "n": 11,
+     "titulo": "Angel",
+     "duracao": "7:49"
+    },
+    {
+     "n": 12,
+     "titulo": "Memory",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 65,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Group_Therapy_%28Concrete_Blonde_album%29",
+   "resumo_en": "Group Therapy is the sixth studio album by alternative rock band Concrete Blonde, following their break-up and reunion. The album was originally released on January 15, 2002, by Manifesto Records.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55dee59b-a4e0-37c3-852a-f63e8de8601a",
+   "titulo": "Mojave",
+   "data": "2004-06-29",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/1be56ba5-dd3b-4a28-9fc0-aaba32c142ae/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The \"A\" Road",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Because I Can",
+     "duracao": "4:29"
+    },
+    {
+     "n": 3,
+     "titulo": "True to This",
+     "duracao": "3:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Ghost Riders in the Sky",
+     "duracao": "5:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Hey Coyote",
+     "duracao": "3:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Himalayan Motorcycles",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "Mojave",
+     "duracao": "5:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Snakes",
+     "duracao": "4:43"
+    },
+    {
+     "n": 9,
+     "titulo": "Jim Needs an Animal",
+     "duracao": "3:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Someone's Calling Me",
+     "duracao": "4:20"
+    },
+    {
+     "n": 11,
+     "titulo": "My Tornado at Rest",
+     "duracao": "4:51"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mojave_%28album%29",
+   "resumo_en": "Mojave is the seventh and final studio album by alternative rock band Concrete Blonde.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

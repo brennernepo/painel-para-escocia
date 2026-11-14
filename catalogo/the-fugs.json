@@ -1,0 +1,842 @@
+{
+ "id": "the-fugs",
+ "nome": "The Fugs",
+ "cena": "Descobertas do acervo",
+ "mbid": "88b1dd15-34d9-4214-861c-045e872162a6",
+ "wikidata": "Q928304",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1963",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "garage rock",
+  "beat poetry",
+  "psychedelic folk",
+  "freak folk",
+  "proto-punk"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Fugs_at_Eagles_Auditorium_%28ad%29.jpg/500px-The_Fugs_at_Eagles_Auditorium_%28ad%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/The_Fugs",
+ "resumo_pt": "",
+ "resumo_en": "The Fugs is an American rock band formed in New York City in late 1964, by poets Ed Sanders and Tuli Kupferberg, with Ken Weaver on drums. Soon afterward, they were joined by Peter Stampfel and Steve Weber of the Holy Modal Rounders. Kupferberg named the band from a euphemism for fuck used in Norman Mailer's novel The Naked and the Dead.\nThe band were supported by folklorist Harry Smith, compiler of Anthology of American Folk Music, who helped them sign with Folkways Records. They became prominent leaders of the 1960s underground scene and the American counterculture of that decade. The group is known for its comedic, satirical and explicit lyricism as well as their persistent anti–Vietnam War sentiment, which culminated in Ed Sanders leading an \"Exorcism of the Pentagon\" in 1967. Since the 1980s, they have performed at several events regarding other U.S. involved wars.",
+ "albuns": [
+  {
+   "id": "e6e6cd24-edc9-3e1e-9e5f-8580ed47f474",
+   "titulo": "The Village Fugs Sing Ballads of Contemporary Protest, Point of Views, and General Dissatisfaction",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/9328d635-3e4b-4414-a92e-5306a2da5585/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Slum Goddess",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Ah! Sunflower, Weary of Time",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Supergirl",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Swinburne Stomp",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "I Couldn’t Get High",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "How Sweet I Roamed From Field to Field",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Seize the Day",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "My Baby Done Left Me",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Boobs a Lot",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Nothing",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Fugs_First_Album",
+   "resumo_en": "The Fugs First Album (also known as The Village Fugs) is the 1965 debut album by American rock band the Fugs, described in their AllMusic profile as \"arguably the first underground rock group of all time\". In 1965, the album charted #142 on Billboard's \"Top Pop Albums\" chart.\nIn 1969, the FBI opened an investigation on the Fugs after a broadcasting executive flagged this album and Virgin Fugs as \"the filthiest and most vulgar thing the human mind could possibly conceive\". The case was eventually dropped.\nThe album was originally released in 1965 as The Village Fugs Sing Ballads of Contemporary Protest, Point of Views, and General Dissatisfaction on Folkways Records before the band signed up with ESP-Disk, who released the album under its own label with a new name in 1966. The album was re-released in 1993 on CD with an additional 11 tracks.\nIn 2017, Pitchfork ranked the album number 155 on their list of \"The 200 Best Albums of the 1960s\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8108e760-d687-37e6-ab61-442382c9e91f",
+   "titulo": "The Fugs",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/259664a0-032f-4982-8518-50ccae4394a4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Frenzy",
+     "duracao": "2:00"
+    },
+    {
+     "n": 2,
+     "titulo": "I Want to Know",
+     "duracao": "2:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Skin Flowers",
+     "duracao": "2:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Group Grope",
+     "duracao": "3:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Coming Down",
+     "duracao": "3:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Dirty Old Man",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Kill for Peace",
+     "duracao": "2:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Morning, Morning",
+     "duracao": "2:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Doin' All Right",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Virgin Forest",
+     "duracao": "11:09"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Fugs_%28album%29",
+   "resumo_en": "The Fugs is the second studio album by American rock band the Fugs. The album charted number 95 on Billboard's \"Top Pop Albums\" chart. The album was re-released on CD in 1993 as The Fugs Second Album on the Fantasy label with five additional tracks: two live performances and three tracks recorded for Atlantic in 1967 for an album that was never released.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4b96ae1b-3f3b-3011-b004-c8eda1b7005b",
+   "titulo": "Virgin Fugs",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/bb6080f9-6d76-4349-9feb-398904414efe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We're the Fugs",
+     "duracao": "1:13"
+    },
+    {
+     "n": 2,
+     "titulo": "New Amphetamine Shriek",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Saran Wrap",
+     "duracao": "1:18"
+    },
+    {
+     "n": 4,
+     "titulo": "The Ten Commandments by God",
+     "duracao": "2:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Hallucination Horrors",
+     "duracao": "2:06"
+    },
+    {
+     "n": 6,
+     "titulo": "I Command the House of the Devil",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "CIA Man",
+     "duracao": "2:56"
+    },
+    {
+     "n": 8,
+     "titulo": "Coca Cola Douche",
+     "duracao": "1:33"
+    },
+    {
+     "n": 9,
+     "titulo": "My Bed Is Getting Crowded",
+     "duracao": "2:32"
+    },
+    {
+     "n": 10,
+     "titulo": "Caca Rocka",
+     "duracao": "1:31"
+    },
+    {
+     "n": 11,
+     "titulo": "I Saw the Best Minds of My Generation Rot",
+     "duracao": "4:46"
+    }
+   ],
+   "duracao_min": 27,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Virgin_Fugs",
+   "resumo_en": "Virgin Fugs is a 1967 album by the Fugs.  While it is their third released album, it consists of outtakes from the two 1965 sessions for their first album, The Village Fugs (also released as The Fugs First Album).  While that album emphasized the second recording session, this compilation favors the first, making this arguably their chronologically \"real first\" album.  It was released on ESP Disc (ESP 1038), possibly without the foreknowledge or permission of the Fugs.  Their site refers to it as a bootleg, though it was distributed through the same channels as their authorized previous ESP album.  ESP followed this release with a 1975 compilation including seven more outtakes from these sessions, Fugs 4, Rounders Score.\nOriginal copies of this ESP-Disk LP contained a bumper sticker which read \"FUG-CUE\"\nFour tracks from Virgin Fugs were released as bonus tracks on the CD version of The Fugs First Album.\nBob Dylan featured and writes about \"C.I.A. Man\" in his book \"The Philosophy of Modern Song\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "64418f99-f7d4-360c-9ef0-04a5b35e726d",
+   "titulo": "Tenderness Junction",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/3081d909-57dd-4cc5-8e16-68a0932d74c6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Turn On, Tune In, Drop Out",
+     "duracao": "4:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Knock Knock",
+     "duracao": "4:21"
+    },
+    {
+     "n": 3,
+     "titulo": "The Garden Is Open",
+     "duracao": "6:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Wet Dream",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Hare Krishna",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Exorcising the Evil Spirits From the Pentagon October 23, 1967",
+     "duracao": "3:18"
+    },
+    {
+     "n": 7,
+     "titulo": "War Song",
+     "duracao": "5:21"
+    },
+    {
+     "n": 8,
+     "titulo": "Dover Beach",
+     "duracao": "4:01"
+    },
+    {
+     "n": 9,
+     "titulo": "Fingers of the Sun",
+     "duracao": "2:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Aphrodite Mass (In 5 Sections): Litany of the Street Grope / Genuflection at the Temple of Squack / Petals in the Sea / Sappho's Hymn to Aphrodite / Homage to Throb Thrills",
+     "duracao": "8:18"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tenderness_Junction",
+   "resumo_en": "Tenderness Junction is the fourth studio album of the Fugs, formed in 1964 by anti-war musician/poets Ed Sanders, Tuli Kupferberg and Ken Weaver. It was released in the US by record company Reprise. A stand-alone CD was released by Wounded Bird Records in 2011, before which the entire album had appeared on the 2006 3-CD Rhino Handmade box set, Electromagnetic Steamboat.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b7081675-5f8a-3b97-a6ed-e329d5b0ad0a",
+   "titulo": "It Crawled Into My Hand, Honest",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/4840c459-c38a-3bc5-a81d-bc0ebdd4a748/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Crystal Liason",
+     "duracao": "3:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Ramses II Is Dead, My Love",
+     "duracao": "2:45"
+    },
+    {
+     "n": 3,
+     "titulo": "Burial Waltz",
+     "duracao": "2:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Wide Wide River",
+     "duracao": "2:47"
+    },
+    {
+     "n": 5,
+     "titulo": "Life Is Strange",
+     "duracao": "2:32"
+    },
+    {
+     "n": 6,
+     "titulo": "Johnny Pissoff Meets the Red Angel",
+     "duracao": "4:32"
+    },
+    {
+     "n": 7,
+     "titulo": "Marijuana",
+     "duracao": "1:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Leprechaun",
+     "duracao": "0:10"
+    },
+    {
+     "n": 9,
+     "titulo": "When the Mode of Music Changes",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Whimpers From the Jello",
+     "duracao": "0:20"
+    },
+    {
+     "n": 11,
+     "titulo": "The Divine Toe, Part 1",
+     "duracao": "0:38"
+    },
+    {
+     "n": 12,
+     "titulo": "We're Both Dead Now, Alice",
+     "duracao": "0:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Life Is Funny",
+     "duracao": "0:14"
+    },
+    {
+     "n": 14,
+     "titulo": "Grope Need, Part 1",
+     "duracao": "0:18"
+    },
+    {
+     "n": 15,
+     "titulo": "Tuli, Visited by the Ghost of Plontinus",
+     "duracao": "0:03"
+    },
+    {
+     "n": 16,
+     "titulo": "More Grope Need (Grope Need, Part 2)",
+     "duracao": "0:15"
+    },
+    {
+     "n": 17,
+     "titulo": "Robinson Crusoe",
+     "duracao": "0:17"
+    },
+    {
+     "n": 18,
+     "titulo": "Claude Pelieu and J.J. Lebel Discuss the Early Verlaine Bread Crust Fragments",
+     "duracao": "4:30"
+    },
+    {
+     "n": 19,
+     "titulo": "The National Haiku Contest",
+     "duracao": "0:25"
+    },
+    {
+     "n": 20,
+     "titulo": "The Divine Toe, Part 2",
+     "duracao": "0:46"
+    },
+    {
+     "n": 21,
+     "titulo": "Irene",
+     "duracao": "1:10"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/It_Crawled_into_My_Hand%2C_Honest",
+   "resumo_en": "It Crawled into My Hand, Honest is the fifth studio album by the Fugs, a band composed of anti-war poets.  It was released in the US by record company Reprise.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9a63bf40-e136-4aea-942a-e59ec4ab2314",
+   "titulo": "The Belle of Avenue A",
+   "data": "1969",
+   "ano": "1969",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bum's Song",
+     "duracao": "3:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Dust Devil",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Chicago",
+     "duracao": "2:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Four Minutes to Twelve",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Mr. Mack",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Belle of Avenue A",
+     "duracao": "5:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Queen of the Nile",
+     "duracao": "2:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Flower Children",
+     "duracao": "4:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Yodeling Yippie",
+     "duracao": "2:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Children of the Dream",
+     "duracao": "5:55"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b679baf1-d721-3827-9559-142e7a3a6bfa",
+   "titulo": "No More Slavery",
+   "data": "1986",
+   "ano": "1986",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No More Slavery",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Cold War",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Dreams of Sexual Perfection: Gratified Desire / Emily Dickenson / Party Party Party / The Golden Bard Retirement Home / Lithe Lydia / Healing River / Chaos, Earth and Eros",
+     "duracao": "11:57"
+    },
+    {
+     "n": 4,
+     "titulo": "South Africa",
+     "duracao": "3:38"
+    },
+    {
+     "n": 5,
+     "titulo": "Dover Beach",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "The Smoking Gun",
+     "duracao": "2:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Working for the Yankee Dollar",
+     "duracao": "4:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Just Like a Jail",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Here Comes the Levellers",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "What Would Tom Paine Do?",
+     "duracao": "6:35"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "695f4dd6-f2df-3b79-97ab-f47f08b575ea",
+   "titulo": "Final CD (Part 1)",
+   "data": "2003",
+   "ano": "2003",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Burn Bridges Burn",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Try to Be Joyful",
+     "duracao": "3:36"
+    },
+    {
+     "n": 3,
+     "titulo": "Government Surveillance Yodel",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Septuagenarian in Love",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Where is My Wandering Jew?",
+     "duracao": "3:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Miriam",
+     "duracao": "3:58"
+    },
+    {
+     "n": 7,
+     "titulo": "I Will Be a Shadow",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "A Western Ballad",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Ultimate Things",
+     "duracao": "4:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Advice From the Fugs",
+     "duracao": "5:12"
+    },
+    {
+     "n": 11,
+     "titulo": "I've Been Working for the Landlord",
+     "duracao": "1:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Go Down Congress",
+     "duracao": "4:10"
+    },
+    {
+     "n": 13,
+     "titulo": "Perpitude",
+     "duracao": "10:20"
+    },
+    {
+     "n": 14,
+     "titulo": "A Short History of the Human Race",
+     "duracao": "2:09"
+    },
+    {
+     "n": 15,
+     "titulo": "Is",
+     "duracao": "3:51"
+    },
+    {
+     "n": 16,
+     "titulo": "Chameleon",
+     "duracao": "4:12"
+    },
+    {
+     "n": 17,
+     "titulo": "A Poem by Charles Bukowski",
+     "duracao": "2:14"
+    },
+    {
+     "n": 18,
+     "titulo": "Luke Was a Physician and a Saint",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 73,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63927c48-95e9-426e-afda-2e489915c97f",
+   "titulo": "Be Free! - Final CD (Part 2)",
+   "data": "2010-02-23",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/4eebe182-c042-4ade-a5ce-2ea31bc58cf6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Be Free",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Backward Jewish Soldiers",
+     "duracao": "3:38"
+    },
+    {
+     "n": 3,
+     "titulo": "My Darling Magnolia Tree",
+     "duracao": "3:35"
+    },
+    {
+     "n": 4,
+     "titulo": "Goofitude",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "This Is a Hit Song",
+     "duracao": "2:23"
+    },
+    {
+     "n": 6,
+     "titulo": "The Laughing Song",
+     "duracao": "2:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Hungry Blues",
+     "duracao": "4:31"
+    },
+    {
+     "n": 8,
+     "titulo": "Loose Peach Gown",
+     "duracao": "2:52"
+    },
+    {
+     "n": 9,
+     "titulo": "Bartleby the Scrivener",
+     "duracao": "6:10"
+    },
+    {
+     "n": 10,
+     "titulo": "ImGrat",
+     "duracao": "3:46"
+    },
+    {
+     "n": 11,
+     "titulo": "The CIA Made Me Sing Off-Key",
+     "duracao": "3:42"
+    },
+    {
+     "n": 12,
+     "titulo": "The British Journalist",
+     "duracao": "1:50"
+    },
+    {
+     "n": 13,
+     "titulo": "I Am an Artist for Art's Sake",
+     "duracao": "3:31"
+    },
+    {
+     "n": 14,
+     "titulo": "Greenwich Village of My Dreams",
+     "duracao": "4:42"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "660d2b4d-bb6e-43f6-a368-32490e6b5808",
+   "titulo": "Dancing in the Universe",
+   "data": "2023-10-26",
+   "ano": "2023",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dancing in the Universe",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "God Bless Johnny Cash",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Love Forever",
+     "duracao": "3:03"
+    },
+    {
+     "n": 4,
+     "titulo": "I Want to Be Healed",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Protest and Survive",
+     "duracao": "2:44"
+    },
+    {
+     "n": 6,
+     "titulo": "The Birds",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "The Rock and Roll Hall of Fame",
+     "duracao": "2:19"
+    },
+    {
+     "n": 8,
+     "titulo": "Where Have All the Commies Gone?",
+     "duracao": "4:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Sappho's \"Brothers Poem\"",
+     "duracao": "5:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Armaments Fair",
+     "duracao": "2:01"
+    },
+    {
+     "n": 11,
+     "titulo": "We Are Living in End Times",
+     "duracao": "3:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Tribute to Frank O'Hara",
+     "duracao": "10:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Song for Emma Goldman",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

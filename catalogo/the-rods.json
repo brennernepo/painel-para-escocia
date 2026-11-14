@@ -1,0 +1,926 @@
+{
+ "id": "the-rods",
+ "nome": "The Rods",
+ "cena": "Descobertas do acervo",
+ "mbid": "e2c4eeff-e418-4940-b51a-a15ca6040439",
+ "wikidata": "Q925420",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1980",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "heavy metal",
+  "hard rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://en.wikipedia.org/wiki/The_Rods",
+ "resumo_pt": "",
+ "resumo_en": "The Rods are an American heavy metal band formed in 1980 by David \"Rock\" Feinstein (guitar, vocals) [Born in 1947], Steven Starmer (bass, vocals), Rods (tambourine, maracas, cowbell), and Carl Canedy (drums, vocals). After the first album Starmer was replaced by Garry Bordonaro. Feinstein had first come to mainstream attention after playing in Elf with his cousin Ronnie James Dio. The Rods' sound differed considerably from Elf, adopting a more traditional heavy metal sound compared with the boogie-rock sound that Elf preferred.\nTheir first album was originally released independently as Rock Hard in 1980 and the following year the band was signed by Arista Records, who reordered the album tracks and released it simply titled The Rods. Their second album Wild Dogs followed in 1982 and was re-released in 2004.\nThe Rods' third album, released 1983, was entitled In the Raw. In 1984 Canedy and Bordonaro played on Jack Starr's album Out of the Darkness with Rhett Forrester of Riot and Gary Driscoll of Rainbow. Then in 1984 the Rods released their fourth studio album Let Them Eat Metal and recorded the album The Rods Live. Their album Heavier Than Thou was originally released in 1986. An album was also released the same year, entitled Hollywood under the name Canedy, Feinstein, Bordonaro & Caudle (all of the band members). Rick Caudle handled lead vocals on that album, with Feinstein only playing guitar. Following poor sales of their final two albums the group split up.\nCanedy is als",
+ "albuns": [
+  {
+   "id": "ccd8a6ef-5fc0-44ad-bda2-0117ab74b8b6",
+   "titulo": "Rock Hard",
+   "data": "1980",
+   "ano": "1980",
+   "capa": "https://coverartarchive.org/release/c10500a8-4ab2-4269-8158-5d14a76cde0d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sit Down Honey",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Music Man",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "In Your Panties",
+     "duracao": "0:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Power Lover",
+     "duracao": "2:39"
+    },
+    {
+     "n": 5,
+     "titulo": "Roll With The Night",
+     "duracao": "2:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Hungry For Some Love",
+     "duracao": "4:23"
+    },
+    {
+     "n": 7,
+     "titulo": "Get Ready To Rock n' Roll",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Crank It Up",
+     "duracao": "3:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock Hard",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Gettin' Higher",
+     "duracao": "3:40"
+    },
+    {
+     "n": 11,
+     "titulo": "You Better Run",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Woman",
+     "duracao": "3:29"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fe6d78da-c965-3af5-b096-46f25ed3d26c",
+   "titulo": "The Rods",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/0f1c94ec-a2f7-4eb7-951e-96d397f8c528/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Power Lover",
+     "duracao": "2:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Crank It Up",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Hungry for Some Love",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Music Man",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Woman",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Nothing Going on in the City",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Get Ready to Rock 'n' Roll",
+     "duracao": "2:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Ace in the Hole",
+     "duracao": "4:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Rock Hard",
+     "duracao": "4:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Roll With the Night",
+     "duracao": "2:14"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1095c7a0-12cd-363d-927e-f29f3055303a",
+   "titulo": "Wild Dogs",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/eb095228-7ed3-4543-a13b-96c9905fedbf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Too Hot to Stop",
+     "duracao": "4:07"
+    },
+    {
+     "n": 2,
+     "titulo": "Waiting for Tomorrow",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Violation",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Burned by Love",
+     "duracao": "4:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Wild Dogs",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "You Keep Me Hangin' On",
+     "duracao": "3:47"
+    },
+    {
+     "n": 7,
+     "titulo": "Rockin' 'n' Rollin' Again",
+     "duracao": "3:16"
+    },
+    {
+     "n": 8,
+     "titulo": "End of the Line",
+     "duracao": "5:27"
+    },
+    {
+     "n": 9,
+     "titulo": "No Sweet Talk, Honey",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "The Night Lives to Rock",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "679ac17d-4c71-3063-bd82-e4bc99e03e6e",
+   "titulo": "In the Raw",
+   "data": "1983",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/db8bfb70-4d0c-43f9-98e0-cf8eb5995d42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hurricane",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Can't Get Enough of the Fun",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Witches' Brew",
+     "duracao": "5:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Go for Broke",
+     "duracao": "3:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Hot Love",
+     "duracao": "3:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Hot City",
+     "duracao": "5:41"
+    },
+    {
+     "n": 7,
+     "titulo": "Street Fighter",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Evil Woman",
+     "duracao": "2:30"
+    },
+    {
+     "n": 9,
+     "titulo": "Hold on for Your Life",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "Another Night on the Town",
+     "duracao": "4:14"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c19b2469-4ad5-454e-97f0-100f85d3b86a",
+   "titulo": "Heavier Than Thou",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/a2ae2164-50f8-4341-85d5-2ddde3d39880/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heavier Than Thou",
+     "duracao": "1:46"
+    },
+    {
+     "n": 2,
+     "titulo": "Make Me a Believer",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Angels Never Run",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Crossfire",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "I'm Gonna Rock",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "She's Trouble",
+     "duracao": "4:13"
+    },
+    {
+     "n": 7,
+     "titulo": "Born to Rock",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Chains of Love",
+     "duracao": "4:02"
+    },
+    {
+     "n": 9,
+     "titulo": "Communication Breakdown",
+     "duracao": "3:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Fool For Your Love",
+     "duracao": "3:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Cold Sweat and Blood",
+     "duracao": "3:22"
+    },
+    {
+     "n": 12,
+     "titulo": "The Music Man",
+     "duracao": "0:44"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "afd57d88-ac54-4d19-bd15-8faddd1ae75d",
+   "titulo": "Heavier Than Thou / Hollywood Project",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/e99f3fb4-b640-4ac2-a353-1f8d9ab40ff0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Heavier Than Thou",
+     "duracao": "1:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Make Me a Believer",
+     "duracao": "4:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Angels Never Run",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Crossfire",
+     "duracao": "5:02"
+    },
+    {
+     "n": 5,
+     "titulo": "I'm Gonna Rock",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "She's Trouble",
+     "duracao": "4:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Born to Rock",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Chains of Love",
+     "duracao": "4:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Communication Breakdown",
+     "duracao": "3:17"
+    },
+    {
+     "n": 10,
+     "titulo": "Fool For Your Love",
+     "duracao": "3:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Cold Sweat and Blood",
+     "duracao": "3:16"
+    },
+    {
+     "n": 12,
+     "titulo": "The Music Man",
+     "duracao": "0:47"
+    },
+    {
+     "n": 13,
+     "titulo": "Prisoner of Love",
+     "duracao": "4:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Love is Pain",
+     "duracao": "4:14"
+    },
+    {
+     "n": 15,
+     "titulo": "Tokyo Rose",
+     "duracao": "2:54"
+    },
+    {
+     "n": 16,
+     "titulo": "Make Your Move",
+     "duracao": "3:20"
+    },
+    {
+     "n": 17,
+     "titulo": "Mississippi Queen",
+     "duracao": "2:25"
+    },
+    {
+     "n": 18,
+     "titulo": "Heat of the Night",
+     "duracao": "4:29"
+    },
+    {
+     "n": 19,
+     "titulo": "All American Boys",
+     "duracao": "4:35"
+    },
+    {
+     "n": 20,
+     "titulo": "Don't Take it So Hard",
+     "duracao": "3:56"
+    },
+    {
+     "n": 21,
+     "titulo": "Money",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "22a53e6f-04e6-3eec-90c4-ae8a813c89e8",
+   "titulo": "Let Them Eat Metal",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/d5dd2738-778d-40a4-b04c-02c61ee61334/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Let Them Eat Metal",
+     "duracao": "3:57"
+    },
+    {
+     "n": 2,
+     "titulo": "White Lightning",
+     "duracao": "3:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Nuclear Skies",
+     "duracao": "3:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Rock Warriors",
+     "duracao": "5:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Bad Blood",
+     "duracao": "3:11"
+    },
+    {
+     "n": 6,
+     "titulo": "She’s So Tight",
+     "duracao": "3:07"
+    },
+    {
+     "n": 7,
+     "titulo": "Got the Fire Burnin’",
+     "duracao": "2:38"
+    },
+    {
+     "n": 8,
+     "titulo": "I’m a Rocker",
+     "duracao": "3:28"
+    },
+    {
+     "n": 9,
+     "titulo": "She’s Such a Bitch",
+     "duracao": "2:30"
+    },
+    {
+     "n": 10,
+     "titulo": "You Better Run",
+     "duracao": "2:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Life on the Edge",
+     "duracao": "4:56"
+    },
+    {
+     "n": 12,
+     "titulo": "Evil Woman / Popeye’s Drum Solo",
+     "duracao": "9:32"
+    },
+    {
+     "n": 13,
+     "titulo": "Too Hot to Stop",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fdceb64d-9df8-44e9-a3d7-3e60e9d2ceee",
+   "titulo": "Vengeance",
+   "data": "2011-05-04",
+   "ano": "2011",
+   "capa": "https://coverartarchive.org/release/0aa09470-cb96-44c5-9693-a6fb4bc3532f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Raise Some Hell",
+     "duracao": "4:22"
+    },
+    {
+     "n": 2,
+     "titulo": "I Just Wanna Rock",
+     "duracao": "4:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Rebel’s Highway",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Ride Free or Die",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "The Code",
+     "duracao": "5:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Living Outside the Law",
+     "duracao": "5:57"
+    },
+    {
+     "n": 7,
+     "titulo": "Let It Ripp",
+     "duracao": "3:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Fight Fire With Fire",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Madman",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "Runnin’ Wild",
+     "duracao": "4:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Vengeance",
+     "duracao": "4:48"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "18fb54ba-b269-466b-a736-3a83b11bd13c",
+   "titulo": "Hollywood",
+   "data": "2015-04-22",
+   "ano": "2015",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "All American Boys",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Don't Take It So Hard",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Heat of the Night",
+     "duracao": "4:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Is Pain",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "Make Your Move",
+     "duracao": "3:34"
+    },
+    {
+     "n": 6,
+     "titulo": "Mississippi Queen (Mountain Cover)",
+     "duracao": "2:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Money",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Prisoner of Love",
+     "duracao": "4:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Tokyo Rose",
+     "duracao": "3:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Great Big Fake Ones",
+     "duracao": "3:26"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "673d15bb-c391-4a1b-9807-45049c5c52ff",
+   "titulo": "Brotherhood of Metal",
+   "data": "2019-06-07",
+   "ano": "2019",
+   "capa": "https://coverartarchive.org/release/4c0f60a5-4c1b-40be-9ee7-372e071d2cf6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brotherhood of Metal",
+     "duracao": "7:28"
+    },
+    {
+     "n": 2,
+     "titulo": "Everybody’s Rockin’",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "Smoke on the Horizon",
+     "duracao": "4:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Louder Than Loud",
+     "duracao": "4:16"
+    },
+    {
+     "n": 5,
+     "titulo": "Tyrant King",
+     "duracao": "4:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Party All Night",
+     "duracao": "2:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Tonight We Ride",
+     "duracao": "4:40"
+    },
+    {
+     "n": 8,
+     "titulo": "1982",
+     "duracao": "5:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Hell on Earth",
+     "duracao": "4:21"
+    },
+    {
+     "n": 10,
+     "titulo": "The Devil Made Me Do It",
+     "duracao": "3:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Evil in Me",
+     "duracao": "6:27"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "702766bd-24c0-40ea-a1a9-eddde8aecc27",
+   "titulo": "Rattle the Cage",
+   "data": "2024-01-19",
+   "ano": "2024",
+   "capa": "https://coverartarchive.org/release/9a683074-e8c2-4d93-83fa-c64bac110f4a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Now and Forever",
+     "duracao": "3:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Wolves at the Door",
+     "duracao": "5:29"
+    },
+    {
+     "n": 3,
+     "titulo": "Cry Out Loud",
+     "duracao": "7:28"
+    },
+    {
+     "n": 4,
+     "titulo": "Rattle the Cage",
+     "duracao": "4:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Can't Slow Down",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Metal Highways",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Hell or High Water",
+     "duracao": "4:20"
+    },
+    {
+     "n": 8,
+     "titulo": "Play It Loud",
+     "duracao": "5:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Shockwave",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "Hearts of Steel",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "db80e68c-70b6-4340-98c3-14d0d58159f7",
+   "titulo": "Wild Dogs Unchained",
+   "data": "2025-09-05",
+   "ano": "2025",
+   "capa": "https://coverartarchive.org/release/66c4eee8-e97a-43a1-aee3-b38905cbda95/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eyes of a Dreamer",
+     "duracao": "5:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Rock and Roll Fever",
+     "duracao": "5:13"
+    },
+    {
+     "n": 3,
+     "titulo": "Mirror Mirror",
+     "duracao": "5:10"
+    },
+    {
+     "n": 4,
+     "titulo": "Tears for the Innocent",
+     "duracao": "6:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Wild Dogs Unchained",
+     "duracao": "4:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Time to Rock",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Run Run Run",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "World on Fire",
+     "duracao": "6:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Make Me a Believer",
+     "duracao": "4:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Hurricane",
+     "duracao": "5:32"
+    }
+   ],
+   "duracao_min": 53,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

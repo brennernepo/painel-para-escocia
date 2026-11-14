@@ -1,0 +1,246 @@
+{
+ "id": "the-shadows-of-knight",
+ "nome": "The Shadows of Knight",
+ "cena": "Descobertas do acervo",
+ "mbid": "717f62d0-8ba5-44ad-abd0-dce4611269de",
+ "wikidata": "Q139444",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1964",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "garage rock",
+  "psychedelic rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Shadows_of_Knight_composite_1966.jpg/500px-Shadows_of_Knight_composite_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/The_Shadows_of_Knight",
+ "resumo_pt": "",
+ "resumo_en": "The Shadows of Knight were an American rock band from Chicago, Illinois, that played a version of British blues influenced by their native city.\nThe Shadows of Knight saw regional success with a cover of Them's 1964 single \"Gloria\", which peaked at number 10 on the Billboard Hot 100 chart in the spring of 1966.  In 1972, Lenny Kaye coined the term \"garage punk\" on the track-by-track liner notes for the Nuggets compilation, describing the Shadows of Knight's follow-up single \"Oh Yeah\", which opens side two of the anthology, as \"classic garage punk\".",
+ "albuns": [
+  {
+   "id": "7f420196-2a18-37b1-ab7c-dbf813e7aeed",
+   "titulo": "Back Door Men",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/22c7d31c-a9fd-4f0f-a4cf-c70a62bc19b4/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bad Little Woman",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Gospel Zone",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "The Behemoth",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Three for Love",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Hey Joe",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "I'll Make You Sorry",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Peepin' and Hidin'",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Tomorrow's Going to Be Another Day",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "New York Bullseye",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "High Blood Pressure",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Spoonful",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Back_Door_Men",
+   "resumo_en": "Back Door Men is the second album by the Shadows of Knight.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e8d142ea-0358-30e5-8755-084c132aaa45",
+   "titulo": "Gloria",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/b2dce123-210d-4200-b324-f7485fd0a981/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gloria",
+     "duracao": "2:39"
+    },
+    {
+     "n": 2,
+     "titulo": "Light Bulb Blues",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "I Got My Mojo Working",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Dark Side",
+     "duracao": "2:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Boom Boom",
+     "duracao": "2:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Let It Rock",
+     "duracao": "1:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Oh Yeah",
+     "duracao": "2:42"
+    },
+    {
+     "n": 8,
+     "titulo": "It Always Happens That Way",
+     "duracao": "1:50"
+    },
+    {
+     "n": 9,
+     "titulo": "You Can't Judge a Book by Its Cover",
+     "duracao": "2:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Hoochie Coochie Man",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "I Just Want to Make Love to You",
+     "duracao": "3:52"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cebac4ed-e40b-3bb9-8bb3-c4a5e47d73dc",
+   "titulo": "Shadows Of Knight (Featuring Follow / Alone / Shake)",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/2b9ba92f-b74f-4067-bc58-a26cb87fe80d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Follow",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Alone",
+     "duracao": "2:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Times and Places",
+     "duracao": "2:40"
+    },
+    {
+     "n": 4,
+     "titulo": "I Am What I Am",
+     "duracao": "2:48"
+    },
+    {
+     "n": 5,
+     "titulo": "Uncle Wiggley's Airship",
+     "duracao": "3:56"
+    },
+    {
+     "n": 6,
+     "titulo": "I Wanna Make You All Mine",
+     "duracao": "2:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Shake Revisited '69",
+     "duracao": "3:28"
+    },
+    {
+     "n": 8,
+     "titulo": "I'll Set You Free",
+     "duracao": "4:55"
+    },
+    {
+     "n": 9,
+     "titulo": "Under Acoustic Control",
+     "duracao": "0:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Bluebird",
+     "duracao": "5:40"
+    },
+    {
+     "n": 11,
+     "titulo": "Back Door Man",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shadows_of_Knight_%28album%29",
+   "resumo_en": "Shadows of Knight is the third studio album by American garage rock band The Shadows of Knight, and was released on Super K Productions, SKS 6002, in 1969. Recording for the album came after lead vocalist Jim Sohns revamped the Shadows of Knight's line-up and signed with Super K. Although Shadows of Knight did not chart and was the last album featuring new material by the group until A Knight to Remember, a single taken from the effort, \"Shake\", became a moderate national success in the United States.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,1661 @@
+{
+ "id": "marianne-faithfull",
+ "nome": "Marianne Faithfull",
+ "cena": "Descobertas do acervo",
+ "mbid": "14ed9dea-1bb0-4743-ba32-39674a71da89",
+ "wikidata": "Q48280",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1946",
+ "fim": "2025",
+ "ativa": false,
+ "generos": [
+  "art pop",
+  "pop",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Marianne_Faithfull_1966.jpg/500px-Marianne_Faithfull_1966.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Marianne_Faithfull",
+ "resumo_pt": "Marianne Evelyn Gabriel Faithfull (Hampstead, 29 de dezembro de 1946 — Londres, 30 de janeiro de 2025) foi uma cantora e atriz britânica.",
+ "resumo_en": "Marianne Evelyn Gabriel Faithfull (29 December 1946 – 30 January 2025) was an English singer and actress who achieved popularity in the 1960s with the release of her UK top 10 single \"As Tears Go By\". She became one of the leading female artists of the British Invasion in the United States.\nBorn in Hampstead, London, Faithfull began her career in 1964 after attending a party for the Rolling Stones, where she was discovered by the band's manager Andrew Loog Oldham. Her 1965 debut album Marianne Faithfull, released simultaneously with her more folk-based sophomore album Come My Way, was a huge success and was followed by further albums on Decca Records. From 1966 to 1970 she had a highly publicised romantic relationship with Mick Jagger. Her popularity was enhanced by roles in films, including I'll Never Forget What's'isname (1967), The Girl on a Motorcycle (1968) and Hamlet (1969). Her popularity was overshadowed by personal problems in the 1970s, when she became anorexic, homeless and addicted to heroin.\nDuring her 1960s musical career, Faithfull was noted for her distinctive melodic, high-register vocals. In the subsequent decade her voice was altered by severe laryngitis, smoking and persistent drug abuse, which left her sounding permanently raspy, cracked and lower in pitch. The new sound was praised as \"whisky soaked\" by some critics and was seen as having helped to capture the raw emotions expressed in her music.\nAfter a long absence, Faithfull made a musical comeback in",
+ "albuns": [
+  {
+   "id": "a825cdc4-1389-470e-b8d3-bf6098f516f1",
+   "titulo": "“Come My Way”",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/e8685c19-7722-4a45-aa11-3ef844388484/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Come My Way",
+     "duracao": "2:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Jaberwock",
+     "duracao": "2:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Portland Town",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "House of the Rising Sun",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Spanish Is a Loving Tongue",
+     "duracao": "2:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Fare Thee Well",
+     "duracao": "2:52"
+    },
+    {
+     "n": 7,
+     "titulo": "Lonesome Traveler",
+     "duracao": "2:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Down in the Salley Garden",
+     "duracao": "2:05"
+    },
+    {
+     "n": 9,
+     "titulo": "Mary Ann",
+     "duracao": "1:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Full Fathom Five",
+     "duracao": "1:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Four Strong Winds",
+     "duracao": "2:59"
+    },
+    {
+     "n": 12,
+     "titulo": "Black Girl",
+     "duracao": "2:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Once I Had a Sweetheart",
+     "duracao": "2:07"
+    },
+    {
+     "n": 14,
+     "titulo": "Bells of Freedom",
+     "duracao": "2:04"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Come_My_Way",
+   "resumo_en": "Come My Way is the second studio album by English singer Marianne Faithfull. It was released simultaneously with her album Marianne Faithfull on 15 April 1965 by Decca Records. The double release was a result of different creative directions. While the record label pressed Faithfull to record a pop album, she wanted to record an album of folk songs. Even after the label suggested an album containing both genres, Faithfull decided to make two separate albums instead; Marianne Faithfull as the pop album and Come My Way as the folk album.",
+   "spotify": "5uUoSUypTiqqX3H4170TIM",
+   "youtube": null
+  },
+  {
+   "id": "e9fed429-4d0f-4f8f-920a-ce01e9acc217",
+   "titulo": "Marianne Faithfull",
+   "data": "1965",
+   "ano": "1965",
+   "capa": "https://coverartarchive.org/release/3669133d-724e-49e0-a0a7-eb6db560a1ff/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Come and Stay With Me",
+     "duracao": "2:27"
+    },
+    {
+     "n": 2,
+     "titulo": "If I Never Get to Love You",
+     "duracao": "2:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Time Takes Time",
+     "duracao": "1:42"
+    },
+    {
+     "n": 4,
+     "titulo": "He'll Come Back to Me",
+     "duracao": "2:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Down Town",
+     "duracao": "2:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Plaisir D'Amour",
+     "duracao": "2:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Can't You Hear My Heartbeat",
+     "duracao": "2:27"
+    },
+    {
+     "n": 8,
+     "titulo": "As Tears Go By",
+     "duracao": "2:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Paris Bells",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "They Never Will Leave You",
+     "duracao": "2:13"
+    },
+    {
+     "n": 11,
+     "titulo": "What Have They Done to the Rain",
+     "duracao": "2:56"
+    },
+    {
+     "n": 12,
+     "titulo": "In My Time of Sorrow",
+     "duracao": "2:22"
+    },
+    {
+     "n": 13,
+     "titulo": "What Have I Done Wrong",
+     "duracao": "1:56"
+    },
+    {
+     "n": 14,
+     "titulo": "I'm a Loser",
+     "duracao": "2:17"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marianne_Faithfull_%28album%29",
+   "resumo_en": "Marianne Faithfull is the debut studio album by English singer Marianne Faithfull. It was released simultaneously with her album Come My Way on 15 April 1965 by Decca Records. The double release was a result of different creative directions. While the record label pressed Faithfull to record a pop album, she wanted to record an album of folk songs. Even after the label suggested an album containing both genres, Faithfull decided to make two separate albums instead; Marianne Faithfull as the pop album and Come My Way as the folk album. In the United States, it was released by London Records with a slightly different track list and inclusion of the song \"This Little Bird\".",
+   "spotify": "0jbj35MuPNoivkh5jB4aWI",
+   "youtube": null
+  },
+  {
+   "id": "772e3ee4-6dce-43b9-8a96-203f36c77adf",
+   "titulo": "Go Away From My World",
+   "data": "1966",
+   "ano": "1966",
+   "capa": "https://coverartarchive.org/release/bae4e686-4ad7-49cf-a5db-da9f286c6f90/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Go Away From My World",
+     "duracao": "2:35"
+    },
+    {
+     "n": 2,
+     "titulo": "Yesterday",
+     "duracao": "2:14"
+    },
+    {
+     "n": 3,
+     "titulo": "Come My Way",
+     "duracao": "2:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Last Thing on My Mind",
+     "duracao": "2:12"
+    },
+    {
+     "n": 5,
+     "titulo": "How Should I Your True Love Know",
+     "duracao": "1:14"
+    },
+    {
+     "n": 6,
+     "titulo": "Wild Mountain Thyme",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Summer Nights",
+     "duracao": "1:48"
+    },
+    {
+     "n": 8,
+     "titulo": "Mary Ann",
+     "duracao": "1:51"
+    },
+    {
+     "n": 9,
+     "titulo": "Scarborough Fair",
+     "duracao": "3:02"
+    },
+    {
+     "n": 10,
+     "titulo": "Lullabye",
+     "duracao": "2:38"
+    },
+    {
+     "n": 11,
+     "titulo": "North Country Maid",
+     "duracao": "2:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Sally Free and Easy",
+     "duracao": "2:52"
+    }
+   ],
+   "duracao_min": 29,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "eaf2deda-1b27-37e1-ae60-5071fad0d414",
+   "titulo": "Loveinamist",
+   "data": "1967",
+   "ano": "1967",
+   "capa": "https://coverartarchive.org/release/8374e7f4-1d02-48cf-8e56-c55455ee0f2b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Is This What I Get for Loving You",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "You Can’t Go Where the Roses Go",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Our Love Has Gone",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Make Promises You Can’t Keep",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "In the Night Time",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Et maintenant",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Tomorrow’s Calling",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Reason to Believe",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "With You in Mind",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Young Girl Blues",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Good Guy",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "I Have a Love",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Love_in_a_Mist_%28album%29",
+   "resumo_en": "Love in a Mist (alternately titled Loveinamist) is the fourth studio album by British singer Marianne Faithfull, released in 1967. Michael Cooper is credited for the design and photography.\nMany of the tracks had been released in the US several months earlier on the US-only Faithfull Forever. This would be her last studio album release until 1976's Dreamin' My Dreams.",
+   "spotify": "1U34Gnypq6iMjOaBEUZ1S0",
+   "youtube": null
+  },
+  {
+   "id": "dfe98a15-f5ca-38a3-9af5-b9e8903d1416",
+   "titulo": "Faithless",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/f39cfcc2-a40b-4fff-a954-00414c92e2b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dreamin' My Dreams",
+     "duracao": "3:19"
+    },
+    {
+     "n": 2,
+     "titulo": "Fairytale Hero",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "This Time",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "I'm Not Lisa",
+     "duracao": "3:22"
+    },
+    {
+     "n": 5,
+     "titulo": "The Way You Want Me to Be",
+     "duracao": "2:07"
+    },
+    {
+     "n": 6,
+     "titulo": "Wrong Road Again",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "All I Want to Do in Life",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "I'm Looking For Blue Eyes",
+     "duracao": "1:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Somebody Loves You",
+     "duracao": "2:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Vanilla O'Lay",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Lady Madeleine",
+     "duracao": "4:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Sweet Little Sixteen",
+     "duracao": "2:48"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "96e40648-a0e2-320b-9592-fff4a49d9395",
+   "titulo": "Broken English",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/d0d55d72-f77d-44e6-99f9-59a0eacb3ee8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Broken English",
+     "duracao": "4:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Witches’ Song",
+     "duracao": "4:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Brain Drain",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Guilt",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "The Ballad of Lucy Jordan",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "What’s the Hurry?",
+     "duracao": "3:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Working Class Hero",
+     "duracao": "4:42"
+    },
+    {
+     "n": 8,
+     "titulo": "Why D’Ya Do It?",
+     "duracao": "6:47"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 9
+   },
+   "publico": 8,
+   "publico_votos": 3,
+   "wikipedia": "https://en.wikipedia.org/wiki/Broken_English_%28album%29",
+   "resumo_en": "Broken English is the seventh studio album by English singer Marianne Faithfull. It was released on 2 November 1979 by Island Records. The album marked a major comeback for Faithfull after years of drug abuse, homelessness and anorexia. It is often regarded as her definitive recording, and Faithfull herself described it as her \"masterpiece\".\nBroken English was Faithfull's first major release since her album Love in a Mist (1967). After ending her relationship with Mick Jagger in 1970 and losing custody of her son, Faithfull suffered from heroin addiction and lived on the streets of London. Severe laryngitis and drug abuse during this period permanently altered Faithfull's voice, leaving it cracked and lower in pitch. She attempted a comeback in 1976 with Dreamin' My Dreams, which achieved only minor success. Shortly afterwards, Faithfull began working with musician Barry Reynolds, who produced the songs \"Broken English\" and \"Why D'Ya Do It\". The demos attracted the attention of Chris Blackwell who signed Faithfull to his record label Island Records.\nThe album was recorded at Matrix Studios in London. Faithfull collaborated with producer Mark Miller Mundy on the remaining songs for ",
+   "spotify": "3H0cWLh4X4x5TB8TTkE3LE",
+   "youtube": null
+  },
+  {
+   "id": "69733284-2449-3da1-842c-3e06e4c0cd94",
+   "titulo": "Dangerous Acquaintances",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/1cebf01d-30d0-4a0b-8a7b-3ad7b72b24b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sweetheart",
+     "duracao": "3:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Intrigue",
+     "duracao": "4:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Easy In The City",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Strange One",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Tenderness",
+     "duracao": "3:55"
+    },
+    {
+     "n": 6,
+     "titulo": "For Beauty's Sake",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "So Sad",
+     "duracao": "4:34"
+    },
+    {
+     "n": 8,
+     "titulo": "Eye Communication",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Truth, Bitter Truth",
+     "duracao": "7:22"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dangerous_Acquaintances",
+   "resumo_en": "Dangerous Acquaintances is the eighth studio album by English singer Marianne Faithfull. It was released on 1 September 1981 by Island Records. The album was seen by reviewers as a disappointing follow-up to Faithfull's Broken English, as the album trades the angry and controversial alternative new wave arrangements of the previous one for a more mainstream rock texture, using over a dozen session musicians and, for some, giving a certain anonymous feel to the songs. The title is a reference to the Pierre Choderlos de Laclos 1782 novel Les Liaisons dangereuses.\nThe main singles of the album were \"Intrigue\", penned by the singer's then-husband, Ben Brierley, and \"For Beauty's Sake\", written by Faithfull and Steve Winwood.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6dd56aee-6bf4-3e7d-8026-fa3fbf2bbba7",
+   "titulo": "A Child’s Adventure",
+   "data": "1983-02-23",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/9d4de033-6687-4e40-8589-e1cb34a2a037/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Times Square",
+     "duracao": "4:26"
+    },
+    {
+     "n": 2,
+     "titulo": "The Blue Millionaire",
+     "duracao": "5:38"
+    },
+    {
+     "n": 3,
+     "titulo": "Falling From Grace",
+     "duracao": "3:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Morning Come",
+     "duracao": "5:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Ashes in My Hand",
+     "duracao": "4:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Running for Our Lives",
+     "duracao": "4:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Ireland",
+     "duracao": "4:38"
+    },
+    {
+     "n": 8,
+     "titulo": "She’s Got a Problem",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Child%27s_Adventure",
+   "resumo_en": "A Child's Adventure is the ninth studio album by British singer Marianne Faithfull, released on Island Records in 1983.",
+   "spotify": "5F3G9RkjhNctbBpeYekvCy",
+   "youtube": null
+  },
+  {
+   "id": "4a882f70-60f2-4bcb-9aad-e698ecd140f1",
+   "titulo": "Rich Kid Blues",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/a0e3938f-7578-4cc9-b7f7-3d542266d2fd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rich Kid Blues",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Long Black Veil",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Sad Lisa",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "It's All Over Now, Baby Blue",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Southern Butterfly",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Chords of Fame",
+     "duracao": "3:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Visions of Johanna",
+     "duracao": "4:36"
+    },
+    {
+     "n": 8,
+     "titulo": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+     "duracao": "3:54"
+    },
+    {
+     "n": 9,
+     "titulo": "Beware of Darkness",
+     "duracao": "3:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Corrine Corrina",
+     "duracao": "2:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Mud Slide Slim",
+     "duracao": "3:39"
+    },
+    {
+     "n": 12,
+     "titulo": "Crazy Lady Blues",
+     "duracao": "2:03"
+    },
+    {
+     "n": 13,
+     "titulo": "All I Want to Do in Life",
+     "duracao": "2:45"
+    },
+    {
+     "n": 14,
+     "titulo": "I'll Be Your Baby Tonight",
+     "duracao": "3:55"
+    },
+    {
+     "n": 15,
+     "titulo": "Wait for Me Down by the River",
+     "duracao": "3:39"
+    },
+    {
+     "n": 16,
+     "titulo": "That Was the Day (Nashville)",
+     "duracao": "4:18"
+    },
+    {
+     "n": 17,
+     "titulo": "This Time",
+     "duracao": "3:04"
+    },
+    {
+     "n": 18,
+     "titulo": "The Way You Want Me to Be",
+     "duracao": "2:06"
+    },
+    {
+     "n": 19,
+     "titulo": "Dreamin' My Dreams",
+     "duracao": "3:18"
+    },
+    {
+     "n": 20,
+     "titulo": "Wrong Road Again",
+     "duracao": "2:49"
+    },
+    {
+     "n": 21,
+     "titulo": "Fairytale Hero",
+     "duracao": "3:32"
+    },
+    {
+     "n": 22,
+     "titulo": "Vanilla O'Lay",
+     "duracao": "3:59"
+    },
+    {
+     "n": 23,
+     "titulo": "Lady Madelaine",
+     "duracao": "4:26"
+    },
+    {
+     "n": 24,
+     "titulo": "Honky Tonk Angels",
+     "duracao": "4:03"
+    }
+   ],
+   "duracao_min": 83,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rich_Kid_Blues",
+   "resumo_en": "Rich Kid Blues is a studio album by British singer Marianne Faithfull, recorded in 1971 under the title Masques and first released in 1985.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f58e2af3-b9e0-371b-9284-51840be77578",
+   "titulo": "Trouble in Mind",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/765f1113-f4dd-4129-bfa7-54f3b7213162/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Trouble in Mind (The Return)",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Pleasure in Old Sufferings",
+     "duracao": "1:17"
+    },
+    {
+     "n": 3,
+     "titulo": "To Forget for a Moment",
+     "duracao": "1:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Members Only",
+     "duracao": "4:23"
+    },
+    {
+     "n": 5,
+     "titulo": "Conflict...Beyond Understanding",
+     "duracao": "2:39"
+    },
+    {
+     "n": 6,
+     "titulo": "The Invitation",
+     "duracao": "3:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Interests Pursued",
+     "duracao": "2:31"
+    },
+    {
+     "n": 8,
+     "titulo": "A Matter of Conflict",
+     "duracao": "1:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Trouble in Mind (Reprise)",
+     "duracao": "1:09"
+    },
+    {
+     "n": 10,
+     "titulo": "Halves of a Dream",
+     "duracao": "1:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Confidence From an Old Friend",
+     "duracao": "0:53"
+    },
+    {
+     "n": 12,
+     "titulo": "Postponement of Virtue",
+     "duracao": "2:18"
+    },
+    {
+     "n": 13,
+     "titulo": "Intimacy",
+     "duracao": "1:36"
+    },
+    {
+     "n": 14,
+     "titulo": "The Arrival",
+     "duracao": "0:53"
+    },
+    {
+     "n": 15,
+     "titulo": "By Way of Preparation Down the Hill",
+     "duracao": "2:47"
+    },
+    {
+     "n": 16,
+     "titulo": "A Touch of Iago",
+     "duracao": "2:21"
+    },
+    {
+     "n": 17,
+     "titulo": "The Hawk (El Gavilan)",
+     "duracao": "8:14"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f9a18647-c842-3501-820a-c709b8afd032",
+   "titulo": "Strange Weather",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/17fcdf89-bf33-3493-8050-1ab0ddb905b7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stranger Intro",
+     "duracao": "0:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Boulevard of Broken Dreams",
+     "duracao": "3:06"
+    },
+    {
+     "n": 3,
+     "titulo": "Ain' Goin' Down to the Well No Mo'",
+     "duracao": "1:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Yesterdays",
+     "duracao": "5:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Sign of Judgement",
+     "duracao": "2:54"
+    },
+    {
+     "n": 6,
+     "titulo": "Strange Weather",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "Love, Life and Money",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "I'll Keep It With Mine",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Hello Stranger",
+     "duracao": "2:31"
+    },
+    {
+     "n": 10,
+     "titulo": "Penthouse Serenade (When We're Alone)",
+     "duracao": "2:37"
+    },
+    {
+     "n": 11,
+     "titulo": "As Tears Go By",
+     "duracao": "3:56"
+    },
+    {
+     "n": 12,
+     "titulo": "A Stranger on Earth",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.7,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Strange_Weather_%28Marianne_Faithfull_album%29",
+   "resumo_en": "Strange Weather is a 1987 studio album by British singer Marianne Faithfull, recorded after recovering from a 17-year addiction to heroin in 1986.  The album's three predecessors on Island Records were all recorded while Faithfull confronted personal struggles, with most lyrics and some music penned by Faithfull herself. In contrast, Strange Weather is a mix of rock, blues and dark cabaret, none written by Faithfull. The album was produced by Hal Willner, with musicians including Bill Frisell.  The title track became a Faithfull concert staple and has appeared live in three additional recordings.",
+   "spotify": "5zl7rE3uDMdwIcFjxv3nRE",
+   "youtube": null
+  },
+  {
+   "id": "dbc5fd85-80c4-346a-b03b-4799d25f52ab",
+   "titulo": "A Secret Life",
+   "data": "1995",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/f61d02a2-b40e-3102-8d8c-f06b7cd00b24/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prologue",
+     "duracao": "2:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Sleep",
+     "duracao": "3:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Love in the Afternoon",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Flaming September",
+     "duracao": "5:03"
+    },
+    {
+     "n": 5,
+     "titulo": "She",
+     "duracao": "3:26"
+    },
+    {
+     "n": 6,
+     "titulo": "Bored by Dreams",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Losing",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "The Wedding",
+     "duracao": "3:19"
+    },
+    {
+     "n": 9,
+     "titulo": "The Stars Line Up",
+     "duracao": "3:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Epilogue",
+     "duracao": "3:14"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 4.3,
+    "fontes": 3
+   },
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/A_Secret_Life_%28album%29",
+   "resumo_en": "A Secret Life is the twelfth studio album by English singer Marianne Faithfull. It was released on 21 March 1995 by Island Records. The album marked her first studio release composed mostly of original material in over a decade. Faithfull collaborated with American composer Angelo Badalamenti after his work on the television series Twin Peaks. Influenced by her interest in classical music, A Secret Life was a musical departure from her previous work and displayed a more tender side to her voice.\nFaithfull also worked with Irish poet and her longtime friend Frank McGuinness and used some of his poems in the songs \"Sleep\" and \"The Wedding\". Musically, A Secret Life is an alternative rock album which was inspired by classical music and also incorporates elements of blues. The songs deal with themes such as broken relationship on \"She\" or secret love affair on \"Love in the Afternoon\".\nA Secret Life received mixed reviews from music critics. Released only months after her successful autobiography Faithfull: An Autobiography and compilation album Faithfull: A Collection of Her Best Recordings (1994), the album was a commercial failure. \"Bored by Dreams\" was the only single released from ",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3c4ce1c4-2651-3c44-ad31-abc7f8e59ca5",
+   "titulo": "Vagabond Ways",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/38df4bae-9d76-39c7-a6cc-6dc81e17f5d6/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Vagabond Ways",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Incarceration of a Flower Child",
+     "duracao": "5:34"
+    },
+    {
+     "n": 3,
+     "titulo": "File It Under Fun From the Past",
+     "duracao": "4:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Electra",
+     "duracao": "3:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Wilder Shores of Love",
+     "duracao": "5:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Marathon Kiss",
+     "duracao": "4:00"
+    },
+    {
+     "n": 7,
+     "titulo": "For Wanting You",
+     "duracao": "3:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Great Expectations",
+     "duracao": "3:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Tower of Song",
+     "duracao": "4:35"
+    },
+    {
+     "n": 10,
+     "titulo": "After the Ceasefire",
+     "duracao": "4:22"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vagabond_Ways",
+   "resumo_en": "Vagabond Ways is the 14th studio album by the British singer Marianne Faithfull. This is her first album of original material since A Secret Life (1994). This work, produced by Daniel Lanois and Mark Howard, is a balladry-like extension of her then neo-cabaret persona, interpreting songs by herself and songwriters of her generation, like Pink Floyd's Roger Waters, Leonard Cohen and the songwriting duo Elton John and Bernie Taupin. Many of the stories told on this album were adapted from memories that didn't make her autobiography or her observations of social struggles by which she felt particularly moved.\n\"Incarceration of a Flower Child\" was written by Roger Waters in 1968, and has never been recorded in any format by Pink Floyd. The lyrics seem to be about the downfall of former Floyd member Syd Barrett, but Waters has never confirmed this.\nA Deluxe Edition was released in 2022 by BMG Rights Management.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3e761708-0121-3929-b2cd-1e0f53e2e499",
+   "titulo": "Kissin Time",
+   "data": "2002-03-04",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/188c72c6-2747-442b-86fa-f54b1b2d4af1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sex With Strangers",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "The Pleasure Song",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Like Being Born",
+     "duracao": "3:51"
+    },
+    {
+     "n": 4,
+     "titulo": "I’m on Fire",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Wherever I Go",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Song for Nico",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Sliding Through Life on Charm",
+     "duracao": "4:00"
+    },
+    {
+     "n": 8,
+     "titulo": "Love & Money",
+     "duracao": "2:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Nobody’s Fault",
+     "duracao": "6:28"
+    },
+    {
+     "n": 10,
+     "titulo": "Kissin Time",
+     "duracao": "5:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Something Good",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kissin_Time",
+   "resumo_en": "Kissin Time is the 15th studio album by British singer Marianne Faithfull.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e16121eb-8163-309a-add4-d169b75aa435",
+   "titulo": "Before the Poison",
+   "data": "2004-09-28",
+   "ano": "2004",
+   "capa": "https://coverartarchive.org/release/8d6638c4-f124-43b2-bf7f-b6493fe3228a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Mystery of Love",
+     "duracao": "3:51"
+    },
+    {
+     "n": 2,
+     "titulo": "My Friends Have",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Crazy Love",
+     "duracao": "4:05"
+    },
+    {
+     "n": 4,
+     "titulo": "Last Song",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "No Child of Mine",
+     "duracao": "6:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Before the Poison",
+     "duracao": "4:09"
+    },
+    {
+     "n": 7,
+     "titulo": "There Is a Ghost",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "In the Factory",
+     "duracao": "3:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Desperanto",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "City of Quartz",
+     "duracao": "3:43"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 6.8,
+    "fontes": 5
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Before_the_Poison",
+   "resumo_en": "Before the Poison is the sixteenth studio album by the English singer Marianne Faithfull, recorded in 2003 and released in France on 28 September 2004, and in the United States on 25 January 2005.",
+   "spotify": "2IMZ3hiptqNuM3Ob13537f",
+   "youtube": null
+  },
+  {
+   "id": "12b86ead-5ddd-369f-8148-71467449b805",
+   "titulo": "Easy Come, Easy Go",
+   "data": "2008-11-10",
+   "ano": "2008",
+   "capa": "https://coverartarchive.org/release/a6f6dd17-2700-3d34-9c6b-873620af1e90/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Down From Dover",
+     "duracao": "4:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Hold On, Hold On",
+     "duracao": "2:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Solitude",
+     "duracao": "5:25"
+    },
+    {
+     "n": 4,
+     "titulo": "The Crane Wife 3",
+     "duracao": "3:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Easy Come, Easy Go",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Children of Stone",
+     "duracao": "8:03"
+    },
+    {
+     "n": 7,
+     "titulo": "How Many Worlds?",
+     "duracao": "3:39"
+    },
+    {
+     "n": 8,
+     "titulo": "In Germany Before the War",
+     "duracao": "4:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Ooh Baby Baby",
+     "duracao": "8:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Sing Me Back Home",
+     "duracao": "5:03"
+    },
+    {
+     "n": 11,
+     "titulo": "Salvation",
+     "duracao": "6:07"
+    },
+    {
+     "n": 12,
+     "titulo": "Black Coffee",
+     "duracao": "5:40"
+    },
+    {
+     "n": 13,
+     "titulo": "The Phoenix",
+     "duracao": "2:16"
+    },
+    {
+     "n": 14,
+     "titulo": "Dear God Please Help Me",
+     "duracao": "4:28"
+    },
+    {
+     "n": 15,
+     "titulo": "Kimbie",
+     "duracao": "4:38"
+    },
+    {
+     "n": 16,
+     "titulo": "Many a Mile to Freedom",
+     "duracao": "5:11"
+    },
+    {
+     "n": 17,
+     "titulo": "Somewhere",
+     "duracao": "4:14"
+    },
+    {
+     "n": 18,
+     "titulo": "Flandyke Shore",
+     "duracao": "3:10"
+    }
+   ],
+   "duracao_min": 85,
+   "critica": {
+    "media": 6.8,
+    "fontes": 3
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Easy_Come%2C_Easy_Go_%28Marianne_Faithfull_album%29",
+   "resumo_en": "Easy Come, Easy Go is a studio album of cover versions by English singer Marianne Faithfull, which was released in the EU on 10 November 2008. The album is produced by Hal Willner and features guest appearances from a variety of musicians. It was released as both a standard 10-track CD and a special 18-track edition with a DVD documentary by Anne Rohart under Jean-Baptiste Mondino's artistic direction, with both Faithfull and Wilner commenting on the song selection. A collectible 2-disc vinyl pressing is also available. The album was recorded with Pro Tools in NYC at the Sear Sound Studio.",
+   "spotify": "7jkCV63a4GvbXHMaKytTLU",
+   "youtube": null
+  },
+  {
+   "id": "dd0c7707-068d-4de6-bfaf-8f3c7b6059d7",
+   "titulo": "Horses and High Heels",
+   "data": "2010",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/e4febc5c-2e91-47e7-8e0b-a7d3f702e4de/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Stations",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Why Did We Have to Part",
+     "duracao": "3:45"
+    },
+    {
+     "n": 3,
+     "titulo": "That's How Every Empire Falls",
+     "duracao": "5:52"
+    },
+    {
+     "n": 4,
+     "titulo": "No Reason",
+     "duracao": "2:52"
+    },
+    {
+     "n": 5,
+     "titulo": "Prussian Blue",
+     "duracao": "5:04"
+    },
+    {
+     "n": 6,
+     "titulo": "Love Song",
+     "duracao": "4:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Gee Baby",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Goin' Back",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Past Present Future",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Eternity",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Back in Baby's Arms",
+     "duracao": "4:20"
+    },
+    {
+     "n": 12,
+     "titulo": "Horses and High Heels",
+     "duracao": "4:03"
+    },
+    {
+     "n": 13,
+     "titulo": "The Old House",
+     "duracao": "4:06"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Horses_and_High_Heels",
+   "resumo_en": "Horses and High Heels is the 18th studio album release by British singer Marianne Faithfull. The 13-track album was released on 31 January 2011 in continental Europe and on 7 March 2011 in the UK on the Dramatico record label. It was released in the United States on 28 June 2011 via the French Naïve Records label.\n\"Why Did We Have to Part?\" was released as a single from the album.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4cd06687-9d95-4127-b26b-451dec524249",
+   "titulo": "Give My Love to London",
+   "data": "2014-09-29",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/fa4d9673-48fa-412c-9452-9e98c03fa5a9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Give My Love to London",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Sparrows Will Sing",
+     "duracao": "3:51"
+    },
+    {
+     "n": 3,
+     "titulo": "True Lies",
+     "duracao": "2:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Love More or Less",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Late Victorian Holocaust",
+     "duracao": "4:26"
+    },
+    {
+     "n": 6,
+     "titulo": "The Price of Love",
+     "duracao": "2:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Falling Back",
+     "duracao": "3:49"
+    },
+    {
+     "n": 8,
+     "titulo": "Deep Water",
+     "duracao": "3:07"
+    },
+    {
+     "n": 9,
+     "titulo": "Mother Wolf",
+     "duracao": "4:06"
+    },
+    {
+     "n": 10,
+     "titulo": "Going Home",
+     "duracao": "4:22"
+    },
+    {
+     "n": 11,
+     "titulo": "I Get Along Without You Very Well",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 80,
+    "media": 7.7,
+    "fontes": 6
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Give_My_Love_to_London",
+   "resumo_en": "Give My Love to London is the 19th studio album by British singer Marianne Faithfull. The 11-track album was released on 29 September 2014 on the Dramatico and Naïve record labels. In America and Canada, it was issued on 10 November by Easy Sound. It includes collaborations with Nick Cave, Anna Calvi, Roger Waters and Brian Eno. \"Sparrows Will Sing\" was released as a single from the album.\nAccording to Metacritic, Give My Love to London has received \"Generally favorable reviews\" from music critics, based on a sample of 16 professional reviews. Among other critiques, The Sunday Times included the album among its \"essential new releases\", with the reviewer writing: \"[Faithfull] is more a work of performance art than a singer … But for die-hard fans, of course, that is part of the mystique.\"",
+   "spotify": "7KlVw1VmZ7Eg07bz4yTdhy",
+   "youtube": null
+  },
+  {
+   "id": "fffbcdd9-5522-4628-8b58-8caccbc2997f",
+   "titulo": "Negative Capability",
+   "data": "2018-11-02",
+   "ano": "2018",
+   "capa": "https://coverartarchive.org/release/375e9ef1-f255-4d16-a300-a78e92be27fe/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Misunderstanding",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "The Gypsy Faerie Queen",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "As Tears Go By",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "In My Own Particular Way",
+     "duracao": "4:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Born to Live",
+     "duracao": "3:39"
+    },
+    {
+     "n": 6,
+     "titulo": "Witches Song",
+     "duracao": "4:57"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s All Over Now, Baby Blue (re‐recorded)",
+     "duracao": "5:01"
+    },
+    {
+     "n": 8,
+     "titulo": "They Come at Night",
+     "duracao": "3:40"
+    },
+    {
+     "n": 9,
+     "titulo": "Don’t Go",
+     "duracao": "4:20"
+    },
+    {
+     "n": 10,
+     "titulo": "No Moon in Paris",
+     "duracao": "4:54"
+    },
+    {
+     "n": 11,
+     "titulo": "Loneliest Person",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "No Moon in Paris (radio edit)",
+     "duracao": "3:26"
+    },
+    {
+     "n": 13,
+     "titulo": "They Come at Night (alt. version)",
+     "duracao": "3:36"
+    }
+   ],
+   "duracao_min": 52,
+   "critica": {
+    "allmusic": 7.0,
+    "metacritic": 88,
+    "media": 8.4,
+    "fontes": 9
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Negative_Capability_%28album%29",
+   "resumo_en": "Negative Capability is the twentieth studio album by British singer Marianne Faithfull. It was released on 2 November 2018, and produced by Rob Ellis, Warren Ellis and Head. Described as her \"most honest album\", songs on Negative Capability deal with themes of love, death, as well as terrorism and loneliness. She revisits three old recordings: \"It's All Over Now, Baby Blue\" from Rich Kid Blues, recorded in 1971 under the title Masques, which is her 'lost' album and was not released until 1985; \"Witches Song\", from 1979's comeback album Broken English; and \"As Tears Go By\", which started her career as a 17-year-old. Faithfull recorded it for the second time aged 40 on 1987's Strange Weather. The rest of the songs are, with one exception, all new and co-written by Faithfull with help from some of her long time collaborators like Nick Cave and Ed Harcourt. The \"Loneliest Person\" is a cover of a Pretty Things composition from their 1968 album S.F. Sorrow.\nThe lead single, \"The Gypsy Faerie Queen\", was released on 14 September 2018.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5be0a679-17e3-4313-adc2-cc8758bd0e2e",
+   "titulo": "She Walks in Beauty",
+   "data": "2021-04-30",
+   "ano": "2021",
+   "capa": "https://coverartarchive.org/release/6e4b1072-7750-4ddb-a654-999e669168df/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "She Walks in Beauty",
+     "duracao": "2:40"
+    },
+    {
+     "n": 2,
+     "titulo": "The Bridge of Sighs",
+     "duracao": "4:55"
+    },
+    {
+     "n": 3,
+     "titulo": "La Belle Dame Sans Merci",
+     "duracao": "4:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Ode to a Nightingale",
+     "duracao": "6:49"
+    },
+    {
+     "n": 5,
+     "titulo": "To Autumn",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Ozymandias",
+     "duracao": "3:08"
+    },
+    {
+     "n": 7,
+     "titulo": "The Prelude: Book One Introduction",
+     "duracao": "2:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Surprised By Joy",
+     "duracao": "2:08"
+    },
+    {
+     "n": 9,
+     "titulo": "To the Moon",
+     "duracao": "2:21"
+    },
+    {
+     "n": 10,
+     "titulo": "So We'll Go No More a Roving",
+     "duracao": "2:20"
+    },
+    {
+     "n": 11,
+     "titulo": "The Lady of Shallot",
+     "duracao": "11:46"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/She_Walks_in_Beauty_%28album%29",
+   "resumo_en": "She Walks in Beauty is a 2021 studio album by Australian multi-instrumentalist Warren Ellis, and the twenty-first and final studio album by British singer Marianne Faithfull. Putting music to British romantic poetry, Faithfull started recording it in 2020, only finishing it during her recovery from a serious case of COVID-19. She has described the work as her dream project that she wanted to record for 50 years. The album received positive reviews from critics.",
+   "spotify": "7C36v40prz3fkDEdqRSk9E",
+   "youtube": null
+  }
+ ]
+}

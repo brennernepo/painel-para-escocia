@@ -1,0 +1,435 @@
+{
+ "id": "angeles-del-infierno",
+ "nome": "Ángeles del Infierno",
+ "cena": "Descobertas do acervo",
+ "mbid": "df8c54f5-e3f2-44f3-ac45-405ff0abe2eb",
+ "wikidata": "Q2760577",
+ "tipo": "Group",
+ "pais": "ES",
+ "inicio": "1980",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "hard rock",
+  "heavy metal",
+  "metal"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/ADI_Logo_Symbol_2023.jpg/500px-ADI_Logo_Symbol_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://en.wikipedia.org/wiki/%C3%81ngeles_del_Infierno",
+ "resumo_pt": "",
+ "resumo_en": "Angeles Del Infierno (Spanish for Angels from Hell or Hell Angels) is a heavy metal band from Basque Country, Spain, formed in 1980. Signing with Warner Bros. Records in 1984, they achieved success in their home country and Latin America during the 1980s and the early 1990s. In 2003, the band reformed and signed back onto Warner Bros. Records, releasing Todos Somos Angeles later that year.\nAngeles Del Infierno was formed by Robert Alvarez and Santi Rubio in 1980 in San Sebastian with:\n\nJuan Gallardo: vocals\nRobert Alvarez: guitar\nManu Garcia: guitar\nSanti Rubio: bass\nInaki Munita: drums\nAngeles del Infierno released their first album, Pacto con el Diablo (Pact with the Devil), in 1984. They immediately had success in terms of both, record sales and critical reception. They scored several hits with songs like their anthem \"Maldito sea tu nombre\".",
+ "albuns": [
+  {
+   "id": "cfe8917a-25fd-3eb0-9be1-6acf5e2c3b26",
+   "titulo": "Pacto con el diablo",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/141b07f9-101b-41fd-a2b3-0326c06eae12/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Maldito sea tu nombre",
+     "duracao": "3:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Rocker",
+     "duracao": "2:54"
+    },
+    {
+     "n": 3,
+     "titulo": "Unidos por el rock",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Esclavos de la noche",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Sombras en la oscuridad",
+     "duracao": "5:12"
+    },
+    {
+     "n": 6,
+     "titulo": "El principio del fin",
+     "duracao": "3:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Condenados a vivir",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Sangre",
+     "duracao": "3:39"
+    },
+    {
+     "n": 9,
+     "titulo": "No juegues con fuego",
+     "duracao": "4:16"
+    },
+    {
+     "n": 10,
+     "titulo": "Es un pacto con el diablo",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "22d20fe6-34a3-37b1-9405-261521107ac1",
+   "titulo": "Diabólica",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/0d1b98f8-2592-44ca-8bb4-7651748079e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fuera de la ley",
+     "duracao": "4:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Con las botas puestas",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Dame amor",
+     "duracao": "3:20"
+    },
+    {
+     "n": 4,
+     "titulo": "Junkie",
+     "duracao": "3:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Al otro lado del silencio",
+     "duracao": "4:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Héroes del poder",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Vivo o muerto",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Prisionero",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "No pares",
+     "duracao": "3:19"
+    },
+    {
+     "n": 10,
+     "titulo": "Diabolicca",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "be21f69c-d169-3796-b5eb-5d55b29b07f1",
+   "titulo": "Joven para morir",
+   "data": "1986",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/a69c4e5d-d1ef-4e2c-b4b6-f2f9f6b338b8/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Joven para morir",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "No quiero vivir sin ti",
+     "duracao": "2:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Loco de atar",
+     "duracao": "4:13"
+    },
+    {
+     "n": 4,
+     "titulo": "Lo tomas o lo dejas",
+     "duracao": "3:55"
+    },
+    {
+     "n": 5,
+     "titulo": "Pensando en ti",
+     "duracao": "4:44"
+    },
+    {
+     "n": 6,
+     "titulo": "No te dejes vencer",
+     "duracao": "4:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Todo lo que quiero",
+     "duracao": "3:06"
+    },
+    {
+     "n": 8,
+     "titulo": "Vive libre",
+     "duracao": "3:55"
+    },
+    {
+     "n": 9,
+     "titulo": "No hay tiempo",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "Prohibidos cuentos",
+     "duracao": "4:04"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e50c91b1-e335-3851-a33f-d2a799156cc4",
+   "titulo": "666",
+   "data": "1989-01",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/8725e212-c5e0-4af2-9bed-6db67bb525fb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dando por detrás",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Estamos todos locos",
+     "duracao": "3:14"
+    },
+    {
+     "n": 3,
+     "titulo": "666",
+     "duracao": "3:43"
+    },
+    {
+     "n": 4,
+     "titulo": "Si tú no estás aquí",
+     "duracao": "4:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Hoy por ti, mañana por mí",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Todo marcha bien",
+     "duracao": "3:42"
+    },
+    {
+     "n": 7,
+     "titulo": "Nada que perder",
+     "duracao": "3:45"
+    },
+    {
+     "n": 8,
+     "titulo": "No me cuentes problemas",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Vives en un cuento",
+     "duracao": "3:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Donde estabas tú",
+     "duracao": "3:12"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "15268b8c-c673-30d2-b2c8-943f880b4793",
+   "titulo": "A cara o cruz",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/a000204f-daa4-4aea-a6d6-611bb959e9a7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "317",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Las calles de mi barrio",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "A cara o cruz",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Rompe con todo esto",
+     "duracao": "3:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Jugando al amor",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Sexo en exceso (introducción)",
+     "duracao": "0:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Sexo en exceso",
+     "duracao": "2:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Detrás de las puertas del mal",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Desconocido",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "En un sueño",
+     "duracao": "4:42"
+    },
+    {
+     "n": 11,
+     "titulo": "Chico tal...",
+     "duracao": "3:34"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a1030c49-f2db-3e69-90bb-4df7f4ebf15c",
+   "titulo": "Todos somos ángeles",
+   "data": "2003",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/5c93af52-cf0f-4ad9-abf5-5eed65e27630/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Todos somos ángeles, Parte 1",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Todos somos ángeles, Parte 2",
+     "duracao": "2:26"
+    },
+    {
+     "n": 3,
+     "titulo": "No lo sé",
+     "duracao": "3:14"
+    },
+    {
+     "n": 4,
+     "titulo": "Buscando la llave",
+     "duracao": "5:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Hijos de América",
+     "duracao": "3:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Un sentimiento de amor",
+     "duracao": "3:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Cae la noche",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Shy Boy (Loco por ti)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 9,
+     "titulo": "El rey",
+     "duracao": "2:14"
+    },
+    {
+     "n": 10,
+     "titulo": "Misterios",
+     "duracao": "3:08"
+    },
+    {
+     "n": 11,
+     "titulo": "Yo sé que tú estás aquí",
+     "duracao": "4:21"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

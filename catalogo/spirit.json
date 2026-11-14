@@ -1,0 +1,2240 @@
+{
+ "id": "spirit",
+ "nome": "Spirit",
+ "cena": "Descobertas do acervo",
+ "mbid": "ca5db97b-ba17-4e85-a876-46065e2052b3",
+ "wikidata": "Q1777553",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1967",
+ "fim": "1997",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "psychedelic rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mark_Andes_by_Ron_Baker.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Spirit_%28banda%29",
+ "resumo_pt": "Spirit foi um grupo estadunidense de hard e rock psicodélico formada em 1967, em Los Angeles, California. A banda foi liderada pelo guitarrista Randy California. Seu maior sucesso comercial nos Estados Unidos foi o single \"I Got A Line On You\", mas também ficaram conhecidos nesse país por álbuns como The Family That Plays Together, Clear e Twelve Dreams of Dr. Sardonicus.",
+ "resumo_en": "Spirit was an American rock band founded in 1967 and based in Los Angeles. Their most commercially successful single in the United States was \"I Got a Line on You\". They were also known for their albums, including their self-titled debut album, The Family That Plays Together, Clear, and Twelve Dreams of Dr. Sardonicus.",
+ "albuns": [
+  {
+   "id": "2d13c365-47dc-37f7-9491-663f62f65a17",
+   "titulo": "The Family That Plays Together",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/7378c805-0afa-4b62-b855-791a9e93a7ed/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "I Got a Line on You",
+     "duracao": "2:38"
+    },
+    {
+     "n": 2,
+     "titulo": "It Shall Be",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Poor Richard",
+     "duracao": "2:31"
+    },
+    {
+     "n": 4,
+     "titulo": "Silky Sam",
+     "duracao": "4:57"
+    },
+    {
+     "n": 5,
+     "titulo": "Drunkard",
+     "duracao": "2:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Darlin’ If",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s All the Same",
+     "duracao": "4:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Jewish",
+     "duracao": "3:23"
+    },
+    {
+     "n": 9,
+     "titulo": "Dream Within a Dream",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "She Smiles",
+     "duracao": "2:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Aren’t You Glad",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Family_That_Plays_Together",
+   "resumo_en": "The Family That Plays Together is the second album by the American rock band Spirit. It was released by Ode Records in December 1968. It was voted number 575 in Colin Larkin's All Time Top 1000 Albums 3rd Edition (2000).\nThe cover was photographed at the Sunset Highland Motel, 6830 Sunset Boulevard in Hollywood, California, across the street from Hollywood High School.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9ae95886-c764-3bc6-ae1a-514d183641c7",
+   "titulo": "Spirit",
+   "data": "1968-01-22",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/cf2f2b4c-77d4-4416-a7aa-ea2d8656e2ac/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fresh Garbage",
+     "duracao": "3:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Uncle Jack",
+     "duracao": "2:43"
+    },
+    {
+     "n": 3,
+     "titulo": "Mechanical World",
+     "duracao": "5:16"
+    },
+    {
+     "n": 4,
+     "titulo": "Taurus",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Girl in Your Eye",
+     "duracao": "3:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Straight Arrow",
+     "duracao": "2:49"
+    },
+    {
+     "n": 7,
+     "titulo": "Topanga Windows",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Gramaphone Man",
+     "duracao": "3:49"
+    },
+    {
+     "n": 9,
+     "titulo": "Water Woman",
+     "duracao": "2:10"
+    },
+    {
+     "n": 10,
+     "titulo": "The Great Canyon Fire in General",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Elijah",
+     "duracao": "10:45"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Spirit_%28Spirit_album%29",
+   "resumo_en": "Spirit is the debut studio album by American rock band Spirit, released on January 22, 1968 by Ode Records. The album was commercially successful, spending more than six months on the Billboard album charts, peaking at No. 31. It was voted number 658 in Colin Larkin's All Time Top 1000 Albums 3rd Edition (2000).",
+   "spotify": "0So50Xcd5g3siQ9jOFzjgu",
+   "youtube": null
+  },
+  {
+   "id": "b5599d6f-c242-3f78-af20-60725d3b0f49",
+   "titulo": "Clear",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/2b781b93-2ed4-4a7c-9807-665d061044d9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Dark Eyed Woman",
+     "duracao": "3:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Apple Orchard",
+     "duracao": "4:09"
+    },
+    {
+     "n": 3,
+     "titulo": "So Little Time to Fly",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Ground Dog",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Cold Wind",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Policeman's Ball",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Ice",
+     "duracao": "5:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Give a Life, Take a Life",
+     "duracao": "3:25"
+    },
+    {
+     "n": 9,
+     "titulo": "I'm Truckin'",
+     "duracao": "2:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Clear",
+     "duracao": "4:10"
+    },
+    {
+     "n": 11,
+     "titulo": "Caught",
+     "duracao": "3:14"
+    },
+    {
+     "n": 12,
+     "titulo": "New Dope in Town",
+     "duracao": "4:23"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clear_%28Spirit_album%29",
+   "resumo_en": "Clear is the third studio album by American rock band Spirit. It was released in September 1969 by Ode Records.\nThe album was written largely in the wake of Spirit's work on the soundtrack to the 1968 film Model Shop. Several of the band members have said that they felt there wasn't enough time for developing the album after releasing two albums in 1968, recording a soundtrack and constantly touring. The album contains \"So Little Time To Fly\", \"Dark Eyed Woman\" and \"New Dope In Town\", as well as three instrumentals.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "86c7bfe0-b686-3c61-8ca3-0156d2735f4c",
+   "titulo": "Twelve Dreams of Dr. Sardonicus",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/da7c0dd8-0aa3-393e-9886-690f13b20c42/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prelude / Nothin’ to Hide",
+     "duracao": "3:44"
+    },
+    {
+     "n": 2,
+     "titulo": "Nature’s Way",
+     "duracao": "2:31"
+    },
+    {
+     "n": 3,
+     "titulo": "Animal Zoo",
+     "duracao": "3:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Love Has Found a Way",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Why Can’t I Be Free?",
+     "duracao": "1:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Mr. Skin",
+     "duracao": "3:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Space Child",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "When I Touch You",
+     "duracao": "5:19"
+    },
+    {
+     "n": 9,
+     "titulo": "Street Worm",
+     "duracao": "3:41"
+    },
+    {
+     "n": 10,
+     "titulo": "Life Has Just Begun",
+     "duracao": "3:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Morning Will Come",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Soldier",
+     "duracao": "2:44"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.5,
+    "fontes": 2
+   },
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Twelve_Dreams_of_Dr._Sardonicus",
+   "resumo_en": "Twelve Dreams of Dr. Sardonicus is the fourth album by the American rock band Spirit. It was produced by David Briggs, who is best known for his work with Neil Young. The original LP was released in November 1970 by Epic. The band's lowest charting album to that point, it peaked at No. 63 on the Billboard 200 in February 1971, spending only fourteen weeks on the chart. However, it sold well as a catalog item and became the band's only album to ultimately attain a RIAA gold certification in the U.S., achieving that status in 1976.\nOn the Canadian RPM Magazine Top 100 charts, the album reached no. 49 and was in the top 100 for 10 weeks.\n\"Nature's Way\" became one of Spirit's signature songs, but was not a big hit at the time, peaking at No. 111 on the Billboard pop chart in 1971. To capitalize on the album's enduring appeal, \"Mr. Skin\" (the B-side of \"Nature's Way\") was released as an A-side in 1973 and also charted, peaking at No. 92. It was voted number 332 in Colin Larkin's All Time Top 1000 Albums 3rd Edition (2000).\nDespite these commercial limitations, Twelve Dreams of Dr. Sardonicus enjoyed significant airing on college FM radio. The album was re-issued on CD in 1988 by MFSL, w",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d23a4452-80bf-3bce-8fde-b76b6a87f32c",
+   "titulo": "Feedback",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/be73ee3b-9b57-46d1-b772-460b27103666/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Chelsea Girls",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Cadillac Cowboys",
+     "duracao": "3:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Puesta del Scam",
+     "duracao": "1:56"
+    },
+    {
+     "n": 4,
+     "titulo": "Ripe and Ready",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Darkness",
+     "duracao": "4:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Earthshaker",
+     "duracao": "3:51"
+    },
+    {
+     "n": 7,
+     "titulo": "Mellow Morning",
+     "duracao": "2:22"
+    },
+    {
+     "n": 8,
+     "titulo": "Right on Time",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Trancas Fog-Out",
+     "duracao": "2:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Witch",
+     "duracao": "5:20"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Feedback_%28Spirit_album%29",
+   "resumo_en": "Feedback is the fifth album by the rock band Spirit.  Released in 1972, it was the first Spirit album without original members Jay Ferguson and Mark Andes, and it was also the only Spirit album that did not feature Randy California performing on it, as California had left the group to pursue a solo career \n(Kapt. Kopter and the (Fabulous) Twirly Birds).\nFeedback reached the same chart position on the U.S. Billboard album charts as its predecessor, Twelve Dreams of Dr. Sardonicus.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "df4436c5-0cf6-3a8a-903d-bd82b2f12850",
+   "titulo": "Son of Spirit",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/efe317c2-2b37-4dfa-9f62-389217796521/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Holy Man",
+     "duracao": "3:03"
+    },
+    {
+     "n": 2,
+     "titulo": "Looking Into Darkness",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Maybe You’ll Find",
+     "duracao": "2:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Don’t Go Away",
+     "duracao": "3:45"
+    },
+    {
+     "n": 5,
+     "titulo": "Family",
+     "duracao": "3:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Magic Fairy Princess",
+     "duracao": "2:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Circle",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "The Other Song",
+     "duracao": "5:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Yesterday",
+     "duracao": "1:54"
+    },
+    {
+     "n": 10,
+     "titulo": "It’s Time Now",
+     "duracao": "3:01"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Son_of_Spirit",
+   "resumo_en": "Son of Spirit was the second album that Spirit released through Mercury Records, and their seventh album overall. It was released in October 1975. Unlike Spirit of '76, however, it did not make the national charts.\nThough some of the album's tracks were from the same sessions that produced Spirit of '76, it also features several Randy California solo demos that have been augmented by a rhythm machine.\nIt was originally reissued on CD in the early 1990s, and it was remastered and reissued (on a CD that also included Farther Along) in 2004 by Beat Goes On.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "78a2ff74-dcbe-3cc9-8233-e6554f739ba4",
+   "titulo": "Spirit of ’76",
+   "data": "1975-05",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/d5df34c3-dcb3-4a8f-a0bd-fd7adfbba104/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "America the Beautiful / The Times, They Are A‐Changing",
+     "duracao": "5:26"
+    },
+    {
+     "n": 2,
+     "titulo": "Victim of Society",
+     "duracao": "3:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Lady of the Lakes",
+     "duracao": "2:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Tampa Jam, Part 1",
+     "duracao": "0:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Maunaloa",
+     "duracao": "1:55"
+    },
+    {
+     "n": 6,
+     "titulo": "What Do I Have",
+     "duracao": "2:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Sunrise",
+     "duracao": "3:03"
+    },
+    {
+     "n": 8,
+     "titulo": "Walking the Dog",
+     "duracao": "3:09"
+    },
+    {
+     "n": 9,
+     "titulo": "Tampa Jam, Part 2",
+     "duracao": "1:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Joker on the Run",
+     "duracao": "3:57"
+    },
+    {
+     "n": 11,
+     "titulo": "When?",
+     "duracao": "4:27"
+    },
+    {
+     "n": 12,
+     "titulo": "Like a Rolling Stone",
+     "duracao": "8:56"
+    },
+    {
+     "n": 13,
+     "titulo": "Once Again",
+     "duracao": "3:22"
+    },
+    {
+     "n": 14,
+     "titulo": "Feeling in Time",
+     "duracao": "3:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Happy",
+     "duracao": "3:16"
+    },
+    {
+     "n": 16,
+     "titulo": "Jack Bond",
+     "duracao": "1:38"
+    },
+    {
+     "n": 17,
+     "titulo": "My Road",
+     "duracao": "4:14"
+    },
+    {
+     "n": 18,
+     "titulo": "Tampa Jam, Part 3",
+     "duracao": "0:49"
+    },
+    {
+     "n": 19,
+     "titulo": "Thank You Lord",
+     "duracao": "1:48"
+    },
+    {
+     "n": 20,
+     "titulo": "Urantia",
+     "duracao": "4:00"
+    },
+    {
+     "n": 21,
+     "titulo": "Guide Me",
+     "duracao": "3:49"
+    },
+    {
+     "n": 22,
+     "titulo": "Veruska",
+     "duracao": "4:00"
+    },
+    {
+     "n": 23,
+     "titulo": "Hey Joe",
+     "duracao": "6:32"
+    },
+    {
+     "n": 24,
+     "titulo": "Jack Bond, Part 2",
+     "duracao": "0:44"
+    },
+    {
+     "n": 25,
+     "titulo": "The Star Spangled Banner",
+     "duracao": "3:45"
+    }
+   ],
+   "duracao_min": 82,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Spirit_of_%2776_%28album%29",
+   "resumo_en": "Spirit of '76, released in May 1975, was the first of four albums that Spirit would (initially) release for Mercury Records, and their sixth album overall. Though all four albums were influenced by the time that Randy California spent living in Hawaii, this album bears that influence more than any of the others (aside from maybe Future Games). Though it was largely ignored upon its first release, many fans consider it to be one of Spirit's best albums.\nMost of this double album was compiled as part of the Mercury Years compilation in 1997. It was properly reissued on CD by Beat Goes On in 2003.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "28d80883-e43d-3ffa-87ed-aba3da549b0c",
+   "titulo": "Farther Along",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/20d8180f-1ab6-4b9f-a22d-e3279f90db32/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Farther Along",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Atomic Boogie",
+     "duracao": "2:39"
+    },
+    {
+     "n": 3,
+     "titulo": "World Eat World Dog",
+     "duracao": "2:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Stoney Night",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Pineapple",
+     "duracao": "2:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Colossus",
+     "duracao": "3:01"
+    },
+    {
+     "n": 7,
+     "titulo": "Mega Star",
+     "duracao": "3:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Phoebe",
+     "duracao": "2:10"
+    },
+    {
+     "n": 9,
+     "titulo": "Don't Lock Up Your Door",
+     "duracao": "3:13"
+    },
+    {
+     "n": 10,
+     "titulo": "Once With You",
+     "duracao": "1:32"
+    },
+    {
+     "n": 11,
+     "titulo": "Diamond Spirit",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Nature's Way",
+     "duracao": "1:59"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Farther_Along_%28Spirit_album%29",
+   "resumo_en": "Farther Along was the third album that Spirit released through Mercury Records, and their eighth album overall. Though Jay Ferguson was missing from the lineup, it is generally considered to be their first \"reunion\" album.\nOut of the four albums that Spirit recorded for Mercury in the mid-70s, this one is the least influenced by Randy California's time in Hawaii. However, it isn't too dissimilar from the previous two albums in that regard, though the song structures are very tight throughout. Consequently, it also bears more than a passing resemblance to Clear at times, probably because of John Locke's presence in the group. It is particularly cherished by fans of that album. The album also includes a notable version of \"Nature's Way\", which is arranged for a chamber orchestra.\nThough most of the album was issued on the Mercury Years compilation, much of the material included overdubs which were not part of the original recordings. The 2004 CD reissue of this album (as a two-fer with Son of Spirit) contains the original mixes.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4c5704cc-540a-3283-b2e3-8f94f2d1b723",
+   "titulo": "Future Games",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/4d70bf8d-8323-4984-a13a-268a725218d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "CB Talk",
+     "duracao": "0:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Stars of Love",
+     "duracao": "2:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Kahauna Dream",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Buried in My Brain",
+     "duracao": "2:54"
+    },
+    {
+     "n": 5,
+     "titulo": "Bionic Unit",
+     "duracao": "3:08"
+    },
+    {
+     "n": 6,
+     "titulo": "So Happy Now",
+     "duracao": "0:17"
+    },
+    {
+     "n": 7,
+     "titulo": "All Along the Watchtower",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "Would You Believe",
+     "duracao": "3:06"
+    },
+    {
+     "n": 9,
+     "titulo": "Jack Bond Speaks",
+     "duracao": "1:46"
+    },
+    {
+     "n": 10,
+     "titulo": "Star Trek Dreaming",
+     "duracao": "2:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Interlude XM",
+     "duracao": "0:29"
+    },
+    {
+     "n": 12,
+     "titulo": "China Doll",
+     "duracao": "1:57"
+    },
+    {
+     "n": 13,
+     "titulo": "Hawaiian Times",
+     "duracao": "0:13"
+    },
+    {
+     "n": 14,
+     "titulo": "Gorn Attack",
+     "duracao": "2:09"
+    },
+    {
+     "n": 15,
+     "titulo": "Interlude 2001",
+     "duracao": "0:25"
+    },
+    {
+     "n": 16,
+     "titulo": "Detroit City",
+     "duracao": "3:55"
+    },
+    {
+     "n": 17,
+     "titulo": "Freakout Frog",
+     "duracao": "2:03"
+    },
+    {
+     "n": 18,
+     "titulo": "The Romulan Experience",
+     "duracao": "0:55"
+    },
+    {
+     "n": 19,
+     "titulo": "Monkey See Monkey Do",
+     "duracao": "1:36"
+    },
+    {
+     "n": 20,
+     "titulo": "Mt. Olympus",
+     "duracao": "0:28"
+    },
+    {
+     "n": 21,
+     "titulo": "The Journey of Nomad",
+     "duracao": "2:27"
+    },
+    {
+     "n": 22,
+     "titulo": "Ending",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 4.0,
+    "media": 4.0,
+    "fontes": 4
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Future_Games_%28Spirit_album%29",
+   "resumo_en": "Future Games (subtitled A Magical-Kahauna Dream) is the ninth studio album by American rock band Spirit. Released in April 1977, it was their final album for Mercury Records and the last of their four \"comeback\" releases of the mid-1970s. It is essentially a solo project for frontman Randy California, who recorded it with drummer Ed Cassidy, though he later expressed dissatisfaction with the recording.\nAn album of psychedelic, rock and pop music, Future Games features 22 short tracks and is characterised by its textural guitar work, disorientating sound, fizzy production, concise melodies, use of sound collage and dialogue samples from American television, film and radio – in particular, the science fiction series Star Trek and the episode \"Turnabout Intruder\". The record reflects California's interests in science fiction, Hawaii and The Urantia Book; among its songs are two collaborations with Kim Fowley and a cover of Bob Dylan's \"All Along the Watchtower\", which was released as a single.\nHoused in a sleeve depicting a half-naked California pulling a macho guitar pose, the album was the follow-up to the commercially unsuccessful Farther Along (1976). Future Games was similarly un",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fa6354df-ae30-42ce-9493-e2414207e42d",
+   "titulo": "Put Your Hands Together",
+   "data": "1979",
+   "ano": "1979",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Spirit",
+     "duracao": "12:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Only God Knows",
+     "duracao": "5:11"
+    },
+    {
+     "n": 3,
+     "titulo": "I Want to Go",
+     "duracao": "5:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Put Your Hands Together",
+     "duracao": "5:53"
+    },
+    {
+     "n": 5,
+     "titulo": "Help Your Fellow Man",
+     "duracao": "7:26"
+    },
+    {
+     "n": 6,
+     "titulo": "It’s You That I Need",
+     "duracao": "7:53"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "04deb8e8-aa6f-36b3-b11e-58a458da4f29",
+   "titulo": "The Adventures of Kaptain Kopter & Commander Cassidy in Potatoland",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/596d60d2-5ac7-4141-91cc-4cb9fd666817/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "We’ve Got a Lot to Learn",
+     "duracao": "2:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Potatoland Theme",
+     "duracao": "5:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Open Up Your Heart",
+     "duracao": "4:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Morning Light",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Potatoland Prelude",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Potatoland Introduction",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Turn to Your Right",
+     "duracao": "5:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Donut House",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Fish Fry Road",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Information",
+     "duracao": "2:54"
+    },
+    {
+     "n": 11,
+     "titulo": "My Friend",
+     "duracao": "2:14"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6b01568b-16d2-4c69-b228-25b3a5928515",
+   "titulo": "The Thirteenth Dream",
+   "data": "1984-06",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/c779dac6-9a55-4742-b5ac-c268a1274ee5/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Black Satin Nights",
+     "duracao": "3:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Mr. Skin",
+     "duracao": "3:39"
+    },
+    {
+     "n": 3,
+     "titulo": "Mechanical World",
+     "duracao": "5:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Pick It Up",
+     "duracao": "3:00"
+    },
+    {
+     "n": 5,
+     "titulo": "All Over the World",
+     "duracao": "3:57"
+    },
+    {
+     "n": 6,
+     "titulo": "1984",
+     "duracao": "3:59"
+    },
+    {
+     "n": 7,
+     "titulo": "Uncle Jack",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Nature’s Way",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Fresh Garbage",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "I Got a Line on You",
+     "duracao": "7:34"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Thirteenth_Dream",
+   "resumo_en": "The Thirteenth Dream was the second (and final) \"reunion\" album from Spirit, and their eleventh album overall. It features re-recordings of seven of their best-loved tracks, along with three new songs. The most noteworthy things that can be said about the album are in regard to the excellent fidelity of the album, as it was originally recorded by an audiophile label and is an early digital recording (dating from December 1982), and that it was the first Spirit album to be released on CD, as it appeared in that format from Mercury Records in West Germany in 1984 (consequently, it is also one of the best sounding early CD releases from a rock band, probably due to the recording technology that was implemented).\nAs previously mentioned, this album was originally released on CD in 1984. However, the original CD is incredibly rare. It was later reissued in 2004 by Beat Goes On in a two-fer with Future Games.\nA version of \"Elijah\" (originally released on Spirit) was recorded during these sessions and issued as the B-side of a maxi single. It has not appeared on any of the CD releases, nor on the LP.\nThe album was issued as Spirit of '84 by Mercury in the United States, with a different c",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d3fb189e-794e-32f4-870f-c62e7aec3445",
+   "titulo": "Rapture in the Chambers",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/8ecc2e3d-e2c3-46f2-a63c-e0c76c0829ab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Hard Love",
+     "duracao": "3:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Love Tonight",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Thinking of",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Rapture in the Chambers",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Mojo Man",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Contact",
+     "duracao": "2:48"
+    },
+    {
+     "n": 7,
+     "titulo": "The Prisoner",
+     "duracao": "4:19"
+    },
+    {
+     "n": 8,
+     "titulo": "One Track Mind",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Enchanted Forest",
+     "duracao": "3:29"
+    },
+    {
+     "n": 10,
+     "titulo": "Human Sexuality",
+     "duracao": "3:02"
+    },
+    {
+     "n": 11,
+     "titulo": "Shera Princess of Power",
+     "duracao": "3:35"
+    },
+    {
+     "n": 12,
+     "titulo": "End Suite",
+     "duracao": "2:34"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rapture_in_the_Chambers",
+   "resumo_en": "Rapture in the Chambers is the 12th album by Spirit. It was their first \"proper\" album since their 1984 album Spirit of 84, which had featured the entire original line-up. Their albums since that time had mostly consisted of archival releases. It was also their final album for an established label, I.R.S. Records.\nThe primary line-up for this album was Randy California, Ed Cassidy, and John Locke. Mark Andes also appeared on two tracks, and Randy's sister Janet provided harmony vocals on Hard Love and She-Ra: Princess of Power.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "109f8968-3e34-41df-ab20-69f3451bd516",
+   "titulo": "Tent of Miracles",
+   "data": "1990",
+   "ano": "1990",
+   "capa": "https://coverartarchive.org/release/6c6ac1b0-e228-440c-b1ee-24e2cb907f05/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Borderline",
+     "duracao": "1:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Zandu",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Love From Here",
+     "duracao": "3:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Ship of Fools",
+     "duracao": "4:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Burning Love",
+     "duracao": "3:06"
+    },
+    {
+     "n": 6,
+     "titulo": "Tent of Miracles",
+     "duracao": "5:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Logical Answers",
+     "duracao": "2:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Old Black Magic",
+     "duracao": "3:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Neglected Emotion",
+     "duracao": "2:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Imaginary Mask",
+     "duracao": "2:25"
+    },
+    {
+     "n": 11,
+     "titulo": "Stuttgart Says Good-Bye",
+     "duracao": "6:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Deep in This Land",
+     "duracao": "3:55"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tent_of_Miracles_%28album%29",
+   "resumo_en": "Tent of Miracles is the thirteenth studio album by the band Spirit released through Line Records in 1990. It features original Spirit members Randy California, Ed Cassidy and newcomer Mike Nile.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1a86ece8-1d1d-31f1-843f-396283d5617c",
+   "titulo": "California Blues",
+   "data": "1996-12-03",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/b5a05298-724b-4ef6-9cfc-cfff53342fe9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "California Blues",
+     "duracao": "4:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Look Over Yonder",
+     "duracao": "2:38"
+    },
+    {
+     "n": 3,
+     "titulo": "The River",
+     "duracao": "4:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Call on Me",
+     "duracao": "3:04"
+    },
+    {
+     "n": 5,
+     "titulo": "Crossroads",
+     "duracao": "5:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Song for Clyde",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Pawn Shop Blues",
+     "duracao": "2:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Sugar Mama",
+     "duracao": "3:22"
+    },
+    {
+     "n": 9,
+     "titulo": "Red House",
+     "duracao": "5:37"
+    },
+    {
+     "n": 10,
+     "titulo": "Gimme Some Lovin'",
+     "duracao": "3:41"
+    },
+    {
+     "n": 11,
+     "titulo": "We Believe",
+     "duracao": "3:21"
+    },
+    {
+     "n": 12,
+     "titulo": "One World / Like a Dog / Poem for John Lennon / Shoes Back On / Tell Everyone",
+     "duracao": "22:45"
+    }
+   ],
+   "duracao_min": 68,
+   "critica": {
+    "allmusic": 7.0,
+    "media": 7.0,
+    "fontes": 1
+   },
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/California_Blues",
+   "resumo_en": "California Blues is the 14th and final studio album of the band Spirit, due to the death of guitarist/singer/songwriter Randy California one month after its release.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8b7605d6-0461-4d05-bce8-febc5f53616d",
+   "titulo": "Sea Dream",
+   "data": "2002-09-03",
+   "ano": "2002",
+   "capa": "https://coverartarchive.org/release/6f353007-5508-422e-a2c7-0a4e680e5e44/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cages",
+     "duracao": "4:55"
+    },
+    {
+     "n": 2,
+     "titulo": "Just for You",
+     "duracao": "3:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Line by Line (Water in the Eyes)",
+     "duracao": "2:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Jack Rabbit",
+     "duracao": "3:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Jailhouse",
+     "duracao": "4:08"
+    },
+    {
+     "n": 6,
+     "titulo": "Father and Son",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Ego Spray",
+     "duracao": "2:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Suntronics",
+     "duracao": "2:35"
+    },
+    {
+     "n": 9,
+     "titulo": "Center for Truth",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Shock of Confusion",
+     "duracao": "9:16"
+    },
+    {
+     "n": 11,
+     "titulo": "Dirty",
+     "duracao": "3:46"
+    },
+    {
+     "n": 12,
+     "titulo": "Fallen Hero (Ode to JFK)",
+     "duracao": "3:07"
+    },
+    {
+     "n": 13,
+     "titulo": "2000 Miles",
+     "duracao": "5:51"
+    },
+    {
+     "n": 14,
+     "titulo": "Farther Along",
+     "duracao": "7:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Hare Sai",
+     "duracao": "4:48"
+    },
+    {
+     "n": 16,
+     "titulo": "Hello Goodbye",
+     "duracao": "2:42"
+    },
+    {
+     "n": 17,
+     "titulo": "His Love",
+     "duracao": "4:25"
+    },
+    {
+     "n": 18,
+     "titulo": "Sea Dream Suite, Pt. 1: Whale",
+     "duracao": "4:27"
+    },
+    {
+     "n": 19,
+     "titulo": "Sea Dream Suite, Pt. 2: Heaven",
+     "duracao": "1:14"
+    },
+    {
+     "n": 20,
+     "titulo": "Sea Dream Suite, Pt. 3: Sign",
+     "duracao": "4:14"
+    },
+    {
+     "n": 21,
+     "titulo": "Sea Dream Suite, Pt. 4: T4/Sai Baba",
+     "duracao": "3:15"
+    },
+    {
+     "n": 22,
+     "titulo": "Sea Dream Suite, Pt. 5: Daylight",
+     "duracao": "4:38"
+    },
+    {
+     "n": 23,
+     "titulo": "Sea Dream Suite, Pt. 6: Dolphin",
+     "duracao": "5:38"
+    },
+    {
+     "n": 24,
+     "titulo": "Sea Dream Suite, Pt. 7: Garden of Creation",
+     "duracao": "3:53"
+    },
+    {
+     "n": 25,
+     "titulo": "Sea Dream Suite, Pt. 8: Heaven",
+     "duracao": "2:11"
+    },
+    {
+     "n": 26,
+     "titulo": "Nature’s Way",
+     "duracao": "6:42"
+    },
+    {
+     "n": 27,
+     "titulo": "Bhagavaghita (Loving You Is Singing Your Song)",
+     "duracao": "2:19"
+    },
+    {
+     "n": 28,
+     "titulo": "Question One",
+     "duracao": "9:51"
+    }
+   ],
+   "duracao_min": 120,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b358586d-dd19-33b1-b3a9-7b4d91d30029",
+   "titulo": "Blues From the Soul",
+   "data": "2003-08-05",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/fcfe133e-1d29-4a18-b24e-4a3a14ab2770/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gonna Need Somebody on Your Bond",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Wagon of Wood",
+     "duracao": "3:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Tell Me (Didn't Mean No Harm to You)",
+     "duracao": "2:48"
+    },
+    {
+     "n": 4,
+     "titulo": "Key to the Highway",
+     "duracao": "2:31"
+    },
+    {
+     "n": 5,
+     "titulo": "When You're Smilin'",
+     "duracao": "1:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Pawnshop Blues",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Ever Since You Left Me",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Kansas City",
+     "duracao": "2:53"
+    },
+    {
+     "n": 9,
+     "titulo": "Fixing to Die (Shake My Ego Down)",
+     "duracao": "3:57"
+    },
+    {
+     "n": 10,
+     "titulo": "Pick a Bale of Cotton",
+     "duracao": "2:31"
+    },
+    {
+     "n": 11,
+     "titulo": "Run Sinner Run",
+     "duracao": "1:57"
+    },
+    {
+     "n": 12,
+     "titulo": "Cosmic Smile (Aka The Other Song)",
+     "duracao": "5:59"
+    },
+    {
+     "n": 13,
+     "titulo": "Charlie James / Miss This Train",
+     "duracao": "8:12"
+    },
+    {
+     "n": 14,
+     "titulo": "Jimi's Back",
+     "duracao": "3:00"
+    },
+    {
+     "n": 15,
+     "titulo": "Red House",
+     "duracao": "7:49"
+    },
+    {
+     "n": 16,
+     "titulo": "Kokomo",
+     "duracao": "3:55"
+    },
+    {
+     "n": 17,
+     "titulo": "Devine Love",
+     "duracao": "3:30"
+    },
+    {
+     "n": 18,
+     "titulo": "When the Saints Go Marchin' In",
+     "duracao": "2:38"
+    },
+    {
+     "n": 19,
+     "titulo": "Like a Dog",
+     "duracao": "1:58"
+    },
+    {
+     "n": 20,
+     "titulo": "Lord I'll Be With You Always",
+     "duracao": "2:31"
+    },
+    {
+     "n": 21,
+     "titulo": "I Had a Dream",
+     "duracao": "3:55"
+    },
+    {
+     "n": 22,
+     "titulo": "The Letter",
+     "duracao": "3:26"
+    },
+    {
+     "n": 23,
+     "titulo": "Ain't Superstitious",
+     "duracao": "2:55"
+    },
+    {
+     "n": 24,
+     "titulo": "Ever Since You Left Me (Maui Wowie)",
+     "duracao": "3:29"
+    },
+    {
+     "n": 25,
+     "titulo": "Poor Boy",
+     "duracao": "6:19"
+    },
+    {
+     "n": 26,
+     "titulo": "Cold Rainy Night",
+     "duracao": "3:12"
+    },
+    {
+     "n": 27,
+     "titulo": "California Blues",
+     "duracao": "4:54"
+    },
+    {
+     "n": 28,
+     "titulo": "Sugar Mama",
+     "duracao": "4:32"
+    },
+    {
+     "n": 29,
+     "titulo": "Charlie James",
+     "duracao": "2:14"
+    },
+    {
+     "n": 30,
+     "titulo": "Shattered Dreams",
+     "duracao": "5:17"
+    },
+    {
+     "n": 31,
+     "titulo": "Kokocass Jam",
+     "duracao": "2:17"
+    },
+    {
+     "n": 32,
+     "titulo": "Dreamy Eyes",
+     "duracao": "4:13"
+    },
+    {
+     "n": 33,
+     "titulo": "Miss This Train",
+     "duracao": "4:45"
+    },
+    {
+     "n": 34,
+     "titulo": "Down and Dirty Blues",
+     "duracao": "24:13"
+    },
+    {
+     "n": 35,
+     "titulo": "Last Night I Had the Strangest Dream",
+     "duracao": "1:53"
+    }
+   ],
+   "duracao_min": 150,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "601ee42d-e0c9-3798-bd0c-3389dbaa4509",
+   "titulo": "Model Shop",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/46c5f55b-b59e-4dff-9f09-39e9e97002cd/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Moving Van",
+     "duracao": "1:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Mellow Fellow",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Now or Anywhere",
+     "duracao": "4:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Fog",
+     "duracao": "2:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Green Gorilla",
+     "duracao": "2:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Model Shop I",
+     "duracao": "2:02"
+    },
+    {
+     "n": 7,
+     "titulo": "Model Shop II (Clear)",
+     "duracao": "4:10"
+    },
+    {
+     "n": 8,
+     "titulo": "The Rehearsal Theme",
+     "duracao": "1:11"
+    },
+    {
+     "n": 9,
+     "titulo": "Song for Lola",
+     "duracao": "5:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Eventide",
+     "duracao": "3:56"
+    },
+    {
+     "n": 11,
+     "titulo": "Coral",
+     "duracao": "4:22"
+    },
+    {
+     "n": 12,
+     "titulo": "Aren't You Glad",
+     "duracao": "5:25"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {
+    "allmusic": 5.0,
+    "media": 5.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Model_Shop_%28album%29",
+   "resumo_en": "Model Shop is a 2005 album by the Los Angeles group, Spirit, which collects the material they recorded in 1968, for the soundtrack to Jacques Demy's film Model Shop. Chronologically, the album's material falls in between their second and third albums, The Family That Plays Together (1968) and Clear (1969) respectively.\nFor his film, director Jacques Demy wanted a band that captured the vibe of Los Angeles as he saw it. After hearing Spirit perform in an L.A. club, he decided that they would be the perfect group for his film's soundtrack. However, the film itself was considered a failure and no soundtrack album was released at the time. Most of the material remained unreleased until 2005, following the discovery of a master tape of the original mono mixes.\nModel Shop differs from other Spirit albums of the era, in that most of the songs were written collaboratively. Also, with the exception of \"Now or Anywhere\" and \"Green Gorilla\", the pieces are exclusively instrumental and highlight the Jazz leanings of the band.\nThere are noticeable musical overlaps between the pieces on the soundtrack and Spirit's second and third albums. Work on Model Shop had begun in the middle of recording s",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "42651d8d-a0b0-4d30-a095-24ecffd86c06",
+   "titulo": "Son of America",
+   "data": "2005-10-25",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/1e1c781f-cadb-4ab1-850b-23074e5a5104/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Space Jam",
+     "duracao": "2:28"
+    },
+    {
+     "n": 2,
+     "titulo": "The Prophecy",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Interlude #1",
+     "duracao": "1:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Thomas Q and Jennifer",
+     "duracao": "4:15"
+    },
+    {
+     "n": 5,
+     "titulo": "Sai Jam #1",
+     "duracao": "2:12"
+    },
+    {
+     "n": 6,
+     "titulo": "20 Years",
+     "duracao": "3:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Gyrations of War",
+     "duracao": "1:29"
+    },
+    {
+     "n": 8,
+     "titulo": "Son of America",
+     "duracao": "4:19"
+    },
+    {
+     "n": 9,
+     "titulo": "In the Dark",
+     "duracao": "0:52"
+    },
+    {
+     "n": 10,
+     "titulo": "Storm in the Night",
+     "duracao": "2:47"
+    },
+    {
+     "n": 11,
+     "titulo": "Gopal",
+     "duracao": "3:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Sai Jam #2",
+     "duracao": "3:16"
+    },
+    {
+     "n": 13,
+     "titulo": "Shock Values",
+     "duracao": "4:33"
+    },
+    {
+     "n": 14,
+     "titulo": "The Times They Are a Changing",
+     "duracao": "4:28"
+    },
+    {
+     "n": 15,
+     "titulo": "Interlude #2",
+     "duracao": "1:21"
+    },
+    {
+     "n": 16,
+     "titulo": "Who Are You",
+     "duracao": "1:45"
+    },
+    {
+     "n": 17,
+     "titulo": "Breaking My Heart (Soul on Fire)",
+     "duracao": "3:06"
+    },
+    {
+     "n": 18,
+     "titulo": "Barking Up the Wrong Tree",
+     "duracao": "4:08"
+    },
+    {
+     "n": 19,
+     "titulo": "Back Home",
+     "duracao": "2:59"
+    },
+    {
+     "n": 20,
+     "titulo": "French Apartment",
+     "duracao": "1:33"
+    },
+    {
+     "n": 21,
+     "titulo": "City of Angels",
+     "duracao": "2:35"
+    },
+    {
+     "n": 22,
+     "titulo": "2007",
+     "duracao": "4:26"
+    },
+    {
+     "n": 23,
+     "titulo": "Sai Jam #3",
+     "duracao": "4:53"
+    },
+    {
+     "n": 24,
+     "titulo": "Let It Be",
+     "duracao": "3:58"
+    },
+    {
+     "n": 25,
+     "titulo": "Medley: Maybe You'll Find / When / Farther Along",
+     "duracao": "5:18"
+    },
+    {
+     "n": 26,
+     "titulo": "Intro",
+     "duracao": "0:44"
+    },
+    {
+     "n": 27,
+     "titulo": "One by One",
+     "duracao": "7:20"
+    },
+    {
+     "n": 28,
+     "titulo": "Love From the Heart",
+     "duracao": "3:43"
+    },
+    {
+     "n": 29,
+     "titulo": "Denise",
+     "duracao": "2:35"
+    },
+    {
+     "n": 30,
+     "titulo": "Loverman",
+     "duracao": "2:31"
+    },
+    {
+     "n": 31,
+     "titulo": "No Time to Pretend",
+     "duracao": "4:55"
+    },
+    {
+     "n": 32,
+     "titulo": "Fire",
+     "duracao": "3:07"
+    },
+    {
+     "n": 33,
+     "titulo": "Close to You",
+     "duracao": "4:03"
+    },
+    {
+     "n": 34,
+     "titulo": "The River",
+     "duracao": "4:44"
+    },
+    {
+     "n": 35,
+     "titulo": "Evil Is Evil Does",
+     "duracao": "3:38"
+    },
+    {
+     "n": 36,
+     "titulo": "Mean and Beautiful",
+     "duracao": "5:20"
+    },
+    {
+     "n": 37,
+     "titulo": "Compromise",
+     "duracao": "7:10"
+    },
+    {
+     "n": 38,
+     "titulo": "Mean Little Sister",
+     "duracao": "2:52"
+    },
+    {
+     "n": 39,
+     "titulo": "12,000 Miles",
+     "duracao": "3:39"
+    },
+    {
+     "n": 40,
+     "titulo": "Break My Back",
+     "duracao": "4:10"
+    },
+    {
+     "n": 41,
+     "titulo": "Land of Bismo",
+     "duracao": "3:50"
+    },
+    {
+     "n": 42,
+     "titulo": "Line by Line (Water in the Eyes)",
+     "duracao": "3:11"
+    },
+    {
+     "n": 43,
+     "titulo": "River of Love",
+     "duracao": "4:02"
+    },
+    {
+     "n": 44,
+     "titulo": "Living on Love",
+     "duracao": "7:47"
+    }
+   ],
+   "duracao_min": 159,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "30c6cbd9-a326-405d-8a3e-be0c1bb2054e",
+   "titulo": "The Original Potato Land",
+   "data": "2006-03",
+   "ano": "2006",
+   "capa": "https://coverartarchive.org/release/8439812e-8dad-4871-b80a-906cd1c036be/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Introduction",
+     "duracao": "0:43"
+    },
+    {
+     "n": 2,
+     "titulo": "1984",
+     "duracao": "3:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Exit 27 (dialogue)",
+     "duracao": "1:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Turn to the Right",
+     "duracao": "3:44"
+    },
+    {
+     "n": 5,
+     "titulo": "Everything Talks to Me (Donut House)",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Fish Fry Road",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Nature’s Theme",
+     "duracao": "0:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Information",
+     "duracao": "3:11"
+    },
+    {
+     "n": 9,
+     "titulo": "My Friend",
+     "duracao": "2:49"
+    },
+    {
+     "n": 10,
+     "titulo": "Walkin’ the Dog",
+     "duracao": "3:01"
+    },
+    {
+     "n": 11,
+     "titulo": "Giant Potatoes (dialogue)",
+     "duracao": "0:31"
+    },
+    {
+     "n": 12,
+     "titulo": "Lonely in Potatoland (Mashed Potatoes)",
+     "duracao": "3:04"
+    },
+    {
+     "n": 13,
+     "titulo": "Nature’s Way",
+     "duracao": "2:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Salvation: Matter of Time: Suite",
+     "duracao": "5:29"
+    },
+    {
+     "n": 15,
+     "titulo": "1984 (reprise)",
+     "duracao": "0:44"
+    },
+    {
+     "n": 16,
+     "titulo": "Oil Slick‐Million Years Suite",
+     "duracao": "4:32"
+    },
+    {
+     "n": 17,
+     "titulo": "Information (reprise)",
+     "duracao": "1:46"
+    },
+    {
+     "n": 18,
+     "titulo": "It’s Time Now",
+     "duracao": "4:53"
+    },
+    {
+     "n": 19,
+     "titulo": "You Know",
+     "duracao": "1:29"
+    },
+    {
+     "n": 20,
+     "titulo": "Donut House (alternate version)",
+     "duracao": "3:40"
+    },
+    {
+     "n": 21,
+     "titulo": "Ain’t That Too Bad",
+     "duracao": "3:17"
+    },
+    {
+     "n": 22,
+     "titulo": "Devil (live 9/13/72)",
+     "duracao": "4:48"
+    },
+    {
+     "n": 23,
+     "titulo": "Shotgun (live 9/13/72)",
+     "duracao": "4:35"
+    },
+    {
+     "n": 24,
+     "titulo": "Get Out My Life Woman (live 9/6/72)",
+     "duracao": "5:54"
+    },
+    {
+     "n": 25,
+     "titulo": "Miss This Train (live 9/6/72)",
+     "duracao": "3:12"
+    },
+    {
+     "n": 26,
+     "titulo": "Interview Clip With Randy California, Ed Cassidy and Bob Harris, April 1973",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 79,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "7446d8fc-115f-4087-8b03-3a39b0cd3d9f",
+   "titulo": "California Blues Redux",
+   "data": "2009",
+   "ano": "2009",
+   "capa": "https://coverartarchive.org/release/6e46e5e8-a2a2-44ac-bc0a-09d57053e689/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "California Blues",
+     "duracao": "5:47"
+    },
+    {
+     "n": 2,
+     "titulo": "Look Over Yonder",
+     "duracao": "2:35"
+    },
+    {
+     "n": 3,
+     "titulo": "The River",
+     "duracao": "5:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Call on Me",
+     "duracao": "3:14"
+    },
+    {
+     "n": 5,
+     "titulo": "Crossroads",
+     "duracao": "5:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Song for Clyde",
+     "duracao": "5:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Barking Up the Wrong Tree",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Pawnshop Blues",
+     "duracao": "2:44"
+    },
+    {
+     "n": 9,
+     "titulo": "Sugar Mama",
+     "duracao": "6:21"
+    },
+    {
+     "n": 10,
+     "titulo": "Stone Lover",
+     "duracao": "6:21"
+    },
+    {
+     "n": 11,
+     "titulo": "Gimme Some Lovin",
+     "duracao": "3:19"
+    },
+    {
+     "n": 12,
+     "titulo": "We Believe",
+     "duracao": "3:42"
+    },
+    {
+     "n": 13,
+     "titulo": "One World",
+     "duracao": "4:02"
+    },
+    {
+     "n": 14,
+     "titulo": "Fixin to Die",
+     "duracao": "2:26"
+    },
+    {
+     "n": 15,
+     "titulo": "Indian Girl Blues",
+     "duracao": "5:51"
+    },
+    {
+     "n": 16,
+     "titulo": "Oriental Gun",
+     "duracao": "2:53"
+    },
+    {
+     "n": 17,
+     "titulo": "Soup Jam",
+     "duracao": "3:41"
+    },
+    {
+     "n": 18,
+     "titulo": "David",
+     "duracao": "1:51"
+    },
+    {
+     "n": 19,
+     "titulo": "Kind and Gentle Life",
+     "duracao": "2:54"
+    },
+    {
+     "n": 20,
+     "titulo": "Unknown",
+     "duracao": "0:37"
+    },
+    {
+     "n": 21,
+     "titulo": "Love From Here",
+     "duracao": "18:30"
+    },
+    {
+     "n": 22,
+     "titulo": "Pawn Shop Blues",
+     "duracao": "9:04"
+    },
+    {
+     "n": 23,
+     "titulo": "One World",
+     "duracao": "3:42"
+    },
+    {
+     "n": 24,
+     "titulo": "Red House",
+     "duracao": "7:41"
+    },
+    {
+     "n": 25,
+     "titulo": "Song for Clyde",
+     "duracao": "17:38"
+    },
+    {
+     "n": 26,
+     "titulo": "Stewball",
+     "duracao": "3:38"
+    },
+    {
+     "n": 27,
+     "titulo": "Fixing to Die / Gopal / Phoenix, Land of the Rising Sun",
+     "duracao": "16:26"
+    },
+    {
+     "n": 28,
+     "titulo": "We Believe",
+     "duracao": "2:59"
+    }
+   ],
+   "duracao_min": 159,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

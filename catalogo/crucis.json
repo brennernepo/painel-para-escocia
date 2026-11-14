@@ -1,0 +1,114 @@
+{
+ "id": "crucis",
+ "nome": "Crucis",
+ "cena": "Descobertas do acervo",
+ "mbid": "91c23749-42ba-4f5b-a820-9b8b0cd199fe",
+ "wikidata": "Q3698751",
+ "tipo": "Group",
+ "pais": "AR",
+ "inicio": "1974",
+ "fim": "1977",
+ "ativa": false,
+ "generos": [
+  "symphonic prog",
+  "progressive rock",
+  "classic rock",
+  "latin rock",
+  "progressive"
+ ],
+ "foto": null,
+ "wikipedia": "https://en.wikipedia.org/wiki/Crucis_%28band%29",
+ "resumo_pt": "",
+ "resumo_en": "Crucis was an Argentine band considered one of the pioneers of the Argentine progressive rock.",
+ "albuns": [
+  {
+   "id": "44cc6c1d-be52-30dd-914f-0b14c1cdcb54",
+   "titulo": "Los delirios del mariscal",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/f09acc52-d28c-486e-940b-f95c35810740/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No me separen de mí",
+     "duracao": "6:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Los delirios del mariscal",
+     "duracao": "10:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Pollo frito",
+     "duracao": "5:45"
+    },
+    {
+     "n": 4,
+     "titulo": "Abismo terrenal",
+     "duracao": "12:30"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "a98188cf-3e5d-3ec1-872c-8143d2c0b5cf",
+   "titulo": "Crucis",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/639ec4ce-fde9-453a-b95d-4054f472012e/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Todo tiempo posible",
+     "duracao": "4:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Mes",
+     "duracao": "4:58"
+    },
+    {
+     "n": 3,
+     "titulo": "Corto amanecer",
+     "duracao": "2:59"
+    },
+    {
+     "n": 4,
+     "titulo": "La triste visión del entierro propio",
+     "duracao": "4:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Irónico ser",
+     "duracao": "4:11"
+    },
+    {
+     "n": 6,
+     "titulo": "Determinados espejos",
+     "duracao": "6:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Recluso artista",
+     "duracao": "6:46"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

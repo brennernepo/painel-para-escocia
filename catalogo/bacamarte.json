@@ -1,0 +1,131 @@
+{
+ "id": "bacamarte",
+ "nome": "Bacamarte",
+ "cena": "Descobertas do acervo",
+ "mbid": "764e81d4-e1ce-4887-bb82-bd1bcd5582dc",
+ "wikidata": "Q1797777",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1974",
+ "fim": "1984",
+ "ativa": false,
+ "generos": [
+  "progressive rock",
+  "symphonic prog"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/Bacamarte_%28banda%29",
+ "resumo_pt": "O Bacamarte é uma banda de rock progressivo brasileira formada em 1974. A banda é conhecida por ter lançado a carreira solo de Jane Duboc.\nSeu primeiro álbum, Depois do Fim, é considerado como um dos melhores do rock progressivo de todos os tempos, tendo o sítio Progarchives listado-o como um dos 100 melhores álbuns do gênero. A lista ainda conta com as mais expressivas criações das principais bandas do gênero, como Pink Floyd, Jethro Tull, Yes, Genesis, King Crimson, Gentle Giant e Rush.\nEm 2019, foi indicada pelo portal russo Ultimate Guitar como a 16ª melhor banda de rock do Brasil.",
+ "resumo_en": "Bacamarte is a Brazilian symphonic/progressive rock band originally formed in 1974 by three school friends, although, because of their ages, they soon disbanded. In 1977 Neto reformed Bacamarte with a new set of musicians and it was this line-up that in 1978 recorded Bacamarte's opus Depois do Fim. Neto was wary of the then popular disco scene and decided that he would withhold the tape and release it at a more suitable time. After being persuaded by a friend in 1982 he submitted the tape to a local radio station; the album itself was then released in early 1983. A second album was released in 1999 from material recorded in the 1980s; this album, Sete Cidades (Seven Cities) is largely considered a Mario Neto solo work and features only Neto and keyboardist Robério Molinari.\nHowever, the original line up decided to join again for a series of shows, and are working together from time to time using the moniker Bacamarte.",
+ "albuns": [
+  {
+   "id": "3724d715-57e3-3909-9123-729138e89b29",
+   "titulo": "Depois do fim",
+   "data": "1983-01-20",
+   "ano": "1983",
+   "capa": "https://coverartarchive.org/release/654b3d7a-502a-4623-b590-c0f64c0c1c04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "UFO",
+     "duracao": "6:27"
+    },
+    {
+     "n": 2,
+     "titulo": "Smog alado",
+     "duracao": "4:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Miragem",
+     "duracao": "4:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Pássaro de luz",
+     "duracao": "2:31"
+    },
+    {
+     "n": 5,
+     "titulo": "Caño",
+     "duracao": "1:57"
+    },
+    {
+     "n": 6,
+     "titulo": "Último entardecer",
+     "duracao": "9:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Controvérsia",
+     "duracao": "1:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Depois do fim",
+     "duracao": "6:30"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6da11499-db74-3461-86b6-f9baf2312dcd",
+   "titulo": "Sete cidades",
+   "data": "1999-11-25",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/d98eccfe-38a6-4d85-a6a9-31f948b72041/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Portais",
+     "duracao": "6:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Ritual da fertilidade",
+     "duracao": "2:21"
+    },
+    {
+     "n": 3,
+     "titulo": "Filhos do sol",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Espíritos da terra",
+     "duracao": "6:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Mirante das estrelas",
+     "duracao": "7:22"
+    },
+    {
+     "n": 6,
+     "titulo": "Carta",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Canto da Esfinge",
+     "duracao": "11:27"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

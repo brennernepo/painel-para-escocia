@@ -1,0 +1,78 @@
+{
+ "id": "ave-de-veludo",
+ "nome": "Ave de Veludo",
+ "cena": "Descobertas do acervo",
+ "mbid": "8d6d85b4-130b-495f-9fc8-66535e170df2",
+ "wikidata": null,
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": null,
+ "fim": null,
+ "ativa": false,
+ "generos": [
+  "blues rock"
+ ],
+ "foto": null,
+ "wikipedia": null,
+ "resumo_pt": "",
+ "resumo_en": "",
+ "albuns": [
+  {
+   "id": "7d3f6e69-1833-4fcd-8724-53125a6a196b",
+   "titulo": "Elétrico blues",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/66314737-11d0-4304-a6ed-b3083fa0f112/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blues meu amigo",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Olhos acesos",
+     "duracao": "3:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Lamento blues",
+     "duracao": "6:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Que choque que eu levei",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Campos de aço",
+     "duracao": "4:18"
+    },
+    {
+     "n": 6,
+     "titulo": "Desabafo blues",
+     "duracao": "5:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Seus sonhos meus pesadelos",
+     "duracao": "6:01"
+    },
+    {
+     "n": 8,
+     "titulo": "Lendas das aves",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,582 @@
+{
+ "id": "billy-bond",
+ "nome": "Billy Bond",
+ "cena": "Descobertas do acervo",
+ "mbid": "b75b31d8-9783-4adf-a03f-013120d0e47d",
+ "wikidata": "Q5728686",
+ "tipo": "Person",
+ "pais": "AR",
+ "inicio": "1944",
+ "fim": null,
+ "ativa": true,
+ "generos": [],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/5/57/Billy_Bond_1971.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Billy_Bond",
+ "resumo_pt": "Billy Bond (nascido Guiliano Canterini; La Spezia, 19 de novembro de 1944) é um músico, cantor e produtor teatral ítalo-argentino. Ele foi um dos pioneiros do rock argentino e vocalista do grupo La Pesada del Rock and Roll. Após a última ditadura militar da Argentina, ele foi para o exílio no Brasil, onde vive e trabalha desde então. Tornou-se um bem-sucedido produtor de musicais de teatro encenados no Brasil.",
+ "resumo_en": "",
+ "albuns": [
+  {
+   "id": "3ee5fa72-5546-41f1-a1a5-b26be4aebbc1",
+   "titulo": "Yo, Billy Bond",
+   "data": "1968",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/a143a0e6-fc39-41fc-8886-e697a93aa69c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lola",
+     "duracao": "2:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Dandy",
+     "duracao": "2:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Ajustado (Todo está bién) (Up Tight)",
+     "duracao": "2:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Abre soy yo",
+     "duracao": "2:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Alegría, alegría",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "La bomba está por explotar en la plaza en cuanto la banda pase (A bomba está para explodir na praça en quanto a banda passa)",
+     "duracao": "2:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Lenita",
+     "duracao": "2:40"
+    },
+    {
+     "n": 8,
+     "titulo": "Quién eres tú",
+     "duracao": "3:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Lo siento, lo siento",
+     "duracao": "2:25"
+    },
+    {
+     "n": 10,
+     "titulo": "Mi limón, mi limonero (Meu lemom, meu limoneiro) / Cabeza hinchada / Tomé un barco en el norte (Peguei um “Ita” no norte)",
+     "duracao": "2:30"
+    },
+    {
+     "n": 11,
+     "titulo": "Un viejo director de orquesta",
+     "duracao": "2:30"
+    },
+    {
+     "n": 12,
+     "titulo": "A mi nena no le gustan mis modales",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "41b3f4d7-c267-4e6f-a4a1-713b9a13288c",
+   "titulo": "Las dos caras de Billy Bond",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/ec7c9f82-f805-44ad-86fe-64e72571bdfb/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Mal (Hush)",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Ojos obscuros",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Al diablo los consejos de ustedes (Para o diabo os concelhos de voces)",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Quiero decírselo cantando (Quero lhe dizer cantando)",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "El niño, la noche y yo",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Cuando (Quando)",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Yo te amo, te amo, te amo (Eu te amo, te amo, te amo)",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Trotamundo (Giramondo)",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Vestía de azul (Vesti azul)",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Botella de vino (Bottle of Wine)",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "La la la",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "La gran rabona",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f85c03de-8224-49b1-af99-4400652e4521",
+   "titulo": "Billy Bond y La Pesada del Rock and Roll",
+   "data": "1971-07-26",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/2e7caa17-3f52-4321-bea9-3625d77c6f54/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Salgan al sol",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Divertido (Reventado)",
+     "duracao": "2:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Verdes prados",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Buen día Señor Presidente",
+     "duracao": "4:35"
+    },
+    {
+     "n": 5,
+     "titulo": "El parque",
+     "duracao": "4:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Cada día somos más",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Dueño de tu piel",
+     "duracao": "2:25"
+    },
+    {
+     "n": 8,
+     "titulo": "Voy creciendo",
+     "duracao": "8:20"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 7.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3dc8a6b6-0d81-4949-990e-31245768a74b",
+   "titulo": "Vol. 2",
+   "data": "1972-07-24",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/835ee09a-cc02-43a9-9360-46450533a162/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "La pálida ciudad",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "La maldita máquina",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Blues para mis amigos",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Que descanses mi amor",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Para qué nos sirven",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Voy a ver a un amigo",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "La marcha de San Lorenzo",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4ee29fd2-51d8-4d2c-b9fe-d252d552c34f",
+   "titulo": "Vol. 3: Tontos (Operita)",
+   "data": "1972-11-20",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/2116e300-1408-4e8a-b6c1-a90a5814ce71/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Acústico",
+     "duracao": "8:54"
+    },
+    {
+     "n": 2,
+     "titulo": "Acústico dos",
+     "duracao": "10:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Acústico y electrónico",
+     "duracao": "8:47"
+    },
+    {
+     "n": 4,
+     "titulo": "Acústico y electrónico dos",
+     "duracao": "13:30"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "3f188557-25c1-4911-b1ed-9a4a8c149186",
+   "titulo": "Vol. 4",
+   "data": "1973-12-03",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/ccccf8dc-3fd7-4e60-851a-70082b0854cf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "No nos paran más",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Hacia algún lugar",
+     "duracao": "7:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Pinchevsky rock",
+     "duracao": "5:07"
+    },
+    {
+     "n": 4,
+     "titulo": "Gracias al cielo",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Estamos hartos",
+     "duracao": "4:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Que sepa volar",
+     "duracao": "3:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Perfidia",
+     "duracao": "1:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Año 1939",
+     "duracao": "6:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Concientemente todo, todo lo podrás lograr",
+     "duracao": "3:05"
+    },
+    {
+     "n": 10,
+     "titulo": "Algo está por suceder",
+     "duracao": "2:25"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c17bb1e5-c369-4f4b-a0d8-3dd2ad9a30c9",
+   "titulo": "O herói",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/c7d11a00-2724-499c-922a-0bdd532a0310/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O porco de ouro",
+     "duracao": "6:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Superaohomem, 2ª parte",
+     "duracao": "4:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Amigo da sua família",
+     "duracao": "2:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Yanka",
+     "duracao": "3:17"
+    },
+    {
+     "n": 5,
+     "titulo": "Tudo o que eu quero é um fixo",
+     "duracao": "2:47"
+    },
+    {
+     "n": 6,
+     "titulo": "Quatro dias de folias",
+     "duracao": "3:20"
+    },
+    {
+     "n": 7,
+     "titulo": "Mick Jagger",
+     "duracao": "3:34"
+    },
+    {
+     "n": 8,
+     "titulo": "O herói",
+     "duracao": "3:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Pensando nos teus ossos",
+     "duracao": "3:42"
+    },
+    {
+     "n": 10,
+     "titulo": "A mágica de Oz",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1e82a982-5f94-4fd5-af92-2b3e242fba7f",
+   "titulo": "Ligue a TV",
+   "data": "1982",
+   "ano": "1982",
+   "capa": "https://coverartarchive.org/release/f274cf1c-ca75-4605-a099-0935854b6129/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ella levantó (Ela levantou)",
+     "duracao": "2:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Hey doctor (Ei doutor!)",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Dinero barato (Dinheiro barato)",
+     "duracao": "3:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Burra y boba (Burra e boba)",
+     "duracao": "4:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Fandango",
+     "duracao": "2:02"
+    },
+    {
+     "n": 6,
+     "titulo": "Bailecito mardito",
+     "duracao": "3:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Enciende la TV (Ligue a TV)",
+     "duracao": "5:50"
+    },
+    {
+     "n": 8,
+     "titulo": "El mismo lugar (Mesmo lugar)",
+     "duracao": "2:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Quizás… Quizás",
+     "duracao": "1:36"
+    },
+    {
+     "n": 10,
+     "titulo": "Salgan al sol",
+     "duracao": "5:51"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0ab554d8-296c-40be-aaab-65dbf2b3fee7",
+   "titulo": "Yo me amo",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/49ac2ec8-554b-4613-a417-9e71504295d0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Yo me amo",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Nosotros somos inútiles",
+     "duracao": "3:34"
+    },
+    {
+     "n": 3,
+     "titulo": "Sexo",
+     "duracao": "2:57"
+    },
+    {
+     "n": 4,
+     "titulo": "Desnudo",
+     "duracao": "3:26"
+    },
+    {
+     "n": 5,
+     "titulo": "Me vuelvo loco",
+     "duracao": "3:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Me gustan las mujeres",
+     "duracao": "4:06"
+    },
+    {
+     "n": 7,
+     "titulo": "Salgan al sol",
+     "duracao": "3:11"
+    },
+    {
+     "n": 8,
+     "titulo": "Rossini",
+     "duracao": "4:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Nos tiraremos tú y yo",
+     "duracao": "5:32"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,579 @@
+{
+ "id": "mick-ronson",
+ "nome": "Mick Ronson",
+ "cena": "Descobertas do acervo",
+ "mbid": "5a150caa-fe13-4590-a50e-7778ee29b587",
+ "wikidata": "Q361677",
+ "tipo": "Person",
+ "pais": "GB",
+ "inicio": "1946",
+ "fim": "1993",
+ "ativa": false,
+ "generos": [
+  "rock"
+ ],
+ "foto": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mick_Ronson_%26_Howard_Helm.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Mick_Ronson",
+ "resumo_pt": "Michael \"Mick\" Ronson (Kingston upon Hull, 26 de maio de 1946 - Londres, 29 de abril de 1993) foi um guitarrista, compositor, arranjador e produtor musical inglês. É conhecido por seu trabalho com David Bowie, como um dos Spiders from Mars. Ronson era um músico de estúdio muito requisitado, que gravou com artistas tão variados quanto o próprio Bowie e Morrissey, bem como participou em turnês com as bandas de músicos como Van Morrison.\nTambém gravou diversos álbuns solo, dos quais o mais célebre foi Slaughter on 10th Avenue, que chegou à nona posição na parada de sucessos UK Albums Chart. Ronson tocou com diversas outras bandas após seu período ao lado de Bowie, e foi considerado o 41º melhor guitarrista de todos os tempos pela revista norte-americana Rolling Stone.",
+ "resumo_en": "Michael Ronson (26 May 1946 – 29 April 1993) was an English musician, songwriter, arranger, and producer. He achieved critical and commercial success working with David Bowie as the guitarist of the Spiders from Mars. He was a session musician who recorded five studio albums with Bowie followed by four with Ian Hunter, and also played in touring bands with Van Morrison and Bob Dylan. A classically trained musician, Ronson was known for his melodic approach to guitar playing.\nRonson and Bowie produced Lou Reed's Transformer with Ronson playing guitar and piano and writing string arrangements, which brought him mainstream recognition. The album is considered an influential landmark of the glam rock genre, anchored by Reed's most successful single, \"Walk on the Wild Side\". In 2008, John Cougar Mellencamp credited Ronson for helping to arrange his most successful hit single, \"Jack & Diane\".\nRonson recorded three solo studio albums, the most popular being Slaughter on 10th Avenue, which reached No. 9 on the UK Albums Chart. He played with various bands after his time with Bowie. He was named the 64th-greatest guitarist of all time by Rolling Stone in 2003 and 41st in 2012 by the same magazine.",
+ "albuns": [
+  {
+   "id": "360736bf-87e1-3ff2-9d1e-8cd68f953fd3",
+   "titulo": "Slaughter on 10th Avenue",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/f5bea5b7-25f1-4511-a594-3f4312e5f248/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Love Me Tender",
+     "duracao": "4:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Growing Up and I’m Fine",
+     "duracao": "3:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Only After Dark",
+     "duracao": "3:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Music Is Lethal",
+     "duracao": "5:10"
+    },
+    {
+     "n": 5,
+     "titulo": "I’m the One",
+     "duracao": "5:03"
+    },
+    {
+     "n": 6,
+     "titulo": "Pleasure Man / Hey Ma Get Papa",
+     "duracao": "8:55"
+    },
+    {
+     "n": 7,
+     "titulo": "Slaughter on Tenth Avenue",
+     "duracao": "4:41"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 7.3,
+    "fontes": 3
+   },
+   "publico": 6,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Slaughter_on_10th_Avenue_%28Mick_Ronson_album%29",
+   "resumo_en": "Slaughter on 10th Avenue is the debut album by English guitarist Mick Ronson, then-guitarist of David Bowie's backing band the Spiders from Mars. It was released in February 1974 by RCA Records.\nFor inspiration, Ronson relied on Annette Peacock's 1972 album I'm the One; he used the title track and her arrangement of Elvis Presley's \"Love Me Tender\". Two songs were co-written by Ronson with Scott Richardson, who had been involved in the Ann Arbor music scene since the mid-'60s and came to prominence as lead singer of the SRC. Richardson was brought into the Bowie camp by Angie Bowie, who met him through Ron Asheton of the Stooges. During the recording of the album, Ronson considered putting together a new band with Richardson, Aynsley Dunbar, and Trevor Bolder, to be called the Fallen Angels, but plans fell through. \n\"Only After Dark\", one of the two tracks co-written by Ronson and Richardson, was later covered by the original lineup of the Human League in 1980. Their version was intended as the second single from their second album Travelogue, but their label Virgin Records shelved it in favour of a reissue of the track \"Empire State Human\" (from their first album) and the pressing",
+   "spotify": "1L2lo2rf5H3Y6FJkiNfHTU",
+   "youtube": null
+  },
+  {
+   "id": "19d8b898-0c03-3589-99e6-3d8e12ac210a",
+   "titulo": "Play Don’t Worry",
+   "data": "1975-01",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/e16ac1da-9d2c-4e13-b4e2-a902fddb81e1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Billy Porter",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Angel No. 9",
+     "duracao": "5:31"
+    },
+    {
+     "n": 3,
+     "titulo": "This Is for You",
+     "duracao": "4:30"
+    },
+    {
+     "n": 4,
+     "titulo": "White Light/White Heat",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Play Don’t Worry",
+     "duracao": "3:15"
+    },
+    {
+     "n": 6,
+     "titulo": "Hazy Days",
+     "duracao": "4:10"
+    },
+    {
+     "n": 7,
+     "titulo": "Girl Can’t Help It",
+     "duracao": "2:45"
+    },
+    {
+     "n": 8,
+     "titulo": "Empty Bed (Io Me Ne Andrei)",
+     "duracao": "5:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Woman",
+     "duracao": "3:25"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 2
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Play_Don%27t_Worry",
+   "resumo_en": "Play Don't Worry is the second album by English guitarist and singer Mick Ronson, recorded in 1974 and released in January 1975 after his several projects in the early seventies together with David Bowie, Lou Reed and the band the Spiders from Mars. It contains mainly covers arranged by Ronson for his own sound, covering everyone from Pure Prairie League, The Velvet Underground and Little Richard. The backing track to \"White Light/White Heat\" was salvaged from Bowie's Pin Ups sessions. The title track was co-written by Bob Sargeant, later producer to The Beat amongst others, who released an album First Starring Role in April 1974 which included Ronson on recorder and producing four tracks.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "59ba9a8a-d95b-34f3-aed6-6eca749b9db0",
+   "titulo": "YUI Orta",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/07a15bc0-95c0-43d9-95f8-660d3479739f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "American Music",
+     "duracao": "4:17"
+    },
+    {
+     "n": 2,
+     "titulo": "The Loner",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Womens Intuition",
+     "duracao": "6:30"
+    },
+    {
+     "n": 4,
+     "titulo": "Cool",
+     "duracao": "4:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Big Time",
+     "duracao": "4:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Livin’ in a Heart",
+     "duracao": "4:30"
+    },
+    {
+     "n": 7,
+     "titulo": "Sons ’n’ Lovers",
+     "duracao": "5:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Beg a Little Love",
+     "duracao": "6:26"
+    },
+    {
+     "n": 9,
+     "titulo": "Tell It Like It Is",
+     "duracao": "4:22"
+    },
+    {
+     "n": 10,
+     "titulo": "Sweet Dreamer",
+     "duracao": "6:24"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ba298378-b443-4971-96c1-c4e2838bb1b5",
+   "titulo": "Casino Steel & The Bandits featuring Mick Ronson",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/0e20e2dd-4fbe-4817-b412-92bfb7d87a48/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "When You Walk in the Room",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Heroine",
+     "duracao": "4:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Brickfield Nights",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "The World Famous Sound of Courvoisier",
+     "duracao": "0:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Virginity",
+     "duracao": "2:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Hollywood Nights",
+     "duracao": "5:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Ride Me",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Crucified",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "St. Louis Blues",
+     "duracao": "2:27"
+    },
+    {
+     "n": 10,
+     "titulo": "Stormy Love Affair",
+     "duracao": "2:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Don’t Boogie‐Woogie",
+     "duracao": "3:36"
+    },
+    {
+     "n": 12,
+     "titulo": "Behind Bars",
+     "duracao": "2:53"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c78aa89d-8171-30dd-b5f5-dde1d0b5e070",
+   "titulo": "Heaven and Hull",
+   "data": "1994-05-19",
+   "ano": "1994",
+   "capa": "https://coverartarchive.org/release/3b41e828-840b-418d-bfc5-a570c459717b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Don’t Look Down",
+     "duracao": "5:51"
+    },
+    {
+     "n": 2,
+     "titulo": "Like a Rolling Stone",
+     "duracao": "4:20"
+    },
+    {
+     "n": 3,
+     "titulo": "When the World Falls Down",
+     "duracao": "4:22"
+    },
+    {
+     "n": 4,
+     "titulo": "Trouble With Me",
+     "duracao": "4:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Life’s a River",
+     "duracao": "5:20"
+    },
+    {
+     "n": 6,
+     "titulo": "You and Me",
+     "duracao": "3:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Colour Me",
+     "duracao": "4:57"
+    },
+    {
+     "n": 8,
+     "titulo": "Take a Long Line",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Midnight Love",
+     "duracao": "3:21"
+    },
+    {
+     "n": 10,
+     "titulo": "All the Young Dudes",
+     "duracao": "3:47"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.0,
+    "fontes": 2
+   },
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Heaven_and_Hull",
+   "resumo_en": "Heaven and Hull is the third solo album by Mick Ronson. Having been released in 1994 following his death the previous year, it was his first posthumous release. It featured collaborations by longtime friends of Ronson including David Bowie, Joe Elliott, and Ian Hunter. Other artists included Martin Chambers and Chrissie Hynde, Phil Collen and John Mellencamp. The \"All the Young Dudes\" track on Heaven and Hull is from the Freddie Mercury Tribute Concert, where Ronson was suffering from cancer. It was his last concert.\nOn the CD notes, there is a quote from Sham Morris, one of the album's producers:\n\nDuring the making of Heaven and Hull (working title To Hull and Back), I asked Mick to visualize a characteristic from his home town of Hull. His first thought was the Humber Bridge. The bridge became very symbolic for those of us working on the album and it was his wish to incorporate it in the artwork. Mick has crossed the bridge now and left us this swan song.\"\nThe bridge shown in the album artwork is not the Humber Bridge.\nTwo songs from the album, \"Midnight Love\" and \"Like a Rolling Stone\" were included in the 2017 feature-length biographical documentary, and compilation Soundtrack,",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b951c863-64c1-41d7-8b48-077386f85c22",
+   "titulo": "Just Like This",
+   "data": "1999",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/7e55b639-f829-48a4-a5f2-5ebe4d108819/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Just Like This",
+     "duracao": "5:25"
+    },
+    {
+     "n": 2,
+     "titulo": "I’d Give Anything to See You",
+     "duracao": "5:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Takin’ a Train",
+     "duracao": "6:17"
+    },
+    {
+     "n": 4,
+     "titulo": "Hard Life",
+     "duracao": "6:33"
+    },
+    {
+     "n": 5,
+     "titulo": "(I’m Just a) Junkie for Your Love",
+     "duracao": "2:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Crazy Love",
+     "duracao": "6:58"
+    },
+    {
+     "n": 7,
+     "titulo": "Hey Grandma",
+     "duracao": "4:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Is That Any Way",
+     "duracao": "3:44"
+    },
+    {
+     "n": 9,
+     "titulo": "I’ve Got No Secrets",
+     "duracao": "4:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Hard Headed Woman",
+     "duracao": "4:07"
+    },
+    {
+     "n": 11,
+     "titulo": "Roll Like the River",
+     "duracao": "6:11"
+    },
+    {
+     "n": 12,
+     "titulo": "Angel No. 9",
+     "duracao": "5:34"
+    }
+   ],
+   "duracao_min": 64,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "871455cc-93ee-3d20-af04-a735e6def1c8",
+   "titulo": "The Secret Sessions",
+   "data": "1999-02-09",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/1dda28a9-d909-463b-8644-19277263052a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Easy Money",
+     "duracao": "2:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Silent Movie",
+     "duracao": "3:21"
+    },
+    {
+     "n": 3,
+     "titulo": "I Ain’t No Angel",
+     "duracao": "3:19"
+    },
+    {
+     "n": 4,
+     "titulo": "The Best Thing",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "I Hate Dancin’",
+     "duracao": "2:41"
+    },
+    {
+     "n": 6,
+     "titulo": "The Outsider",
+     "duracao": "7:46"
+    },
+    {
+     "n": 7,
+     "titulo": "Just When I Needed You Most",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Lowdown Freedom",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "On My Way to Georgia",
+     "duracao": "3:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Growin’ Old With Rock ’n’ Roll",
+     "duracao": "6:55"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ba68533e-0d8a-4279-8866-7272daf6c280",
+   "titulo": "Indian Summer",
+   "data": "2000",
+   "ano": "2000",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Indian Summer (opening title)",
+     "duracao": "4:02"
+    },
+    {
+     "n": 2,
+     "titulo": "Tinker Street",
+     "duracao": "3:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Satellite 1",
+     "duracao": "1:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Get On With It (interlude)",
+     "duracao": "2:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Ballad of Jack Daniels",
+     "duracao": "2:28"
+    },
+    {
+     "n": 6,
+     "titulo": "Blue Velvet Skirt",
+     "duracao": "4:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Midnight Love",
+     "duracao": "4:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Satelite 1",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Blue Velvet Skirt (reprise)",
+     "duracao": "1:18"
+    },
+    {
+     "n": 10,
+     "titulo": "Plane to England",
+     "duracao": "3:54"
+    },
+    {
+     "n": 11,
+     "titulo": "China",
+     "duracao": "5:19"
+    },
+    {
+     "n": 12,
+     "titulo": "I’d Give Anything to See You (closing title)",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Indian_Summer_%28Mick_Ronson_album%29",
+   "resumo_en": "Indian Summer is the fifth and final solo studio album by Mick Ronson. Recorded in 1981, it was intended to be a soundtrack album for a film that was never produced. Many of the tracks were instrumentals. The track \"Indian Summer\" was considered for Ronson's solo album Heaven and Hull.\nIt was given a two-star rating by AllMusic.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

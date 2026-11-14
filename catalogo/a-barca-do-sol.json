@@ -1,0 +1,356 @@
+{
+ "id": "a-barca-do-sol",
+ "nome": "A Barca do Sol",
+ "cena": "Descobertas do acervo",
+ "mbid": "bc2adddf-f322-43aa-b636-2c6a06a55c1f",
+ "wikidata": "Q16496814",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1974",
+ "fim": "1981",
+ "ativa": false,
+ "generos": [
+  "progressive rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://pt.wikipedia.org/wiki/A_Barca_do_Sol",
+ "resumo_pt": "A Barca do Sol foi uma banda brasileira de rock progressivo e MPB formada em 1973 na cidade do Rio de Janeiro, e desfeita em 1981, após o lançamento de três álbuns de estúdio — A Barca do Sol, de 1974; Durante o Verão, de 1976; e Pirata, de 1979. O grupo fez grande sucesso de crítica enquanto esteve em atividade, embora tenha permanecido restrito a nichos de público. Seu estilo musical diferenciado dentro do panorama da música popular no Brasil - valendo-se majoritariamente de instrumentos de sopro como solistas e mantendo a composição de canções e não de temas instrumentais — garantiram para o conjunto um lugar único na música popular brasileira, tornando-o de difícil classificação.",
+ "resumo_en": "",
+ "albuns": [
+  {
+   "id": "7fa15803-fd78-4262-a06b-5fa0b4cefee5",
+   "titulo": "A Barca do Sol",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/3c534b6a-5f5c-4c30-b707-f5cb6651c0b0/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A primeira batalha",
+     "duracao": "3:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Brilho da noite",
+     "duracao": "4:01"
+    },
+    {
+     "n": 3,
+     "titulo": "Arremesso",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "As boas consciências",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Caminhão",
+     "duracao": "4:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Lady Jane",
+     "duracao": "2:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Dragão da bondade",
+     "duracao": "2:58"
+    },
+    {
+     "n": 8,
+     "titulo": "Alaska",
+     "duracao": "3:31"
+    },
+    {
+     "n": 9,
+     "titulo": "Fantasma da ópera",
+     "duracao": "2:44"
+    },
+    {
+     "n": 10,
+     "titulo": "Corsário Satã",
+     "duracao": "4:07"
+    },
+    {
+     "n": 11,
+     "titulo": "A Barca do Sol",
+     "duracao": "3:13"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1591f044-48f5-4a4c-990b-daefe78366e7",
+   "titulo": "Durante o verão",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/004861e2-d798-4926-b06f-2d5229b5dc78/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Durante o verão",
+     "duracao": "2:49"
+    },
+    {
+     "n": 2,
+     "titulo": "Hotel colonial",
+     "duracao": "5:55"
+    },
+    {
+     "n": 3,
+     "titulo": "A língua e a bainha",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Os pilares da cultura",
+     "duracao": "2:42"
+    },
+    {
+     "n": 5,
+     "titulo": "Karen",
+     "duracao": "2:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Memorial Day",
+     "duracao": "4:15"
+    },
+    {
+     "n": 7,
+     "titulo": "O banquete",
+     "duracao": "3:46"
+    },
+    {
+     "n": 8,
+     "titulo": "Belladonna, Lady of the Rocks",
+     "duracao": "6:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Outros carnavais",
+     "duracao": "2:20"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0d478156-f405-3f17-80bc-75c65eddfcea",
+   "titulo": "Corra o risco",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/412da922-d27d-432f-9e24-b39c55afa281/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "O fantasma da ópera",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Lady Jane",
+     "duracao": "3:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Corra o risco",
+     "duracao": "2:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Jardim de infância",
+     "duracao": "3:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Banda dos corações solitários",
+     "duracao": "2:30"
+    },
+    {
+     "n": 6,
+     "titulo": "Cavalo marinho",
+     "duracao": "2:40"
+    },
+    {
+     "n": 7,
+     "titulo": "Lobo do mar",
+     "duracao": "3:36"
+    },
+    {
+     "n": 8,
+     "titulo": "Água e vinho",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Brilho da noite",
+     "duracao": "3:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Minha pena minha dor",
+     "duracao": "2:52"
+    },
+    {
+     "n": 11,
+     "titulo": "Luz do tango",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 35,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "024c0a21-f217-4b17-b2cc-725b4eba9923",
+   "titulo": "Pirata",
+   "data": "1979",
+   "ano": "1979",
+   "capa": "https://coverartarchive.org/release/ddcc5210-e376-47c0-b5c5-137c18573557/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Vô mimbora pro Sertão",
+     "duracao": "1:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Tereza boca do rio",
+     "duracao": "3:35"
+    },
+    {
+     "n": 3,
+     "titulo": "Mercado das flores",
+     "duracao": "4:03"
+    },
+    {
+     "n": 4,
+     "titulo": "Cavalo marinho",
+     "duracao": "2:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Jando",
+     "duracao": "5:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Jardim de infância",
+     "duracao": "4:35"
+    },
+    {
+     "n": 7,
+     "titulo": "Desencontro",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Estrela",
+     "duracao": "2:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Manoel",
+     "duracao": "4:01"
+    },
+    {
+     "n": 10,
+     "titulo": "Rio Preto",
+     "duracao": "2:45"
+    },
+    {
+     "n": 11,
+     "titulo": "Canção pra ela",
+     "duracao": "2:43"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "44070d38-fbd2-443b-aa0e-204bef599b7e",
+   "titulo": "As gralhas",
+   "data": "2026-05-15",
+   "ano": "2026",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "As gralhas - Paranoia",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "O camponês - 1ª variação",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "As gralhinhas (Incidental)",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "O camponês - 2ª variação",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "O trem",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "O camponês",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "As gralhas - Música",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "O camponês (Estendido)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

@@ -1,0 +1,895 @@
+{
+ "id": "kid-abelha",
+ "nome": "Kid Abelha",
+ "cena": "Descobertas do acervo",
+ "mbid": "e3e90633-b6f1-4376-b15b-2492c94b4cf7",
+ "wikidata": "Q2437762",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1982",
+ "fim": "2016",
+ "ativa": false,
+ "generos": [
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kid_Abelha_band_2012.JPG/500px-Kid_Abelha_band_2012.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Kid_Abelha",
+ "resumo_pt": "Kid Abelha (conhecida antes como Kid Abelha e os Abóboras Selvagens entre 1982 e 1988) é uma banda brasileira de pop rock que faz sucesso no país desde a década de 1980. É composta atualmente por Paula Toller, George Israel e Bruno Fortunato. As vendas de discos somaram 9 milhões de gravações no Brasil.",
+ "resumo_en": "Kid Abelha was a pop rock band from Rio de Janeiro, Brazil, formed by Paula Toller (lead vocals), George Israel (sax, guitar and vocals) and Bruno Fortunato (acoustic and electric guitar). The group has recorded 12 studio albums, 4 live albums and 3 live DVDs. They have created many songs which have entered into Brazilian pop-rock history. The group sold more than 8 million albums worldwide.",
+ "albuns": [
+  {
+   "id": "aa617d9c-f834-3b61-aee4-0ef1d3737bef",
+   "titulo": "Seu espião",
+   "data": "1984",
+   "ano": "1984",
+   "capa": "https://coverartarchive.org/release/4f95c794-a76a-42cc-9fa6-d7313ef105a1/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Seu espião",
+     "duracao": "4:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Nada tanto assim",
+     "duracao": "3:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Alice (Não me escreva aquela carta de amor)",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Hoje eu não vou",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Fixação",
+     "duracao": "6:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Como eu quero",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Ele quer me conquistar",
+     "duracao": "3:09"
+    },
+    {
+     "n": 8,
+     "titulo": "Por que não eu?",
+     "duracao": "3:03"
+    },
+    {
+     "n": 9,
+     "titulo": "Homem com uma missão",
+     "duracao": "3:15"
+    },
+    {
+     "n": 10,
+     "titulo": "Pintura íntima",
+     "duracao": "4:25"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Seu_Espi%C3%A3o",
+   "resumo_en": "Seu Espião (English: Your Spy) is the debut album by Brazilian pop band Kid Abelha, released in 1984 by WEA Records. It features some of the band's biggest hits such as \"Alice (Não Escreva Aquela Carta De Amor)\", \"Fixação\", \"Como Eu Quero\", \"Porque Não Eu?\" and \"Pintura Íntima\".",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "9492e084-5409-3745-9f15-58c175ccc0b7",
+   "titulo": "Educação sentimental",
+   "data": "1985",
+   "ano": "1985",
+   "capa": "https://coverartarchive.org/release/3adefa6f-ceab-4622-8aa0-389cfd902a72/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Lágrimas e chuva",
+     "duracao": "4:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Educação sentimental II",
+     "duracao": "4:49"
+    },
+    {
+     "n": 3,
+     "titulo": "Conspiração internacional",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Os outros",
+     "duracao": "3:25"
+    },
+    {
+     "n": 5,
+     "titulo": "Amor por retribuição",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Educação sentimental",
+     "duracao": "4:04"
+    },
+    {
+     "n": 7,
+     "titulo": "Garotos",
+     "duracao": "4:24"
+    },
+    {
+     "n": 8,
+     "titulo": "Um dia em cem",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Uniformes",
+     "duracao": "4:08"
+    },
+    {
+     "n": 10,
+     "titulo": "A fórmula do amor",
+     "duracao": "3:31"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_Sentimental",
+   "resumo_en": "Educação Sentimental (English: Sentimental education) is the second studio album released by Brazilian pop music band Kid Abelha. It was originally released in 1985 by WEA and sparked some successful hits in Brazilian airplay such as \"Lágrimas e Chuva\", \"Educação Sentimental (Parts I & II)\", \"Garotos\" and \"A Fórmula do Amor\".\nIt was listed by Rolling Stone Brazil as one of the 100 best Brazilian albums in history.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "4a20bb75-6873-3b40-94d3-586217e2edec",
+   "titulo": "Tomate",
+   "data": "1987",
+   "ano": "1987",
+   "capa": "https://coverartarchive.org/release/0c4e488a-3039-4683-aac5-8112ec69dc63/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Me deixa falar",
+     "duracao": "4:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Eu preciso",
+     "duracao": "4:52"
+    },
+    {
+     "n": 3,
+     "titulo": "No meio da rua",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Dança",
+     "duracao": "2:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Tomate",
+     "duracao": "6:21"
+    },
+    {
+     "n": 6,
+     "titulo": "Leão",
+     "duracao": "4:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Mais louco",
+     "duracao": "3:07"
+    },
+    {
+     "n": 8,
+     "titulo": "Amanhã é 23",
+     "duracao": "3:02"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tomate",
+   "resumo_en": "Kid Abelha was a pop rock band from Rio de Janeiro, Brazil, formed by Paula Toller (lead vocals), George Israel (sax, guitar and vocals) and Bruno Fortunato (acoustic and electric guitar). The group has recorded 12 studio albums, 4 live albums and 3 live DVDs. They have created many songs which have entered into Brazilian pop-rock history. The group sold more than 8 million albums worldwide.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "79cbf9ea-d630-3b84-b1d5-1a9f0d1b0778",
+   "titulo": "Kid",
+   "data": "1989",
+   "ano": "1989",
+   "capa": "https://coverartarchive.org/release/7d92ff68-49d1-4b2d-806e-e38f206a3760/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "De quem é o poder",
+     "duracao": "4:17"
+    },
+    {
+     "n": 2,
+     "titulo": "A história única de todo amor",
+     "duracao": "3:23"
+    },
+    {
+     "n": 3,
+     "titulo": "Dizer não é dizer sim",
+     "duracao": "3:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Sexo e dólares",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Paris, Paris",
+     "duracao": "4:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Agora sei",
+     "duracao": "4:34"
+    },
+    {
+     "n": 7,
+     "titulo": "Todo meu ouro",
+     "duracao": "4:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Promessas de ganhar",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Cantar em inglês",
+     "duracao": "4:44"
+    },
+    {
+     "n": 10,
+     "titulo": "De quem é o poder (extended)",
+     "duracao": "6:23"
+    },
+    {
+     "n": 11,
+     "titulo": "De quem é o poder (radio version)",
+     "duracao": "4:00"
+    },
+    {
+     "n": 12,
+     "titulo": "De quem é o poder (This Is a Journey)",
+     "duracao": "2:15"
+    }
+   ],
+   "duracao_min": 49,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0db671b1-2f9d-340a-ada6-e81b447d8005",
+   "titulo": "Tudo é permitido",
+   "data": "1991",
+   "ano": "1991",
+   "capa": "https://coverartarchive.org/release/04f83dc9-c5dd-4f2c-8b7c-5f022a4c3b16/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A palavra forte",
+     "duracao": "2:33"
+    },
+    {
+     "n": 2,
+     "titulo": "Lolita",
+     "duracao": "3:57"
+    },
+    {
+     "n": 3,
+     "titulo": "A indecência",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Não vou ficar",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Eletricidade",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Grand’Hotel",
+     "duracao": "3:29"
+    },
+    {
+     "n": 7,
+     "titulo": "Fantasias",
+     "duracao": "4:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Gosto de ser cruel",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "No seu lugar",
+     "duracao": "3:51"
+    },
+    {
+     "n": 10,
+     "titulo": "Fuga número dois",
+     "duracao": "3:59"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "582d6703-3518-33e1-8ce8-76c3dee7f762",
+   "titulo": "Iê iê iê",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/83be82c9-14f7-47ae-b8f2-ab6dd7aac312/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eu tive um sonho",
+     "duracao": "3:08"
+    },
+    {
+     "n": 2,
+     "titulo": "O beijo",
+     "duracao": "3:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Mil e uma noites",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Por um dia",
+     "duracao": "3:36"
+    },
+    {
+     "n": 5,
+     "titulo": "Em noventa e dois",
+     "duracao": "3:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Deus",
+     "duracao": "3:33"
+    },
+    {
+     "n": 7,
+     "titulo": "Um segundo a mais",
+     "duracao": "3:53"
+    },
+    {
+     "n": 8,
+     "titulo": "Smoke on the Water",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Por uma noite inteira",
+     "duracao": "3:54"
+    }
+   ],
+   "duracao_min": 33,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "654f6471-f38c-3af7-9e99-0c2063b22631",
+   "titulo": "Meu mundo gira em torno de você",
+   "data": "1996",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/5faabede-bb91-48bd-8a1a-d015dbe878fa/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Como é que eu vou embora",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Te amo pra sempre",
+     "duracao": "2:50"
+    },
+    {
+     "n": 3,
+     "titulo": "Meu mundo gira em torno de você",
+     "duracao": "3:46"
+    },
+    {
+     "n": 4,
+     "titulo": "Combinação",
+     "duracao": "3:34"
+    },
+    {
+     "n": 5,
+     "titulo": "Na rua, na chuva, na fazenda (Casinha de sapê)",
+     "duracao": "3:44"
+    },
+    {
+     "n": 6,
+     "titulo": "Apenas timidez",
+     "duracao": "4:59"
+    },
+    {
+     "n": 7,
+     "titulo": "La nouveauté",
+     "duracao": "2:59"
+    },
+    {
+     "n": 8,
+     "titulo": "Quero me deitar",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Baixa pressão",
+     "duracao": "4:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Vou mergulhar",
+     "duracao": "4:21"
+    },
+    {
+     "n": 11,
+     "titulo": "A moto",
+     "duracao": "2:59"
+    },
+    {
+     "n": 12,
+     "titulo": "O animal",
+     "duracao": "2:57"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "cda0ab67-a340-3bd0-8b7d-53eb6e36594e",
+   "titulo": "Autolove",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/dd788ca7-859d-4a77-8e12-7ee5115b367f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Tanta gente",
+     "duracao": "4:18"
+    },
+    {
+     "n": 2,
+     "titulo": "Eu só penso em você",
+     "duracao": "4:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Maio...",
+     "duracao": "3:36"
+    },
+    {
+     "n": 4,
+     "titulo": "Depois das seis",
+     "duracao": "4:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Ouvir estrelas",
+     "duracao": "4:17"
+    },
+    {
+     "n": 6,
+     "titulo": "Minas-São Paulo",
+     "duracao": "3:48"
+    },
+    {
+     "n": 7,
+     "titulo": "3taças (A \"nossa canção\" do Renato)",
+     "duracao": "3:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Mãos estranhas",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Someday",
+     "duracao": "3:55"
+    },
+    {
+     "n": 10,
+     "titulo": "Tambaú",
+     "duracao": "3:20"
+    },
+    {
+     "n": 11,
+     "titulo": "Eu só penso em você (extended version)",
+     "duracao": "6:25"
+    },
+    {
+     "n": 12,
+     "titulo": "Eu só penso em você (Paul's remix)",
+     "duracao": "4:09"
+    }
+   ],
+   "duracao_min": 51,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c64d2d91-df43-3ad5-94d5-dbb7c00678c6",
+   "titulo": "Coleção",
+   "data": "2000",
+   "ano": "2000",
+   "capa": "https://coverartarchive.org/release/8c1863e5-f18f-48d2-8ef1-15f3a0e69a6c/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Pare o casamento",
+     "duracao": "3:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Deve ser amor",
+     "duracao": "3:46"
+    },
+    {
+     "n": 3,
+     "titulo": "Eu sei voar",
+     "duracao": "3:26"
+    },
+    {
+     "n": 4,
+     "titulo": "O telefone tocou novamente",
+     "duracao": "3:28"
+    },
+    {
+     "n": 5,
+     "titulo": "Pingos de amor",
+     "duracao": "4:09"
+    },
+    {
+     "n": 6,
+     "titulo": "Teletema",
+     "duracao": "4:21"
+    },
+    {
+     "n": 7,
+     "titulo": "Mamãe natureza",
+     "duracao": "3:44"
+    },
+    {
+     "n": 8,
+     "titulo": "Quem tem medo de brincar de amor",
+     "duracao": "3:34"
+    },
+    {
+     "n": 9,
+     "titulo": "Esotérico",
+     "duracao": "3:46"
+    },
+    {
+     "n": 10,
+     "titulo": "As curvas da estrada de Santos",
+     "duracao": "4:22"
+    },
+    {
+     "n": 11,
+     "titulo": "Mas, que nada",
+     "duracao": "3:16"
+    },
+    {
+     "n": 12,
+     "titulo": "Um momento só",
+     "duracao": "3:36"
+    },
+    {
+     "n": 13,
+     "titulo": "Pare o casamento (versão longa)",
+     "duracao": "3:17"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b370ab63-0b8d-3afb-a5df-ce5d8a38a436",
+   "titulo": "Surf",
+   "data": "2001-05-18",
+   "ano": "2001",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eu contra a noite",
+     "duracao": "5:56"
+    },
+    {
+     "n": 2,
+     "titulo": "3 garotas na calçada",
+     "duracao": "3:07"
+    },
+    {
+     "n": 3,
+     "titulo": "O rei do salão",
+     "duracao": "3:32"
+    },
+    {
+     "n": 4,
+     "titulo": "Ressaca 99",
+     "duracao": "3:20"
+    },
+    {
+     "n": 5,
+     "titulo": "Gávea-posto 6",
+     "duracao": "3:19"
+    },
+    {
+     "n": 6,
+     "titulo": "10 minutos",
+     "duracao": "4:26"
+    },
+    {
+     "n": 7,
+     "titulo": "Eu não esqueço nada",
+     "duracao": "3:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Da lama à pista",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Solidão, bom dia!",
+     "duracao": "4:03"
+    },
+    {
+     "n": 10,
+     "titulo": "Pelas ruas da cidade (A vida continua)",
+     "duracao": "4:39"
+    },
+    {
+     "n": 11,
+     "titulo": "Quando eu te amo",
+     "duracao": "3:53"
+    }
+   ],
+   "duracao_min": 44,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "89ee76a9-9718-30e7-b71d-a75f0c4968d2",
+   "titulo": "Kid Abelha",
+   "data": "2004",
+   "ano": "2004",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "¿Por qué me quedo tan sola?",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Te amo por siempre",
+     "duracao": "2:51"
+    },
+    {
+     "n": 3,
+     "titulo": "Yo tuve un sueño",
+     "duracao": "3:09"
+    },
+    {
+     "n": 4,
+     "titulo": "Nada por mi",
+     "duracao": "2:41"
+    },
+    {
+     "n": 5,
+     "titulo": "En tu lugar",
+     "duracao": "3:49"
+    },
+    {
+     "n": 6,
+     "titulo": "Como yo quiero",
+     "duracao": "4:14"
+    },
+    {
+     "n": 7,
+     "titulo": "Gran Hotel",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "El beso",
+     "duracao": "3:47"
+    },
+    {
+     "n": 9,
+     "titulo": "En medio de la calle",
+     "duracao": "3:40"
+    },
+    {
+     "n": 10,
+     "titulo": "En el 96",
+     "duracao": "3:53"
+    },
+    {
+     "n": 11,
+     "titulo": "Dios (Aparece en el televisor)",
+     "duracao": "3:30"
+    },
+    {
+     "n": 12,
+     "titulo": "Todo mi oro",
+     "duracao": "4:32"
+    },
+    {
+     "n": 13,
+     "titulo": "París, París",
+     "duracao": "4:33"
+    },
+    {
+     "n": 14,
+     "titulo": "¿Por qué me quedo tan sola? (DJ Cuca remix)",
+     "duracao": "4:03"
+    },
+    {
+     "n": 15,
+     "titulo": "Te amo por siempre (DJ Cuca remix)",
+     "duracao": "3:37"
+    }
+   ],
+   "duracao_min": 56,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "63be99a9-7a8b-3ff3-87ec-ae97e6be3404",
+   "titulo": "Pega vida",
+   "data": "2005-05-19",
+   "ano": "2005",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eu tou tentando",
+     "duracao": "3:40"
+    },
+    {
+     "n": 2,
+     "titulo": "Poligamia",
+     "duracao": "3:37"
+    },
+    {
+     "n": 3,
+     "titulo": "Pega vida",
+     "duracao": "3:53"
+    },
+    {
+     "n": 4,
+     "titulo": "Por que eu não desisto de você",
+     "duracao": "3:06"
+    },
+    {
+     "n": 5,
+     "titulo": "Será que eu pus um grilo na sua cabeça?",
+     "duracao": "3:13"
+    },
+    {
+     "n": 6,
+     "titulo": "Peito aberto",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Fala meu nome",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Mãe natureza (Querência)",
+     "duracao": "4:50"
+    },
+    {
+     "n": 9,
+     "titulo": "Duas casas",
+     "duracao": "2:47"
+    },
+    {
+     "n": 10,
+     "titulo": "Eutransoelatransa",
+     "duracao": "4:00"
+    },
+    {
+     "n": 11,
+     "titulo": "Strip-tease",
+     "duracao": "3:33"
+    },
+    {
+     "n": 12,
+     "titulo": "Órion",
+     "duracao": "3:48"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

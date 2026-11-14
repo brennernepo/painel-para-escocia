@@ -1,0 +1,236 @@
+{
+ "id": "pescado-rabioso",
+ "nome": "Pescado Rabioso",
+ "cena": "Descobertas do acervo",
+ "mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+ "wikidata": "Q5638010",
+ "tipo": "Group",
+ "pais": "AR",
+ "inicio": "1971",
+ "fim": "1973",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "hard rock",
+  "folk rock",
+  "psychedelic rock",
+  "rock"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Pescado_Rabioso_primera_formaci%C3%B3n.jpg/500px-Pescado_Rabioso_primera_formaci%C3%B3n.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Pescado_Rabioso",
+ "resumo_pt": "Pescado Rabioso foi uma banda argentina de rock-blues, liderada por \"el flaco\" Luis Alberto Spinetta e acompanhado pelo baterista Black Amaya e o baixista Osvaldo \"Bocón\" Frascino. Formada em 1971, se dissolve em 1973, havendo passado por ela o tecladista Carlos Cutaia e David Lebón em substituição a Frascino. Apesar de sua curta existência, seu estilo e originalidade musical gerou uma revolução no rock argentino, deixando uma marca indelével sobre o mesmo.",
+ "resumo_en": "Pescado Rabioso (Rabid Fish, pronounced [pesˈkaðo raˈβjoso]) was an Argentine band led by musician Luis Alberto Spinetta, from 1971 to 1973. Initially a trio accompanied by drummer Black Amaya and bassist Osvaldo \"Bocón\" Frascino, it became a quartet with the addition of keyboardist Carlos Cutaia. Finally, David Lebón replaced Frascino in 1972 and featured on the album Pescado 2.\nIn spite of its short life, Pescado Rabioso is still considered an important and influential piece of Argentine rock history. It was the second major band of Spinetta, created after Almendra's break up in the late 1960s and a seven-month trip through Brazil, United States and Europe.\nAlthough labeled under the band's name due to legal terms with his record company, Pescado Rabioso's final album Artaud is actually a complete solo effort from Spinetta.",
+ "albuns": [
+  {
+   "id": "9aa68f09-38a3-3a50-b7d3-0a2ba56b610e",
+   "titulo": "Desatormentándonos",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/e4779bf7-4fd5-487c-96df-54b60c3c4b74/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Blues de Cris",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "El jardinero (Temprano amaneció)",
+     "duracao": "9:18"
+    },
+    {
+     "n": 3,
+     "titulo": "Dulce 3 nocturno",
+     "duracao": "5:08"
+    },
+    {
+     "n": 4,
+     "titulo": "El monstruo de la laguna",
+     "duracao": "5:11"
+    },
+    {
+     "n": 5,
+     "titulo": "Serpiente (Viaja por la sal)",
+     "duracao": "8:57"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b9c530cd-a04a-3d41-93bb-6b4baa82fbb1",
+   "titulo": "Pescado 2",
+   "data": "1973-02",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/2cfd7116-46b0-4d91-84bc-4949c869688d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Panadero ensoñado",
+     "duracao": "0:37"
+    },
+    {
+     "n": 2,
+     "titulo": "Iniciado del alba",
+     "duracao": "3:09"
+    },
+    {
+     "n": 3,
+     "titulo": "Poseído del alba",
+     "duracao": "3:41"
+    },
+    {
+     "n": 4,
+     "titulo": "Como el viento voy a ver",
+     "duracao": "5:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Viajero naciendo",
+     "duracao": "2:56"
+    },
+    {
+     "n": 6,
+     "titulo": "Mañana o pasado",
+     "duracao": "2:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Nena boba",
+     "duracao": "3:05"
+    },
+    {
+     "n": 8,
+     "titulo": "Madre-selva",
+     "duracao": "7:45"
+    },
+    {
+     "n": 9,
+     "titulo": "Peteribí",
+     "duracao": "7:36"
+    },
+    {
+     "n": 10,
+     "titulo": "16'' de peteribí",
+     "duracao": "0:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Señorita",
+     "duracao": "1:32"
+    },
+    {
+     "n": 12,
+     "titulo": "Credulidad",
+     "duracao": "3:06"
+    },
+    {
+     "n": 13,
+     "titulo": "¡Hola, pequeño ser!!",
+     "duracao": "9:37"
+    },
+    {
+     "n": 14,
+     "titulo": "Mi espíritu se fue",
+     "duracao": "4:27"
+    },
+    {
+     "n": 15,
+     "titulo": "Sombra de la noche negra",
+     "duracao": "5:53"
+    },
+    {
+     "n": 16,
+     "titulo": "La cereza del zar",
+     "duracao": "1:43"
+    },
+    {
+     "n": 17,
+     "titulo": "Corto",
+     "duracao": "1:40"
+    },
+    {
+     "n": 18,
+     "titulo": "Cristálida",
+     "duracao": "8:45"
+    }
+   ],
+   "duracao_min": 74,
+   "critica": {},
+   "publico": 8,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pescado_2",
+   "resumo_en": "Pescado 2, also known as Pescado Rabioso 2, is the second studio album by Argentine rock band Pescado Rabioso, released in 1973 on Talent-Microfón. It was recorded between November 1972 and February 1973 at Estudios Phonalex in Buenos Aires, shortly before the group's disbandment. Pescado 2 was released as a double album, consisting of two LP records titled Pescado and 2 (dos); and was intended to be listened as a whole, hence the tracks being listed from one to eighteenth. The first edition included a booklet with lyrics, photographs and drawings by Spinetta and his brother Gustavo.\nThe album is considered a classic of Argentine rock. In 2007, the Argentine edition of Rolling Stone ranked it nineteenth on its list of The 100 Greatest Albums of Argentine Rock.\nAmerican rapper Eminem sampled \"Peteribí\" in the song \"Stepdad\", off his 2020 album Music to Be Murdered By.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "8e50433a-c1d5-3019-a48d-0d6b97a5f32b",
+   "titulo": "Artaud",
+   "data": "1973-10",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/d9ad5347-9829-4fab-ace3-57eba05e7054/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Todas las hojas son del viento",
+     "duracao": "2:17"
+    },
+    {
+     "n": 2,
+     "titulo": "Cementerio club",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Por",
+     "duracao": "1:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Superchería",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "La sed verdadera",
+     "duracao": "3:40"
+    },
+    {
+     "n": 6,
+     "titulo": "Cantata de puentes amarillos",
+     "duracao": "9:16"
+    },
+    {
+     "n": 7,
+     "titulo": "Bajan",
+     "duracao": "3:30"
+    },
+    {
+     "n": 8,
+     "titulo": "A Starosta, el idiota",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Las habladurías del mundo",
+     "duracao": "4:11"
+    }
+   ],
+   "duracao_min": 37,
+   "critica": {},
+   "publico": 9.4,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Artaud_%28album%29",
+   "resumo_en": "Artaud (French: [aʁto]; commonly pronounced [aɾˈto] or [aɾˈtawð] by Hispanophones) is the third and final studio album credited to Argentine rock band Pescado Rabioso, released in October 1973 on Talent-Microfón. It is essentially the second solo album by singer-songwriter Luis Alberto Spinetta, who used the group's name despite their disbandment earlier that year.\nThe album is named after and dedicated to French poet Antonin Artaud, and was conceived as a reaction to his writings. The album's original packaging is famous for its odd shape, which the record label initially resisted. Spinetta presented Artaud with two morning shows at the Teatro Astral on Avenida Corrientes, accompanied only by his acoustic guitar. Each audience member received a copy of Spinetta's manifesto Rock: Música dura, la suicidada por la sociedad, in which he presented his vision of the countercultural Argentine rock movement.\nIt is considered Spinetta's masterpiece and one of the most influential albums in Spanish-language rock music. It has been selected as the greatest album in the history of Argentine rock on several occasions, most notably Rolling Stone Argentina's The 100 Greatest Albums of National R",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

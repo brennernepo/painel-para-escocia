@@ -1,0 +1,328 @@
+{
+ "id": "pacific-gas-electric",
+ "nome": "Pacific Gas & Electric",
+ "cena": "Descobertas do acervo",
+ "mbid": "7a1268cc-33a6-4889-bbad-a47b9ffc8339",
+ "wikidata": "Q2437348",
+ "tipo": "Group",
+ "pais": "US",
+ "inicio": "1967",
+ "fim": "1973",
+ "ativa": false,
+ "generos": [
+  "blues rock",
+  "psychedelic rock",
+  "rock"
+ ],
+ "foto": null,
+ "wikipedia": "https://en.wikipedia.org/wiki/Pacific_Gas_%26_Electric_%28band%29",
+ "resumo_pt": "",
+ "resumo_en": "Pacific Gas & Electric was an American rock band in the late 1960s and early 1970s, fronted by singer Charlie Allen.  Their biggest hit was the gospel-tinged \"Are You Ready?\" in 1970.",
+ "albuns": [
+  {
+   "id": "3dd093ff-19b8-3dae-b462-85495bd73181",
+   "titulo": "Get It On",
+   "data": "1968-12",
+   "ano": "1968",
+   "capa": "https://coverartarchive.org/release/540740e5-b196-4d39-ad48-cbfa6d0c44d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Wade in the Water",
+     "duracao": "6:11"
+    },
+    {
+     "n": 2,
+     "titulo": "Cry, Cry, Cry",
+     "duracao": "5:25"
+    },
+    {
+     "n": 3,
+     "titulo": "Motor City’s Burning",
+     "duracao": "6:45"
+    },
+    {
+     "n": 4,
+     "titulo": "The Hunter",
+     "duracao": "3:21"
+    },
+    {
+     "n": 5,
+     "titulo": "Long Handled Shovel",
+     "duracao": "3:31"
+    },
+    {
+     "n": 6,
+     "titulo": "Jelly, Jelly",
+     "duracao": "6:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Stormy Times",
+     "duracao": "2:43"
+    },
+    {
+     "n": 8,
+     "titulo": "Live Love",
+     "duracao": "3:21"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Get_It_On_%28album%29",
+   "resumo_en": "Get It On was the debut studio album by American blues rock band, Pacific Gas & Electric. It charted the following year.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ddc6d76a-01f5-4deb-9d03-677c41799183",
+   "titulo": "Pacific Gas and Electric",
+   "data": "1969",
+   "ano": "1969",
+   "capa": "https://coverartarchive.org/release/bd0e11a1-6ccf-440c-a5b5-1e6131210a05/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Bluesbuster",
+     "duracao": "2:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Death Row #172",
+     "duracao": "3:59"
+    },
+    {
+     "n": 3,
+     "titulo": "Miss Lucy",
+     "duracao": "2:28"
+    },
+    {
+     "n": 4,
+     "titulo": "My Women",
+     "duracao": "5:38"
+    },
+    {
+     "n": 5,
+     "titulo": "She’s Long and She’s Tall",
+     "duracao": "6:30"
+    },
+    {
+     "n": 6,
+     "titulo": "PG&E Suite: The Young Rabbits / Constitutional Strand / Fat Tom / Boy Wonder",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Redneck",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 25,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "513b92ee-a30a-342c-91f0-3ca3dc94b88b",
+   "titulo": "Are You Ready?",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/cfd1d924-0150-41eb-b2df-4b9fe95c8e8a/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Are You Ready?",
+     "duracao": "5:53"
+    },
+    {
+     "n": 2,
+     "titulo": "Hawg for You",
+     "duracao": "4:47"
+    },
+    {
+     "n": 3,
+     "titulo": "Staggolee",
+     "duracao": "3:52"
+    },
+    {
+     "n": 4,
+     "titulo": "The Blackberry",
+     "duracao": "5:37"
+    },
+    {
+     "n": 5,
+     "titulo": "Love, Love, Love, Love, Love",
+     "duracao": "3:53"
+    },
+    {
+     "n": 6,
+     "titulo": "Mother, Why Do You Cry?",
+     "duracao": "5:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Elvira",
+     "duracao": "2:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Screamin’",
+     "duracao": "4:31"
+    },
+    {
+     "n": 9,
+     "titulo": "When a Man Loves a Woman",
+     "duracao": "4:33"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "317b9938-61f7-4648-bce1-7dbf464c4830",
+   "titulo": "PG&E",
+   "data": "1971",
+   "ano": "1971",
+   "capa": "https://coverartarchive.org/release/9d99f287-b000-45f9-9dd9-c461891c0519/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock and Roller’s Lament",
+     "duracao": "3:15"
+    },
+    {
+     "n": 2,
+     "titulo": "Recall",
+     "duracao": "4:24"
+    },
+    {
+     "n": 3,
+     "titulo": "One More River to Cross",
+     "duracao": "2:42"
+    },
+    {
+     "n": 4,
+     "titulo": "Death Row #172",
+     "duracao": "5:33"
+    },
+    {
+     "n": 5,
+     "titulo": "Short Dogs and Englishmen",
+     "duracao": "6:30"
+    },
+    {
+     "n": 6,
+     "titulo": "See the Monkey Run",
+     "duracao": "2:34"
+    },
+    {
+     "n": 7,
+     "titulo": "The Time Has Come (to Make Your Peace)",
+     "duracao": "3:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Thank God for You Baby",
+     "duracao": "6:54"
+    },
+    {
+     "n": 9,
+     "titulo": "When the Sun Shines",
+     "duracao": "4:10"
+    }
+   ],
+   "duracao_min": 39,
+   "critica": {},
+   "publico": 4,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "265cf9dc-1566-4a47-9abd-bf2f6f3587f8",
+   "titulo": "Pacific Gas & Electric Starring Charlie Allen",
+   "data": "1973",
+   "ano": "1973",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Gumbo Jones",
+     "duracao": "4:45"
+    },
+    {
+     "n": 2,
+     "titulo": "Roll Georgia",
+     "duracao": "5:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Somebody You Love",
+     "duracao": "2:50"
+    },
+    {
+     "n": 4,
+     "titulo": "Hold On",
+     "duracao": "3:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Dancin’ in the Fire",
+     "duracao": "4:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Good Gospel Music",
+     "duracao": "5:45"
+    },
+    {
+     "n": 7,
+     "titulo": "Hear the Trumpets Calling",
+     "duracao": "2:47"
+    },
+    {
+     "n": 8,
+     "titulo": "Some Kind of Feelin’",
+     "duracao": "4:45"
+    },
+    {
+     "n": 9,
+     "titulo": "I Got a Thing About You, Baby",
+     "duracao": "2:39"
+    },
+    {
+     "n": 10,
+     "titulo": "Sunshine Embrace",
+     "duracao": "2:55"
+    },
+    {
+     "n": 11,
+     "titulo": "Niggers in the Wood",
+     "duracao": "2:07"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

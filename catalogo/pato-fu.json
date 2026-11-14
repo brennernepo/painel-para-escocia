@@ -1,0 +1,1148 @@
+{
+ "id": "pato-fu",
+ "nome": "Pato Fu",
+ "cena": "Descobertas do acervo",
+ "mbid": "e6abe447-5f3c-4133-81b6-1cd4f0ba09dc",
+ "wikidata": "Q2916114",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1992",
+ "fim": null,
+ "ativa": true,
+ "generos": [],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PatoFu.jpg/500px-PatoFu.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Pato_Fu",
+ "resumo_pt": "Pato Fu é uma banda brasileira de pop rock formada em 1992, em Belo Horizonte, por Fernanda Takai, John Ulhoa, Ricardo Koctus, Xande Tamietti e Richard Neves.\nO grupo mineiro possui 16 discos e 5 DVDs lançados e shows por todo Brasil, além de Japão, Portugal, Inglaterra e Estados Unidos.\nEm 2001, ao lado de Radiohead, U2 e Portishead, foi considerada pela revista Time uma das 10 melhores bandas do mundo. Em 2022, foi eleita pelo site russo Ultimate Guitar, como a 19ª melhor banda de todos os tempos no Brasil.\nEntre as músicas que a banda gravou mais famosas estão \"Sobre o Tempo\", \"Antes que Seja Tarde\", \"Depois\", \"Perdendo Dentes\", \"Anormal\" e a regravação de \"Ando Meio Desligado\". O grupo também se destacou pelo álbum Música de Brinquedo, em 2010, tocado somente com instrumentos de brinquedo.",
+ "resumo_en": "Pato Fu is a Brazilian indie rock band from Belo Horizonte, Minas Gerais. The band was formed by lead singer & rhythm guitarist Fernanda Takai, lead guitarist, backing vocalist and primary songwriter John Ulhoa, and bassist Ricardo Koctus, in September 1992. Long-time drummer Xande Tamietti joined after the release of Gol de Quem? and left the band in 2014, being replaced by Glauco Nastácia until Tamietti returned again in 2022; keyboardist Richard Neves replaced [Lulu Camargo in 2016. The band is also famous for their 2010 album Música de Brinquedo, which was written using only toy instruments. It was at one point included with U2 and Radiohead in a list of the 10 best bands in the world, according to Time magazine.",
+ "albuns": [
+  {
+   "id": "867275a6-9c81-3523-93ca-1823fadf4a85",
+   "titulo": "Rotomusic de liquidificapum",
+   "data": "1993",
+   "ano": "1993",
+   "capa": "https://coverartarchive.org/release/88503bdb-4ac7-4909-bff3-de9de44e5a43/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rotomusic de liquidificapum",
+     "duracao": "7:34"
+    },
+    {
+     "n": 2,
+     "titulo": "Sítio do Pica-Pau Amarelo",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "O processo da criação vai de 10 a 100 mil",
+     "duracao": "4:11"
+    },
+    {
+     "n": 4,
+     "titulo": "Meu coração é uma privada",
+     "duracao": "2:56"
+    },
+    {
+     "n": 5,
+     "titulo": "Minhas férias",
+     "duracao": "4:33"
+    },
+    {
+     "n": 6,
+     "titulo": "Meu pai, meu irmão",
+     "duracao": "3:36"
+    },
+    {
+     "n": 7,
+     "titulo": "Hino nacional do Pato Fu",
+     "duracao": "1:16"
+    },
+    {
+     "n": 8,
+     "titulo": "G.R.E.S.",
+     "duracao": "4:13"
+    },
+    {
+     "n": 9,
+     "titulo": "Gimme 30",
+     "duracao": "3:50"
+    },
+    {
+     "n": 10,
+     "titulo": "O mundo ainda não está pronto",
+     "duracao": "6:12"
+    },
+    {
+     "n": 11,
+     "titulo": "Eu sou o umbigo do mundo",
+     "duracao": "3:37"
+    },
+    {
+     "n": 12,
+     "titulo": "O amor em carne e osso",
+     "duracao": "1:48"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rotomusic_de_Liquidificapum",
+   "resumo_en": "Rotomusic de Liquidificapum is the first album of the Brazilian rock band Pato Fu. It was released in 1993.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "45c4c275-63fa-31cc-8efe-83ea75dd9ffd",
+   "titulo": "Gol de quem?",
+   "data": "1995-01-05",
+   "ano": "1995",
+   "capa": "https://coverartarchive.org/release/1a23ba21-ebaa-46e8-ae56-38b3b480b876/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "And Now",
+     "duracao": "1:42"
+    },
+    {
+     "n": 2,
+     "titulo": "Mamãe ama é o meu revólver",
+     "duracao": "3:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Vida imbecil",
+     "duracao": "3:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Gol de quem?",
+     "duracao": "2:46"
+    },
+    {
+     "n": 5,
+     "titulo": "Sertões",
+     "duracao": "4:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Onofle",
+     "duracao": "4:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Sobre o tempo",
+     "duracao": "3:27"
+    },
+    {
+     "n": 8,
+     "titulo": "A volta do boêmio",
+     "duracao": "4:32"
+    },
+    {
+     "n": 9,
+     "titulo": "Qualquer bobagem",
+     "duracao": "3:34"
+    },
+    {
+     "n": 10,
+     "titulo": "Ring My Bell",
+     "duracao": "3:15"
+    },
+    {
+     "n": 11,
+     "titulo": "Ok! All Right!",
+     "duracao": "1:37"
+    },
+    {
+     "n": 12,
+     "titulo": "Vida de operário",
+     "duracao": "4:15"
+    },
+    {
+     "n": 13,
+     "titulo": "Spoc",
+     "duracao": "4:09"
+    },
+    {
+     "n": 14,
+     "titulo": "Ob-la-di-ob-la-da",
+     "duracao": "1:10"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gol_de_Quem%3F",
+   "resumo_en": "Gol de Quem? is the second studio album of the Brazilian rock band Pato Fu. The album utilizes elements of alternative and experimental rock, and was released on 29 April, 1997. It sold approximately 50,000 copies.\n\"Vida de Operário\" is a cover of the Brazilian punk band Excomungados.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "009e6534-4fd7-390f-91d6-60e2f2dbb6e6",
+   "titulo": "Tem mas acabou",
+   "data": "1996-06-28",
+   "ano": "1996",
+   "capa": "https://coverartarchive.org/release/08feeaca-4c80-41b0-a9a6-accade27ce2b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Nós mês",
+     "duracao": "1:10"
+    },
+    {
+     "n": 2,
+     "titulo": "Água",
+     "duracao": "4:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Pinga",
+     "duracao": "3:38"
+    },
+    {
+     "n": 4,
+     "titulo": "Capetão 66.6 FM",
+     "duracao": "4:19"
+    },
+    {
+     "n": 5,
+     "titulo": "O peso das coisas",
+     "duracao": "3:29"
+    },
+    {
+     "n": 6,
+     "titulo": "Tchau to indo já fui",
+     "duracao": "2:54"
+    },
+    {
+     "n": 7,
+     "titulo": "Céreblo",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Nuvens",
+     "duracao": "2:14"
+    },
+    {
+     "n": 9,
+     "titulo": "Little Mother of Sky",
+     "duracao": "3:23"
+    },
+    {
+     "n": 10,
+     "titulo": "Porque te vas",
+     "duracao": "3:08"
+    },
+    {
+     "n": 11,
+     "titulo": "1 de vocês",
+     "duracao": "2:58"
+    },
+    {
+     "n": 12,
+     "titulo": "Lá se vai",
+     "duracao": "2:57"
+    },
+    {
+     "n": 13,
+     "titulo": "Dentro/Fora",
+     "duracao": "1:45"
+    },
+    {
+     "n": 14,
+     "titulo": "Feliz ano novo",
+     "duracao": "14:19"
+    }
+   ],
+   "duracao_min": 54,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tem_Mas_Acabou",
+   "resumo_en": "Tem Mas Acabou is the third studio album of the Brazilian rock band Pato Fu. Tem Mas Acabou tries to change the pop sound that gave them their hit \"Sobre o Tempo\". The hit \"Pinga\" tries to establish a Brazilian atmosphere through the lyrics, even if the instrumental backing is a blend of rock and reggae. Incidental radio noise introduces a peculiar piece with Brazilian imagery (the small portable radios used by humble people to listen soccer games). \"O Peso das Coisas\" and \"Porque te Vas\" (an Attaque 77 cover) also have hit potential—the first with its tender melodic line, delivered with simplicity by Fernanda Takai, and the latter is a version for the theme song to Carlos Saura's film Cría cuervos. The group, formed by light-hearted youngsters with no professional approach to music and much humor, has made a well-produced album. This one was produced by André Abujamra (from Karnak), who supplies the needed resources.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "fa5ca5db-4927-3b6e-9215-781b6d4bb703",
+   "titulo": "Televisão De Cachorro",
+   "data": "1998",
+   "ano": "1998",
+   "capa": "https://coverartarchive.org/release/fce729fd-30d5-4a05-95a5-95c32d542e89/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "A Necrofilia Da Arte",
+     "duracao": "4:04"
+    },
+    {
+     "n": 2,
+     "titulo": "Antes Que Seja Tarde",
+     "duracao": "4:15"
+    },
+    {
+     "n": 3,
+     "titulo": "Nunca Diga",
+     "duracao": "2:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Eu Sei",
+     "duracao": "3:05"
+    },
+    {
+     "n": 5,
+     "titulo": "Licitação",
+     "duracao": "2:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Vivo Num Morro",
+     "duracao": "3:37"
+    },
+    {
+     "n": 7,
+     "titulo": "Um Dia, Um Ladrão",
+     "duracao": "2:33"
+    },
+    {
+     "n": 8,
+     "titulo": "Canção Pra Você Viver Mais",
+     "duracao": "5:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Tempestade",
+     "duracao": "2:48"
+    },
+    {
+     "n": 10,
+     "titulo": "O Mundo Não Mudou",
+     "duracao": "2:44"
+    },
+    {
+     "n": 11,
+     "titulo": "Televisão De Cachorro",
+     "duracao": "3:41"
+    },
+    {
+     "n": 12,
+     "titulo": "Spaceballs, The Ballad",
+     "duracao": "4:28"
+    },
+    {
+     "n": 13,
+     "titulo": "Boa Noite",
+     "duracao": "2:54"
+    }
+   ],
+   "duracao_min": 45,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 6.0,
+    "fontes": 1
+   },
+   "publico": 6,
+   "publico_votos": 1,
+   "wikipedia": "https://en.wikipedia.org/wiki/Televis%C3%A3o_de_Cachorro",
+   "resumo_en": "Televisão de Cachorro is the fourth studio album of the Brazilian rock band Pato Fu. The album was produced by Dudu Marote.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d5cf8355-657c-3dc1-83b6-51e0196b9903",
+   "titulo": "Isopor",
+   "data": "1999-10",
+   "ano": "1999",
+   "capa": "https://coverartarchive.org/release/eb3cfdf2-54bb-4dde-b69b-13a0c436b767/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Made in Japan",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Isopor",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Depois",
+     "duracao": "4:27"
+    },
+    {
+     "n": 4,
+     "titulo": "Um ponto oito",
+     "duracao": "6:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Imperfeito",
+     "duracao": "3:43"
+    },
+    {
+     "n": 6,
+     "titulo": "Morto",
+     "duracao": "3:11"
+    },
+    {
+     "n": 7,
+     "titulo": "O filho predileto do Rajneesh",
+     "duracao": "3:50"
+    },
+    {
+     "n": 8,
+     "titulo": "Perdendo dentes",
+     "duracao": "4:20"
+    },
+    {
+     "n": 9,
+     "titulo": "Saudade",
+     "duracao": "4:23"
+    },
+    {
+     "n": 10,
+     "titulo": "O prato do dia",
+     "duracao": "4:26"
+    },
+    {
+     "n": 11,
+     "titulo": "Quase",
+     "duracao": "2:40"
+    }
+   ],
+   "duracao_min": 46,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "ac9c42e3-0142-3917-8ce4-6a2044133534",
+   "titulo": "Ruído rosa",
+   "data": "2001-03",
+   "ano": "2001",
+   "capa": "https://coverartarchive.org/release/6a5fa97b-e258-42e2-a086-cc06c6aaf7d2/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Eu",
+     "duracao": "3:01"
+    },
+    {
+     "n": 2,
+     "titulo": "Ninguém",
+     "duracao": "4:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Day After Day",
+     "duracao": "3:55"
+    },
+    {
+     "n": 4,
+     "titulo": "Tribunal de causas realmente pequenas",
+     "duracao": "4:12"
+    },
+    {
+     "n": 5,
+     "titulo": "Menti pra você, mas foi sem querer",
+     "duracao": "3:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Ruído rosa",
+     "duracao": "3:28"
+    },
+    {
+     "n": 7,
+     "titulo": "Deus",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "2 malucos",
+     "duracao": "3:17"
+    },
+    {
+     "n": 9,
+     "titulo": "Tolices",
+     "duracao": "3:59"
+    },
+    {
+     "n": 10,
+     "titulo": "Que fragilidade",
+     "duracao": "3:09"
+    },
+    {
+     "n": 11,
+     "titulo": "E o vento levou...",
+     "duracao": "3:42"
+    },
+    {
+     "n": 12,
+     "titulo": "Sorria, você está sendo filmado",
+     "duracao": "4:09"
+    },
+    {
+     "n": 13,
+     "titulo": "Ando meio desligado",
+     "duracao": "3:28"
+    }
+   ],
+   "duracao_min": 48,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 9.0,
+    "fontes": 1
+   },
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ru%C3%ADdo_Rosa",
+   "resumo_en": "Ruído Rosa is the sixth album of the Brazilian rock band Pato Fu.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "1ad559a1-e445-32ac-8de7-67ea5cdfa869",
+   "titulo": "Toda cura para todo mal",
+   "data": "2005",
+   "ano": "2005",
+   "capa": "https://coverartarchive.org/release/56c11637-a8ee-435a-abb6-9707f201752b/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Anormal",
+     "duracao": "3:25"
+    },
+    {
+     "n": 2,
+     "titulo": "Uh uh uh, lá lá lá, ié ié!",
+     "duracao": "3:16"
+    },
+    {
+     "n": 3,
+     "titulo": "Sorte e azar",
+     "duracao": "3:58"
+    },
+    {
+     "n": 4,
+     "titulo": "Amendoim",
+     "duracao": "3:29"
+    },
+    {
+     "n": 5,
+     "titulo": "Simplicidade",
+     "duracao": "3:24"
+    },
+    {
+     "n": 6,
+     "titulo": "Agridoce",
+     "duracao": "3:44"
+    },
+    {
+     "n": 7,
+     "titulo": "No aeroporto",
+     "duracao": "3:37"
+    },
+    {
+     "n": 8,
+     "titulo": "Estudar pra quê?",
+     "duracao": "3:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Vida diet",
+     "duracao": "3:58"
+    },
+    {
+     "n": 10,
+     "titulo": "O que é isso?",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "!",
+     "duracao": "2:51"
+    },
+    {
+     "n": 12,
+     "titulo": "Tudo",
+     "duracao": "3:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Boa noite Brasil",
+     "duracao": "4:57"
+    }
+   ],
+   "duracao_min": 47,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Toda_Cura_para_Todo_Mal",
+   "resumo_en": "Pato Fu is a Brazilian indie rock band from Belo Horizonte, Minas Gerais. The band was formed by lead singer & rhythm guitarist Fernanda Takai, lead guitarist, backing vocalist and primary songwriter John Ulhoa, and bassist Ricardo Koctus, in September 1992. Long-time drummer Xande Tamietti joined after the release of Gol de Quem? and left the band in 2014, being replaced by Glauco Nastácia until Tamietti returned again in 2022; keyboardist Richard Neves replaced [Lulu Camargo in 2016. The band is also famous for their 2010 album Música de Brinquedo, which was written using only toy instruments. It was at one point included with U2 and Radiohead in a list of the 10 best bands in the world, according to Time magazine.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "d2572506-54e2-39b2-a933-e39495f4136e",
+   "titulo": "Daqui pro futuro",
+   "data": "2007-08-10",
+   "ano": "2007",
+   "capa": "https://coverartarchive.org/release/c53476ae-47d7-4606-b535-06cf4c7823da/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "30.000 pés",
+     "duracao": "3:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Mamã papá",
+     "duracao": "3:08"
+    },
+    {
+     "n": 3,
+     "titulo": "Espero",
+     "duracao": "3:08"
+    },
+    {
+     "n": 4,
+     "titulo": "Cities in dust",
+     "duracao": "4:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Tudo vai ficar bem",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "A hora da estrela",
+     "duracao": "3:24"
+    },
+    {
+     "n": 7,
+     "titulo": "Woo!",
+     "duracao": "4:07"
+    },
+    {
+     "n": 8,
+     "titulo": "A verdade sobre o tempo",
+     "duracao": "3:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Quem não sou",
+     "duracao": "7:24"
+    },
+    {
+     "n": 10,
+     "titulo": "Vagalume",
+     "duracao": "5:51"
+    },
+    {
+     "n": 11,
+     "titulo": "Nada original",
+     "duracao": "6:27"
+    },
+    {
+     "n": 12,
+     "titulo": "1000 guilhotinas",
+     "duracao": "8:20"
+    }
+   ],
+   "duracao_min": 57,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": "https://en.wikipedia.org/wiki/Daqui_Pro_Futuro",
+   "resumo_en": "Pato Fu is a Brazilian indie rock band from Belo Horizonte, Minas Gerais. The band was formed by lead singer & rhythm guitarist Fernanda Takai, lead guitarist, backing vocalist and primary songwriter John Ulhoa, and bassist Ricardo Koctus, in September 1992. Long-time drummer Xande Tamietti joined after the release of Gol de Quem? and left the band in 2014, being replaced by Glauco Nastácia until Tamietti returned again in 2022; keyboardist Richard Neves replaced [Lulu Camargo in 2016. The band is also famous for their 2010 album Música de Brinquedo, which was written using only toy instruments. It was at one point included with U2 and Radiohead in a list of the 10 best bands in the world, according to Time magazine.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "642c6459-05e1-461b-86b1-a534a35c221f",
+   "titulo": "Música de brinquedo",
+   "data": "2010-03-08",
+   "ano": "2010",
+   "capa": "https://coverartarchive.org/release/82d0acb3-5753-4aec-b23f-05c8278b95bf/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Primavera (Vai chuva)",
+     "duracao": "2:14"
+    },
+    {
+     "n": 2,
+     "titulo": "Sonífera ilha",
+     "duracao": "2:52"
+    },
+    {
+     "n": 3,
+     "titulo": "Rock and Roll Lullaby",
+     "duracao": "4:19"
+    },
+    {
+     "n": 4,
+     "titulo": "Frevo mulher",
+     "duracao": "4:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Ovelha negra",
+     "duracao": "5:16"
+    },
+    {
+     "n": 6,
+     "titulo": "Todos estão surdos",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Live and Let Die",
+     "duracao": "3:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Pelo interfone",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Twiggy Twiggy",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "My Girl",
+     "duracao": "2:49"
+    },
+    {
+     "n": 11,
+     "titulo": "Ska",
+     "duracao": "2:26"
+    },
+    {
+     "n": 12,
+     "titulo": "Love Me Tender",
+     "duracao": "3:13"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "da1edb7a-18ae-4583-9d16-a402dd9a1c7a",
+   "titulo": "Não pare pra pensar",
+   "data": "2014-10-21",
+   "ano": "2014",
+   "capa": "https://coverartarchive.org/release/3e3e3907-b31a-4322-85dd-c6e04bc0eb65/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Cego para as cores",
+     "duracao": "4:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Crédito ou débito",
+     "duracao": "3:24"
+    },
+    {
+     "n": 3,
+     "titulo": "Ninguém mexe com o Diabo",
+     "duracao": "3:59"
+    },
+    {
+     "n": 4,
+     "titulo": "Não pare pra pensar",
+     "duracao": "4:13"
+    },
+    {
+     "n": 5,
+     "titulo": "Eu era feliz",
+     "duracao": "3:48"
+    },
+    {
+     "n": 6,
+     "titulo": "Um dia do seu Sol",
+     "duracao": "3:45"
+    },
+    {
+     "n": 7,
+     "titulo": "You Have to Outgrow Rock'n Roll",
+     "duracao": "3:12"
+    },
+    {
+     "n": 8,
+     "titulo": "Siga mesmo no escuro",
+     "duracao": "4:12"
+    },
+    {
+     "n": 9,
+     "titulo": "Pra qualquer bicho",
+     "duracao": "4:12"
+    },
+    {
+     "n": 10,
+     "titulo": "Mesmo que seja eu",
+     "duracao": "3:33"
+    },
+    {
+     "n": 11,
+     "titulo": "Eu ando tendo sorte",
+     "duracao": "3:22"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "383445be-8590-4d96-ab3e-4ac78d8fac3a",
+   "titulo": "Música de brinquedo 2",
+   "data": "2017-09-01",
+   "ano": "2017",
+   "capa": "https://coverartarchive.org/release/308fc898-551e-41ad-911a-c96e5279ee04/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Palco",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Livin’ la Vida Loca",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "Kid cavaquinho",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "I Saw You Saying (That You Say That You Say)",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "Rock da cachorra",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Datemi un martello",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Severina xique-xique",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "Every Breath You Take",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Mamãe natureza",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Private Idaho",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Não se vá (Tu t’en vas)",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "5624fe80-af20-484f-8cb9-d2b1f4e02db7",
+   "titulo": "30",
+   "data": "2023-03-31",
+   "ano": "2023",
+   "capa": "https://coverartarchive.org/release/e740a1bf-553b-4f45-bf13-a8add77a94d9/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fique onde eu possa te ver",
+     "duracao": "3:43"
+    },
+    {
+     "n": 2,
+     "titulo": "Silenciador",
+     "duracao": "3:05"
+    },
+    {
+     "n": 3,
+     "titulo": "Diga sim",
+     "duracao": "3:54"
+    },
+    {
+     "n": 4,
+     "titulo": "No silêncio",
+     "duracao": "3:42"
+    },
+    {
+     "n": 5,
+     "titulo": "A besta",
+     "duracao": "2:19"
+    },
+    {
+     "n": 6,
+     "titulo": "Amo só você (Io che amo solo te)",
+     "duracao": "3:50"
+    },
+    {
+     "n": 7,
+     "titulo": "Regresso",
+     "duracao": "2:41"
+    },
+    {
+     "n": 8,
+     "titulo": "Curral mal-assombrado",
+     "duracao": "2:48"
+    },
+    {
+     "n": 9,
+     "titulo": "Dias incertos",
+     "duracao": "3:49"
+    }
+   ],
+   "duracao_min": 30,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "55c94594-7ac6-4811-9b8d-90d0b3c49a92",
+   "titulo": "Música de Brinquedo, a Série - Temporada 1",
+   "data": "2025-02-14",
+   "ano": "2025",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Severina Xique - Xique",
+     "duracao": "3:16"
+    },
+    {
+     "n": 2,
+     "titulo": "Mamãe Natureza",
+     "duracao": "3:54"
+    },
+    {
+     "n": 3,
+     "titulo": "I Saw You Saying (That You Say That You Saw)",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Palco",
+     "duracao": "4:22"
+    },
+    {
+     "n": 5,
+     "titulo": "Datemi Un Martelo (If I Had a Hammer)",
+     "duracao": "2:46"
+    },
+    {
+     "n": 6,
+     "titulo": "Kid Cavaquinho",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "Every Breath You Take",
+     "duracao": "4:17"
+    },
+    {
+     "n": 8,
+     "titulo": "Não Se Vá (Tu T'en Vas)",
+     "duracao": "4:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Livin' La Vida Loca",
+     "duracao": "4:04"
+    },
+    {
+     "n": 10,
+     "titulo": "Rock da Cachorra",
+     "duracao": "3:17"
+    },
+    {
+     "n": 11,
+     "titulo": "Private Idaho",
+     "duracao": "3:34"
+    },
+    {
+     "n": 12,
+     "titulo": "Depois",
+     "duracao": "4:13"
+    },
+    {
+     "n": 13,
+     "titulo": "Uh Uh Uh, Lá Lá Lá, Ié Ié",
+     "duracao": "3:06"
+    },
+    {
+     "n": 14,
+     "titulo": "Música de Brinquedo, a Série (Intro)",
+     "duracao": "0:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Música de Brinquedo, a Série (Créditos)",
+     "duracao": "0:46"
+    }
+   ],
+   "duracao_min": 50,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "e5285c08-fe4e-4344-ae09-f4f402c9f327",
+   "titulo": "Música de Brinquedo, a Série - Segunda Temporada",
+   "data": "2026-04-24",
+   "ano": "2026",
+   "capa": null,
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Rock And Roll Lullaby",
+     "duracao": "3:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Eu",
+     "duracao": "3:19"
+    },
+    {
+     "n": 3,
+     "titulo": "Made In Japan",
+     "duracao": "3:33"
+    },
+    {
+     "n": 4,
+     "titulo": "My Girl",
+     "duracao": "2:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Todos Estão Surdos",
+     "duracao": "2:51"
+    },
+    {
+     "n": 6,
+     "titulo": "Ska",
+     "duracao": "2:27"
+    },
+    {
+     "n": 7,
+     "titulo": "Primavera (Vai Chuva)",
+     "duracao": "2:14"
+    },
+    {
+     "n": 8,
+     "titulo": "Ovelha Negra",
+     "duracao": "3:56"
+    },
+    {
+     "n": 9,
+     "titulo": "Sonífera Ilha",
+     "duracao": "2:56"
+    },
+    {
+     "n": 10,
+     "titulo": "Frevo Mulher",
+     "duracao": "3:34"
+    },
+    {
+     "n": 11,
+     "titulo": "Quizás, Quizás, Quizás",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Sobre o Tempo",
+     "duracao": "3:24"
+    },
+    {
+     "n": 13,
+     "titulo": "Porque Te Vas",
+     "duracao": "2:43"
+    },
+    {
+     "n": 14,
+     "titulo": "Música de Brinquedo, a Série (Intro)",
+     "duracao": "0:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Música de Brinquedo, a Série (Créditos)",
+     "duracao": "0:46"
+    }
+   ],
+   "duracao_min": 41,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

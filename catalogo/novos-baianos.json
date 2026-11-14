@@ -1,0 +1,631 @@
+{
+ "id": "novos-baianos",
+ "nome": "Novos Baianos",
+ "cena": "Descobertas do acervo",
+ "mbid": "7b543eba-995a-4c30-a37e-f8cac424f167",
+ "wikidata": "Q76825",
+ "tipo": "Group",
+ "pais": "BR",
+ "inicio": "1969",
+ "fim": "1979",
+ "ativa": false,
+ "generos": [
+  "mpb"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Novos_Baianos_2.tif/lossy-page1-500px-Novos_Baianos_2.tif.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Novos_Baianos",
+ "resumo_pt": "Novos Baianos é uma banda  brasileira de Rock e MPB originário da Bahia, ativo em seu auge entre os anos de 1969 e 1979, que se reuniu em 1990, 1996, 2015 e 2023.\nInfluenciou a música popular brasileira e o rock brasileiro nos anos 70, utilizando-se de vários ritmos musicais do país que vão de samba, bossa nova, frevo, baião, choro, afoxé e ijexá ao rock n' roll, influenciados pela contracultura e pela emergente tropicália.\nContava, em sua formação original, com Moraes Moreira (compositor, vocal e violão), Baby do Brasil (vocal), Pepeu Gomes (guitarra), Paulinho Boca de Cantor (vocal), Jorginho Gomes (bateria e bandolim), Bola e Baxinho (percussão), Dadi (baixo) e Luiz Galvão (letras).\nO grupo lançou oito trabalhos. O segundo disco do grupo, Acabou Chorare, foi eleito pela revista Rolling Stone como o melhor disco da história da música brasileira, em outubro de 2007.",
+ "resumo_en": "Novos Baianos (Brazilian Portuguese: [ˈnɔvuz bajˈɐ̃nus]; English: 'New Bahians') are a Brazilian rock and MPB group founded in Salvador, Bahia in 1969. The group was active between 1969 and 1979, enjoying success throughout the 1970s. The group had reunions in 1997, 2015, and 2020. Together, the group recorded eight full-length studio albums, as well as two live albums.\nThe group was highly influential on Brazilian popular music and Brazilian rock of the 1970s, combining various musical elements from genres such as samba, bossa nova, frevo, baião, choro, and rock n' roll. The group's music was also heavily influenced by 1970s counterculture and the emerging Tropicália artistic movement.\nThe group's original line-up consisted of Moraes Moreira (vocals and acoustic guitar), Paulinho Boca de Cantor (vocals), Pepeu Gomes (electric guitar), Baby Consuelo (vocals and percussion), and Luiz Galvão (lyrics).\nThe group regularly collaborated with A Cor do Som, a sub-group within Novos Baianos, which consisted of Dadi Carvalho (bass), Jorginho Gomes (cavaquinho, drums and percussion), and José \"Baixinho\" Roberto (drums and percussion). Luís Bolacha (percussion) additionally contributed to the group early in their career.\nNovos Baianos is considered one of the most important and revolutionary groups in Brazilian music, primarily as a result of the success and influence of their second studio album, Acabou Chorare.",
+ "albuns": [
+  {
+   "id": "5429e757-4f43-335d-830a-169ac29422aa",
+   "titulo": "Ferro na boneca",
+   "data": "1970",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/d43a5255-e078-40ae-8b08-54fabcb1b331/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ferro na boneca",
+     "duracao": "2:00"
+    },
+    {
+     "n": 2,
+     "titulo": "Eu de adjetivos",
+     "duracao": "3:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Outro mambo, outro mundo",
+     "duracao": "2:18"
+    },
+    {
+     "n": 4,
+     "titulo": "Colégio de aplicação",
+     "duracao": "1:45"
+    },
+    {
+     "n": 5,
+     "titulo": "A casca de banana que eu pisei",
+     "duracao": "2:20"
+    },
+    {
+     "n": 6,
+     "titulo": "Dona Nita e dona Helena",
+     "duracao": "2:11"
+    },
+    {
+     "n": 7,
+     "titulo": "Se eu quiser eu compro flores",
+     "duracao": "3:19"
+    },
+    {
+     "n": 8,
+     "titulo": "E o samba me traiu",
+     "duracao": "2:00"
+    },
+    {
+     "n": 9,
+     "titulo": "Baby consuelo",
+     "duracao": "2:00"
+    },
+    {
+     "n": 10,
+     "titulo": "Tangolete",
+     "duracao": "2:18"
+    },
+    {
+     "n": 11,
+     "titulo": "Curto de véu e grinalda",
+     "duracao": "2:28"
+    },
+    {
+     "n": 12,
+     "titulo": "Juventude sexta e sábado",
+     "duracao": "2:45"
+    },
+    {
+     "n": 13,
+     "titulo": "De vera",
+     "duracao": "2:47"
+    }
+   ],
+   "duracao_min": 31,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "65790705-6d7b-3596-a427-fe5b8ab6481d",
+   "titulo": "Acabou chorare",
+   "data": "1972",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/3daa1d9c-bf50-4802-aa78-04c4b507a076/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Brasil pandeiro",
+     "duracao": "3:56"
+    },
+    {
+     "n": 2,
+     "titulo": "Preta pretinha",
+     "duracao": "6:40"
+    },
+    {
+     "n": 3,
+     "titulo": "Tinindo trincando",
+     "duracao": "3:25"
+    },
+    {
+     "n": 4,
+     "titulo": "Swing de Campo Grande",
+     "duracao": "3:10"
+    },
+    {
+     "n": 5,
+     "titulo": "Acabou chorare",
+     "duracao": "4:12"
+    },
+    {
+     "n": 6,
+     "titulo": "Mistério do planeta",
+     "duracao": "3:39"
+    },
+    {
+     "n": 7,
+     "titulo": "A menina dança",
+     "duracao": "3:52"
+    },
+    {
+     "n": 8,
+     "titulo": "Besta é tu",
+     "duracao": "4:25"
+    },
+    {
+     "n": 9,
+     "titulo": "Um bilhete para Didi",
+     "duracao": "2:53"
+    },
+    {
+     "n": 10,
+     "titulo": "Preta pretinha",
+     "duracao": "3:23"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.5,
+    "fontes": 2
+   },
+   "publico": 9.0,
+   "publico_votos": 2,
+   "wikipedia": "https://en.wikipedia.org/wiki/Acabou_Chorare",
+   "resumo_en": "Acabou Chorare (Brazilian Portuguese pronunciation: [akaˈbow ʃoˈɾaɾi], 'No More Crying') is the second studio album by Brazilian rock and MPB group Novos Baianos. The album was released in 1972 by Som Livre, following the group's moderately successful debut É Ferro na Boneca (1970). During the recording of the album, the group took inspiration from various contemporary artists of the time, such as Jimi Hendrix, João Gilberto, and Assis Valente. In addition, Gilberto heavily influenced the sound of the album, as he served as the group's mentor during the album's recording sessions. The album was written and recorded as a response to contemporary Brazilian music of the 1970s, which often dealt with melancholic subject matters, due in part to the ongoing Brazilian military dictatorship.\nAcabou Chorare is a MPB, samba rock and tropicália album with elements of frevo, baião, choro, afoxé and rock and roll. These elements were influenced by João Gilberto, who introduced them to Brazilian musical traditions, incorporating those elements into their sound while maintaining rock energy. Guitarist Pepeu Gomes contributed virtuosic solos and experimented with custom-built instruments and disto",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "0d10250d-04c9-3c4b-9d36-c3aaca5aaabb",
+   "titulo": "Novos Baianos F.C.",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/3e2c102f-7cc4-426c-8af6-4383cd3aad9d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Sorrir e cantar como Bahia",
+     "duracao": "3:38"
+    },
+    {
+     "n": 2,
+     "titulo": "Só se não for brasileiro nessa hora",
+     "duracao": "3:26"
+    },
+    {
+     "n": 3,
+     "titulo": "Cosmos e Damião",
+     "duracao": "4:06"
+    },
+    {
+     "n": 4,
+     "titulo": "O samba da minha terra",
+     "duracao": "3:27"
+    },
+    {
+     "n": 5,
+     "titulo": "Vagabundo não é fácil",
+     "duracao": "5:05"
+    },
+    {
+     "n": 6,
+     "titulo": "Com qualquer dois mil réis",
+     "duracao": "3:38"
+    },
+    {
+     "n": 7,
+     "titulo": "Os 'Pingo' da chuva",
+     "duracao": "4:08"
+    },
+    {
+     "n": 8,
+     "titulo": "Quando você chegar",
+     "duracao": "3:18"
+    },
+    {
+     "n": 9,
+     "titulo": "Alimente",
+     "duracao": "4:43"
+    },
+    {
+     "n": 10,
+     "titulo": "Dagmar",
+     "duracao": "2:31"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": 10,
+   "publico_votos": 1,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "07d4cb4d-ea1c-3b83-bb4e-4ee91c9d769b",
+   "titulo": "Novos Baianos",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/3bbe0f4d-1179-4fdf-ae70-ca264808ba54/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Fala tamborim (Em pleno 74)",
+     "duracao": "2:29"
+    },
+    {
+     "n": 2,
+     "titulo": "Ladeira da praça",
+     "duracao": "4:22"
+    },
+    {
+     "n": 3,
+     "titulo": "Eu sou o caso deles",
+     "duracao": "4:02"
+    },
+    {
+     "n": 4,
+     "titulo": "Miragem",
+     "duracao": "3:58"
+    },
+    {
+     "n": 5,
+     "titulo": "Isabel (Bebel)",
+     "duracao": "3:35"
+    },
+    {
+     "n": 6,
+     "titulo": "Linguagem do Alunte",
+     "duracao": "3:31"
+    },
+    {
+     "n": 7,
+     "titulo": "Ao poeta",
+     "duracao": "3:38"
+    },
+    {
+     "n": 8,
+     "titulo": "Reis da bola",
+     "duracao": "2:59"
+    },
+    {
+     "n": 9,
+     "titulo": "Bolado",
+     "duracao": "3:32"
+    }
+   ],
+   "duracao_min": 32,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "c65e13cd-de13-3985-8b46-9486ae381e15",
+   "titulo": "Vamos pro mundo",
+   "data": "1974",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/395a9107-2f63-4949-beae-fc77f909016d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Vamos pro mundo",
+     "duracao": "2:21"
+    },
+    {
+     "n": 2,
+     "titulo": "Guria",
+     "duracao": "5:10"
+    },
+    {
+     "n": 3,
+     "titulo": "Na cadência do samba",
+     "duracao": "3:29"
+    },
+    {
+     "n": 4,
+     "titulo": "Tangolete",
+     "duracao": "1:56"
+    },
+    {
+     "n": 5,
+     "titulo": "América tropical",
+     "duracao": "4:25"
+    },
+    {
+     "n": 6,
+     "titulo": "Chuvisco",
+     "duracao": "2:44"
+    },
+    {
+     "n": 7,
+     "titulo": "Escorrega sebosa",
+     "duracao": "4:02"
+    },
+    {
+     "n": 8,
+     "titulo": "Ô menina",
+     "duracao": "3:04"
+    },
+    {
+     "n": 9,
+     "titulo": "Um dentro do (outro)",
+     "duracao": "3:11"
+    },
+    {
+     "n": 10,
+     "titulo": "Um bilhete para Didi",
+     "duracao": "5:46"
+    },
+    {
+     "n": 11,
+     "titulo": "Preta pretinha no carnaval",
+     "duracao": "3:24"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "45808f46-875c-36ac-9d07-653b128d17dc",
+   "titulo": "Caia na estrada e perigas ver",
+   "data": "1976",
+   "ano": "1976",
+   "capa": "https://coverartarchive.org/release/93fe71c7-e657-4eb4-9f6a-586926a4e18d/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Beija Flor",
+     "duracao": "2:59"
+    },
+    {
+     "n": 2,
+     "titulo": "Ziriguidum",
+     "duracao": "2:30"
+    },
+    {
+     "n": 3,
+     "titulo": "Se chorar beba a lágrima",
+     "duracao": "3:06"
+    },
+    {
+     "n": 4,
+     "titulo": "Na banguela",
+     "duracao": "3:59"
+    },
+    {
+     "n": 5,
+     "titulo": "Biribinha nos States",
+     "duracao": "2:50"
+    },
+    {
+     "n": 6,
+     "titulo": "Sensibilidade da bossa",
+     "duracao": "2:18"
+    },
+    {
+     "n": 7,
+     "titulo": "Porto dos balões",
+     "duracao": "0:55"
+    },
+    {
+     "n": 8,
+     "titulo": "Caia na estrada e perigas ver",
+     "duracao": "3:24"
+    },
+    {
+     "n": 9,
+     "titulo": "Brasileirinho",
+     "duracao": "3:38"
+    },
+    {
+     "n": 10,
+     "titulo": "Barra Lucifer",
+     "duracao": "3:57"
+    },
+    {
+     "n": 11,
+     "titulo": "Rocarnaval",
+     "duracao": "2:52"
+    },
+    {
+     "n": 12,
+     "titulo": "Eu não procuro som",
+     "duracao": "2:31"
+    },
+    {
+     "n": 13,
+     "titulo": "Suor do sol",
+     "duracao": "2:38"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "80844429-a39f-364f-bb46-d91211556a1b",
+   "titulo": "Praga de baiano",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/290958c6-7f83-4f72-ba58-9a3ca776c5e7/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Praga de baiano",
+     "duracao": null
+    },
+    {
+     "n": 2,
+     "titulo": "Vassourinha",
+     "duracao": null
+    },
+    {
+     "n": 3,
+     "titulo": "O clube do povo",
+     "duracao": null
+    },
+    {
+     "n": 4,
+     "titulo": "Haroldinho filho e peixe",
+     "duracao": null
+    },
+    {
+     "n": 5,
+     "titulo": "O petróleo é nosso",
+     "duracao": null
+    },
+    {
+     "n": 6,
+     "titulo": "Caias na estrada e perigas ver",
+     "duracao": null
+    },
+    {
+     "n": 7,
+     "titulo": "Campeão dos campeões",
+     "duracao": null
+    },
+    {
+     "n": 8,
+     "titulo": "O patrão é meu pandeiro",
+     "duracao": null
+    },
+    {
+     "n": 9,
+     "titulo": "Pegando fogo",
+     "duracao": null
+    },
+    {
+     "n": 10,
+     "titulo": "Luzes no chão",
+     "duracao": null
+    },
+    {
+     "n": 11,
+     "titulo": "Refazenda",
+     "duracao": null
+    },
+    {
+     "n": 12,
+     "titulo": "Frevo da Lyra",
+     "duracao": null
+    },
+    {
+     "n": 13,
+     "titulo": "Os mais doces bárbaros",
+     "duracao": null
+    },
+    {
+     "n": 14,
+     "titulo": "Show Me the Way",
+     "duracao": null
+    },
+    {
+     "n": 15,
+     "titulo": "Severina Xique Xique",
+     "duracao": null
+    }
+   ],
+   "duracao_min": null,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b5b6d447-38bb-33a5-b1c6-f305b72d5ca5",
+   "titulo": "Farol da barra",
+   "data": "1978",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/4294183b-5a00-41ff-a684-7cea888d5039/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Farol da barra",
+     "duracao": "3:22"
+    },
+    {
+     "n": 2,
+     "titulo": "Isto aqui o que é?",
+     "duracao": "2:44"
+    },
+    {
+     "n": 3,
+     "titulo": "Straight Flush",
+     "duracao": "2:39"
+    },
+    {
+     "n": 4,
+     "titulo": "Samba do sociólogo louco",
+     "duracao": "2:49"
+    },
+    {
+     "n": 5,
+     "titulo": "99 vezes",
+     "duracao": "3:36"
+    },
+    {
+     "n": 6,
+     "titulo": "Welcome",
+     "duracao": "2:03"
+    },
+    {
+     "n": 7,
+     "titulo": "Lá vem a baiana",
+     "duracao": "2:51"
+    },
+    {
+     "n": 8,
+     "titulo": "Alibabá Alibabou",
+     "duracao": "3:29"
+    },
+    {
+     "n": 9,
+     "titulo": "Na fogueira",
+     "duracao": "3:10"
+    },
+    {
+     "n": 10,
+     "titulo": "Vende-se sonhos",
+     "duracao": "3:39"
+    },
+    {
+     "n": 11,
+     "titulo": "O Tico-Tico mapiou",
+     "duracao": "2:44"
+    },
+    {
+     "n": 12,
+     "titulo": "Boogie Woogie do rato",
+     "duracao": "3:07"
+    },
+    {
+     "n": 13,
+     "titulo": "Sugestão geral",
+     "duracao": "1:40"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {},
+   "publico": null,
+   "publico_votos": 0,
+   "wikipedia": null,
+   "resumo_en": "",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}

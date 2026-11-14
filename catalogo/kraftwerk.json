@@ -1,0 +1,612 @@
+{
+ "id": "kraftwerk",
+ "nome": "Kraftwerk",
+ "cena": "Descobertas do acervo",
+ "mbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
+ "wikidata": "Q44892",
+ "tipo": "Group",
+ "pais": "DE",
+ "inicio": "1970",
+ "fim": null,
+ "ativa": true,
+ "generos": [
+  "electronic",
+  "krautrock",
+  "synth-pop",
+  "electro",
+  "techno"
+ ],
+ "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/KRAFTWERK_im_Kiew_01.jpg/500px-KRAFTWERK_im_Kiew_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+ "wikipedia": "https://pt.wikipedia.org/wiki/Kraftwerk",
+ "resumo_pt": "Kraftwerk (pronúncia em alemão: [ˈkʀaftvɛɐk], usina de energia) é um influente grupo musical alemão de música eletrônica. O grupo foi formado por Ralf Hütter e Florian Schneider em 1970, em Düsseldorf e liderado por ambos até a saída de Schneider, em 2008. A formação mais conhecida, duradoura e bem sucedida foi aquela que se consolidou entre 1975 e 1987 e que incluía os percussionistas Wolfgang Flür e Karl Bartos.\nReconhecido por muitos críticos musicais como tão influente quanto ou até mais que os Beatles por sua participação na música popular da segunda metade do século XX, as técnicas introduzidas e os equipamentos desenvolvidos pelo Kraftwerk são lugar-comum na músical atual e o grupo é geralmente tido como precursor de toda a dance music moderna de modo geral. Suas letras, por vezes cantadas através de um vocoder ou geradas sinteticamente, ainda que minimalistas, geralmente lidam com temas relacionados à vida urbana e à tecnologia. \nEm 2014 o Kraftwerk recebeu, junto aos The Beatles, o prêmio Grammy Lifetime Achievement, pelo conjunto de suas obras.",
+ "resumo_en": "Kraftwerk (German pronunciation: [ˈkʁaftvɛʁk] , lit. 'power plant') is a German electronic band formed in Düsseldorf in 1970 by Ralf Hütter and Florian Schneider. Widely considered innovators and pioneers of electronic music, Kraftwerk was among the first successful acts to popularise the genre. The group began as part of West Germany's experimental krautrock scene in the early 1970s before embracing electronic instrumentation, including synthesizers, drum machines, and vocoders. Wolfgang Flür joined in 1973 and Karl Bartos in 1975.\nOn commercially successful albums such as Autobahn (1974), Trans-Europe Express (1977), The Man-Machine (1978), and Computer World (1981), Kraftwerk developed a self-described \"robot pop\" style that combined electronic music with pop melodies, sparse arrangements, and repetitive rhythms, while adopting a stylised image including matching suits. Following the release of Electric Café (1986), Flür left in 1987, followed by Bartos in 1990. Kraftwerk released Tour de France Soundtracks, its most recent studio and concept album, in 2003. Schneider left in 2008 to pursue solo work and died in 2020. Kraftwerk has continued to tour under the leadership of Hütter.\nKraftwerk has influenced a range of artists and genres, including synth-pop, hip-hop, post-punk, techno, house music, ambient, and club music. In 2014, the Recording Academy honoured Kraftwerk with a Grammy Lifetime Achievement Award. The live album 3-D The Catalogue (2017) won the 2018 Grammy Aw",
+ "albuns": [
+  {
+   "id": "47e62190-67b6-3d37-951c-43eb14894b3e",
+   "titulo": "Kraftwerk",
+   "data": "1970-07",
+   "ano": "1970",
+   "capa": "https://coverartarchive.org/release/57ceaa04-f3b1-445c-a7b3-154319f6a3ab/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Ruckzuck",
+     "duracao": "7:50"
+    },
+    {
+     "n": 2,
+     "titulo": "Stratovarius",
+     "duracao": "12:32"
+    },
+    {
+     "n": 3,
+     "titulo": "Megaherz",
+     "duracao": "9:33"
+    },
+    {
+     "n": 4,
+     "titulo": "Vom Himmel hoch",
+     "duracao": "9:59"
+    }
+   ],
+   "duracao_min": 40,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.8,
+    "fontes": 6
+   },
+   "publico": 6.7,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kraftwerk_%28album%29",
+   "resumo_en": "Kraftwerk is the debut studio album by German electronic band Kraftwerk, released in Germany by Philips in November 1970. It was recorded by Ralf Hütter and Florian Schneider, following their departure from Organisation, and produced by Konrad \"Conny\" Plank.\nThe debut, compared to their previous work, showcases a disciplined structure and a motorik-groove development. Since their tour in support of their 1974 album Autobahn, Kraftwerk has not reissued nor performed any of the material from this album.\nRetrospective reviews highlighted its slow and positively primitive approach that denies instant gratification in favor of patience, while others found it \"bleak\" and \"spartan\". The song \"Ruckzuck\" was singled out as the high point, placed on several accolade lists including \"twenty essential Krautrock tracks\" and \"greatest songs recorded by Kraftwerk\". NME ranked Kraftwerk's debut album at the second-to-last place in the band's discography, ahead of Electric Café (1986).",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "b44d78cc-41d7-3f84-b397-4b135a3f7d9d",
+   "titulo": "Kraftwerk 2",
+   "data": "1972-01",
+   "ano": "1972",
+   "capa": "https://coverartarchive.org/release/4e56c217-9ad6-4a72-948a-f862ed48ce29/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Klingklang",
+     "duracao": "17:32"
+    },
+    {
+     "n": 2,
+     "titulo": "Atem",
+     "duracao": "2:53"
+    },
+    {
+     "n": 3,
+     "titulo": "Strom",
+     "duracao": "3:49"
+    },
+    {
+     "n": 4,
+     "titulo": "Spule 4",
+     "duracao": "5:24"
+    },
+    {
+     "n": 5,
+     "titulo": "Wellenlänge",
+     "duracao": "9:37"
+    },
+    {
+     "n": 6,
+     "titulo": "Harmonika",
+     "duracao": "3:18"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6.6,
+   "publico_votos": 7,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kraftwerk_2",
+   "resumo_en": "Kraftwerk 2 is the second studio album by German electronic band Kraftwerk, released in January 1972.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "6d2f3c22-7f2f-3076-9005-96c6540616f7",
+   "titulo": "Ralf & Florian",
+   "data": "1973",
+   "ano": "1973",
+   "capa": "https://coverartarchive.org/release/e4d727d2-e71a-47ee-8203-3ba14c1df659/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Elektrisches Roulette",
+     "duracao": "4:23"
+    },
+    {
+     "n": 2,
+     "titulo": "Tongebirge",
+     "duracao": "2:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Kristallo",
+     "duracao": "6:24"
+    },
+    {
+     "n": 4,
+     "titulo": "Heimatklänge",
+     "duracao": "3:50"
+    },
+    {
+     "n": 5,
+     "titulo": "Tanzmusik",
+     "duracao": "6:38"
+    },
+    {
+     "n": 6,
+     "titulo": "Ananas Symphonie",
+     "duracao": "14:01"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 8.0,
+    "fontes": 1
+   },
+   "publico": 6.3,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ralf_%26_Florian",
+   "resumo_en": "Ralf & Florian is the third studio album by the German electronic band Kraftwerk. It was released in October 1973 on Philips. It saw the group moving toward their signature electronic sound. It reached #160 on the US Top 200 Albums Chart in 1975.\nAlong with Kraftwerk's first two albums, Ralf & Florian to date has never been officially re-issued anywhere, nor has the band played any of its material live since the late '70s. However, the album remains an influential and sought-after work, and bootlegged copies were widely distributed in the 1990s on the Germanofon label. In 2008, Fact named it among the 20 greatest ambient albums ever made.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "f73729e8-4501-3088-aa20-44945296036e",
+   "titulo": "Autobahn",
+   "data": "1974-11",
+   "ano": "1974",
+   "capa": "https://coverartarchive.org/release/a34e7f1c-f1a4-440d-8bd8-66bbdfd9f735/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Autobahn",
+     "duracao": "22:30"
+    },
+    {
+     "n": 2,
+     "titulo": "Kometenmelodie 1",
+     "duracao": "6:20"
+    },
+    {
+     "n": 3,
+     "titulo": "Kometenmelodie 2",
+     "duracao": "5:44"
+    },
+    {
+     "n": 4,
+     "titulo": "Mitternacht",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Morgenspaziergang",
+     "duracao": "4:00"
+    }
+   ],
+   "duracao_min": 42,
+   "critica": {},
+   "publico": 7.3,
+   "publico_votos": 16,
+   "wikipedia": "https://en.wikipedia.org/wiki/Autobahn_%28album%29",
+   "resumo_en": "Autobahn is the fourth studio album by German electronic music band Kraftwerk, released in November 1974 by Philips Records. The album marked several personnel changes in the band, which was initially a duo consisting of Florian Schneider and Ralf Hütter; later, the group added Klaus Röder on guitar and flute, and Wolfgang Flür on percussion. The album also completed the group's transition from the experimental krautrock style of their earlier work to an electropop sound consisting mostly of synthesizers and drum machines. Recording started at the group's own Kling Klang facility, but was predominantly made at Conny Plank's studio. Autobahn also includes lyrics and a new look for the group that was suggested by Emil Schult, an associate of Schneider and Hütter.\nMost of the album is taken up by the 22-minute \"Autobahn\", featuring lyrics by Schneider, Hütter, and Schult. The song was inspired by the group's joy of driving on Germany's autobahns, and recorded music that reflected a trip emulating the sounds of a vehicle. The album's release in West Germany saw little press attention. \"Autobahn\" was released as a single and received airplay at a Chicago radio station, leading it to spr",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "104cc34f-b4f9-3fb1-b2a0-fce32b36ec1f",
+   "titulo": "Radio‐Aktivität",
+   "data": "1975",
+   "ano": "1975",
+   "capa": "https://coverartarchive.org/release/1e8b4073-29ca-42b7-9249-ee16ea96625f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Geiger Counter",
+     "duracao": "1:06"
+    },
+    {
+     "n": 2,
+     "titulo": "Radioactivity",
+     "duracao": "6:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Radioland",
+     "duracao": "5:51"
+    },
+    {
+     "n": 4,
+     "titulo": "Airwaves",
+     "duracao": "4:40"
+    },
+    {
+     "n": 5,
+     "titulo": "Intermission",
+     "duracao": "0:38"
+    },
+    {
+     "n": 6,
+     "titulo": "News",
+     "duracao": "1:17"
+    },
+    {
+     "n": 7,
+     "titulo": "The Voice of Energy",
+     "duracao": "0:54"
+    },
+    {
+     "n": 8,
+     "titulo": "Antenna",
+     "duracao": "3:42"
+    },
+    {
+     "n": 9,
+     "titulo": "Radio Stars",
+     "duracao": "3:33"
+    },
+    {
+     "n": 10,
+     "titulo": "Uranium",
+     "duracao": "1:27"
+    },
+    {
+     "n": 11,
+     "titulo": "Transistor",
+     "duracao": "2:14"
+    },
+    {
+     "n": 12,
+     "titulo": "Ohm Sweet Ohm",
+     "duracao": "5:38"
+    }
+   ],
+   "duracao_min": 38,
+   "critica": {
+    "allmusic": 8.0,
+    "media": 7.7,
+    "fontes": 10
+   },
+   "publico": 7.9,
+   "publico_votos": 12,
+   "wikipedia": "https://en.wikipedia.org/wiki/Radio-Activity",
+   "resumo_en": "Radio-Activity  (German title: Radio-Aktivität) is the fifth studio album by German electronic music band Kraftwerk, released in November 1975. The band's first entirely electronic album is also a concept album organized around the themes of radioactive decay and radio communication. Although the sleeves vary in language, sometimes with English song titles, and sometimes German, the music is always the same, with some lyrics in English and some in German. This is in contrast to the band's later albums, where the lyrics would be rerecorded in each language. The album was accompanied by single release of the title track, which was successful in France and Belgium.",
+   "spotify": null,
+   "youtube": null
+  },
+  {
+   "id": "33101a28-ae05-3a69-873c-684e336fe2df",
+   "titulo": "Trans Europa Express",
+   "data": "1977",
+   "ano": "1977",
+   "capa": "https://coverartarchive.org/release/4a8ca762-d78e-39ec-be31-4b37e098db7f/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Europa Endlos",
+     "duracao": "9:41"
+    },
+    {
+     "n": 2,
+     "titulo": "Spiegelsaal",
+     "duracao": "7:56"
+    },
+    {
+     "n": 3,
+     "titulo": "Schaufensterpuppen",
+     "duracao": "6:15"
+    },
+    {
+     "n": 4,
+     "titulo": "Trans Europa Express",
+     "duracao": "6:35"
+    },
+    {
+     "n": 5,
+     "titulo": "Metall auf Metall",
+     "duracao": "2:10"
+    },
+    {
+     "n": 6,
+     "titulo": "Abzug",
+     "duracao": "4:53"
+    },
+    {
+     "n": 7,
+     "titulo": "Franz Schubert",
+     "duracao": "4:26"
+    },
+    {
+     "n": 8,
+     "titulo": "Endlos Endlos",
+     "duracao": "0:46"
+    }
+   ],
+   "duracao_min": 43,
+   "critica": {
+    "allmusic": 10.0,
+    "media": 9.9,
+    "fontes": 9
+   },
+   "publico": 8.3,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/Trans-Europe_Express_%28album%29",
+   "resumo_en": "Trans-Europe Express (German: Trans Europa Express) is the sixth studio album by German electronic band Kraftwerk. Recorded in 1976 in Düsseldorf, Germany, the album was released in March 1977 on Kling Klang Records. It saw the group refine their melodic electronic style, with a focus on sequenced rhythms, minimalism, and occasionally manipulated vocals. The themes include celebrations of the eponymous European railway service and Europe as a whole, and meditations on the disparities between reality and appearance.\nTrans-Europe Express charted at 119 on the American charts and was ranked number 30 in The Village Voice's 1977 Pazz & Jop critics' poll. Two singles were released: \"Trans-Europe Express\" and \"Showroom Dummies\". The album has been re-released in several formats and continues to receive acclaim as one of the best albums of the 1970s and of all time. In 2014, the Los Angeles Times called it \"the most important pop album of the last 40 years\".",
+   "spotify": "0HHRIVjvBcnTepfeRVgS2f",
+   "youtube": null
+  },
+  {
+   "id": "d147e89b-90ca-35b6-9f7b-3e34b8edf63f",
+   "titulo": "Die Mensch·Maschine",
+   "data": "1978-05",
+   "ano": "1978",
+   "capa": "https://coverartarchive.org/release/5380068c-a40d-446e-9a55-3f7907787084/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "The Robots",
+     "duracao": "6:12"
+    },
+    {
+     "n": 2,
+     "titulo": "Spacelab",
+     "duracao": "5:55"
+    },
+    {
+     "n": 3,
+     "titulo": "Metropolis",
+     "duracao": "6:01"
+    },
+    {
+     "n": 4,
+     "titulo": "The Model",
+     "duracao": "3:43"
+    },
+    {
+     "n": 5,
+     "titulo": "Neon Lights",
+     "duracao": "8:54"
+    },
+    {
+     "n": 6,
+     "titulo": "The Man·Machine",
+     "duracao": "5:32"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 9
+   },
+   "publico": 8.5,
+   "publico_votos": 13,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Man-Machine",
+   "resumo_en": "The Man-Machine (German: Die Mensch-Maschine) is the seventh studio album by German electronic music band Kraftwerk. It was released on 19 May 1978 by Kling Klang in Germany and by Capitol Records elsewhere. A further refinement of their mechanical style, the album saw the group incorporate more immediate songwriting and danceable rhythms, while also incorporating elements of political satire. It addresses a wide-range of themes from the Cold War, Germany's fascination with manufacturing, and humankind's increasingly symbiotic relationship with machines. It includes the singles \"The Model\" and \"The Robots\".\nAlthough the album peaked at 53 initially on the UK Albums Chart, it reached a new peak position of number nine in February 1982, becoming the band's second highest-peaking album in the United Kingdom after Autobahn (1974).",
+   "spotify": "7uywQiWxD6krusHiYqujtF",
+   "youtube": null
+  },
+  {
+   "id": "2e58b620-cf80-3b07-a5bc-edabd69ba285",
+   "titulo": "Computerwelt",
+   "data": "1981",
+   "ano": "1981",
+   "capa": "https://coverartarchive.org/release/0ebce154-0f34-4b5e-a323-c79da032b719/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Computerworld",
+     "duracao": "5:05"
+    },
+    {
+     "n": 2,
+     "titulo": "Pocketcalculator",
+     "duracao": "5:00"
+    },
+    {
+     "n": 3,
+     "titulo": "Numbers",
+     "duracao": "3:00"
+    },
+    {
+     "n": 4,
+     "titulo": "Computerworld 2",
+     "duracao": "3:30"
+    },
+    {
+     "n": 5,
+     "titulo": "Computer Love",
+     "duracao": "7:00"
+    },
+    {
+     "n": 6,
+     "titulo": "Homecomputer",
+     "duracao": "6:00"
+    },
+    {
+     "n": 7,
+     "titulo": "It’s More Fun to Compute",
+     "duracao": "4:15"
+    }
+   ],
+   "duracao_min": 34,
+   "critica": {
+    "allmusic": 9.0,
+    "media": 8.8,
+    "fontes": 9
+   },
+   "publico": 8.4,
+   "publico_votos": 11,
+   "wikipedia": "https://en.wikipedia.org/wiki/Computer_World",
+   "resumo_en": "Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 11 May 1981. It was accompanied by four singles, including a double A-side UK no. 1 featuring \"Computer Love\".\nThe album is themed around computer technology and its rise within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.",
+   "spotify": "2ZYLme9VXn1Eo8JDtfN7Y9",
+   "youtube": null
+  },
+  {
+   "id": "2b04bde9-1bbc-3f6b-b67d-24ad473d8912",
+   "titulo": "Electric Cafe",
+   "data": "1986-11-03",
+   "ano": "1986",
+   "capa": "https://coverartarchive.org/release/02a1b55f-39e8-490b-9551-704a2e7f9707/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Boing Boom Tschak",
+     "duracao": "2:57"
+    },
+    {
+     "n": 2,
+     "titulo": "Techno Pop",
+     "duracao": "7:41"
+    },
+    {
+     "n": 3,
+     "titulo": "Musique Non Stop",
+     "duracao": "5:46"
+    },
+    {
+     "n": 4,
+     "titulo": "The Telephone Call",
+     "duracao": "8:03"
+    },
+    {
+     "n": 5,
+     "titulo": "Sex Object",
+     "duracao": "6:52"
+    },
+    {
+     "n": 6,
+     "titulo": "Electric Cafe",
+     "duracao": "4:16"
+    }
+   ],
+   "duracao_min": 36,
+   "critica": {
+    "allmusic": 6.0,
+    "media": 5.2,
+    "fontes": 6
+   },
+   "publico": 7.1,
+   "publico_votos": 14,
+   "wikipedia": "https://en.wikipedia.org/wiki/Electric_Caf%C3%A9",
+   "resumo_en": "Electric Café is the ninth studio album by German electronic band Kraftwerk, released on 27 October 1986. The initial 1986 release came in versions sung in English and German, as well as a limited Edición Española release, featuring versions of \"Techno Pop\" and \"Sex Object\" with only Spanish lyrics. It was the first Kraftwerk LP to be created using predominantly digital musical instruments, although the finished product was still recorded onto analog master tapes.\nOn 2 October 2009, the album was remastered and re-released under its original working title, Techno Pop.",
+   "spotify": "5eI1RCBGp0yl6tRy29Yiwi",
+   "youtube": null
+  },
+  {
+   "id": "e963cb1e-ec72-303d-9a3f-9fcb89188436",
+   "titulo": "Tour de France Soundtracks",
+   "data": "2003-08-04",
+   "ano": "2003",
+   "capa": "https://coverartarchive.org/release/01459dfb-4366-3647-979f-0e49f140b713/front-250",
+   "faixas": [
+    {
+     "n": 1,
+     "titulo": "Prologue",
+     "duracao": "0:31"
+    },
+    {
+     "n": 2,
+     "titulo": "Tour de France (Etape 1)",
+     "duracao": "4:27"
+    },
+    {
+     "n": 3,
+     "titulo": "Tour de France (Etape 2)",
+     "duracao": "6:40"
+    },
+    {
+     "n": 4,
+     "titulo": "Tour de France (Etape 3)",
+     "duracao": "4:07"
+    },
+    {
+     "n": 5,
+     "titulo": "Chrono",
+     "duracao": "3:27"
+    },
+    {
+     "n": 6,
+     "titulo": "Vitamin",
+     "duracao": "8:09"
+    },
+    {
+     "n": 7,
+     "titulo": "Aero Dynamik",
+     "duracao": "5:04"
+    },
+    {
+     "n": 8,
+     "titulo": "Titanium",
+     "duracao": "3:21"
+    },
+    {
+     "n": 9,
+     "titulo": "Elektro Kardiogramm",
+     "duracao": "5:16"
+    },
+    {
+     "n": 10,
+     "titulo": "La forme",
+     "duracao": "8:41"
+    },
+    {
+     "n": 11,
+     "titulo": "Regeneration",
+     "duracao": "2:04"
+    },
+    {
+     "n": 12,
+     "titulo": "Tour de France",
+     "duracao": "5:08"
+    },
+    {
+     "n": 13,
+     "titulo": "Tour de France 03 (Version 1)",
+     "duracao": "3:28"
+    },
+    {
+     "n": 14,
+     "titulo": "Tour de France 03 (Version 2)",
+     "duracao": "3:25"
+    },
+    {
+     "n": 15,
+     "titulo": "Tour de France 03 (Version 3)",
+     "duracao": "3:36"
+    },
+    {
+     "n": 16,
+     "titulo": "Tour de France 03 (Long Distance Version 2)",
+     "duracao": "7:46"
+    }
+   ],
+   "duracao_min": 75,
+   "critica": {
+    "allmusic": 8.0,
+    "metacritic": 73,
+    "media": 7.2,
+    "fontes": 9
+   },
+   "publico": 7.0,
+   "publico_votos": 6,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_France_Soundtracks",
+   "resumo_en": "Tour de France Soundtracks (renamed to Tour de France for its remastered release) is the eleventh studio album by German electronic music band Kraftwerk. It was first released on 4 August 2003, through Kling Klang and EMI in Europe and Astralwerks in North America. The album was recorded for the 100th anniversary of the first Tour de France bicycle race, although it missed its intended release date for the actual tour. It includes a new recording of their 1983 song of the same name, the cover artwork of both releases being nearly identical. The announcement of the release caused much anticipation, as it had been 17 years since the group had put out a full album of new studio material (1986's Electric Café, also known as Techno Pop). It is also the last studio album to feature Florian Schneider before his departure from the band in 2008 and his death on 21 April 2020.\nThe album received positive reviews from critics and was a commercial success. It reached No. 1 in Germany, No. 21 in the UK, as well as No. 3 in the US dance charts.",
+   "spotify": null,
+   "youtube": null
+  }
+ ]
+}
