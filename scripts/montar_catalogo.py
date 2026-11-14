@@ -116,11 +116,23 @@ def achar_artista(nome: str, dica: str) -> dict | None:
     return melhor
 
 
+def em_cache(caminho: str, **params) -> dict | None:
+    """Resposta do MusicBrainz já guardada em .cache/, sem ir à rede."""
+    url, params = f"{MB}/{caminho}", {**params, "fmt": "json"}
+    arquivo = CACHE / f"{hashlib.sha1((url + json.dumps(params, sort_keys=True)).encode()).hexdigest()}.json"
+    return json.loads(arquivo.read_text(encoding="utf-8")) if arquivo.exists() else None
+
+
 def albuns_de_estudio(mbid: str) -> list[dict]:
+    """Discos de estúdio. O filtro release-group-status=website-default já tira os grupos que só têm edições piratas,
+    o que poupa uma consulta por pirata (os Beatles caem de 705 grupos para 187). Respostas antigas, guardadas sem o
+    filtro, continuam valendo: os piratas delas saem depois, por não terem edição oficial."""
     grupos, offset = [], 0
     while True:
-        pag = mb("release-group", fresco=RENOVAR, artist=mbid, type="album", inc="ratings", limit=100,
-                 offset=offset) or {}
+        base = {"artist": mbid, "type": "album", "inc": "ratings", "limit": 100, "offset": offset}
+        antiga = None if RENOVAR else em_cache("release-group", **base)
+        pag = antiga if antiga is not None else (
+            mb("release-group", fresco=RENOVAR, **base, **{"release-group-status": "website-default"}) or {})
         grupos += pag.get("release-groups", [])
         offset += 100
         if offset >= pag.get("release-group-count", 0):
