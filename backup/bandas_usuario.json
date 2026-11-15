@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "banda_id": "abba",
+  "conheco": false,
+  "gosto": -1,
+  "atualizado_em": "2026-11-14T18:15:17.547993+00:00",
+  "quero_ouvir": false
+ },
+ {
+  "banda_id": "ac-dc",
+  "conheco": true,
+  "gosto": -1,
+  "atualizado_em": "2026-11-14T15:28:08.540041+00:00",
+  "quero_ouvir": false
+ },
+ {
+  "banda_id": "angra",
+  "conheco": true,
+  "gosto": 1,
+  "atualizado_em": "2026-11-14T15:11:41.848522+00:00",
+  "quero_ouvir": false
+ },
+ {
+  "banda_id": "faith-no-more",
+  "conheco": true,
+  "gosto": 1,
+  "atualizado_em": "2026-11-14T16:36:07.04098+00:00",
+  "quero_ouvir": false
+ }
+]

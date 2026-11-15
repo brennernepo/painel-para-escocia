@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "album_id": "1428e1d2-119e-3739-bee7-42bb6835a7f9",
+  "banda_id": "faith-no-more",
+  "conheco": false,
+  "escutei": false,
+  "nota": null,
+  "quero_ouvir": false,
+  "favorito": true,
+  "faixa_favorita": null,
+  "comentario": null,
+  "escutado_em": null,
+  "atualizado_em": "2026-11-14T16:37:26.603761+00:00",
+  "em_rotacao": false
+ },
+ {
+  "album_id": "503e5b85-df2a-365a-82e4-32ca30538d8d",
+  "banda_id": "faith-no-more",
+  "conheco": true,
+  "escutei": true,
+  "nota": 8.5,
+  "quero_ouvir": false,
+  "favorito": false,
+  "faixa_favorita": "RV",
+  "comentario": null,
+  "escutado_em": null,
+  "atualizado_em": "2026-11-14T16:37:15.24018+00:00",
+  "em_rotacao": false
+ }
+]
