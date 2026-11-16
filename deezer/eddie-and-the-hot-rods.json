@@ -1,14 +1,14 @@
 {
  "artista": {
   "id": 12534,
-  "fas": 4200,
+  "fas": 4201,
   "foto": "https://cdn-images.dzcdn.net/images/artist/5d912b558398077fc124496b8740a0ea/500x500-000000-80-0-0.jpg"
  },
  "parecidas": [
   {
    "nome": "New York Dolls",
    "deezer": 4970,
-   "fas": 33505,
+   "fas": 33514,
    "foto": "https://cdn-images.dzcdn.net/images/artist/36c3c100c3248b88463ad983f50ffd60/250x250-000000-80-0-0.jpg"
   },
   {
@@ -20,55 +20,55 @@
   {
    "nome": "Johnny Thunders",
    "deezer": 79776,
-   "fas": 9761,
+   "fas": 9764,
    "foto": "https://cdn-images.dzcdn.net/images/artist/fd2716bcf812deee3fa003114248d800/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "The Dictators",
    "deezer": 64510,
-   "fas": 3522,
+   "fas": 3523,
    "foto": "https://cdn-images.dzcdn.net/images/artist/e80472daab6172e4171b0a42b13432e8/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "Radio Birdman",
    "deezer": 4232,
-   "fas": 4072,
+   "fas": 4075,
    "foto": "https://cdn-images.dzcdn.net/images/artist/2a55d8e1a0a3b4830449f13cf8ac0993/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "Generation X",
    "deezer": 190652,
-   "fas": 10882,
+   "fas": 10893,
    "foto": "https://cdn-images.dzcdn.net/images/artist/41888469487dd526f9e8cfb0ff5b0984/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "The Vibrators",
    "deezer": 7984,
-   "fas": 7200,
+   "fas": 7204,
    "foto": "https://cdn-images.dzcdn.net/images/artist/866aa9133d4e1cfdeb80394bd9c9ee87/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "The Damned",
    "deezer": 6415,
-   "fas": 42918,
+   "fas": 42931,
    "foto": "https://cdn-images.dzcdn.net/images/artist/52d9634869fd28df7ba489a9b2ee71ef/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "Ian Dury",
    "deezer": 450721,
-   "fas": 10651,
+   "fas": 10654,
    "foto": "https://cdn-images.dzcdn.net/images/artist/2bae115bb1b35196de2a64b7d8a7a9ea/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "Flamin' Groovies",
    "deezer": 66993,
-   "fas": 5420,
+   "fas": 5423,
    "foto": "https://cdn-images.dzcdn.net/images/artist/1e362a05abfb2acd512c179652366278/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "The Jam",
    "deezer": 3944,
-   "fas": 239776,
+   "fas": 239789,
    "foto": "https://cdn-images.dzcdn.net/images/artist/eac1682ebd3f0d6a9990df4a78045109/250x250-000000-80-0-0.jpg"
   },
   {
@@ -80,7 +80,7 @@
   {
    "nome": "Stiff Little Fingers",
    "deezer": 100553,
-   "fas": 25406,
+   "fas": 25416,
    "foto": "https://cdn-images.dzcdn.net/images/artist/c9184d005a480cd78510ec6ecd1eba95/250x250-000000-80-0-0.jpg"
   },
   {
@@ -92,25 +92,25 @@
   {
    "nome": "Dr. Feelgood",
    "deezer": 369162422,
-   "fas": 1008,
-   "foto": "https://cdn-images.dzcdn.net/images/artist/2270f8731ccfab0aee551e0cb8c9ddf5/250x250-000000-80-0-0.jpg"
+   "fas": 1013,
+   "foto": "https://cdn-images.dzcdn.net/images/artist/04ca5aaf57fac38843fe4a22bf5e4a55/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "The Saints",
    "deezer": 55099,
-   "fas": 6753,
+   "fas": 6754,
    "foto": "https://cdn-images.dzcdn.net/images/artist/b122874bce79b299055b02b716431a90/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "Iggy & the Stooges",
    "deezer": 4255,
-   "fas": 36957,
+   "fas": 36962,
    "foto": "https://cdn-images.dzcdn.net/images/artist/28c58586cb77ddd9caec4bed4d8dbee6/250x250-000000-80-0-0.jpg"
   },
   {
    "nome": "The Stooges",
    "deezer": 1610,
-   "fas": 110374,
+   "fas": 110395,
    "foto": "https://cdn-images.dzcdn.net/images/artist/8e2ec19ce739191647d8d3e4ee5cb532/250x250-000000-80-0-0.jpg"
   },
   {
@@ -122,11 +122,15 @@
   {
    "nome": "MC5",
    "deezer": 8986,
-   "fas": 20750,
+   "fas": 20758,
    "foto": "https://cdn-images.dzcdn.net/images/artist/bf0f11dd1808738e115be096aefc5c4c/250x250-000000-80-0-0.jpg"
   }
  ],
  "albuns": {
+  "254508b7-bb94-3f9a-80b7-2b19b3b45fc4": {
+   "id": 161752,
+   "capa": "https://cdn-images.dzcdn.net/images/cover/d26d6b96101493d09b348aa9114c1b33/250x250-000000-80-0-0.jpg"
+  },
   "f12ea90b-cbdd-301b-8286-6f603cca34a6": {
    "id": 161754,
    "capa": "https://cdn-images.dzcdn.net/images/cover/c16a0f2a2a3f0e05e490c9e3a56460d0/250x250-000000-80-0-0.jpg"
