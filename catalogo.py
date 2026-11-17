@@ -64,7 +64,12 @@ def carregar(versao: str = "") -> dict:  # noqa: ARG001  (versao só serve de ch
         textos[f.stem] = json.loads(f.read_text(encoding="utf-8"))
     deezer = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (RAIZ / "deezer").glob("*.json")}
     # história de cada disco e significado das faixas: historias/<banda>/<id do álbum>.json
-    historias = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (RAIZ / "historias").glob("*/*.json")}
+    historias = {}
+    for f in (RAIZ / "historias").glob("*/*.json"):
+        try:
+            historias[f.stem] = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError:  # arquivo pego no meio da escrita: fica para a próxima publicação
+            continue
     arq_extras = RAIZ / "extras.json"  # listas famosas e prêmios (scripts/listas_e_premios.py)
     extras = json.loads(arq_extras.read_text(encoding="utf-8")) if arq_extras.exists() else {}
     hoje = date.today().isoformat()
