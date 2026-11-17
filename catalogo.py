@@ -47,6 +47,10 @@ def versao_dos_dados() -> str:
     for pasta in ("catalogo", "textos", "deezer"):
         if (RAIZ / pasta).exists():
             partes += [f"{pasta}/{e.name}:{e.stat().st_size}:{e.stat().st_mtime_ns}" for e in os.scandir(RAIZ / pasta)]
+    for raiz, _, arquivos in os.walk(RAIZ / "historias"):
+        for nome in arquivos:
+            st_ = os.stat(os.path.join(raiz, nome))
+            partes.append(f"h/{nome}:{st_.st_size}:{st_.st_mtime_ns}")
     extras = RAIZ / "extras.json"
     if extras.exists():
         partes.append(f"extras:{extras.stat().st_size}:{extras.stat().st_mtime_ns}")
@@ -59,6 +63,8 @@ def carregar(versao: str = "") -> dict:  # noqa: ARG001  (versao só serve de ch
     for f in (RAIZ / "textos").glob("*.json"):
         textos[f.stem] = json.loads(f.read_text(encoding="utf-8"))
     deezer = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (RAIZ / "deezer").glob("*.json")}
+    # história de cada disco e significado das faixas: historias/<banda>/<id do álbum>.json
+    historias = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (RAIZ / "historias").glob("*/*.json")}
     arq_extras = RAIZ / "extras.json"  # listas famosas e prêmios (scripts/listas_e_premios.py)
     extras = json.loads(arq_extras.read_text(encoding="utf-8")) if arq_extras.exists() else {}
     hoje = date.today().isoformat()
@@ -87,6 +93,11 @@ def carregar(versao: str = "") -> dict:  # noqa: ARG001  (versao só serve de ch
             a["deezer"] = (dz_albuns.get(a["id"]) or {}).get("id")
             a["capa_reserva"] = (dz_albuns.get(a["id"]) or {}).get("capa")
             a["listas"] = extras.get("albuns", {}).get(a["id"], [])
+            h = historias.get(a["id"], {})
+            a["historia"] = h.get("historia")
+            significados = h.get("faixas", {})
+            for faixa in a["faixas"]:
+                faixa["significado"] = significados.get(str(faixa["n"]))
             a["nota_critica"] = nota_critica(a.get("critica") or {})
         notas = [a["nota_critica"] for a in b["albuns"] if a["nota_critica"] is not None]
         melhor = max([a for a in b["albuns"] if not a["futuro"]], key=lambda a: (a["nota_critica"] or a.get("publico") or 6)

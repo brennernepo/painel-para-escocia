@@ -10,7 +10,8 @@ import streamlit.components.v1 as componentes
 
 import banco
 from catalogo import albuns_por_id, carregar, slug, versao_dos_dados
-from estilo import CSS, anos, capa, chips, data_br, enderecos, foto_banda, html, links_ouvir, nota_fmt, situacao
+from estilo import (CSS, anos, capa, chips, data_br, enderecos, foto_banda, html, links_ouvir, lista_faixas, nota_fmt,
+                    situacao)
 
 st.set_page_config(page_title="Discoteca", page_icon="💿", layout="wide")
 st.html(CSS)
@@ -118,9 +119,14 @@ def ficha_md(a: dict) -> str:
         linhas += ["", "## O que achei", "", e["comentario"]]
     if a.get("curiosidade"):
         linhas += ["", "## Curiosidade", "", a["curiosidade"]]
+    if a.get("historia"):
+        linhas += ["", "## A história do disco", "", a["historia"]]
     if a["faixas"]:
-        linhas += ["", "## Faixas", ""] + [f"{f['n']}. {f['titulo']}" + (f" ({f['duracao']})" if f["duracao"] else "")
-                                           for f in a["faixas"]]
+        linhas += ["", "## Faixas", ""]
+        for f in a["faixas"]:
+            linhas.append(f"{f['n']}. {f['titulo']}" + (f" ({f['duracao']})" if f["duracao"] else ""))
+            if f.get("significado"):
+                linhas.append(f"   {f['significado']}")
     return "\n".join(linhas) + "\n"
 
 
@@ -210,11 +216,13 @@ def bloco_album(a: dict, banda: dict, com_banda: bool = False) -> None:
                     f'<div class="album-meta">{escape(meta)}</div>{chips_album(a)}{curio}'
                     f'{links_ouvir(banda["nome"], a)}')
         player(a, c_info)
+        if a.get("historia"):
+            with c_info.expander("A história do disco"):
+                st.html(f'<div class="historia">{escape(a["historia"])}</div>')
         if a["faixas"]:
-            with c_info.expander(f"Faixas ({len(a['faixas'])})"):
-                st.html('<div class="faixas">' + "".join(
-                    f'<div><b>{f["n"]}</b>{escape(f["titulo"])} <span>{f["duracao"] or ""}</span></div>'
-                    for f in a["faixas"]) + "</div>")
+            com_sig = sum(1 for f in a["faixas"] if f.get("significado"))
+            with c_info.expander(f"Faixas ({len(a['faixas'])})" + (" · com significados" if com_sig else "")):
+                st.html(lista_faixas(banda["nome"], a, banco.album(a["id"]).get("faixa_favorita")))
         with c_ctrl:
             controles_album(a)
 
@@ -466,17 +474,18 @@ def pagina_album() -> None:
                 f'<div class="cabeca" style="margin:0"><div class="nome" style="font-size:52px">{escape(a["titulo"])}</div></div>'
                 f'<div class="album-meta">{escape(meta)}</div>{chips_album(a)}{curio}{links_ouvir(b["nome"], a)}')
     player(a, c_info)
-    if a.get("resumo_en"):
+    if a.get("historia"):
+        html('<div class="rotulo">A história do disco</div>')
+        html(f'<div class="historia">{escape(a["historia"])}</div>')
+    elif a.get("resumo_en"):
         with c_info.expander("Sobre o disco (Wikipedia, em inglês)"):
             st.write(a["resumo_en"])
     c_faixas, c_meu = st.columns([2.2, 1.6], gap="large")
     with c_faixas:
         html('<div class="rotulo">Faixas</div>')
         if a["faixas"]:
-            fav = banco.album(a["id"]).get("faixa_favorita")
-            st.html('<div class="faixas" style="columns:1">' + "".join(
-                f'<div><b>{f["n"]}</b>{"❤ " if f["titulo"] == fav else ""}{escape(f["titulo"])} <span>{f["duracao"] or ""}</span></div>'
-                for f in a["faixas"]) + "</div>")
+            st.html(lista_faixas(b["nome"], a, banco.album(a["id"]).get("faixa_favorita")))
+            st.caption("O link “letra” abre a música no letras.com, com a letra e, quando houver, a página de significado.")
         else:
             st.caption("Sem a lista de faixas no MusicBrainz.")
     with c_meu:

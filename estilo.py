@@ -52,6 +52,15 @@ html, body, .stApp, .stMarkdown, p, label, input, textarea, button { font-family
 .links a { color:var(--ambar) !important; text-decoration:none; margin-right:12px; }
 .links a:hover { text-decoration:underline; }
 .links.compacto { font-size:12px; margin-top:3px; }
+.historia { color:var(--txt); font-size:15px; line-height:1.7; max-width:860px; white-space:pre-line; }
+.lista-faixas { font-size:14px; }
+.lista-faixas .faixa { padding:7px 0; border-bottom:1px solid var(--linha); }
+.lista-faixas .cab { display:flex; gap:10px; align-items:baseline; }
+.lista-faixas .cab b { color:var(--txt3); font-weight:500; min-width:22px; }
+.lista-faixas .cab .t { color:var(--txt); flex:1; }
+.lista-faixas .cab .d { color:var(--txt3); font-size:12.5px; }
+.lista-faixas .cab a { color:var(--ambar) !important; font-size:12px; text-decoration:none; white-space:nowrap; }
+.lista-faixas .sig { color:var(--txt2); font-size:13.5px; line-height:1.55; margin:4px 0 0 32px; }
 .links.compacto a { margin-right:9px; }
 a.capa-link { display:block; flex:none; }
 a.capa-link:hover .moldura { outline:2px solid var(--ambar); }
@@ -153,6 +162,25 @@ def links_ouvir(banda: str, a: dict, compacto: bool = False) -> str:
     if a.get("wikipedia") and not compacto:
         partes.append(f'<a href="{escape(a["wikipedia"])}" target="_blank">Wikipedia</a>')
     return f'<div class="links{" compacto" if compacto else ""}">▶ Ouvir: ' + "".join(partes) + "</div>"
+
+
+def link_letra(banda: str, faixa: str) -> str:
+    """Busca da música no letras.com, que mostra a letra e, quando existe, a página de significado."""
+    return f"https://www.letras.mus.br/?q={quote(f'{banda} {faixa}')}"
+
+
+def lista_faixas(banda: str, a: dict, favorita: str | None = None) -> str:
+    """Faixas com duração, link da letra e, quando há, o significado escrito para o app."""
+    linhas = []
+    for f in a["faixas"]:
+        coracao = "❤ " if favorita and f["titulo"] == favorita else ""
+        sig = f'<div class="sig">{escape(f["significado"])}</div>' if f.get("significado") else ""
+        linhas.append(
+            f'<div class="faixa"><div class="cab"><b>{f["n"]}</b><span class="t">{coracao}{escape(f["titulo"])}</span>'
+            f'<span class="d">{f["duracao"] or ""}</span>'
+            f'<a href="{escape(link_letra(banda, f["titulo"]))}" target="_blank" title="Letra no letras.com">letra ↗</a>'
+            f'</div>{sig}</div>')
+    return '<div class="lista-faixas">' + "".join(linhas) + "</div>"
 
 
 def data_br(data: str) -> str:
